@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SGER:  Detecting and Maintaining Evolving Regions from Spatially and Temporally Varying Observations for Monitoring and Alerting]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>90000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maria Zemankova</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[With the proliferation of wireless sensor networks and mobile devices enabled by global positioning systems (GPSs), the volume of real-time geo-referenced streams being collected is large and continues to increase. Individual readings from sensors represent discrete sampling points, whereas the phenomena that sensor networks monitor (e.g., floods, fires, and ocean currents) are often spatially and temporally continuous. &lt;br/&gt;&lt;br/&gt;This project aims at bridging the impedance mismatch of discrete sensor readings and the continuous phenomena. Specifically, we will explore incremental methods to detect and maintain evolving regions from discrete sensor readings in real time. This task is challenging and risky because (1) human intervention, which is important for region detection, needs to be minimal for the targeted monitoring applications; and (2) the alerting nature requires real-time responses, especially in disastrous situations when volumes of data are often high. The quality of service (QoS) requirement in terms of response time and accuracy of the regions detected needs to be balanced.&lt;br/&gt;&lt;br/&gt;A novel idea of virtual sensor insertion will be explored to improve the accuracy of region detection. To reduce human intervention, the system will be equipped with a learning ability by using and maintaining statistics needed for incremental polygonization. Measurements in information retrieval will be explored creatively for identifying qualitative region evolvements and creating region evolvement graph, which will result in a reduced number of alerts sent to users.&lt;br/&gt;&lt;br/&gt;The expected results will bridge the semantic gap of discrete readings and natural phenomena as well as provide a foundation for future work in geo-stream processing. Once the results are integrated into a geo-stream processing system, users can monitor evolving regions without being confined to querying discrete readings. The work will help sustain the growth of and support important time-critical applications such as disaster response and surveillance. Graduate students will be trained on various aspects of geo-stream processing. The project Web site (http://www.cse.unt.edu/~huangyan/eRegion) will be used for results dissemination.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/18/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>02/26/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0844342</AwardID>
+<Investigator>
+<FirstName>Yan</FirstName>
+<LastName>Huang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yan Huang</PI_FULL_NAME>
+<EmailAddress><![CDATA[huangyan@unt.edu]]></EmailAddress>
+<NSF_ID>000381083</NSF_ID>
+<StartDate>08/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Texas</Name>
+<CityName>DENTON</CityName>
+<ZipCode>762035017</ZipCode>
+<PhoneNumber>9405653940</PhoneNumber>
+<StreetAddress>1155 UNION CIR #305250</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX26</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G47WN1XZNWX9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NORTH TEXAS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>WXELJHR4N3S6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of North Texas]]></Name>
+<CityName>DENTON</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>762035017</ZipCode>
+<StreetAddress><![CDATA[1155 UNION CIR #305250]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX26</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>Info Integration &amp; Informatics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9237</Code>
+<Text>SMALL GRANTS-EXPLORATORY RSRCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~90000</FUND_OBLG>
+</Award>
+</rootTag>

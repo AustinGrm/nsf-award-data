@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[US-India Planning Visit:   Collaborative Research Project on the Statistical Mechanics of Granular Materials]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>3850.00</AwardTotalIntnAmount>
+<AwardAmount>3850</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marjorie Lueck</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[0819676&lt;br/&gt;Bulbul Chakraborty&lt;br/&gt;&lt;br/&gt;This award supports the US-India Planning Visit: Collaborative Research on the Statistical Mechanics of Granular Materials.  US PI Chakraborty of Brandeis University will visit Professor Deepak Dhar, Tata Institute of Fundamental Research, Mumbai and Professors Chandan Dasgupta and Sriram Ramaswamy, Indian Institute of Sciences, Bangalore.  They will finalize a collaboration on developing a theoretical framework to  describe collective properties of granular assemblies and the jamming transition.  The Indian collaborators are leading theorists in the field of non-equilibrium statistical mechanics and disordered systems at two well-known research institutions in India.  The topics they will address fall within the theory of granular systems and are closely related to Chakraborty?s current research supported by DMR (0549762).  This planning visit will not only add an international component to the current grant, but will extend its  scope and add high intellectual value through collaboration with renowned Indian scientists.&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>04/04/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/04/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.079</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0819676</AwardID>
+<Investigator>
+<FirstName>Bulbul</FirstName>
+<LastName>Chakraborty</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bulbul Chakraborty</PI_FULL_NAME>
+<EmailAddress><![CDATA[bulbul@brandeis.edu]]></EmailAddress>
+<NSF_ID>000183092</NSF_ID>
+<StartDate>04/04/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Brandeis University</Name>
+<CityName>WALTHAM</CityName>
+<ZipCode>024532728</ZipCode>
+<PhoneNumber>7817362121</PhoneNumber>
+<StreetAddress>415 SOUTH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MXLZGAMFEKN5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BRANDEIS UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Brandeis University]]></Name>
+<CityName>WALTHAM</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>024532728</ZipCode>
+<StreetAddress><![CDATA[415 SOUTH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0106000</Code>
+<Name>Materials Research</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7299</Code>
+<Text>Catalyzing New Intl Collab</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5919</Code>
+<Text>INDIA (COOPERATIVE SCIENCE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5976</Code>
+<Text>AFRICA, NEAR EAST, &amp; SO ASIA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9161</Code>
+<Text>SINGLE DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>AMPP</Code>
+<Text>ADVANCED MATERIALS &amp; PROCESSING PROGRAM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~3850</FUND_OBLG>
+</Award>
+</rootTag>

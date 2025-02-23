@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Extended Life Implantable Biosensor Platform]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>165000.00</AwardTotalIntnAmount>
+<AwardAmount>165000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lawrence Goldberg</SignBlockName>
+<PO_EMAI>lgoldber@nsf.gov</PO_EMAI>
+<PO_PHON>7032928339</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Objective:&lt;br/&gt;The objective is to develop a microfabricated biosensing platform based on Glucose Binding Protein (GBP) that continuously and reliably measures glucose levels in the hypoglycemic, normal, and hyperglycemic range.  The platform will consist of three components: a glucose-sensing array based on the electrochemical detection of glucose using the model enzyme glucose oxidase (GOx), an independent power supply, and a telemetry system.  The performance of this biosensing array will be compared with that of the well-established GOx glucose biosensor.&lt;br/&gt; &lt;br/&gt;Intellectual Merit:&lt;br/&gt;The project has significance beyond blood glucose monitoring, since identical miniaturized biosensing platforms can be utilized for other applications with a wide range of other biosensors.  In addition, multiple sensors selective to a series of analytes can be incorporated in different reservoirs within a single device, allowing the measurement of multiple analytes.  Moreover, this platform can be utilized as a responsive drug delivery system.  Such a system integrates reservoirs loaded with miniature sensors with drug-containing reservoirs.  Finally, the proposed platforms should result in enabling technologies that will find applications in individualized medicine.&lt;br/&gt; &lt;br/&gt;Broader Impact:&lt;br/&gt;The work will involve students at both, the graduate and undergraduate levels.  Such work will foster interdisciplinary interactions and will provide the students with the necessary skills and knowledge for the design and development of novel biotechnologies.  The investigators plan to broadly disseminate the results of this work and raise the awareness of the general public in diabetes research, biosensing, hybrid systems, and device miniaturization.  This will be accomplished through participation in workshops and outreach programs.  The newly developed technologies will be highlighted in bioengineering courses.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>05/30/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/22/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0801778</AwardID>
+<Investigator>
+<FirstName>Sylvia</FirstName>
+<LastName>Daunert</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sylvia Daunert</PI_FULL_NAME>
+<EmailAddress><![CDATA[sdaunert@med.miami.edu]]></EmailAddress>
+<NSF_ID>000328622</NSF_ID>
+<StartDate>05/30/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Kentucky Research Foundation</Name>
+<CityName>LEXINGTON</CityName>
+<ZipCode>405260001</ZipCode>
+<PhoneNumber>8592579420</PhoneNumber>
+<StreetAddress>500 S LIMESTONE 109 KINKEAD HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<StateCode>KY</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KY06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H1HYA8Z1NTM5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF KENTUCKY RESEARCH FOUNDATION, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QUKNKLZ4N889</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Kentucky Research Foundation]]></Name>
+<CityName>LEXINGTON</CityName>
+<StateCode>KY</StateCode>
+<ZipCode>405260001</ZipCode>
+<StreetAddress><![CDATA[500 S LIMESTONE 109 KINKEAD HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KY06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0510403</Code>
+<Name>Engineering &amp; Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7564</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>099E</Code>
+<Text>High voltage switching &amp; conversion</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0110</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001011DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~51524</FUND_OBLG>
+<FUND_OBLG>2009~25440</FUND_OBLG>
+<FUND_OBLG>2010~0</FUND_OBLG>
+</Award>
+</rootTag>

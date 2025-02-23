@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RUI: Investigation of Atomic Dipole Traps Created by Diffraction of Laser Light for Use in Quantum Computing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010100</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ann Orel</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;The objective of this project is to investigate a new light pattern as a possible solution to the "addressability problem" of neutral atom quantum computing. Quantum computers are theoretical devices that exploit the fundamental rules of quantum mechanics for the purposes of computation.  They would be massively parallel on a scale unmatched by current conventional computers and could also perform certain calculations exponentially faster. Because of this technological promise, and despite many challenges, a major effort is being made by the physics community to develop a functioning quantum computer by investigating several viable schemes. One of these schemes, neutral atom quantum computing, uses cold atoms trapped in a light pattern. The only remaining problem with the neutral atom approach to quantum computing is finding a light pattern that allows the storage of single atoms in a large array of sites that can be individually addressed for quantum operations using a focused laser beam. In this project, a novel solution to this problem is investigated: the light pattern formed behind a two-dimensional array of pinholes will be explored computationally and experimentally as a viable quantum memory (i.e. large array of atoms) with single-site addressbility.&lt;br/&gt;&lt;br/&gt;The broader impact of this work is to provide undergraduate students with the opportunity to get involved in cutting-edge research. The physics department at Cal Poly is a purely undergraduate department, so all tasks will be performed by undergraduate students. Both the PI and the Co-PI have a record of attracting students from traditionally underrepresented groups in science. Students will construct and perform the cold atom experiments and assist with developing computer simulations of the traps. The project aims to stir the students' interest in scientific research and teach them laboratory, computational, and critical thinking skills that will help them start a scientific career or any other chosen career path.&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/03/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/03/2009</MaxAmdLetterDate>
+<ARRAAmount>200000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855524</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Gutierrez</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thomas D Gutierrez</PI_FULL_NAME>
+<EmailAddress><![CDATA[tdgutier@calpoly.edu]]></EmailAddress>
+<NSF_ID>000448779</NSF_ID>
+<StartDate>08/03/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Katharina</FirstName>
+<LastName>Gillen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Katharina Gillen</PI_FULL_NAME>
+<EmailAddress><![CDATA[kgillen@calpoly.edu]]></EmailAddress>
+<NSF_ID>000511687</NSF_ID>
+<StartDate>08/03/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California Polytechnic State University Foundation</Name>
+<CityName>SAN LUIS OBISPO</CityName>
+<ZipCode>934079000</ZipCode>
+<PhoneNumber>8057562982</PhoneNumber>
+<StreetAddress>1 GRAND AVE BLDG 15</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MC4RJJM9XLT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CAL POLY CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[California Polytechnic State University]]></Name>
+<CityName>SAN LUIS OBISPO</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>934079000</ZipCode>
+<StreetAddress><![CDATA[1 GRAND AVE BLDG 15]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA24</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1291</Code>
+<Text>ATOMIC &amp; MOLECULAR DYNAMICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6863</Code>
+<Text>SEBML-MOORE'S LAW</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~200000</FUND_OBLG>
+</Award>
+</rootTag>

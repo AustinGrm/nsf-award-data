@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SGER: Nanoparticle Incorporated Transferable Wrinkle Free Films</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>65932.00</AwardTotalIntnAmount>
+<AwardAmount>65932</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dennis Robert Carter</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>The research objective of this project is to perform the preliminary work developing the nanothin transferable wrinkle-free polymeric composite films capable of preventing or unfolding the wrinkles or folds in human skin. Recently, the investigator has demonstrated how the incorporation of nanoparticles into multilayer polymer films can prevent the film from wrinkling when compressed or heated to high temperatures. Based on the discovery, the investigator is proposing the next step toward the actual development of a nanoscale transferable wrinkle-preventing film. The fundamental aspects of the nanocomposite film design principle, process, adhesion, transfer, durability, and stress will be systematically studied. &lt;br/&gt;&lt;br/&gt;If successful, the developed nanoscale functional film may completely remove or alleviate all undesired wrinkles or folds in a human's skin. Therefore, the proposed work is an emerging and potentially transformative research idea.  For the feasibility of this high risk but high impact research, pre-wrinkled or folded artificial skin made of polymers will be tested first, before animal or human skin testing.  Later further work will involve investigation using animal or human skin test with specialists.  A functional film capable of unfolding wrinkles or preventing wrinkles has a broad range of potential impacts in microelectronic devices, implantable biofilms, artificial skin, tissue scaffolds, as well as cosmetic and anti-wrinkling applications.  The project will also have a significant education component, through training of graduate and undergraduate research participants, as well as through formal coursework. Knowledge gained through the research will be disseminated by the investigator through a new Molecular Self-Assembly and Engineering course. Nanoscale processing, dispersion, and characterization will be incorporated into a chemical engineering junior laboratory course which is being renovated by the investigator. Results of the research will be disseminated through conference presentations, journal publications, and a website developed for this project.</AbstractNarration>
+<MinAmdLetterDate>06/20/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/20/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0832730</AwardID>
+<Investigator>
+<FirstName>Ilsoon</FirstName>
+<LastName>Lee</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ilsoon Lee</PI_FULL_NAME>
+<EmailAddress>leeil@egr.msu.edu</EmailAddress>
+<PI_PHON>5173559291</PI_PHON>
+<NSF_ID>000237989</NSF_ID>
+<StartDate>06/20/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Michigan State University</Name>
+<CityName>EAST LANSING</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress>426 AUDITORIUM RD RM 2</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>R28EKN92ZTZ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MICHIGAN STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VJKZC4D1JN36</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>EAST LANSING</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>488242600</ZipCode>
+<StreetAddress><![CDATA[426 AUDITORIUM RD RM 2]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0107000</Code>
+<Name>Operations Research</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1630</Code>
+<Text>Mechanics of Materials and Str</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7479</Code>
+<Text>BMMB-Biomech &amp; Mechanobiology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>028E</Code>
+<Text>BIOMECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~65932</FUND_OBLG>
+</Award>
+</rootTag>

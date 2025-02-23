@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Purchase of a Cyber-enabled X-Ray Microdiffractometer for the NYC Region</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>350000.00</AwardTotalIntnAmount>
+<AwardAmount>350000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090002</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos Murillo</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;With this award from the Chemistry Research Instrumentation and Facilities Multiuser Program (CRIF:MU), Professor Nicholas E. Geacintov and colleague Michael D. Ward from New York University will acquire a cyber-enabled X-ray microdiffractometer with a 2-dimensional GADDS (General Area Detector Diffraction System) detector. This instrument will be configured to deliver a tightly collimated monochromatic beam with spot diameters ranging from 10 - 1000 micrometers to allow structural characterization of single-crystal and polycrystalline compounds with a high degree of spatial resolution. This instrument will support research in an array of areas such as epitaxial crystallization, polymorphism, biomineral microcrystals, peptoid-based materials, copolymers, metal-organic arrays, biomimetics, bioactive ceramics, organic conductors, molecular magnets, and molecular arrays.&lt;br/&gt;&lt;br/&gt;An X-ray diffractometer allows accurate and precise measurements of the full three dimensional structure of a molecule, including bond distances and angles, and provides accurate information about the spatial arrangement of a molecule relative to neighboring molecules. The studies described here will impact a number of areas, including chemistry, materials chemistry and biochemistry. This instrument will be an integral part of teaching as well as research.</AbstractNarration>
+<MinAmdLetterDate>07/26/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/26/2009</MaxAmdLetterDate>
+<ARRAAmount>350000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0840277</AwardID>
+<Investigator>
+<FirstName>Nicholas</FirstName>
+<LastName>Geacintov</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nicholas E Geacintov</PI_FULL_NAME>
+<EmailAddress>nicholas.geacintov@nyu.edu</EmailAddress>
+<PI_PHON>2129988407</PI_PHON>
+<NSF_ID>000129605</NSF_ID>
+<StartDate>07/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Ward</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael D Ward</PI_FULL_NAME>
+<EmailAddress>mdw3@nyu.edu</EmailAddress>
+<PI_PHON>2129988439</PI_PHON>
+<NSF_ID>000178974</NSF_ID>
+<StartDate>07/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQ S</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NX9PXMKW5KW8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW YORK UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NX9PXMKW5KW8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100121019</ZipCode>
+<StreetAddress><![CDATA[70 WASHINGTON SQ S]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1938</Code>
+<Text>Chemical Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1108</Code>
+<Text>INSTRUMENTAT &amp; INSTRUMENT DEVP</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7752</Code>
+<Text>CDI NON SOLICITED RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9162</Code>
+<Text>MULTI DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~350000</FUND_OBLG>
+</Award>
+</rootTag>

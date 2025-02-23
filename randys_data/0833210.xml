@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PhysTEC Noyce Scholars]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2015</AwardExpirationDate>
+<AwardTotalIntnAmount>749773.00</AwardTotalIntnAmount>
+<AwardAmount>899766</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040100</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Keith Sverdrup</SignBlockName>
+<PO_EMAI>ksverdru@nsf.gov</PO_EMAI>
+<PO_PHON>7032924671</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The American Physical Society and the American Association of Physic Teachers are cooperating to increase the number of qualified physics teachers via the Physics Teacher Education Coalition (PhysTEC) teacher preparation program.  At each of the six participating PhysTEC institutions, program components include: (1) a close collaboration among science and education faculty and local school systems; (2) the utilization of a master teacher in residence; (3) the redesign of targeted introductory physics courses and science methods courses; and (4) an active mentoring and induction effort. These programs emphasize active engagement and inquiry-based instruction grounded in physics education research, and provide early teaching experiences for prospective teachers.  Approximately thirty new physics teachers are expected to result from the five year project.]]></AbstractNarration>
+<MinAmdLetterDate>08/18/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2014</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0833210</AwardID>
+<Investigator>
+<FirstName>Alvin</FirstName>
+<LastName>Rosenthal</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alvin S Rosenthal</PI_FULL_NAME>
+<EmailAddress><![CDATA[alvin.rosenthal@wmich.edu]]></EmailAddress>
+<NSF_ID>000181077</NSF_ID>
+<StartDate>08/18/2008</StartDate>
+<EndDate>12/21/2011</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Warren</FirstName>
+<LastName>Hein</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Warren W Hein</PI_FULL_NAME>
+<EmailAddress><![CDATA[whein@aapt.org]]></EmailAddress>
+<NSF_ID>000338647</NSF_ID>
+<StartDate>06/10/2010</StartDate>
+<EndDate>02/04/2011</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Laurie</FirstName>
+<LastName>McNeil</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Laurie E McNeil</PI_FULL_NAME>
+<EmailAddress><![CDATA[mcneil@physics.unc.edu]]></EmailAddress>
+<NSF_ID>000323750</NSF_ID>
+<StartDate>08/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Thorne</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert E Thorne</PI_FULL_NAME>
+<EmailAddress><![CDATA[ret6@cornell.edu]]></EmailAddress>
+<NSF_ID>000306272</NSF_ID>
+<StartDate>08/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Beth</FirstName>
+<LastName>Cunningham</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Beth Cunningham</PI_FULL_NAME>
+<EmailAddress><![CDATA[bcunningham@aapt.org]]></EmailAddress>
+<NSF_ID>000275850</NSF_ID>
+<StartDate>02/04/2011</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Monica</FirstName>
+<LastName>Plisch</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Monica J Plisch</PI_FULL_NAME>
+<EmailAddress><![CDATA[plisch@aps.org]]></EmailAddress>
+<NSF_ID>000314699</NSF_ID>
+<StartDate>08/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Holbrow</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Charles H Holbrow</PI_FULL_NAME>
+<EmailAddress><![CDATA[CHolbrow@aapt.org]]></EmailAddress>
+<NSF_ID>000077063</NSF_ID>
+<StartDate>08/18/2008</StartDate>
+<EndDate>09/28/2009</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jacob</FirstName>
+<LastName>Clark Blickenstaff</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jacob Clark Blickenstaff</PI_FULL_NAME>
+<EmailAddress><![CDATA[blickenstaff@aps.org]]></EmailAddress>
+<NSF_ID>000466227</NSF_ID>
+<StartDate>12/21/2011</StartDate>
+<EndDate>06/18/2014</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Philip</FirstName>
+<LastName>Hammer</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Philip W Hammer</PI_FULL_NAME>
+<EmailAddress><![CDATA[pwhammer@aapt.org]]></EmailAddress>
+<NSF_ID>000530984</NSF_ID>
+<StartDate>09/28/2009</StartDate>
+<EndDate>06/10/2010</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Renee Michelle</FirstName>
+<LastName>Goertzen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Renee Michelle Goertzen</PI_FULL_NAME>
+<EmailAddress><![CDATA[goertzen@aps.org]]></EmailAddress>
+<NSF_ID>000565869</NSF_ID>
+<StartDate>06/18/2014</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>American Physical Society</Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207403841</ZipCode>
+<PhoneNumber>3012093657</PhoneNumber>
+<StreetAddress>ONE PHYSICS ELLIPSE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CE5JV8E9K4S3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>AMERICAN PHYSICAL SOCIETY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[American Physical Society]]></Name>
+<CityName>COLLEGE PARK</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>207403841</ZipCode>
+<StreetAddress><![CDATA[ONE PHYSICS ELLIPSE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1795</Code>
+<Text>Robert Noyce Scholarship Pgm</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>04XX</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>0400XXXXDB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~749773</FUND_OBLG>
+<FUND_OBLG>2009~149993</FUND_OBLG>
+</Award>
+</rootTag>

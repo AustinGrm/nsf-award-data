@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Acquisition of a Tandem Mass Spectrometer for 'Omics Research]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>574500.00</AwardTotalIntnAmount>
+<AwardAmount>574500</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vicki Martin</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The National Science Foundation has awarded Duquesne University funds to acquire a capillary liquid chromatograph coupled to a tandem mass spectrometer, with the associated computer programs for analyzing data. Acquisition of this instrument enables broad expansion of research and educational capability, because it offers access to measurement capability that is currently not possible at Duquesne University. Examples of experiments include mapping out how biological systems carry out the complex business of building and tearing down fatty molecules that comprise the structure of cells and act as signal carriers within cells; measuring the biological consequences of exposure to heavy metals species (arsenic, chromium, and mercury species) on a chronic basis; and developing definitive standards for measuring and identifying, accurately, chemical and biological molecules that pose a health threat.&lt;br/&gt;&lt;br/&gt;These experiments improve the understanding of how complex biological systems operate, and they provide information needed to protect the population from environmental threats, either acute or chronic. The consortium of colleges and universities that we have developed will facilitate the training of new generations of undergraduate students, graduate students, and postdoctoral associates in the most modern scientific measurement methods. Undergraduate women and ethnic groups that are traditionally under-represented in the sciences will be among those carrying out this research. Duquesne University thereby becomes a central regional resource and a leader in education and training for potential scientists.]]></AbstractNarration>
+<MinAmdLetterDate>08/16/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/16/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0821401</AwardID>
+<Investigator>
+<FirstName>Partha</FirstName>
+<LastName>Basu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Partha Basu</PI_FULL_NAME>
+<EmailAddress><![CDATA[basu@duq.edu]]></EmailAddress>
+<NSF_ID>000485677</NSF_ID>
+<StartDate>08/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Howard</FirstName>
+<LastName>Kingston</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Howard M Kingston</PI_FULL_NAME>
+<EmailAddress><![CDATA[kingston@duq.edu]]></EmailAddress>
+<NSF_ID>000226641</NSF_ID>
+<StartDate>08/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jana</FirstName>
+<LastName>Vogt</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jana L Vogt</PI_FULL_NAME>
+<EmailAddress><![CDATA[pattonvogt@duq.edu]]></EmailAddress>
+<NSF_ID>000414609</NSF_ID>
+<StartDate>08/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mitchell</FirstName>
+<LastName>Johnson</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mitchell E Johnson</PI_FULL_NAME>
+<EmailAddress><![CDATA[johnsonm@duq.edu]]></EmailAddress>
+<NSF_ID>000340248</NSF_ID>
+<StartDate>08/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duquesne University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152820001</ZipCode>
+<PhoneNumber>4123961537</PhoneNumber>
+<StreetAddress>600 FORBES AVENUE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NGYSJ2L1LZX3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DUQUESNE UNIVERSITY OF THE HOLY SPIRIT</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>R8GSG4QZV989</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duquesne University]]></Name>
+<CityName>PITTSBURGH</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152820001</ZipCode>
+<StreetAddress><![CDATA[600 FORBES AVENUE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9184</Code>
+<Text>BIOTECHNOLOGY - INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~574500</FUND_OBLG>
+</Award>
+</rootTag>

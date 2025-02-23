@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Novel X-ray Imaging of Carotid Plaque Microstructure</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>301947</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Aleksandr Simonian</SignBlockName>
+<PO_EMAI>asimonia@nsf.gov</PO_EMAI>
+<PO_PHON>7032922191</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>0854430&lt;br/&gt;Anastasio&lt;br/&gt;&lt;br/&gt;There is an urgent need for the development of improved techniques for imaging carotid plaques in vivo. Plaque instability is a precursor of acute thromboembolic events that lead to strokes, and this instability is related to the microstructural characteristics of the plaque. However, none of the available noninvasive imaging techniques can provide comprehensive information regarding plaque microstructure in vivo. The broad research objective of this proposal is to develop and quantitatively evaluate a novel X-ray imaging method, called multiple-image radiography (MIR), for characterizing carotid plaque microstructure. Unlike conventional radiographic methods that simply measure X-ray absorption, MIR produces two additional images that measure the refractive and ultra-small-angle scattering (USAXS) properties of tissue. The effectiveness of the multiple contrast mechanisms employed by MIR for identifying vulnerable plaques will be rigorously established. This will be the first work to develop and systematically investigate a non-interferometric X-ray phase-contrast modality for imaging carotid plaque microstructure. This innovative imaging method could greatly facilitate identification of high-risk plaques, which is a timely problem with extremely high scientific and clinical significance. &lt;br/&gt;&lt;br/&gt;The intellectual merit of the proposed research arises from the development and refinement of image formation algorithms for a new X-ray imaging modality and their application to the important problem of plaque imaging. Additionally, novel X-ray contrast mechanisms that can effectively characterize plaque microstructure are systematically investigated. To accomplish this research, a combination of physics and fundamental principles of biomedical engineering and imaging science are employed by their interdisciplinary research team.  There are several broad impacts of the project that will yield important benefits to both biomedical science and society. The development of a noninvasive imaging method that could reveal plaque microstructure, which is the broad scientific goal of this proposal, would have tremendous value for both clinical and basic science studies. Patients who are prone to plaque rupture could be identified prospectively. This would permit tailoring of treatments to avoid thromboembolic events. Additionally, the ability to characterize plaque microstructure would facilitate an understanding of pathophysiological mechanisms that underlie the progression of the disease, which would accelerate the development of various therapies for plaque stabilization. The integration of this research with the proposed educational activities will help attract students to the increasingly important fields of biomedical engineering and biomedical imaging and enhance greatly their educational opportunities.</AbstractNarration>
+<MinAmdLetterDate>05/21/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0854430</AwardID>
+<Investigator>
+<FirstName>Miles</FirstName>
+<LastName>Wernick</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Miles N Wernick</PI_FULL_NAME>
+<EmailAddress>mwernick@ece.iit.edu</EmailAddress>
+<NSF_ID>000312016</NSF_ID>
+<StartDate>05/21/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Anastasio</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark A Anastasio</PI_FULL_NAME>
+<EmailAddress>maa@illinois.edu</EmailAddress>
+<NSF_ID>000419064</NSF_ID>
+<StartDate>05/21/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Brey</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eric Brey</PI_FULL_NAME>
+<EmailAddress>eric.brey@utsa.edu</EmailAddress>
+<NSF_ID>000343058</NSF_ID>
+<StartDate>05/21/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Illinois Institute of Technology</Name>
+<CityName>Chicago</CityName>
+<ZipCode>606163717</ZipCode>
+<PhoneNumber>3125673035</PhoneNumber>
+<StreetAddress>10 West 35th Street</StreetAddress>
+<StreetAddress2><![CDATA[Suite 7D71]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL01</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>042084434</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>ILLINOIS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>042084434</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Illinois Institute of Technology]]></Name>
+<CityName>Chicago</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606163717</ZipCode>
+<StreetAddress><![CDATA[10 West 35th Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7909</Code>
+<Text>BIOSENS-Biosensing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>004E</Code>
+<Text>BIOMEDICAL ENG AND DIAGNOSTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0110</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001011DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~97689</FUND_OBLG>
+<FUND_OBLG>2010~31876</FUND_OBLG>
+</Award>
+</rootTag>

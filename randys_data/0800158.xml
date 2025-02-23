@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Supply Risk Management and Asymmetric Information]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>220000.00</AwardTotalIntnAmount>
+<AwardAmount>220000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Russell Barton</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Abstract&lt;br/&gt;&lt;br/&gt;The grant provides funding for the development and analysis of game-theoretic models that will explicitly feature information asymmetry about supply risk.  These models will be used to study how traditional risk-management policies and information-eliciting contracts interact.  The traditional risk management tools that will be included in the models are: development of internal production capabilities by the manufacturer; investment in backup production capacity by suppliers; adoption of multisourcing and robust network design by the manufacturer; penalties for non-delivery; supplier screening; and procurement delegation.  The PIs will invoke concepts from contracts and incentives theory, such as Bayesian equilibria, the revelation principle, collusion, and decision-delegation, to derive the manufacturer's optimal information-eliciting contracts.  In order to identify the ramifications of information asymmetry on risk management, the PIs will compare equilibrium outcomes under asymmetric and symmetric information through both analytical and numerical means.  The results of the research will be incorporated in the curriculum of graduate and undergraduate courses at the University of Michigan.&lt;br/&gt;&lt;br/&gt;This multi-disciplinary research, which lies at the interface of operations, risk management, and information economics, will address timely and important questions regarding design and management of resilient supply chains. To the operations literature this research will contribute a framework capturing information asymmetry about supply risk and insights on the risk-mitigating role of procurement service providers. This research will expand the boundaries of the enterprise risk management literature by considering decentralized decision systems in the presence of information asymmetry.  This research will enrich the economics literature by including the possibility of supply disruptions.  The results of this research will help decision makers to make better use of operational and risk-management tools to deal with supply disruptions.  This research project will foster continued interactions and collaboration among industry researchers, engineering and business faculty, and will perpetuate infrastructure for future joint projects.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>04/24/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/24/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0800158</AwardID>
+<Investigator>
+<FirstName>Damian</FirstName>
+<LastName>Beil</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Damian Beil</PI_FULL_NAME>
+<EmailAddress><![CDATA[dbeil@umich.edu]]></EmailAddress>
+<NSF_ID>000427644</NSF_ID>
+<StartDate>04/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Goker</FirstName>
+<LastName>Aydin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Goker Aydin</PI_FULL_NAME>
+<EmailAddress><![CDATA[ayding@umich.edu]]></EmailAddress>
+<NSF_ID>000289059</NSF_ID>
+<StartDate>04/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Volodymyr</FirstName>
+<LastName>Babich</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Volodymyr Babich</PI_FULL_NAME>
+<EmailAddress><![CDATA[babich@umich.edu]]></EmailAddress>
+<NSF_ID>000269672</NSF_ID>
+<StartDate>04/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Michigan - Ann Arbor</Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>1109 GEDDES AVE, SUITE 3300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091079</ZipCode>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1786</Code>
+<Text>MANFG ENTERPRISE SYSTEMS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>071E</Code>
+<Text>MFG ENTERPRISE OPERATIONS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9147</Code>
+<Text>GENERIC TECHNOL FOR MANUFACTURING CELLS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~220000</FUND_OBLG>
+</Award>
+</rootTag>

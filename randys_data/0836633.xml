@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Interdisciplinary Undergraduate Program in Nanotechnology]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EEC</Abbreviation>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mary Poats</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This Nanotechnology Undergraduate Education (NUE) in Engineering program entitled "Interdisciplinary Undergraduate Program in Nanotechnology (IUPN)", at Carnegie Mellon University (CMU) is under the direction of Dr. Michael Bockstaller, Center for Nano-Enabled Device and Energy Technologies, in collaboration with faculty from the departments of Physics, Chemistry, Materials Science and Engineering, Electrical and Computer Engineering, Civil and Environmental Engineering and Philosophy. The primary goal of IUPN is to establish an integrated training program for undergraduate students in nanotechnology building on four existing courses and innovative mini-courses that will attract and engage talented students from multiple departments to the study of nanoscience and engineering. The proposed program will deliver a model for future undergraduate education in nanotechnology in which the focus is on the relevance of the connections among the traditional disciplines and a holistic view of 'sustainable nanotechnology' by integrating ethical and social science into the nanotechnology curriculum.]]></AbstractNarration>
+<MinAmdLetterDate>08/14/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/14/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0836633</AwardID>
+<Investigator>
+<FirstName>Elias</FirstName>
+<LastName>Towe</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elias Towe</PI_FULL_NAME>
+<EmailAddress><![CDATA[towe@cmu.edu]]></EmailAddress>
+<NSF_ID>000090761</NSF_ID>
+<StartDate>08/14/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>McHenry</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael E McHenry</PI_FULL_NAME>
+<EmailAddress><![CDATA[mm7g@andrew.cmu.edu]]></EmailAddress>
+<NSF_ID>000276873</NSF_ID>
+<StartDate>08/14/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tomasz</FirstName>
+<LastName>Kowalewski</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tomasz Kowalewski</PI_FULL_NAME>
+<EmailAddress><![CDATA[tomek@andrew.cmu.edu]]></EmailAddress>
+<NSF_ID>000302196</NSF_ID>
+<StartDate>08/14/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gregory</FirstName>
+<LastName>Lowry</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gregory V Lowry</PI_FULL_NAME>
+<EmailAddress><![CDATA[glowry@cmu.edu]]></EmailAddress>
+<NSF_ID>000459580</NSF_ID>
+<StartDate>08/14/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Bockstaller</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael Bockstaller</PI_FULL_NAME>
+<EmailAddress><![CDATA[bockstaller@CMU.EDU]]></EmailAddress>
+<NSF_ID>000095339</NSF_ID>
+<StartDate>08/14/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 FORBES AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NKNFLNQ613</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARNEGIE MELLON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NKNFLNQ613</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>PITTSBURGH</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152133815</ZipCode>
+<StreetAddress><![CDATA[5000 FORBES AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7219</Code>
+<Text>NANOTECHNOLOGY UNDERGRAD EDUCA</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7479</Code>
+<Text>BMMB-Biomech &amp; Mechanobiology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>113E</Code>
+<Text>ENG CURRICULUMN DEVELOPMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7219</Code>
+<Text>NANOTECHNOLOGY UNDERGRAD EDUCA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~200000</FUND_OBLG>
+</Award>
+</rootTag>

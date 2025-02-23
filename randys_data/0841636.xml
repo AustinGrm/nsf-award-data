@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Discovery and Prediction of Hidden Biodiversity in Black Flies (Diptera: Simuliidae)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>498863.00</AwardTotalIntnAmount>
+<AwardAmount>498863</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010206</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Mindell</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA["This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5)."&lt;br/&gt;&lt;br/&gt;Black flies are a worldwide group of more than 2,000 species of medically important, blood-feeding insects that breed in flowing water. They are structurally similar and many species, known as cryptic species, defy distinction under the microscope. An integrated approach will be used to reveal and predict hidden biodiversity in black flies of the widespread Simulium jenningsi group. Cytogenetic, structural, and molecular analyses will be applied to detect cryptic species in the group, characterize the niche breadth of all species, use these characterizations to predict hidden biodiversity, and infer a phylogeny to illuminate evolution of the group?s biological traits.&lt;br/&gt;&lt;br/&gt;Given the widespread existence of cryptic species, this multidisciplinary approach provides a model applicable to many groups of organisms. Ecological traits will provide powerful probes to detect biodiversity that otherwise might be missed, thereby avoiding a cascade of errors in understanding and managing biological systems. Expertise in morphology, cytogenetics, molecular systematics, and ecology will be taught as an integrated package of skills to the next generation of biodiversity scientists. The project will provide fundamental research essential to managing black flies, and will involve the public through dedicated web pages, cooperation with state-sponsored management programs, and ongoing dialogue.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/29/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/29/2009</MaxAmdLetterDate>
+<ARRAAmount>498863</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0841636</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>McCreadie</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John W McCreadie</PI_FULL_NAME>
+<EmailAddress><![CDATA[jmccread@jaguar1.usouthal.edu]]></EmailAddress>
+<NSF_ID>000257331</NSF_ID>
+<StartDate>07/29/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Adler</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peter H Adler</PI_FULL_NAME>
+<EmailAddress><![CDATA[padler@clemson.edu]]></EmailAddress>
+<NSF_ID>000247191</NSF_ID>
+<StartDate>07/29/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Moulton</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John K Moulton</PI_FULL_NAME>
+<EmailAddress><![CDATA[jmoulton@utk.edu]]></EmailAddress>
+<NSF_ID>000257135</NSF_ID>
+<StartDate>07/29/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Clemson University</Name>
+<CityName>CLEMSON</CityName>
+<ZipCode>296340001</ZipCode>
+<PhoneNumber>8646562424</PhoneNumber>
+<StreetAddress>201 SIKES HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SC03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H2BMNX7DSKU8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CLEMSON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>H2BMNX7DSKU8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Clemson University]]></Name>
+<CityName>CLEMSON</CityName>
+<StateCode>SC</StateCode>
+<ZipCode>296340001</ZipCode>
+<StreetAddress><![CDATA[201 SIKES HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SC03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1171</Code>
+<Text>PHYLOGENETIC SYSTEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1171</Code>
+<Text>PHYLOGENETIC SYSTEMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1198</Code>
+<Text>BIODIVERSITY SURVEYS &amp; INVENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~498863</FUND_OBLG>
+</Award>
+</rootTag>

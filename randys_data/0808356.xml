@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Dissertation Research: The roles of genetic variation and competition in resource niche expansion]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>12000.00</AwardTotalIntnAmount>
+<AwardAmount>12000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010207</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>George Gilchrist</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Previous experiments by the investigators have shown that genetic diversity and competition separately increase species' ability to adapt to novel resources (niche expansion). The current project will test whether genetic diversity and competitive interactions between individuals act synergistically to achieve this. Growth of flour beetle populations, initiated with varying degrees of genetic diversity and competition and supplied with ancestral and novel resources, will be monitored for eight generations. Diet of beetles sampled periodically from each population will be quantified using stable carbon isotope analysis, a powerful method of quantifying diet variation. The rate of temporal change in resource use will then be measured as a function of experimentally manipulated genetic diversity and competition.&lt;br/&gt;&lt;br/&gt;Niche expansion is commonly invoked to explain species distributions and ranges. Hence, experiments that enhance knowledge of factors that constrain or facilitate niche expansion are windows into the causes and consequences of changes in biodiversity. This project represents the first experimental study of this phenomenon in sexual organisms. The experimental design also mimics conservation strategies seeking to increase population size and genetic variation of threatened species. Therefore, results also have direct applications in conservation biology.]]></AbstractNarration>
+<MinAmdLetterDate>06/24/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/24/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0808356</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Bolnick</LastName>
+<PI_MID_INIT>I</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel I Bolnick</PI_FULL_NAME>
+<EmailAddress><![CDATA[daniel.bolnick@uconn.edu]]></EmailAddress>
+<NSF_ID>000098456</NSF_ID>
+<StartDate>06/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Deepa</FirstName>
+<LastName>Agashe</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Deepa Agashe</PI_FULL_NAME>
+<EmailAddress><![CDATA[deeps@mail.utexas.edu]]></EmailAddress>
+<NSF_ID>000492957</NSF_ID>
+<StartDate>06/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7377</Code>
+<Text>EVOLUTIONARY ECOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7377</Code>
+<Text>EVOLUTIONARY ECOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~12000</FUND_OBLG>
+</Award>
+</rootTag>

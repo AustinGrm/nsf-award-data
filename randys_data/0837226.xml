@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Picasso's Clarinet: When Art and Engineering Collide]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>144555.00</AwardTotalIntnAmount>
+<AwardAmount>144555</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Susan Finger</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Engineering - Electrical (55)&lt;br/&gt;&lt;br/&gt;This project seeks to promote creative thought in freshman engineering students in order to enhance the engineering design process.   The creative process of students is stimulated and engaged through a series of laboratory modules in a freshmen level introductory course in electrical and computer engineering.   The laboratory modules are designed to explicitly address the artistic aspects of the design process.   This is done by involving faculty and students from nonengineering programs in the laboratory modules.   The first project requires electrical and computer engineering students to work with music students to design and build a functioning incandescent lamp from a retired musical instrument.   Multidisciplinary student teams participate in the laboratory modules and are given instruction in team building and team dynamics.   The project includes an evaluation that measures the impact of the laboratory modules on the students' interest in engineering and on the students' ability to think about engineering design problems in a creative manner.   The evaluation plan also measures the impact of the laboratory modules on students from underrepresented groups.   The project results are being disseminated through conferences, journals and the National Science, Technology, Engineering and Mathematics Education Digital Library.]]></AbstractNarration>
+<MinAmdLetterDate>06/01/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/01/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0837226</AwardID>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>Haskew</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Timothy A Haskew</PI_FULL_NAME>
+<EmailAddress><![CDATA[thaskew@coe.eng.ua.edu]]></EmailAddress>
+<NSF_ID>000264476</NSF_ID>
+<StartDate>06/01/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Susan</FirstName>
+<LastName>Burkett</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Susan L Burkett</PI_FULL_NAME>
+<EmailAddress><![CDATA[SBURKETT@eng.ua.edu]]></EmailAddress>
+<NSF_ID>000394624</NSF_ID>
+<StartDate>06/01/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sushma</FirstName>
+<LastName>Kotru</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sushma Kotru</PI_FULL_NAME>
+<EmailAddress><![CDATA[skotru@eng.ua.edu]]></EmailAddress>
+<NSF_ID>000491685</NSF_ID>
+<StartDate>06/01/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Alabama Tuscaloosa</Name>
+<CityName>TUSCALOOSA</CityName>
+<ZipCode>354870001</ZipCode>
+<PhoneNumber>2053485152</PhoneNumber>
+<StreetAddress>301 ROSE ADMIN BLDG</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AL07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RCNJEHZ83EV6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ALABAMA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>TWJWHYEM8T63</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Alabama Tuscaloosa]]></Name>
+<CityName>TUSCALOOSA</CityName>
+<StateCode>AL</StateCode>
+<ZipCode>354870001</ZipCode>
+<StreetAddress><![CDATA[301 ROSE ADMIN BLDG]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0409</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000910DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>1300CYXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~144555</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Proposal: Impact of secondary circulation and mixing of estuarine exchange flows.]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>241945.00</AwardTotalIntnAmount>
+<AwardAmount>241945</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040303</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eric C. Itsweire</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Intellectual Merit: This study is the first proposed field effort to quantify the role of secondary circulation in driving the estuarine exchange flow. Although recent numerical studies in a limited estuarine parameter space suggest that the lateral advection is a leading-order term in the subtidal along-channel momentum balance, it has not been confirmed by observations. Observational test of this model result is critical to the field of estuarine oceanography because it raises a fundamental question regarding the validity of the classic theory of estuarine circulation. Numerical and scaling results have suggested that the effects of lateral advection are nearly always balanced by internal stresses so that a simple theory based on the momentum balance between longitudinal pressure gradient and bottom stress provides an accurate prediction for the estuarine residual velocity. The central hypothesis is that the near cancellation between secondary flows and interfacial stress is a manifestation for a possible interaction or feedback between the advective accelerations due to secondary circulation and diffusive momentum transfer due to small-scale turbulent flows. This project will investigate the co-variability between the lateral advection and interfacial stress over the spring-neap tidal cycle and assess their roles in the estuarine exchange flow. We plan to conduct a series of field experiments in the James River estuary, complemented by ROMS (Regional Ocean Modeling System) and LES (Large Eddy Simulations) modeling simulations. Field efforts include moored and shipboard observations as well as dye-release experiments and microstructure profiling. ROMS modeling will focus on the effects of secondary circulation on the estuarine exchange flows in this wide estuary, while LES modeling will examine the interactions and possible coupling between secondary flows and small scale turbulent flows. Results obtained from this project will provide a definitive answer on the role of secondary circulation in estuarine circulation. &lt;br/&gt;&lt;br/&gt;Broader Impacts: Estuarine dispersion is largely driven by the exchange flow and the ability to predict dispersion is critical in many applied problems such as determining the Maximum Total Daily Load (TMDL) permissible to an estuarine system. More generally, this project will yield much-needed information regarding the circulation and mixing processes in estuaries and help develop state-of-the-art numerical models for simulating estuarine flows, which are required for predicting water quality, contaminant and fish larvae transport. For the field work in the James River, we will involve participation of high school teachers and students from the areas near the estuary. Through the participation of one of the investigator at the University of Florida, this project enhances the involvement of minority groups in science. This project will also provide training to three graduate students and undergraduate interns.]]></AbstractNarration>
+<MinAmdLetterDate>09/03/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/03/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0825826</AwardID>
+<Investigator>
+<FirstName>Ming</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ming Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[mingli@umces.edu]]></EmailAddress>
+<NSF_ID>000234641</NSF_ID>
+<StartDate>09/03/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland Center for Environmental Sciences</Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>21613</ZipCode>
+<PhoneNumber>4102212014</PhoneNumber>
+<StreetAddress>2020 HORNS POINT RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JHTYTGKYWLL9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND CENTER FOR ENVIRONMENTAL SCIENCE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland Center for Environmental Sciences]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>21613</ZipCode>
+<StreetAddress><![CDATA[2020 HORNS POINT RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0204000</Code>
+<Name>Oceanography</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1610</Code>
+<Text>PHYSICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~241945</FUND_OBLG>
+</Award>
+</rootTag>

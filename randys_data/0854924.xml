@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[U.S.-France Planning Visit:  Thermal Transport at the Critical Point of a Fluid]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>6824.00</AwardTotalIntnAmount>
+<AwardAmount>6824</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maija Kukla</SignBlockName>
+<PO_EMAI>mkukla@nsf.gov</PO_EMAI>
+<PO_PHON>7032924940</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[OISE-084924 U.S.-France Planning Visit: Thermal Transport at the Critical Point of a Fluid &lt;br/&gt;&lt;br/&gt;This project supports a collaboration between Dr. Eldred Chimowitz in the Department of Chemical Engineering at the University of Rochester and Dr. Pierre Carlés, a faculty member in the Mechanical Engineering Department (within the Laboratory of Thermal Systems) at Pierre et Marie Curie University in Paris, France. This proposal will fund a visit to Dr. Carlés lab for Dr. Chimowitz and a Ph.D student or post doctoral researcher from the University of Rochester to develop a collaborative research proposal dealing with thermal transport phenomena near the critical point of confined fluids.   The U.S team has expertise in molecular simulation of dynamic transport properties near the critical point of fluids.  Professor Carlés is one of the leading scientists in this area and has unique expertise in the physics of critical phenomena applied to transport in fluids, as well as knowledge and experience with experimental techniques in the field of nanocalorimetry. A better understanding of heat transfer in the critical region of fluids could, in principle, provide novel technological ways to use near-critical fluids as efficient coolant fluids, in important applications ranging from cooling microelectronic systems to ?green building? climate control technology.  Scientific breakthroughs in these areas could have far-reaching technological benefits in the energy field where discovering new materials or processes for efficient heat transfer help to satisfy a clear and present national need.  This award is supported jointly by the Office of International Science and Engineering and the Division of Chemical, Bioengineering, Environmental, and Transport Systems.&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>02/02/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>02/02/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.079</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0854924</AwardID>
+<Investigator>
+<FirstName>Eldred</FirstName>
+<LastName>Chimowitz</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eldred H Chimowitz</PI_FULL_NAME>
+<EmailAddress><![CDATA[chim@che.rochester.edu]]></EmailAddress>
+<NSF_ID>000112629</NSF_ID>
+<StartDate>02/02/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Rochester</Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>146113847</ZipCode>
+<PhoneNumber>5852754031</PhoneNumber>
+<StreetAddress>910 GENESEE ST</StreetAddress>
+<StreetAddress2><![CDATA[STE 200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F27KDXZMF9Y8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ROCHESTER</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Rochester]]></Name>
+<CityName>ROCHESTER</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>146113847</ZipCode>
+<StreetAddress><![CDATA[910 GENESEE ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1414</Code>
+<Text>INTERFAC PROCESSES &amp; THERMODYN</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7299</Code>
+<Text>Catalyzing New Intl Collab</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5918</Code>
+<Text>FRANCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5979</Code>
+<Text>Europe and Eurasia</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~6824</FUND_OBLG>
+</Award>
+</rootTag>

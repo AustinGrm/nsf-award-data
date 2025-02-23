@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I: Nanostructured Sorbent for Hg Removal from Scrubber Water to Below 10 ppt</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>99103</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maria Josephine Yuen</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research Phase I project focuses on the&lt;br/&gt;evaluation and optimization of a promising sorbent, Silica-Titania Composites&lt;br/&gt;(STC), for mercury removal from coal-fired power plant scrubber water to&lt;br/&gt;below 10 ppt. Coal-fired power plants are a predominant mercury emitter in&lt;br/&gt;gases and liquids. There are no commercial technologies for mercury removal&lt;br/&gt;from scrubber water to levels anticipated under future regulations (i.e., 1 to&lt;br/&gt;10 ppt). Sol-gel Solutions, LLC (Sol-gel) has obtained mercury concentrations&lt;br/&gt;below 1.3 ppt when evaluating the STC for mercury removal from a mixed&lt;br/&gt;wastewater from a coal-fired power plant. These levels would comply with the&lt;br/&gt;Great Lakes Initiative, a strict criterion that will be enforced in parts of&lt;br/&gt;the U.S. in 2010. The objective for the proposed project is to optimize the&lt;br/&gt;technology for mercury removal from scrubber water from several coal-fired&lt;br/&gt;power plants, with the ultimate goal of designing a commercial system. It is&lt;br/&gt;expected that the STC will effectively remove mercury to below 10 ppt, with&lt;br/&gt;the potential of being recovered and reused.&lt;br/&gt;&lt;br/&gt;The broader impacts of this research are the protection of humans and&lt;br/&gt;wildlife from exposure to mercury. In humans, this exposure may impair&lt;br/&gt;neurological development, particularly in fetuses and during early childhood.&lt;br/&gt;A key element of the proposed work will be the promotion of interest in&lt;br/&gt;science and engineering via dissemination of the learnings from the proposed&lt;br/&gt;work and related fundamental science to high school and community college&lt;br/&gt;students, among others, via a targeted "webinar" and newsletter.</AbstractNarration>
+<MinAmdLetterDate>11/07/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839457</AwardID>
+<Investigator>
+<FirstName>Anna</FirstName>
+<LastName>Casasus</LastName>
+<PI_MID_INIT>I</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anna I Casasus</PI_FULL_NAME>
+<EmailAddress>aicasasus@Sol-gel-Solutions.com</EmailAddress>
+<PI_PHON>3522758969</PI_PHON>
+<NSF_ID>000065487</NSF_ID>
+<StartDate>11/07/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Sol-Gel Solutions, LLC</Name>
+<CityName>Gainesville</CityName>
+<ZipCode>326060000</ZipCode>
+<PhoneNumber>3523784950</PhoneNumber>
+<StreetAddress>3951 NW 48th Terrace</StreetAddress>
+<StreetAddress2><![CDATA[Suite 111]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_ORG/>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Sol-Gel Solutions, LLC]]></Name>
+<CityName>Gainesville</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>326060000</ZipCode>
+<StreetAddress><![CDATA[3951 NW 48th Terrace]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_PERF/>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1179</Code>
+<Text>ENVIRONMENTAL IMPLICATIONS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9104</Code>
+<Text>ENVIRONMENTAL BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~99103</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Investigating Upper Mantle Heterogeneity and Partial Melting Beneath Mid-Ocean Ridges Using Helium and Argon Isotopes in Abyssal Peridotite, Gabbro and Basalt]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>323883.00</AwardTotalIntnAmount>
+<AwardAmount>323883</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040200</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Barbara Ransom</SignBlockName>
+<PO_EMAI>bransom@nsf.gov</PO_EMAI>
+<PO_PHON>7032927792</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This research examines the isotopic variations of noble gases in oceanic rocks and produces data that bear significantly on debates about the chemical structure of Earth's mantle, partial melting processes of magmas, and the origin of fluids involved in ocean crust evolution and metamorphism.  Analyses of noble gases (He, Ar) and CO2 will be some of the first made for seafloor peridotites and gabbros.  Data will be used to examine the length scales of chemical and isotopic heterogeneity in the upper mantle.  Samples come from three areas:  the Mid-Atlantic Ridge (ODP Leg 209), the Kane oceanic core complex, and the ultra-slow spreading Gakkel Ridge in the Arctic Ocean. All samples have already been well characterized analytically for other important geochemical parameters.  Broader impacts of the work include building infrastructure for science through support of the new NSF-funded Noble Gas Facility at Oregon State University.  Graduate and undergraduate students will be engaged in research and project results will be incorporated into instructional programs of graduate level classes in geochemistry.  Results will be posted on the web.]]></AbstractNarration>
+<MinAmdLetterDate>05/13/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>05/13/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0850666</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Graham</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David W Graham</PI_FULL_NAME>
+<EmailAddress><![CDATA[dgraham@oce.orst.edu]]></EmailAddress>
+<NSF_ID>000117073</NSF_ID>
+<StartDate>05/13/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Oregon State University</Name>
+<CityName>CORVALLIS</CityName>
+<ZipCode>973318655</ZipCode>
+<PhoneNumber>5417374933</PhoneNumber>
+<StreetAddress>1500 SW JEFFERSON ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OR04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MZ4DYXE1SL98</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OREGON STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MZ4DYXE1SL98</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Oregon State University]]></Name>
+<CityName>CORVALLIS</CityName>
+<StateCode>OR</StateCode>
+<ZipCode>973318655</ZipCode>
+<StreetAddress><![CDATA[1500 SW JEFFERSON ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OR04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0204000</Code>
+<Name>Oceanography</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1620</Code>
+<Text>Marine Geology and Geophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~323883</FUND_OBLG>
+</Award>
+</rootTag>

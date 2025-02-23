@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Multidisciplinary Sustainability Modules: Integrating STEM Courses</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>149104.00</AwardTotalIntnAmount>
+<AwardAmount>149104</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ron Buckmire</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Interdisciplinary / Multidisciplinary 99&lt;br/&gt;&lt;br/&gt;The "Multidisciplinary Sustainability Modules: Integrating STEM Courses" project is creating a framework for incorporating multidisciplinary projects in college science education.  Faculty representing Biology, Computer Science, Mathematics, and Physics are working together to develop multidisciplinary educational modules which will be available for use by other faculty as well.  For this project, a clear distinction is made between the terms multidisciplinary and interdisciplinary.  Faculty or students are not expected to be fluent in all the disciplines needed to solve the problem for the multidisciplinary approach.&lt;br/&gt;&lt;br/&gt;Using these multidisciplinary modules, students examine complex, large-scale problems like those encountered in the scientific study of sustainability, and the students work collectively with other students from different disciplines using a set of online tools for exchanging data, code, reports, and expertise.  STEM students who use these modules are gaining a better understanding of the methods needed for solving many complex, twenty-first century science problems.  &lt;br/&gt;&lt;br/&gt;An instructor's guide and the wiki-based web interface provide faculty at different institutions opportunities to easily participate in the multidisciplinary learning process.  Results from the project evaluation are being shared through conference presentations and publications in a wide variety of disciplines.</AbstractNarration>
+<MinAmdLetterDate>03/05/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/05/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0837721</AwardID>
+<Investigator>
+<FirstName>Jason</FirstName>
+<LastName>Hamilton</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jason G Hamilton</PI_FULL_NAME>
+<EmailAddress>jhamilton@ithaca.edu</EmailAddress>
+<PI_PHON>6072741439</PI_PHON>
+<NSF_ID>000394568</NSF_ID>
+<StartDate>03/05/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Rogers</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael Rogers</PI_FULL_NAME>
+<EmailAddress>michael.b.rogers@ucdenver.edu</EmailAddress>
+<PI_PHON>3033157392</PI_PHON>
+<NSF_ID>000050248</NSF_ID>
+<StartDate>03/05/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ali</FirstName>
+<LastName>Erkan</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ali S Erkan</PI_FULL_NAME>
+<EmailAddress>aerkan@ithaca.edu</EmailAddress>
+<PI_PHON>6072741764</PI_PHON>
+<NSF_ID>000226005</NSF_ID>
+<StartDate>03/05/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Pfaff</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thomas J Pfaff</PI_FULL_NAME>
+<EmailAddress>tpfaff@ithaca.edu</EmailAddress>
+<PI_PHON>6072743111</PI_PHON>
+<NSF_ID>000169710</NSF_ID>
+<StartDate>03/05/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Ithaca College</Name>
+<CityName>ITHACA</CityName>
+<ZipCode>148507000</ZipCode>
+<PhoneNumber>6072741206</PhoneNumber>
+<StreetAddress>953 DANBY RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>23</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY23</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M8XYTNN1REF1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ITHACA COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M8XYTNN1REF1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Ithaca College]]></Name>
+<CityName>ITHACA</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>148507000</ZipCode>
+<StreetAddress><![CDATA[953 DANBY RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>23</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY23</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0409</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000910DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EHR, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~149104</FUND_OBLG>
+</Award>
+</rootTag>

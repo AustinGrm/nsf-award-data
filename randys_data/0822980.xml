@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STTR  Phase II:  Next Generation Digital Data Recovery System</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>559525</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Glenn H. Larsen</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Technology Transfer (STTR) Phase II research project proposes to research and bring to market the next generation digital data recovery techniques. The problem of restoring lost data from a damaged digital device arises routinely in digital forensics and data recovery. In many advanced cases of digital storage failure currently available file recovery techniques based on disk storage information fail. During the Phase I of this project a software framework was developed for file carving. Using this framework a software library and a user interface to carve fragmented files from a disk image, called Adroit was implemented. Adroit currently supports carving of JPEG fles, structured documents (such as HTML, source code, plain-text fles, etc.), and Microsoft office documents. In tests conducted, Adroit recovers more files than tools currently available in the market. Furthermore, the validation and user interface component built into Adroit excels at allowing the user to guide the technology to recover more data with much less effort. The problem of recovery of information from bits and pieces of digital data, in the absence of storage meta-information to tie the pieces together, is equivalent to the problem of having hundreds/thousands of jigsaw puzzles mixed into together. The challenge of identifying if a piece of data belongs to a specific file or file type is daunting. The preliminary research conducted in Phase I has demonstrated the viability of developing domain specific techniques to identify the type of data fragments and the use of file type specific algorithms to reconstruct files.&lt;br/&gt;&lt;br/&gt;The broad impact of this technology and its commercialization are: 1) it will change the nature of the data recovery market and make possible unprecedented recovery of data in a variety of situations; 2) it will save countless users the agony of losing valuable data. Be it important data that is needed for a company's survival or an emotionally valuable photograph of a proud parent or child; 3) it will provide law enforcement officials with an increased ability to gather evidence and prosecute their cases more effectively; 4) it will provide counter-terrorism experts the ability to glean crucial evidence that they may have otherwise missed.</AbstractNarration>
+<MinAmdLetterDate>08/29/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/25/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0822980</AwardID>
+<Investigator>
+<FirstName>Yuhong</FirstName>
+<LastName>Yu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yuhong Yu</PI_FULL_NAME>
+<EmailAddress>yuhongyu@gmail.com</EmailAddress>
+<PI_PHON>9174820211</PI_PHON>
+<NSF_ID>000545196</NSF_ID>
+<StartDate>09/25/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anandabrata</FirstName>
+<LastName>Pal</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anandabrata Pal</PI_FULL_NAME>
+<EmailAddress>PashaPal@aol.com</EmailAddress>
+<PI_PHON>9174820211</PI_PHON>
+<NSF_ID>000065584</NSF_ID>
+<StartDate>08/29/2008</StartDate>
+<EndDate>09/25/2009</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Digital Assembly LLC</Name>
+<CityName>Brooklyn</CityName>
+<ZipCode>112013840</ZipCode>
+<PhoneNumber>9174820211</PhoneNumber>
+<StreetAddress>BEST</StreetAddress>
+<StreetAddress2><![CDATA[6 Metrotech Center]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Polytechnic University of New York]]></Name>
+<CityName>Brooklyn</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>112013826</ZipCode>
+<StreetAddress><![CDATA[15 Metrotech Center]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1591</Code>
+<Text>STTR Phase II</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1049</Code>
+<Text>INDUSTRY-UNIV COOPERATIVE RSCH PROJECTS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1658</Code>
+<Text>SOFTWARE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~489525</FUND_OBLG>
+<FUND_OBLG>2009~70000</FUND_OBLG>
+</Award>
+</rootTag>

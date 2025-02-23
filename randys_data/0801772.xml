@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Ultracompact Nonlinear Photonic Devices with SOI Technology]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>330001.00</AwardTotalIntnAmount>
+<AwardAmount>330001</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>john zavada</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Abstract&lt;br/&gt;ECCS-0801772&lt;br/&gt;G. Agrawal, University of Rochester&lt;br/&gt;&lt;br/&gt;Objective: Silicon photonics is a relatively new branch of optics with a vast potential for the microelectronics and telecommunication industries. The basic approach consists of utilizing silicon-based materials for providing both the optical and electronic functions on the same chip, resulting in a monolithically integrated optoelectronic platform. The primary goal of our research is to develop the experimental and theoretical knowledge base for understanding how the nonlinear effects inside silicon waveguides can be exploited for a variety of modern applications relevant for the microelectronics and telecommunication industries.&lt;br/&gt;&lt;br/&gt;Intellectual Merit: A variety of practical devices utilizing nonlinear optical phenomena will be designed and tested using silicon-on-insulator waveguides. The focus will be on dispersion engineering, soliton formation, and supercontinuum generation. All-optical flip-flops that can store information and act as an optical memory element will be demonstrated. The use of photonic crystal waveguide structures will be investigated theoretically and experimentally, with the goal of shrinking the device sizes below 100 µm. &lt;br/&gt;&lt;br/&gt;Broader Impact: The results of the research will have broad implications, for the high technology sector of industry and consumers alike, since silicon technology offers the potential for mass production of reliable devices at low cost. The proposed research program will also be used to attract students from under-represented groups in Science, Technology, Engineering and Mathematics.]]></AbstractNarration>
+<MinAmdLetterDate>04/11/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/11/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0801772</AwardID>
+<Investigator>
+<FirstName>Govind</FirstName>
+<LastName>Agrawal</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Govind P Agrawal</PI_FULL_NAME>
+<EmailAddress><![CDATA[gpa@optics.rochester.edu]]></EmailAddress>
+<NSF_ID>000127777</NSF_ID>
+<StartDate>04/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Philippe</FirstName>
+<LastName>Fauchet</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Philippe M Fauchet</PI_FULL_NAME>
+<EmailAddress><![CDATA[fauchet@ece.rochester.edu]]></EmailAddress>
+<NSF_ID>000468300</NSF_ID>
+<StartDate>04/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Rochester</Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>146113847</ZipCode>
+<PhoneNumber>5852754031</PhoneNumber>
+<StreetAddress>910 GENESEE ST</StreetAddress>
+<StreetAddress2><![CDATA[STE 200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F27KDXZMF9Y8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ROCHESTER</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Rochester]]></Name>
+<CityName>ROCHESTER</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>146113847</ZipCode>
+<StreetAddress><![CDATA[910 GENESEE ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0206000</Code>
+<Name>Telecommunications</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1517</Code>
+<Text>EPMD-ElectrnPhoton&amp;MagnDevices</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>097E</Code>
+<Text>High Freq Devices &amp; Circuits</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>101E</Code>
+<Text>Printed and flexible electronics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>103E</Code>
+<Text>Energy efficient electronics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>109E</Code>
+<Text>Sys theory in biology &amp; medicine</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~330001</FUND_OBLG>
+</Award>
+</rootTag>

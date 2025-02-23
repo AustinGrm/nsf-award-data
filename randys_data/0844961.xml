@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER:  Cortical Processing of Auditory Spatial Information</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>768443.00</AwardTotalIntnAmount>
+<AwardAmount>768443</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alumit Ishai</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;The ability to use spatial information is crucial to survival because space is such a basic feature of the world.  Our brains are endowed with circuits that represent spatial information, which can then be used to guide intelligent behavior.  The auditory system is particularly important for spatial cognition because our ears can detect sounds coming from any direction, which affords panoramic sensitivity to events happening in the environment.  We take the ability to use spatial information for granted because everyday activities, such as hearing a friend call our name and turning in their direction to wave in response, seem so automatic.  However, this sense of automaticity is the product of delicate interactions between representions of spatial information and their application by other cognitive systems.  With support from the National Science Foundation, Dr. Edward Golob and colleagues at Tulane University will study how auditory spatial information is used by higher-level cognitive processes in the brain.  The experiments focus on the interface between representing sound location and two cognitive functions that prioritize subregions of space: spatial attention and motor responses.  In a series of studies, human subjects will perform various auditory spatial tasks.  During performance, sensors will monitor electrical brain activity, and brief magnetic pulses will be applied to influence brain activity.  These experiments will identify properties of spatial attention gradients, and relate the findings to auditory cortical processing and the role of posterior parietal cortex.  Studies examining interactions between the auditory and motor systems will determine if auditory processing is influenced by location of the hands and, conversely, whether sound location influences motor cortex activity.&lt;br/&gt;&lt;br/&gt;This project will help provide a deeper understanding of how spatial information is used by other cognitive systems and the neural networks that support these interactions.  The results may also be applied to improving human-machine interfaces and to improving rehabilitation techniques for patients with brain damage.  This research and integrated education plan will promote undergraduate and graduate education in New Orleans. A collaboration between Tulane and Xavier will offer research opportunities to undergraduates that will culminate in a Masters degree, with a focus on minority participation and infrastructure enhancement.&lt;br/&gt;&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>07/23/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/18/2014</MaxAmdLetterDate>
+<ARRAAmount>768443</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0844961</AwardID>
+<Investigator>
+<FirstName>Edward</FirstName>
+<LastName>Golob</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Edward Golob</PI_FULL_NAME>
+<EmailAddress>edward.golob@utsa.edu</EmailAddress>
+<NSF_ID>000271395</NSF_ID>
+<StartDate>07/23/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Tulane University</Name>
+<CityName>NEW ORLEANS</CityName>
+<ZipCode>701185698</ZipCode>
+<PhoneNumber>5048654000</PhoneNumber>
+<StreetAddress>6823 ST CHARLES AVENUE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>LA01</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>053785812</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>ADMINISTRATORS OF THE TULANE EDUCATIONAL FUND, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>053785812</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Tulane University]]></Name>
+<CityName>NEW ORLEANS</CityName>
+<StateCode>LA</StateCode>
+<ZipCode>701185698</ZipCode>
+<StreetAddress><![CDATA[6823 ST CHARLES AVENUE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>LA01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1699</Code>
+<Text>Cognitive Neuroscience</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1187</Code>
+<Text>PECASE- eligible</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~768443</FUND_OBLG>
+</Award>
+</rootTag>

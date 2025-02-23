@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Other People's Money: Investigating Third Party Redistribution</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>180138.00</AwardTotalIntnAmount>
+<AwardAmount>180138</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050100</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Lutz</SignBlockName>
+<PO_EMAI>nlutz@nsf.gov</PO_EMAI>
+<PO_PHON>7032927280</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Legislators, bureaucrats and others frequently make economic decisions that affect others.  A judge may require a defendant to pay damages to a litigant.  Congress may pass legislation that taxes one group of citizens to finance spending on another group.   Bureaucrats may impose regulations at a cost to some people to benefit others.  While economists, political scientists, psychologists, and decision scientists have studied group decision making, we do not know much about how individuals make decisions in these situations.  &lt;br/&gt;&lt;br/&gt;This research uses economic experiments to understand this kind of decision making.  The goal is to test implications of the equity theory of fairness, which predicts that a third party is less like to redistribute income and assets if he or she believes that these funds have been earned by the owner, rather than simply a result of fortune or luck.&lt;br/&gt;&lt;br/&gt;The results add to our scientific knowledge in behavioral economics, political science, law and social psychology.</AbstractNarration>
+<MinAmdLetterDate>09/18/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>01/12/2012</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0820076</AwardID>
+<Investigator>
+<FirstName>Kevin</FirstName>
+<LastName>McCabe</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kevin A McCabe</PI_FULL_NAME>
+<EmailAddress>kmccabe@gmu.edu</EmailAddress>
+<NSF_ID>000242318</NSF_ID>
+<StartDate>09/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>George Mason University</Name>
+<CityName>FAIRFAX</CityName>
+<ZipCode>220304422</ZipCode>
+<PhoneNumber>7039932295</PhoneNumber>
+<StreetAddress>4400 UNIVERSITY DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA11</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>077817450</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>GEORGE MASON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>077817450</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[George Mason University]]></Name>
+<CityName>FAIRFAX</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>220304422</ZipCode>
+<StreetAddress><![CDATA[4400 UNIVERSITY DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1320</Code>
+<Text>Economics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1321</Code>
+<Text>Decision, Risk &amp; Mgmt Sci</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2008~180138</FUND_OBLG>
+</Award>
+</rootTag>

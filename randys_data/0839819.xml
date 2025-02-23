@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I: Real-time Economic Sampling System</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>120000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Errol Arkilic</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research Phase I project will address two components required to automate the highly manual work of economic process control optimization in semiconductor manufacturing. The intelligent Real-time Economic Sampling (RES) system that can be created with the innovation will allow sampling to be optimized and adjusted many times per day across multiple process steps and products. This minimizes a manufacturer?s overall economic risk of producing bad products by adaptively focusing sampling where it gives the greatest financial return. The two research objectives are: 1) research modeling and optimization such that highly optimized sampling solutions for a whole semiconductor factory can be found in one hour (while using off-the-shelf affordable PC hardware), and 2) enable the RES system to estimate specialized yield parameters needed in real-time directly from aggregated inspection and yield data. &lt;br/&gt;&lt;br/&gt;Semiconductor manufacturers today are limited to occasional process control planning with time-consuming off-line analysis. Engineers also spend time doing manual ad-hoc adjustments to direct sampling where it is needed, while not really knowing what other harm they could be doing to the operation. Meanwhile valuable products are being wasted during out-of-control situations that can be detected faster if automatic economic sampling could collect data where the production risk is currently the highest. The RES system would step into a fast growing segment in the semiconductor industry, spending on process control went from 10% in 2000 to 19% in 2007 (Source: Dataquest), about $7.4 billion market. If successful, the RES tool could have a significant impact on the semiconductor process industry.</AbstractNarration>
+<MinAmdLetterDate>11/21/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839819</AwardID>
+<Investigator>
+<FirstName>Dadi</FirstName>
+<LastName>Gudmundsson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dadi Gudmundsson</PI_FULL_NAME>
+<EmailAddress>dadi@sensoranalytics.com</EmailAddress>
+<PI_PHON>4157388199</PI_PHON>
+<NSF_ID>000355901</NSF_ID>
+<StartDate>11/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Sensor Analytics Inc.</Name>
+<CityName>San Francisco</CityName>
+<ZipCode>941073264</ZipCode>
+<PhoneNumber>4157388199</PhoneNumber>
+<StreetAddress>27 Blair Terrace</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Sensor Analytics Inc.]]></Name>
+<CityName>San Francisco</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>941073264</ZipCode>
+<StreetAddress><![CDATA[27 Blair Terrace]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6850</Code>
+<Text>DIGITAL SOCIETY&amp;TECHNOLOGIES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9139</Code>
+<Text>INFORMATION INFRASTRUCTURE &amp; TECH APPL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~120000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Promoting Physical Science to Elementary School Teachers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>108988.00</AwardTotalIntnAmount>
+<AwardAmount>108988</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Herbert H. Richtol</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The project creates a new physical science course at the introductory college level especially for pre-science teachers. In addition, the project determines the student's attitudes toward science before and after taking the course. The project also surveys in-service elementary teachers in several area school districts to determine their beliefs and practices with regards to teaching physical science. The project also raises awareness for quality teaching of physical science both for pre-service and in-service teachers. Finally, efforts are devoted to methods of best teaching physical science to elementary education students.]]></AbstractNarration>
+<MinAmdLetterDate>02/20/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>02/20/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0837177</AwardID>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Sirola</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christopher Sirola</PI_FULL_NAME>
+<EmailAddress><![CDATA[Christopher.Sirola@usm.edu]]></EmailAddress>
+<NSF_ID>000340923</NSF_ID>
+<StartDate>02/20/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jacob</FirstName>
+<LastName>Clark Blickenstaff</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jacob Clark Blickenstaff</PI_FULL_NAME>
+<EmailAddress><![CDATA[blickenstaff@aps.org]]></EmailAddress>
+<NSF_ID>000466227</NSF_ID>
+<StartDate>02/20/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Southern Mississippi</Name>
+<CityName>HATTIESBURG</CityName>
+<ZipCode>394060001</ZipCode>
+<PhoneNumber>6012664119</PhoneNumber>
+<StreetAddress>118 COLLEGE DRIVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<StateCode>MS</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MS04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M1K8LJAET5R1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF SOUTHERN MISSISSIPPI</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Southern Mississippi]]></Name>
+<CityName>HATTIESBURG</CityName>
+<StateCode>MS</StateCode>
+<ZipCode>394060001</ZipCode>
+<StreetAddress><![CDATA[118 COLLEGE DRIVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MS04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0409</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000910DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>1300CYXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~108988</FUND_OBLG>
+</Award>
+</rootTag>

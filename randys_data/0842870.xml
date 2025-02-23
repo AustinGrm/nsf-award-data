@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Molecular insights into echinoderm regeneration:   Genes and signal pathways]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>490000.00</AwardTotalIntnAmount>
+<AwardAmount>490000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090100</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Klein</SignBlockName>
+<PO_EMAI>sklein@nsf.gov</PO_EMAI>
+<PO_PHON>7032927122</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5). &lt;br/&gt;&lt;br/&gt;Present knowledge on what processes are necessary for organ regeneration is highly limited.  This project uses an animal with striking regenerative capacities, the sea cucumber, to probe at the genes and signal pathways that are associated with regeneration processes. The working hypothesis is that some of the identified genes (and their associated signal pathways) are important players in the regeneration of the intestine and that by studying them the mechanisms involved in the control of regenerative processes will be discovered.  The project focuses on genes that are known to be involved in embryonic development and cell death in order to define their role during regeneration of the intestine.  The results will advance our understanding of organ regeneration and in particular on the limits that might be encountered in humans and higher vertebrates.  The work will take place at the University of Puerto Rico, a Hispanic serving institution.  Most of the participating students are underrepresented minorities and women.  Thus, the project will impact the training and professional development of underrepresent groups in science.]]></AbstractNarration>
+<MinAmdLetterDate>06/24/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/24/2009</MaxAmdLetterDate>
+<ARRAAmount>490000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0842870</AwardID>
+<Investigator>
+<FirstName>Jose</FirstName>
+<LastName>Garcia-Arraras</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jose E Garcia-Arraras</PI_FULL_NAME>
+<EmailAddress><![CDATA[jegarcia@hpcf.upr.edu]]></EmailAddress>
+<NSF_ID>000479736</NSF_ID>
+<StartDate>06/24/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Puerto Rico-Rio Piedras</Name>
+<CityName>SAN JUAN</CityName>
+<ZipCode>00931</ZipCode>
+<PhoneNumber>7877634949</PhoneNumber>
+<StreetAddress>39 PONCE DE LEON AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Puerto Rico</StateName>
+<StateCode>PR</StateCode>
+<CONGRESSDISTRICT>98</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PR98</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Q3LLLDFHPNL3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF PUERTO RICO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>LLABHNB9ABM4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Puerto Rico-Rio Piedras]]></Name>
+<CityName>SAN JUAN</CityName>
+<StateCode>PR</StateCode>
+<ZipCode>00931</ZipCode>
+<StreetAddress><![CDATA[39 PONCE DE LEON AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Puerto Rico</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>98</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PR98</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1119</Code>
+<Text>Animal Developmental Mechanism</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1228</Code>
+<Text>MINORITY INVOLVEMENT -- BIO</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~490000</FUND_OBLG>
+</Award>
+</rootTag>

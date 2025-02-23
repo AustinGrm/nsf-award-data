@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Probing Depth-dependent Heterogeneities under Japan Using Transmitted Seismic Waves</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>49339</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030204</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robin Reichlin</SignBlockName>
+<PO_EMAI>rreichli@nsf.gov</PO_EMAI>
+<PO_PHON>7032928556</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>At present, the Earth?s interior dynamics are mainly inferred by detecting seismic wave velocity anomalies in the Earth using deterministic approaches such as seismic tomography. The anomaly is mapped point-wise within the Earth and it can be interpreted as a snapshot of the convective mantle and crust. However, the spatial resolution of such deterministic methods is limited by sparse geographic distribution of seismographs. Given the distribution of current seismograph networks, the length scale of the heterogeneity resolved by global tomography is on the order of several hundred kilometers. On the other hand, there are important geological processes, taking place on the Earth?s surface at much smaller length scales, from the order of tens of kilometers to meters. In order to gain a sound understanding of Earth dynamics, the ?missing? information at the high end (i.e., those small-scale heterogeneities) of the continuous heterogeneity spectrum must be supplemented. However, seismic tomography is far from achieving high-resolution deterministic models for structures below the crust, and a novel approach must be devised.&lt;br/&gt;&lt;br/&gt;In the work proposed here, a new stochastic inversion theory is formulated mathematically, which is based on wave propagation through random media, and it is able to yield statistical information on small-scale heterogeneities as an assemblage, such as the size distribution of heterogeneities, the wave scattering strength of the heterogeneity, and how they are distributed with depth. They physics behind the theory is that small-scale heterogeneities manifest themselves in transmitted seismic body waves as fluctuations of phase (or travel time, or arrival time) and wave amplitude across a seismic array. These observed fluctuations are then used to form coherence functions, which simultaneously depend on the distance between two seismic stations and the incident angles between two plane waves. The coherence function has sharp depth resolution and can be used to invert for the depth-dependent heterogeneity spectrum. This newly developed mathematical framework will be used to analyze data recorded by the HiNet seismic network in Japan. This densely instrumented large-aperture network has the potential to constrain heterogeneity spectra over depths from the surface to several hundred kilometers. The proposed work here may address several fundamental issues concerning: (1) the fate of subducted materials in the mantle (2) characterization of the seismic wave scattering properties for ?hot fingers?, source regions feeding the volcanoes under Japan, and non-volcanic regions; (3) seismic constraints on the slab-mantle interaction and evolution of the mantle wedge; (4) multi-scale analysis of mantle heterogeneities and at different depths may provide a means to isolate different physical and chemical mechanism that is responsible for each length scale. The statistical information on the small-scale heterogeneity is also critical in other disciplines of Earth sciences, for instance, petrology, geochemistry, tectonics and hydrodynamic modeling of the convective Earth. The mathematical methods developed here can potentially be used in other scientific areas related to wave propagation in random media, such as, ocean acoustics, electromagnetic wave propagation and communications, medical imaging, and helioseismology.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>12/03/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>01/20/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0838359</AwardID>
+<Investigator>
+<FirstName>Ru-Shan</FirstName>
+<LastName>Wu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ru-Shan Wu</PI_FULL_NAME>
+<EmailAddress>wrs@es.ucsc.edu</EmailAddress>
+<PI_PHON>8314595135</PI_PHON>
+<NSF_ID>000101037</NSF_ID>
+<StartDate>12/03/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yingcai</FirstName>
+<LastName>Zheng</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yingcai Zheng</PI_FULL_NAME>
+<EmailAddress>yzheng12@uh.edu</EmailAddress>
+<PI_PHON>7137436517</PI_PHON>
+<NSF_ID>000506260</NSF_ID>
+<StartDate>12/03/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Cruz</Name>
+<CityName>SANTA CRUZ</CityName>
+<ZipCode>950641077</ZipCode>
+<PhoneNumber>8314595278</PhoneNumber>
+<StreetAddress>1156 HIGH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA20</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>VXUFPE4MCZH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA SANTA CRUZ</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Santa Cruz]]></Name>
+<CityName>SANTA CRUZ</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>950641077</ZipCode>
+<StreetAddress><![CDATA[1156 HIGH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA20</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1574</Code>
+<Text>Geophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~49339</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MAJOR: Modeling Musical Improvisation to Support Creativity in Education and Performance]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>762372.00</AwardTotalIntnAmount>
+<AwardAmount>762372</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ephraim Glinert</SignBlockName>
+<PO_EMAI>eglinert@nsf.gov</PO_EMAI>
+<PO_PHON>7032924341</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA["This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5)."&lt;br/&gt;&lt;br/&gt;Music-making is universal and has been a conduit for human creativity for at least tens of thousands of years, and music plays an essential role in human social bonding, emotional communication, and entertainment.  Because information technology and entertainment constitute an increasing share of the total economic output in developed countries, creativity lies at the heart of the modern economy.  Yet the creativity that underlies musical domains is poorly understood.  In this project the PI and his team will seek to understand, model, and support improvisation, or real-time collaborative creativity, in the context of music.  Most musical traditions in the world use improvisation as a method of creativity, so analysis and modeling of improvisation in highly evolved musical systems should provide essential insights into creative activity.  This study will consider a representative subset of musical traditions, in order to keep the results as broadly applicable as possible: jazz, Indian classical music, and avant-garde art music.  The research will employ an interdisciplinary approach involving ethnography, music theory, statistical modeling, machine learning, signal processing and instrument design, and cognitive studies.  The objectives are to develop computational models of improvisation and to use them to develop new technologies that support creativity in music and education.  To these ends, the PI and his team will investigate machine modeling of musical improvisation as a means to understand real-time creativity.  They will perform analysis of improvisational traditions from many cultures and attempt to unify them using a common probabilistic framework.  They will also conduct systematic evaluation of formal models in realistic performance contexts, and use brain imaging of improvising musicians to gain insight into highly creative mental activity.  Ethnography will be applied to characterize the diversity of improvisational traditions, while music theory will help define basic concepts and provide working hypotheses and frameworks for formal models.  Relationships between musical concepts will be represented using a probabilistic, generative model that seeks to represent the complex conditional dependencies among musical parameters as well as among performers; this abstraction will help unify different surface traditions within a common framework, revealing essential patterns in systems for real-time creativity.  Through modeling, the study will explore how improvising musicians learn these systems and reference them in performance.  Cognitive studies will elucidate whether a distinct set of cognitive processes are employed during improvisation; understanding what neural networks are active may be a first step in engineering systems that foster creativity in other contexts.  Taken together, these studies will improve our understanding of creative processes.&lt;br/&gt;&lt;br/&gt;Broader Impacts:  Studying the arts, where creativity has been developed, refined, and systematized, will offer insight into developing systems that foster creativity in other areas such as engineering and information technology.  Improvisation systems built from this research will be used to create ensembles through which programming, computational modeling, and creative problem solving may be taught.  The development of technology to support improvisation will also help teach creativity alongside rote performance skills, and encourage new programming paradigms.  For artists, project outcomes will enable new improvisation systems to be built using reconfigurable building blocks, thereby catalyzing research in improvisation and the development of sophisticated systems.  Planned collaborations with world-renowned musicians will expose a broad public to this research, and will help recruit new students to engineering, turn public attention to the study of creativity, and hopefully also create satisfying works of art.]]></AbstractNarration>
+<MinAmdLetterDate>08/12/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>04/12/2012</MaxAmdLetterDate>
+<ARRAAmount>762372</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855758</AwardID>
+<Investigator>
+<FirstName>Ge</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ge Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[ge@ccrma.stanford.edu]]></EmailAddress>
+<NSF_ID>000513407</NSF_ID>
+<StartDate>08/12/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Parag</FirstName>
+<LastName>Chordia</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Parag Chordia</PI_FULL_NAME>
+<EmailAddress><![CDATA[ppc@gatech.edu]]></EmailAddress>
+<NSF_ID>000076280</NSF_ID>
+<StartDate>08/12/2009</StartDate>
+<EndDate>04/12/2012</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jason</FirstName>
+<LastName>Freeman</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jason A Freeman</PI_FULL_NAME>
+<EmailAddress><![CDATA[jason.freeman@gatech.edu]]></EmailAddress>
+<NSF_ID>000513125</NSF_ID>
+<StartDate>04/12/2012</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jason</FirstName>
+<LastName>Freeman</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jason A Freeman</PI_FULL_NAME>
+<EmailAddress><![CDATA[jason.freeman@gatech.edu]]></EmailAddress>
+<NSF_ID>000513125</NSF_ID>
+<StartDate>08/12/2009</StartDate>
+<EndDate>04/12/2012</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Melody</FirstName>
+<LastName>Jackson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Melody Jackson</PI_FULL_NAME>
+<EmailAddress><![CDATA[melody@cc.gatech.edu]]></EmailAddress>
+<NSF_ID>000071319</NSF_ID>
+<StartDate>08/12/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>ATLANTA</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320001</ZipCode>
+<StreetAddress><![CDATA[225 NORTH AVE NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7788</Code>
+<Text>CreativeIT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7788</Code>
+<Text>CreativeIT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9215</Code>
+<Text>HIGH PERFORMANCE COMPUTING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~762372</FUND_OBLG>
+</Award>
+</rootTag>

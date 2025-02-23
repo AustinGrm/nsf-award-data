@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Seventh Summer School on Exotic Beam Physics, August 2008</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>5000.00</AwardTotalIntnAmount>
+<AwardAmount>5000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bradley D. Keister</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This award provides support for students to participate in the Seventh Summer School on Exotic Beam Physics at Argonne National Laboratory, August 4-9, 2008. The school is designed for graduate students, senior undergraduate students who are actively involved in research, and postdocs (within 2 years of their degree). The school will consist of morning lectures and hands-on activities in the afternoons.  Students will also have an opportunity to present their research. The aim of the summer school is to nurture future scientists so that the community will have sufficient manpower to effectively use Facility for Rare Isotope Beams (FRIB) when it comes online. &lt;br/&gt;&lt;br/&gt;In years to come, substantial progress in low-energy nuclear physics will have a broad impact on society, ranging from our understanding of the origin of the elements to the enhancement of national security. An important element in this progress will be to extend the study of nuclei into new domains of isospin. This will require new radioactive ion beam facilities, together with advanced multi-detector arrays and mass spectrometers.</AbstractNarration>
+<MinAmdLetterDate>05/20/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0823533</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Thoennessen</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael R Thoennessen</PI_FULL_NAME>
+<EmailAddress>thoennessen@nscl.msu.edu</EmailAddress>
+<PI_PHON>5173336323</PI_PHON>
+<NSF_ID>000153958</NSF_ID>
+<StartDate>05/20/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Michigan State University</Name>
+<CityName>EAST LANSING</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress>426 AUDITORIUM RD RM 2</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>R28EKN92ZTZ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MICHIGAN STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VJKZC4D1JN36</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>EAST LANSING</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>488242600</ZipCode>
+<StreetAddress><![CDATA[426 AUDITORIUM RD RM 2]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1233</Code>
+<Text>NUCLEAR STRUCTURE &amp; REACTIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~5000</FUND_OBLG>
+</Award>
+</rootTag>

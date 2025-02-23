@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[C: The Future of High School Mathematics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>174325</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DRL</Abbreviation>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John S. Bradley</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The University of Maryland, College Park, in collaboration with several professional organizations and the Math is More group, is organizing a national conference focusing on the future of high school mathematics.  The conference showcases and analyzes progressive ideas about curriculum, teaching, assessment, and technology in high school and early college mathematics. The plenary and workshop sessions of the 2.5-day conference address four central questions: &lt;br/&gt;What are the most important mathematical concepts, skills, and reasoning methods that students of different interests and aptitudes should master in the high school years so that they are well prepared for college, the world of work, and effective citizenship in the 21st century? &lt;br/&gt;What instructional practices hold greatest promise for effective teaching of mathematics to the diverse student population in U. S. high schools? &lt;br/&gt;What practices in assessment of student understanding and skills most effectively advance teaching and learning and provide an evidence base for important educational policy decisions? &lt;br/&gt;What practices in teacher professional development and school change hold greatest promise for meeting the challenge of implementing best practices in mathematics education curriculum, teaching, and assessment?&lt;br/&gt;The conference brings together leaders of state and local school system mathematics programs, mathematicians, curriculum developers, educational researchers, and education policy-makers for in-depth discussion of the challenges and opportunities for innovation in high school mathematics. Participation in this conference provides school system leaders with information and perspectives about future directions of high school mathematics that they can carry back to their state and local work on curriculum, teaching, and assessment. Participation by curriculum developers, teacher educators, and education policy-makers provides them with insights into their own work developing future mathematics programs, teachers, and policies. Participation by mathematics education researchers helps in framing an agenda of important evaluation and research projects required to inform and evaluate the various ideas for innovation. Expected media coverage of conference sessions provides visibility to the most prominent recent work aimed at improving the yield of high school mathematics education.]]></AbstractNarration>
+<MinAmdLetterDate>07/10/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/24/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0808817</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Fey</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James T Fey</PI_FULL_NAME>
+<EmailAddress><![CDATA[jimfey@umd.edu]]></EmailAddress>
+<NSF_ID>000339949</NSF_ID>
+<StartDate>07/10/2008</StartDate>
+<EndDate>09/24/2008</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Chazan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel Chazan</PI_FULL_NAME>
+<EmailAddress><![CDATA[dchazan@umd.edu]]></EmailAddress>
+<NSF_ID>000281402</NSF_ID>
+<StartDate>07/10/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Linda</FirstName>
+<LastName>Rosen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Linda Rosen</PI_FULL_NAME>
+<EmailAddress><![CDATA[lprosen@umd.edu]]></EmailAddress>
+<NSF_ID>000229087</NSF_ID>
+<StartDate>07/10/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland, College Park</Name>
+<CityName>College Park</CityName>
+<ZipCode>207420001</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 REGENTS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPU8ULVAAS23</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND, COLLEGE PARK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KMGEN62NKEM9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland, College Park]]></Name>
+<CityName>College Park</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>207420001</ZipCode>
+<StreetAddress><![CDATA[3112 LEE BLDG 7809 REGENTS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7645</Code>
+<Text>Discovery Research K-12</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9177</Code>
+<Text>ELEMENTARY/SECONDARY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~174325</FUND_OBLG>
+</Award>
+</rootTag>

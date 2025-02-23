@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative research: Effects of herbivores and mycorrhizas on N-fixers across soil and climate gradients in the Serengeti]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>282463.00</AwardTotalIntnAmount>
+<AwardAmount>303213</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010209</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry L. Gholz</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Shortages of plant-available forms of soil nitrogen and phosphorus frequently limit plant production in natural and agricultural ecosystems. Microorganisms in the soil can help relieve this limitation, as nitrogen-fixing bacteria convert atmospheric nitrogen-gas into forms of nitrogen that plants can use, and mycorrhizal fungi help plants acquire phosphorus. These microorganisms are suspected to be important regulators of ecosystem productivity, but surprisingly little is known about what controls their abundance and activities. Research in the Serengeti grassland in East Africa provides an unprecedented opportunity to learn how herbivorous animals, the plants they consume, and soil microorganisms all interact together to generate a remarkably stable ecosystem. This research will apply cutting-edge molecular methods in two new manipulative experiments plus an ongoing long-term grazer exclosure experiment to assess how strongly herbivores and mycorrhizal fungi stimulate or limit the abundance and N-fixing activity of soil microbes, and whether these effects are mediated by rainfall and soil minerals. &lt;br/&gt;&lt;br/&gt;Human reliance on chemical fertilizers could be reduced if nitrogen-fixing bacteria and mycorrhizal fungi could be more effectively managed. This work will provide the scientific basis for developing management strategies to maximize the benefits of these soil organisms for sustainable production of food and fiber in semi-arid grasslands, savannas and other tropical ecosystems. The results will also make it possible to estimate more closely the contribution of natural nitrogen inputs, relative to elevated human-induced nitrogen deposition across the globe. The research will build scientific capacity in Tanzania.]]></AbstractNarration>
+<MinAmdLetterDate>03/06/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>04/03/2013</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0842327</AwardID>
+<Investigator>
+<FirstName>Nancy</FirstName>
+<LastName>Johnson</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nancy C Johnson</PI_FULL_NAME>
+<EmailAddress><![CDATA[Nancy.Johnson@NAU.edu]]></EmailAddress>
+<NSF_ID>000386145</NSF_ID>
+<StartDate>03/06/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northern Arizona University</Name>
+<CityName>Flagstaff</CityName>
+<ZipCode>860117034</ZipCode>
+<PhoneNumber>9285230886</PhoneNumber>
+<StreetAddress>601 S KNOLES DR</StreetAddress>
+<StreetAddress2><![CDATA[ROOM 220]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MXHAS3AKPRN1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHERN ARIZONA UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northern Arizona University]]></Name>
+<CityName>Flagstaff</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>860117034</ZipCode>
+<StreetAddress><![CDATA[601 S KNOLES DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1181</Code>
+<Text>ECOSYSTEM STUDIES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1181</Code>
+<Text>ECOSYSTEM STUDIES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1355</Code>
+<Text>EGC EDUCATIONAL ACTIVITIES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7388</Code>
+<Text>NETWORKING RESEARCH (NR)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0110</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0111</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0112</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0113</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001011DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001112DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001213DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001314DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~87120</FUND_OBLG>
+<FUND_OBLG>2010~82994</FUND_OBLG>
+<FUND_OBLG>2011~119349</FUND_OBLG>
+<FUND_OBLG>2012~7500</FUND_OBLG>
+<FUND_OBLG>2013~6250</FUND_OBLG>
+</Award>
+</rootTag>

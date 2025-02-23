@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SGER: Responses of Mammalian Cells to Increased Osmolarity: Effects on Antibody Productivity]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>98378</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Theresa Good</SignBlockName>
+<PO_EMAI>tgood@nsf.gov</PO_EMAI>
+<PO_PHON>7032922450</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[CBET-0811639, Sharfstein&lt;br/&gt;&lt;br/&gt;Monoclonal antibodies and Fc-fusion proteins produced in cultured mammalian cells represent a significant fraction of the recently approved and pipeline biopharmaceuticals, providing critical new therapies for diseases such as breast cancer and rheumatoid arthritis. Despite the widespread use of mammalian cell cultures for production of immunoglobulins and immunoglobulin-like compounds, many fundamental questions about cell physiology and culture conditions, and their role in production of these proteins, remain unanswered. In particular, elevated culture osmolarity, whether directly applied or as a result of feeding strategies, has been shown been shown to increase specific productivity but to decrease overall viable cell density. This project is a multidisciplinary research program to understand the physiological responses of cultured mammalian cells to hyperosmolarity and to design cellular and process engineering strategies to optimize protein production in response to hyperosmolarity.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>02/21/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>01/30/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0811639</AwardID>
+<Investigator>
+<FirstName>Susan</FirstName>
+<LastName>Sharfstein</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Susan T Sharfstein</PI_FULL_NAME>
+<EmailAddress><![CDATA[ssharfstein@sunypoly.edu]]></EmailAddress>
+<NSF_ID>000450254</NSF_ID>
+<StartDate>02/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rensselaer Polytechnic Institute</Name>
+<CityName>Troy</CityName>
+<ZipCode>121803522</ZipCode>
+<PhoneNumber>5182766000</PhoneNumber>
+<StreetAddress>110 8TH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY20</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U5WBFKEBLMX3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RENSSELAER POLYTECHNIC INSTITUTE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rensselaer Polytechnic Institute]]></Name>
+<CityName>Troy</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>121803522</ZipCode>
+<StreetAddress><![CDATA[110 8TH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY20</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1491</Code>
+<Text>Cellular &amp; Biochem Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>009E</Code>
+<Text>Metabolic engineering</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9181</Code>
+<Text>BIOPROCESSING/BIOMOLECULAR MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9237</Code>
+<Text>SMALL GRANTS-EXPLORATORY RSRCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~98378</FUND_OBLG>
+</Award>
+</rootTag>

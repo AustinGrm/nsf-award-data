@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CRIF:MU  Cryprobe Upgrade of a NMR Spectrometer]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>270200.00</AwardTotalIntnAmount>
+<AwardAmount>270200</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090002</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos Murillo</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[&lt;br/&gt;With support from the Chemistry Research Instrumentation and Facilities: Multiuser program (CRIF:MU), the Department of Chemistry and Biochemistry at the University of  Delaware will acquire a cryoprobe that will enhance the productivity and utility of nuclear magnetic resonance (NMR) spectroscopy at the University of Delaware  and nearby institutions. The enhanced sensitivity of the cyroprobe will assist the progress in the diverse research areas of organic synthesis, biomaterials engineering, polymer science, catalysis, peptide/protein chemistry, and bioinorganic chemistry.&lt;br/&gt;&lt;br/&gt;Nuclear Magnetic Resonance (NMR) spectroscopy is the most broadly used tool available to chemists for the analysis of mixtures in solution.  It is used to identify unknown substances and to provide information on the arrangement and connectivity of atoms in molecules i.e. their structures.  Dynamical information is obtained providing insight on the motions of molecules. This NMR will enhance many Delaware programs that promote teaching and learning of undergraduates and high school students.  It will assist the research activities of users from other neighboring campuses including Lincoln University, Delaware Technical and Community College, Houghton College and it will be used by laboratory students at Wilmington Friends School. &lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>01/05/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>01/05/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0840401</AwardID>
+<Investigator>
+<FirstName>Klaus</FirstName>
+<LastName>Theopold</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Klaus H Theopold</PI_FULL_NAME>
+<EmailAddress><![CDATA[theopold@udel.edu]]></EmailAddress>
+<NSF_ID>000463256</NSF_ID>
+<StartDate>01/05/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Fox</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joseph M Fox</PI_FULL_NAME>
+<EmailAddress><![CDATA[jmfox@udel.edu]]></EmailAddress>
+<NSF_ID>000223350</NSF_ID>
+<StartDate>01/05/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shi</FirstName>
+<LastName>Bai</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shi Bai</PI_FULL_NAME>
+<EmailAddress><![CDATA[bais@udel.edu]]></EmailAddress>
+<NSF_ID>000507374</NSF_ID>
+<StartDate>01/05/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Delaware</Name>
+<CityName>NEWARK</CityName>
+<ZipCode>197160099</ZipCode>
+<PhoneNumber>3028312136</PhoneNumber>
+<StreetAddress>220 HULLIHEN HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<StateCode>DE</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DE00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>T72NHKM259N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF DELAWARE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>T72NHKM259N3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Delaware]]></Name>
+<CityName>NEWARK</CityName>
+<StateCode>DE</StateCode>
+<ZipCode>197160099</ZipCode>
+<StreetAddress><![CDATA[220 HULLIHEN HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DE00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1938</Code>
+<Text>Chemical Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1108</Code>
+<Text>INSTRUMENTAT &amp; INSTRUMENT DEVP</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9162</Code>
+<Text>MULTI DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~270200</FUND_OBLG>
+</Award>
+</rootTag>

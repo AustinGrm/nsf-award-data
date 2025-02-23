@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[III-COR - Small: Searchable and Shareable Visually Observed Knowledge Base]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>449287.00</AwardTotalIntnAmount>
+<AwardAmount>465287</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Spengler</SignBlockName>
+<PO_EMAI>sspengle@nsf.gov</PO_EMAI>
+<PO_PHON>7032927347</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[In fields where visually based tacit knowledge is central to decision-making, such as image analysis within the medical or intelligence communities, the difficulty of transferring hard-won expertise to novices is compounded by a lack of sufficient knowledge transfer tools. Static media and current computational approaches are not up to the task of capturing highly complex visually based tacit knowledge. A visual knowledge infrastructure based on enhanced computational approaches and robust tools must be developed that can harness the extant wealth of visual-knowledge expertise&lt;br/&gt;and will facilitate the rapid and effective transfer of that knowledge to and use by learners. Five necessary computer science research goals must be reached in order to build such a visual knowledge infrastructure. They include the development of a declarative knowledge module for visual and textual content management, visual mining algorithms for discovering associations in a multi-dimensional feature space, a cognitive model for visual media analysts, a case-based reasoning system for knowledge repositories and acquisition, and a digital library with a robust knowledge exchange framework for interdisciplinary communities. The cognitive model of visual media analysts proposed in the project has the ability to index facts and production rules from associations among low-level visual features and high-level semantics. To make the machine-readable visual knowledge accessible and sharable by novices, the proposed case-based reasoning system  will provide the functions for knowledge retrieval.  An efficient visual-knowledge infrastructure is necessary to meet the needs of high quality and cost-effective basic science research and health care. Other impacts include joint mentoring of interdisciplinary students, and the creation of digital libraries for curriculum design in multidisciplinary training, as well as the engagement of underrepresented high school students and undergraduates in the research.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/14/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/15/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0812515</AwardID>
+<Investigator>
+<FirstName>Chi-Ren</FirstName>
+<LastName>Shyu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chi-Ren Shyu</PI_FULL_NAME>
+<EmailAddress><![CDATA[shyuc@missouri.edu]]></EmailAddress>
+<NSF_ID>000292610</NSF_ID>
+<StartDate>08/14/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kwangsu</FirstName>
+<LastName>Cho</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kwangsu Cho</PI_FULL_NAME>
+<EmailAddress><![CDATA[chokw@missouri.edu]]></EmailAddress>
+<NSF_ID>000072806</NSF_ID>
+<StartDate>08/14/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gerald</FirstName>
+<LastName>Arthur</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gerald L Arthur</PI_FULL_NAME>
+<EmailAddress><![CDATA[arthurg@health.missouri.edu]]></EmailAddress>
+<NSF_ID>000084522</NSF_ID>
+<StartDate>08/14/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sanda</FirstName>
+<LastName>Erdelez</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sanda Erdelez</PI_FULL_NAME>
+<EmailAddress><![CDATA[erdelezs@missouri.edu]]></EmailAddress>
+<NSF_ID>000162117</NSF_ID>
+<StartDate>08/14/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Missouri-Columbia</Name>
+<CityName>COLUMBIA</CityName>
+<ZipCode>652113020</ZipCode>
+<PhoneNumber>5738827560</PhoneNumber>
+<StreetAddress>121 UNIVERSITY HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SZPJL5ZRCLF4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MISSOURI SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Missouri-Columbia]]></Name>
+<CityName>COLUMBIA</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>652113020</ZipCode>
+<StreetAddress><![CDATA[121 UNIVERSITY HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1640</Code>
+<Text>Information Technology Researc</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7364</Code>
+<Text>Info Integration &amp; Informatics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1640</Code>
+<Text>INFORMATION TECHNOLOGY RESEARC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9215</Code>
+<Text>HIGH PERFORMANCE COMPUTING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~294153</FUND_OBLG>
+<FUND_OBLG>2009~171134</FUND_OBLG>
+</Award>
+</rootTag>

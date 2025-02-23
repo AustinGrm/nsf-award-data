@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Expanding the Accessibility of NSDL for Mobile Learning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lee Zia</SignBlockName>
+<PO_EMAI>lzia@nsf.gov</PO_EMAI>
+<PO_PHON>7032925140</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The project addresses critical user needs around learner experiences related to the use of small wireless computing devices and the NSDL by building a prototype service and evaluating its educational impact on informal and structured mobile learning in both K-12 and Higher Education, with a focus on grades 9-14 (high school and lower division undergraduate) and use of PDAs, cell phones and music/video players.  As the goal is to improve accessibility of the NSDL to diverse populations, evaluation test sites include inner city schools and outreach programs in Oakland/Berkeley.  The project is (1) providing metadata recommendations for STEM education digital resources that utilize mobile devices; (2)  implementing and testing user profile, personalization features and aspects of the local environment to support small mobile devices to interface with NSDL collections; (3) implementing personalized workspaces, search and metadata browser for small window form factors and aspects of the local environment; (4) testing prototypes in both structured and informal mobile learning activities in grades 9-12  and with lower division university students; (5) developing pedagogically-sound use scenarios of mobile learning with NSDL content; and (6) providing recommendations for mobile device services for the NSDL community that emerge from our prototype testing and evaluation.]]></AbstractNarration>
+<MinAmdLetterDate>09/11/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/11/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0840790</AwardID>
+<Investigator>
+<FirstName>Kimiko</FirstName>
+<LastName>Ryokai</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kimiko Ryokai</PI_FULL_NAME>
+<EmailAddress><![CDATA[kimiko@ischool.berkeley.edu]]></EmailAddress>
+<NSF_ID>000169775</NSF_ID>
+<StartDate>09/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alice</FirstName>
+<LastName>Agogino</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alice M Agogino</PI_FULL_NAME>
+<EmailAddress><![CDATA[agogino@berkeley.edu]]></EmailAddress>
+<NSF_ID>000751593</NSF_ID>
+<StartDate>09/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress>1608 4TH ST STE 201</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GS3YEVSS12N6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>BERKELEY</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947101749</ZipCode>
+<StreetAddress><![CDATA[1608 4TH ST STE 201]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7444</Code>
+<Text>NATIONAL SMETE DIGITAL LIBRARY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~150000</FUND_OBLG>
+</Award>
+</rootTag>

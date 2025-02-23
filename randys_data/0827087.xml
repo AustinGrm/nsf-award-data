@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Enhancing Diversity in Science]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>12360.00</AwardTotalIntnAmount>
+<AwardAmount>12360</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11060000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EES</Abbreviation>
+<LongName>Div. of Equity for Excellence in STEM</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Victor Santiago</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This grant provides support for a retreat of professional associations and scientific societies focused on Enhancing Diversity in Science.  Participants include professional association and scientific societies representing a range of scientific disciplines as well as representatives from federal agencies and private foundations. The goal of the retreat is to spawn collaboration among organizations where currently it has been lacking, but is essential to enhancing the recruitment and retention of underrepresented minorities in science.  The retreat will forge new opportunities for these organizations to work together, learn from each other and integrate approaches.  In turn, it is envisioned that this collaboration across organizations will enable key areas of progress, such as the development and utilization of outcome measures to assess program effectiveness.  The retreat is modeled after other successful action-oriented meetings (e.g., Wingspread/Johnson Foundation conferences) which include catalyst panels of experts in addition to both small breakout and general group discussions.   The retreat agenda centers on identifying (1) obstacles to the recruitment and retention of underrepresented minorities in science, and (2) successful models and future initiatives.  The ultimate aim of the meeting is to arrive at new recommendations for action on the part of associations and societies as well as identify possible collaborative, policy and funding opportunities to support broadening participation in the sciences.]]></AbstractNarration>
+<MinAmdLetterDate>07/28/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/28/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0827087</AwardID>
+<Investigator>
+<FirstName>MaryAnn</FirstName>
+<LastName>McCabe</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME>Ph.D</PI_SUFX_NAME>
+<PI_FULL_NAME>MaryAnn McCabe</PI_FULL_NAME>
+<EmailAddress><![CDATA[mmccabe@srcd.org]]></EmailAddress>
+<NSF_ID>000069991</NSF_ID>
+<StartDate>07/28/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Society for Research in Child Development</Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>200061279</ZipCode>
+<PhoneNumber>2022897902</PhoneNumber>
+<StreetAddress>1825 K ST NW STE 325</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SNLMN6KKT8H8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SOCIETY FOR RESEARCH IN CHILD DEVELOPMENT, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Society for Research in Child Development]]></Name>
+<CityName>WASHINGTON</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>200061279</ZipCode>
+<StreetAddress><![CDATA[1825 K ST NW STE 325]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1515</Code>
+<Text>AGEP</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~12360</FUND_OBLG>
+</Award>
+</rootTag>

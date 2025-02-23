@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Viral Paradigms: Molecules, Populations, Ecosystems and Infectious Disease</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>12600.00</AwardTotalIntnAmount>
+<AwardAmount>12600</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010207</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy J. Huntly</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This award will help support a workshop at the Georgia Institute of Technology in January 2008 whose objective is to dramatically alter the landscape of quantitative viral modeling. Scientists will discuss and develop new theoretical and computational tools to bridge multiple spatiotemporal scales in the study of viral dynamics from phage to human pathogens. The intersection of disease ecology and evolution is an emerging field of study, one that until now has occurred in mostly seperate realms. Appreciation has been growing that ecological dynamics can be strongly influenced by viral evolution occurring on the same time scale. A better understanding of viral ecology and evolution may lead to better understanding and control of infectious diseases. The specific biological topic areas of interest include: (i) within-host models of viral dynamics; (ii) constraints of viral exploitation; (iii) immunoepidemiology; (iv) viral inferences via (meta)genomics; (v) ecology and evolution of bacteriophages; and (vi) multi-scale perspectives: from models to data. Invited speakers represent leaders in the fields of experimental biology, mathematical biology, computer science, physics, and mathematics-most of whom have a long track record of viral research. Also participating in the workshop will be junior scientists so as to ensure the visibility of new views and to facilitate the training of graduate students and post-doctoral scholars.</AbstractNarration>
+<MinAmdLetterDate>01/24/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>01/24/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0808966</AwardID>
+<Investigator>
+<FirstName>Joshua</FirstName>
+<LastName>Weitz</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joshua S Weitz</PI_FULL_NAME>
+<EmailAddress>jsweitz@gatech.edu</EmailAddress>
+<PI_PHON>4043856169</PI_PHON>
+<NSF_ID>000477951</NSF_ID>
+<StartDate>01/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Howard</FirstName>
+<LastName>Weiss</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Howard Weiss</PI_FULL_NAME>
+<EmailAddress>hnw1@psu.edu</EmailAddress>
+<PI_PHON>8148656750</PI_PHON>
+<NSF_ID>000156334</NSF_ID>
+<StartDate>01/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 NORTH AVE NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1174</Code>
+<Text>POPULATION DYNAMICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1182</Code>
+<Text>POP &amp; COMMUNITY ECOL PROG</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7242</Code>
+<Text>Ecology of Infectious Diseases</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1174</Code>
+<Text>POPULATION DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1182</Code>
+<Text>POP &amp; COMMUNITY ECOL PROG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7242</Code>
+<Text>ECOLOGY OF INFECTIOUS DISEASES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~12600</FUND_OBLG>
+</Award>
+</rootTag>

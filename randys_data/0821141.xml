@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Acquisition of two special-purpose computers for simulation of the galactic center environment]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>108232</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jeffrey R. Pier</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project is for the acquisition of a pair of advanced, special-purpose computers to be used in N-body simulations of the dynamics and evolution of the center of the Milky Way galaxy. The computers, called GRAPE-6Pros, contain massively parallel pipelines that can compute inverse-square gravitational forces between as many as one million particles at a speed of approximately 1 trillion floating point operations per second. Combined with sophisticated N-body code that was recently developed at RIT, which efficiently integrates stellar orbits near the supermassive black hole, the GRAPE computers will enable researchers and students at RIT to carry out the most sophisticated simulations to date of the nuclear star cluster at the center of the Milky Way galaxy.]]></AbstractNarration>
+<MinAmdLetterDate>08/06/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/14/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0821141</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Merritt</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David R Merritt</PI_FULL_NAME>
+<EmailAddress><![CDATA[merritt@astro.rit.edu]]></EmailAddress>
+<NSF_ID>000437677</NSF_ID>
+<StartDate>08/06/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Donald</FirstName>
+<LastName>Figer</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Donald F Figer</PI_FULL_NAME>
+<EmailAddress><![CDATA[figer@mail.rit.edu]]></EmailAddress>
+<NSF_ID>000277452</NSF_ID>
+<StartDate>08/06/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rochester Institute of Tech</Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>146235603</ZipCode>
+<PhoneNumber>5854757987</PhoneNumber>
+<StreetAddress>1 LOMB MEMORIAL DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>J6TWTRKC1X14</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ROCHESTER INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rochester Institute of Tech]]></Name>
+<CityName>ROCHESTER</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>146235603</ZipCode>
+<StreetAddress><![CDATA[1 LOMB MEMORIAL DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1218</Code>
+<Text>ADVANCED TECHNOLOGIES &amp; INSTRM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7697</Code>
+<Text>INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~96131</FUND_OBLG>
+<FUND_OBLG>2009~12101</FUND_OBLG>
+</Award>
+</rootTag>

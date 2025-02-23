@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Advancing the Scientific Study of Discovery-to-Innovation (D-I) Partnerships]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>124139</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The University-Industry Demonstration Partnership will host a workshop on the Discovery-to-Innovation (D-I) process. The participants will include leaders from the university, industry (large and small) and government. The workshop participants will discuss the strategic, operational, and scientific issues associated with new opportunities to accelerate the D-I process. In addition to researchers from the engineering, computer science and physical science disciplines, the workshop will engage social and behavioral scientists who are leaders in the area of science of science and innovation policy. The intellectual goals of the workshop will focus on discovering new approaches to innovation research, identifying emerging and potentially supportive research activities at NSF, investigating new opportunities for University-Industry innovation research partnerships, and incorporating scientific analysis into the Discovery-to-Innovation process.&lt;br/&gt;&lt;br/&gt;The broader impact of this workshop will be to strengthen and broaden U-I research partnerships and collaborations which will ultimately amplify U.S competitiveness.]]></AbstractNarration>
+<MinAmdLetterDate>08/13/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/08/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0838814</AwardID>
+<Investigator>
+<FirstName>Susan</FirstName>
+<LastName>Sloan</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Susan S Sloan</PI_FULL_NAME>
+<EmailAddress><![CDATA[ssloan@nas.edu]]></EmailAddress>
+<NSF_ID>000417234</NSF_ID>
+<StartDate>10/14/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Bissell</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Richard E Bissell</PI_FULL_NAME>
+<EmailAddress><![CDATA[rbissell@nas.edu]]></EmailAddress>
+<NSF_ID>000460926</NSF_ID>
+<StartDate>08/13/2008</StartDate>
+<EndDate>10/14/2008</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anthony</FirstName>
+<LastName>Boccanfuso</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anthony M Boccanfuso</PI_FULL_NAME>
+<EmailAddress><![CDATA[tony@uidp.net]]></EmailAddress>
+<NSF_ID>000753256</NSF_ID>
+<StartDate>08/13/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>National Academy of Sciences</Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>204180006</ZipCode>
+<PhoneNumber>2023342254</PhoneNumber>
+<StreetAddress>2101 CONSTITUTION AVE NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>PKFJZHG2MLG9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NATIONAL ACADEMY OF SCIENCES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>PKFJZHG2MLG9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[National Academy of Sciences]]></Name>
+<CityName>WASHINGTON</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>204180006</ZipCode>
+<StreetAddress><![CDATA[2101 CONSTITUTION AVE NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1297</Code>
+<Text>STC Integrative Partnrshps Adm</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5370</Code>
+<Text>SBIR/STTR Operations</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7626</Code>
+<Text>SciSIP-Sci of Sci Innov Policy</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5370</Code>
+<Text>SMALL BUSINESS INNOVATION PROG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~99639</FUND_OBLG>
+<FUND_OBLG>2009~24500</FUND_OBLG>
+</Award>
+</rootTag>

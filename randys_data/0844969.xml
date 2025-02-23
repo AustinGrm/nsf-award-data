@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Intelligent Flexible Robots for Safe Manipulation of Anatomy</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>400912.00</AwardTotalIntnAmount>
+<AwardAmount>233618</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jie Yang</SignBlockName>
+<PO_EMAI>jyang@nsf.gov</PO_EMAI>
+<PO_PHON>7032924768</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Current medical robotics systems use non-intelligent surgical manipulators that place the entire burden on surgeons for safeguarding against damage to the anatomy. The emergence of new surgical paradigms, such as Natural Orifice Endoscopic Trans-luminal Surgery (NOTES), requires surgical robots that are capable of supporting safe interaction with the anatomy while accessing deep surgical sites through often long natural access pathways. This requires new types of robots capable of safeguarding against damage to the anatomy by acting as intelligent intervention and information gathering tools for assisting surgeons during increasingly complex procedures.&lt;br/&gt;&lt;br/&gt;The objective of this research is to provide the theoretical foundation for modeling and control of flexible robots for intelligent and safe interaction with the anatomy. Intelligence refers to the ability of these robots to gauge their force interaction with the anatomy, gather information about the anatomy, and act based on this information. Screw theory and stochastic estimation methods are used for modeling the ability of these robots to estimate their wrench interaction with the anatomy by using intrinsic and extrinsic sources of information. These performance measures are used in hybrid force control algorithms that allow characterizing shape, stiffness, and anatomical constraints governing safe maneuvering of suspended organs.&lt;br/&gt;&lt;br/&gt;The outcomes of this research will allow the development of radically new technologies for newly emerging surgical paradigms (e.g. NOTES).  &lt;br/&gt;This research will also advance the field robotics by addressing control and resolution of multi-point contact problems along flexible robots for compliant insertion control and bracing against soft environments.&lt;br/&gt;&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>02/25/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>02/25/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0844969</AwardID>
+<Investigator>
+<FirstName>Nabil</FirstName>
+<LastName>Simaan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nabil Simaan</PI_FULL_NAME>
+<EmailAddress>nabil.simaan@vanderbilt.edu</EmailAddress>
+<PI_PHON>6153430470</PI_PHON>
+<NSF_ID>000233602</NSF_ID>
+<StartDate>02/25/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>10027</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>202 LOW LIBRARY 535 W 116 ST MC</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F4N1QNPB95M4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>F4N1QNPB95M4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>10027</ZipCode>
+<StreetAddress><![CDATA[202 LOW LIBRARY 535 W 116 ST MC]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>Robust Intelligence</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9215</Code>
+<Text>HIGH PERFORMANCE COMPUTING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~92741</FUND_OBLG>
+</Award>
+</rootTag>

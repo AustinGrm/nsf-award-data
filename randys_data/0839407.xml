@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Low Cost, High Performance, Compact Wavelength Blocker For Reconfigurable Optical Add/Drop Multiplexers</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>99997</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>William Haines</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Phase I Small Business Innovation Research project is to develop a novel, low cost, high performance and compact wavelength blocker for Reconfigurable Optical Add/Drop Multiplexer (ROADM) in fiber telecommunication networks.&lt;br/&gt;&lt;br/&gt;The primary benefit of an enterprise ROADM network is its ability to add capacity wherever and whenever it is required, with the assurance that the underlying network will automatically compensate for the added traffic, eliminating the need for manual tuning or wholesale upgrades. ROADMs are very rapidly becoming a must-have for equipment vendors serving carriers' metro network needs, resulting in a multi-billion dollar market in near future.</AbstractNarration>
+<MinAmdLetterDate>11/04/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839407</AwardID>
+<Investigator>
+<FirstName>Amir</FirstName>
+<LastName>Fardad</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Amir Fardad</PI_FULL_NAME>
+<EmailAddress>afardad@setechinv.com</EmailAddress>
+<PI_PHON>9195720200</PI_PHON>
+<NSF_ID>000071951</NSF_ID>
+<StartDate>11/04/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Southeast TechInventures</Name>
+<CityName>Durham</CityName>
+<ZipCode>277134497</ZipCode>
+<PhoneNumber>9195720200</PhoneNumber>
+<StreetAddress>100 Capitola Dr, Ste 275</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Southeast TechInventures]]></Name>
+<CityName>Durham</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277134497</ZipCode>
+<StreetAddress><![CDATA[100 Capitola Dr, Ste 275]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; DEVICE TEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9139</Code>
+<Text>INFORMATION INFRASTRUCTURE &amp; TECH APPL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~99997</FUND_OBLG>
+</Award>
+</rootTag>

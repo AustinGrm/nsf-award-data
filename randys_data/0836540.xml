@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Assessing, Quantifying, and Predicting the Role of Large Woody Debris as a Driver of Hydrologic Connectivity]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>282683.00</AwardTotalIntnAmount>
+<AwardAmount>282683</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030109</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Thomas Torgersen</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Abstract&lt;br/&gt;&lt;br/&gt;Assessing, Quantifying, and Predicting the Role of Large Woody Debris&lt;br/&gt;as a Driver of Hydrologic Connectivity&lt;br/&gt;&lt;br/&gt;PI: M. Bayani Cardenas&lt;br/&gt;&lt;br/&gt;This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).  This study seeks to understand and quantify the role of large woody debris (LWD) in driving hydrologic connections and exchanges of fluid, mass, and energy between rivers and their sediment.  LWD is ubiquitous in the fluvial landscape and controls fluvial hydrology, geomorphology, biogeochemistry, and ecology at all scales.  Because of this, LWD reintroduction is now a popular tool for habitat and river restoration.  However, the success of restoration and management programs depends on a thorough scientific understanding of LWD?s many functions in streams.  We know little about how LWD, as a flow obstacle in channels, drives surface water-groundwater exchange.  Through flume, numerical, and field experiments, we will quantify the relationship of groundwater-surface water exchange to LWD configuration and channel hydraulic condition.  We will conduct flume experiments to quantify integrated and local groundwater-surface water exchange metrics under various conditions.  We will vary LWD diameter and depth as well as channel Froude number in flume runs.  The flume experiments will also consider non-isothermal conditions where we will impose diurnal warming/ cooling of the channel and monitor heat transfer through the sediment induced by LWD-current interaction. Supplementing the limited flume experiments are sensitivity analyses using coupled computational fluid dynamics simulations of turbulent free-surface open channel flow with groundwater flow and heat and solute transport. The simulations will test the influence of permeability and scour morphology on LWD-induced groundwater-surface water mass, momentum, and energy exchange and address a broader range of LWD geometry and channel conditions.  Complementing the controlled actual and numerical experiments is a field campaign in where we will quantify the reach-scale effects of introduced LWD simultaneous with detailed three-dimensional monitoring of pressure and temperature in the vicinity of one log. This allows concurrent characterization of reach-scale signals and local physical processes. Using the combined information from field, flume, and numerical experiments, we will develop a predictive relationship for LWD-induced groundwater-surface water exchange as a function of easily measured parameters such as the Darcy-Weisbach friction factor, Froude number, sediment permeability, and LWD gap and blockage ratios.  The resulting predictive relationship can guide stream management and restoration decisions as well as biogeochemical and ecological research.  &lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>06/05/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/05/2009</MaxAmdLetterDate>
+<ARRAAmount>282683</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0836540</AwardID>
+<Investigator>
+<FirstName>Meinhard</FirstName>
+<LastName>Cardenas</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Meinhard B Cardenas</PI_FULL_NAME>
+<EmailAddress><![CDATA[cardenas@jsg.utexas.edu]]></EmailAddress>
+<NSF_ID>000403441</NSF_ID>
+<StartDate>06/05/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1579</Code>
+<Text>Hydrologic Sciences</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~282683</FUND_OBLG>
+</Award>
+</rootTag>

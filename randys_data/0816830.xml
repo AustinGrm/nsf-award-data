@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Symposium on Mechanical Instabilities in Polymer Films, Interfaces and Nanostructures; held in New Orleans, LA, April 6-10, 2008.]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>9600.00</AwardTotalIntnAmount>
+<AwardAmount>9600</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Glaucio H. Paulino</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This proposal requests support for a symposium on Mechanical Instabilities in Polymer Films, Interfaces and Nanostructures, which will be held at the 235th American Chemical Society National Meeting at New Orleans, LA, April 6-10, 2008.  Once seen as mechanical failure phenomena, surface instabilities are now being harnessed to design novel devices such as flexible electronics and tunable gratings as well as provide innovative approaches to measuring material properties. As the study and use of surface instabilities branch out into new scientific disciplines, there is a clear need for organized forums to foster an exchange of knowledge and ideas among experts in fields such as solid mechanics, experimental materials research, polymer science, and device engineering. The goals of organizing this symposium are: (1) To capture the breadth of research being conducted in the area of mechanical instabilities; (2) To identify and authenticate the scientific needs across the discipline boundaries; (3) To educate graduate students, post-doctoral researchers, and other young scientists.&lt;br/&gt;&lt;br/&gt;This symposium will provide a unique forum for interdisciplinary exchange of knowledge and ideas in an open and friendly environment. The speakers will be selected to reflect the diversity of researchers in the field, with both established and young participants, including speakers from traditionally underrepresented groups in science and engineering (e.g., women and minorities). A good portion of the symposium (oral and poster presentations) will be reserved for graduate students. The work presented in this symposium will be widely disseminated for broader impacts in various forms. &lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>02/01/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>02/01/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0816830</AwardID>
+<Investigator>
+<FirstName>Rui</FirstName>
+<LastName>Huang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rui Huang</PI_FULL_NAME>
+<EmailAddress><![CDATA[ruihuang@mail.utexas.edu]]></EmailAddress>
+<NSF_ID>000190178</NSF_ID>
+<StartDate>02/01/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1630</Code>
+<Text>Mechanics of Materials and Str</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>022E</Code>
+<Text>SOLID MECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9161</Code>
+<Text>SINGLE DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>AMPP</Code>
+<Text>ADVANCED MATERIALS &amp; PROCESSING PROGRAM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~9600</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Topology and Dynamics of Mapping Class Groups and Automorphism Groups of Free Groups]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>105538.00</AwardTotalIntnAmount>
+<AwardAmount>105538</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christopher Stark</SignBlockName>
+<PO_EMAI>cstark@nsf.gov</PO_EMAI>
+<PO_PHON>7032924869</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The mapping class group Mod(S) of a surface and the outer automorphism group Out(F) of a free group are known to share many properties, but often the techniques used to study them are necessarily quite different. The PI will study the combinatorial group theoretic and cohomological properties of well-known and important, but poorly understood subgroups such as those of the Johnson filtration, or "higher" Torelli groups, of Mod(S) and Out(F). One component of this project investigates questions related to spines of spaces which can be used to study cohomology and find presentations for these groups. Concerning the dynamical aspects of Out(S), the PI expects to develop a method for constructing fully irreducible outer automorphisms which are in some sense customized. This technology is already well-developed for Mod(S), but relies heavily on metric properties of Teichmueller Space and the complex of curves. Analogues of these objects for Out(F) are very recent and not yet well-understood, and it is one of the PI's long term goals to probe their geometry via the dynamics of the constructed automorphisms.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The mapping class group is important to many areas of mathematics, including algebraic geometry, geometric group theory, and low-dimensional topology, and it also plays an important role in recent developments in theoretical physics. A successful program for studying the mapping class group Mod(S) and its relative, the automorphism group Out(F) of a free group, is based on their relationship to linear groups, i.e., groups consisting of matrices. Linear groups have been very well studied and appear everywhere in mathematics, physics, and computer science. Because matrices are relatively easy to understand, it is productive when studying a particular group to understand how closely it resembles a linear group. The PI is involved in developing the theory for Mod(S) and Out(F) by understanding possible obstructions to their being linear groups, as well as understanding the extent to which they behave and can be considered like linear groups. The goal of the project is to study these groups and particular elements therein via their algebraic, topological, geometric, and dynamical properties.]]></AbstractNarration>
+<MinAmdLetterDate>10/08/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>10/08/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0856143</AwardID>
+<Investigator>
+<FirstName>Alexandra</FirstName>
+<LastName>Pettet</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexandra R Pettet</PI_FULL_NAME>
+<EmailAddress><![CDATA[alexandra@math.ubc.ca]]></EmailAddress>
+<NSF_ID>000273935</NSF_ID>
+<StartDate>10/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Michigan - Ann Arbor</Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>1109 GEDDES AVE, SUITE 3300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091079</ZipCode>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1267</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~105538</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[REU Site in Energy and Sustainability]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EEC</Abbreviation>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Esther Bolding</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This ten week REU site program at California State University, Los Angeles (CSULA) is focused on alternative fuel resources and sustainable energy.  Twelve undergraduate students will participate in intensive training and hands-on research aimed at developing, testing and implementing non-fossil-fuel based energy technologies.  The students will work in a clinic-like atmosphere with multidisciplinary teams of scientists and engineers.  The engineers are skilled at developing and implementing technologies and the scientists have insight into the underlying chemical, biological, and physical concepts.  In addition, participants will get specific and intensive training on research methodology, proper writing and presentation techniques, fundamental principles and project management, which will provide them with a broad and important set of tools to use in their careers. &lt;br/&gt;&lt;br/&gt;The overall goal of this REU site program is to inspire a young, talented, and traditionally underrepresented group of students to continue their research careers and obtain advanced graduate degrees.  &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>05/08/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>05/08/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0852069</AwardID>
+<Investigator>
+<FirstName>Crist</FirstName>
+<LastName>Khachikian</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Crist S Khachikian</PI_FULL_NAME>
+<EmailAddress><![CDATA[crist.khachikian@csun.edu]]></EmailAddress>
+<NSF_ID>000438702</NSF_ID>
+<StartDate>05/08/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Darrell</FirstName>
+<LastName>Guillaume</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Darrell Guillaume</PI_FULL_NAME>
+<EmailAddress><![CDATA[dguilla@calstatela.edu]]></EmailAddress>
+<NSF_ID>000440263</NSF_ID>
+<StartDate>05/08/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California State L A University Auxiliary Services Inc.</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900324226</ZipCode>
+<PhoneNumber>3233433648</PhoneNumber>
+<StreetAddress>5151 STATE UNIVERSITY DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>34</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA34</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>C1ABLRAQTB48</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CAL STATE LA UNIVERSITY AUXILIARY SERVICES INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[California State University-Los Angeles]]></Name>
+<CityName>Los Angeles</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900324221</ZipCode>
+<StreetAddress><![CDATA[5151 State University Dr]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>34</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA34</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1360</Code>
+<Text>EWFD-Eng Workforce Development</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1360</Code>
+<Text>HUMAN RESOURCES DEVELOPMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~300000</FUND_OBLG>
+</Award>
+</rootTag>

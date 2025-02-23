@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRCD/EI:     Integrating Functional Computer-Aided Reasoning into the ComputerScience Curriculum</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/13/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>210303.00</AwardTotalIntnAmount>
+<AwardAmount>210303</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ephraim Glinert</SignBlockName>
+<PO_EMAI>eglinert@nsf.gov</PO_EMAI>
+<PO_PHON>7032924341</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>0417413&lt;br/&gt;GA Tech Research Corp - GA Institute of Technology&lt;br/&gt;Manolios&lt;br/&gt;&lt;br/&gt;"CRCD/EI: Integrating Functional Computer-Aided Reasoning into the Computer Science Curriculum"&lt;br/&gt;&lt;br/&gt;This project involves the development of tools, courses, modules, and self-paced online materials that integrate computer-aided reasoning into the Computer Science (CS) curriculum. This project is novel in undergraduate CS education. The use of a state-of-the-art theorem proving technology (ACL2) permits students to get instant, reliable feedback, thereby enabling effective learning and self-paced study. ACL2 is a tool consisting of a functional programming language, a logic, and a theorem-prover, that has been used to prove some of the largest and most complicated theorems ever proved about commercially designed systems. The project involves at least two research challenges: taking a necessarily complex, state-of-the-art, theorem proving system and teaching undergraduates how to be effective users in a portion of a semester, and developing effective courses in other areas, such as hardware design and object oriented programming, that are based on the use of computer-aided reasoning. A sequence of mathematical concepts and mechanical tools, with well-designed graphical user-interfaces, allow students to gradually and seamlessly master ACL2. Integration of computer-aided reasoning into current curricula is accomplished through two courses that make essential use of these tools, thereby giving students a deeper and more complete understanding of the material. The courses cover the following topics: computer organization and design, object-oriented programming using the JVM, theorem proving, and formal methods. One of the undergraduate courses focuses on computer organization and design and the other on the Java Virtual Machine (JVM). In these two courses, computer-aided reasoning is used to give students a deeper understanding of the material. They are required to think about the properties systems and components under consideration should enjoy and how to prove that these properties do in fact hold. &lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>09/18/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/18/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0844078</AwardID>
+<Investigator>
+<FirstName>Panagiotis</FirstName>
+<LastName>Manolios</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Panagiotis Manolios</PI_FULL_NAME>
+<EmailAddress>pete@ccs.neu.edu</EmailAddress>
+<NSF_ID>000186555</NSF_ID>
+<StartDate>09/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northeastern University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>021155005</ZipCode>
+<PhoneNumber>6173733004</PhoneNumber>
+<StreetAddress>360 HUNTINGTON AVE</StreetAddress>
+<StreetAddress2><![CDATA[177-500]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>001423631</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>NORTHEASTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>001423631</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northeastern University]]></Name>
+<CityName>BOSTON</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021155005</ZipCode>
+<StreetAddress><![CDATA[360 HUNTINGTON AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1709</Code>
+<Text>CISE EDUCAT RES &amp; CURRIC DEVEL</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9215</Code>
+<Text>HIGH PERFORMANCE COMPUTING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9217</Code>
+<Text>NATNL RESERCH &amp; EDUCAT NETWORK</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0104</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>490100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0105</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>490100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2004~75303</FUND_OBLG>
+<FUND_OBLG>2005~135000</FUND_OBLG>
+</Award>
+</rootTag>

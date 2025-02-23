@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Central Texas Engineering Education Collaborative]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>149786.00</AwardTotalIntnAmount>
+<AwardAmount>149786</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EEC</Abbreviation>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sue Kemnitzer</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This exploratory project will form the Central Texas Engineering Education Collaborative which will leverage and scale existing proven program components to strengthen the regional engineering pipeline. It will support current pre-engineering programs in local high schools that encourage many students who may not have thought of pursuing engineering careers to do so. In addition, the Collaborative will recruit new industry volunteers to serve as mentors for middle school teams participating in hands-on pre-engineering activities to attract more students into these programs. Postsecondary engineering faculty will work with local high school educators to compare curriculum and develop articulation agreements to strengthen secondary to postsecondary engineering pathways. The project will afford a much-needed opportunity to study how a variety of secondary and post-secondary institutions, including traditional high schools, tech-focused high schools, a community college system, a teaching college, and a top-tier research university, can collaborate to improve communication and vertical alignment of STEM educational and career opportunities.&lt;br/&gt;&lt;br/&gt;The Collaborative addresses a critical need for regional and state competitiveness. Central Texas is a recognized technology and entrepreneurial hub, but remaining competitive requires providing a skilled engineering workforce to local business and creating strategies that attract and retain students traditionally underrepresented in higher education, particularly in science, technology, engineering, and mathematics disciplines. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/15/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/15/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0835961</AwardID>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Crawford</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Richard H Crawford</PI_FULL_NAME>
+<EmailAddress><![CDATA[rhc@mail.utexas.edu]]></EmailAddress>
+<NSF_ID>000361720</NSF_ID>
+<StartDate>08/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bahram</FirstName>
+<LastName>Asiabanpour</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bahram Asiabanpour</PI_FULL_NAME>
+<EmailAddress><![CDATA[ba13@txstate.edu]]></EmailAddress>
+<NSF_ID>000487365</NSF_ID>
+<StartDate>08/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hannah</FirstName>
+<LastName>Gourgey</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hannah Gourgey</PI_FULL_NAME>
+<EmailAddress><![CDATA[hgourgey@austincc.edu]]></EmailAddress>
+<NSF_ID>000504683</NSF_ID>
+<StartDate>08/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Austin Community College</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787544700</ZipCode>
+<PhoneNumber>5122237000</PhoneNumber>
+<StreetAddress>9101 TUSCANY WAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ZSFBTJE461W5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>AUSTIN COMMUNITY COLLEGE DISTRICT</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Austin Community College]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787544700</ZipCode>
+<StreetAddress><![CDATA[9101 TUSCANY WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1340</Code>
+<Text>EngEd-Engineering Education</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>110E</Code>
+<Text>EDUCATION RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~149786</FUND_OBLG>
+</Award>
+</rootTag>

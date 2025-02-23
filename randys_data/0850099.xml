@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Science and Technology Honors Program for Retaining and Advancing Majors (STREAM)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>600000.00</AwardTotalIntnAmount>
+<AwardAmount>600000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yvette Weatherton</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project is awarding scholarships to academically talented and financially needy students at this historically black university and is supporting the scholars through a variety of structures and programs. This project builds on a successful CSEMS project and is focused on honors students in STEM fields. The honors program provides many advantages to the scholarship recipients including involvement in independent undergraduate research projects as well as access to seminars and lectures given by visiting scholars. Students are being strongly encouraged to pursue graduate studies through this program and research experiences provide the vehicle for fostering interest in post graduate studies. Student scholars are being advised to participate in on-campus tutoring as needed and will be paired with graduate students as mentors. The success of the project is being rigorously assessed through quantitative and qualitative measures. &lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>03/18/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/18/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0850099</AwardID>
+<Investigator>
+<FirstName>George</FirstName>
+<LastName>Harrison</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>George C Harrison</PI_FULL_NAME>
+<EmailAddress><![CDATA[gcharrison@nsu.edu]]></EmailAddress>
+<NSF_ID>000226590</NSF_ID>
+<StartDate>03/18/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Katina</FirstName>
+<LastName>Patrick</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Katina H Patrick</PI_FULL_NAME>
+<EmailAddress><![CDATA[khpatrick@nsu.edu]]></EmailAddress>
+<NSF_ID>000245228</NSF_ID>
+<StartDate>03/18/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Aurelia</FirstName>
+<LastName>Williams</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Aurelia T Williams</PI_FULL_NAME>
+<EmailAddress><![CDATA[atwilliams@nsu.edu]]></EmailAddress>
+<NSF_ID>000239913</NSF_ID>
+<StartDate>03/18/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Norfolk State University</Name>
+<CityName>NORFOLK</CityName>
+<ZipCode>235048050</ZipCode>
+<PhoneNumber>7578239053</PhoneNumber>
+<StreetAddress>700 PARK AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>XAHKEJAWL1N6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORFOLK STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>GMQLHKD9TQR7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Norfolk State University]]></Name>
+<CityName>NORFOLK</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>235048050</ZipCode>
+<StreetAddress><![CDATA[700 PARK AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~600000</FUND_OBLG>
+</Award>
+</rootTag>

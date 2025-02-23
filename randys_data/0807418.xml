@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Dissertation Research - Coevolution in a insect-plant interaction: geographical variation, local adaptation and the costs of counteradaptation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>11992.00</AwardTotalIntnAmount>
+<AwardAmount>11992</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010207</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy J. Huntly</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Coevolution, the evolution of adaptations to ecological interactions with other species, has enhanced the diversity of life and has had profound effect on ecological communities and ecosystems. However, rates and processes of coevolution are not well understood. The investigators will use a highly integrative approach to study coevolution between a plant, the rattlebox (Crotalaria pallida), and a moth (Utetheisa ornatrix) that consumes seeds and is the plant's major enemy. The plant has chemicals that are thought to provide protection against the moth, and the investigators have discovered that the plant-moth interaction varies geographically, with the moth locally adapted to the plant. The investigators will integrate diverse approaches to unravel the coevolutionary dynamics. They will use molecular markers and biochemical assays to study the genetic structure of the plant and the moth populations, the relationship of genetic structure to the interaction, and adaptation of the moth to the plant's toxins.&lt;br/&gt;&lt;br/&gt;The project will train students, including those from underrepresented groups, and will facilitate exchange of ideas between United States and Brazilian academic communities through collaboration with a Brazilian research group. The results are likely to have important implications for biological control of weeds and insect pests, and may also advance understanding of coevolution between pathogens and humans.&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>06/12/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/12/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0807418</AwardID>
+<Investigator>
+<FirstName>Douglas</FirstName>
+<LastName>Futuyma</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Douglas J Futuyma</PI_FULL_NAME>
+<EmailAddress><![CDATA[futuyma@life.bio.sunysb.edu]]></EmailAddress>
+<NSF_ID>000154797</NSF_ID>
+<StartDate>06/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rodrigo</FirstName>
+<LastName>Cogni</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rodrigo Cogni</PI_FULL_NAME>
+<EmailAddress><![CDATA[rcogni@life.bio.sunysb.edu]]></EmailAddress>
+<NSF_ID>000326372</NSF_ID>
+<StartDate>06/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY at Stony Brook</Name>
+<CityName>STONY BROOK</CityName>
+<ZipCode>117940001</ZipCode>
+<PhoneNumber>6316329949</PhoneNumber>
+<StreetAddress>W5510 FRANKS MELVILLE MEMORIAL L</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M746VC6XMNH9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SUNY at Stony Brook]]></Name>
+<CityName>STONY BROOK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>117940001</ZipCode>
+<StreetAddress><![CDATA[W5510 FRANKS MELVILLE MEMORIAL L]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7377</Code>
+<Text>EVOLUTIONARY ECOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7377</Code>
+<Text>EVOLUTIONARY ECOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~11992</FUND_OBLG>
+</Award>
+</rootTag>

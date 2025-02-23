@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Expert Workshop on Knowledge Markets in the Life Sciences</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>30000.00</AwardTotalIntnAmount>
+<AwardAmount>30000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Spengler</SignBlockName>
+<PO_EMAI>sspengle@nsf.gov</PO_EMAI>
+<PO_PHON>7032927347</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This workshop is the first policy meeting to consider what new exchange mechanisms -- and especially markets -- are being experimented with in the life sciences in order to improve access to and use of the vast amounts of data, knowledge and information created in the biomedical sciences. What is new here is the attempt to understand how financial pressures in the biomedical industries are dove-tailing with public policy priorities and not-for-profit/not-for-loss business models which deliver greater access to intellectual assets. The workshop will bring together expertise from academia and public research organizations, health and IT industries, the venture capital and institutional investor community, non-governmental organizations, as well as policymakers. They will debate whether not only knowledge markets improve innovation efficiency but also whether they are creating new business opportunities and business models. The OECD has broad expertise in a number of areas related to knowledge markets including: collaborative mechanisms for access to intellectual property, OECD Guidelines on licensing practices, new models for organizing research in health innovation, knowledge flows and intellectual asset valuation. The workshop will include international speakers and participants from the policymaking, business and research communities from the 30 OECD countries and beyond. It will increase awareness among policymakers about new trends in organizing access to data, knowledge, and information in the life sciences and provide a typology of knowledge markets. It will show how the research infrastructure is evolving and help governments understand how their policies can influence the emergence of knowledge markets, as well as an explanation of why they may want to do so.  The meeting will be summarized in a Policy Report to be discussed and agreed by OECD countries through the Working Party on Biotechnology.&lt;br/&gt;&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>09/11/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>01/07/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0852303</AwardID>
+<Investigator>
+<FirstName>Benedicte</FirstName>
+<LastName>Callan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Benedicte Callan</PI_FULL_NAME>
+<EmailAddress>Benedicte.Callan@oecd.org</EmailAddress>
+<NSF_ID>000511032</NSF_ID>
+<StartDate>09/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Organization For Economic Cooperation &amp; Development</Name>
+<CityName>Paris</CityName>
+<ZipCode/>
+<PhoneNumber>0145249361</PhoneNumber>
+<StreetAddress>2, rue Andre Pascal</StreetAddress>
+<StreetAddress2/>
+<CountryName>France</CountryName>
+<StateName/>
+<StateCode/>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_ORG/>
+<ORG_DUNS_NUM>733909030</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>ORGANIS COOPERATION DEVELOPP ECONOMIQUE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>733909030</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Organization For Economic Cooperation &amp; Development]]></Name>
+<CityName>Paris</CityName>
+<StateCode/>
+<ZipCode/>
+<StreetAddress><![CDATA[2, rue Andre Pascal]]></StreetAddress>
+<CountryCode>FR</CountryCode>
+<CountryName>France</CountryName>
+<StateName/>
+<CountryFlag>0</CountryFlag>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_PERF/>
+</Performance_Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>Info Integration &amp; Informatics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>H396</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>7484</Code>
+<Text>IIS SPECIAL PROJECTS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9139</Code>
+<Text>INFORMATION INFRASTRUCTURE &amp; TECH APPL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2008~30000</FUND_OBLG>
+</Award>
+</rootTag>

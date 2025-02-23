@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Product Imaging of Photodissociations and Reactions of Atmospherically Important Molecules</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/10/2008</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>250301.00</AwardTotalIntnAmount>
+<AwardAmount>250301</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Charles Pibel</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>In this award, funded by the Experimental Physical Chemistry program, Paul Houston of Cornell University and his students will use product imaging techniques to study the ultraviolet photolysis of small molecules and bimolecular reactions involving atomic oxygen.  The Cornell group investigate the one- and two-photon dissociation of NO2 and compare the speed and angular distributions of the atomic products with theoretical predictions.  NO2 plays an important role in the catalytic destruction of ozone, and a better understanding of the mechanism of its photodissociation will improve our ability to model the chemistry of the upper atmosphere.  A major new thrust of the work is to apply product imaging techniques to the study of bimolecular reactions, in particular reactions between high energy oxygen atoms and a variety of atmospheric species, including molecular nitrogen and oxygen.  Houston and his students also will study the reaction of excited oxygen atoms with N2O to produce N2 and O2 or 2NO.  In these studies, Houston will measure the vibrational and rotational distributions of the molecular collision partners following deactivation of excited oxygen atoms and relate these results to theoretical predictions of reaction efficiencies.   &lt;br/&gt;&lt;br/&gt;This work addresses fundamental experimental issues in chemical physics and promises to provide detailed results on the chemistry of the oxides of nitrogen and of excited oxygen atoms, species that play important roles in the chemistry and photochemistry of the upper atmosphere.   The research will provide excellent training for graduate students and postdoctoral fellows in experimental physical chemistry, particularly in the further development of product imaging techniques. &lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>10/22/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/07/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0852482</AwardID>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Houston</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Paul L Houston</PI_FULL_NAME>
+<EmailAddress>paul.houston@cos.gatech.edu</EmailAddress>
+<PI_PHON>4043850866</PI_PHON>
+<NSF_ID>000508078</NSF_ID>
+<StartDate>10/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Tech Research Corporation]]></Name>
+<CityName>ATLANTA</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>30332</ZipCode>
+<StreetAddress><![CDATA[926 DALNEY ST NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1962</Code>
+<Text>SPECTROSCOPY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~90301</FUND_OBLG>
+<FUND_OBLG>2009~160000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Assisting CS, CE, and EE Student Success (ACCESS)</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2015</AwardExpirationDate>
+<AwardTotalIntnAmount>597999.00</AwardTotalIntnAmount>
+<AwardAmount>597999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yvette Weatherton</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This project is awarding scholarships to academically talented and financially needy students and is supporting the scholars through a variety of structures and programs. Women are being especially targeted for support. Student scholars are enrolled as computer engineering, electrical engineering, or computer science majors. The scholarship program consists of academic and residential programs designed to build community and to ultimately increase the retention of students through to successful graduation. Scholars enroll in several courses together to improve their sense of community and to provide a support structure for successful course completion. A residential component serves to increase the sense of community to an even greater extent.</AbstractNarration>
+<MinAmdLetterDate>07/31/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/31/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0807229</AwardID>
+<Investigator>
+<FirstName>Frankie</FirstName>
+<LastName>Ferguson</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Frankie J Ferguson</PI_FULL_NAME>
+<EmailAddress>fjf@ucsc.edu</EmailAddress>
+<PI_PHON>8314594172</PI_PHON>
+<NSF_ID>000252210</NSF_ID>
+<StartDate>07/31/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joel</FirstName>
+<LastName>Kubby</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joel Kubby</PI_FULL_NAME>
+<EmailAddress>jkubby@soe.ucsc.edu</EmailAddress>
+<PI_PHON>8314591073</PI_PHON>
+<NSF_ID>000444947</NSF_ID>
+<StartDate>07/31/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Adrienne</FirstName>
+<LastName>Harrell</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Adrienne D Harrell</PI_FULL_NAME>
+<EmailAddress>adrienne@soe.ucsc.edu</EmailAddress>
+<PI_PHON>8314595278</PI_PHON>
+<NSF_ID>000082759</NSF_ID>
+<StartDate>07/31/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>McDowell</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Charles E McDowell</PI_FULL_NAME>
+<EmailAddress>charlie@cs.ucsc.edu</EmailAddress>
+<PI_PHON>8314594772</PI_PHON>
+<NSF_ID>000455408</NSF_ID>
+<StartDate>07/31/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tracy</FirstName>
+<LastName>Larrabee</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tracy Larrabee</PI_FULL_NAME>
+<EmailAddress>larrabee@ucsc.edu</EmailAddress>
+<PI_PHON>8314593476</PI_PHON>
+<NSF_ID>000441255</NSF_ID>
+<StartDate>07/31/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Cruz</Name>
+<CityName>SANTA CRUZ</CityName>
+<ZipCode>950641077</ZipCode>
+<PhoneNumber>8314595278</PhoneNumber>
+<StreetAddress>1156 HIGH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA20</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>VXUFPE4MCZH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA SANTA CRUZ</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Santa Cruz]]></Name>
+<CityName>SANTA CRUZ</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>950641077</ZipCode>
+<StreetAddress><![CDATA[1156 HIGH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA20</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EHR, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~597999</FUND_OBLG>
+</Award>
+</rootTag>

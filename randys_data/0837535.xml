@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Project: Participatory-based approach on Teaching and Learning Biometric Security and Privacy]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>90007.00</AwardTotalIntnAmount>
+<AwardAmount>90007</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Don Millard</SignBlockName>
+<PO_EMAI>dmillard@nsf.gov</PO_EMAI>
+<PO_PHON>7032924620</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Computer Science (31)&lt;br/&gt;&lt;br/&gt;This collaborative project improves undergraduate education and student learning in the area of biometric security and privacy. The specific objectives of this project are: (A) to develop courseware modules that focus on three topics: (i) biometric technologies, (ii) privacy, and (iii) techniques for privacy preserving biometric security; and (B) to explore the notion of connective and collective intelligence grounded on peer collaboration and competition for promoting active learning, and through which to identify the conditions under which the courseware materials are effective to create a positive impact on undergraduate learning in biometric security and privacy.&lt;br/&gt;&lt;br/&gt;A unique characteristic of this project is to engage students to actively contribute selected case studies and problem solutions to be accumulated and included in the learning guide. Engaging in the active contribution of content materials is significant in two regards. First, it allows the courseware to capture the collective intelligence that reflects diverse viewpoints on usable biometric security and privacy expectation. Second, engaging students in the process of contribution requires them to connect knowledge and information sources to achieve connective intelligence.&lt;br/&gt;&lt;br/&gt;This project produces three deliverables: (A) a student learning guide on the concepts, principles, and technologies on biometric security and privacy; (B) biometric data and privacy preserving biometric data retrieval software; and (C) lab manuals for experiments that help students gain hands-on experience on the biometric data and technologies, their applications, and their privacy implications.]]></AbstractNarration>
+<MinAmdLetterDate>06/01/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/01/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0837535</AwardID>
+<Investigator>
+<FirstName>Bon</FirstName>
+<LastName>Sy</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bon K Sy</PI_FULL_NAME>
+<EmailAddress><![CDATA[bon.k.sy@gmail.com]]></EmailAddress>
+<NSF_ID>000107899</NSF_ID>
+<StartDate>06/01/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CUNY Queens College</Name>
+<CityName>FLUSHING</CityName>
+<ZipCode>113671575</ZipCode>
+<PhoneNumber>7189975400</PhoneNumber>
+<StreetAddress>65-30 KISSENA BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EJABWGUJM228</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U7WPB7AFN7M2</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[CUNY Queens College]]></Name>
+<CityName>FLUSHING</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>113671575</ZipCode>
+<StreetAddress><![CDATA[65-30 KISSENA BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1668</Code>
+<Text>CYBERCORPS: SCHLAR FOR SER</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0409</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000910DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>1300CYXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~90007</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Supernova: Seeding Talent in Physics and Astrophysics to Prepare the Next Generation Workforce in the Bay Area</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2015</AwardExpirationDate>
+<AwardTotalIntnAmount>599899.00</AwardTotalIntnAmount>
+<AwardAmount>599899</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Tymann</SignBlockName>
+<PO_EMAI>ptymann@nsf.gov</PO_EMAI>
+<PO_PHON>7032922832</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Physics (13)&lt;br/&gt;&lt;br/&gt;To enable students from four Bay Area community colleges to enroll at University of California-Santa Cruz (UCSC) in physics or astronomy, the UCSC S-STEM project is providing 21 scholarships to financially needy but academically talented undergraduates from Cabrillo, De Anze, Foothill, and Hartnell Community Colleges.  A special course has been designed to "smooth" the transition of the community college students into the physics program.   Like the other physics and astronomy students at UCSC, the S-STEM students are engaging in research with departmental faculty and participating in off-campus internships at places like NASA Ames, Lawrence Livermore National Laboratory, and the Stanford Linear Accelerator.  A fall social features speakers from the internship sites, while the spring social is being directed at third year and younger students to prepare them for their senior thesis project.  Additional program activities include: 1) quarterly gatherings, 2) tutoring, 3) yearly symposium, 4) alumni support program, and 5) job-placement program.</AbstractNarration>
+<MinAmdLetterDate>02/13/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>12/16/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0850384</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Belanger</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David P Belanger</PI_FULL_NAME>
+<EmailAddress>dave@dave.ucsc.edu</EmailAddress>
+<PI_PHON>8314592871</PI_PHON>
+<NSF_ID>000471531</NSF_ID>
+<StartDate>02/13/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Adriane</FirstName>
+<LastName>Steinacker</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Adriane Steinacker</PI_FULL_NAME>
+<EmailAddress>asteinac@ucsc.edu</EmailAddress>
+<PI_PHON>8314595278</PI_PHON>
+<NSF_ID>000510535</NSF_ID>
+<StartDate>02/13/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Cruz</Name>
+<CityName>SANTA CRUZ</CityName>
+<ZipCode>950641077</ZipCode>
+<PhoneNumber>8314595278</PhoneNumber>
+<StreetAddress>1156 HIGH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA20</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>VXUFPE4MCZH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA SANTA CRUZ</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Santa Cruz]]></Name>
+<CityName>SANTA CRUZ</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>950641077</ZipCode>
+<StreetAddress><![CDATA[1156 HIGH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA20</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EHR, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~25970</FUND_OBLG>
+<FUND_OBLG>2010~573929</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Nitrile Anions: Uunmasking Fundamental Reactivity]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>386500</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090003</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tingyu Li</SignBlockName>
+<PO_EMAI>tli@nsf.gov</PO_EMAI>
+<PO_PHON>7032924949</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project will continue the development of new stereoselective alkylations of metalated nitriles.  New methods of generating nitrile anions will be pursued with particular attention on environmentally benign alkylations.  Detailed mechanistic analysis of alkene alkylations will be undertaken as a prelude to developing a general synthesis of densely substituted bicyclic ketones.  Fundamental insight from these reactions will be used to develop a chiral alkylation strategy for assembling contiguous tertiary-quaternary stereocenters.  &lt;br/&gt;&lt;br/&gt;With this award, the Organic and Macromolecular Chemistry Program is supporting the research of Professor Fraser F. Fleming of the Department of Chemistry at Duquesne University.  Professor Fleming's research focuses on new reactions of metalated nitriles that are unable to be achieved through alkylation of the corresponding carbonyl derivatives.  The chemistry will contribute to environmentally benign methods for chemical synthesis, address the long-standing difficulty of synthesizing hindered chiral centers, and provide fundamental insight into the nature of metalated nitriles.  Achieving these goals will impact the synthesis of small organic molecules of particular interest to pharmaceutical and agricultural industries.]]></AbstractNarration>
+<MinAmdLetterDate>06/25/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/23/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0808996</AwardID>
+<Investigator>
+<FirstName>Fraser</FirstName>
+<LastName>Fleming</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Fraser F Fleming</PI_FULL_NAME>
+<EmailAddress><![CDATA[fleming@drexel.edu]]></EmailAddress>
+<NSF_ID>000436128</NSF_ID>
+<StartDate>06/25/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duquesne University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152820001</ZipCode>
+<PhoneNumber>4123961537</PhoneNumber>
+<StreetAddress>600 FORBES AVENUE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NGYSJ2L1LZX3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DUQUESNE UNIVERSITY OF THE HOLY SPIRIT</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>R8GSG4QZV989</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duquesne University]]></Name>
+<CityName>PITTSBURGH</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152820001</ZipCode>
+<StreetAddress><![CDATA[600 FORBES AVENUE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1950</Code>
+<Text>METHODOLOGY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7298</Code>
+<Text>International Research Collab</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5937</Code>
+<Text>SWEDEN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5979</Code>
+<Text>Europe and Eurasia</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~120000</FUND_OBLG>
+<FUND_OBLG>2009~266500</FUND_OBLG>
+</Award>
+</rootTag>

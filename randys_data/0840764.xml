@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[AMSER Phase II:  Expanding the Applied Math and Science Education Repository]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>724826.00</AwardTotalIntnAmount>
+<AwardAmount>724826</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Herbert H. Richtol</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The Applied Math and Science Education Repository (AMSER) is a collaborative NSDL Pathways project designed to help meet the resource and service needs of community and technical colleges and forge a link between these communities and the NSDL. AMSER consists of a customized portal, a resource collection, and a variety of integrated tools and services for enhancing the learning experiences of community college students and the teaching capabilities of instructors at those institutions. Services include e-mail and online resource updates for students and faculty, an online foldering system that helps users organize and share resources found on AMSER, and personalized resource bulletins. In this NSDL Pathways - Stage II project AMSER is expanding the resource collection to cover new vocational tracks, adding interactive learning modules combining web-based resources with material from journal publishers, adding new taxonomy metadata to match resources to key concepts in applied STEM education, and conducting workshops and other outreach efforts to increase awareness of AMSER and NSDL. The project's intellectual merit rests on the contributions it is making to the education community, the digital library community, and the NSDL as a whole. In particular this Stage II expansion is introducing innovative and creative ways to reach students and faculty in the two-year college community and connect them with the NSDL, including the integration of a variety of Web 2.0 technologies into AMSER and the evaluation methods proposed for this expansion of the project. Through its focus on the community college sector, the project is exercising broader impacts since a large percentage of the nation's workforce enrolls in coursework and degree programs through this sector. Community and technical colleges also serve high percentages of minorities and other underserved populations meaning that AMSER is connecting NSDL to a broader array of underserved users. Finally, given the high rates of adjunct faculty at these institutions, the use of AMSER promises to free up time for such faculty to engage in more classroom innovations and exchange pedagogical best practices with colleagues, by promoting the reusability of resources already created by others.]]></AbstractNarration>
+<MinAmdLetterDate>09/12/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/12/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0840764</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Lesiecki</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael L Lesiecki</PI_FULL_NAME>
+<EmailAddress><![CDATA[mlesiecki@gmail.com]]></EmailAddress>
+<NSF_ID>000305642</NSF_ID>
+<StartDate>09/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rachael</FirstName>
+<LastName>Bower</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rachael Bower</PI_FULL_NAME>
+<EmailAddress><![CDATA[bower@scout.wisc.edu]]></EmailAddress>
+<NSF_ID>000208534</NSF_ID>
+<StartDate>09/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Edward</FirstName>
+<LastName>Almasy</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Edward Almasy</PI_FULL_NAME>
+<EmailAddress><![CDATA[ealmasy@scout.wisc.edu]]></EmailAddress>
+<NSF_ID>000335415</NSF_ID>
+<StartDate>09/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 N PARK ST STE 6301</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LCLSJAGTNZQ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QAFKGG7YY396</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>537151218</ZipCode>
+<StreetAddress><![CDATA[21 N PARK ST STE 6301]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7444</Code>
+<Text>NATIONAL SMETE DIGITAL LIBRARY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~724826</FUND_OBLG>
+</Award>
+</rootTag>

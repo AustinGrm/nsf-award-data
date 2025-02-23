@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Characterizing Near-Wall Electrokinetics of Colloidal Particles</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>314998.00</AwardTotalIntnAmount>
+<AwardAmount>314998</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName> Ashok S. Sangani</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>CBET-0828782&lt;br/&gt;Yoda&lt;br/&gt;&lt;br/&gt;Microfluidic "Labs on a Chip" (LOC) have revolutionized genomics and enzymatic assays by shrinking the contents of an entire analytical chemistry laboratory down to a few cm2. Shrinking from micro- to nanofluidics requires a fundamental understanding of interfacial transport since at these scales, the entire flow will be within 1 ìm of the wall-and surface (e.g. electrostatic) forces will become significant.  Recently, a number of studies have suggested that the no-slip condition breaks down at submicron scales. Most of the experimental studies (e.g., microscale particle-image velocimetry or ìPIV) use techniques that determine the velocity of nanoparticle tracers, and assume that the tracer velocity is the fluid velocity. Yoda has recently shown that are ìPIV tracers excluded, most likely by electrostatic repulsion, from the first 100-150 nm next to the wall. Correcting their PIV data for this non-uniform tracer distribution gives no slip at the wall and velocity gradients in agreement with analytical predictions. Assuming, as is standard, uniformly distributed tracers gives false slip lengths &gt;200 nm. To our knowledge, no other experimental studies have considered or quantified how near-wall particle distribution or electrostatic forces affect their data.  We therefore propose a fundamental, mainly experimental, three-year investigation on the dynamics of colloidal particles suspended in a conducting solution near a planar wall subject to an external electric field for a variety of particle-solution-wall systems. This is a basic model of:&lt;br/&gt;- new nanoscale assembly techniques that exploit electrokinetic phenomena to precisely&lt;br/&gt;manipulate and assemble nanoparticles suspended in a conducting liquid; and&lt;br/&gt;- PIV studies of the microscale electrokinetically driven flows used in a wide variety of LOC.&lt;br/&gt;&lt;br/&gt;The research objectives of this effort are to:&lt;br/&gt;&lt;br/&gt;I. Develop new colloidal tracers that access the flow region within 150 nm of the wall-including the wall EDL-and extend the measurement capabilities and accuracy of u/nPIV, the leading microscale velocimetry techniques.&lt;br/&gt;II. Understand which physical properties that affect the near-particle and wall charge distributions have the greatest impact on near-wall colloidal particle electrokinetics and why these properties have such an effect.&lt;br/&gt;&lt;br/&gt;The proposed research will build on an existing collaboration between the PIs, leveraging Yoda's&lt;br/&gt;novel interfacial diagnostics and Olesik's novel nanoparticles and surface chemistry expertise.&lt;br/&gt;&lt;br/&gt;Intellectual merits: This work will advance knowledge and understanding of microfluidics by:&lt;br/&gt;- Developing particles, including new carbon nanoparticles, with well-controlled surface charge that can be used both as flow tracers and for electrokinetically driven nanoparticle assembly;&lt;br/&gt;- Improving the accuracy and near-wall capabilities of microscale velocimetry techniques - which could transform the debate on the breakdown of the no-slip condition; and&lt;br/&gt;- Determining how particle, wall and surface properties, by changing the near-particle and nearwall charge distributions, affect particle-wall interactions and dynamics.&lt;br/&gt;&lt;br/&gt;This research is potentially transformative because:&lt;br/&gt;- Robust, reliable and scalable methods for electrokinetically driven nanoscale assembly would transform nanoelectronics and bring the benefits of nanotechnology to the public;&lt;br/&gt;- Reliable and accurate interfacial velocimetry techniques will help develop new technologies based on surface forces for controlling and actuating flows at the sub-micron scale, and transform nanofluidic devices.&lt;br/&gt;&lt;br/&gt;Broader impacts: This work will support development of:&lt;br/&gt;- High-school level Web-based presentations on basic aspects of electrokinetically driven flow;&lt;br/&gt;- Hands-on demonstrations for 6th-12th grade students that show how micro and macroscale flows differ, for example, in terms of the different methods of propulsion (twisting vs. flapping) used by micro- and macro-organisms.  Both PIs will continue to mentor students from underrepresented groups, and ensure that their outreach activities include schools with a high fraction of students from such groups</AbstractNarration>
+<MinAmdLetterDate>08/04/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0828782</AwardID>
+<Investigator>
+<FirstName>Minami</FirstName>
+<LastName>Yoda</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Minami Yoda</PI_FULL_NAME>
+<EmailAddress>minami@gatech.edu</EmailAddress>
+<PI_PHON>4048946838</PI_PHON>
+<NSF_ID>000333917</NSF_ID>
+<StartDate>08/04/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Susan</FirstName>
+<LastName>Olesik</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Susan V Olesik</PI_FULL_NAME>
+<EmailAddress>olesik.1@osu.edu</EmailAddress>
+<PI_PHON>6142920733</PI_PHON>
+<NSF_ID>000293597</NSF_ID>
+<StartDate>08/04/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 NORTH AVE NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1415</Code>
+<Text>PMP-Particul&amp;MultiphaseProcess</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1443</Code>
+<Text>FD-Fluid Dynamics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>055E</Code>
+<Text>Particle science and technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~314998</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EFRI-COPN  Deep Learning in the Mammalian Visual Cortex]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>1999992.00</AwardTotalIntnAmount>
+<AwardAmount>1999992</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07040000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EFMA</Abbreviation>
+<LongName>Emerging Frontiers &amp; Multidisciplinary Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Werbos</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project will start to integrate what we know about the challenging task of recognizing objects from visual inputs, by drawing on the highest-performing artificial neural network systems, new models of deep belief learning from cognitive science, and new experiments on the visual cortex. &lt;br/&gt;&lt;br/&gt;The most transformative aspect of this work is that it will aim at decisive experiments which challenge traditional assumptions about purely local feedback in the learning system as such, assumptions which are prevalent in today,s mathematical models of learning in neural circuits. Many engineers and more classical systems neuroscientists believe that these assumptions are obviously false, but a decisive set of experiments would be crucial in encouraging new types of computational models of the brain, including models which fit with what actually works in image processing in technology. On the other hand, if the experiments begin to show how such learning capabilities are actually possible within the traditional paradigm, that would be equally transformative. Brain-like capabilities in image processing are an additional goal of this work; image processing is a large and growing part of the nation's cyberinfrastructure.]]></AbstractNarration>
+<MinAmdLetterDate>08/20/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/20/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0835878</AwardID>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Ng</LastName>
+<PI_MID_INIT>Y</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrew Y Ng</PI_FULL_NAME>
+<EmailAddress><![CDATA[ang@cs.stanford.edu]]></EmailAddress>
+<NSF_ID>000215465</NSF_ID>
+<StartDate>08/20/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yang</FirstName>
+<LastName>Dan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yang Dan</PI_FULL_NAME>
+<EmailAddress><![CDATA[ydan@berkeley.edu]]></EmailAddress>
+<NSF_ID>000148843</NSF_ID>
+<StartDate>08/20/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Edward</FirstName>
+<LastName>Boyden</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Edward S Boyden</PI_FULL_NAME>
+<EmailAddress><![CDATA[esb@media.mit.edu]]></EmailAddress>
+<NSF_ID>000496144</NSF_ID>
+<StartDate>08/20/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yann</FirstName>
+<LastName>LeCun</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yann LeCun</PI_FULL_NAME>
+<EmailAddress><![CDATA[yl22@nyu.edu]]></EmailAddress>
+<NSF_ID>000665864</NSF_ID>
+<StartDate>08/20/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stanford University</Name>
+<CityName>STANFORD</CityName>
+<ZipCode>943052004</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress>450 JANE STANFORD WAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HJD6G4D6TJY5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE LELAND STANFORD JUNIOR UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Stanford University]]></Name>
+<CityName>STANFORD</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>943052004</ZipCode>
+<StreetAddress><![CDATA[450 JANE STANFORD WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7633</Code>
+<Text>EFRI Research Projects</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~1999992</FUND_OBLG>
+</Award>
+</rootTag>

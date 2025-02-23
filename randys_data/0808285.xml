@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Dissertation Research: The nature of and mechanisms responsible for northern hardwood forest Lepidoptera community dynamics</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>11310.00</AwardTotalIntnAmount>
+<AwardAmount>11310</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010208</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Saran Twombly</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Long-term monitoring shows that the abundance of caterpillars tends to fluctuate dramatically from year to year in hardwood forests of the northeastern U.S.  Notably, these fluctuations involve dozens to hundreds of Lepidoptera species and have strong impacts on bird populations.  Previous research has identified correlations between climate and the fluctuations in Lepidoptera abundance, but the specific mechanisms that link climate to caterpillar abundance have not been elucidated. This project uses four years of systematic sampling of Lepidoptera abundance to pursue two important questions. First, are the dynamics of these insects a result of collections of separate species whose populations vary synchronously? Second, what characteristics are shared by these species that could produce this synchrony? The project also tests a potential mechanism causing these synchronous fluctuations: climate variability affects forest nutrient cycles, thereby influencing the feeding success and population dynamics of these insects. &lt;br/&gt;&lt;br/&gt;Results from this research will show how specific aspects of climate change influence population growth rates of native insects that are the chief herbivores in this ecosystem, are the primary food source of Neotropical migrant birds, and are sometimes defoliating pests. These results will inform conservation biology, forest management, and science policy.  The work has already improved understanding of the biology and natural history of Lepidoptera, the major component of native biodiversity in the northeastern U.S.  A product of the research is an online, open-access, database of information about the hundreds of Lepidoptera species that can be found in these forests.  This will serve as a resource for researchers, educators, policy makers, and nature enthusiasts. Undergraduates from a number of schools will continue to be involved in the project, providing opportunities to train students in ecological research methods and principles.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>05/14/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/14/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0808285</AwardID>
+<Investigator>
+<FirstName>Erik</FirstName>
+<LastName>Stange</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Erik E Stange</PI_FULL_NAME>
+<EmailAddress>Erik.E.Stange@Dartmouth.edu</EmailAddress>
+<PI_PHON>6036462788</PI_PHON>
+<NSF_ID>000387163</NSF_ID>
+<StartDate>05/14/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Ayres</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthew P Ayres</PI_FULL_NAME>
+<EmailAddress>matthew.p.ayres@dartmouth.edu</EmailAddress>
+<PI_PHON>6036462788</PI_PHON>
+<NSF_ID>000340981</NSF_ID>
+<StartDate>05/14/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Dartmouth College</Name>
+<CityName>HANOVER</CityName>
+<ZipCode>037552170</ZipCode>
+<PhoneNumber>6036463007</PhoneNumber>
+<StreetAddress>7 LEBANON ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Hampshire</StateName>
+<StateCode>NH</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NH02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EB8ASJBCFER9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF DARTMOUTH COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EB8ASJBCFER9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Dartmouth College]]></Name>
+<CityName>HANOVER</CityName>
+<StateCode>NH</StateCode>
+<ZipCode>037552170</ZipCode>
+<StreetAddress><![CDATA[7 LEBANON ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Hampshire</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NH02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1182</Code>
+<Text>POP &amp; COMMUNITY ECOL PROG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1182</Code>
+<Text>POP &amp; COMMUNITY ECOL PROG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~11310</FUND_OBLG>
+</Award>
+</rootTag>

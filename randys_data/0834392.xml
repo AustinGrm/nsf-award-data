@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CSR-DMSS-SM:   Skeptical Systems</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>420000.00</AwardTotalIntnAmount>
+<AwardAmount>420000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Krishna Kant</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Systems currently place a great deal of trust in their underlying components. Unfortunately, due to the complexity of both hardware and software systems, such trust is often misplaced. In particular, a layer will sometimes report that it has succeeded when in fact it has failed. Such a silent fault, or a ?lie? as we will sometimes call it, makes the construction of the next generation of software systems a daunting prospect. In this proposal, we describe the Wisconsin Lie Detection (LID) project, in which we plan to develop methods and techniques to detect lies and thus enable a new generation of robust software. Our basic philosophy is one of skepticism, in which a system generally trusts a layer to correctly complete an operation, but in addition has extra machinery to verify that it indeed has done so. Thus, our major objective is to develop a science of skeptical systems design, including a set of principles and methods systems can employ to be robust to silent faults should they arise. The LID project consists of three major components, all conducted within the domain of storage systems, as we believe storage is an important problem area within which skepticism will be of great value. The first is better understanding the effects of lies on current systems. Thus, we plan to develop a comprehensive lie-injection framework and use it to analyze how silent faults affect systems. Second, we plan to design, implement, and evaluate a set of explicit and implicit lie detectors. Explicit lie detectors expose information to enable higher layers to verify a layer?s operation, whereas implicit detectors utilize covert channels to cope with the lack of explicit assistance. Finally, we will investigate the use of an N-version file system in lie detection and recovery. The LID project will change the landscape of system design and implementation in three fundamental ways. First, our study of existing systems will lend key insights into how systems should be built to withstand silent faults. Second, by developing explicit and implicit lie detectors, we will deepen our knowledge of how to design systems to cope with lies even when no explicit aid to do so exists. Finally, we will see whether the promise of N-version programming [7] can be realized in the problem domain of lie detection; success will alter how we build reliable storage systems.&lt;br/&gt;A.1 Intellectual Merit&lt;br/&gt;Intellectual merit and importance: We will advance the state of knowledge in the science of skeptical systems design in three fundamental ways. First, we will develop techniques to understand how systems react to silent failures. Second, we will design, implement, and evaluate both explicit and implicit lie detectors, thus providing insight on how systems can verify the correct operation of underlying layers. Finally, we will develop mechanisms to utilize multiple file systems to improve system reliability in a low-cost manner. Qualifications: We believe we are well positioned to make progress on this demanding problem, as we draw on our expertise in file and storage systems [10, 13, 12, 20, 59, 60, 62, 60, 59, 58], analysis of complex systems [8, 21, 32, 50, 51], and gray-box and related techniques [2, 15, 33, 46, 48]. All three aspects of our previous work feed into our development of the science of skeptical systems design.&lt;br/&gt;Organization and access to resources: From an organizational viewpoint, our goal is to perform ?low-cost, highimpact? research. Hence, the bulk of funding requested within this proposal is found in human costs. From a computational standpoint, we have access to thousands of machines and multiple storage clusters.&lt;br/&gt;A.2 Broader Impacts&lt;br/&gt;Advancing discovery while promoting teaching, training, and learning: In general, we work to give students hands-on training with cutting-edge systems technology. We also plan to incorporate our research into numerous upper-level courses, thus having an impact on all students who pass through the systems courses at Wisconsin.  Broadening the participation of underrepresented groups:  Our main focus has been to increase female participation in computer science research. In the past seven years, we have graduated five females. We also plan to recruit an additional female in the fall as a part of this project. Enhancing the infrastructure for research and disseminating results: In this proposal, we plan to develop a new skeptical approach to systems design; we believe this viewpoint is critical in the construction of the next generation of systems and thus hope to disseminate as widely as possible. We will do so in three primary ways: through the classic medium of publication, which in the past has impacted the design and implementation of various storage systems including the EMC Centera [32] and NetApp filers [39]; through the development of numerous software artifacts, which we have shared with the open source community and thus improved various code bases; and finally, through our interaction with NetApp, and the technology transfer that this enables.  Benefits to society: Our lives are increasingly dependent on computing systems. The science of skeptical systems design is crucial to the development of the next generation of software systems. By embracing a skeptical approach, the systems we build will be more robust, and thus of better service to society.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>08/19/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/14/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0834392</AwardID>
+<Investigator>
+<FirstName>Remzi</FirstName>
+<LastName>Arpaci-Dusseau</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Remzi H Arpaci-Dusseau</PI_FULL_NAME>
+<EmailAddress>remzi@cs.wisc.edu</EmailAddress>
+<NSF_ID>000325601</NSF_ID>
+<StartDate>08/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrea</FirstName>
+<LastName>Arpaci-Dusseau</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrea C Arpaci-Dusseau</PI_FULL_NAME>
+<EmailAddress>dusseau@cs.wisc.edu</EmailAddress>
+<NSF_ID>000275887</NSF_ID>
+<StartDate>08/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<StreetAddress2><![CDATA[Suite 6301]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI02</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>161202122</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>041188822</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>537151218</ZipCode>
+<StreetAddress><![CDATA[21 North Park Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7354</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7901</Code>
+<Text>DMSS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~151786</FUND_OBLG>
+<FUND_OBLG>2009~268214</FUND_OBLG>
+</Award>
+</rootTag>

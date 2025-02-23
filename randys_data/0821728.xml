@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Aquisition of Genome Sequencer FLX system]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>630000.00</AwardTotalIntnAmount>
+<AwardAmount>630000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Fleischmann</SignBlockName>
+<PO_EMAI>rfleisch@nsf.gov</PO_EMAI>
+<PO_PHON>7032927191</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[A grant has been awarded to Brigham Young University (BYU) for the acquisition of a next-generation DNA genome sequencer. The sequencer will have three primary uses at Brigham Young University. 1) Promote and enhance the scope of research capability to a large group of researchers on and off campus; 2) Provide state-of-the-art equipment training and familiarity to a large group of undergraduate and graduate students involved in NSF, NIH, USDA, and university-sponsored mentored research experiences; and 3) Increase and enhance the involvement of student researchers in data analyses and bioinformatics that will be useful to them after graduation. The breadth of impacted research includes plant and animal systematics, nematode co-evolution, crop improvement, conservation biology, molecular ecology, and novel algorithms for genome and transciptome sequence assembly. &lt;br/&gt;&lt;br/&gt;The instrument will be housed in the College of Life Sciences DNA Sequencing Center (DNASC). In the DNASC, it will provide opportunities for students to gain real-world experience with modern equipment and to gain training through current and enriched courses. Student involvement in scientific research is greatly enhanced by additional support from the University in the form of Mentoring Grants and from the College of Life Science in the form of in-class genomics projects. For faculty, the instrument will provide high throughput DNA sequencing capacity for cutting-edge biological research as well as open collaborative opportunities in the intermountain west (Great Basin) and throughout the world.]]></AbstractNarration>
+<MinAmdLetterDate>08/17/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/17/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0821728</AwardID>
+<Investigator>
+<FirstName>Joshua</FirstName>
+<LastName>Udall</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joshua A Udall</PI_FULL_NAME>
+<EmailAddress><![CDATA[joshua.udall@usda.gov]]></EmailAddress>
+<NSF_ID>000425814</NSF_ID>
+<StartDate>08/17/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nikki</FirstName>
+<LastName>Hanegan</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nikki L Hanegan</PI_FULL_NAME>
+<EmailAddress><![CDATA[nikki.hanegan@utdallas.edu]]></EmailAddress>
+<NSF_ID>000367135</NSF_ID>
+<StartDate>08/17/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alan</FirstName>
+<LastName>Harker</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alan R Harker</PI_FULL_NAME>
+<EmailAddress><![CDATA[alan_harker@byu.edu]]></EmailAddress>
+<NSF_ID>000471463</NSF_ID>
+<StartDate>08/17/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Whiting</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael F Whiting</PI_FULL_NAME>
+<EmailAddress><![CDATA[michael_whiting@byu.edu]]></EmailAddress>
+<NSF_ID>000423347</NSF_ID>
+<StartDate>08/17/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chin-Yo</FirstName>
+<LastName>Lin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chin-Yo Lin</PI_FULL_NAME>
+<EmailAddress><![CDATA[chinyolin@byu.edu]]></EmailAddress>
+<NSF_ID>000497298</NSF_ID>
+<StartDate>08/17/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Brigham Young University</Name>
+<CityName>PROVO</CityName>
+<ZipCode>846021128</ZipCode>
+<PhoneNumber>8014223360</PhoneNumber>
+<StreetAddress>A-153 ASB</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JWSYC7RUMJD1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BRIGHAM YOUNG UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Brigham Young University]]></Name>
+<CityName>PROVO</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>846021128</ZipCode>
+<StreetAddress><![CDATA[A-153 ASB]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9184</Code>
+<Text>BIOTECHNOLOGY - INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~630000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[US / Japan Future Network Workshop]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>70000.00</AwardTotalIntnAmount>
+<AwardAmount>70000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Victor S. Frost</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This is a request to support a US / Japan Future Network Workshop. The Workshop will bring together leading US and Japanese network researchers and network research infrastructure developers.&lt;br/&gt;&lt;br/&gt;The workshop will bring together a diverse group of researchers from the US and Japan to discuss the science and technology advances needed to advance our fundamental understanding of the design, deployment and operation of the increasingly complex, networks of the future. The outcome of this workshop will lead to a better understanding of network research and&lt;br/&gt;network research infrastructure activities in the two countries.&lt;br/&gt;&lt;br/&gt;The proposed workshop will result in more efficient ways of how peer researchers in networking research and infrastructure, from both countries, will collaborate and communicate with each other. The workshop has potential for the development of individual linkages between peer&lt;br/&gt;researchers in each country.]]></AbstractNarration>
+<MinAmdLetterDate>09/26/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/26/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0853414</AwardID>
+<Investigator>
+<FirstName>Deep</FirstName>
+<LastName>Medhi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Deep Medhi</PI_FULL_NAME>
+<EmailAddress><![CDATA[dmedhi@umkc.edu]]></EmailAddress>
+<NSF_ID>000339730</NSF_ID>
+<StartDate>09/26/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Missouri-Kansas City</Name>
+<CityName>KANSAS CITY</CityName>
+<ZipCode>641102201</ZipCode>
+<PhoneNumber>8162355839</PhoneNumber>
+<StreetAddress>1011 E 51ST ST</StreetAddress>
+<StreetAddress2><![CDATA[RM 101]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>J9CDGR596MN3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MISSOURI SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Missouri-Kansas City]]></Name>
+<CityName>KANSAS CITY</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>641102201</ZipCode>
+<StreetAddress><![CDATA[1011 E 51ST ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~70000</FUND_OBLG>
+</Award>
+</rootTag>

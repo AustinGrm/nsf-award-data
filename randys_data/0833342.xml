@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Noyce Scholarships at the University of Houston]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>749865.00</AwardTotalIntnAmount>
+<AwardAmount>899754</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040100</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Amy Chan Hilton</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The University of Houston is awarding twelve $10,000 scholarships each year to STEM majors and professionals seeking secondary teacher certification in Science and Mathematics, resulting in 60 new teachers for Houston area school districts. Undergraduate Noyce Scholars are enrolled in the teachHouston program while mid-career STEM professionals receiving Noyce stipends are enrolled in the ten-month Transition to Teaching certification program.  A rigorous and innovative process is used to select scholars who demonstrate a passion for teaching, possess sufficient content knowledge and skill, and represent the diversity of University of Houston campus and the city of Houston. The objective is to recruit, prepare, and retain individuals with in depth STEM content knowledge as STEM teachers in underserved areas. By combining the evaluation of the Noyce candidates with the larger base provided by their teachHOUSTON and Transition to Teaching (TtT) cohorts, this program utilizes a mixed methods evaluation approach including both qualitative and sophisticated statistical techniques.&lt;br/&gt;&lt;br/&gt;The scholarships awarded through this project have the potential to benefit as many as 23 school districts in the Houston area as participants are assigned their field experiences in high need school districts.  The project is providing additional opportunities for University of Houston researchers to design and evaluate instructional strategies for use in maintaining qualified teachers in STEM disciplines, conduct research on the effectiveness of these strategies, and disseminate research-based instructional products and findings to a national audience of educators, school administrators, service centers, business partners and political leaders. The instructional strategies allow STEM teachers to conduct research on the effectiveness of the instructional strategies that will be used for all levels of learners in urban, suburban, and rural schools.]]></AbstractNarration>
+<MinAmdLetterDate>09/03/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/15/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0833342</AwardID>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Morgan</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeffrey J Morgan</PI_FULL_NAME>
+<EmailAddress><![CDATA[jmorgan@math.uh.edu]]></EmailAddress>
+<NSF_ID>000378014</NSF_ID>
+<StartDate>09/03/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Laveria</FirstName>
+<LastName>Hutchison</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Laveria Hutchison</PI_FULL_NAME>
+<EmailAddress><![CDATA[lhutchison@uh.edu]]></EmailAddress>
+<NSF_ID>000501430</NSF_ID>
+<StartDate>09/03/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Houston</Name>
+<CityName>HOUSTON</CityName>
+<ZipCode>772043067</ZipCode>
+<PhoneNumber>7137435773</PhoneNumber>
+<StreetAddress>4300 MARTIN LUTHER KING BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QKWEF8XLMTT3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF HOUSTON SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Houston]]></Name>
+<CityName>HOUSTON</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>772043067</ZipCode>
+<StreetAddress><![CDATA[4300 MARTIN LUTHER KING BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1795</Code>
+<Text>Robert Noyce Scholarship Pgm</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>04S8</Code>
+<Name>NSF,Education &amp; Human Resource</Name>
+<APP_SYMB_ID>490106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>04XX</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>0400999999</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>0400XXXXDB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~749865</FUND_OBLG>
+<FUND_OBLG>2009~149889</FUND_OBLG>
+</Award>
+</rootTag>

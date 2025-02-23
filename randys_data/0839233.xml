@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Acquisition of a MALDI-TOF/TOF MS Spectrometer</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>326625.00</AwardTotalIntnAmount>
+<AwardAmount>326625</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090002</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos Murillo</SignBlockName>
+<PO_EMAI>cmurillo@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With this award from the Chemistry Research Instrumentation and Facilities: Multiuser program (CRIF:MU), Christopher A. Makaroff and colleagues Michael W. Crowder, Ann E. Hagerman, Christopher S. Hartley, Gary A. Lorigan from Miami University Oxford Campus will acquire a matrix assisted laser desorption/ionization, time-of-flight mass spectrometer with TOF/TOF capability (MALDI-TOF/TOF MS). This instrument will support research from five primary researchers as well as at least nine additional researchers from the departments of Chemistry and Biochemistry, Botany, Zoology and Microbiology. Major research projects will study membrane proteins and peptides, biological antioxidants, ribosomal proteins and proteins involved in zinc transport, protein interactions as well as graphene nanoribbons.&lt;br/&gt;&lt;br/&gt;MALDI-TOF-mass spectrometry is the technique of choice for obtaining accurate molecular weights for very large molecules, with extremely high sensitivity. Use of a MALDI-TOF mass spectrometer has therefore become a standard technique, especially in studies involving biomolecules. This research will have a significant impact in a number of areas, especially chemistry and biochemistry. This instrument will be an integral part of teaching as well as research.</AbstractNarration>
+<MinAmdLetterDate>01/05/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>01/05/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839233</AwardID>
+<Investigator>
+<FirstName>Ann</FirstName>
+<LastName>Hagerman</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ann E Hagerman</PI_FULL_NAME>
+<EmailAddress>hagermae@miamioh.edu</EmailAddress>
+<NSF_ID>000420051</NSF_ID>
+<StartDate>01/05/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Makaroff</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christopher A Makaroff</PI_FULL_NAME>
+<EmailAddress>makaroca@muohio.edu</EmailAddress>
+<NSF_ID>000319432</NSF_ID>
+<StartDate>01/05/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gary</FirstName>
+<LastName>Lorigan</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gary A Lorigan</PI_FULL_NAME>
+<EmailAddress>gary.lorigan@miamioh.edu</EmailAddress>
+<NSF_ID>000457590</NSF_ID>
+<StartDate>01/05/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Crowder</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael W Crowder</PI_FULL_NAME>
+<EmailAddress>crowdemw@muohio.edu</EmailAddress>
+<NSF_ID>000243337</NSF_ID>
+<StartDate>01/05/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Hartley</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christopher S Hartley</PI_FULL_NAME>
+<EmailAddress>scott.hartley@miamioh.edu</EmailAddress>
+<NSF_ID>000310048</NSF_ID>
+<StartDate>01/05/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Miami University</Name>
+<CityName>Oxford</CityName>
+<ZipCode>450563653</ZipCode>
+<PhoneNumber>5135293600</PhoneNumber>
+<StreetAddress>500 E High Street</StreetAddress>
+<StreetAddress2><![CDATA[Roudebush Hall]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH08</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>041065129</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>MIAMI UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>041065129</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Miami University Oxford Campus]]></Name>
+<CityName>Oxford</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>450563653</ZipCode>
+<StreetAddress><![CDATA[500 E. High Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1938</Code>
+<Text>Chemical Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1108</Code>
+<Text>INSTRUMENTAT &amp; INSTRUMENT DEVP</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9161</Code>
+<Text>SINGLE DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~326625</FUND_OBLG>
+</Award>
+</rootTag>

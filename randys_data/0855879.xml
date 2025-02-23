@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SGER:   Episodic Disease and Host Population Dynamics:   Immediate Response to Emerging Epidemic in a Well-studied Organism]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010207</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Saran Twombly</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The Florida scrub jay has been studied for nearly 40 years and extensive demographic, morphometric, and genetic data exist for a population of known genealogy. This population (at the Archbold Biological Station) has experienced three dramatic periods of high mortality, likely as a result of a virulent epidemic. A fourth period of similarly high mortality began in August 2008; over 6 weeks nearly 20% of the population disappeared. The researchers hypothesize that episodic elevated mortality in the scrub jay is caused by an arbovirus, and propose to test this via intensive investigation for evidence of infection in both scrub jays and mosquitoes. If the hypothesis is supported, this epidemic presents a rare opportunity to study the impacts of disease on a well-characterized population, to isolate the cause of the disease, and to examine the interactions among numerous population characteristics determining virulence of the disease. &lt;br/&gt;&lt;br/&gt;Broader impacts of the study are strong, as the Florida scrub jay is an endangered species, and the project will generate resources (models, genomics tools) that will apply to natural species that lack completely sequenced genomes (non-model organisms).]]></AbstractNarration>
+<MinAmdLetterDate>01/16/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>01/16/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855879</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Fitzpatrick</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John W Fitzpatrick</PI_FULL_NAME>
+<EmailAddress><![CDATA[jwf7@cornell.edu]]></EmailAddress>
+<NSF_ID>000383839</NSF_ID>
+<StartDate>01/16/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Clark</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrew G Clark</PI_FULL_NAME>
+<EmailAddress><![CDATA[ac347@cornell.edu]]></EmailAddress>
+<NSF_ID>000230294</NSF_ID>
+<StartDate>01/16/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Reed</FirstName>
+<LastName>Bowman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Reed Bowman</PI_FULL_NAME>
+<EmailAddress><![CDATA[rbowman@archbold-station.org]]></EmailAddress>
+<NSF_ID>000149804</NSF_ID>
+<StartDate>01/16/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Raoul</FirstName>
+<LastName>Boughton</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Raoul K Boughton</PI_FULL_NAME>
+<EmailAddress><![CDATA[rboughton@ufl.edu]]></EmailAddress>
+<NSF_ID>000663880</NSF_ID>
+<StartDate>01/16/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Archbold Expeditions, Inc.</Name>
+<CityName>VENUS</CityName>
+<ZipCode>339602039</ZipCode>
+<PhoneNumber>8634652571</PhoneNumber>
+<StreetAddress>123 MAIN DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ZC2GY8VUCAE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ARCHBOLD EXPEDITIONS, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Archbold Expeditions, Inc.]]></Name>
+<CityName>VENUS</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>339602039</ZipCode>
+<StreetAddress><![CDATA[123 MAIN DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1174</Code>
+<Text>POPULATION DYNAMICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1174</Code>
+<Text>POPULATION DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9237</Code>
+<Text>SMALL GRANTS-EXPLORATORY RSRCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~50000</FUND_OBLG>
+</Award>
+</rootTag>

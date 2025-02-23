@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: A Comparative Study of Approaches to Cluster- Based Large Scale Data Analysis</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>109506.00</AwardTotalIntnAmount>
+<AwardAmount>109506</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vijayalakshmi Atluri</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This goal of this research project is to understand the tradeoffs between the MapReduce and parallel DBMS approaches to performing large-scale data analysis over large clusters of computers, and to bring together ideas from both communities. Both MapReduce and parallel database systems provide scalable data processing over hundreds to thousands of nodes.  Both provide a stylized, high-level programming environment that allows users to efficiently filter and combine datasets while masking much of the complexity of parallelizing computation over a cluster. But they differ in substantial ways as well, such as their approaches to dealing with fault tolerance, their data modeling requirements, their query flexibility, and their ability to function in a heterogeneous processing environment.&lt;br/&gt;&lt;br/&gt;This multi-university team of researchers is investigating the effect of these differences on the performance and scalability of these two approaches. The research team is running a set of experiments that compare an open source MapReduce implementation (Hadoop) to two commercial parallel database systems (DB2 and Vertica) on a benchmark that includes a range of tasks designed to assess the tradeoffs between both approaches. The research team is seeking to understand which differences between the two approaches to performing large scale data analysis are fundamental tradeoffs, and which differences are possible to combine inside a single solution, so that ideas from one community can benefit the other. &lt;br/&gt;&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>02/11/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>02/11/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0843487</AwardID>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Naughton</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeffrey F Naughton</PI_FULL_NAME>
+<EmailAddress>naughton@cs.wisc.edu</EmailAddress>
+<NSF_ID>000339516</NSF_ID>
+<StartDate>02/11/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<StreetAddress2><![CDATA[Suite 6301]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI02</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>161202122</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>041188822</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>537151218</ZipCode>
+<StreetAddress><![CDATA[21 North Park Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7782</Code>
+<Text>CLUSTER EXPLORATORY (CLuE)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7782</Code>
+<Text>CLUSTER EXPLORATORY (CLuE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~109506</FUND_OBLG>
+</Award>
+</rootTag>

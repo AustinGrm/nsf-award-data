@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Resonant Wireless Sensor Nets for Civil Infrastructure Health Monitoring]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>340000.00</AwardTotalIntnAmount>
+<AwardAmount>340000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>george hazelrigg</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The primary objective of this proposal is the development of a new low-cost, wireless, unpowered resonant sensor net that can be used to monitor large areas in civil infrastructure systems. A critical new area of research relates to the coupling of individual elements in the net to produce collective, crystal-like behavior, allowing large area coverage with high sensitivity to damage. &lt;br/&gt;&lt;br/&gt;The buildings, bridges, dams, and lifelines that comprise the civil infrastructure present unique challenges for sensor development due to their large size, unique designs, continuous exposure to the environment, infrequent inspections, and long design life. For most real-time health monitoring systems that attempt to address all these concerns, the costs associated with the installation, maintenance, and interpreting the data are prohibitive for the overwhelming majority of infrastructure systems in the US. In contrast, the proposed wireless sensor net should provide a cost-effective alternative to real-time health monitoring systems. The proposed sensor net will greatly enhance the type and quality of information that may be obtained about the condition of large areas of an infrastructure system during a routine inspection. Here particular emphasis on collective sensor nets suitable for diagnosis of problems encountered is placed in reinforced concrete structures.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/25/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/25/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0825486</AwardID>
+<Investigator>
+<FirstName>Dean</FirstName>
+<LastName>Neikirk</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dean P Neikirk</PI_FULL_NAME>
+<EmailAddress><![CDATA[neikirk@mail.utexas.edu]]></EmailAddress>
+<NSF_ID>000364323</NSF_ID>
+<StartDate>07/25/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sharon</FirstName>
+<LastName>Wood</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sharon L Wood</PI_FULL_NAME>
+<EmailAddress><![CDATA[swood@mail.utexas.edu]]></EmailAddress>
+<NSF_ID>000200363</NSF_ID>
+<StartDate>07/25/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1637</Code>
+<Text>Structural and Architectural E</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1639</Code>
+<Text>SENSORS AND SENSING SYSTEMS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>032E</Code>
+<Text>SENSORS AND ACTUATORS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1059</Code>
+<Text>SENSORS AND SENSOR SYSTEMS FOR CIS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7234</Code>
+<Text>SENSORS NON-SOLICITATION RESEA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~340000</FUND_OBLG>
+</Award>
+</rootTag>

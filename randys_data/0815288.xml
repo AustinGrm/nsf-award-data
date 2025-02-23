@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>COLLABORATIVE RESEARCH:  Evolution of Amphibian MHC Genes After an Infectious Disease Outbreak</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010207</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy J. Huntly</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Amphibian populations around the world are experiencing declines and mass mortalities at an unprecedented rate. The fungal disease chytridiomycosis is a primary cause of this epidemic, and differential susceptibility among species occurring in similar environments suggests that genetics may determine how individuals respond to infection. Zamudio and Lips will combine field and laboratory studies to test whether variability in immunity genes of the major histocompatibility complex (MHC) confer differential survivorship to this emerging infectious disease, and how the disease itself alters the genetic and demographic composition of populations following an outbreak. The proposal focuses on frog populations in Central America where chytridiomycosis lethality is prevalent; however, their findings will be applicable to amphibian populations worldwide.&lt;br/&gt;&lt;br/&gt;This project will provide a better understanding of how emerging diseases shape adaptive molecular evolution, and how variability in immunity genes contribute to the response to novel disease threats. This research will quantify the molecular effects of this disease in ?real-time?, in addition to the genetic determinants of survivorship, resulting in useful epidemiological predictions for other populations or species that have yet to be exposed to the disease.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>09/22/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/22/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0815288</AwardID>
+<Investigator>
+<FirstName>Karen</FirstName>
+<LastName>Lips</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Karen R Lips</PI_FULL_NAME>
+<EmailAddress>klips@umd.edu</EmailAddress>
+<NSF_ID>000482334</NSF_ID>
+<StartDate>09/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Southern Illinois University at Carbondale</Name>
+<CityName>Carbondale</CityName>
+<ZipCode>629014308</ZipCode>
+<PhoneNumber>6184534540</PhoneNumber>
+<StreetAddress>Ofc. of Sponsored Projects Admin</StreetAddress>
+<StreetAddress2><![CDATA[900 S Normal, C206, MC4709]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL12</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>939007555</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>SOUTHERN ILLINOIS UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>143941909</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Southern Illinois University at Carbondale]]></Name>
+<CityName>Carbondale</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>629014308</ZipCode>
+<StreetAddress><![CDATA[Ofc. of Sponsored Projects Admin]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7378</Code>
+<Text>EVOLUTIONARY GENETICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1174</Code>
+<Text>POPULATION DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1228</Code>
+<Text>MINORITY INVOLVEMENT -- BIO</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7378</Code>
+<Text>EVOLUTIONARY GENETICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~0</FUND_OBLG>
+</Award>
+</rootTag>

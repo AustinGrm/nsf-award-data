@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STTR Phase I:  Thermoreflectance for Defect Mapping and Process-Control of Solar Cells</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>199998</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Juan E. Figueroa</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Technology Transfer (STTR) Phase I project will demonstrate a new method of thermographic imaging to improve the manufacturing yield and energy conversion efficiency of silicon photovoltaic solar cells. Although thermographic imaging is an ideal method for locating the defects and shunts in solar cells which compromise their efficiency, conventional infrared cameras do not have sufficient spatial resolution to be effective as a production tool for NDE (Non-Destructive Evaluation). The proposed technology will produce 100X higher spatial resolution with 1 mK thermal resolution at much lower system cost than infrared cameras. &lt;br/&gt;&lt;br/&gt;This Small Business Technology Transfer (STTR) Phase I project will demonstrate a new method of thermographic imaging to improve the manufacturing yield and energy conversion efficiency of silicon photovoltaic solar cells. Although thermographic imaging is an ideal method for locating the defects and shunts in solar cells which compromise their efficiency, conventional infrared cameras do not have sufficient spatial resolution to be effective as a production tool for NDE (Non-Destructive Evaluation). The proposed technology will produce 100X higher spatial resolution with 1 mK thermal resolution at much lower system cost than infrared cameras.</AbstractNarration>
+<MinAmdLetterDate>05/09/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0810542</AwardID>
+<Investigator>
+<FirstName>Lawrence</FirstName>
+<LastName>Domash</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lawrence H Domash</PI_FULL_NAME>
+<EmailAddress>ldomash@alenasimaging.com</EmailAddress>
+<PI_PHON>4133694497</PI_PHON>
+<NSF_ID>000083332</NSF_ID>
+<StartDate>05/09/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Alenas Imaging Inc.</Name>
+<CityName>Conway</CityName>
+<ZipCode>013419788</ZipCode>
+<PhoneNumber>4133694497</PhoneNumber>
+<StreetAddress>61 Hickory Ridge Rd.</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Mount Holyoke College]]></Name>
+<CityName>SOUTH HADLEY</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>010751423</ZipCode>
+<StreetAddress><![CDATA[50 COLLEGE ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; DEVICE TEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7257</Code>
+<Text>APPLICATS OF ADVANCED TECHNOLS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9139</Code>
+<Text>INFORMATION INFRASTRUCTURE &amp; TECH APPL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~149999</FUND_OBLG>
+<FUND_OBLG>2009~49999</FUND_OBLG>
+</Award>
+</rootTag>

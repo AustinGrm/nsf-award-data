@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Enhancing Science Courses and Laboratories at a Women's College Using LIDAR]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>149970.00</AwardTotalIntnAmount>
+<AwardAmount>149970</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gary White</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Physics(13) With previous support from NSF's Major Research Instrumentation award program, Agnes Scott College, in collaboration with the Georgia Tech Research Institute, developed and built an eye-safe atmospheric laser radar (LIDAR) instrument that has been used by ASC undergraduates and faculty for research.  Boundary layer aerosols, man-made plumes and contrails, tropospheric transport of smoke and dust, cloud physics and climatology, and stratospheric aerosol layer composition before and after a volcanic eruption are being studied by ASC students and faculty.   With the present CCLI award, these individuals are making the device more "user friendly" and developing web-based curricular modules that enable its use across a broad spectrum of undergraduate physics and astronomy classes.  The project is also developing an operator's manual for the instrument, refining MatLab-based software tools for data analysis, and developing an atmospheric measurements handbook.  The assessment component of the project is focusing on best practices in attracting and retaining women in physics.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>12/05/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>12/05/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0836997</AwardID>
+<Investigator>
+<FirstName>Arthur</FirstName>
+<LastName>Bowling</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Arthur Bowling</PI_FULL_NAME>
+<EmailAddress><![CDATA[abowling@agnesscott.edu]]></EmailAddress>
+<NSF_ID>000242065</NSF_ID>
+<StartDate>12/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gary</FirstName>
+<LastName>Gimmestad</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gary G Gimmestad</PI_FULL_NAME>
+<EmailAddress><![CDATA[gary.gimmestad@gtri.gatech.edu]]></EmailAddress>
+<NSF_ID>000309583</NSF_ID>
+<StartDate>12/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Leanne</FirstName>
+<LastName>West</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Leanne West</PI_FULL_NAME>
+<EmailAddress><![CDATA[leanne.west@gtri.gatech.edu]]></EmailAddress>
+<NSF_ID>000066082</NSF_ID>
+<StartDate>12/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Agnes Scott College</Name>
+<CityName>DECATUR</CityName>
+<ZipCode>300303770</ZipCode>
+<PhoneNumber>4044716951</PhoneNumber>
+<StreetAddress>141 E COLLEGE AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPAWKTY3ND35</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>AGNES SCOTT COLLEGE INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Agnes Scott College]]></Name>
+<CityName>DECATUR</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>300303770</ZipCode>
+<StreetAddress><![CDATA[141 E COLLEGE AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0409</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000910DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>1300CYXXDB</Code>
+<Name><![CDATA[H-1B FUND, EHR, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~149970</FUND_OBLG>
+</Award>
+</rootTag>

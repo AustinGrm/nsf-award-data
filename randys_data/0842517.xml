@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SIRG: Collaborative Research: Development of Sensor and Sensor Networks to Detect and Characterize Significant Environmental Episodic Events]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/31/2007</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>11768.00</AwardTotalIntnAmount>
+<AwardAmount>11768</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul L. Bishop</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[0528847  Bonner  This project will develop two aquatic particle sensors, test anti-fouling materials, and develop sensor deployment systems and integrated sensor network technology to characterize particles in shallow embayments and other near-shore environments. Both particle sensors will employ flow cytometry principles. The first sensor will be more sophisticated and will provide counts, sizes, and size distributions. It also will discriminate between organic and inorganic particles, abiotic and biotic particles, and live and dead biotic particles. The second sensor will be a less expensive particle-size analyzer. The team of investigators will develop an innovative approach to minimize the biofouling problem that has plagued past efforts to maintain observing systems in highly productive subtropical waters. A robotic system that autonomously lowers the profiler into the water and removes it from the water for cleaning after each set of measurements may provide a simple solution to an important problem.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/26/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/26/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0842517</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Bonner</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James S Bonner</PI_FULL_NAME>
+<EmailAddress><![CDATA[jbonner@clarkson.edu]]></EmailAddress>
+<NSF_ID>000393693</NSF_ID>
+<StartDate>08/26/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Clarkson University</Name>
+<CityName>POTSDAM</CityName>
+<ZipCode>136761401</ZipCode>
+<PhoneNumber>3152686475</PhoneNumber>
+<StreetAddress>8 CLARKSON AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>21</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY21</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SL2PF6R7MRN1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CLARKSON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>SL2PF6R7MRN1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Clarkson University]]></Name>
+<CityName>POTSDAM</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>136761401</ZipCode>
+<StreetAddress><![CDATA[8 CLARKSON AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>21</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY21</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1440</Code>
+<Text>EnvE-Environmental Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>018E</Code>
+<Text>REMEDIATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7297</Code>
+<Text>SENSOR INTERDIS RESEARCH GROUP</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9187</Code>
+<Text>TOXIC SUBSTANCES/SOLID &amp; HAZARDOUS WASTE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<FUND_OBLG>2006~11768</FUND_OBLG>
+</Award>
+</rootTag>

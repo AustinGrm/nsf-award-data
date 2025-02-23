@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Challenges in Theoretical Cosmology; Talloires, France</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>2000.00</AwardTotalIntnAmount>
+<AwardAmount>2000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Keith Dienes</SignBlockName>
+<PO_EMAI>kdienes@nsf.gov</PO_EMAI>
+<PO_PHON>7032925314</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award provides partial financial support for students and postdocs to attend the conference entitled "Challenges in Theoretical Cosmology" to be held at the Tufts European Center in Talloires, France from September 2nd to September 5th, 2009. The conference marks the celebration of the Tufts Institute of Cosmology's 20th anniversary and will bring together some of the world leaders in cosmology as well as students and postdocs to discuss some of the most important open questions in cosmology today. The conference will be particularly focused on the following topics:&lt;br/&gt;- Cosmic strings and other topological defects.&lt;br/&gt;- Eternal Inflation.&lt;br/&gt;- The Landscape of string theory vacua.&lt;br/&gt;There will be around 90 participants in total, with around 25 invited speakers. There will be a mixed group of faculty, postdocs and students. The students will have the opportunity of presenting their work, either in contributing talks or poster presentations.  The funds will be used to help support those students or postdocs who would not have any other financial help from their home institutions and who would not otherwise be able to attend to the conference.</AbstractNarration>
+<MinAmdLetterDate>09/28/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>09/28/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855289</AwardID>
+<Investigator>
+<FirstName>Jose Juan</FirstName>
+<LastName>Blanco-Pillado</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jose Juan Blanco-Pillado</PI_FULL_NAME>
+<EmailAddress>Jose.Blanco_Pillado@tufts.edu</EmailAddress>
+<NSF_ID>000103314</NSF_ID>
+<StartDate>09/28/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Tufts University</Name>
+<CityName>Boston</CityName>
+<ZipCode>021111817</ZipCode>
+<PhoneNumber>6176273696</PhoneNumber>
+<StreetAddress>136 Harrison Ave</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>073134835</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF TUFTS COLLEGE INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>073134835</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Tufts University]]></Name>
+<CityName>Boston</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021111817</ZipCode>
+<StreetAddress><![CDATA[136 Harrison Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1288</Code>
+<Text>Particle Astrophysics &amp; Cosmol</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~2000</FUND_OBLG>
+</Award>
+</rootTag>

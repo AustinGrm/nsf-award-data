@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[GOALI: Hybrid Dynamic Feedback for Partially Autonomous Cooperative Active Safety Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>George Chiu</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5). The research objective of this award is to develop algorithms and experimental demonstrations for partially automated cooperative active safety systems at traffic intersections. This instance of intelligent transportation systems (ITS) exploits global positioning systems and wireless communication technology to design on-board warning and control systems. These systems should guarantee traffic safety while adapting to the presence of human drivers and imperfect sensory information. The research will result in dynamic coordinated control algorithms that are scalable with the number of vehicles and can account for human behavior. The research approach relies on model based control of hybrid dynamical models subject to imperfect state information and on exploiting the naturally monotone dynamics of traffic systems. This order preserving structure of the dynamics enables the employment of interval methods to reduce the complexity of the coordinated control task. Deliverables include scalable algorithms, the development of a software system implementing such algorithms on the Ann Arbor TOYOTA full scale experimental facility, experimental validation on the same facility, engineering student education, and research experience for undergraduate students.&lt;br/&gt;&lt;br/&gt;If successful, the results of this research will provide efficient algorithms for the cooperative active safety systems of the future. These systems have the potential of dramatically decreasing the number of accidents, fatalities, and of increasing traffic flow. This research will further provide a concrete transition to technology through the implementation on the Ann Arbor TOYOTA Technical Center experimental facility. The results will be disseminated through conferences and in particular through experimental demonstrations to the public. Graduate and undergraduate students working on this project will benefit from the collaboration between academia and industry by being exposed to concrete problems and to the process of their abstraction to forms suitable for formal analysis.]]></AbstractNarration>
+<MinAmdLetterDate>07/15/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/01/2010</MaxAmdLetterDate>
+<ARRAAmount>300000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0854907</AwardID>
+<Investigator>
+<FirstName>Domitilla</FirstName>
+<LastName>Del Vecchio</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Domitilla Del Vecchio</PI_FULL_NAME>
+<EmailAddress><![CDATA[ddv@mit.edu]]></EmailAddress>
+<NSF_ID>000488420</NSF_ID>
+<StartDate>07/15/2009</StartDate>
+<EndDate>06/24/2010</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Freudenberg</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James S Freudenberg</PI_FULL_NAME>
+<EmailAddress><![CDATA[jfr@umich.edu]]></EmailAddress>
+<NSF_ID>000291816</NSF_ID>
+<StartDate>06/24/2010</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Derek</FirstName>
+<LastName>Caveney</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Derek Caveney</PI_FULL_NAME>
+<EmailAddress><![CDATA[derek.caveney@tema.toyota.com]]></EmailAddress>
+<NSF_ID>000500240</NSF_ID>
+<StartDate>07/15/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lorenzo</FirstName>
+<LastName>Caminiti</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lorenzo Caminiti</PI_FULL_NAME>
+<EmailAddress><![CDATA[lorenzo.caminiti@tema.toyota.com]]></EmailAddress>
+<NSF_ID>000500173</NSF_ID>
+<StartDate>07/15/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Michigan - Ann Arbor</Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>1109 GEDDES AVE, SUITE 3300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091079</ZipCode>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1504</Code>
+<Text>GOALI-Grnt Opp Acad Lia wIndus</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1632</Code>
+<Text>CONTROL SYSTEMS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1787</Code>
+<Text>SERVICE ENTERPRISE SYSTEMS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5514</Code>
+<Text>OPERATIONS RESEARCH</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>030E</Code>
+<Text>CONTROL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~300000</FUND_OBLG>
+</Award>
+</rootTag>

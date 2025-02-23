@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[DMSS:   Towards Resource-Efficient Automated Video Surveillance Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>290000.00</AwardTotalIntnAmount>
+<AwardAmount>290000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marilyn McClure</SignBlockName>
+<PO_EMAI>mmcclure@nsf.gov</PO_EMAI>
+<PO_PHON>7032925197</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[&lt;br/&gt;CSR # 0834537, ?DMSS: Towards Resource-Efficient Automated Video Surveillance Systems?, PI: Nabil J. Sarhan&lt;br/&gt; &lt;br/&gt;Abstract&lt;br/&gt;&lt;br/&gt;The security problem has emerged as a major concern regionally, nationally, and globally. Therefore, the interest in video surveillance has grown dramatically. Automated video surveillance serves as an elegant and efficient approach for realtime detection of threats and monitoring their progress. Unfortunately, the design of an automated, scalable, and massively distributed surveillance system has been a significant research problem.  Power consumption has also been a primary concern, especially in battery-powered video sources. This project addresses the scalability-cost and power consumption problems of large-scale surveillance systems by developing optimal bandwidth allocation schemes, which control the transfer rates of various video sources, considering the potential threat level, placement of video sources, location importance, site map, and rate-accuracy curves of vision algorithms. It also develops a model for determining the current overall warning level based on statistical aggregation of the potential threats detected over a certain period, their levels of sensitivity, the importance of the locations where they are detected, and their closeness to other important locations. Additionally, this project investigates other important aspects, including fault tolerance of the distributed processing architecture, adaptive streaming, feature extraction, and continuous querying.  By addressing the scalability-cost and power consumption problems and dealing with several design aspects in a cohesive and integrated manner, this research provides significant contributions in the design of scalable and cost-effective automated video surveillance systems. Furthermore, it   has significant broader impacts on homeland security, education, and participation of underrepresented groups. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/12/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/13/2013</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0834537</AwardID>
+<Investigator>
+<FirstName>Nabil</FirstName>
+<LastName>Sarhan</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nabil J Sarhan</PI_FULL_NAME>
+<EmailAddress><![CDATA[nabil@ece.eng.wayne.edu]]></EmailAddress>
+<NSF_ID>000226447</NSF_ID>
+<StartDate>08/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Wayne State University</Name>
+<CityName>DETROIT</CityName>
+<ZipCode>482023692</ZipCode>
+<PhoneNumber>3135772424</PhoneNumber>
+<StreetAddress>5700 CASS AVE STE 4900</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M6K6NTJ2MNE5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WAYNE STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Wayne State University]]></Name>
+<CityName>DETROIT</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>482023692</ZipCode>
+<StreetAddress><![CDATA[5700 CASS AVE STE 4900]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7354</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7901</Code>
+<Text>DMSS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~109226</FUND_OBLG>
+<FUND_OBLG>2009~180774</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[A Cognitive-Apprenticeship Learning Curriculum Augmented by Cognitive Tutors (CAL-CT) for Fundamental Programming Concepts]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>149708.00</AwardTotalIntnAmount>
+<AwardAmount>149708</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michael Erlinger</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Computer Science (31)&lt;br/&gt;&lt;br/&gt;This project addresses student learning obstacles and low motivation in introductory programming courses. This project utilizes two effective instruction methodologies, the cognitive apprenticeship learning (CAL) model and cognitive tutors (CT), to improve student problem solving skills with fundamental programming concepts, such as basic statements, if/switch statements, loops, and functions. There are two steps involved. First, task analysis of expert problem solving process is conducted and scaffolding techniques are developed. Second, computer tutor programs are constructed and delivered online. These tutoring programs interact with students as their personal coaches. They utilize explicit expert problem-solving processes and scaffolding techniques to guide students through their problem-solving practice. The tutors can accommodate multiple solution paths that students might choose for solving a problem. As students work through program-writing problems, the tutors provide step-by-step feedback and upon the student's request will provide advice on what to do next. Therefore, the student can always reach a successful conclusion to problem solving.&lt;br/&gt;Evaluation is conducted based on collected test scores for students in the first introductory programming course over a four-semester period. Pretest-posttest two-group control group design methodology is used for evaluation.&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>09/09/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2013</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0837505</AwardID>
+<Investigator>
+<FirstName>Wei</FirstName>
+<LastName>Jin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wei Jin</PI_FULL_NAME>
+<EmailAddress><![CDATA[wjin@shawu.edu]]></EmailAddress>
+<NSF_ID>000249388</NSF_ID>
+<StartDate>09/09/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Shaw University</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276012341</ZipCode>
+<PhoneNumber>9197191890</PhoneNumber>
+<StreetAddress>118 E SOUTH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>J8FNZF53QBD3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SHAW UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Shaw University]]></Name>
+<CityName>RALEIGH</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>276012341</ZipCode>
+<StreetAddress><![CDATA[118 E SOUTH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~149708</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Studies of Fundamental Symmetry Breaking Effects via Precision Experiments at JLab]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>480000.00</AwardTotalIntnAmount>
+<AwardAmount>480000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kenneth Hicks</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Symmetries play a fundamental role in our understanding of Nature. In physics they define the basic conservation laws and general properties of matter, radiation, as well as interactions between them. Developments in nuclear and particle physics in the past several decades have shown that symmetry breaking effects also play a critical role in the formation and development of our universe. In particular, the lifetimes of pseudo-scalar mesons (neutral pions, eta and eta-prime mesons) are defined by broken symmetries in Nature. The symmetry breaking effects, though very critical for the formation of matter, are extremely small and require high precision state-of-the-art experiments to be able to "look back" at the early stages of development of the universe. The PrimEx project aims to perform high precision investigations of the properties of two of the lightest elementary particles: the lifetimes of neutral pions and eta mesons. The breaking effects of so called "chiral" or "left-right" symmetry in Nature provide the existence of these particles, as well as, define their lifetimes. The PrimEx collaboration, lead by the PI of this project, completed the first stage of the precision measurement of the neutral pion lifetime. The new result is a factor of two more precise than the current average of the world value, as presented in the Particle Data Book (PDG). The second stage of this experiment is planned to perform within the next few years to reach the proposed factor of five improvement over PDG's current value.&lt;br/&gt;&lt;br/&gt;   At North Carolina A&amp;T State University (NCAT), a historically black university, 90% of the students are African American -- students especially underrepresented in physics.  Awards to NCAT's PrimEx group from 2002 to the present allowed for the support and training of 9 undergraduate students, 6 graduate students and the group's present postdoc.  Funding for this award will continue to support undergraduate and graduate students, as well as a postdoc -- giving them unique opportunities in experimental nuclear and particle physics at the forefront of the field.]]></AbstractNarration>
+<MinAmdLetterDate>08/03/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/03/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855543</AwardID>
+<Investigator>
+<FirstName>Ashot</FirstName>
+<LastName>Gasparian</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ashot Gasparian</PI_FULL_NAME>
+<EmailAddress><![CDATA[gasparan@jlab.org]]></EmailAddress>
+<NSF_ID>000242127</NSF_ID>
+<StartDate>08/03/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ronald</FirstName>
+<LastName>Pedroni</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ronald S Pedroni</PI_FULL_NAME>
+<EmailAddress><![CDATA[rpedroni@ncat.edu]]></EmailAddress>
+<NSF_ID>000263605</NSF_ID>
+<StartDate>08/03/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina Agricultural &amp; Technical State University</Name>
+<CityName>GREENSBORO</CityName>
+<ZipCode>274110002</ZipCode>
+<PhoneNumber>3363347995</PhoneNumber>
+<StreetAddress>1601 E MARKET ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SKH5GMBR9GL3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTH CAROLINA AGRICULTURAL AND TECHNICAL STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[North Carolina Agricultural &amp; Technical State University]]></Name>
+<CityName>GREENSBORO</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>274110002</ZipCode>
+<StreetAddress><![CDATA[1601 E MARKET ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1232</Code>
+<Text>Nuclear &amp; Hadron Quantum Chrom</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7621</Code>
+<Text>PHYSICS-BROADEN PARTICIPATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~480000</FUND_OBLG>
+</Award>
+</rootTag>

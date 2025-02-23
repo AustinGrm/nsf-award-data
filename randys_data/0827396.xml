@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Research Starter Grant: The Role of Competition Among Parasites in Driving Patterns of Disease</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>59625</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010207</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Saran Twombly</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Parasites are increasingly recognized as an important component of many ecological systems and can have a variety of effects on human health.  Despite the recognized importance of parasites, little attention has been placed on the interactions, including competition, that may occur among parasites within a host.  Such interactions may influence both population dynamics and community composition.  This project will take two approaches to address the potential for competition between parasites.  First, it will use a long-term dataset of parasites of Daphnia dentifera, a common species of zooplankton, collected from 18 lakes in Michigan, to explore the possibilities for competition among parasites.  Second, it will take an experimental approach to examine how these competitive interactions may occur.  This combination of approaches will provide a comprehensive answer to an intriguing ecological question.&lt;br/&gt;&lt;br/&gt;Parasites are important in population dynamics of many organisms and frequently have serious effects on human health.  Thus, a better understanding of how parasites interact may provide clues for how best to alleviate problems associated with parasitism.  At the same time, this work will help advance basic ecological knowledge of parasites and the influence they may have on natural populations.  In addition, the proposed work will provide training and education opportunities for a female post-doctoral fellow and for undergraduate students.</AbstractNarration>
+<MinAmdLetterDate>07/13/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/30/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0827396</AwardID>
+<Investigator>
+<FirstName>Meghan</FirstName>
+<LastName>Duffy</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Meghan A Duffy</PI_FULL_NAME>
+<EmailAddress>duffymeg@umich.edu</EmailAddress>
+<PI_PHON>7347633658</PI_PHON>
+<NSF_ID>000165743</NSF_ID>
+<StartDate>07/13/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 NORTH AVE NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1128</Code>
+<Text>Population &amp; Community Ecology</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1182</Code>
+<Text>POP &amp; COMMUNITY ECOL PROG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7218</Code>
+<Text>RET SUPP-Res Exp for Tchr Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~50000</FUND_OBLG>
+<FUND_OBLG>2009~9625</FUND_OBLG>
+</Award>
+</rootTag>

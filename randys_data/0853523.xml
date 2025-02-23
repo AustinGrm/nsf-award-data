@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SGER: Seismic Waveform Inversion Study of the Layer 2A/2B Boundary in Young Oceanic Crust]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>50424</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040200</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard L. Carlson</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Seismic velocities in the uppermost oceanic crust (Layer 2A) increase with age. This progressive change is evidence of age dependent geologic processes, probably related to hydrothermal circulation and alteration that affects the crust soon after its formation. One significant consequence of this process is mineralization, including, for example, most of the world?s economic copper deposits. However, the process and its relationship to the seismic structure remain poorly understood. Resolving the seismic structure of the uppermost oceanic crust and its relationship to the geologic structure and evolution of the oceanic crust has been a persistent problem for more than three decades. Both drilling (e.g., at Site 504) and submersible studies (e.g., at Blanco Fracture Zone and Hess Deep) have improved our understanding of the geologic structure, but a clear correlation between the geologic structure and the seismic structure has failed to emerge in large part because the seismic structure has defied resolution, even by the most determined efforts. The waveform inversion approach proposed by Christeson holds the possibility of resolving the Layer 2A/2B seismic structure, and hence producing a breakthrough in this area of study after decades of frustration. If successful, the technique can be applied to a great deal of existing seismic data from a variety of localities, particularly in the Pacific. The primary broader impact of this SGER will be the introduction of the wave-field inversion technique to marine seismic data and its interpretation to a variety of problems. This award will also support a female investigator.]]></AbstractNarration>
+<MinAmdLetterDate>12/03/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>11/19/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0853523</AwardID>
+<Investigator>
+<FirstName>Gail</FirstName>
+<LastName>Christeson</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gail L Christeson</PI_FULL_NAME>
+<EmailAddress><![CDATA[gail@ig.utexas.edu]]></EmailAddress>
+<NSF_ID>000234997</NSF_ID>
+<StartDate>12/03/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0204000</Code>
+<Name>Oceanography</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1620</Code>
+<Text>Marine Geology and Geophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9237</Code>
+<Text>SMALL GRANTS-EXPLORATORY RSRCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~50424</FUND_OBLG>
+</Award>
+</rootTag>

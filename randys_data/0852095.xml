@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[REU Site: Life in the Universe - Astrobiology at the SETI Institute]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>597600.00</AwardTotalIntnAmount>
+<AwardAmount>597600</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daniel Evans</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5). &lt;br/&gt;&lt;br/&gt;These funds will allow for the continuation of the Research Experiences for Undergraduates (REU) Site at the SETI Institute (SI), with a focus on astrobiology and the study of the living universe.  Astrobiology is cross-disciplinary, ranging from astronomy and astrophysics to planetary sciences, life sciences, geology, and chemistry to explore the universe.  During this summer internship, students will participate in 5 major components: 1. SI scientists mentor students as they conduct individual research projects. 2. The SI scientists present a coordinated set of presentations that introduce the REU students to the breadth of astrobiology research. Students learn about graduate opportunities at the 16 US and 5 international research universities and institutions that comprise the NASA Astrobiology Institute. 3. Student interns participate in the weekly astrobiology "journal club" discussion led by scientists to learn literature research skills. 4. Students participate in educational, social and cultural activities via research-related field trips. The entire REU group spends a week learning about radio astronomy at the Allen Telescope Array at Hat Creek Radio Observatory, and touring an extremophile research site at nearby Lassen Volcanic National Park. Other local field trips are also included. 5. During the final week, students participate in a symposium where they present their research results, and some students present subsequently at professional scientific conferences.&lt;br/&gt;&lt;br/&gt;This REU Site will continue active research participation by undergraduates at SI, bringing more diverse students to the field of astrobiology, and leveraging SI's relationships with NASA Ames Research Center, California Academy of Sciences, and the University of California - Berkeley Radio Astronomy Laboratory at Hat Creek Radio Astronomy Observatory. These strategies will "advance discovery and understanding while promoting teaching, training, and learning", and also will "enhance infrastructure for research and education." Recruitment is on a national level, with emphasis given to groups underrepresented in sciences, including women and minority students.]]></AbstractNarration>
+<MinAmdLetterDate>06/09/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/09/2009</MaxAmdLetterDate>
+<ARRAAmount>597600</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0852095</AwardID>
+<Investigator>
+<FirstName>Cynthia</FirstName>
+<LastName>Phillips</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Cynthia B Phillips</PI_FULL_NAME>
+<EmailAddress><![CDATA[phillips@seti.org]]></EmailAddress>
+<NSF_ID>000090032</NSF_ID>
+<StartDate>06/09/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SETI Institute</Name>
+<CityName>MOUNTAIN VIEW</CityName>
+<ZipCode>940435232</ZipCode>
+<PhoneNumber>6509616633</PhoneNumber>
+<StreetAddress>339 BERNARDO AVE</StreetAddress>
+<StreetAddress2><![CDATA[STE 200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WKAUE7NHR4L1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SETI INSTITUTE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SETI Institute]]></Name>
+<CityName>MOUNTAIN VIEW</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>940435232</ZipCode>
+<StreetAddress><![CDATA[339 BERNARDO AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1219</Code>
+<Text>SPECIAL PROGRAMS IN ASTRONOMY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~597600</FUND_OBLG>
+</Award>
+</rootTag>

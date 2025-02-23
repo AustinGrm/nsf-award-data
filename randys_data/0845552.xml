@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Towards a Unified Declarative Platform for Composable Verifiable Networks</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2016</AwardExpirationDate>
+<AwardTotalIntnAmount>450000.00</AwardTotalIntnAmount>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Darleen Fisher</SignBlockName>
+<PO_EMAI>dlfisher@nsf.gov</PO_EMAI>
+<PO_PHON>7032928950</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>CNS - 0845552 &lt;br/&gt;Loo, Boon Thau   &lt;br/&gt;University of Pennsylvania&lt;br/&gt;CAREER: Towards a Unified Declarative Platform for Composable&lt;br/&gt;Verifiable Networks&lt;br/&gt;&lt;br/&gt;This research project investigates a declarative, composable and verifiable network infrastructure -- one capable of bridging between existing networks, stacking them in layers, dynamically changing the layers or bridges, and allowing for rapid extensibility with new functionalities. The proposed infrastructure utilizes declarative networking, a declarative, database-inspired extensible infrastructure that uses query languages to specify behavior.  This approach provides the benefits of compactness, safety, composability, and the potential for correctness checks.&lt;br/&gt;Intellectual Merit. The first contribution of the proposed research explores mechanisms for network composition where distinct parts or elements of existing networks are combined via declarative specifications to create a new network with new functionalities.  The second contribution leverages the dynamic composition capabilities provided by the declarative framework and infrastructure to enable adaptable hybrid protocols, i.e.  protocols built from combining several existing protocols based on changing application needs and network conditions.  The third contribution explores a formal methodology towards verifying the properties of declarative networks and their compositions. Three verification techniques will be explored: static analysis of database query languages, theorem proving techniques that leverages declarative networking's connection to logic programs, and runtime verification.&lt;br/&gt;Broader Impact. The education goal of this proposal is an integrated research and teaching program that emphasizes data-centric and formal methods approaches towards networking. The intellectual merit of this proposal is the development of a unified declarative framework for specifying, composing, formally verifying, and implementing networks.  The broader impact of this proposal lies in the ability to enable and create new functionalities from the network diversity that technologies such as virtualization and overlays make possible.&lt;br/&gt;&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>01/29/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/10/2013</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0845552</AwardID>
+<Investigator>
+<FirstName>Boon Thau</FirstName>
+<LastName>Loo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Boon Thau Loo</PI_FULL_NAME>
+<EmailAddress>boonloo@cis.upenn.edu</EmailAddress>
+<PI_PHON>2158983323</PI_PHON>
+<NSF_ID>000488968</NSF_ID>
+<StartDate>01/29/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Pennsylvania</Name>
+<CityName>PHILADELPHIA</CityName>
+<ZipCode>191046205</ZipCode>
+<PhoneNumber>2158987293</PhoneNumber>
+<StreetAddress>3451 WALNUT ST STE 440A</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GM1XX56LEP58</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>GM1XX56LEP58</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Pennsylvania]]></Name>
+<CityName>PHILADELPHIA</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>191046205</ZipCode>
+<StreetAddress><![CDATA[3451 WALNUT ST STE 440A]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>4090</Code>
+<Text>ADVANCED NET INFRA &amp; RSCH</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1187</Code>
+<Text>PECASE- eligible</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0110</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0111</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0112</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0113</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001011DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001112DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001213DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001314DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~90605</FUND_OBLG>
+<FUND_OBLG>2010~85430</FUND_OBLG>
+<FUND_OBLG>2011~88053</FUND_OBLG>
+<FUND_OBLG>2012~91470</FUND_OBLG>
+<FUND_OBLG>2013~94442</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Next Generation Thermoplastics from Biorenewable Carbonyl Compounds</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>382812.00</AwardTotalIntnAmount>
+<AwardAmount>382812</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090003</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tingyu Li</SignBlockName>
+<PO_EMAI>tli@nsf.gov</PO_EMAI>
+<PO_PHON>7032924949</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5). &lt;br/&gt;&lt;br/&gt;The project objectives include the synthesis and characterization of new crop-based, biorenewable thermoplastics designed to replace those made from petroleum.  Several synthetic strategies will be developed for polymerizing organic molecules abundantly available from plants.  Critical polymer design features include environmental degradation pathways or facile chemical recycling.  Formaldehyde is a targeted feedstock that can derive from wood or agricultural wastes via methanol (wood alcohol).  These studies will develop methods for copolymerizing formaldehyde with carbon monoxide, carbon dioxide, and olefins, giving rise to new polyacetal/esters, polyacetal/carbonates, and polyacetal/olefins with unexplored properties and applications.  Additional synthetic pursuits seek improved thermal properties of polylactic acid, currently the highest volume biorenewable synthetic thermoplastic. Related crop-based aromatic/aliphatic polyesters will be targeted as high-volume plastics of the future, and their suitability as replacements for petroleum-based polyesters will be assessed.&lt;br/&gt;&lt;br/&gt;With this award, the Organic and Macromolecular Chemistry Program is supporting the research of Professor Stephen A. Miller of the Department of Chemistry at the University of Florida.  Professor Miller's research efforts focus on organic and organometallic chemistry with areas of specialization including polymerization chemistry, single-site catalysis, theoretical polymer chemistry, and polymers synthesized from biorenewable feedstocks.  The successful execution of this research project will result in novel polymeric materials that match or excel commercial plastics based on petroleum, yet degrade benignly in the environment.</AbstractNarration>
+<MinAmdLetterDate>07/22/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2009</MaxAmdLetterDate>
+<ARRAAmount>382812</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0848236</AwardID>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Miller</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stephen A Miller</PI_FULL_NAME>
+<EmailAddress>miller@chem.ufl.edu</EmailAddress>
+<NSF_ID>000290152</NSF_ID>
+<StartDate>07/22/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326112002</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1 UNIVERSITY OF FLORIDA</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL03</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>969663814</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF FLORIDA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>159621697</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Florida]]></Name>
+<CityName>GAINESVILLE</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>326112002</ZipCode>
+<StreetAddress><![CDATA[1 UNIVERSITY OF FLORIDA]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1948</Code>
+<Text>SYNTHESIS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9181</Code>
+<Text>BIOPROCESSING/BIOMOLECULAR MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9223</Code>
+<Text>ENVIRON BENIGN CHEMICAL SYNTH &amp; PROCESS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2009~382812</FUND_OBLG>
+</Award>
+</rootTag>

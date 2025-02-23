@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaboration in Mathematical Geosciences: Nonintegrable Hamiltonian Systems in Geophysical Fluid Dynamics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>763266.00</AwardTotalIntnAmount>
+<AwardAmount>763266</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040303</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eric C. Itsweire</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This study will apply results of Kolmogorov-Arnold-Moser (KAM) theory and the structure of stable and unstable manifolds of generally nonstationary hyperbolic points in nonsteady flows. These manifolds are often referred to as Lagrangian coherent structures, or LCSs, in fluid dynamical applications. KAM theory and manifold structure are intimately linked. Applications are: (i) the connections between jets, transport barriers and potential vorticity barriers in the Earth?s oceans and stratosphere; (ii) LCS climatology associated with the general circulation of the ocean and the connection between these structures and the predominant Eulerian features of the general circulation; (iii) biological applications of oceanic LCSs including problems involving harmful algal blooms, plankton patchiness, and understanding observed biogeographical boundaries; and (iv) problems involving a dynamical systems approach to wave propagation in random inhomogeneous media.&lt;br/&gt;&lt;br/&gt;The work will be potentially beneficial to the society in several ways. First, it addresses transport of properties in the ocean. Applications include transport of fish larvae, plankton distributions including harmful algal blooms, toxins, and pollutants. Some of these substances have potentially significant human health implications. The transport of fish larvae is relevant to management of fishery stocks and the design of marine reserves. Search and rescue operations at sea are also intimately linked to ocean transport. Second, the findings on transport barriers in the stratosphere will have implications for global warming because such barriers strongly influence the distribution of greenhouse gases (including ozone) in the atmosphere. Also, it is critically important to understand such barriers, if considering geo-engineering measures to counteract greenhouse-induced global warming. Third, there are potential industrial applications of our work. In most industrial applications involving transport, the objective is to efficiently mix two or more fluids.]]></AbstractNarration>
+<MinAmdLetterDate>08/22/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/22/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0825547</AwardID>
+<Investigator>
+<FirstName>Huseyin</FirstName>
+<LastName>Kocak</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Huseyin Kocak</PI_FULL_NAME>
+<EmailAddress><![CDATA[hk@math.miami.edu]]></EmailAddress>
+<NSF_ID>000434180</NSF_ID>
+<StartDate>08/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Francisco</FirstName>
+<LastName>Beron-Vera</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Francisco J Beron-Vera</PI_FULL_NAME>
+<EmailAddress><![CDATA[fberon@rsmas.miami.edu]]></EmailAddress>
+<NSF_ID>000484047</NSF_ID>
+<StartDate>08/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Maria</FirstName>
+<LastName>Olascoaga</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Maria J Olascoaga</PI_FULL_NAME>
+<EmailAddress><![CDATA[jolascoaga@rsmas.miami.edu]]></EmailAddress>
+<NSF_ID>000484046</NSF_ID>
+<StartDate>08/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Miami</Name>
+<CityName>CORAL GABLES</CityName>
+<ZipCode>331462509</ZipCode>
+<PhoneNumber>3054214089</PhoneNumber>
+<StreetAddress>1251 MEMORIAL DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>27</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL27</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KXN7HGCF6K91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MIAMI</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VNZZYCJ55TC4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Miami]]></Name>
+<CityName>CORAL GABLES</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>331462509</ZipCode>
+<StreetAddress><![CDATA[1251 MEMORIAL DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>27</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL27</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0204000</Code>
+<Name>Oceanography</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7215</Code>
+<Text>OPPORTUNITIES FOR RESEARCH CMG</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7232</Code>
+<Text>MATHEMATICAL GEOSCIENCES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7303</Code>
+<Text>MATH SCI PRIORITY AREA: INTERDISCIPLINAR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~763266</FUND_OBLG>
+</Award>
+</rootTag>

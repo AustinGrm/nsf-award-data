@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Ordered Array of Uniformly Sized Quantum Dots for High Efficiency Solar Cells]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>205000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gregory Rorrer</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[0854313&lt;br/&gt;Yang&lt;br/&gt;&lt;br/&gt;Intellectual merit: Achieving the predicted efficiency over 60% from the third generation solar cells based on Intermediate Band (IB) has been troublesome due to the defects and low light absorption by Self-Assembled Quantum Dots (SAQD) via the Stranski-Krastanov (S-K) growth mode. The nature of the SAQDs fabricated by the S-K mode is randomness in size and position. This randomness broadens the IB structure formed between p- and n-junctions, which reduces the absorption at a given spectrum, reducing the efficiency. Another problem in applying SAQDs for solar cells is the difficulty in realizing defect-free layers of high concentration of dots when the stacking of SAQDs is more than ~20 layers. In order to overcome the problems related with controls of size and site, and the defects in the SAQD-stacks, this project will develop low cost and direct in-situ patterning processes to guide the self-assembly of uniformly sized, multi-stacked SAQDs for high efficiency solar cells. Interferential irradiation of high power laser pulses will be employed to create thermal modulations on surface in order to produce defect-free, uniform and ordered nanoscale patterns on surfaces. Atomistic understanding will be pursued on the patterning processes and the stacking SAQDs more than 50 layers. The atomistic optimization, using in-vacuum Scanning Tunneling Microscopy (STM), will provide ways to scale-up the arrays of desired sizes and shapes of SAQDs. In particular, the project will study how the size and periodicity influence the electronic structure of IBs formed by SAQDs. In-situ optical characterizations will be used to analyze optical defects, the correlation between IB structure and the properties of QD arrays such as size and density so that the patterning and growth processes maximize the efficiency of QD-based solar cells. Gained insight will be used to fabricate SAQD-based solar cells with target efficiency over 50%. &lt;br/&gt;&lt;br/&gt;Broad impact: To generate electricity at $0.02/kWh, solar cells efficiency over 50% are crucial. When used with concentrator designs, the developed high efficiency solar cells will have huge impact on society. Also the project will advance understanding on nanoscale thermal processes to produce defect-free high quality nano lines and dots on various substrates. Students will be trained in design and fabrication processes of solar cells through research based education. This will be accomplished by exposing them to the cutting edge research on atomistic studies on the patterning using STM, the optical properties of IB solar cells, and heteroepitaxial growth techniques such as Molecular Beam Epitaxy and Pulsed Laser Deposition. Demonstrations of the solar cells and quantum size effects will be used to enhance public understanding on solar energy and nanoscale science and engineering through public demonstrations in annual Physics Day in Lagoon.&lt;br/&gt;&lt;br/&gt;This project was supported by the Energy for Sustainability Program of the CBET Division of the Engineering Directorate and the Electronic/Photonic Materials Program of the Division of Materials Research (DMR) of the Mathematical and Physical Sciences Directorate.]]></AbstractNarration>
+<MinAmdLetterDate>07/15/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/03/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0854313</AwardID>
+<Investigator>
+<FirstName>Haeyeon</FirstName>
+<LastName>Yang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Haeyeon Yang</PI_FULL_NAME>
+<EmailAddress><![CDATA[yangh@gram.edu]]></EmailAddress>
+<NSF_ID>000110474</NSF_ID>
+<StartDate>07/15/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Utah State University</Name>
+<CityName>LOGAN</CityName>
+<ZipCode>843221000</ZipCode>
+<PhoneNumber>4357971226</PhoneNumber>
+<StreetAddress>1000 OLD MAIN HILL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SPE2YDWHDYU4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UTAH STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>SPE2YDWHDYU4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Utah State University]]></Name>
+<CityName>LOGAN</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>843221000</ZipCode>
+<StreetAddress><![CDATA[1000 OLD MAIN HILL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0306000</Code>
+<Name>Energy Research &amp; Resources</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7644</Code>
+<Text>EchemS-Electrochemical Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>011E</Code>
+<Text>Nano environmental health &amp; safety</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>045E</Code>
+<Text>Adv Mats for Separation Process</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>051E</Code>
+<Text>Interfacial trans &amp; thermodynamic</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>090E</Code>
+<Text>Chem/Bio and Physical Diagnostics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0110</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001011DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~198284</FUND_OBLG>
+<FUND_OBLG>2010~0</FUND_OBLG>
+</Award>
+</rootTag>

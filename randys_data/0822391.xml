@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[R&amp;D: Closing the math achievement gap for English Language Learners: Technology resources for pre-algebra]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>1521786.00</AwardTotalIntnAmount>
+<AwardAmount>495535</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DRL</Abbreviation>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Julio Lopez-Ferrao</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The project addresses the relatively poor mathematics achievement of students who are not proficient in English. It includes research on how English Language Learners in beginning algebra classes solve math word problems with different text characteristics.  The results of this research inform the development of technology-based resources to support English Language Learners? ability to learn mathematics through instruction in English, including tutorials in math vocabulary and interactive assistance with forming equations from word problem text.  RAND-Education serves as the evaluator for formative and summative activities, guided by an advisory board of experts in mathematics education and English Learner education.]]></AbstractNarration>
+<MinAmdLetterDate>08/21/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/21/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0822391</AwardID>
+<Investigator>
+<FirstName>Carole</FirstName>
+<LastName>Beal</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carole R Beal</PI_FULL_NAME>
+<EmailAddress><![CDATA[crbeal@coe.ufl.edu]]></EmailAddress>
+<NSF_ID>000448149</NSF_ID>
+<StartDate>08/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Southern California</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900894304</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress>3720 S FLOWER ST</StreetAddress>
+<StreetAddress2><![CDATA[FL 3]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA37</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G88KLJR3KYT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTHERN CALIFORNIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>LOS ANGELES</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900894304</ZipCode>
+<StreetAddress><![CDATA[3720 S FLOWER ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7645</Code>
+<Text>Discovery Research K-12</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9177</Code>
+<Text>ELEMENTARY/SECONDARY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~0</FUND_OBLG>
+</Award>
+</rootTag>

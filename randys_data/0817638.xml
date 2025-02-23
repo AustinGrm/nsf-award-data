@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Structure and Function Studies on RNA Splicing Endonuclease]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>240000.00</AwardTotalIntnAmount>
+<AwardAmount>240000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070100</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karen Cone</SignBlockName>
+<PO_EMAI>kccone@nsf.gov</PO_EMAI>
+<PO_PHON>7032924967</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[RNA is the molecule that carries genetic information from DNA to the rest of the cell. RNA is a copy of DNA, but unlike the DNA double helix, the RNA copy of each gene forms a unique three-dimensional shape that strongly influences its behavior, including how it interacts with proteins. This project uses x-ray crystallography and other biochemical tools to learn the three-dimensional structure of the bulge-helix-bulge RNA protein complexes. The bulge-helix-bulge RNA structural motif specifically binds to a protein enzyme called the splicing endonuclease, leading to breakage of chemical bonds at two specific locations of the RNA. This cellular process is an obligatory step required to maturate RNA molecules, much like the way movie films are edited. The motifs are commonly found at the exon-intron junctions in intron containing archaeal tRNA transcripts and in the processing stems of archaeal precursor ribosomal RNA transcripts. This research will delineate the chemical principles involved in association of RNA and proteins and protein catalyzed RNA cleavage reactions. &lt;br/&gt;&lt;br/&gt;Knowledge obtained from this research will enhance classroom teaching of both biochemistry and molecular biology. This project will also provide research opportunities for high school, undergraduate, graduate and post doctoral students.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/27/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/08/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0817638</AwardID>
+<Investigator>
+<FirstName>Hong</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hong Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[hongli@sb.fsu.edu]]></EmailAddress>
+<NSF_ID>000279613</NSF_ID>
+<StartDate>07/27/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida State University</Name>
+<CityName>TALLAHASSEE</CityName>
+<ZipCode>323060001</ZipCode>
+<PhoneNumber>8506445260</PhoneNumber>
+<StreetAddress>874 TRADITIONS WAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JF2BLNN4PJC3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D4GCCCMXR1H3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida State University]]></Name>
+<CityName>TALLAHASSEE</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>323060001</ZipCode>
+<StreetAddress><![CDATA[874 TRADITIONS WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1112</Code>
+<Text>Genetic Mechanisms</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1112</Code>
+<Text>GENES AND GENOME SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1156</Code>
+<Text>MICROBIAL GENETICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~160000</FUND_OBLG>
+<FUND_OBLG>2009~80000</FUND_OBLG>
+</Award>
+</rootTag>

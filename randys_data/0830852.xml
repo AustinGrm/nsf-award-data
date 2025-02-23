@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CT-ISG:    Collaborative Research:   Incentives, Insurance and Audited Reputation: An Economic Approach to Controlling Spam]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>75954.00</AwardTotalIntnAmount>
+<AwardAmount>75954</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>carl landwehr</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The Internet is plagued by security problems including spam, threatening its legitimate role as the engine of growth in the new millennium. While technology makes admirable progress against cyber-security problems, the problem is not one of technology alone. Cyber security is part of a framework that encompasses technological, economic and social issues. The availability of technological solutions needs to be supplemented by service providers accepting responsibility for deploying technologies efficiently. Deployment of solutions and assignment of responsibility today tend to focus on a network provider's accountability to its own customers. In the decentralized Internet, allocation of accountability for potential impact on a remote network is important. This research seeks to direct investments to minimize impact on destination networks by efficient allocation of incentives. Security threats render the Internet a risky environment, and insurance mechanisms can seek to enhance productive and secure use of the Internet by risk management.  This project uses game theoretic models to study allocation of incentives among mail service providers to reduce global incidence of spam. This project will develop incentive and insurance mechanisms with the provision for certifying providers who voluntarily accept responsibility for damage to rest of the network, conduct empirical studies of the patterns of spam observed on Internet today for refining the analytical model, and experimentally test and validate the mechanisms and model. This research seeks to start an evolution of the Internet into an accountable and well-organized environment]]></AbstractNarration>
+<MinAmdLetterDate>08/15/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/15/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0830852</AwardID>
+<Investigator>
+<FirstName>Manoj</FirstName>
+<LastName>Parameswaran</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Manoj Parameswaran</PI_FULL_NAME>
+<EmailAddress><![CDATA[mparameswaran@scu.edu]]></EmailAddress>
+<NSF_ID>000491860</NSF_ID>
+<StartDate>08/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Santa Clara University</Name>
+<CityName>SANTA CLARA</CityName>
+<ZipCode>950504776</ZipCode>
+<PhoneNumber>4085544764</PhoneNumber>
+<StreetAddress>500 EL CAMINO REAL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA17</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YE8LRJWSY3K9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PRESIDENT AND BOARD OF TRUSTEES OF SANTA CLARA COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Santa Clara University]]></Name>
+<CityName>SANTA CLARA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>950504776</ZipCode>
+<StreetAddress><![CDATA[500 EL CAMINO REAL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7371</Code>
+<Text>CYBER TRUST</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~75954</FUND_OBLG>
+</Award>
+</rootTag>

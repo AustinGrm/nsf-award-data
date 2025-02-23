@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[An integrated approach to modeling and simulations of complex fluids of microstructures]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/20/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>97458.00</AwardTotalIntnAmount>
+<AwardAmount>137458</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michael Steuerwalt</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Wang&lt;br/&gt;DMS-0605029&lt;br/&gt;&lt;br/&gt;     The investigator combines multiscale modeling, analysis, and&lt;br/&gt;computation to study a variety of polymeric liquids of&lt;br/&gt;anisotropic microstructures.  The microstructure of these&lt;br/&gt;polymeric liquids consists of anisotropic polymers and&lt;br/&gt;nanoparticles whose configuration, conformation,&lt;br/&gt;rigidity/flexibility, and chemical properties interact with the&lt;br/&gt;other constituents in the materials as well as the macroscopic&lt;br/&gt;flow field to effect molecular scale or nanoscale alignment that&lt;br/&gt;controls the ultimate performance properties of the materials. &lt;br/&gt;One of the goals of the project is to study how the macroscopic&lt;br/&gt;flow field interacts with the micro-structure of the complex&lt;br/&gt;fluids, leading to novel mesoscale morphology, and ultimately&lt;br/&gt;influences the rheological as well as the material properties at&lt;br/&gt;the macroscopic level.  Other goals include studying how various&lt;br/&gt;molecular geometries affect macroscopic material and rheological&lt;br/&gt;properties, phase transitions, and mesoscopic structure&lt;br/&gt;formation, wave propagation in biaxial liquid crystalline&lt;br/&gt;polymers, and external field assisted flow processing of&lt;br/&gt;polymeric materials and nanocomposites. &lt;br/&gt;&lt;br/&gt;     The investigator develops state-of-the-art multiscale&lt;br/&gt;theories and models to study material and rheological properties&lt;br/&gt;of liquid crystalline polymers and polymer-nanoparticle&lt;br/&gt;composites and their fluid dynamics in various processing&lt;br/&gt;conditions.  The project is motivated by new discoveries and&lt;br/&gt;emerging applications in nanomaterials and nanotechnologies.  A&lt;br/&gt;good understanding of the new materials and new processing&lt;br/&gt;methods not only advances science, but also has implications for&lt;br/&gt;industrial applications in materials and nanotechnology. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>10/24/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>10/24/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0853005</AwardID>
+<Investigator>
+<FirstName>Qi</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Qi Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[qwang@math.sc.edu]]></EmailAddress>
+<NSF_ID>000280522</NSF_ID>
+<StartDate>10/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University South Carolina Research Foundation</Name>
+<CityName>COLUMBIA</CityName>
+<ZipCode>292084009</ZipCode>
+<PhoneNumber>8037777093</PhoneNumber>
+<StreetAddress>915 BULL ST</StreetAddress>
+<StreetAddress2><![CDATA[STE 202]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SC06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ELBVJ1KYX976</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SOUTH CAROLINA RESEARCH FOUNDATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University South Carolina Research Foundation]]></Name>
+<CityName>COLUMBIA</CityName>
+<StateCode>SC</StateCode>
+<ZipCode>292084009</ZipCode>
+<StreetAddress><![CDATA[915 BULL ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SC06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2006~97458</FUND_OBLG>
+<FUND_OBLG>2008~40000</FUND_OBLG>
+</Award>
+</rootTag>

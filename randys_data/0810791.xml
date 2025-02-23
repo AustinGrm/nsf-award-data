@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Compact NMR for Dilute Pathogen Detection]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>149573</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gregory T. Baxter</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This Small Business Innovation Research Phase I project develops compact NMR devices for rapid detection of dilute cells and pathogens to replace blood culture, providing improvements in detection speed and sensitivity while decreasing cost. They will enhance medical care and address the growing crisis of sepsis in hospitals. The devices are based on a combination of technologies - microcoil NMR and biochemical labeling by magnetic nanoparticles.  The research will extend the performance boundaries of this technology, resulting in a detector for extremely dilute, immuno-magnetically labeled, pathogens. &lt;br/&gt;&lt;br/&gt;The broader impacts of this research are based on the importance of early detection of dilute concentration of pathogens and other cells that would permit more timely diagnosis of diseases, thereby enhancing healthcare outcomes. Early detection also reduces costs, as patients recover faster and require less intervention. Blood culture is a workhorse of the diagnostic lab, so there is a demand for a device that substantially improves its performance. Sepsis is a growing public health problem with significant consequences, so the motivation to adopt new tools for the detection and treatment of this condition is strong. The NMR device proposed here achieves enhanced performance in sensitivity, speed, size, and cost that will permit new uses in the future, including in the primary care setting and in the field.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>03/31/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>02/27/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0810791</AwardID>
+<Investigator>
+<FirstName>Eiichi</FirstName>
+<LastName>Fukushima</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eiichi Fukushima</PI_FULL_NAME>
+<EmailAddress><![CDATA[eiichi@abqmr.com]]></EmailAddress>
+<NSF_ID>000306881</NSF_ID>
+<StartDate>03/31/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>ABQMR,Inc</Name>
+<CityName>ALBUQUERQUE</CityName>
+<ZipCode>871064352</ZipCode>
+<PhoneNumber>5052440017</PhoneNumber>
+<StreetAddress>2301 YALE BLVD SE</StreetAddress>
+<StreetAddress2><![CDATA[STE C2]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NM01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HDL1JZCASKU1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ABQMR INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[ABQMR,Inc]]></Name>
+<CityName>ALBUQUERQUE</CityName>
+<StateCode>NM</StateCode>
+<ZipCode>871064352</ZipCode>
+<StreetAddress><![CDATA[2301 YALE BLVD SE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NM01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; DEVICE TEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9181</Code>
+<Text>BIOPROCESSING/BIOMOLECULAR MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9267</Code>
+<Text>INSTRUMENTATION &amp; LAB IMPROVE.</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~99729</FUND_OBLG>
+<FUND_OBLG>2009~49844</FUND_OBLG>
+</Award>
+</rootTag>

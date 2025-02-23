@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Strategies: ACTIVATE: Advancing Computing and Technology Interest and innoVation through Teacher Education]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>1486742.00</AwardTotalIntnAmount>
+<AwardAmount>1486742</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DRL</Abbreviation>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joseph Reed</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The Computer Science (CS) community believes that it has an important role to play in educating the public about the excitement of Computer Science (CS) and the lucrative and interesting career opportunities this field offers. In western Pennsylvania, most high school students are not being provided an opportunity to learn about the science of computing nor about the breadth of the field. The aim is to approach this challenge in two ways: (a) provide workshops for teacher development in computational thinking as well as innovative strategies and techniques for engaging students at the high school and middle school level, and (b) provide training and materials for participating teachers to allow them to present information to other teachers and administrators about computer science during in-service days and similar professional meetings. The project will target STEM teachers in the Appalachian Region, including western Pennsylvania, West Virginia and eastern Ohio, where many schools lack essential resources for teacher development and have little support for special programs to interest students in STEM careers. It is believe that the end result of the strategy will be an increase in the number of students enrolling in computing and other STEM disciplines in college and subsequent high-tech employment in the Appalachian region in the coming decade.]]></AbstractNarration>
+<MinAmdLetterDate>09/11/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>03/15/2013</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0833496</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Cortina</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thomas J Cortina</PI_FULL_NAME>
+<EmailAddress><![CDATA[tcortina@cs.cmu.edu]]></EmailAddress>
+<NSF_ID>000163789</NSF_ID>
+<StartDate>09/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Carol</FirstName>
+<LastName>Frieze</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carol Frieze</PI_FULL_NAME>
+<EmailAddress><![CDATA[cfrieze@cs.cmu.edu]]></EmailAddress>
+<NSF_ID>000208133</NSF_ID>
+<StartDate>09/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Wanda</FirstName>
+<LastName>Dann</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wanda Dann</PI_FULL_NAME>
+<EmailAddress><![CDATA[wpdann@andrew.cmu.edu]]></EmailAddress>
+<NSF_ID>000248796</NSF_ID>
+<StartDate>09/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 FORBES AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NKNFLNQ613</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARNEGIE MELLON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NKNFLNQ613</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>PITTSBURGH</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152133815</ZipCode>
+<StreetAddress><![CDATA[5000 FORBES AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7227</Code>
+<Text>ITEST-Inov Tech Exp Stu &amp; Teac</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9177</Code>
+<Text>ELEMENTARY/SECONDARY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EHR, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~488645</FUND_OBLG>
+<FUND_OBLG>2009~495818</FUND_OBLG>
+<FUND_OBLG>2010~502279</FUND_OBLG>
+</Award>
+</rootTag>

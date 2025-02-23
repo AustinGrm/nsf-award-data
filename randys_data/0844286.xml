@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Genetic Analysis of the Role of Pro-opiomelanocortin Peptides in Mouse Adrenal Maintenance and Function]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/03/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>109831</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090300</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mark R. Brodl</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Pro-opiomelanocortin (POMC) is a gene highly conserved in vertebrates. It encodes for a pro-hormone from which a number of small peptides with a diverse array of functions is produced, including adrenocorticotropin, melanocyte stimulating hormone, and -endorphin. The investigators generated a mouse mutant which completely lacks all POMC peptides. While POMC null mutants are born with morphologically normal adrenal glands, their adrenals exhibit two defects: First, they do not release glucocorticoids, and they produce reduced levels of mineralocorticoids; and second, they regress with age and are eventually lacking in the adult. In this project the investigators will utilize their mouse model in a whole animal, combined pharmacological and genetic approach a) to identify the specific POMC peptide or peptide combination required for maintenance and function of the adrenals, and b) to identify the molecular processes in the adrenal mediating its maintenance and function that are dependent on POMC-derived signals. This project will integrate research and education by advancing discovery and understanding while at the same time training, both conceptually and practically, students at different levels in their scientific careers. The proposed research will broaden the participation of underrepresented groups, specifically of geographically underrepresented groups in the State of Oklahoma. The benefit of the proposed research to science lies in illuminating general principles of organ maintenance and function in vertebrate organisms, lessons which will be applicable to many other biological systems. The benefit of the proposed research to society lies in advancing knowledge and promoting education. &lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>09/08/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>01/13/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0844286</AwardID>
+<Investigator>
+<FirstName>Ute</FirstName>
+<LastName>Hochgeschwender</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ute H Hochgeschwender</PI_FULL_NAME>
+<EmailAddress><![CDATA[ute.hochgeschwender@cmich.edu]]></EmailAddress>
+<NSF_ID>000490257</NSF_ID>
+<StartDate>09/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277054640</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W MAIN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TP7EK8DZV6N5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DUKE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277054640</ZipCode>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7658</Code>
+<Text>Physiol Mechs &amp; Biomechanics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2007~29831</FUND_OBLG>
+<FUND_OBLG>2008~80000</FUND_OBLG>
+</Award>
+</rootTag>

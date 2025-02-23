@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Fast Algorithms for Oscillatory Integrals]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>415017.00</AwardTotalIntnAmount>
+<AwardAmount>415017</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Junping Wang</SignBlockName>
+<PO_EMAI>jwang@nsf.gov</PO_EMAI>
+<PO_PHON>7032924488</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Many challenging computational problems related to high frequency wave phenomena can be formulated mathematically as integral equations and transforms with oscillatory kernels. The PI proposes to leverage the ideas of multidirectionality and butterfly computation to develop fast and accurate algorithms for oscillatory integral equations and transforms, with targeted applications in acoustic and electromagnetic scattering, numerical wave propagation, and reflection seismology. The proposed research activities include: (1) fast and parallel algorithms for the $N$-body problems and the boundary integral equations of high frequency acoustic and electromagnetic scattering, (2) an optimal complexity algorithm for computing Fourier integral operators with applications in high frequency wave propagation and seismic migration, (3) an optimal complexity algorithm for sparse Fourier transform where the spatial and Fourier samples are supported only on a low dimensional manifold, and (4) an optimal complexity algorithm for partial Fourier transform where the frequency summation is restricted to a spatial dependent domain. The education part of includes the following components (1) mentoring students and postdocs through participating the proposed research activities, (2) curriculum development through developing a new course that focuses on the fast algorithms in multiscale and multidirectional computation and publishing survey papers on these topics, and (3) organizing summer schools and lecture series that aim to present students with recent developments in computational mathematics.&lt;br/&gt;&lt;br/&gt;Through developing robust and accurate numerical algorithms with optimal complexity, this research will significantly improve our ability of understanding large scale physical problems of oscillatory nature. The algorithms to be developed in the proposed research activities will have direct applications in acoustic and electromagnetic scattering, reflection seismology, and medical imaging. The PI will also work closely with researchers from industrial and government laboratories to disseminate ideas and deliver operational softwares for realistic challenging applications. The development of a new generation of numerical algorithms and softwares requires researchers to understand different aspects of computational mathematics. The research and educational components will integrate together to (1) help train a new generation of researchers who master algorithmic design, mathematical analysis, and software development, and (2) promote the awareness and interests in computational mathematics among undergraduates and underrepresented groups (female and minority students).&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>09/13/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>09/13/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0846501</AwardID>
+<Investigator>
+<FirstName>Lexing</FirstName>
+<LastName>Ying</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lexing Ying</PI_FULL_NAME>
+<EmailAddress><![CDATA[lexing@math.stanford.edu]]></EmailAddress>
+<NSF_ID>000148894</NSF_ID>
+<StartDate>09/13/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~198467</FUND_OBLG>
+</Award>
+</rootTag>

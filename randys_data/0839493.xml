@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  A 3D Interactive Virtual Patient Platform for Nursing Education</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ian M. Bennett</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovative Research (SBIR) Phase I Project combines web-deliverable, 3-D computer graphics and gaming technology to provide a non-linear, immersive learning environment for nursing education. The outcome of the project is a toolkit which will center on an automated virtual patient capable of providing case-based, non-linear, clinical training scenarios that incorporate the full range of nursing skills. The proposed environment will integrate the virtual patient with physiologically accurate visualizations and an automated feedback module to provide a comprehensive learning environment. Modern computer-simulations present a unique ability to present medical/scientific information in an easy to understand manner. Technology advances in computer graphics present opportunities to present higher quality visual models in an interactive  fashion that can convey the scientific process in a way which makes learning interesting and interesting for the students while capturing their enthusiasm for nursing.&lt;br/&gt;&lt;br/&gt;This project will impact nursing education by ncreasing learning opportunities students in this field. This technology may play a critical role in mitigating the well documented future nursing shortage, by providing high quality virtual nursing educational experiences, without increasing the number of nurse educators.</AbstractNarration>
+<MinAmdLetterDate>11/13/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>11/13/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839493</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Levine</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert J Levine</PI_FULL_NAME>
+<EmailAddress>rlevine@archiemd.com</EmailAddress>
+<PI_PHON>5619880550</PI_PHON>
+<NSF_ID>000068619</NSF_ID>
+<StartDate>11/13/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>ArchieMD, Inc</Name>
+<CityName>BOCA RATON</CityName>
+<ZipCode>334872896</ZipCode>
+<PhoneNumber>5613914448</PhoneNumber>
+<StreetAddress>6420 CONGRESS AVE #2050</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>22</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL22</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DU1VHNJBYHU5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ARCHIE MD INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[ArchieMD, Inc]]></Name>
+<CityName>BOCA RATON</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>334872896</ZipCode>
+<StreetAddress><![CDATA[6420 CONGRESS AVE #2050]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>22</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL22</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1658</Code>
+<Text>SOFTWARE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~100000</FUND_OBLG>
+</Award>
+</rootTag>

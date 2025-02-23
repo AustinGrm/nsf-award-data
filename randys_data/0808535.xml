@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>DISSERTATION RESEARCH: Understanding the influence of eolian dust on soils in the San Juan Mountains, CO</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>11859.00</AwardTotalIntnAmount>
+<AwardAmount>11859</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010209</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry L. Gholz</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Dust deposition has increased by as much as 500% over the past 200 years in the San Juan Mountains for southwestern Colorado. This increase in dust is evident in alpine lake sediment chemical composition, however it is unclear if these increases in dust have influenced soil chemistry in this region. The purpose of this research is to quantify the role of dust deposition to soil essential element pools relative to the weathering of local bedrock in the San Juan Mountains. This study will exploit the difference in strontium isotope chemistry between dust and local bedrock in order to quantify the contribution of these sources of elements to soils. Furthermore, the isotopic methods used in this study allow for an assessment of the availability of the dust-derived elements for plant and microbial uptake. &lt;br/&gt;&lt;br/&gt;This research will not only quantify the accumulation of dust in soils, it will also serve to assess the contribution of dust to productivity of plants and microbes in these soils. In addition, this work will provide insight into the importance of dust for soil formation and weathering fluxes over long time-scales. This will also lend perspective to the role of changing land-use and climate in dust deposition in this region.  This project will also provide the opportunity for the investigators to serve in education and outreach programs based in southwestern Colorado for populations that are traditionally underserved in such activities.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>06/12/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/12/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0808535</AwardID>
+<Investigator>
+<FirstName>Jason</FirstName>
+<LastName>Neff</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jason C Neff</PI_FULL_NAME>
+<EmailAddress>neffjc@colorado.edu</EmailAddress>
+<NSF_ID>000419254</NSF_ID>
+<StartDate>06/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Corey</FirstName>
+<LastName>Lawrence</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Corey R Lawrence</PI_FULL_NAME>
+<EmailAddress>corey.lawrence@colorado.edu</EmailAddress>
+<NSF_ID>000126373</NSF_ID>
+<StartDate>06/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Boulder</Name>
+<CityName>Boulder</CityName>
+<ZipCode>803031058</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress>3100 Marine Street, Room 481</StreetAddress>
+<StreetAddress2><![CDATA[572 UCB]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>007431505</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF COLORADO, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>007431505</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName>Boulder</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803031058</ZipCode>
+<StreetAddress><![CDATA[3100 Marine Street, Room 481]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1181</Code>
+<Text>ECOSYSTEM STUDIES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1181</Code>
+<Text>ECOSYSTEM STUDIES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9196</Code>
+<Text>NATURAL DISASTERS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~11859</FUND_OBLG>
+</Award>
+</rootTag>

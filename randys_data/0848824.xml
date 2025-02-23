@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RUI: Probing Early Events in Amyloid-beta Association by Single-Pair Forster Resonance Energy Transfer]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>251274.00</AwardTotalIntnAmount>
+<AwardAmount>251274</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090004</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Colby Foss</SignBlockName>
+<PO_EMAI>cfoss@nsf.gov</PO_EMAI>
+<PO_PHON>7032925327</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[In this project, funded by the Experimental Physical Chemistry Program of the Division of Chemistry, Robin Lammi and undergraduate researchers at Winthrop University will investigate structural heterogeneity in dimers of amyloid-&amp;#946; peptide (A&amp;#946;). Small oligomers of this protein are closely linked to neurodegeneration in Alzheimer?s disease and likely serve as critical nuclei in the growth of ordered fibrils used as nanowires and sensors. By performing single-pair Förster resonance energy transfer (spFRET) measurements on dozens of localized, fluorescently labeled dimers, one at a time, Lammi and her students will directly probe the oligomer-to-oligomer variation obscured in bulk-solution measurements, gaining unique, molecular-level insight into persistent versus transient dimer structures. In addition to affording new empirical insights into the earliest steps in A&amp;#946; association, this project will permit intense, interdisciplinary training of undergraduate researchers. The inclusion of a single-oligomer laboratory experiment and the introduction of project-derived data and analysis techniques in the undergraduate curriculum will bring advanced research methods into the classroom, impacting all chemistry majors at Winthrop, including many students from underrepresented groups.]]></AbstractNarration>
+<MinAmdLetterDate>05/20/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0848824</AwardID>
+<Investigator>
+<FirstName>Robin</FirstName>
+<LastName>Lammi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robin Lammi</PI_FULL_NAME>
+<EmailAddress><![CDATA[lammir@winthrop.edu]]></EmailAddress>
+<NSF_ID>000066365</NSF_ID>
+<StartDate>05/20/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Winthrop University</Name>
+<CityName>ROCK HILL</CityName>
+<ZipCode>297303525</ZipCode>
+<PhoneNumber>8033232398</PhoneNumber>
+<StreetAddress>701 OAKLAND AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SC05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>N3KZE4TMNUM4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WINTHROP UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Winthrop University]]></Name>
+<CityName>ROCK HILL</CityName>
+<StateCode>SC</StateCode>
+<ZipCode>297303525</ZipCode>
+<StreetAddress><![CDATA[701 OAKLAND AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SC05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1960</Code>
+<Text>STRUCTURE AND REACTIVITY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9150</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1982</Code>
+<Text>BIOLOGICAL CHEMISTRY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~251274</FUND_OBLG>
+</Award>
+</rootTag>

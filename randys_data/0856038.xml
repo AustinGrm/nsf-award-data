@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Major Collaborative Proposal: Understanding the Creative Design Process: A Novel Cognitive Model based on Behavioral Experiments in Circuit Design and Architecture]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>257376.00</AwardTotalIntnAmount>
+<AwardAmount>257376</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Betty Tuller</SignBlockName>
+<PO_EMAI>btuller@nsf.gov</PO_EMAI>
+<PO_PHON>7032927238</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The project plans to develop a cognitive model that helps understand, emulate and enhance creativity in conceptual electronic circuit design. Insight into creativity in circuit design is gained from novel behavioral experiments that investigate one main engine of creativity, that of generating conceptual combinations with emergent features, within and across three different areas: analog circuit design, architecture, and general domain. The work studies the impact of constraints and repeated iterations of the design task on the creativity of the solutions. Behavioral experiments in circuit design and architecture will be modeled after the guidelines developed for the general domain. Experiments in circuit design will study additive and non-additive conceptual combinations when designing new electronic circuits, such as modern operational transconductor amplifiers. Experiments in architecture will study, for example, the design of pedestrian bridges with a movable opening. Based on experiments, a cognitive model will be developed for generating iteratively novel conceptual combinations with emergent features. &lt;br/&gt;&lt;br/&gt;The work is motivated by electronic circuit design being an expensive activity, accessible only to a small group of experts. There are arguably no methods to improve creativity in circuit design. This is an important limitation as electronic circuits are essential in healthcare, environmental monitoring, infrastructure management, telecommunication, and many other areas. The research is expected to lead to new, creativity-oriented design methodologies of superior productivity. The gained insights can also form the basis of original computer-aided design tools that invent novel circuits, a capability far beyond the tasks performed by current tools. The perspective on how novel conceptual combinations are generated and utilized can be used to develop new methods of instruction in electrical engineering, architecture and computer science.&lt;br/&gt;&lt;br/&gt;This work is funded by SBE within the CreativeIT Program.]]></AbstractNarration>
+<MinAmdLetterDate>08/06/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/06/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0856038</AwardID>
+<Investigator>
+<FirstName>Alexa</FirstName>
+<LastName>Doboli</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexa Doboli</PI_FULL_NAME>
+<EmailAddress><![CDATA[alex.doboli@stonybrook.edu]]></EmailAddress>
+<NSF_ID>000277007</NSF_ID>
+<StartDate>08/06/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Betz</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joseph A Betz</PI_FULL_NAME>
+<EmailAddress><![CDATA[joseph.betz@farmingdale.edu]]></EmailAddress>
+<NSF_ID>000162642</NSF_ID>
+<StartDate>08/06/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY at Stony Brook</Name>
+<CityName>STONY BROOK</CityName>
+<ZipCode>117940001</ZipCode>
+<PhoneNumber>6316329949</PhoneNumber>
+<StreetAddress>W5510 FRANKS MELVILLE MEMORIAL L</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M746VC6XMNH9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SUNY at Stony Brook]]></Name>
+<CityName>STONY BROOK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>117940001</ZipCode>
+<StreetAddress><![CDATA[W5510 FRANKS MELVILLE MEMORIAL L]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7252</Code>
+<Text>Perception, Action &amp; Cognition</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7788</Code>
+<Text>CreativeIT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9215</Code>
+<Text>HIGH PERFORMANCE COMPUTING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~257376</FUND_OBLG>
+</Award>
+</rootTag>

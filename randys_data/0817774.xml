@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Evolution and Functional Morphology of the Gills of High-Performance Fishes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>270695.00</AwardTotalIntnAmount>
+<AwardAmount>270695</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090300</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>William E. Zamer</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Tunas, mackerels, marlins, swordfish, and sharks like the mako and great white all share a common property, which is their ability and need to swim continuously at fast speeds.  This swimming requirement forces these species to expend considerable metabolic energy, and because of this, they are frequently described as "high-performance" fishes.  This study investigates the functional morphology of high performance gills, which must be able to supply sufficient oxygen to power fish locomotion and also endure the structural rigor imposed by the continuous "ramming" of water through them. This research project is focused on determining what changes have occurred in the gills to both increase oxygen uptake and provide the rigidity needed to withstand the high-pressure ventilatory water flow associated with fast, continuous swimming. Collaboration between the Graham laboratory at Scripps Institution of Oceanography and the McHenry laboratory at the University of California, Irvine provides the expertise needed to examine both gill microstructure and fluid mechanics.  Light and scanning electron microscopy will be used to construct computational fluid dynamic models of gill water flow.  These models will be compared to in vitro studies of water flow through the gills of different species and in vivo gill studies will be conducted with mako sharks swimming in a large water tunnel.  The gills of these different fish groups offer a compelling model to examine the breadth and detail of evolutionary convergence for respiratory function.  The study will bring a diversity of students into contact with purposeful, hypothesis-based research and will provide additional knowledge on what many comparative physiologists regard as the most complex animal organ: the gill.  The results of this research will be presented to the public through theme-based K-12 education programs in mathematics and science at the Birch Aquarium in San Diego.]]></AbstractNarration>
+<MinAmdLetterDate>07/05/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/14/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0817774</AwardID>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Graham</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeffrey B Graham</PI_FULL_NAME>
+<EmailAddress><![CDATA[jgraham@ucsd.edu]]></EmailAddress>
+<NSF_ID>000450963</NSF_ID>
+<StartDate>07/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego Scripps Inst of Oceanography</Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920931500</ZipCode>
+<PhoneNumber>8585341293</PhoneNumber>
+<StreetAddress>8622 DISCOVERY WAY RM 116</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>52</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA52</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QJ8HMDK7MRM3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA SAN DIEGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-San Diego Scripps Inst of Oceanography]]></Name>
+<CityName>LA JOLLA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>920931500</ZipCode>
+<StreetAddress><![CDATA[8622 DISCOVERY WAY RM 116]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>52</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA52</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7658</Code>
+<Text>Physiol Mechs &amp; Biomechanics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~121271</FUND_OBLG>
+<FUND_OBLG>2009~149424</FUND_OBLG>
+</Award>
+</rootTag>

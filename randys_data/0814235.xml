@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research:  Seismic and Geodetic Imaging of Subducting Terranes Under North America</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>208760.00</AwardTotalIntnAmount>
+<AwardAmount>208760</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030204</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eva Zanzerkia</SignBlockName>
+<PO_EMAI>ezanzerk@nsf.gov</PO_EMAI>
+<PO_PHON>7032924734</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>&lt;br/&gt;The collision of thickened crust with subduction zones significantly modifies subduction.  These accretion events lead to net growth of continents and drive much of the subduction-related tectonism.  Terrane collision may also have a profound effect on the size, coupling, and rupture characteristics of large intraplate earthquakes. The present accretion of exotic terranes with the Alaska subduction system represents one of the few examples of this process currently active.  In this region, the collision of a region of thickened crust, the Yakutat terrane, occurs at the largest rupture asperity known, part of the 1964 Mw9.2 Alaska earthquake.  The collision produces mountains along the Alaska coast and perhaps far inland, and may drive westward extrusion of distal parts of Alaska.   Recently, an unusual layer, perhaps thickened crust, has been imaged at the top of the subducting plate beneath central Alaska from 70 to 150 km depth, using receiver functions from the BEAAR PASSCAL experiment.  If continuous with the shallow structure, this would represent the largest deeply-subducted fragment of thickened crust yet observed.  Subduction of such thick crust may help explain the size of the 1964 asperity.  However, the lack of continuity between deep and shallow structures makes it difficult to tell; have these signals imaged the largest piece of thick subducted crust on the planet, or something else? In any case, what is the effect of subducting terranes on mechanics of the thrust zone?&lt;br/&gt;&lt;br/&gt;This project images the subducted plate, upper plate, and intervening deformation in the region between the Alaska coastline and BEAAR. Here subduction passes through and past the 1964 rupture zone.  Broadband seismographs image the top of the downgoing plate through and below the thrust zone.  Integration with previous studies providse the longest continuous transect of a subduction zone yet available, over 700 km across strike, following a slab from the trench to coast to where last seen at 150 km depth.  In parallel, a combination of geodesy and seismicity is used to image deformation currently associated with the plate interface, where it ruptured in the planet's second largest known earthquake.  Modeling of deformation, when integrated with the imaging, elucidates the nature of the locked zone, the origin of the largest asperity, and the structural controls on interplate thrust processes.  These results are used to test ideas for the origins of intermediate-depth earthquakes, by sampling at high resolution the transition at the down-dip end of the thrust zone in seismicity, strain, and structure.&lt;br/&gt;&lt;br/&gt;The experiment consists of a deployment of 30 broadband seismographs at dense spacing, supplemented by short-period seismographs in places where higher-resolution seismicity would provide most information, and GPS measurements of surface deformation across this zone.  Sparse permanent seismic and geodetic (PBO) stations provide regional control. Many of the seismicity and GPS sites are collocated, so there are cost savings to simultaneously conducting geodetic and seismic field work.  These data, when integrated, will provide a thorough picture of terrane accretion and its impact on the generation of great earthquakes.  &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>02/20/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0814235</AwardID>
+<Investigator>
+<FirstName>Geoffrey</FirstName>
+<LastName>Abers</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Geoffrey A Abers</PI_FULL_NAME>
+<EmailAddress>abers@cornell.edu</EmailAddress>
+<PI_PHON>6072553879</PI_PHON>
+<NSF_ID>000439189</NSF_ID>
+<StartDate>02/20/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>10027</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>202 LOW LIBRARY 535 W 116 ST MC</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F4N1QNPB95M4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>F4N1QNPB95M4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia University Lamont Doherty Earth Observatory]]></Name>
+<CityName>Palisades</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>10964</ZipCode>
+<StreetAddress><![CDATA[Rt 9W]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1574</Code>
+<Text>Geophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2006~56357</FUND_OBLG>
+<FUND_OBLG>2007~77795</FUND_OBLG>
+<FUND_OBLG>2008~74608</FUND_OBLG>
+</Award>
+</rootTag>

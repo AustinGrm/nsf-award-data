@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research:  Reconstruction of a continuous, high-resolution record of late Quaternary paleohydrology and paleoclimate of the Amazon basin]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>368300.00</AwardTotalIntnAmount>
+<AwardAmount>368300</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040200</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bilal U. Haq</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Baker/Hollander Abstract&lt;br/&gt;&lt;br/&gt;This award will provide funds to reconstruct a high-resolution, 30,000 year record of Amazon Basin climate change and to reconstruct a high-resolution record of the North-South sea surface temperature (SST) gradient of the western equatorial Atlantic from fossil foraminifera geochemistry. Fieldwork will consist of high resolution Chirp seismic reflection profiling of the upper continental slope north and south of the Amazon submarine canyon and fan complex to ensure continuous and conformable sediment deposition at the coring site and the collection of a new suite of piston cores and surface multi cores using the new long coring capability on the R/V Knorr. Analytical research will focus on two "target" cores, one north and one south of the Amazon fan, employing clay mineralogy to elucidate terrestrial sediment sources, paired analyses of planktonic foraminifer with minor element ratios (Mg/Ca and Ba/Ca) and oxygen isotopes to determine SST and salinity (SSS) at centennial scale resolution. Alkenone Uk37 and D/H analyses on algal lipids will be conducted as complementary measures of SST and SSS. Finally, abundance analysis and D/H and d13C measurements of terrigenous plant waxes will be conducted to assess continental hydrological and vegetation variability across the glacial-deglacial-Holocene climatic transition. The PIs will also produce a pollen time series to determine whether changes in major vegetation type were associated with changes in climate. Broader Impacts include a tightly linked international collaboration with Brazilian scientists, the involvement of graduate and undergraduate students in all phases of this research and the study of climate variability in a critical tropical region of the planet.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>09/11/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>10/04/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0823650</AwardID>
+<Investigator>
+<FirstName>Gary</FirstName>
+<LastName>Dwyer</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gary S Dwyer</PI_FULL_NAME>
+<EmailAddress><![CDATA[gsd3@duke.edu]]></EmailAddress>
+<NSF_ID>000232648</NSF_ID>
+<StartDate>09/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Baker</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Paul A Baker</PI_FULL_NAME>
+<EmailAddress><![CDATA[pbaker@duke.edu]]></EmailAddress>
+<NSF_ID>000298735</NSF_ID>
+<StartDate>09/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277054640</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W MAIN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TP7EK8DZV6N5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DUKE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277054640</ZipCode>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0204000</Code>
+<Name>Oceanography</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1620</Code>
+<Text>Marine Geology and Geophysics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5418</Code>
+<Text>OCE SPECIAL PROGRAMS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7298</Code>
+<Text>International Research Collab</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7699</Code>
+<Text>Integrat &amp; Collab Ed &amp; Rsearch</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5913</Code>
+<Text>BRAZIL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5977</Code>
+<Text>AMERICAS PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7298</Code>
+<Text>COLLABORATIVE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~358300</FUND_OBLG>
+<FUND_OBLG>2009~10000</FUND_OBLG>
+</Award>
+</rootTag>

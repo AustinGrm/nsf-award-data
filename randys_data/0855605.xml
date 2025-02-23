@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Neutrino-less double beta decay with EXO-200 and EXO]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>510000.00</AwardTotalIntnAmount>
+<AwardAmount>510000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jonathan Whitmore</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;It will provide funding to participate in the search for neutrino-less double beta decay in 136-Xe with the EXO-200 experiment, currently being installed at the Waste Isolation Pilot Plant (WIPP) in Carlsbad, NM. Observation of the neutrino-less double beta decay process would imply that neutrinos are Majorana particles; this would have a profound impact on our understanding of the nature of fundamental particles and their pattern of masses as well as on our understanding of the structure and evolution of the early universe. &lt;br/&gt;&lt;br/&gt;EXO-200 will be the first operational experiment with greater than 100 kg of enriched isotope and will probe the absolute scale of neutrino masses down to 0.3 eV. The group will participate in installation, commissioning, operation and data analysis of EXO-200, with emphasis on the avalanche photodiode's performance, neutron-related backgrounds and the cosmic ray veto counters. &lt;br/&gt;&lt;br/&gt;The broader impact of the program includes ample opportunity for undergraduate and graduate students. They will partner with a local collaborative to introduce the excitement and scientific merit of underground science to teachers of middle and high school science students. They will also bring about broad science understanding in south-eastern New Mexico.]]></AbstractNarration>
+<MinAmdLetterDate>07/07/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/07/2009</MaxAmdLetterDate>
+<ARRAAmount>510000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855605</AwardID>
+<Investigator>
+<FirstName>Andrea</FirstName>
+<LastName>Pocar</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrea P Pocar</PI_FULL_NAME>
+<EmailAddress><![CDATA[pocar@physics.umass.edu]]></EmailAddress>
+<NSF_ID>000513280</NSF_ID>
+<StartDate>07/07/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Krishna</FirstName>
+<LastName>Kumar</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Krishna S Kumar</PI_FULL_NAME>
+<EmailAddress><![CDATA[KKumar@physics.umass.edu]]></EmailAddress>
+<NSF_ID>000173961</NSF_ID>
+<StartDate>07/07/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Massachusetts Amherst</Name>
+<CityName>AMHERST</CityName>
+<ZipCode>01003</ZipCode>
+<PhoneNumber>4135450698</PhoneNumber>
+<StreetAddress>COMMONWEALTH AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>VGJHK59NMPK9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MASSACHUSETTS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MLBQUML9JJT6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Massachusetts Amherst]]></Name>
+<CityName>AMHERST</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>01003</ZipCode>
+<StreetAddress><![CDATA[COMMONWEALTH AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7201</Code>
+<Text>NUCLEAR ASTROPHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7483</Code>
+<Text>PHYSICS OF THE UNIVERSE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~510000</FUND_OBLG>
+</Award>
+</rootTag>

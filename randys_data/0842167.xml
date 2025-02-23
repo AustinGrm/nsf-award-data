@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Acquisition of an X-ray Fluorescence Spectrometer for Research in Petrology and Paleoclimatology]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>121988.00</AwardTotalIntnAmount>
+<AwardAmount>121988</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030202</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Russell Kelz</SignBlockName>
+<PO_EMAI>rkelz@nsf.gov</PO_EMAI>
+<PO_PHON>7032924747</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[0842167&lt;br/&gt;Glazner&lt;br/&gt;&lt;br/&gt;This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;This grant supports acquisition of a x-ray fluorescence spectrometer (XRF) equipped with a wavelength dispersive spectrometer (WDS).  PIs Alan Glazner and Stephen Myers will acquire and oversee management and operation of a Rigaku benchtop XRF model with a 200 W air cooled x-ray tube.  The instrument will largely supplant in-house use of an aging direct current plasma (DCP) spectrometer for analysis of major, minor and some trace elements in acid digested solid geological materials and natural waters.  XRF is ideally suited for whole rock elemental analysis for major and minor elements as samples are fused into glass disks for analysis, problems associated with acid digestion of materials are avoided and sample analysis is not time sensitive.  The WDS-XRF will support PI research on the genesis of silicic plutonic rocks and rhyolitic lavas with a focus on the petrogenesis of crustal materials in the Sierra Nevada region.  Additional UNC and Research Triangle faculty research on the origin of layered igneous intrusions, petrogenesis of volcanics, including pyroclastic deposits, silicic and basaltic lavas, and studies of the provenance of lithic archaeological artifacts will also be supported by the requested XRF.   The instrument will complement an existing XRF core scanner at UNC that is largely dedicated to paleoenvironmental research.  Undergraduate students will be trained in XRF sample preparation techniques, instrument operation data analysis through engagement in research applications that require bulk elemental analysis.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/31/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/31/2009</MaxAmdLetterDate>
+<ARRAAmount>121988</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0842167</AwardID>
+<Investigator>
+<FirstName>Allen</FirstName>
+<LastName>Glazner</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Allen F Glazner</PI_FULL_NAME>
+<EmailAddress><![CDATA[afg@unc.edu]]></EmailAddress>
+<NSF_ID>000461465</NSF_ID>
+<StartDate>07/31/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Meyers</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stephen R Meyers</PI_FULL_NAME>
+<EmailAddress><![CDATA[smeyers@geology.wisc.edu]]></EmailAddress>
+<NSF_ID>000278984</NSF_ID>
+<StartDate>07/31/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina at Chapel Hill</Name>
+<CityName>CHAPEL HILL</CityName>
+<ZipCode>275995023</ZipCode>
+<PhoneNumber>9199663411</PhoneNumber>
+<StreetAddress>104 AIRPORT DR STE 2200</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>D3LHU66KBLD5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>N8DMK1K4C2K5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of North Carolina at Chapel Hill]]></Name>
+<CityName>CHAPEL HILL</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>275995023</ZipCode>
+<StreetAddress><![CDATA[104 AIRPORT DR STE 2200]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1580</Code>
+<Text>Instrumentation &amp; Facilities</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~121988</FUND_OBLG>
+</Award>
+</rootTag>

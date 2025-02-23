@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[GOALI: Delicate Material Characterization Using Tapping Mode AFM: Soft Impact and Nonlinear Dynamics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>403751.00</AwardTotalIntnAmount>
+<AwardAmount>403751</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eduardo Misawa</SignBlockName>
+<PO_EMAI>emisawa@nsf.gov</PO_EMAI>
+<PO_PHON>7032925353</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Over the last two decades, atomic force microscopy (AFM) has been used to measure the topography of a wide range of nanoscale samples, including semiconductor surface features, biomolecules, carbon nanostructures, and organic monolayers.   Despite the tremendous progress, gentle characterization of nanoscale biological and other delicate structures remains a challenge since they are susceptible to tip damage.   The University of Maryland at College Park has teamed up with Asylum Research to address this challenge.  This is addressed by developing a nonlinear dynamics based tapping mode atomic force microscopy scheme, where the cantilever is to be excited away from its fundamental resonance and operated close to a period-doubling bifurcation point.  In order to realize and demonstrate this scheme, multi-scale simulations are to be used to determine the tip-sample interaction forces and experiments are to be conducted with delicate materials including DNA, soft protein molecules (bacteriorhodpsin, actin &amp; myosin), and squamous cancer cells.  &lt;br/&gt;&lt;br/&gt;From a fundamental standpoint, the proposed study can help understand qualitative changes associated with mechanical systems with soft contacts and non-smoothness.   From an application standpoint, the extension of AFM capabilities to characterize a wider range of soft materials can help realize commercial benefits in the areas of healthcare, drug design, pathology, tissue engineering, biotechnology, and other high-impact emerging technologies that are intimately related to the well-being of human beings and where mischaracterization can have severe consequences, even including death.  Further development of simulation methodologies will also help reduce costs associated with extensive experimentation. Finally, the application of nanoscale science to specific problems in a systematic manner will be useful in the education of the next-generation of students, which is essential to ensure the nation?s competitiveness in nanotechnology in the next few decades.&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>06/23/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/23/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0800471</AwardID>
+<Investigator>
+<FirstName>Balakumar</FirstName>
+<LastName>Balachandran</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Balakumar Balachandran</PI_FULL_NAME>
+<EmailAddress><![CDATA[balab@umd.edu]]></EmailAddress>
+<NSF_ID>000246233</NSF_ID>
+<StartDate>06/23/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Santiago</FirstName>
+<LastName>Solares</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Santiago D Solares</PI_FULL_NAME>
+<EmailAddress><![CDATA[ssolares@gwu.edu]]></EmailAddress>
+<NSF_ID>000484282</NSF_ID>
+<StartDate>06/23/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jason</FirstName>
+<LastName>Cleveland</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jason P Cleveland</PI_FULL_NAME>
+<EmailAddress><![CDATA[jason@AsylumResearch.com]]></EmailAddress>
+<NSF_ID>000079632</NSF_ID>
+<StartDate>06/23/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland, College Park</Name>
+<CityName>College Park</CityName>
+<ZipCode>207420001</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 REGENTS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPU8ULVAAS23</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND, COLLEGE PARK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KMGEN62NKEM9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland, College Park]]></Name>
+<CityName>College Park</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>207420001</ZipCode>
+<StreetAddress><![CDATA[3112 LEE BLDG 7809 REGENTS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1504</Code>
+<Text>GOALI-Grnt Opp Acad Lia wIndus</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7478</Code>
+<Text>DYNAMICAL SYSTEMS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>034E</Code>
+<Text>Dynamical systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~403751</FUND_OBLG>
+</Award>
+</rootTag>

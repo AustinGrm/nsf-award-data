@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Documenting N2 fixation in N deficient waters of the Eastern Tropical South Pacific]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>164358.00</AwardTotalIntnAmount>
+<AwardAmount>164358</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040302</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Donald L. Rice</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Several independent lines of geochemical and remote sensing evidence suggest that dinitrogen (N2) fixation may be associated with surface waters downstream of major oxygen minimum zones (OMZs) and in particular in the Eastern Tropical South Pacific (ETSP). However, little direct evidence supports these inferences. Besides substantiating these indirect assessments, documenting significant N2 fixation in the ETSP would provide insight into two longstanding controversies: Is the marine N budget balanced, as implied by modeling and paleoceanographic data, and if so, how are the processes that add and remove N spatially, and thus temporally coupled? &lt;br/&gt;&lt;br/&gt;In this project researchers at the University of Southern California and the University of Miami will test the hypothesis that fixation occurs in the ETSP at areal rates that equal or exceed those previously documented in more well-studied regions such as the oligotrophic waters of the sub/tropical North Atlantic. If scaled to the surface area of ETSP waters, this could add an additional 10-50 Tg N per year of inputs to the global marine N budget. They will undertake two cruises in the ETSP during early and late summer in two consecutive years to assess the quantitative significance of N2 fixation as a source of new N to surface waters using complementary biological and geochemical tools. N2 fixation rates will be evaluated on two temporal/spatial scales: daily/local (bottle 15N2 incubations and floating sediment traps); and seasonal/regional (d15N budget using moored sediment traps and water column TDN d15N). These estimates provide detailed observations of potential N2 fixation during station occupation in two summer seasons, when rates are expected to be greatest, as well as prolonged observation over lower expected N2 fixation periods. A combination of these different estimates will aim to determine if N2 fixation in this region can help balance the marine N budget. If all goes as planned, this study will determine the quantitative importance of N2 fixation in the ETSP, and whether these previously undocumented rates can help resolve the marine N budget. Implications include the ability of the marine N cycle to maintain homeostasis, and thus the global C cycle on glacial/interglacial time scales. &lt;br/&gt;&lt;br/&gt;Broader Impacts: This project will provide research experience and opportunities for a postdoctoral associate as well as a graduate student. There will be direct interactions and opportunities for mentoring with graduate students in the laboratory and on cruises. Also, the project will routinely involve undergraduates as work-studies and participate in the USC Geobiology REU Program. The proposed activities will be integrated with the work of the NSF funded COSEE-West program to USC and UCLA. This Center involves a network of oceanographic researchers, K-12 educators, education centers and the general public in the greater Los Angeles area.]]></AbstractNarration>
+<MinAmdLetterDate>08/19/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/19/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0850905</AwardID>
+<Investigator>
+<FirstName>Dennis</FirstName>
+<LastName>Hansell</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dennis A Hansell</PI_FULL_NAME>
+<EmailAddress><![CDATA[dhansell@rsmas.miami.edu]]></EmailAddress>
+<NSF_ID>000438803</NSF_ID>
+<StartDate>08/19/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Angela</FirstName>
+<LastName>Knapp</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Angela N Knapp</PI_FULL_NAME>
+<EmailAddress><![CDATA[aknapp@rsmas.miami.edu]]></EmailAddress>
+<NSF_ID>000505463</NSF_ID>
+<StartDate>08/19/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Miami</Name>
+<CityName>CORAL GABLES</CityName>
+<ZipCode>331462509</ZipCode>
+<PhoneNumber>3054214089</PhoneNumber>
+<StreetAddress>1251 MEMORIAL DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>27</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL27</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KXN7HGCF6K91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MIAMI</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VNZZYCJ55TC4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Miami]]></Name>
+<CityName>CORAL GABLES</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>331462509</ZipCode>
+<StreetAddress><![CDATA[1251 MEMORIAL DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>27</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL27</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0204000</Code>
+<Name>Oceanography</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1670</Code>
+<Text>Chemical Oceanography</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1389</Code>
+<Text>CARBON CYCLE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9198</Code>
+<Text>OTHER ENVIRONMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~164358</FUND_OBLG>
+</Award>
+</rootTag>

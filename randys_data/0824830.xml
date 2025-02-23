@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Nonlinear and Adaptive Control of Smart Material-Actuated Systems with Application to Nanopositioning</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>210000.00</AwardTotalIntnAmount>
+<AwardAmount>216000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>George Chiu</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>The research objective of this award is to develop a novel multi-time-scale nonlinear and adaptive control framework for hysteretic systems, and thus to enable robust, precision, and high-bandwidth control of smart material-actuated systems. Smart materials, such as piezoelectric materials and shape memory alloys, exhibit strong coupling of complex hysteretic behavior with the nonlinear dynamics of structures and fluids that are driven by smart material actuators, especially at medium-to-high drive levels. The latter, together with the uncertainties in both hysteresis and dynamics, makes it challenging to precisely control smart material-actuated systems. In this research, a multi-time-scale averaging theory for hysteretic systems will be established. This will, for the first time, provide a framework for merging adaptive hysteresis compensation with a plethora of nonlinear and adaptive control methods for hysteresis-free systems through time-scale separation. In addition, a general, parallel paradigm for hysteresis inversion and adaptation will be developed based on reconfigurable computing hardware, to enable efficient implementation of the proposed theory. The developed theory and algorithms will be validated in the control of a piezoelectric actuator-driven nanopositioning system.&lt;br/&gt;&lt;br/&gt;The proposed project can positively impact a number of application areas of smart materials, such as micro- and nanotechnology, biomedical devices, robotics, and aerospace and automotive industries. The interdisciplinary project will offer valuable training experience for talented graduate and undergraduate students, especially those from underrepresented groups.  It will also enrich existing and newly developed courses on smart materials and controls at Michigan State University, such as Smart Material Sensors and Actuators, and Adaptive Control. The PIs will also proactively seek opportunities to transfer the developed technology to the nanopositioning and scanning probe microscopy (SPM) industry.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>07/03/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/19/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0824830</AwardID>
+<Investigator>
+<FirstName>Xiaobo</FirstName>
+<LastName>Tan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiaobo Tan</PI_FULL_NAME>
+<EmailAddress>xbtan@msu.edu</EmailAddress>
+<PI_PHON>5174325671</PI_PHON>
+<NSF_ID>000232315</NSF_ID>
+<StartDate>07/03/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hassan</FirstName>
+<LastName>Khalil</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hassan K Khalil</PI_FULL_NAME>
+<EmailAddress>khalil@msu.edu</EmailAddress>
+<PI_PHON>5173556689</PI_PHON>
+<NSF_ID>000315640</NSF_ID>
+<StartDate>07/03/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Michigan State University</Name>
+<CityName>EAST LANSING</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress>426 AUDITORIUM RD RM 2</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>R28EKN92ZTZ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MICHIGAN STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VJKZC4D1JN36</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>EAST LANSING</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>488242600</ZipCode>
+<StreetAddress><![CDATA[426 AUDITORIUM RD RM 2]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1632</Code>
+<Text>CONTROL SYSTEMS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>030E</Code>
+<Text>CONTROL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>037E</Code>
+<Text>GEOTECHNICAL ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9231</Code>
+<Text>SUPPL FOR UNDERGRAD RES ASSIST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~210000</FUND_OBLG>
+<FUND_OBLG>2009~6000</FUND_OBLG>
+</Award>
+</rootTag>

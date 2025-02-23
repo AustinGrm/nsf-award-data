@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Effects of Volatility and Morphology on Vehicular Emitted Ultrafine Particle Dynamics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>400014.00</AwardTotalIntnAmount>
+<AwardAmount>400014</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul L. Bishop</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[CBET- 0845917&lt;br/&gt;Y. Zhu&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Vehicular emitted ultrafine particles (UFP) of diameter &lt; 0.1 ìm have unique semi-volatile properties and fractal-like morphology that make existing aerosol dynamic models derived from non-volatile spherical particles of limited use in assessing their environmental and public health impacts. This CAREER proposal is to fill the knowledge gap by investigating transport and transformation of UFPs from vehicle tailpipes to incabin microenvironments in terms of mechanistic laboratory experiments, analytical and computational fluid dynamic (CFD) modeling, and field studies.&lt;br/&gt;&lt;br/&gt;The major research tasks are: (1) experimentally characterize fundamental mechanisms affecting UFP dynamics. The PI will generate near-monodisperse UFPs with volatility and morphology similar to vehicular emitted UFPs and apply these realistic test particles instead of traditional nonvolatile spherical particles to study fundamental mechanisms governing UFP transport and transformation from vehicle tailpipes to in-cabin; (2) develop novel in-cabin UFP models to predict UFP behavior traveling from vehicle tailpipes to in-cabin, integrating laboratory results simulating realistic driving conditions; and (3) field-calibrate and validate the models through measurements in onroad vehicles and school buses from local public schools.&lt;br/&gt;&lt;br/&gt;The proposal will use school buses for many field studies, with students directly assisting in the measurements. The investigator will also assist in developing 10th grade lectures on environmental quality. The international field studies will promote international contacts in Mexico, China, Finland, and Iran. Also, the investigator is to make a strong effort to involve underrepresented groups.]]></AbstractNarration>
+<MinAmdLetterDate>12/31/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>12/31/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0845917</AwardID>
+<Investigator>
+<FirstName>Yifang</FirstName>
+<LastName>Zhu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yifang Zhu</PI_FULL_NAME>
+<EmailAddress><![CDATA[yifangzhu06@gmail.com]]></EmailAddress>
+<NSF_ID>000487978</NSF_ID>
+<StartDate>12/31/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M Engineering Experiment Station</Name>
+<CityName>COLLEGE STATION</CityName>
+<ZipCode>778433124</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress>3124 TAMU</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX17</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QD1MX6N5YTN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A&amp;M ENGINEERING EXPERIMENT STATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QD1MX6N5YTN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&amp;M University-Kingsville]]></Name>
+<CityName>KINGSVILLE</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>783638202</ZipCode>
+<StreetAddress><![CDATA[700 UNIVERSITY BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>34</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX34</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0313010</Code>
+<Name>Air Pollution</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1440</Code>
+<Text>EnvE-Environmental Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>001E</Code>
+<Text>Air pollution</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1187</Code>
+<Text>PECASE- eligible</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9188</Code>
+<Text>AIR QUALITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~53215</FUND_OBLG>
+</Award>
+</rootTag>

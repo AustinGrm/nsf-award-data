@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Student Support to Attend International Conference on Atomic Physics (ICAP) 2008]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>7000.00</AwardTotalIntnAmount>
+<AwardAmount>7000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Dunford</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award provides funds to support student participation in the 2008 International Conference on Atomic Physics,  being held during the week of July 27-August 1, 2008, at the University of Connecticut in Storrs, Connecticut.   The conference involves a program of central issues in atomic physics, including discussions of advances in precision measurements, quantum information, ultracold atoms and molecules, quantum optics, ultrafast phenomena, and the quantum mechanics of mechanical systems.   The objective of the conference is to bring together internationally leading scientists as well as young researchers and students active or specially interested in the field. The conference format of invited talks with no parallel sessions and separate sessions for poster presentations makes the meeting an excellent forum to broadly engage students in the newest research results and still allow time for interactions among the participants.  Support is provided by both the theoretical and experimental AMO programs.]]></AbstractNarration>
+<MinAmdLetterDate>06/23/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/23/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0834157</AwardID>
+<Investigator>
+<FirstName>Robin</FirstName>
+<LastName>Cote</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robin J Cote</PI_FULL_NAME>
+<EmailAddress><![CDATA[robin.cote@umb.edu]]></EmailAddress>
+<NSF_ID>000104783</NSF_ID>
+<StartDate>06/23/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Connecticut</Name>
+<CityName>STORRS</CityName>
+<ZipCode>062691133</ZipCode>
+<PhoneNumber>8604863622</PhoneNumber>
+<StreetAddress>438 WHITNEY RD EXTENSION UNIT 11</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WNTPS995QBM7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CONNECTICUT</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D9SNFDRCW3W7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Connecticut]]></Name>
+<CityName>STORRS</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>062691133</ZipCode>
+<StreetAddress><![CDATA[438 WHITNEY RD EXTENSION UNIT 11]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1284</Code>
+<Text>AMO Theory/Atomic, Molecular &amp;</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1291</Code>
+<Text>ATOMIC &amp; MOLECULAR DYNAMICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~7000</FUND_OBLG>
+</Award>
+</rootTag>

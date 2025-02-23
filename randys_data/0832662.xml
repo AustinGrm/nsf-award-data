@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Formation of the First Galaxies:  Predictions for the Next Generation of Observatories</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>40000.00</AwardTotalIntnAmount>
+<AwardAmount>40000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Irene Qualters</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This proposal is for a provisional allocation of time on the Blue Waters computer system, due to become operational in 2011, and for travel funds to support technical coordination by various collaborators with the Blue Waters project team and vendor technical team.&lt;br/&gt;&lt;br/&gt;The proposed work will test the hypothesis that the first galaxies were responsible for re-ionizing the early universe and the source of large amounts of metal in the intergalactic medium.  The researchers also plan to predict the properties of the population of galaxies with red-shifts in the range 8 &lt; z &lt; 15 that will be observed with next-generation astronomical observing systems.  It is anticipated that these predictions will aid in the interpretation of the output from the new observatories.&lt;br/&gt;&lt;br/&gt;The work will consist of large simulations using the Enzo code.  The questions that will be addressed are: (1) What are the first galaxies; (2) What physical processes dominate the behavior of baryons in these galaxies; (3) When and how did re-ionization occur; and (4) What sources caused re-ionization?  To answer these, the Enzo code will be extended to include: an accurate treatment of the chemo-thermal evolution of gas so that molecular clouds can form; sufficient resolution to characterize the mean properties of the molecular clouds; development of a sub-grid model for primordial and metal-enriched star formation that depends only on the mean properties of the molecular clouds; accurate incorporation of radiative transfer effects; and supernova feedback.  &lt;br/&gt;&lt;br/&gt;The principal investigator is a new faculty member and the simulation code being developed should be usable by a number of other researchers beyond the project team.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>04/20/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/13/2012</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.080</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0832662</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Norman</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael L Norman</PI_FULL_NAME>
+<EmailAddress>mlnorman@ucsd.edu</EmailAddress>
+<PI_PHON>8588225461</PI_PHON>
+<NSF_ID>000235680</NSF_ID>
+<StartDate>04/20/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>O'Shea</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brian W O'Shea</PI_FULL_NAME>
+<EmailAddress>oshea@msu.edu</EmailAddress>
+<PI_PHON>5178845638</PI_PHON>
+<NSF_ID>000316254</NSF_ID>
+<StartDate>04/20/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Michigan State University</Name>
+<CityName>EAST LANSING</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress>426 AUDITORIUM RD RM 2</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>R28EKN92ZTZ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MICHIGAN STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VJKZC4D1JN36</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>EAST LANSING</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>488242600</ZipCode>
+<StreetAddress><![CDATA[426 AUDITORIUM RD RM 2]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7781</Code>
+<Text>Leadership-Class Computing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7781</Code>
+<Text>PETASCALE - TRACK 1</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~40000</FUND_OBLG>
+</Award>
+</rootTag>

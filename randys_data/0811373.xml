@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research:   CPA-G&amp;V:   Eigengeometry: Geometric Spectral Computing for Computer Graphics and Computational Science]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>187724.00</AwardTotalIntnAmount>
+<AwardAmount>187724</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lawrence Rosenblum</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[&lt;br/&gt;Tong, Yiying  (0811313)&lt;br/&gt;Desbrun, Mathieu (0811373) &lt;br/&gt;&lt;br/&gt;Abstract&lt;br/&gt;&lt;br/&gt;Basic computational tools to process digital geometry in computer graphics and computational science are crucially needed for a wide range of applications including medical visualizations, atmospheric data analysis, and shape segmentation. Previous attempts to apply signal processing foundations such as the Fast Fourier Transform in order to fulfill these needs have only led to limited success: geometry has distinctive properties such as irregular sampling, topology, and metric, making it not just another signal, but a new challenge that computer scientists must face. Independently of these advances, spectral graph theory has shown surprisingly simple and powerful properties of the Laplacian matrices of arbitrary graphs, demonstrating that eigenvalue problems can robustly handle graph irregularity and help in the development of Internet search engines. Moreover, connections between spectral graph theory and differential geometry have started to appear as not only relevant, but quite insightful in their own rights.&lt;br/&gt;&lt;br/&gt;This NSF-funded project on ``Eigengeometry?? involves bringing these spectral theoretical developments into the realm of computing. More precisely, the investigators study and develop novel tools for the analysis and processing of not only signals defined over discrete geometric shapes, but of the shapes themselves via spectral theory. These novel tools, naturally robust to non-uniform sampling and irregular connectivity that meshes inherently contain, are tested on a few selected applications (covering CAGD, brain imaging, and analysis of atmospherical features). This research is a truly multidisciplinary and innovative effort drawing upon techniques from graph theory, graphics, numerical linear algebra, applied geometry, and signal processing. Finally, the importance of eigenstructures in mathematical and physical fields promises that the computing tools developed in this project are likely to have a broad impact.&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>06/24/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/24/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0811373</AwardID>
+<Investigator>
+<FirstName>Mathieu</FirstName>
+<LastName>Desbrun</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mathieu Desbrun</PI_FULL_NAME>
+<EmailAddress><![CDATA[mathieu@caltech.edu]]></EmailAddress>
+<NSF_ID>000489836</NSF_ID>
+<StartDate>06/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California Institute of Technology</Name>
+<CityName>PASADENA</CityName>
+<ZipCode>911250001</ZipCode>
+<PhoneNumber>6263956219</PhoneNumber>
+<StreetAddress>1200 E CALIFORNIA BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA28</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U2JMKHNS5TG4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CALIFORNIA INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[California Institute of Technology]]></Name>
+<CityName>PASADENA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>911250001</ZipCode>
+<StreetAddress><![CDATA[1200 E CALIFORNIA BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA28</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7453</Code>
+<Text>GRAPHICS &amp; VISUALIZATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~187724</FUND_OBLG>
+</Award>
+</rootTag>

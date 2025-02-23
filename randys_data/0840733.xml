@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Imaging, Estimation, and Analysis of Density Distributions in the Conjugate Polar Ionospheres</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>257283.00</AwardTotalIntnAmount>
+<AwardAmount>257283</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090300</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OPP</Abbreviation>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vladimir Papitashvili</SignBlockName>
+<PO_EMAI>vpapita@nsf.gov</PO_EMAI>
+<PO_PHON>7032927425</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5). The overall goal of this project is to increase understanding of the conjugate nature of the polar ionospheres, which in part helps understanding the multi-scale global solar wind, magnetosphere, and ionosphere system. The project utilizes numerous types of ionospheric remote sensing instrumentation, including: terrestrial GPS receivers, GPS satellite occultation receivers, all-sky imagers, riometers, and magnetometers currently deployed in the Arctic and Antarctic to estimate the 3-D time histories of the ionospheric electron density and also to estimate the polar wind in these polar regions. Furthermore, additional GPS instrumentation will be deployed in Antarctica to increase the number and improve the spatial distribution of GPS receivers in this region. Import aspects of this investigation are: (1) utilization of a large array of instrumentation in the Arctic and Antarctic regions to provide the maximum number of measurements of the ionosphere, (2) the modification and deployment of commercial-off-the-shelf GPS receivers in remote Antarctic locations to improve spatial distribution of GPS measurements, (3) development of a new estimation algorithm for estimating the polar wind, and (4) estimation of 3-D electron density time histories and conductances in conjugate polar ionospheres. The fieldwork and analysis efforts associated with this project are highly suitable for involvement and research training of graduate and undergraduate students.</AbstractNarration>
+<MinAmdLetterDate>08/13/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/02/2012</MaxAmdLetterDate>
+<ARRAAmount>257283</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.078</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0840733</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Murr</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David L Murr</PI_FULL_NAME>
+<EmailAddress>murrdl@augsburg.edu</EmailAddress>
+<NSF_ID>000382585</NSF_ID>
+<StartDate>08/13/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Augsburg University</Name>
+<CityName>Minneapolis</CityName>
+<ZipCode>554541338</ZipCode>
+<PhoneNumber>6123301184</PhoneNumber>
+<StreetAddress>2211 Riverside Avenue</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN05</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>078679347</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>AUGSBURG UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>078679347</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Augsburg University]]></Name>
+<CityName>Minneapolis</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>554541338</ZipCode>
+<StreetAddress><![CDATA[2211 Riverside Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0311000</Code>
+<Name>Polar Programs-Related</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5115</Code>
+<Text>ANT Astrophys &amp; Geospace Sci</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2009~257283</FUND_OBLG>
+</Award>
+</rootTag>

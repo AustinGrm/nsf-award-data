@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Conference on One and Several Complex Variables, May 8-10, 2008, Lexington, KY]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>14600.00</AwardTotalIntnAmount>
+<AwardAmount>14600</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040100</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce P. Palka</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award will support the participation of invited speakers, junior faculty, postdocs, and graduate students in the ?Conference on One and Several Complex Variables? that will be held at the University of Kentucky from May 8 to May 10, 2008. &lt;br/&gt;&lt;br/&gt;The conference program will feature five fifty-minute plenary lectures by established senior scientists (Roger Barnard, Peter Duren, Ian Graham, David Minda, Stephan Ruschweyh). There will be twenty shorter (twenty-five minute) talks, a substantial number of which will be delivered by young mathematicians (graduate students, postdocs, not-yet-tenured faculty). The topics of the talks will fall under the general heading ?Geometric Function Theory,? be it single-variable or multivariate. The conference will close with a round-table discussion of open problems and of directions for future research. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>02/04/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>02/04/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0808559</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Lewis</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John L Lewis</PI_FULL_NAME>
+<EmailAddress><![CDATA[john@ms.uky.edu]]></EmailAddress>
+<NSF_ID>000408967</NSF_ID>
+<StartDate>02/04/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stacey</FirstName>
+<LastName>Muir</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME>Dr.</PI_SUFX_NAME>
+<PI_FULL_NAME>Stacey Muir</PI_FULL_NAME>
+<EmailAddress><![CDATA[stacey.muir@scranton.edu]]></EmailAddress>
+<NSF_ID>000082766</NSF_ID>
+<StartDate>02/04/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Dorff</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael J Dorff</PI_FULL_NAME>
+<EmailAddress><![CDATA[mdorff@mathematics.byu.edu]]></EmailAddress>
+<NSF_ID>000452215</NSF_ID>
+<StartDate>02/04/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Brigham Young University</Name>
+<CityName>PROVO</CityName>
+<ZipCode>846021128</ZipCode>
+<PhoneNumber>8014223360</PhoneNumber>
+<StreetAddress>A-153 ASB</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JWSYC7RUMJD1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BRIGHAM YOUNG UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Brigham Young University]]></Name>
+<CityName>PROVO</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>846021128</ZipCode>
+<StreetAddress><![CDATA[A-153 ASB]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~14600</FUND_OBLG>
+</Award>
+</rootTag>

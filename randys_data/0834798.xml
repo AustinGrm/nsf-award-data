@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CSR-PSCE,SM:   A Holistic Design Approach to Reliability Using 3D Stacked]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>402904.00</AwardTotalIntnAmount>
+<AwardAmount>418904</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marilyn McClure</SignBlockName>
+<PO_EMAI>mmcclure@nsf.gov</PO_EMAI>
+<PO_PHON>7032925197</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The future of information technology industry depends on designing computer systems that are tolerant of errors caused by variations in device characteristics. Traditionally system reliability is achieved by replicating critical system components. Since variability induced errors occur slowly over time, replication for the sole purpose of providing reliability is prohibitively expensive for low cost computing platforms. This research explores using 3D stacking to implement redundant components and variability monitoring circuitry on a 3D stacked die. Using 3D stacking the redundant computation blocks can be built using a variation resilient process technology that may be slower than the process technology used for building the primary processor. This research takes a holistic approach to designing the 3D stacked monitoring spanning from innovative microarchitecture solutions to exploiting application's inherent error tolerance. On the microarchitecture front, this research explores the potential for seamlessly reconfiguring the monitoring layer to act in three modes: performance assists, when variability induced errors are rare, or as guard processors, when variability induced errors begin to appear, or as backup processors, when device aging may result in irreparable errors on the primary processing substrate. On the architecture front, this research explores a new exception class called Reliability Aware Exceptions that allow microarchitecture blocks to raise an exception in response to a variability induced error. These software visible exceptions can then be exploited by application classes that are inherently error tolerant and can customized exception handling mechanisms.]]></AbstractNarration>
+<MinAmdLetterDate>08/13/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/07/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0834798</AwardID>
+<Investigator>
+<FirstName>Murali</FirstName>
+<LastName>Annavaram</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Murali Annavaram</PI_FULL_NAME>
+<EmailAddress><![CDATA[annavara@usc.edu]]></EmailAddress>
+<NSF_ID>000496713</NSF_ID>
+<StartDate>08/13/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Southern California</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900894304</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress>3720 S FLOWER ST</StreetAddress>
+<StreetAddress2><![CDATA[FL 3]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA37</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G88KLJR3KYT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTHERN CALIFORNIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>LOS ANGELES</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900894304</ZipCode>
+<StreetAddress><![CDATA[3720 S FLOWER ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7354</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7902</Code>
+<Text>PSCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~402904</FUND_OBLG>
+<FUND_OBLG>2009~16000</FUND_OBLG>
+</Award>
+</rootTag>

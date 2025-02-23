@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>A Workshop: Dynamical Systems in Biology</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>15000.00</AwardTotalIntnAmount>
+<AwardAmount>15000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040100</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mary Ann Horn</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Major successes of applied mathematics are in population dynamics and in neuroscience. Population dynamics includes demographics, genetics, epidemics, and ecology. It is studied to manage growth, improve health and quality of life, and understand transmission of disease and information. Neuroscience studies our brain  to manage disease, to understand storage and recall of memory, to engineer brain-machine interfaces, and to develop new paradigms for electronic computation. Population biologists and neuroscientists seem rarely talk to each other.&lt;br/&gt;&lt;br/&gt;Applied mathematicians have created new fields for studies in these separate areas, including random processes; statistics and data mining; and, modeling, analysis, computer simulation and visualization. Mathematics classifies structures, so it is not surprising that a model derived in one area for one problem is discovered in an entirely different area for another. For example, epidemics have thresholds of propagation that are comparable to those in neuron populations, and both are like explosion limits in combustion. Mathematical modeling provides  a common ground between these areas. The conference, Dynamical Systems in Biology, brings together workers in mathematical population biology and neuroscience with other mathematicians, scientists and engineers, recent Ph.D.s and students to further develop this common language. The conference will focus participants' diverse backgrounds and interests on posing and addressing important problems of common interest.</AbstractNarration>
+<MinAmdLetterDate>05/01/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/01/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0808925</AwardID>
+<Investigator>
+<FirstName>Frank</FirstName>
+<LastName>Hoppensteadt</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Frank C Hoppensteadt</PI_FULL_NAME>
+<EmailAddress>frank.hoppensteadt@nyu.edu</EmailAddress>
+<PI_PHON>2129982172</PI_PHON>
+<NSF_ID>000382009</NSF_ID>
+<StartDate>05/01/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQ S</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NX9PXMKW5KW8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW YORK UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NX9PXMKW5KW8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100121019</ZipCode>
+<StreetAddress><![CDATA[70 WASHINGTON SQ S]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7334</Code>
+<Text>MATHEMATICAL BIOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~15000</FUND_OBLG>
+</Award>
+</rootTag>

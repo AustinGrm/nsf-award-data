@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Meeting Support/Workshop Logistics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>174636.00</AwardTotalIntnAmount>
+<AwardAmount>563365</AwardAmount>
+<AwardInstrument>
+<Value>Contract Interagency Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>01050000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>LPA</Abbreviation>
+<LongName>Office Of Legislative &amp; Public Affairs</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Susan M. Mason</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Meeting Support/Workshop Logistics]]></AbstractNarration>
+<MinAmdLetterDate>09/05/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>02/04/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM/>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0851681</AwardID>
+<Investigator>
+<FirstName>Sheryl</FirstName>
+<LastName>Franz</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sheryl Franz</PI_FULL_NAME>
+<EmailAddress><![CDATA[sfranz@rmc.psc.gov]]></EmailAddress>
+<NSF_ID>000189330</NSF_ID>
+<StartDate>09/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rocky Mountain Regional CASU</Name>
+<CityName>BETHESDA</CityName>
+<ZipCode>208143578</ZipCode>
+<PhoneNumber/>
+<StreetAddress>7700 WISCONSIN AVE RM 920</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DJ8RFQ4JJW25</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PROGRAM SUPPORT CENTER</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NW2RJN8TQQW1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rocky Mountain Regional CASU]]></Name>
+<CityName>BETHESDA</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>208143578</ZipCode>
+<StreetAddress><![CDATA[7700 WISCONSIN AVE RM 920]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>052P</Code>
+<Text>WKSHP FOR BROADER IMPACTS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7273</Code>
+<Text>ENVIRONMENTAL RESEARCH &amp; EDUCA</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7957</Code>
+<Text>Research Investment Communictn</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0110</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001011DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~174636</FUND_OBLG>
+<FUND_OBLG>2009~183729</FUND_OBLG>
+<FUND_OBLG>2010~205000</FUND_OBLG>
+</Award>
+</rootTag>

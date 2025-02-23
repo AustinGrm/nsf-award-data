@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Examining the Binding of Radionuclides with Marine Biopolymers, A Comparative Study on TH, PA, BE, PO and PB Isotopes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>333888.00</AwardTotalIntnAmount>
+<AwardAmount>333888</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040302</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Donald L. Rice</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA["This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5)."&lt;br/&gt;&lt;br/&gt;Although natural radioisotopes, such as Th(IV), Pa(IV, V), Po(IV, II, -II), and Be(II), are important proxies that have long been used in oceanographic investigations, the molecular interactions and binding relationships between radionuclides and marine organic matter remain unclear. Through years of research, it has become evident that metal ions in the ocean are mostly controlled by biopolymers and other organic molecules excreted by marine micro-organisms, and that biopolymers play a significant role in the biogeochemical cycles of the natural radionuclides that are used as oceanographic tracers. &lt;br/&gt;&lt;br/&gt;To identify and characterize the relationships between these biopolymeric carrier compounds and the radionuclides used in tracer research, scientists from Texas A&amp;M University and the University of Southern Mississippi will conduct a comparative study on radioisotopes of thorium (Th), protactinium (Pa), polonium (Po), lead (Pb), and beryllium (Be). This laboratory and field experiment will identify the radioisotope carriers that are effective marine binding ligands and clarify the basics of oceanographic chemical tracer applications of various natural radioisotopes. &lt;br/&gt;&lt;br/&gt;Broader Impacts:  The results from this research will enhance our fundamental understanding of the biogeochemical controls on natural radionuclide and carbon cycling, in the oceans. This research will also refine the interpretation of data collected in the GEOTRACES program. The project also involves the training of students and international collaborations.]]></AbstractNarration>
+<MinAmdLetterDate>06/25/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>09/19/2012</MaxAmdLetterDate>
+<ARRAAmount>333888</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0850957</AwardID>
+<Investigator>
+<FirstName>Alan</FirstName>
+<LastName>Shiller</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alan M Shiller</PI_FULL_NAME>
+<EmailAddress><![CDATA[alan.shiller@usm.edu]]></EmailAddress>
+<NSF_ID>000452564</NSF_ID>
+<StartDate>05/09/2012</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Laodong</FirstName>
+<LastName>Guo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Laodong Guo</PI_FULL_NAME>
+<EmailAddress><![CDATA[guol@uwm.edu]]></EmailAddress>
+<NSF_ID>000745880</NSF_ID>
+<StartDate>06/25/2009</StartDate>
+<EndDate>05/09/2012</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Southern Mississippi</Name>
+<CityName>HATTIESBURG</CityName>
+<ZipCode>394060001</ZipCode>
+<PhoneNumber>6012664119</PhoneNumber>
+<StreetAddress>118 COLLEGE DRIVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<StateCode>MS</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MS04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M1K8LJAET5R1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF SOUTHERN MISSISSIPPI</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Southern Mississippi]]></Name>
+<CityName>HATTIESBURG</CityName>
+<StateCode>MS</StateCode>
+<ZipCode>394060001</ZipCode>
+<StreetAddress><![CDATA[118 COLLEGE DRIVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MS04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0204000</Code>
+<Name>Oceanography</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1670</Code>
+<Text>Chemical Oceanography</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1389</Code>
+<Text>CARBON CYCLE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~333888</FUND_OBLG>
+</Award>
+</rootTag>

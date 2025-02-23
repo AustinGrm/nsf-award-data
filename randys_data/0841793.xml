@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SGER:  Workgroup Protocols: Human Protocols for Synchronization of Task Planning, Execution and Information Exchange in Groups]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>49736.00</AwardTotalIntnAmount>
+<AwardAmount>49736</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David W. McDonald</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[As organizations tackle increasingly sophisticated problems, they seek methods for enhancing the collective intelligence of workgroups. A key problem is how to coordinate activity when the task definitions, task owners, and communication paths can be known only as the work unfolds. Can constraints be imposed on the behavior of workgroup members that are flexible enough to allow this kind of creativity, but structured enough to make best use of the group's cognitive resources? Many organizations find dynamic workflow to be a challenging problem and actively seek better methods.&lt;br/&gt;&lt;br/&gt;This pilot project addresses the question of dynamic workflow using formal Workgroup Protocols as an organizing principle. The first step is to define an execution model for structuring the stream of tasks, without limiting the content of the tasks. The next step is to define explicit protocols for such common activities as planning, delegation, reporting, and so on. Finally, experiments will be conducted with human subjects, to test impacts on performance and general usability of the protocol framework.&lt;br/&gt;&lt;br/&gt;The intellectual merit of this work rests in the novel approach to structuring collaborative work. Rather than relying on free-form communication to allocate cognitive resources, this research explores how design ideas from computer systems may be adapted to fit emergent cognitive activity, and what kinds of modifications would be needed.&lt;br/&gt;&lt;br/&gt;The broader impacts of this work would be seen in three areas: (i) providing a new vision for managing knowledge work, with more dynamic control over accountability and transparency; (ii) setting a research agenda for developing tools, models, languages, and systems; and (iii) suggesting massively-collaborative structures, similar to Wikipedia, but with more intricate task dependencies and communication flows.]]></AbstractNarration>
+<MinAmdLetterDate>08/27/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/27/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0841793</AwardID>
+<Investigator>
+<FirstName>Stanley</FirstName>
+<LastName>Peters</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stanley Peters</PI_FULL_NAME>
+<EmailAddress><![CDATA[peters@csli.stanford.edu]]></EmailAddress>
+<NSF_ID>000358884</NSF_ID>
+<StartDate>08/27/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stanford University</Name>
+<CityName>STANFORD</CityName>
+<ZipCode>943052004</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress>450 JANE STANFORD WAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HJD6G4D6TJY5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE LELAND STANFORD JUNIOR UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Stanford University]]></Name>
+<CityName>STANFORD</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>943052004</ZipCode>
+<StreetAddress><![CDATA[450 JANE STANFORD WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7367</Code>
+<Text>HCC-Human-Centered Computing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9215</Code>
+<Text>HIGH PERFORMANCE COMPUTING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9237</Code>
+<Text>SMALL GRANTS-EXPLORATORY RSRCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~49736</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Study on Nano-phases and Microstructures in Rutile and Pyroxene From Ultrahigh-pressure Metamorphic Rocks: TEM Investigation and Computer Modeling</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>132378.00</AwardTotalIntnAmount>
+<AwardAmount>132378</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030107</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>William P. Leeman</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Nano-phases and nano-precipitates are very common in rock-forming minerals formed at high temperature and/or high pressure. The stability fields for the nano-phases differ from those of the same macroscopic phases, because as crystals get smaller, contributions to their stabilities from interface energies become tremendous. We will combine TEM observations from well characterized ultrahigh-pressure (UHP = coesite and/or diamond-bearing) metamorphic rocks and computer modeling using Density Functional Theory to correlate the relationship between sizes of ultrahigh-pressure nano-precipitates and changes in their stability fields with respect to the macroscopic phases. UHP rocks (eclogite) from the Dabie-Sulu UHP metamorphic terrane in eastern China and mantle-derived UHP garnet pyroxenite and eclogite from the Moldanubian  Nappe of the Bohemian Massif will be used for the proposed studies.&lt;br/&gt;&lt;br/&gt;Intellectual merits. Microstructures of nano-precipitates and nano-phases in pyroxene and rutile will be investigated using high-resolution transmission electron microscopy (HRTEM) and associated techniques of X-ray EDS, electron energy-loss spectroscopy (EELS), and Z-contrast imaging under scanning transmission electron microscopy (STEM) mode. Features to be investigated include: (1) rod-like silica-rich precipitates, clinoenstatite lamellae, and anti-phase domain boundaries in the pyroxene minerals, and (2) needlelike precipitates, and lamellae of a high-pressure TiO2 phase with _-PbO2 type structure in rutile. Using Density Functional Theory, calculations will be carried out on the effects of size on nano-phase stabilities. It is hypothesized that the stabilities of nano-phase lamellae of clinoenstatite and _-PbO2 type TiO2 within their host minerals will be greatly different from the stabilities of their bulk phases. The structure and chemistry of the micro-phases and their relationships can provide P-T history of the host minerals during subduction and exhumation of a continental plate.&lt;br/&gt;&lt;br/&gt;The University of Wisconsin - Madison has just purchased a state-of-the-art aberration-corrected field emission-gun (FEG) TEM / STEM (Scanning Transmission Electron Microscope) imaging system with X-ray EDS and EELS capabilities that is supported by the NSF MRI program. This system is capable of getting spatially-resolved EELS spectra at 1µ resolution. Z-contrast imaging using STEM mode can provide chemical images at the atomic scale. These systems will be used in the proposed study and are expected to provide a wealth of new and significant knowledge about nano-phases, interface structures, and defects in the minerals, and how they record their formation condition and history of their host rocks.&lt;br/&gt;&lt;br/&gt;Broader impact&lt;br/&gt;Results of this work will be incorporated into courses taught by the PI and invarious outreach activities through the UW-Madison Geology Museum, which provides guided tours to about 13,000 K-12 students each year and attracts more than 40,000 visitors every year. The project will also support graduate student research.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>06/27/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/07/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0810150</AwardID>
+<Investigator>
+<FirstName>Huifang</FirstName>
+<LastName>Xu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Huifang Xu</PI_FULL_NAME>
+<EmailAddress>hfxu@geology.wisc.edu</EmailAddress>
+<NSF_ID>000229762</NSF_ID>
+<StartDate>06/27/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<StreetAddress2><![CDATA[Suite 6301]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI02</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>161202122</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>041188822</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>537151218</ZipCode>
+<StreetAddress><![CDATA[21 North Park Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1573</Code>
+<Text>Petrology and Geochemistry</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~65089</FUND_OBLG>
+<FUND_OBLG>2009~67289</FUND_OBLG>
+</Award>
+</rootTag>

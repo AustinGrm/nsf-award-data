@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Acquisition of a MicroCT System for Collaborative Research at UMBC]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>384001.00</AwardTotalIntnAmount>
+<AwardAmount>384001</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leon Esterowitz</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[CBET-0821236&lt;br/&gt;Zhu&lt;br/&gt;&lt;br/&gt;MicroCT is a high resolution, non-destructive imaging method that employs tomography, where digital processing of sequential x-ray scans is used to generate a 3-D image of an object's structure. It has become the quintessential tool for research requiring non-invasive characterization of internal morphology and identification of disparate phases. This proposal&lt;br/&gt;describes unique applications of microCT in conducting research on relationships betweenmicrostructure and the physical properties of hard and soft tissues, biomaterials, and engineered micro-materials. The specific aims of the proposed research are to:&lt;br/&gt;1. Detail the vasculature in tumors and structures of the eye associated with ocular diseases.&lt;br/&gt;2. Evaluate microstructural changes in hard and soft tissues with aging and/or diseases.&lt;br/&gt;3. Characterize transport in permeable natural materials and advanced structural materials.]]></AbstractNarration>
+<MinAmdLetterDate>07/17/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/17/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0821236</AwardID>
+<Investigator>
+<FirstName>Liang</FirstName>
+<LastName>Zhu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Liang Zhu</PI_FULL_NAME>
+<EmailAddress><![CDATA[zliang@umbc.edu]]></EmailAddress>
+<NSF_ID>000139282</NSF_ID>
+<StartDate>07/17/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jennie</FirstName>
+<LastName>Leach</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jennie B Leach</PI_FULL_NAME>
+<EmailAddress><![CDATA[jleach@umbc.edu]]></EmailAddress>
+<NSF_ID>000276374</NSF_ID>
+<StartDate>07/17/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Upal</FirstName>
+<LastName>Ghosh</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Upal Ghosh</PI_FULL_NAME>
+<EmailAddress><![CDATA[ughosh@umbc.edu]]></EmailAddress>
+<NSF_ID>000120842</NSF_ID>
+<StartDate>07/17/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>L.D. Timmie</FirstName>
+<LastName>Topoleski</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>L.D. Timmie Topoleski</PI_FULL_NAME>
+<EmailAddress><![CDATA[topoleski@umbc.edu]]></EmailAddress>
+<NSF_ID>000172027</NSF_ID>
+<StartDate>07/17/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dwayne</FirstName>
+<LastName>Arola</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dwayne D Arola</PI_FULL_NAME>
+<EmailAddress><![CDATA[darola@uw.edu]]></EmailAddress>
+<NSF_ID>000428194</NSF_ID>
+<StartDate>07/17/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland Baltimore County</Name>
+<CityName>BALTIMORE</CityName>
+<ZipCode>212500001</ZipCode>
+<PhoneNumber>4104553140</PhoneNumber>
+<StreetAddress>1000 HILLTOP CIR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RNKYWXURFRL5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND BALTIMORE COUNTY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KMGEN62NKEM9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland Baltimore County]]></Name>
+<CityName>BALTIMORE</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212500001</ZipCode>
+<StreetAddress><![CDATA[1000 HILLTOP CIR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>004E</Code>
+<Text>BIOMEDICAL ENG AND DIAGNOSTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7236</Code>
+<Text>BIOPHOTONICS, IMAGING &amp;SENSING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~384001</FUND_OBLG>
+</Award>
+</rootTag>

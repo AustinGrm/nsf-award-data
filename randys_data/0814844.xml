@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAR-PF: Calibrating the Paleosol CO2 Barometer by Monitoring Modern Calcic Soils]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>80000.00</AwardTotalIntnAmount>
+<AwardAmount>80000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030203</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lina Patino</SignBlockName>
+<PO_EMAI>lpatino@nsf.gov</PO_EMAI>
+<PO_PHON>7032925047</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Dr. Dan Breecker is awarded an NSF Earth Science Postdoctoral Fellowship to carry out a program of research and education at the University of Arizona. Dr. Breecker will determine the concentration of CO2 during the precipitation of carbonate minerals in soils. The research goals will be accomplished by measuring CO2 concentrations, carbon isotopes, moisture and temperature in soils from different regions in Arizona, New Mexico, and Kansas; these soils have developed under different climate and vegetation conditions. These results will be used to calculate atmospheric CO2 concentrations in modern settings as well as to reconstruct paleoclimate models. This investigation will also provide information on how much CO2 soils can store in soils and it will contribute to the overall understanding of carbon cycle.&lt;br/&gt;&lt;br/&gt;In addition, Dr. Breecker will interact with high schools students by giving lectures on CO2 in the atmosphere and its role in the carbon cycle, engaging volunteer students in monitoring sampling sites, and assisting with science fair projects. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/25/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/25/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0814844</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Breecker</LastName>
+<PI_MID_INIT>O</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel O Breecker</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000522751</NSF_ID>
+<StartDate>07/25/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Breecker                Dan            O</Name>
+<CityName>ALbuquerque</CityName>
+<ZipCode>871310001</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NM01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Breecker                Dan            O]]></Name>
+<CityName>ALbuquerque</CityName>
+<StateCode>NM</StateCode>
+<ZipCode>871310001</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NM01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1575</Code>
+<Text>EDUCATION AND HUMAN RESOURCES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7137</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~80000</FUND_OBLG>
+</Award>
+</rootTag>

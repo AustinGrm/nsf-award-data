@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[New multiple testing methods for pairwise comparisons &amp; other dependent data cases]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>140206.00</AwardTotalIntnAmount>
+<AwardAmount>140206</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gabor Szekely</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The investigators will study new methodology in multiple testing in the case where test statistics are dependent.  The objective is to provide extensions of the multiple residual down method (MRD) developed by these investigators.  The extensions encompass important topics such as pairwise comparisons, contrasts, a variety of exponential family distributions, and tests for independence of collections of contingency tables embedded in a large contingency table.  The new methodology and its extensions are expected to have several desirable advantages over current methodology.  &lt;br/&gt;&lt;br/&gt;Multiple testing is one of the most important practical areas of statistical inference.  Here is a list of areas in which multiple testing is utilized and has impact:  (i) microarray analyses ? the identification of which genes are related to cancer,(ii)monitoring spatial and temporal abundance of bacteria in air samples in US cities, (iii)identifying successful mutual funds, (iv)identifying individual or groups that are vulnerable to disclosure risk, (v)identifying changes in quality in production processes, (vi)determining which blood analytes remain unchanged when new and more efficient blood collection tubes are used, and (vii)identifying which schools are not meeting expected standards. In addition, applications of multiple testing have been used in imaging, analysis of proteins, and numerous other branches of medicine.  Research can provide better and more efficient methodology, which can greatly benefit all those cognate fields.]]></AbstractNarration>
+<MinAmdLetterDate>08/19/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/19/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0804547</AwardID>
+<Investigator>
+<FirstName>Harold</FirstName>
+<LastName>Sackrowitz</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Harold B Sackrowitz</PI_FULL_NAME>
+<EmailAddress><![CDATA[sackrowi@rci.rutgers.edu]]></EmailAddress>
+<NSF_ID>000164175</NSF_ID>
+<StartDate>08/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rutgers University New Brunswick</Name>
+<CityName>NEW BRUNSWICK</CityName>
+<ZipCode>089018559</ZipCode>
+<PhoneNumber>8489320150</PhoneNumber>
+<StreetAddress>3 RUTGERS PLZA</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M1LVPE5GLSD9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M1LVPE5GLSD9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rutgers University New Brunswick]]></Name>
+<CityName>NEW BRUNSWICK</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>089018559</ZipCode>
+<StreetAddress><![CDATA[3 RUTGERS PLZA]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~140206</FUND_OBLG>
+</Award>
+</rootTag>

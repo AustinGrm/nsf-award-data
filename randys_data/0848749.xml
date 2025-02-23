@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II:   Efficient Production of High Quality Carbon Nanotube Field Emitters</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>499875.00</AwardTotalIntnAmount>
+<AwardAmount>466611</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Grace Jinliu Wang</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research Phase II project addresses scaled up production of high quality carbon nanotube (CNT) field emitters, which are promising electron sources that can potentially overcome the limitations of thermionic source based devices. The current commercially available CNTs have limitations in terms of field emission performance, thermal stability and cost. Xintek and its collaborators at Duke University developed a proprietary few walled carbon nanotubes (FWNTs) which is shown to possess superior field emission performance compared to other commercially available CNTs. &lt;br/&gt;&lt;br/&gt;Upon the successful completion of the Phase II project, the low cost high quality field emission FWNTs will be produced to deliver improved field emission performance for a broad range of applications including but not limited to field emission displays, X-ray sources, vacuum electronic devices, accelerator electron guns, and high current electron beam processing facilities.</AbstractNarration>
+<MinAmdLetterDate>01/13/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>01/13/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0848749</AwardID>
+<Investigator>
+<FirstName>Mei</FirstName>
+<LastName>Lu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mei Lu</PI_FULL_NAME>
+<EmailAddress>mlu@xintek.com</EmailAddress>
+<PI_PHON>9193897892</PI_PHON>
+<NSF_ID>000076662</NSF_ID>
+<StartDate>01/13/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Xintek, Inc.</Name>
+<CityName>Research Triangle Park</CityName>
+<ZipCode>277093788</ZipCode>
+<PhoneNumber>9193139638</PhoneNumber>
+<StreetAddress>7020 Kit Creek Rd</StreetAddress>
+<StreetAddress2><![CDATA[Suite 200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Xintek, Inc.]]></Name>
+<CityName>Research Triangle Park</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277093788</ZipCode>
+<StreetAddress><![CDATA[7020 Kit Creek Rd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; DEVICE TEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9148</Code>
+<Text>TOOLS &amp; TECHNOL FOR MANUFACTURING DESIGN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9215</Code>
+<Text>HIGH PERFORMANCE COMPUTING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~466611</FUND_OBLG>
+</Award>
+</rootTag>

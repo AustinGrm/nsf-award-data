@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Upgrading the NMR facilities at the University of North Texas.]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>498525.00</AwardTotalIntnAmount>
+<AwardAmount>498525</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090002</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos Murillo</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[ABSTRACT&lt;br/&gt;This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;With support from the Chemistry Research Instrumentation and Facilities: Multiuser program (CRIF:MU), the Department of Chemistry at the University of North Texas will acquire a 400 MHz spectrometer for the study of liquids and solids and upgrade a 500 MHz spectrometer for the study of solids.  These improvements will support a range of research projects, including: 1) the study of stacking interactions in metal-organic and organic molecules and their optoelectronic properties; 2) investigations of the mechanism of formation of silicon-oxygen molecular electronic materials; 3) research on metal cluster chemistry of transition metal complexes and homogeneous catalysts; and 4) the study of polymers intercalated into clay matrices to form nanocomposites.&lt;br/&gt;&lt;br/&gt;Multinuclear NMR spectroscopy is a powerful analytical tool widely used in synthetic chemistry and materials science.  The spectra enable researchers to identify and characterize unknown substances.  They provide information on the arrangement and connectivity of atoms in molecules and materials, i.e., their structures by detecting transitions between energy levels arising from the nuclear spin properties of atoms.  These spectrometers will promote teaching and training of students (high school through doctoral students) via hands-on research with modern instrumentation at North Texas University and at the neighboring Texas Woman's University and Austin College.  Students will be able to remotely access their data.  Materials and exercises using remotely accessed NMR data will be developed for use in an online instrumental analysis course.]]></AbstractNarration>
+<MinAmdLetterDate>07/26/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/26/2009</MaxAmdLetterDate>
+<ARRAAmount>498525</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0840518</AwardID>
+<Investigator>
+<FirstName>Mohammad</FirstName>
+<LastName>Omary</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mohammad A Omary</PI_FULL_NAME>
+<EmailAddress><![CDATA[omary@unt.edu]]></EmailAddress>
+<NSF_ID>000088537</NSF_ID>
+<StartDate>07/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robby</FirstName>
+<LastName>Petros</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robby A Petros</PI_FULL_NAME>
+<EmailAddress><![CDATA[rpetros@twu.edu]]></EmailAddress>
+<NSF_ID>000506516</NSF_ID>
+<StartDate>07/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Teresa</FirstName>
+<LastName>Golden</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Teresa D Golden</PI_FULL_NAME>
+<EmailAddress><![CDATA[tgolden@unt.edu]]></EmailAddress>
+<NSF_ID>000365904</NSF_ID>
+<StartDate>07/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Richmond</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael G Richmond</PI_FULL_NAME>
+<EmailAddress><![CDATA[cobalt@unt.edu]]></EmailAddress>
+<NSF_ID>000161391</NSF_ID>
+<StartDate>07/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Justin</FirstName>
+<LastName>Youngblood</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Justin Youngblood</PI_FULL_NAME>
+<EmailAddress><![CDATA[W.Justin.Youngblood@unt.edu]]></EmailAddress>
+<NSF_ID>000506451</NSF_ID>
+<StartDate>07/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Texas</Name>
+<CityName>DENTON</CityName>
+<ZipCode>762035017</ZipCode>
+<PhoneNumber>9405653940</PhoneNumber>
+<StreetAddress>1155 UNION CIR #305250</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G47WN1XZNWX9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NORTH TEXAS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>WXELJHR4N3S6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of North Texas]]></Name>
+<CityName>DENTON</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>762035017</ZipCode>
+<StreetAddress><![CDATA[1155 UNION CIR #305250]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1938</Code>
+<Text>Chemical Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1108</Code>
+<Text>INSTRUMENTAT &amp; INSTRUMENT DEVP</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9162</Code>
+<Text>MULTI DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~498525</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Second Workshop on Neutrino Detection for Nuclear Monitoring]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>28927.00</AwardTotalIntnAmount>
+<AwardAmount>28927</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Spengler</SignBlockName>
+<PO_EMAI>sspengle@nsf.gov</PO_EMAI>
+<PO_PHON>7032927347</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Significant progress has been made in exploiting the practical utility of antineutrino detection for nonproliferation purposes, in particular, reactor monitoring, and for geophysics purposes, by mapping the earth's core, crust, and mantle. Despite these remarkable successes, these inter-related communities have had only modest overlap. As a result, the fields of applied and basic antineutrino physics lack an overarching strategy that would allow efficient exploitation of the resources and strengths provided by each stakeholder. This workshop aims to develop the basis for such a strategic alignment of interests between the fundamental and applied antineutrino physics communities. &lt;br/&gt;&lt;br/&gt;Workshop reporters will summarize the state of the art in current antineutrino detection; technologies and applications, and participants will work intensively to create an environment for collaborative research across the community. Further, participants will examine the practicality of establishing a National Center for Neutrino Study (NCNS) similar in nature to the Space Telescope Science Institute or the Advanced Photon Source. User community members will be invited to participate in the workshop and will be asked to describe their vision of utilizing neutrino detection devices nationally with the intent to integrate their use globally. These visions will be informed by a clear understanding of the prospects and limitations intrinsic in antineutrino physics provided by the US neutrino science community attendees. The importance of this workshop will be to unite disparate groups of multi-disciplinary scientists with shared goals in antineutrino detection research and applications. A goal of the workshop is to develop stronger bonds of communications between these fields. This step is necessary in order to fully understand the various the components of an antineutrino spectrum and identify correctly the sources of the signal.]]></AbstractNarration>
+<MinAmdLetterDate>09/15/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/15/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0842586</AwardID>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>McDonough</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>William F McDonough</PI_FULL_NAME>
+<EmailAddress><![CDATA[mcdonoug@umd.edu]]></EmailAddress>
+<NSF_ID>000096636</NSF_ID>
+<StartDate>09/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland, College Park</Name>
+<CityName>College Park</CityName>
+<ZipCode>207420001</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 REGENTS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPU8ULVAAS23</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND, COLLEGE PARK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KMGEN62NKEM9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland, College Park]]></Name>
+<CityName>College Park</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>207420001</ZipCode>
+<StreetAddress><![CDATA[3112 LEE BLDG 7809 REGENTS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>H188</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>7484</Code>
+<Text>IIS SPECIAL PROJECTS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809RB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~28927</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Computational Thinking and Fluency in the 21st Century]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>98415.00</AwardTotalIntnAmount>
+<AwardAmount>98415</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Janice Cuny</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The College Board proposes to convene a group of experts in undergraduate computer science education in order to begin a conversation about the ideal, future, Advanced Placement (AP) Computer Science course and its impact on the discipline. This re-envisioning of the AP CS course is happening in the context of cutting edge changes occurring in computer science undergraduate programs. Building on an existing NSF-funded project ? From Research to Practice: Redesigning AP Science Courses to Advance Science Literacy and Support Learning with Understanding ? the new course design will use best practices in pedagogy and it will aim to engage and excite all students, including those at low income and minority serving schools. This award will bring together experts who will function in an advisory capacity, providing direction to the larger project.]]></AbstractNarration>
+<MinAmdLetterDate>08/12/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/12/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0848267</AwardID>
+<Investigator>
+<FirstName>Owen</FirstName>
+<LastName>Astrachan</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Owen L Astrachan</PI_FULL_NAME>
+<EmailAddress><![CDATA[ola@cs.duke.edu]]></EmailAddress>
+<NSF_ID>000122759</NSF_ID>
+<StartDate>08/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>The College Board</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>102811052</ZipCode>
+<PhoneNumber>2127137719</PhoneNumber>
+<StreetAddress>250 VESEY ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CLZXHJ5A8G84</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>COLLEGE ENTRANCE EXAMINATION BOARD</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>CLZXHJ5A8G84</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The College Board]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>102811052</ZipCode>
+<StreetAddress><![CDATA[250 VESEY ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7482</Code>
+<Text>BROADENING PARTIC IN COMPUTING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~98415</FUND_OBLG>
+</Award>
+</rootTag>

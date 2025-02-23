@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Research in Complexity Theory]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>103209.00</AwardTotalIntnAmount>
+<AwardAmount>103209</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dmitri Maslov</SignBlockName>
+<PO_EMAI>dmaslov@nsf.gov</PO_EMAI>
+<PO_PHON>7032928910</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Computational complexity theory focuses on understanding capabilities of resource bounded computations. The broad goal of this project is to make original contributions to certain topics in computational complexity theory. Specifically, fundamental questions regarding the nature of unambiguous computations and average-case complexity will be investigated. In the topic of unambiguous computations, the role of unambiguity in small space computations will be investigated. In average-case complexity, the relations between average-case and the worst-case complexity of NP and various complexity classes that lie in the Polynomial-time Hierarchy, will be investigated. &lt;br/&gt;&lt;br/&gt;Broader Impacts: This project addresses several basic questions in computational complexity theory. The results from this project will further our understanding of the nature of efficient computation. Since the notion of efficiency is central to all other areas of computing, this research has potential to scientifically impact these areas. Research results from this project will be published in peer-reviewed journals and will be presented at national and international conferences, thus enabling broad dissemination of the the results to enhance scientific understanding. New courses will be created and taught along the themes of this project, thus integrating teaching and research. The grant will also be used for various human resource development activities such as supporting and mentoring graduate students and inviting visitors.]]></AbstractNarration>
+<MinAmdLetterDate>07/18/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/18/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0830479</AwardID>
+<Investigator>
+<FirstName>Pavan</FirstName>
+<LastName>Aduri</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Pavan Aduri</PI_FULL_NAME>
+<EmailAddress><![CDATA[pavan@iastate.edu]]></EmailAddress>
+<NSF_ID>000166403</NSF_ID>
+<StartDate>07/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Iowa State University</Name>
+<CityName>AMES</CityName>
+<ZipCode>500112105</ZipCode>
+<PhoneNumber>5152945225</PhoneNumber>
+<StreetAddress>515 MORRILL RD, 1350 BEARDSHEAR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DQDBM7FGJPC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DQDBM7FGJPC5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Iowa State University]]></Name>
+<CityName>AMES</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>500112105</ZipCode>
+<StreetAddress><![CDATA[515 MORRILL RD, 1350 BEARDSHEAR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>2860</Code>
+<Text>THEORY OF COMPUTING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~103209</FUND_OBLG>
+</Award>
+</rootTag>

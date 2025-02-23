@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Grand Challenges in Thermal Management of Electronic Systems: From Device to Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>10000.00</AwardTotalIntnAmount>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Theodore L. Bergman</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[CBET-0840617&lt;br/&gt;Agonafer&lt;br/&gt;&lt;br/&gt;This award partially supports a symposium on Grand Challenges in Thermal Management of Electronic Systems: From Device to Systems, which will be held in conjunction with the ASME International Mechanical Engineering Congress &amp; Exposition on October 31 - November 1, 2008.  The purpose of this meeting is to bring together an international group of researchers to discuss emerging topics in electronic packaging.&lt;br/&gt;&lt;br/&gt;With respect to the intellectual merit of the conference,  electronic packaging remains an especially challenging area of research, particularly given its interdisciplinary nature that combines expertise from electrical engineering, thermal engineering, materials science, and others.  A topic of special importance, to be emphasized at this symposium, is three-dimensional packaging, in which a third dimension is added to typical two-dimensional electronic systems.  &lt;br/&gt;&lt;br/&gt;The broader impacts of the conference include partial support for a number of US-based junior researchers and students, with women and minority attendees especially encouraged to attend.    The results will be widely disseminated through a special issue of the ASME Journal of Electronic Packaging.]]></AbstractNarration>
+<MinAmdLetterDate>07/23/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0840617</AwardID>
+<Investigator>
+<FirstName>Dereje</FirstName>
+<LastName>Agonafer</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dereje Agonafer</PI_FULL_NAME>
+<EmailAddress><![CDATA[agonafer@uta.edu]]></EmailAddress>
+<NSF_ID>000417235</NSF_ID>
+<StartDate>07/23/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Arlington</Name>
+<CityName>ARLINGTON</CityName>
+<ZipCode>760199800</ZipCode>
+<PhoneNumber>8172722105</PhoneNumber>
+<StreetAddress>701 S. NEDDERMAN DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LMLUKUPJJ9N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF TEXAS AT ARLINGTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Arlington]]></Name>
+<CityName>ARLINGTON</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>760199800</ZipCode>
+<StreetAddress><![CDATA[701 S. NEDDERMAN DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1406</Code>
+<Text>TTP-Thermal Transport Process</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>064E</Code>
+<Text>Convection heat and mass transfer</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~10000</FUND_OBLG>
+</Award>
+</rootTag>

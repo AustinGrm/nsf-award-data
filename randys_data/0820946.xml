@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of an SEM-EDS-EBSD-CL Microanalytical System for Solid Earth and Climate Change Research</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>457584.00</AwardTotalIntnAmount>
+<AwardAmount>457584</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stephen Harlan</SignBlockName>
+<PO_EMAI>sharlan@nsf.gov</PO_EMAI>
+<PO_PHON>7032927707</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Funding from the Major Research Instrumentation (MRI) Program grant will support acquisition of an Scanning Electron Microscope with secondary and backscattered electron detectors, electron backscatter diffraction capability, and live-color cathodluminescence capability for the Department of Earth Sciences at the University of Maine. The instrument will be used to support faculty and student research in geodynamics and crustal studies and studies of global climate change. The instrument will be the primary research tool of an early career researcher, but will be utilized by several faculty within the department. The scanning electron microscope facility is unique within the state of Maine and will thus operate as a regional facility for research collaboration with scientists from other universities, state government agencies, such as the Maine Geological Survey, and private industry. The facility and its personnel will also participate in outreach activities for K-12 education and the Penobscot Indian Nation.</AbstractNarration>
+<MinAmdLetterDate>08/22/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/22/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0820946</AwardID>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Koons</LastName>
+<PI_MID_INIT>O</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peter O Koons</PI_FULL_NAME>
+<EmailAddress>Peter.Koons@maine.edu</EmailAddress>
+<NSF_ID>000087531</NSF_ID>
+<StartDate>08/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Edward</FirstName>
+<LastName>Grew</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Edward S Grew</PI_FULL_NAME>
+<EmailAddress>esgrew@maine.edu</EmailAddress>
+<NSF_ID>000102145</NSF_ID>
+<StartDate>08/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Johnson</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Scott E Johnson</PI_FULL_NAME>
+<EmailAddress>johnsons@maine.edu</EmailAddress>
+<NSF_ID>000473291</NSF_ID>
+<StartDate>08/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Belknap</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel F Belknap</PI_FULL_NAME>
+<EmailAddress>belknap@maine.edu</EmailAddress>
+<NSF_ID>000088303</NSF_ID>
+<StartDate>08/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Gerbi</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christopher C Gerbi</PI_FULL_NAME>
+<EmailAddress>christopher.gerbi@maine.edu</EmailAddress>
+<NSF_ID>000086688</NSF_ID>
+<StartDate>08/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maine</Name>
+<CityName>ORONO</CityName>
+<ZipCode>044695717</ZipCode>
+<PhoneNumber>2075811484</PhoneNumber>
+<StreetAddress>5717 Corbett Hall</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<StateCode>ME</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>ME02</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>186875787</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MAINE SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>071750426</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maine]]></Name>
+<CityName>ORONO</CityName>
+<StateCode>ME</StateCode>
+<ZipCode>044695717</ZipCode>
+<StreetAddress><![CDATA[5717 Corbett Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>ME02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9150</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2008~457584</FUND_OBLG>
+</Award>
+</rootTag>

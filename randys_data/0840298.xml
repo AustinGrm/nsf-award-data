@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[US-Costa Rica Dissertation:   Biological processes influencing nutrient limitation in a tropical wet forest]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>14960.00</AwardTotalIntnAmount>
+<AwardAmount>14960</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Harold Stolberg</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award to Dr. Michelle Mack at the University of Florida supports graduate student Silvia Alvarez-Clare to conduct doctoral dissertation research at EARTH University Forest Reserve in Costa Rica.  Ms. Alvarez-Clare will be supervised in Costa Rica by Dr. Ricardo Russo from EARTH University.  Ms. Alvarez-Clare's investigation will focus on the biological processes influencing nutrient limitation in a tropical wet forest.  Specifically, the proposed study will (1) directly test if nitrogen, phosphorus, or a combination of N and P, limit tree biomass production and litterfall decomposition in a lowland diverse tropical wet forest; (2) investigate how the plant community as a whole influences plant-soil-microbial-feedbacks and thereby nutrient limitation; and (3) explore the mechanisms by which an increase in nutrient availability mitigates or reinforces nutrient limitation in a diverse forest with plant and microbial communities adapted to low nutrient concentrations.   This potentially transformative research will supply much needed information on tropical forest productivity and nutrient cycling, specifically how tree species composition and demographic stages influence ecosystem nutrient dynamics.  Additionally, the research will provide a scientific baseline for future policy and management decisions regarding tropical forest resources.]]></AbstractNarration>
+<MinAmdLetterDate>12/01/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>12/01/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.079</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0840298</AwardID>
+<Investigator>
+<FirstName>Michelle</FirstName>
+<LastName>Mack</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michelle C Mack</PI_FULL_NAME>
+<EmailAddress><![CDATA[michelle.mack@nau.edu]]></EmailAddress>
+<NSF_ID>000429675</NSF_ID>
+<StartDate>12/01/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326111941</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1523 UNION RD RM 207</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NNFQH1JAPEP3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF FLORIDA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D4GCCCMXR1H3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Florida]]></Name>
+<CityName>GAINESVILLE</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>326111941</ZipCode>
+<StreetAddress><![CDATA[1523 UNION RD RM 207]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7727</Code>
+<Text>IRES Track I: IRES Sites (IS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5904</Code>
+<Text>COSTA RICA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5926</Code>
+<Text>LATIN AMERICA, SDC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5977</Code>
+<Text>AMERICAS PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~14960</FUND_OBLG>
+</Award>
+</rootTag>

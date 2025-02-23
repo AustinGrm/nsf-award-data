@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RI-Medium: Improving robustness with generalized metacognition]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>796475.00</AwardTotalIntnAmount>
+<AwardAmount>796475</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Donlon</SignBlockName>
+<PO_EMAI>jdonlon@nsf.gov</PO_EMAI>
+<PO_PHON>7032928074</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Brittleness has been a resistant problem in articial intelligence, stymieing the search for robust automated systems - ones that do not break when confronted with even slight deviations from their intended domains and scenarios. Consequently, a solution to the brittleness problem will be a major step toward truly intelligent machines. This project is aimed at achieving this by means of a specialized module, the metacognitive loop (MCL). MCL is a monitoring-and-control module that can be attached to a given "host" system, thereby yielding an improved system. Successful implementations of several pilots of this module are being followed by a full-blown MCL.&lt;br/&gt;&lt;br/&gt;The research provides a specific methodology for building robust systems. Because MCL can potentially be added to any error-prone system and improve robustness across the board, its most significant mark will be felt by systems engineers who will be able to reduce the number of person hours spent writing error-handling code. This in turn will reduce the cost of developing new systems and impact a large number of domains, including everything from building robust robots to desktop operating systems.]]></AbstractNarration>
+<MinAmdLetterDate>07/23/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/19/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0803739</AwardID>
+<Investigator>
+<FirstName>Donald</FirstName>
+<LastName>Perlis</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Donald R Perlis</PI_FULL_NAME>
+<EmailAddress><![CDATA[perlis@cs.umd.edu]]></EmailAddress>
+<NSF_ID>000292934</NSF_ID>
+<StartDate>07/23/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tim</FirstName>
+<LastName>Oates</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tim Oates</PI_FULL_NAME>
+<EmailAddress><![CDATA[jtooates@gmail.com]]></EmailAddress>
+<NSF_ID>000250972</NSF_ID>
+<StartDate>07/23/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Anderson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael Anderson</PI_FULL_NAME>
+<EmailAddress><![CDATA[michael.anderson@fandm.edu]]></EmailAddress>
+<NSF_ID>000071770</NSF_ID>
+<StartDate>07/23/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Darsana</FirstName>
+<LastName>Josyula</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Darsana Josyula</PI_FULL_NAME>
+<EmailAddress><![CDATA[djosyula@bowiestate.edu]]></EmailAddress>
+<NSF_ID>000234378</NSF_ID>
+<StartDate>07/23/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland, College Park</Name>
+<CityName>College Park</CityName>
+<ZipCode>207420001</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 REGENTS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPU8ULVAAS23</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND, COLLEGE PARK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KMGEN62NKEM9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland, College Park]]></Name>
+<CityName>College Park</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>207420001</ZipCode>
+<StreetAddress><![CDATA[3112 LEE BLDG 7809 REGENTS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>Robust Intelligence</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9215</Code>
+<Text>HIGH PERFORMANCE COMPUTING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~289633</FUND_OBLG>
+<FUND_OBLG>2009~506842</FUND_OBLG>
+</Award>
+</rootTag>

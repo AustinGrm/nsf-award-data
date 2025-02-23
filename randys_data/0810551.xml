@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Optimization of a Microscale Human Liver Tissue for Evaluating Chronic Drug Toxicity</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gregory T. Baxter</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Technology Transfer Phase I project optimizes an in vitro model of human liver tissue and assess its utility for evaluating liver toxicity following chronic drug exposure. While primary human hepatocytes isolated from the liver are utilized by pharmaceutical and biotech industries to evaluate drug metabolism and toxicity, these cells under conventional culture rapidly lose liver-specific functions, which does not allow for chronic effects of drugs to be tested earlier in drug development. Recently, a miniaturized, multiwell human liver tissue model with defined microscale architecture has been developed that maintains phenotypic functions for several weeks. This project will utilize microtechnology tools to functionally optimize the microscale liver tissue for enhanced longevity (months), and assess utility of the system for evaluating clinically-relevant chronic (weeks) drug toxicity using high content imaging readouts and gene expression signatures.&lt;br/&gt;&lt;br/&gt;The broader impacts of this research are to provide an improved understanding of protein/gene expression changes in primary human hepatocytes following chronic drug exposure, and development of a novel chronic toxicity assay for use in industry. In the future, chronic toxicity screening with microscale liver tissues may be used to eliminate toxic compounds much earlier in the drug development pipeline towards reducing the $1 billion per drug development costs, increasing likelihood of clinical success, and limiting human exposure to unsafe drugs. More broadly, microscale human liver tissues may enable the investigation of mechanisms of toxicant action, allow identification of new biomarkers, and enable studies to assess the risk associated with exposure to mixtures of drugs.</AbstractNarration>
+<MinAmdLetterDate>04/21/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>03/04/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0810551</AwardID>
+<Investigator>
+<FirstName>Salman</FirstName>
+<LastName>Khetani</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Salman Khetani</PI_FULL_NAME>
+<EmailAddress>skhetani@hepregen.com</EmailAddress>
+<PI_PHON>7813910205</PI_PHON>
+<NSF_ID>000083595</NSF_ID>
+<StartDate>04/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>HEPREGEN</Name>
+<CityName>MEDFORD</CityName>
+<ZipCode>021550000</ZipCode>
+<PhoneNumber>7813910205</PhoneNumber>
+<StreetAddress>200 Boston Avenue</StreetAddress>
+<StreetAddress2><![CDATA[Ste 1500]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_ORG/>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[HEPREGEN]]></Name>
+<CityName>MEDFORD</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021550000</ZipCode>
+<StreetAddress><![CDATA[200 Boston Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_PERF/>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9267</Code>
+<Text>INSTRUMENTATION &amp; LAB IMPROVE.</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~100000</FUND_OBLG>
+<FUND_OBLG>2009~50000</FUND_OBLG>
+</Award>
+</rootTag>

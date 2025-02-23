@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Planning Grant:  International Collaboration on New Ferromagnetic Smart Materials]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>9000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bonnie Thompson</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[OISE 0831951&lt;br/&gt;Ari-Gur&lt;br/&gt;&lt;br/&gt;Professor Prina Ari-Gur of Western Michigan University?s Department of Mechanical and Aeronautical Engineering will travel to Finland and Russia to plan an international cooperative research project to improve our knowledge of new Heusler ferromagnetic shape memory alloys.  In Finland, she will visit Professor Simo-Pekka Hannula at Helsinki University of Technology whose group is known for growing ferromagnetic shape memory alloys and for its fundamental understanding of the structure of such alloys.  In Moscow, Prof. Ari-Gur will go on to visit the Russian Academy of Sciences? Institute of Radioengineering and Electronics, where she will meet with Professors Sergey Nikitov and Victor Koledov to pursue mutual interests in growth of single crystals and preparation of ferromagnetic alloy powders that demonstrate giant magneto-caloric effects.  The overall goal of the two-part visit is to develop a plan for follow-on collaboration that will build upon the Western Michigan team?s strengths in ex-ray and neutron diffraction to develop ferromagnetic alloys with extremely high sensitivity of the phase transformation to applied magnetic fields.  If successful in the long-run, resulting new smart materials should demonstrate phase transition and shape-memory effect in metals for low-cost permanent magnets. &lt;br/&gt;&lt;br/&gt;This project development in materials research fulfills the program objective of advancing scientific knowledge by enabling experts in the United States and Europe to combine complementary talents and share research resources in areas of strong mutual interest and competence.   Broader impacts include stronger links for the U.S. research community with Finnish and Russian experts in a field where results of their cooperation may be applicable to micromechanics and problems associated with alternative energy.]]></AbstractNarration>
+<MinAmdLetterDate>08/11/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/14/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.079</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0831951</AwardID>
+<Investigator>
+<FirstName>Pnina</FirstName>
+<LastName>Ari-Gur</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Pnina Ari-Gur</PI_FULL_NAME>
+<EmailAddress><![CDATA[pnina.ari-gur@wmich.edu]]></EmailAddress>
+<NSF_ID>000326870</NSF_ID>
+<StartDate>08/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andra</FirstName>
+<LastName>Troncalli</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andra P Troncalli</PI_FULL_NAME>
+<EmailAddress><![CDATA[atroncalli@austincollege.edu]]></EmailAddress>
+<NSF_ID>000324545</NSF_ID>
+<StartDate>08/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Western Michigan University</Name>
+<CityName>KALAMAZOO</CityName>
+<ZipCode>490085200</ZipCode>
+<PhoneNumber>2693878298</PhoneNumber>
+<StreetAddress>1903 W MICHIGAN AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>J7WULLYGFRH1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WESTERN MICHIGAN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Western Michigan University]]></Name>
+<CityName>KALAMAZOO</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>490085200</ZipCode>
+<StreetAddress><![CDATA[1903 W MICHIGAN AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7299</Code>
+<Text>Catalyzing New Intl Collab</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5935</Code>
+<Text>FINLAND</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5939</Code>
+<Text>US/USSR ACTIVITIES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5979</Code>
+<Text>Europe and Eurasia</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9161</Code>
+<Text>SINGLE DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>AMPP</Code>
+<Text>ADVANCED MATERIALS &amp; PROCESSING PROGRAM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~9000</FUND_OBLG>
+</Award>
+</rootTag>

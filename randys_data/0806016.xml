@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Manifolds with Lower Ricci Curvature Bounds</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>144574.00</AwardTotalIntnAmount>
+<AwardAmount>144574</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christopher Stark</SignBlockName>
+<PO_EMAI>cstark@nsf.gov</PO_EMAI>
+<PO_PHON>7032924869</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Abstract-DMS-0806016&lt;br/&gt;&lt;br/&gt;This proposal is to study manifolds with lower point-wise or integral Ricci curvature bounds. Recent development shows the extraordinary power of Ricci flow. It thus deserves studies from various viewpoints. &lt;br/&gt;The PI will study Ricci flow via comparison geometry. Many geometric problems lead to integral curvatures; for example, the isospectral problems, geometric variational problems and extremal metrics, and Chern-Weil's formula for characteristic numbers. Thus, integral curvature bounds can be viewed as an optimal curvature assumption. The fundamental group is the most basic topological information. The PI will study the structures of the fundamental groups for manifolds with lower integral Ricci curvature bound.  Its understanding will greatly advance the understanding of  the effect of curvature bounds on the  global topology of Riemannian manifolds.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Ricci curvature is a fundamental concept in geometry as well as Einstein's general relativity.  Einstein manifolds are important both in mathematics and physics. They are good candidates for canonical metrics on general Riemannian manifolds and they are the vacuum solutions of Einstein's field equation (with cosmological constant) in general relativity. &lt;br/&gt;General relativity is the study of gravity, the one fundamental force that should play a crucial role in understanding our universe. The proposed activities would have impact on all these directions.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>05/20/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0806016</AwardID>
+<Investigator>
+<FirstName>Guofang</FirstName>
+<LastName>Wei</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Guofang Wei</PI_FULL_NAME>
+<EmailAddress>wei@math.ucsb.edu</EmailAddress>
+<PI_PHON/>
+<NSF_ID>000153925</NSF_ID>
+<StartDate>05/20/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Barbara</Name>
+<CityName>SANTA BARBARA</CityName>
+<ZipCode>931060001</ZipCode>
+<PhoneNumber>8058934188</PhoneNumber>
+<StreetAddress>3227 CHEADLE HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G9QBQDH39DF4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SANTA BARBARA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Santa Barbara]]></Name>
+<CityName>SANTA BARBARA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>931060001</ZipCode>
+<StreetAddress><![CDATA[3227 CHEADLE HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA24</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1265</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~144574</FUND_OBLG>
+</Award>
+</rootTag>

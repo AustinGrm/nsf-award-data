@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Southwest Georgia Scholarship Project for the Advancement of Science Technology Engineering and Mathematics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2016</AwardExpirationDate>
+<AwardTotalIntnAmount>595676.00</AwardTotalIntnAmount>
+<AwardAmount>595676</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Connie Della-Piana</SignBlockName>
+<PO_EMAI>cdellapi@nsf.gov</PO_EMAI>
+<PO_PHON>7032925309</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project is providing scholarships for associate and transfer students majoring in Biological Sciences, Computer Science, Chemistry, Environmental Science, Forensic Science, Pre-Engineering, and Mathematics. Project goals are to increase the number of majors in these areas by an average of 20% over the four scholarship award years, and by relieving the financial burden on scholarship recipients, to allow them to have more extensive participation in academic and support activities that can foster success and retention. The two-year college in which the project is housed is building upon the successful support structures in its Mathematics, Engineering, and Science Achievement (MESA) program and other programs serving minorities. Scholars are being recruited from traditional and non-traditional populations, the MESA program, and area high schools for early enrollment. A formal network with a local high school that is a designated center of excellence for science, mathematics and engineering, and that enrolls a high percentage of students from underrepresented groups, is a major mechanism for recruitment of academically promising high school students. Evaluation of the factors contributing to success in recruitment and retention is expected to expand the knowledge base that can be drawn from in designing programs to increase the numbers and diversity of STEM graduates.]]></AbstractNarration>
+<MinAmdLetterDate>02/27/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>02/27/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0850245</AwardID>
+<Investigator>
+<FirstName>Nikki</FirstName>
+<LastName>Grantham</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nikki Grantham</PI_FULL_NAME>
+<EmailAddress><![CDATA[nikki.grantham@darton.edu]]></EmailAddress>
+<NSF_ID>000262159</NSF_ID>
+<StartDate>02/27/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Foreman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME>III</PI_SUFX_NAME>
+<PI_FULL_NAME>Richard Foreman</PI_FULL_NAME>
+<EmailAddress><![CDATA[richard.foreman@asurams.edu]]></EmailAddress>
+<NSF_ID>000124795</NSF_ID>
+<StartDate>02/27/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tanya</FirstName>
+<LastName>O'Keefe</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tanya C O'Keefe</PI_FULL_NAME>
+<EmailAddress><![CDATA[tanya.okeefe@darton.edu]]></EmailAddress>
+<NSF_ID>000359836</NSF_ID>
+<StartDate>02/27/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>May</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael T May</PI_FULL_NAME>
+<EmailAddress><![CDATA[michael.may@darton.edu]]></EmailAddress>
+<NSF_ID>000510825</NSF_ID>
+<StartDate>02/27/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Darton College</Name>
+<CityName>Albany</CityName>
+<ZipCode>317073023</ZipCode>
+<PhoneNumber>2293176489</PhoneNumber>
+<StreetAddress>2400 Gillionville Road</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Darton College]]></Name>
+<CityName>Albany</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>317073023</ZipCode>
+<StreetAddress><![CDATA[2400 Gillionville Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EHR, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~595676</FUND_OBLG>
+</Award>
+</rootTag>

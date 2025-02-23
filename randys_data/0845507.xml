@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER:   Molecular mechanism of Indole-3-butyric acid action in Arabidopsis</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>575000.00</AwardTotalIntnAmount>
+<AwardAmount>575000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090100</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ben Holt</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>"This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5)."&lt;br/&gt;&lt;br/&gt;Auxins are plant hormones that play important roles in growth, development, and responses to environmental cues, especially in roots. Indole-3-acetic acid (IAA) is the principal form of the hormone. Indole-3-butyric acid (IBA) is a naturally-occurring compound that is converted to IAA in plant cells, providing a source of IAA when and where the active hormone is required.  IBA is used widely in horticulture to initiate rooting in cuttings in a variety of plant species.  However, how IBA is converted to IAA is not known.  The research activities presented here use biochemical and genetic approaches to determine the mechanism of the IBA-to-IAA conversion and identify the specific roles(s) of IBA in plant growth and development. Identification of the enzymes that catalyze these reactions and the impact of IBA activity will further our understanding of auxin metabolism. These specific aims will be first steps towards the long-term goal of understanding the importance of, purpose for, and interactions between different IAA-metabolic pathways; application of this knowledge will allow manipulation of these pathways to increase rooting and enhance plant growth.  The education section of this project includes creation of an inquiry-based plant molecular biology lab, designed to increase opportunities for undergraduate research. The primary objective of this course is to increase student understanding of the scientific process by generating a hands-on project that will engage and enlighten students. Research aims from the proposal will be directly integrated into the course, providing students an exposure to real-world science while advancing the understanding of IBA metabolism. Undergraduate participants will present their work at local high schools, thereby exposing the next generation of students to scientific research and future opportunities.</AbstractNarration>
+<MinAmdLetterDate>05/26/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/14/2014</MaxAmdLetterDate>
+<ARRAAmount>575000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0845507</AwardID>
+<Investigator>
+<FirstName>Bethany</FirstName>
+<LastName>Zolman</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bethany K Zolman</PI_FULL_NAME>
+<EmailAddress>zolmanb@umsl.edu</EmailAddress>
+<PI_PHON>3145166205</PI_PHON>
+<NSF_ID>000069348</NSF_ID>
+<StartDate>05/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Missouri-Saint Louis</Name>
+<CityName>SAINT LOUIS</CityName>
+<ZipCode>631214400</ZipCode>
+<PhoneNumber>3145165897</PhoneNumber>
+<StreetAddress>ONE UNIVERSITY BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GWCTP4CQ1E65</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MISSOURI SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>LBFJB8N7LME3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Missouri-Saint Louis]]></Name>
+<CityName>SAINT LOUIS</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>631214400</ZipCode>
+<StreetAddress><![CDATA[ONE UNIVERSITY BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1118</Code>
+<Text>PLANT FUNGAL &amp; MICROB DEV MECH</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1187</Code>
+<Text>PECASE- eligible</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~575000</FUND_OBLG>
+</Award>
+</rootTag>

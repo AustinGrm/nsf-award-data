@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[International Research Experience for Students (IRES)  in Experimental Nuclear Physics in Germany at MAMI and Sweden at MAX-lab]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maija Kukla</SignBlockName>
+<PO_EMAI>mkukla@nsf.gov</PO_EMAI>
+<PO_PHON>7032924940</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;This IRES award provides students associated with George Washington University, Montgomery College in Maryland, and the University of Massachusetts at Dartmouth with the opportunity to participate in an international collaboration in experimental nuclear physics through spending 8 weeks at the Mainzer Mikrotron (MAMI) at the Johannes Gutenberg Universität in Mainz, Germany and/or the MAX-lab research facility at the Lund University in Lund, Sweden. This project provides support for 4 to 6 undergraduate students and up to 2 beginning graduate students each year for three years. The PI, co-PIs, and Senior Investigators will reside in Lund and Mainz while the U.S. students are present to supervise, mentor, and to monitor their progress.&lt;br/&gt;&lt;br/&gt;The student researchers are involved with all aspects of the experiments being performed at the two laboratories. These experiments are designed to investigate the dynamics responsible for the internal structure of the nucleon and its excitations through the study of meson photoproduction off the proton and neutron. The high-quality research program being carried out at both MAMI and MAX-lab will enhance the current studies of the quark structure of baryons and mesons. These measurements make use of the Crystal Ball and TAPS detectors at MAMI, and the xSAL, CATS, DIANA, and BUNI detectors at MAX-lab. These experiments are being performed by the A2 Collaboration at MAMI and&lt;br/&gt;the PIONS@MAXLAB Collaboration at MAX-lab. The members of these international collaborations have volunteered to contribute to the training and mentoring of our students.&lt;br/&gt;&lt;br/&gt;This program provides a group of students with international research experiences that prepares them to operate successfully in a global environment. The connections created by their visits and efforts will support lasting international connections. The PI and co-PIs have shown continual success and dedication in mentoring women students, a group under-represented in experimental nuclear physics, and they are committed to involving women students and other under-represented student groups in this project's research efforts.&lt;br/&gt;&lt;br/&gt;This award is jointly supported by the Office of International Science and Engineering and the Division of Physics.]]></AbstractNarration>
+<MinAmdLetterDate>05/28/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>05/28/2009</MaxAmdLetterDate>
+<ARRAAmount>150000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0853760</AwardID>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Briscoe</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>William J Briscoe</PI_FULL_NAME>
+<EmailAddress><![CDATA[briscoe@gwu.edu]]></EmailAddress>
+<NSF_ID>000186345</NSF_ID>
+<StartDate>05/28/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Grant</FirstName>
+<LastName>O'Rielly</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Grant O'Rielly</PI_FULL_NAME>
+<EmailAddress><![CDATA[grant.orielly@umassd.edu]]></EmailAddress>
+<NSF_ID>000244980</NSF_ID>
+<StartDate>05/28/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>George Washington University</Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>200520042</ZipCode>
+<PhoneNumber>2029940728</PhoneNumber>
+<StreetAddress>1918 F ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ECR5E2LU5BL6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGE WASHINGTON UNIVERSITY (THE)</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[George Washington University]]></Name>
+<CityName>WASHINGTON</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>200520042</ZipCode>
+<StreetAddress><![CDATA[1918 F ST NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7727</Code>
+<Text>IRES Track I: IRES Sites (IS)</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9134</Code>
+<Text>Integrative Activities in Phys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5936</Code>
+<Text>GERMANY (F.R.G.)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5937</Code>
+<Text>SWEDEN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5979</Code>
+<Text>Europe and Eurasia</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7639</Code>
+<Text>IRES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7715</Code>
+<Text>BROADENING PARTICIPATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~150000</FUND_OBLG>
+</Award>
+</rootTag>

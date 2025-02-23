@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MOD: A Political-Economic Model of Opposition/Support for Science and Innovation Policies</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>57605.00</AwardTotalIntnAmount>
+<AwardAmount>57605</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04000000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Julia I. Lane</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This project addresses an important gap in the science of science and innovation policy scholarship by explaining why well-designed science and innovation policies are sometimes blocked, distorted, or improperly executed. It develops a model of how domestic political variables affect the design, passage, and implementation of science and innovation policy (SIP). The key distinction in this project is that most innovation research takes support for science and technology as given, and then asks which policies can best achieve the nation?s science and technology goals. In contrast, this research project problematizes support for science and technology. That is, it acknowledges that technological change creates political and economic winners and losers within society. It then attempts to model the behavior of these winning and losing interest-groups in regards to SIP. History shows that the losers will fight to obstruct, co-opt, or alter otherwise "good" policies that promote science and innovation. Thus, understanding how and why these fights evolve is essential for understanding why some countries are better at science and technological change than others. Put differently, what this research contributes, that previous work has not, is a better understanding of how and why political resistance to technological change arises, and the conditions under which it can affect SIP and SIP outcomes.&lt;br/&gt;&lt;br/&gt;Political-economic models, such as the one developed in this project, have been successfully used to explain policy development in other important subfields such as free trade, international finance, and economic development. This project probes the feasibility of applying these modeling approaches to better explain SIP outcomes. Certainly case studies of individual instances of successful or failed innovation policy have been performed, but a more general political-economic model (such as the one designed in this project) has yet to be presented. This research project therefore opens up a new avenue of SciSIP research, one with substantial complementarities with existing lines of SciSIP scholarship. Specifically, it investigates the effects on SIP of: political battles between different interest-groups, different political institutions (legislatures, executives, bureaucracies), and their different policy priorities under changing national economic and security conditions.&lt;br/&gt;&lt;br/&gt;Broader impacts: This research helps to explain why otherwise "good" policies and institutions fail to deliver scientific and technological progress. It therefore informs the innovation debates taking place within a variety of disciplines (economics, political science, business, industry studies), each of which tends to omit analysis of the politics behind innovation policies and institutions (or at least lacks a general model of these politics). A successful model also informs the policy process. It identifies the conditions under which certain policy designs might be more or less likely to be passed and properly implemented by government. This can aid strategies for achieving more widespread political support for SIPs and their implementation, and thereby help policymakers deliver more effective SIPs. The products of this research are being disseminated online, at academic and policy research conferences, in graduate and undergraduate level courses, and in peer-reviewed journal articles. The project is also being used as an opportunity contribute to research training by involving a graduate student research assistant. Therefore this project impacts research, policymaking, and student communities.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>09/08/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/08/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0829546</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Taylor</LastName>
+<PI_MID_INIT>Z</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark Z Taylor</PI_FULL_NAME>
+<EmailAddress>mzak@gatech.edu</EmailAddress>
+<PI_PHON>4043850600</PI_PHON>
+<NSF_ID>000501219</NSF_ID>
+<StartDate>09/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 NORTH AVE NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7626</Code>
+<Text>SciSIP-Sci of Sci Innov Policy</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~57605</FUND_OBLG>
+</Award>
+</rootTag>

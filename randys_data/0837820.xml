@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Improving Student Understanding of Geological Rates via Chronotopographic Analysis of Active Landscapes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>204469</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Lea</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Geology (42)  This project investigates the value of incorporating chronotopographic analysis across a range of undergraduate geology courses using terrestrial laser scanning (TLS) to improve student understanding of the rates and styles of geomorphic processes.  Repeat high-resolution TLS surveys have begun to track, in detail, the evolution of active landscapes, including investigations of active faulting, glaciation, landslides, fluvial systems and coastal dynamics.  This project is investigating the hypothesis that undergraduate geology students who collect and analyze positional data for locally-important, active landscapes develop a better sense of the critical (and non-steady) geomorphic processes affecting landscape change.  A collaborative faculty team from three institutions (regional university, community college, and tribal college) are acquiring and being trained on a TLS system and are collecting baseline scans of actively evolving landscapes identified in cooperation with local land-use agencies.  The team is developing inquiry activities for each site and for classes at each institution, and assessing their impact using rigorous evaluation procedures.  The 2-year college faculty and students are especially interested in monitoring rapid retreat of coastal bluffs near their campus.  The tribal college faculty and students are integrating the TLS monitoring into their BA degree program and into a high school mentoring program with the support of the Lummi Nation School physics teacher.  The university faculty are incorporating the TLS scanning into upper division geomorphology courses.  In small research teams, students are: partnering with a local land-use agency to identify and evaluate an actively evolving landform; defining target zones for TLS surveying; designing and conducting a TLS survey; conducting basic TLS data processing, including deformation analysis with past surveys; quantifying variability in rates and modes of landscape change at several time and length scales; and identifying uncertainties and limits of TLS data, and their value relative to qualitative assessments (e.g., geomorphic mapping, repeat photography, etc.).  Pre- and post-instruction data on student understanding of geological rates are being collected. Questionnaires and interviews are designed to measure preconceptions and then evaluate change after students complete the chronotopographic activities. The results of this project are being disseminated through the "On the Cutting Edge Teaching Geomorphology" web site (cross-referenced with NSDL), and the processed chronotopographic sequences are being posted on the WWU Landscape Observatory web site.  The results of this project benefit research universities that may already have a TLS system, and regional and liberal arts institutions, which may be evaluating the value of incorporating this 'revolutionary' technology into their undergraduate curricula.]]></AbstractNarration>
+<MinAmdLetterDate>09/05/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/07/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0837820</AwardID>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Linneman</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Scott R Linneman</PI_FULL_NAME>
+<EmailAddress><![CDATA[scott.linneman@wwu.edu]]></EmailAddress>
+<NSF_ID>000306697</NSF_ID>
+<StartDate>09/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Douglas</FirstName>
+<LastName>Clark</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Douglas H Clark</PI_FULL_NAME>
+<EmailAddress><![CDATA[Doug.Clark@wwu.edu]]></EmailAddress>
+<NSF_ID>000457532</NSF_ID>
+<StartDate>09/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Western Washington University</Name>
+<CityName>BELLINGHAM</CityName>
+<ZipCode>982255946</ZipCode>
+<PhoneNumber>3606502884</PhoneNumber>
+<StreetAddress>516 HIGH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3ZFA57417D4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WESTERN WASHINGTON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3ZFA57417D4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Western Washington University]]></Name>
+<CityName>BELLINGHAM</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>982255946</ZipCode>
+<StreetAddress><![CDATA[516 HIGH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0409</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>04000910DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>1300CYXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~194469</FUND_OBLG>
+<FUND_OBLG>2009~10000</FUND_OBLG>
+</Award>
+</rootTag>

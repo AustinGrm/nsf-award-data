@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Embodied Interaction Paradigm for Users with Severe Visual Impairments]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>96393.00</AwardTotalIntnAmount>
+<AwardAmount>96393</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ephraim Glinert</SignBlockName>
+<PO_EMAI>eglinert@nsf.gov</PO_EMAI>
+<PO_PHON>7032924341</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The purpose of this exploratory project is to test a proof-of-concept that reflects an emerging and potentially transformative mobile system to enhance recognition and way-finding function for users with severe visual impairments. The PI's Near and Far Environmental Awareness System (NaFEAS) will run on a mobile phone platform in concert with RFID tags and sensors which serve as inputs and outputs to a knowledge database that can be updated by the user.  NaFEAS will recognize tagged objects and provide audio and other feedback to users within a designated envelope around the sagittal and coronal body planes.  In addition, NaFEAS will facilitate way-finding using tagged objects in the near and far environments.  The focus here is on the development of a low-fidelity prototype using participatory design; the theoretical basis is embodied cognition, which emphasizes the full use of senses, gestures, and space to understand objects and the environment.  The PI will take special pains to minimize the cognitive biases occurring when sighted designers or researchers retrofit visually-dominant interaction patterns to develop accessible devices.  The prototype will be evaluated by target group members using an experimental design with self-report, behavioral, and physiological variables.  &lt;br/&gt;&lt;br/&gt;Broader Impacts:  Besides resulting in a prototype product that will be of great value to the target population, the findings from the experiments will advance our knowledge of how individuals with severe visual impairments successfully interact with next generation systems, including mobile, wearable, and ubiquitous systems.  This knowledge will be generalizable to technologies beyond the test bed the PI will be using.]]></AbstractNarration>
+<MinAmdLetterDate>08/27/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/27/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0844232</AwardID>
+<Investigator>
+<FirstName>Tonya</FirstName>
+<LastName>Smith-Jackson</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tonya L Smith-Jackson</PI_FULL_NAME>
+<EmailAddress><![CDATA[tlsmithj@ncat.edu]]></EmailAddress>
+<NSF_ID>000252373</NSF_ID>
+<StartDate>08/27/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Francis</FirstName>
+<LastName>Quek</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Francis Quek</PI_FULL_NAME>
+<EmailAddress><![CDATA[quek@tamu.edu]]></EmailAddress>
+<NSF_ID>000324474</NSF_ID>
+<StartDate>08/27/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240603359</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>300 TURNER ST NW</StreetAddress>
+<StreetAddress2><![CDATA[STE 4200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QDE5UHE5XD16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIRGINIA POLYTECHNIC INSTITUTE &amp; STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M515A1DKXAN8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Virginia Polytechnic Institute and State University]]></Name>
+<CityName>BLACKSBURG</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>240603359</ZipCode>
+<StreetAddress><![CDATA[300 TURNER ST NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7367</Code>
+<Text>HCC-Human-Centered Computing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9215</Code>
+<Text>HIGH PERFORMANCE COMPUTING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9237</Code>
+<Text>SMALL GRANTS-EXPLORATORY RSRCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~96393</FUND_OBLG>
+</Award>
+</rootTag>

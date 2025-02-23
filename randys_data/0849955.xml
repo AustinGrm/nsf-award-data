@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SCORE:  Scientific Computing and Operations Research Education]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2016</AwardExpirationDate>
+<AwardTotalIntnAmount>600000.00</AwardTotalIntnAmount>
+<AwardAmount>600000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John Krupczak</SignBlockName>
+<PO_EMAI>jkrupcza@nsf.gov</PO_EMAI>
+<PO_PHON>7032928670</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project is awarding scholarships to academically talented and financially needy students and is supporting the scholars through a variety of structures and programs. Students from underrepresented groups are being especially targeted for support and student scholars are enrolled in a Master's program in either computer science or computational mathematical modeling. The scholarship program builds on a successful CSEMS program on campus, but focuses only on graduate students in the targeted academic programs. Students are participating in research projects, with direct supervision from faculty, and are being strongly encouraged to pursue a PhD upon completion of their Master's degree. The results from the project are being rigorously evaluated through both qualitative and quantitative measures.]]></AbstractNarration>
+<MinAmdLetterDate>03/26/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/26/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0849955</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Noonan</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert E Noonan</PI_FULL_NAME>
+<EmailAddress><![CDATA[noonan@cs.wm.edu]]></EmailAddress>
+<NSF_ID>000202706</NSF_ID>
+<StartDate>03/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lawrence</FirstName>
+<LastName>Leemis</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lawrence Leemis</PI_FULL_NAME>
+<EmailAddress><![CDATA[leemis@math.wm.edu]]></EmailAddress>
+<NSF_ID>000314134</NSF_ID>
+<StartDate>03/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>College of William and Mary</Name>
+<CityName>WILLIAMSBURG</CityName>
+<ZipCode>231852817</ZipCode>
+<PhoneNumber>7572213965</PhoneNumber>
+<StreetAddress>1314 S MOUNT VERNON AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EVWJPCY6AD97</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>COLLEGE OF WILLIAM AND MARY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[College of William and Mary]]></Name>
+<CityName>WILLIAMSBURG</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>231852817</ZipCode>
+<StreetAddress><![CDATA[1314 S MOUNT VERNON AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~600000</FUND_OBLG>
+</Award>
+</rootTag>

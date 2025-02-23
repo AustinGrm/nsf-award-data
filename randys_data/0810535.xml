@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Low-cost, High-performance Microphones Enabled by MEMS Integration Innovation</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>William Haines</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research Phase I project will lay the foundation for creation of a new microphone with performance characteristic of the highest precision measurement microphones today, but with size and cost approaching those of microphones found in consumer electronics.&lt;br/&gt;&lt;br/&gt;The broader impacts of this project are that by reducing the cost of instrumentation microphones, access to high-quality test and measurement will be more available to schools and educational institutions. Beyond instrumentation applications, having a high performance, low-cost, small-sized microphone can have a strong impact on other consumer markets isuch as the hearing aid market.</AbstractNarration>
+<MinAmdLetterDate>05/01/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>12/23/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0810535</AwardID>
+<Investigator>
+<FirstName>Neal</FirstName>
+<LastName>Hall</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Neal A Hall</PI_FULL_NAME>
+<EmailAddress>neal@siaudiolabs.com</EmailAddress>
+<PI_PHON>5053069296</PI_PHON>
+<NSF_ID>000084127</NSF_ID>
+<StartDate>05/01/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Silicon Audio, LLC</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787025530</ZipCode>
+<PhoneNumber>5127737684</PhoneNumber>
+<StreetAddress>2113 RIVERVIEW ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>35</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX35</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MKLVPC4X92U7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SILICON AUDIO, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Silicon Audio, LLC]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787025530</ZipCode>
+<StreetAddress><![CDATA[2113 RIVERVIEW ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>35</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX35</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; DEVICE TEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9139</Code>
+<Text>INFORMATION INFRASTRUCTURE &amp; TECH APPL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~100000</FUND_OBLG>
+</Award>
+</rootTag>

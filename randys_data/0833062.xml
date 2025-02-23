@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research:   Actively Managing Data Movement with Models - Taming High Performance Data Communications in Exascale Machines]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>361800</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Almadena Chtchelkanova</SignBlockName>
+<PO_EMAI>achtchel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927498</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Large scientific applications have complex communication needs, including intra-machine point-to-point and global communications, cross-machine checkpointing, and data outputs for online validation and remote data display.  Coupled scientific models for multidisciplinary investigations further add to this complexity. This multi-purpose, rich, and dynamic nature of data communications in future exascale codes presents the first challenge addressed by this research.&lt;br/&gt;Further, given the many-core nature of future computer chips and the likely presence of specialized hardware accelerator cores, application-level communications and I/O face an increasingly complex set of on-chip, cross-node, and cross-machine interconnects.  The complex nature of the physical communication infrastructures present in future exascale machines is the second challenge addressed by this research.  In summary, the problem facing developers of future exascale applications for scientific discovery is how to effectively manage the complexity of their communication needs while protecting their most critical `core' communications from perturbation.&lt;br/&gt;&lt;br/&gt;This project will develop higher level, explicit models for the data communications performed in future exascale codes. These models, called C-Models, will describe and implement the communications performed for I/O for purposes of online analysis, storage, and visualization, and for data movements across coupled application codes, and will also capture the interaction of the data movements implied by all of the above with the internal data communications inherent to each single application.  This abstraction and encapsulation of communication complexity is key to taming the complexity of future exascale applications. The C-Model infrastructure will also help protect the critical core communication component of these applications from perturbation, helping to maximize the performance of these applications on leadership-class machines.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/31/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/02/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0833062</AwardID>
+<Investigator>
+<FirstName>Greg</FirstName>
+<LastName>Eisenhauer</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Greg S Eisenhauer</PI_FULL_NAME>
+<EmailAddress><![CDATA[eisen@cc.gatech.edu]]></EmailAddress>
+<NSF_ID>000313459</NSF_ID>
+<StartDate>07/31/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Wolf</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthew Wolf</PI_FULL_NAME>
+<EmailAddress><![CDATA[mwolf@cc.gatech.edu]]></EmailAddress>
+<NSF_ID>000272499</NSF_ID>
+<StartDate>07/31/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ada</FirstName>
+<LastName>Gavrilovska</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ada Gavrilovska</PI_FULL_NAME>
+<EmailAddress><![CDATA[ada@cc.gatech.edu]]></EmailAddress>
+<NSF_ID>000494213</NSF_ID>
+<StartDate>07/31/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Karsten</FirstName>
+<LastName>Schwan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Karsten Schwan</PI_FULL_NAME>
+<EmailAddress><![CDATA[schwan@cc.gatech.edu]]></EmailAddress>
+<NSF_ID>000216799</NSF_ID>
+<StartDate>07/31/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>ATLANTA</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320001</ZipCode>
+<StreetAddress><![CDATA[225 NORTH AVE NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7583</Code>
+<Text>ITR-HECURA</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7798</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~345800</FUND_OBLG>
+<FUND_OBLG>2009~16000</FUND_OBLG>
+</Award>
+</rootTag>

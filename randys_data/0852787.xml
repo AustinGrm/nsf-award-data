@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[IDBR - An Auto-sampler for Aquatic Microbial Sampling and Archiving]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>222265.00</AwardTotalIntnAmount>
+<AwardAmount>222265</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080200</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cort L. Anderson</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[&lt;br/&gt;The future of aquatic sciences will be grounded in the use of autonomous platforms and sensor networks to accumulate observations in real-time or near real-time. Although platforms capable of making rapid physical and chemical measurements are robust and commercially available, the design, fabrication, and deployment of autonomous sensors capable of making even modest biological measurements are in their infancy. While a number of biological sensors based on molecular analysis have been field deployed, these systems are inherently complex and have high production and running costs, and are limited in the number of assays they can perform. Additionally, these systems have  complex operational procedures for system set up, deployment, and retrieval, and as such there is a low likelihood that in their current stage of development they will be broadly adopted. To address these existing limitations, a small autonomous in situ sampling and archival device is being developed. The Sample Filtration and Archiving (SaFA) system can be deployed in the aquatic environment where it will automatically collect and filter between 20-30 user defined time-stamped water samples of between 200-500 ml. Preservation of the genetic material in the captured biological material is performed by the subsequent addition of a stabilization buffer, making it available for downstream &lt;br/&gt;interrogation in the laboratory using a range of molecular biological techniques upon retrieval. The SaFA instrument will therefore enable autonomous sample collection and archiving at high temporal resolution, for subsequent laboratory analysis. The SaFA will also allow increased sampling regimes to be performed in situ without the need for personnel to be deployed in the field, particularly during dangerous or inconvenient sampling periods, thereby increasing the resolution and scope of current microbial ecology studies. This multidisciplinary project will assist in the training and support of a &lt;br/&gt;masters student at UPRM. The project will also support 2 summer engineering undergraduate students who will develop the electrical subsystems and package the instrument. We will also develop K-12 external outreach programs in both Puerto Rico and Wisconsin that address molecular biology and in situ instrumentation applications. Following utility studies by the PIs, microbial ecologists affiliated of the Global Lake Ecological Observatory Network (GLEON) initiative, will have access to the prototype versions of the SaFA for evaluation purposes. To enable broad integration into the aquatic sciences the instrument will be ?open source? as all information relating to the construction and operation of the SaFA system will be download-able via a web site. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>04/15/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>04/15/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0852787</AwardID>
+<Investigator>
+<FirstName>Katherine</FirstName>
+<LastName>McMahon</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Katherine D McMahon</PI_FULL_NAME>
+<EmailAddress><![CDATA[tmcmahon@engr.wisc.edu]]></EmailAddress>
+<NSF_ID>000290702</NSF_ID>
+<StartDate>04/15/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Wilford</FirstName>
+<LastName>Schmidt</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wilford E Schmidt</PI_FULL_NAME>
+<EmailAddress><![CDATA[wilford.schmidt@upr.edu]]></EmailAddress>
+<NSF_ID>000370680</NSF_ID>
+<StartDate>04/15/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Smith</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME>Dr.</PI_SUFX_NAME>
+<PI_FULL_NAME>Matthew C Smith</PI_FULL_NAME>
+<EmailAddress><![CDATA[smith926@uwm.edu]]></EmailAddress>
+<NSF_ID>000511296</NSF_ID>
+<StartDate>04/15/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Pedro</FirstName>
+<LastName>Quintero</LastName>
+<PI_MID_INIT>O</PI_MID_INIT>
+<PI_SUFX_NAME>Dr.</PI_SUFX_NAME>
+<PI_FULL_NAME>Pedro O Quintero</PI_FULL_NAME>
+<EmailAddress><![CDATA[pedro.quintero@upr.edu]]></EmailAddress>
+<NSF_ID>000511330</NSF_ID>
+<StartDate>04/15/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Puerto Rico Mayaguez</Name>
+<CityName>MAYAGUEZ</CityName>
+<ZipCode>006806475</ZipCode>
+<PhoneNumber>7878312065</PhoneNumber>
+<StreetAddress>259 BLVD ALFONSO VALDES</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Puerto Rico</StateName>
+<StateCode>PR</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PR00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GZRNJ1GZDBM1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF PUERTO RICO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>RD8QJEHNYLJ7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Puerto Rico Mayaguez]]></Name>
+<CityName>MAYAGUEZ</CityName>
+<StateCode>PR</StateCode>
+<ZipCode>006806475</ZipCode>
+<StreetAddress><![CDATA[259 BLVD ALFONSO VALDES]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Puerto Rico</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PR00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1108</Code>
+<Text>INSTRUMENTAT &amp; INSTRUMENT DEVP</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9184</Code>
+<Text>BIOTECHNOLOGY - INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~128236</FUND_OBLG>
+</Award>
+</rootTag>

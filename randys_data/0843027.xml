@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Analysis of Causal Cognition in Rats</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>574703.00</AwardTotalIntnAmount>
+<AwardAmount>574703</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Betty Tuller</SignBlockName>
+<PO_EMAI>btuller@nsf.gov</PO_EMAI>
+<PO_PHON>7032927238</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Like humans, rats make rational causal inferences from their interactions with the world. The goal of the current project is to understand the cognitive and neural mechanisms of causal cognition in humans by studying these processes in rats. The theoretical frameworks used (causal model theory and causal Bayes nets) are parallel to those developed to account for rational causal cognition in humans and the development of these processes in children. Major questions include: Do rats engage in rational reasoning processes about cause-effect relationships? How do rats reason about absent events, such as hidden causes? What is the role of goal-directed action in the ability to draw rational inferences? Answers to these questions can extend our knowledge of the distribution of causal cognition among mammals and can lead to new insights into the cognition and neuroscience of self identity, freedom of choice and action, event cognition, and a theory of agency, all of which play a central role in how individuals reason. &lt;br/&gt;&lt;br/&gt;The principal investigators also serve as faculty mentors in three programs for high-school students from diverse backgrounds in the greater Los Angeles area, providing the students with university research apprenticeships.</AbstractNarration>
+<MinAmdLetterDate>05/20/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0843027</AwardID>
+<Investigator>
+<FirstName>Aaron</FirstName>
+<LastName>Blaisdell</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Aaron Blaisdell</PI_FULL_NAME>
+<EmailAddress>blaisdell@psych.ucla.edu</EmailAddress>
+<NSF_ID>000123998</NSF_ID>
+<StartDate>05/20/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Los Angeles</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900951406</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress>10889 Wilshire Boulevard</StreetAddress>
+<StreetAddress2><![CDATA[Suite 700]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>33</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA33</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>092530369</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, LOS ANGELES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>071549000</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Los Angeles]]></Name>
+<CityName>LOS ANGELES</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900951406</ZipCode>
+<StreetAddress><![CDATA[10889 Wilshire Boulevard]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>33</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA33</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7252</Code>
+<Text>Perception, Action &amp; Cognition</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2009~574703</FUND_OBLG>
+</Award>
+</rootTag>

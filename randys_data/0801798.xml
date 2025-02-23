@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Development of Environmentally-Friendly Paper-Based Technology Platforms for RFID's and Sensors with</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>329714.00</AwardTotalIntnAmount>
+<AwardAmount>368447</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>GEORGE HADDAD</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Objective &lt;br/&gt;The objective of this effort is to demonstrate the utilization of common-paper substrates for inkjet-printed increased-functionality cognitive and autonomous inexpensive radio frequency tags and wireless nodes.  The approach will use a characterization of paper-based materials and different inkjet-metallization schemes to help integrate components (antennas, transmission lines, matching networks, batteries and energy scavengers), with for compatibility of IC-interconnects with paper. &lt;br/&gt;           &lt;br/&gt;Intellectual Merit &lt;br/&gt;The intellectual merit of this proposal is the development of the first paper-based inkjet-printed technology platform to integrate RF, antenna, material and battery technologies and develop the first-generation of enhanced-range communication/sensor nodes able to operate in various environments.  The scavenging-antenna approach will facilitate the research in autonomous rugged wireless modules and will allow for the first true mapping of potentially harvested energy in commercial bands. &lt;br/&gt;&lt;br/&gt;Broader Impact&lt;br/&gt;           The broader impact of this effort would lead to the reconfigurable autonomous sensor networks of the future, addressing various societal challenges (chemical/explosive-detection, crack/stress detection, secure emergency communications, smart logistics, surveillance sensors, biomonitoring).  In addition, this effort could revolutionize high-frequency electronics? education offering the opportunity to students to inkjet-print electronic prototypes in minutes with near-to-zero cost without the need of expensive and time-consuming masks introducing them for the first time to the principles of environmentally-friendly electronics.  A new senior-level course is planned, along with a dissemination effort in major conferences and through a new textbook in the proposed area.  The project is expected to involve a number of minority students.</AbstractNarration>
+<MinAmdLetterDate>05/30/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/31/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0801798</AwardID>
+<Investigator>
+<FirstName>Emmanouil</FirstName>
+<LastName>Tentzeris</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Emmanouil Tentzeris</PI_FULL_NAME>
+<EmailAddress>etentze@ece.gatech.edu</EmailAddress>
+<PI_PHON>4043856006</PI_PHON>
+<NSF_ID>000319614</NSF_ID>
+<StartDate>05/30/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joy</FirstName>
+<LastName>Laskar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joy Laskar</PI_FULL_NAME>
+<EmailAddress>joy.laskar@ece.gatech.edu</EmailAddress>
+<PI_PHON>4048945268</PI_PHON>
+<NSF_ID>000256950</NSF_ID>
+<StartDate>05/30/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 NORTH AVE NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0510403</Code>
+<Name>Engineering &amp; Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7564</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>099E</Code>
+<Text>High voltage switching &amp; conversion</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~329714</FUND_OBLG>
+<FUND_OBLG>2009~38733</FUND_OBLG>
+</Award>
+</rootTag>

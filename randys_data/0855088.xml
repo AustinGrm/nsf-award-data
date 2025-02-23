@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Quantum Field Theory Under the Influence of External Conditions; Norman, OK]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>2500.00</AwardTotalIntnAmount>
+<AwardAmount>2500</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Keith Dienes</SignBlockName>
+<PO_EMAI>kdienes@nsf.gov</PO_EMAI>
+<PO_PHON>7032925314</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award provides funds to help defray the expenses of students and young scientists in order to enable them to attend the Ninth Workshop on Quantum Field Theory Under the Influence of External Conditions (QFEXT09)  which will be held at the University of Oklahoma in September 2009. The conference commemorates the birth of H. B. G. Casimir in 1909.  Topics to be addressed in this workshop include  Casimir and van der Waals forces: progress in theory and new experiments, applications at micro- and nanoscale; Casimir effect: exact and approximate methods, related mathematical problems; vacuum quantum effects in classical background fields: renormalization, singular backgrounds, applications to particle and high energy physics; vacuum energy and gravity: renormalization of Einstein's equations with singular source functions, vacuum energy in supersymmetric and noncommutative theories. This meeting  is the leading forum for the discussion of quantum vacuum phenomena, with participation by most of the leading workers in the field.  The broader impacts are that the funding will be used to support the  travel of invited junior US participants (graduate students and postdocs) in  the workshop who otherwise would be unable to attend. Publication of the results of the workshop will ensure the dissemination of new findings. Informal collaborations fostered by this meeting, as in previous meetings, will have profound impacts on future research in this area. There will be equal numbers of US and foreign students and postdocs which will provide great chances for international interchanges and collaborations.]]></AbstractNarration>
+<MinAmdLetterDate>09/13/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>09/13/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855088</AwardID>
+<Investigator>
+<FirstName>Kimball</FirstName>
+<LastName>Milton</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kimball A Milton</PI_FULL_NAME>
+<EmailAddress><![CDATA[milton@nhn.ou.edu]]></EmailAddress>
+<NSF_ID>000433161</NSF_ID>
+<StartDate>09/13/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Oklahoma Norman Campus</Name>
+<CityName>NORMAN</CityName>
+<ZipCode>730193003</ZipCode>
+<PhoneNumber>4053254757</PhoneNumber>
+<StreetAddress>660 PARRINGTON OVAL RM 301</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<StateCode>OK</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OK04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EVTSTTLCEWS5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF OKLAHOMA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Oklahoma Norman Campus]]></Name>
+<CityName>NORMAN</CityName>
+<StateCode>OK</StateCode>
+<ZipCode>730193003</ZipCode>
+<StreetAddress><![CDATA[660 PARRINGTON OVAL RM 301]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OK04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1288</Code>
+<Text>Particle Astrophysics &amp; Cosmol</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~2500</FUND_OBLG>
+</Award>
+</rootTag>

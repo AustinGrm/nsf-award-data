@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SGER:  Aluminum Nitride Piezoelectric NanoElectroMechanical Resonators: Feasibility Study for 10GHz RF Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>75679.00</AwardTotalIntnAmount>
+<AwardAmount>75679</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Usha Varshney</SignBlockName>
+<PO_EMAI>uvarshne@nsf.gov</PO_EMAI>
+<PO_PHON>7032925385</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[&lt;br/&gt;Gianluca Piazza &lt;br/&gt;The objective of this SGER proposal is  to demonstrate for the first time NanoElectroMechanical (NEM) resonators based on nanoscale (100-500nm) piezoelectric aluminum nitride films operating at a frequency range (10GHz) in which no high Q mechanical element has ever been demonstrated before. Research will focus on optimizing the sputtering deposition process for AlN by controlling power, pressure and temperature.  Electronic and mechanical properties of metal films will be studied at the nanoscale in order to yield highly oriented, pin-hole free and low resistivity nanoelectrodes. COMSOL finite element software will be employed for the design of nanoscale resonators and identify the fundamental geometrical parameters available to fabricate spurious free and low impedance devices.&lt;br/&gt;&lt;br/&gt;Intellectual Merit:&lt;br/&gt;By promoting scientific research in nanopiezoelectrics and focusing on NEM system reliability, this work will stimulate the use of NEM piezoelectric devices for a very broad range of applications.  The outcome of this research will provide significant performance improvements in RF wireless communications, chemical sensing, imaging, force sensing, and computing.  The research will tackle a fundamental problem in nanotechnology related to the need of transducers capable of providing a direct and on-chip link between the nano and the macro world.  Also, the introduction of nanoscale piezoelectric resonators will have a direct impact in several areas such as microwave communications, computing and sensing. The high frequency of operation will increase the sensitivity of any resonant sensor by more than 3 orders of magnitude. At the same time lower actuation voltages (5-10x) and power consumption (10-100x) will be achieved as smaller electric fields are required to excite the piezoelectric effect at the nanoscale.&lt;br/&gt;&lt;br/&gt;Broader Impact:&lt;br/&gt;The PI plans to include the results of this research in his lectures of ESE/MEAM 529: ?RF MEMS/NEMS?. This course is taught in three different engineering departments. The PI will engage with high school students, undergraduates, high school teachers and the general public during the NanoDay at Penn and by offering lectures on nanotechnologies at a local high school (Mariana Bracetti Academy). The PI also plans to involve 1 undergraduate student in this project during the summer months. The mechanisms for this involvement will leverage the UPenn?s SUNFEST program.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>04/10/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/10/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0822968</AwardID>
+<Investigator>
+<FirstName>Gianluca</FirstName>
+<LastName>Piazza</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gianluca Piazza</PI_FULL_NAME>
+<EmailAddress><![CDATA[piazza@ece.cmu.edu]]></EmailAddress>
+<NSF_ID>000491421</NSF_ID>
+<StartDate>04/10/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Pennsylvania</Name>
+<CityName>PHILADELPHIA</CityName>
+<ZipCode>191046205</ZipCode>
+<PhoneNumber>2158987293</PhoneNumber>
+<StreetAddress>3451 WALNUT ST STE 440A</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GM1XX56LEP58</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>GM1XX56LEP58</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Pennsylvania]]></Name>
+<CityName>PHILADELPHIA</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>191046205</ZipCode>
+<StreetAddress><![CDATA[3451 WALNUT ST STE 440A]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0206000</Code>
+<Name>Telecommunications</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1517</Code>
+<Text>EPMD-ElectrnPhoton&amp;MagnDevices</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>097E</Code>
+<Text>High Freq Devices &amp; Circuits</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9237</Code>
+<Text>SMALL GRANTS-EXPLORATORY RSRCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~75679</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER:  Designing for Enlightened Trial and Error]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>520000.00</AwardTotalIntnAmount>
+<AwardAmount>520000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ephraim Glinert</SignBlockName>
+<PO_EMAI>eglinert@nsf.gov</PO_EMAI>
+<PO_PHON>7032924341</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[In design, prototyping is the pivotal activity that structures innovation, collaboration, and creativity.  Designers prototype because "enlightened trial and error outperforms the planning of flawless intellects" (David Kelley).  While a few leading-edge endeavors have shown the value of prototyping and learning from alternatives, these design successes have been resource-intensive or in niche contexts.  Attempts to reach a broader audience have stumbled because they were heavyweight, bespoke, or against the grain of important design practices and values.  Consequently, most interfaces today are launched with minimal understanding of alternative design choices and their relative efficacy.  In this project the PI will explore, evaluate, and disseminate the techniques necessary to make enlightened trial and error a cornerstone of user interface design.  To these ends, the project's technical and empirical research comprises three thrusts which will unearth fundamental principles and evaluate them through software tools that leverage web services&lt;br/&gt;&lt;br/&gt;Creating Designs Analogically.  Programming with traditional API documentation as the sole resource has the same difficulty as creating a meal with only a grocery list.  The elements are all there, but none of the context necessary for composing a coherent and complete whole. The PI hypothesizes that tools specifically designed for creation by example modification would look quite different than current tools and yield significantly higher-quality results.  The PI will carry out a systematic exploration of the design space for design-by-example tools to identify major design decisions and tradeoffs, and provide a performance and complexity comparison of important design points.&lt;br/&gt;&lt;br/&gt;Exploring Alternatives Parametrically.  Prototyping's concreteness benefit can also be its Achilles heel when it encourages premature commitment.  To address this, the PI envisions parametric interfaces, a representation with lightweight semantic structure for fast and broad design space exploration.  Design stakeholders and lead users lacking the time or expertise to design interfaces would be able to parameterize and rapidly iterate them, thereby shifting the designers' responsibility from creating a specific artifact to creating a context for participation.  The PI's initial research suggests that parametric tools increase both broad exploration and fine-grained tuning.  An additional benefit is that parametric interfaces would facilitate appropriate adaptation to user abilities and device characteristics.&lt;br/&gt;&lt;br/&gt;Designing Pervasive Interactions.  How can tools enable the rapid exploration and evaluation of new interactions that combine ubiquitous computing and web services?  Such interactions would allow designers to leverage information repositories and data transformation (through web services), while engaging the user in the world instead of in front of the desktop (through ubicomp). While software has almost always been built with the assistance of toolkits and libraries, few software tools have deeply embraced this reality and leveraged it.  The PI plans to create tools for designers to work opportunistically by foraging for and combining pre-existing, high-level blocks of functionality.&lt;br/&gt;&lt;br/&gt;In each of the technical thrusts, the PI will conduct both quantitative and qualitative evaluation comparing the quality of designs produced with and without the technique, as measured by independent raters, and he will also conduct longer-term case studies for a more ecologically valid understanding of their use.  &lt;br/&gt;&lt;br/&gt;Broader Impacts:  Design has emerged as a critical engine of innovation in today's multi-billion-dollar information technology industry.  The software tools resulting from this project will contribute a conceptual understanding of how to most effectively create, manage, and learn from prototypes by leveraging web services, which are widespread yet still evolving. To enable ubiquitous access to enlightened prototyping, all of the software and course materials the PI has created and will create at Stanford are open source and available online.  The PI will also serve as an advisor to the Stanford?s K-12 Learning Lab, which is bringing design thinking into public schools.]]></AbstractNarration>
+<MinAmdLetterDate>06/15/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/13/2013</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0846167</AwardID>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Klemmer</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Scott R Klemmer</PI_FULL_NAME>
+<EmailAddress><![CDATA[srk@ucsd.edu]]></EmailAddress>
+<NSF_ID>000208558</NSF_ID>
+<StartDate>06/15/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stanford University</Name>
+<CityName>STANFORD</CityName>
+<ZipCode>943052004</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress>450 JANE STANFORD WAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HJD6G4D6TJY5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE LELAND STANFORD JUNIOR UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Stanford University]]></Name>
+<CityName>STANFORD</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>943052004</ZipCode>
+<StreetAddress><![CDATA[450 JANE STANFORD WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7367</Code>
+<Text>HCC-Human-Centered Computing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1187</Code>
+<Text>PECASE- eligible</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9215</Code>
+<Text>HIGH PERFORMANCE COMPUTING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0110</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0111</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0112</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0113</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001011DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001112DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001213DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001314DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~98098</FUND_OBLG>
+<FUND_OBLG>2010~100943</FUND_OBLG>
+<FUND_OBLG>2011~103897</FUND_OBLG>
+<FUND_OBLG>2012~21760</FUND_OBLG>
+<FUND_OBLG>2013~0</FUND_OBLG>
+</Award>
+</rootTag>

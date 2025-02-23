@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CSR-DMSS, SM:   Design and Evaluation of a Scalable Meta-Event Dissemination System]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>420000.00</AwardTotalIntnAmount>
+<AwardAmount>432000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marilyn McClure</SignBlockName>
+<PO_EMAI>mmcclure@nsf.gov</PO_EMAI>
+<PO_PHON>7032925197</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[CSR-DMSS, SM: Design and Evaluation of a Scalable Meta-Event&lt;br/&gt;Dissemination System&lt;br/&gt;&lt;br/&gt;Project Abstract:&lt;br/&gt;&lt;br/&gt;Event dissemination systems offer a powerful middleware for&lt;br/&gt;distributed applications such as electronic trading platforms, news&lt;br/&gt;aggregators, and network intrusion detection systems. Such systems are&lt;br/&gt;usually based on the publish-subscribe paradigm: published events are&lt;br/&gt;delivered to clients who have a supplied a matching&lt;br/&gt;subscription. While most current publish-subscribe systems support&lt;br/&gt;subscriptions that evaluate to true/false on a per-event basis,&lt;br/&gt;emerging applications need support for subscriptions to higher level&lt;br/&gt;"meta-events", which correspond to combinations of basic events. The&lt;br/&gt;challenge in tracking such subscriptions is that there is no single&lt;br/&gt;event, when processed in isolation, permits the evaluation of a&lt;br/&gt;subscription to true or false.&lt;br/&gt;&lt;br/&gt;This project designs, implements and evaluates an event dissemination&lt;br/&gt;system that supports tracking of meta-events. The system converts&lt;br/&gt;user-defined subscriptions into "triggers", and efficiently maintains&lt;br/&gt;the state of the triggers using algorithms inspired by the literature&lt;br/&gt;on data stream processing. The system scales with increasing numbers&lt;br/&gt;of subscriptions through merging triggers by identifying commonalities&lt;br/&gt;between them, and through indexing triggers for fast detection of&lt;br/&gt;matching subscriptions for events. The system is evaluated using an&lt;br/&gt;internet-scale testbed, such as Planetlab. Such a meta-event&lt;br/&gt;dissemination system will provide a more expressive interface to the&lt;br/&gt;designer of distributed and web applications, thus transforming the&lt;br/&gt;way in which distributed applications are authored. This is expected&lt;br/&gt;to impact the application of information technology in various fields&lt;br/&gt;such as healthcare, finance, and security. The project enhances&lt;br/&gt;undergraduate and graduate education through strengthening the&lt;br/&gt;freshmen engineering course in Electrical and Computer Engineering and&lt;br/&gt;through developing a strong algorithmic foundation for research&lt;br/&gt;students in networking and distributed computing.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/12/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/18/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0834743</AwardID>
+<Investigator>
+<FirstName>Arun</FirstName>
+<LastName>Somani</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Arun K Somani</PI_FULL_NAME>
+<EmailAddress><![CDATA[arun@iastate.edu]]></EmailAddress>
+<NSF_ID>000429780</NSF_ID>
+<StartDate>08/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Srikanta</FirstName>
+<LastName>Tirthapura</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Srikanta Tirthapura</PI_FULL_NAME>
+<EmailAddress><![CDATA[snt@iastate.edu]]></EmailAddress>
+<NSF_ID>000111060</NSF_ID>
+<StartDate>08/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Iowa State University</Name>
+<CityName>AMES</CityName>
+<ZipCode>500112105</ZipCode>
+<PhoneNumber>5152945225</PhoneNumber>
+<StreetAddress>515 MORRILL RD, 1350 BEARDSHEAR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DQDBM7FGJPC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DQDBM7FGJPC5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Iowa State University]]></Name>
+<CityName>AMES</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>500112105</ZipCode>
+<StreetAddress><![CDATA[515 MORRILL RD, 1350 BEARDSHEAR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7354</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7901</Code>
+<Text>DMSS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~125843</FUND_OBLG>
+<FUND_OBLG>2009~306157</FUND_OBLG>
+</Award>
+</rootTag>

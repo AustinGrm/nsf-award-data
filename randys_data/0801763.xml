@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>GOALI: Monitoring and Reconfiguration for Fault-Tolerance of Embedded Control Software with Automotive Applications</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>360000.00</AwardTotalIntnAmount>
+<AwardAmount>360000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Radhakisan Baheti</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>GOALI: Monitoring and Reconfiguration for Fault-Tolerance of Embedded Software&lt;br/&gt;with Automotive Applications&lt;br/&gt;Ratnesh Kumar (ISU) and Shengbing Jiang (GM R&amp;D)&lt;br/&gt;&lt;br/&gt;Project Summary&lt;br/&gt;&lt;br/&gt;Objectives:&lt;br/&gt;&lt;br/&gt;The objective of the proposed research is to develop an approach for fault detection prediction, isolation and recovery, and is motivated from fault-tolerance of embedded control software in automotive applications. Software is present in virtually all complex systems, including safety-critical systems such as automobiles, aircrafts, nuclear plants, medical devices, etc., and&lt;br/&gt;there are many documented cases of failures of such systems due to software errors. The existing simulation/testing/verification practices cannot guarantee that a deployed software will be errorfree.&lt;br/&gt;(The problem is in general undecidable.) So it is important that measures be built-in for providing tolerance against any software-bugs that can compromise the safety of the users or the surrounding environment. The proposed research is motivated from the safety-critical application of automotive systems, and is proposed in collaboration with General Motors (GM). Modern vehicles&lt;br/&gt;will be equipped with advanced features such as collision avoidance, adaptive cruise control, lane centering/changing, all of which will be implemented in software. New cost-effective approaches are needed for fault tolerance of automotive applications that will ensure safety even in the presence of errors in newly deployed software.&lt;br/&gt;&lt;br/&gt;Intellectual Merits:&lt;br/&gt;&lt;br/&gt;It includes the development of an approach for fault-tolerance of embedded&lt;br/&gt;software that are present in automotive applications. We will develop scalable fault diagnosis and prognosis techniques for (i) embedded control software (modeled as extended finite automata) by monitoring their behavior against their own properties, and (ii) overall controlled system (modeled&lt;br/&gt;as hybrid automata) by monitoring its behavior against its own properties. Monitoring the system level properties safeguards against any possible incompleteness of the controller level properties.&lt;br/&gt;We propose an abstraction based approach to detect and isolate a faulty controller component by monitoring of system-level properties. Abstraction based technique for prognosis of system-level property violations (i.e., prediction of such violations prior to their occurrence) is also proposed.&lt;br/&gt;The notions of detection, isolation, and prognostic indices have been proposed in this regard. Techniques will also be developed for control reconfiguration to enable fault recovery, and will rely on the reachability over the stability regions of various discrete modes, and also on computations based on model-prediction and trajectory-sensitivities. The collision avoidance software will be used as a case-study. Besides modeling, monitoring, diagnosability/prognosability verification, and reconfiguration, research will also be carried out to determine the computational resources for allocation and real-time scheduling of the proposed fault-tolerance strategies.&lt;br/&gt;&lt;br/&gt;Broader Impacts: &lt;br/&gt;&lt;br/&gt;Fault-tolerance against unanticipated software-errors is of growing interest,&lt;br/&gt;specially for safety- or security-critical applications and infrastructure, and our research will contribute to this topic. Further it is a collaborative research with GM, and an impact in automotive industry is likely for the fact that practical, scalable, and cost-effective solution will be developed.&lt;br/&gt;The proposed approach is general enough to be applicable to other embedded applications. Two PhD students and a post-doc involved in the project will get trained in a problem of industrial need. They will get practical exposure to industry through invitation to summer internships at GM. The research findings will be made available via PIs homepages and public-domain publications,&lt;br/&gt;and will be integrated into graduate courses in discrete-event controls, fault-tolerant computing, and embedded systems at ISU. PIs are committed to recruiting minority students (one third of PI's students are minority.)</AbstractNarration>
+<MinAmdLetterDate>04/16/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>03/16/2012</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0801763</AwardID>
+<Investigator>
+<FirstName>Ratnesh</FirstName>
+<LastName>Kumar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ratnesh Kumar</PI_FULL_NAME>
+<EmailAddress>rkumar@iastate.edu</EmailAddress>
+<PI_PHON>000366986</PI_PHON>
+<NSF_ID>1</NSF_ID>
+<RoleCode>Principal Investigator</RoleCode>
+<StartDate/>
+<EndDate>2008.04.16</EndDate>
+<StartDateEpoch/>
+<EndDateEpoch>1</EndDateEpoch>
+<RecentPIFlag>000206814</RecentPIFlag>
+<ID>/saswrk/awdsrch/TEMP/2008/0801763</ID>
+</Investigator>
+<Investigator>
+<FirstName>Shengbing</FirstName>
+<LastName>Jiang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shengbing Jiang</PI_FULL_NAME>
+<EmailAddress>Shengbing.Jiang@gm.com</EmailAddress>
+<PI_PHON>000155837</PI_PHON>
+<NSF_ID>2</NSF_ID>
+<RoleCode>Co-Principal Investigator</RoleCode>
+<StartDate/>
+<EndDate>2008.04.16</EndDate>
+<StartDateEpoch/>
+<EndDateEpoch>0</EndDateEpoch>
+<RecentPIFlag>269724881</RecentPIFlag>
+<ID>/saswrk/awdsrch/TEMP/2008/0801763</ID>
+</Investigator>
+<Institution>
+<Name>Iowa State University</Name>
+<CityName>AMES</CityName>
+<ZipCode>500112105</ZipCode>
+<PhoneNumber>5152945225</PhoneNumber>
+<StreetAddress>515 MORRILL RD, 1350 BEARDSHEAR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DQDBM7FGJPC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DQDBM7FGJPC5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Iowa State University]]></Name>
+<CityName>AMES</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>500112105</ZipCode>
+<StreetAddress><![CDATA[515 MORRILL RD, 1350 BEARDSHEAR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0112000</Code>
+<Name>System Theory</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1504</Code>
+<Text>GOALI-Grnt Opp Acad Lia wIndus</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7607</Code>
+<Text>EPCN-Energy-Power-Ctrl-Netwrks</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>093E</Code>
+<Text>System fab/packaging &amp; assembly</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~360000</FUND_OBLG>
+</Award>
+</rootTag>

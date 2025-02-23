@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Scaffolding Effective Practice for Use of Animations in Teaching Mineralogy and Physical Geology]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>24826.00</AwardTotalIntnAmount>
+<AwardAmount>24826</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Lea</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[42 (Geology) &lt;br/&gt;Six pairs of computer animations and visualization tools for use in teaching physical geology and mineralogy are being developed. The first half of each animation pair is suitable for use in geoscience classrooms. Instructors show these animations while providing cues to aid in students' analysis of the visual information. The second half of each animation pair consists of an on-line interactive web-based exercise suitable for homework or distance-based learning assignments. The style and content of the animations are consistent throughout so that conventions, symbols, and spatial relations carry over from one animation to the next, improving the benefits to student learning. The animations are hosted on a web site dedicated to scaffolding effective practice for teaching with animations, and include not only the animations themselves, but also resources on best practice for use of animations, information on specific learning challenges in teaching geology and mineralogy, and tools for evaluating the use of animations. The animations are being initially tested by a small group of local users for formative evaluation. After revisions, the improved animations will then be embedded in a rich web site that will provide examples of the relationships between content and context for student learning through animations. A cadre of users across the country has volunteered to test the web site and the animations and provide feedback at a gathering at the Geological Society of America National Meeting. The outcome will be a contribution to the knowledge base relating to effective use of computer animations in teaching fundamental geoscience curricula.]]></AbstractNarration>
+<MinAmdLetterDate>12/15/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>01/25/2011</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0836844</AwardID>
+<Investigator>
+<FirstName>Mickey</FirstName>
+<LastName>Gunter</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mickey E Gunter</PI_FULL_NAME>
+<EmailAddress><![CDATA[mgunter@uidaho.edu]]></EmailAddress>
+<NSF_ID>000296836</NSF_ID>
+<StartDate>12/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Idaho</Name>
+<CityName>MOSCOW</CityName>
+<ZipCode>838449803</ZipCode>
+<PhoneNumber>2088856651</PhoneNumber>
+<StreetAddress>875 PERIMETER DR MS 3020</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Idaho</StateName>
+<StateCode>ID</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>ID01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QWYKRJH5NNJ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF IDAHO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of the University of Idaho]]></Name>
+<CityName>MOSCOW</CityName>
+<StateCode>ID</StateCode>
+<ZipCode>838449803</ZipCode>
+<StreetAddress><![CDATA[875 PERIMETER DR MS 3020]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Idaho</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>ID01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0409</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000910DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>1300CYXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~24826</FUND_OBLG>
+</Award>
+</rootTag>

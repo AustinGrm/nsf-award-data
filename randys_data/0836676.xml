@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Resequencing Calculus]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>149920.00</AwardTotalIntnAmount>
+<AwardAmount>149920</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard A. Alo</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Mathematical Sciences (21) This project is reformulating the standard 3-semester calculus sequence-primarily by changing the sequencing of topics-so that the first two semesters constitute an appropriate 2-course sequence for students in the life sciences, economics, and chemistry, while enhancing the calculus experience for the math, physics, and engineering majors for whom the traditional calculus sequence was developed in the first place. The work is being done to achieve four specific goals: &lt;br/&gt;&lt;br/&gt;1. The project is conducting a thorough examination of the topics that are needed by calculus students in STEM disciplines, as well as a careful evaluation of where in the calculus sequence those topics should be covered. These tasks are being undertaken by the PI and co-PI, with the assistance of an advisory board consisting of six faculty members from STEM disciplines and economics at the University of Evansville and a mathematics advisory board consisting of five faculty members from mathematics departments at a variety of institutions, including private and public universities and a community college. &lt;br/&gt;&lt;br/&gt;2. The project is developing a curriculum that is sequenced to deliver a common core of topics and is supplemented with interdisciplinary and discipline-specific projects. The principal investigators are the authors for these materials, while the University of Evansville advisory board is assisting with identifying topics for applications and projects. Course materials are being classroom tested at the University of Evansville. &lt;br/&gt;&lt;br/&gt;3. The project is assessing the effectiveness of the curriculum and using the results of the assessment to further refine and expand the curriculum. &lt;br/&gt;&lt;br/&gt;4. The project is encouraging other mathematics educators to use the new curriculum by giving presentations at professional meetings and making course materials readily available for classroom testing.]]></AbstractNarration>
+<MinAmdLetterDate>02/11/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>02/11/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0836676</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Gruenwald</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark E Gruenwald</PI_FULL_NAME>
+<EmailAddress><![CDATA[mg3@evansville.edu]]></EmailAddress>
+<NSF_ID>000386425</NSF_ID>
+<StartDate>02/11/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Dwyer</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David J Dwyer</PI_FULL_NAME>
+<EmailAddress><![CDATA[dd4@evansville.edu]]></EmailAddress>
+<NSF_ID>000286748</NSF_ID>
+<StartDate>02/11/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Evansville</Name>
+<CityName>EVANSVILLE</CityName>
+<ZipCode>477221000</ZipCode>
+<PhoneNumber>8124882551</PhoneNumber>
+<StreetAddress>1800 LINCOLN AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YNNFE39WPGW9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF EVANSVILLE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Evansville]]></Name>
+<CityName>EVANSVILLE</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>477221000</ZipCode>
+<StreetAddress><![CDATA[1800 LINCOLN AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0409</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000910DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>1300CYXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~149920</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RUI: Theoretical Investigations of Lorentz Symmetry]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>125980.00</AwardTotalIntnAmount>
+<AwardAmount>125980</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010500</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Keith Dienes</SignBlockName>
+<PO_EMAI>kdienes@nsf.gov</PO_EMAI>
+<PO_PHON>7032925314</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5). &lt;br/&gt;&lt;br/&gt;The aim of this proposal is to conduct theoretical investigations of Lorentz symmetry and to search for new and improved tests of Lorentz violation that can be conducted in high-precision experiments. Lorentz symmetry is a key component of both special and general relativity theory and is an underlying foundation in the Standard Model of particle physics. It is also tied to the matter-antimatter symmetry known as CPT, which predicts that particles and antiparticles have equal masses, charge magnitudes, and magnetic moments. Many investigations of physics at the Planck scale (such as in the context of string theory) suggest that Lorentz symmetry might not hold exactly.&lt;br/&gt;One possibility is that Lorentz symmetry might be spontaneously broken. Since Lorentz symmetry can be tested with exceptional precision in a number of low-energy experiments in atomic and particle systems, these experiments can provide a testing ground for new physics arising from the Planck scale. The goal of this proposal is to search for new signals of Lorentz  Symmetry breaking while also investigating the theoretical implications of spontaneous Lorentz breaking. There are a number of broader impacts that this project will have. As an RUI proposal it will strengthen the research environment in the physics department at Colby College and will aid in an on-going college-wide initiative to integrate research and education.&lt;br/&gt;Undergraduates will be trained in doing research in theoretical physics. Students will have the opportunity to work on this project during the academic year, and some will be hired as research assistants during the summer. A continued emphasis will be placed on encouraging students who are members of underrepresented groups to participate in this research. Students will be able to present the results of their work at research conferences. Undergraduates working on this project will be more likely to go on to graduate programs in the physical sciences and engineering. This project will strengthen institutional ties between the physics departments at Colby College and Indiana University. Dissemination of the PI?s results will include scientific channels, articles and presentations for the general public, and continued interaction with local and national media.]]></AbstractNarration>
+<MinAmdLetterDate>06/04/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/04/2009</MaxAmdLetterDate>
+<ARRAAmount>125980</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0854712</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Bluhm</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert Bluhm</PI_FULL_NAME>
+<EmailAddress><![CDATA[rtbluhm@colby.edu]]></EmailAddress>
+<NSF_ID>000176176</NSF_ID>
+<StartDate>06/04/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Colby College</Name>
+<CityName>WATERVILLE</CityName>
+<ZipCode>049018841</ZipCode>
+<PhoneNumber>2078594342</PhoneNumber>
+<StreetAddress>4120 MAYFLOWER HILL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<StateCode>ME</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>ME01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EP1ALCV8VN65</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PRESIDENT AND TRUSTEES OF COLBY COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EP1ALCV8VN65</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Colby College]]></Name>
+<CityName>WATERVILLE</CityName>
+<StateCode>ME</StateCode>
+<ZipCode>049018841</ZipCode>
+<StreetAddress><![CDATA[4120 MAYFLOWER HILL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>ME01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1286</Code>
+<Text>Elem. Particle Physics/Theory</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~125980</FUND_OBLG>
+</Award>
+</rootTag>

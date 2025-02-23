@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Electrochemical Deposition and Characterization of Mixed Metal Oxides For Energy]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>330017</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Zeev Rosenzweig</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[In this research supported by the Analytical and Surface Chemistry program, new electrode materials and architectures will be prepared and studied using structure-directing templates to control and assemble mixed metal oxide materials with desired porosity and surface area.  At present, the understanding of structure-property relationships of redox-active mixed metal oxides is insufficient, as characterization of these materials is challenging due to their disordered and heterogeneous nature.  The intellectual merit of this proposal derives from the systematic preparation of new metastable metal mixed oxide materials with unique valence states via low-temperature electrochemical deposition. Additionally, thorough characterization of their structural, compositional and electrochemical properties will be used to elucidate mechanistic aspects and to correlate ion insertion and optical behaviors of mixed metal oxide materials. These characterization techniques include not only conventional methods (e.g., Raman, XPS, and XRD) but also a suite of spectroelectrochemical and scanning probe microscopy techniques newly developed in our laboratories. Although the research focuses on lithium insertion in mixed metal oxides, clearly the results of this study will advance understanding of materials properties with applications toward catalysis, chemical sensing and photonics. &lt;br/&gt; The broader impacts of this proposal involve the development of new material design concepts and high-resolution analytical tools for understanding complex interfacial phenomena at heterogeneous, mesoporous surfaces.  Educational broader impact will be achieved through an interdisciplinary plan focused on preparing a new generation of talented young scientists with the intellect and motivation necessary to solve problems related to energy storage and electrochemical materials. Graduate students working on the project will receive diverse training in several areas including electrochemistry, materials science, surface analytical characterization methods (XPS, AFM, EQCM), ellipsometry, UV-vis and Raman spectroscopies. Additionally, several undergraduates and high school students will be involved in this research program by coupling the research to a recently funded NSF Freshman Research Initiative (FRI) at UT-Austin that focuses on the synthesis of nanomaterials. Community outreach efforts will be pursued with the Austin Children's Museum (ACM) and with local K-12 schools to develop hands-on modules that highlight the importance of technologically useful materials.]]></AbstractNarration>
+<MinAmdLetterDate>07/10/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/30/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0809770</AwardID>
+<Investigator>
+<FirstName>Keith</FirstName>
+<LastName>Stevenson</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Keith J Stevenson</PI_FULL_NAME>
+<EmailAddress><![CDATA[stevenson@mail.cm.utexas.edu]]></EmailAddress>
+<NSF_ID>000433238</NSF_ID>
+<StartDate>07/10/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1972</Code>
+<Text>ELECTROCHEMISTRY &amp; SURFACE CHE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1972</Code>
+<Text>ELECTROCHEMISTRY &amp; SURFACE CHE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7644</Code>
+<Text>ENERGY FOR SUSTAINABILITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~110000</FUND_OBLG>
+<FUND_OBLG>2009~220017</FUND_OBLG>
+</Award>
+</rootTag>

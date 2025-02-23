@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Understanding of Lean Premixed Combustors from Cinema-Imaging of Turbulent Eddy- Flame Interactions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>311806.00</AwardTotalIntnAmount>
+<AwardAmount>311806</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruey-Hung Chen</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[0852910&lt;br/&gt;Driscoll&lt;br/&gt;    &lt;br/&gt;This research seeks to establish how turbulent eddies control the chemical reactions that occur within lean premixed combustors that are being developed for new gas turbine engines and internal combustion engines.   Unique laser diagnostics are being applied to zoom in and image the thin, wrinkled chemical reaction layers and the adjacent turbulent eddies, to determine the rates at which the eddies cause heat and various gas species to diffuse into the reaction layers.  This experimental information is needed to guide the development of new computer models that now can simulate the highly unsteady physical processes that are associated with turbulence.   &lt;br/&gt;The specific objectives are to take high-speed movies of the unsteady velocity field and the gas concentration fields in highly turbulent premixed flames.  The work provides the first measurements of an important quantity called the aerodynamic strain rate which appears in numerical models.  Information is extracted to determine this quantity and others that govern the chemical rates of consumption of fuel and the production of nitric oxide pollutants.  High-speed movies taken at more than 1,000 frames/second are obtained because the local chemical reactions are rapidly turned on and off by the eddies, and this unsteady process can cause unburned fuel and carbon monoxide to escape.  The intellectual merit is to assess classic theories of Damkohler and Landau for turbulent reacting flows and to determine how to numerically simulate these concepts. The new diagnostics being applied provide high-speed movies of the concentrations of formaldehyde (CH2O), hydroxyl (OH), and other combustion intermediates, as well as the simultaneous sizes and strengths of the turbulent eddies. &lt;br/&gt; Broader impacts of the work arise through technical publication and presentations, by the training of students and new scientists, and by synergetic collaborations between different disciplines and different institutions, both domestic and international. For example, the experimental data is being provided to researchers who are developing advanced numerical models in Berkeley CA and in Stuttgart Germany.]]></AbstractNarration>
+<MinAmdLetterDate>07/17/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/17/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0852910</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Driscoll</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James F Driscoll</PI_FULL_NAME>
+<EmailAddress><![CDATA[jamesfd@umich.edu]]></EmailAddress>
+<NSF_ID>000156317</NSF_ID>
+<StartDate>07/17/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>Ceccio</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Steven L Ceccio</PI_FULL_NAME>
+<EmailAddress><![CDATA[ceccio@umich.edu]]></EmailAddress>
+<NSF_ID>000484406</NSF_ID>
+<StartDate>07/17/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Michigan - Ann Arbor</Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>1109 GEDDES AVE, SUITE 3300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091079</ZipCode>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1407</Code>
+<Text>CFS-Combustion &amp; Fire Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>061E</Code>
+<Text>Fire</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~311806</FUND_OBLG>
+</Award>
+</rootTag>

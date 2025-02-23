@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Differential Equation Weekends]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>14550.00</AwardTotalIntnAmount>
+<AwardAmount>14550</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Warchall</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award provides support for meetings, held at the University of Memphis and at Mississippi State University, on current research topics in differential equations.  The meetings are part of the successful, well-attended regional Differential Equations Weekends series.  The conferences encourage and financially support participation by students and recent Ph.D. recipients.&lt;br/&gt;&lt;br/&gt;The meetings include plenary lectures on topics of current research interest but strongly encourage lectures by students and recent Ph.D. recipients.  The conferences bring together workers in a variety of different areas of research in differential equations, with emphasis on providing opportunities for new researchers to present their work.  The conferences will be especially beneficial to young researchers, including graduate students and postdocs. &lt;br/&gt;&lt;br/&gt;Conference web site: http://www.msci.memphis.edu/confsymp.html]]></AbstractNarration>
+<MinAmdLetterDate>05/08/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/08/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0801164</AwardID>
+<Investigator>
+<FirstName>Ratnasingham</FirstName>
+<LastName>Shivaji</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ratnasingham Shivaji</PI_FULL_NAME>
+<EmailAddress><![CDATA[r_shivaj@uncg.edu]]></EmailAddress>
+<NSF_ID>000373153</NSF_ID>
+<StartDate>05/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gisele</FirstName>
+<LastName>Goldstein</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gisele R Goldstein</PI_FULL_NAME>
+<EmailAddress><![CDATA[ggoldste@memphis.edu]]></EmailAddress>
+<NSF_ID>000358056</NSF_ID>
+<StartDate>05/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jerome</FirstName>
+<LastName>Goldstein</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jerome A Goldstein</PI_FULL_NAME>
+<EmailAddress><![CDATA[jgoldste@memphis.edu]]></EmailAddress>
+<NSF_ID>000203852</NSF_ID>
+<StartDate>05/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Memphis</Name>
+<CityName>MEMPHIS</CityName>
+<ZipCode>381523520</ZipCode>
+<PhoneNumber>9016783251</PhoneNumber>
+<StreetAddress>101 WILDER TOWER</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F2VSMAKDH8Z7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MEMPHIS, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>JBG7T7RXQ2B7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Memphis]]></Name>
+<CityName>MEMPHIS</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>381523520</ZipCode>
+<StreetAddress><![CDATA[101 WILDER TOWER]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~14550</FUND_OBLG>
+</Award>
+</rootTag>

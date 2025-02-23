@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Theoretical Models of Helium Reionization</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/25/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>207180.00</AwardTotalIntnAmount>
+<AwardAmount>207180</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020400</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nigel Sharp</SignBlockName>
+<PO_EMAI>nsharp@nsf.gov</PO_EMAI>
+<PO_PHON>7032924905</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>AST-0607470&lt;br/&gt;Furlanetto&lt;br/&gt;&lt;br/&gt;The reionization of hydrogen and helium are landmark events in the history of the Universe, constituting important phase transitions for the intergalactic medium (IGM) and impacting later structure formation everywhere.  Although hydrogen reionization has received the most attention, exciting new data on helium are coming from far-ultraviolet spectra of moderate redshift quasars.  This project aims to build a physically motivated, comprehensive model for helium reionization, including source clustering, inhomogeneities, and the correlations between sources and absorbers.  The analytic model will be compared to numerical simulations and then tested against existing and future observations.  The end result will reveal a lot about the intrinsic properties of the sources and their relation to the IGM.&lt;br/&gt;&lt;br/&gt;There is a tightly integrated educational component, including a graduate student's thesis work, and undergraduate research through existing programs at Yale University; the project is modular and lends itself well to short-term but meaningful research.  This work should have wide repercussions within the astrophysical community, with implications for quasar evolution, the IGM, and structure formation.</AbstractNarration>
+<MinAmdLetterDate>03/19/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>03/19/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0829737</AwardID>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>Furlanetto</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Steven R Furlanetto</PI_FULL_NAME>
+<EmailAddress>sfurlane@astro.ucla.edu</EmailAddress>
+<NSF_ID>000194424</NSF_ID>
+<StartDate>03/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Los Angeles</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900951406</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress>10889 Wilshire Boulevard</StreetAddress>
+<StreetAddress2><![CDATA[Suite 700]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>33</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA33</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>092530369</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, LOS ANGELES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>071549000</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Los Angeles]]></Name>
+<CityName>LOS ANGELES</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900951406</ZipCode>
+<StreetAddress><![CDATA[10889 Wilshire Boulevard]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>33</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA33</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1217</Code>
+<Text>EXTRAGALACTIC ASTRON &amp; COSMOLO</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7483</Code>
+<Text>PHYSICS OF THE UNIVERSE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0107</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>490100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2007~207180</FUND_OBLG>
+</Award>
+</rootTag>

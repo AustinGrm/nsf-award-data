@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  High Performance Directional MEMS Microphones for Communication Devices</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Juan E. Figueroa</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research (SBIR) Phase I project will investigate a novel MEMS based microphone based on entirely new design principles. By abandoning the traditional 100 year-old microphone architecture common to both full-scale microphones as well as recently commercialized MEMS microphones, this project will explore a vastly superior acoustical design that will result in substantial improvements in fidelity and SNR (20 dB SNR improvement over existing MEMS microphones). Furthermore, the microphone will have an inherently directional response with the benefit of focusing on a speaker or event of interest while rejecting ambient background noise. These attributes make this innovation ideal for addressing an emerging need of high volume consumer communication device manufactures that are looking for acoustic sensing innovations with the unique combination of high performance and low manufacturing cost. &lt;br/&gt;&lt;br/&gt;If successful the proposed innovation will enable, for the first time, the introduction of performance-audio quality into a suite of consumer communication devices. The primary customer focus for this innovation is high volume consumer communication device manufacturers with applications on their horizon that demand substantial improvements in microphone component performance. Presently, commercial suppliers of MEMS microphones all use variations of a traditional microphone architecture which has proven incapable of addressing high performance applications, in particular those that require high fidelity and directionality. Additional markets and applications for this innovation include acoustic instrumentation, performance audio, military and defense, intelligence gathering, speech recognition (ex. in laptop computers), and hearing aids. Addressing hearing aid markets will have a societal impact as well, as patient satisfaction with hearing aid devices is presently very low. The innovation is also expected to have other audiological applications including use in hearing health monitoring systems based on otoacoustic principles. Clinical tools and instruments based on this innovation will serve to enhance scientific and technological understanding in many fields of acoustics.</AbstractNarration>
+<MinAmdLetterDate>11/03/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839518</AwardID>
+<Investigator>
+<FirstName>Gustavo</FirstName>
+<LastName>Roman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gustavo Roman</PI_FULL_NAME>
+<EmailAddress>gustavo@micro-audio.com</EmailAddress>
+<PI_PHON>4049635963</PI_PHON>
+<NSF_ID>000507118</NSF_ID>
+<StartDate>11/03/2008</StartDate>
+<EndDate>02/13/2009</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Caesar</FirstName>
+<LastName>Garcia</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Caesar Garcia</PI_FULL_NAME>
+<EmailAddress>caesar@siaudiolabs.com</EmailAddress>
+<PI_PHON>5127737684</PI_PHON>
+<NSF_ID>000523239</NSF_ID>
+<StartDate>02/13/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Silicon Audio, LLC</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787025530</ZipCode>
+<PhoneNumber>5127737684</PhoneNumber>
+<StreetAddress>2113 RIVERVIEW ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>35</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX35</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MKLVPC4X92U7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SILICON AUDIO, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Silicon Audio, LLC]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787025530</ZipCode>
+<StreetAddress><![CDATA[2113 RIVERVIEW ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>35</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX35</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; DEVICE TEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7257</Code>
+<Text>APPLICATS OF ADVANCED TECHNOLS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9139</Code>
+<Text>INFORMATION INFRASTRUCTURE &amp; TECH APPL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~100000</FUND_OBLG>
+</Award>
+</rootTag>

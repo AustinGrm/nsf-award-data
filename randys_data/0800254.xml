@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[GOALI: Impact Response and Failure of Bio-Composites]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>114795</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mary Toney</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This GOALI project is a collaboration with Ford Motor Company on the mechanical impact performance and energy absorption capabilities of composite materials formulated from natural fibers embedded in synthetic and natural polymeric binding resins. The goal is to develop understanding of the energy dissipation and failure mechanisms of these bio-composites at the micromechanical level, for the purpose of increasing their use in impact safety applications. Various natural materials will be treated in the research including bast, prairie grass and cellulose fibers, and soy based resin. Composite formulations of the materials will be manufactured and laboratory tested to determine their mechanical response and fracture characteristics when impacted at high rate. Based on the test results and scanning electron microscopy of test samples, a micromechanical finite element model will be developed to investigate the relationships between failure mechanisms, energy dissipation mechanisms, and material design of these bio-composites.&lt;br/&gt;&lt;br/&gt;The successful completion of the research will yield a general understanding of the impact response and failure behavior of bio-composites, facilitating their design for impact safety applications. These materials could serve as replacements of traditional glass/vinyl ester composites in an increased range of applications, and offset some of the petroleum consumed in the manufacture of the traditional composites. General knowledge will result on high rate measurement techniques, appropriate interpretation of the resulting data, its connection to energy absorbing behavior and micromechanical modeling techniques for impact processes.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>06/18/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/27/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0800254</AwardID>
+<Investigator>
+<FirstName>Deborah</FirstName>
+<LastName>Mielewski</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Deborah F Mielewski</PI_FULL_NAME>
+<EmailAddress><![CDATA[dmielews@ford.com]]></EmailAddress>
+<NSF_ID>000329557</NSF_ID>
+<StartDate>06/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Wonsuk</FirstName>
+<LastName>Kim</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wonsuk Kim</PI_FULL_NAME>
+<EmailAddress><![CDATA[wskim@umich.edu]]></EmailAddress>
+<NSF_ID>000321489</NSF_ID>
+<StartDate>06/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alan</FirstName>
+<LastName>Argento</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alan Argento</PI_FULL_NAME>
+<EmailAddress><![CDATA[aargento@umich.edu]]></EmailAddress>
+<NSF_ID>000163212</NSF_ID>
+<StartDate>06/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Michigan - Ann Arbor</Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>1109 GEDDES AVE, SUITE 3300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Michigan Dearborn]]></Name>
+<CityName>Dearborn</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481281491</ZipCode>
+<StreetAddress><![CDATA[4901 Evergreen Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1467</Code>
+<Text>MATERIALS PROCESSING AND MANFG</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1504</Code>
+<Text>GOALI-Grnt Opp Acad Lia wIndus</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>080E</Code>
+<Text>DEFORMATION PROCESSES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>083E</Code>
+<Text>MATERIAL TRANSFORMATION PROC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1467</Code>
+<Text>MATERIALS PROCESSING AND MANFG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9231</Code>
+<Text>SUPPL FOR UNDERGRAD RES ASSIST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~102795</FUND_OBLG>
+<FUND_OBLG>2009~12000</FUND_OBLG>
+</Award>
+</rootTag>

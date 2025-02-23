@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Mathematics Partnering with Computer Science to Improve Calculus Instruction and Learning</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>415203.00</AwardTotalIntnAmount>
+<AwardAmount>415203</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lee Zia</SignBlockName>
+<PO_EMAI>lzia@nsf.gov</PO_EMAI>
+<PO_PHON>7032925140</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Interdisciplinary (99) Faculty in the mathematical sciences and computer science are developing calculus classroom activities that exploit the digital-ink feature of the Tablet PC to enable students to submit detailed problem solutions at various points throughout a class that are then projected, discussed, annotated, and saved. An open-source web-based software application, Messagegrid, is being enhanced to include a recording capability and rubric-based evaluation-algorithm. Normally, student work on application problems is scattered haphazardly across a piece of paper where it is either impossible or too time-consuming to discern the sequence of the student's thought and to determine where the thought process goes astray. Examination of the sequence of student inputs, the "ink" strokes on the Tablet PC, permits categorization of different errors as they occur. The intellectual merit of this project is two-fold: 1) supporting active learning where students receive immediate feedback in a way that informs the rest of the class and maintains the flow of the teaching-learning environment; and 2) collecting and processing large samples of student work which is analyzed for emergent problem-solving strategies. Based on such analysis class activities with carefully-chosen multi-step problems are structured to pause the problem-solving process at junctures where the data show students typically take incorrect paths. The project's broader impacts include implementation of the Messagegrid application and evaluation of its use at Tri-County Technical College, a local two year college, similar implementation in other departments at Clemson, interactions with contributors to and users of the project's website repository of problems, and engagement with participants in summer faculty workshops. The impact of this project is also being evaluated through the collection and analysis of: performance measures (e.g. scores on common exams); student retention totals in the classes using this approach; student behavior and satisfaction surveys; and faculty investment of time and satisfaction surveys.</AbstractNarration>
+<MinAmdLetterDate>07/21/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>10/22/2013</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0817442</AwardID>
+<Investigator>
+<FirstName>Marilyn</FirstName>
+<LastName>Reba</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marilyn Reba</PI_FULL_NAME>
+<EmailAddress>mreba@clemson.edu</EmailAddress>
+<NSF_ID>000284356</NSF_ID>
+<StartDate>07/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Calvin</FirstName>
+<LastName>Williams</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Calvin L Williams</PI_FULL_NAME>
+<EmailAddress>calvinw@clemson.edu</EmailAddress>
+<NSF_ID>000256489</NSF_ID>
+<StartDate>07/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Roy</FirstName>
+<LastName>Pargas</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Roy P Pargas</PI_FULL_NAME>
+<EmailAddress>pargas@cs.clemson.edu</EmailAddress>
+<NSF_ID>000250271</NSF_ID>
+<StartDate>07/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Clemson University</Name>
+<CityName>CLEMSON</CityName>
+<ZipCode>296340001</ZipCode>
+<PhoneNumber>8646562424</PhoneNumber>
+<StreetAddress>230 Kappa Street</StreetAddress>
+<StreetAddress2><![CDATA[Suite 200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SC03</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>042629816</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>CLEMSON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>042629816</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Clemson University]]></Name>
+<CityName>CLEMSON</CityName>
+<StateCode>SC</StateCode>
+<ZipCode>296340001</ZipCode>
+<StreetAddress><![CDATA[230 Kappa Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SC03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7492</Code>
+<Text>CCLI-Type 2 (Expansion)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EHR, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~415203</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[An Accessible Online Resource for Mathematics Students and Instructors]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>34530</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lee Zia</SignBlockName>
+<PO_EMAI>lzia@nsf.gov</PO_EMAI>
+<PO_PHON>7032925140</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Mathematical Sciences (21). This project is adapting multimedia demonstrations of mathematical concepts to make them accessible to students with sensory disabilities. The intellectual merit of the activity lies in its use of a well-recognized and established collection of resources, "Demos with Positive Impact" (CCLI-EMD DUE-9952306) as the source material for adaptation. Major components include adapting existing animations for captioning and audio; addressing issues of text legibility for display of mathematical symbols; and adapting existing web pages for more effective use with screen readers.  The project is also having a broad impact by enabling the target audience to have access to previously unavailable high quality multimedia demonstrations.]]></AbstractNarration>
+<MinAmdLetterDate>09/16/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>12/07/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0838113</AwardID>
+<Investigator>
+<FirstName>Lila</FirstName>
+<LastName>Roberts</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lila F Roberts</PI_FULL_NAME>
+<EmailAddress><![CDATA[LilaRoberts@clayton.edu]]></EmailAddress>
+<NSF_ID>000094841</NSF_ID>
+<StartDate>09/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Clayton College and State University</Name>
+<CityName>MORROW</CityName>
+<ZipCode>302601150</ZipCode>
+<PhoneNumber>6784664283</PhoneNumber>
+<StreetAddress>200 CLAYTON STATE BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JDPQA8949685</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CLAYTON STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>F26MENN5GZL1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Clayton College and State University]]></Name>
+<CityName>MORROW</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>302601150</ZipCode>
+<StreetAddress><![CDATA[200 CLAYTON STATE BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7428</Code>
+<Text>CCLI-ADAPTATION AND IMPLEMENTA</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<FUND_OBLG>2005~34530</FUND_OBLG>
+</Award>
+</rootTag>

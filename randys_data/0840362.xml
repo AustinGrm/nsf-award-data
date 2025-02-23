@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[The Sixth IMACS International Conference on Nonlinear Evolution Equations and Wave Phenomena: Theory and Computation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>25000.00</AwardTotalIntnAmount>
+<AwardAmount>25000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040100</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Warchall</SignBlockName>
+<PO_EMAI>hwarchal@nsf.gov</PO_EMAI>
+<PO_PHON>7032924861</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award provides support for the Sixth International Conference on Nonlinear Evolution Equations and Wave Phenomena: Computation and Theory, sponsored by the International Association for Mathematics and Computers in Simulation (IMACS), held at the University of Georgia on 23-26 March 2009.  The interdisciplinary conference focuses on computational and theoretical aspects of nonlinear wave propagation and optical fiber communication systems, bringing together researchers in theoretical and computational mathematics, applied physics, and engineering. &lt;br/&gt;&lt;br/&gt;In addition to invited lectures, the conference includes contributed papers and poster sessions.  Awards are given for the best undergraduate and graduate papers presented.  The conference encourages and supports participation by students, recent doctoral recipients, women, minorities, and other groups underrepresented in the mathematical sciences. &lt;br/&gt;&lt;br/&gt;Conference web site:&lt;br/&gt;http://www.cs.uga.edu/%7Ethiab/waves2009.html&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>03/23/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/23/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0840362</AwardID>
+<Investigator>
+<FirstName>Thiab</FirstName>
+<LastName>Taha</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thiab R Taha</PI_FULL_NAME>
+<EmailAddress><![CDATA[thiab@cs.uga.edu]]></EmailAddress>
+<NSF_ID>000153863</NSF_ID>
+<StartDate>03/23/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jerry</FirstName>
+<LastName>Bona</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jerry L Bona</PI_FULL_NAME>
+<EmailAddress><![CDATA[jbona@uic.edu]]></EmailAddress>
+<NSF_ID>000357346</NSF_ID>
+<StartDate>03/23/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Georgia Research Foundation Inc</Name>
+<CityName>ATHENS</CityName>
+<ZipCode>306021589</ZipCode>
+<PhoneNumber>7065425939</PhoneNumber>
+<StreetAddress>310 EAST CAMPUS RD TUCKER HALL R</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NMJHD63STRC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Georgia]]></Name>
+<CityName>ATHENS</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>306020001</ZipCode>
+<StreetAddress><![CDATA[310 E CAMPUS RD TUCKER HALL RM 4]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~25000</FUND_OBLG>
+</Award>
+</rootTag>

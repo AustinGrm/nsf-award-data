@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  MEMS Electromagnetic Pump]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>99983.00</AwardTotalIntnAmount>
+<AwardAmount>99983</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gregory T. Baxter</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This Small Business Innovation Research (SBIR) Phase I project will prototype a MEMS-based electromagnetic pump for small, controlled or continuous delivery of a drug. In contrast to other designs for micropumps, the MEMS pump is configured to move in the plane of the substrate on which it is built, allowing it to have relatively complex shape, high speed and large throw. This planar configuration also allows relatively large particles to be pumped through the microfluidic system, such that particle-based slurries can also be delivered in therapeutic doses. The MEMS in-plane electromagnetic pump has better performance than other pumping mechanisms such as piezoelectric, in terms of voltage requirements, speed, pumping force and manufacturability. &lt;br/&gt;&lt;br/&gt;The broader impacts of this research are that the pump described here may be used to produce a very small pumping system appropriate for use in an adhesive patch worn on the skin to deliver, for example, insulin in small, adjustable dosages. Coupling the pump to a glucose monitoring system may eventually form an artificial pancreas to deliver insulin on a controlled, continuous basis. Such tight control of blood glucose levels could mitigate the large number of life threatening or at least life limiting health consequences of diabetes. The pump may also be coupled to other sensors, to administer controlled volumes of other substances, or in response to the detection of other biochemical signals, for example in the treatment of cardiovascular disease, pain, chronic pain, cancer, AIDS, neurological diseases, Alzheimer's Disease, Hepatitis, or Parkinson's Disease.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>11/17/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>11/17/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839747</AwardID>
+<Investigator>
+<FirstName>Jaquelin</FirstName>
+<LastName>Spong</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jaquelin K Spong</PI_FULL_NAME>
+<EmailAddress><![CDATA[jackie@imtmems.com]]></EmailAddress>
+<NSF_ID>000242425</NSF_ID>
+<StartDate>11/17/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Innovative Micro Technology</Name>
+<CityName>SANTA BARBARA</CityName>
+<ZipCode>931173108</ZipCode>
+<PhoneNumber>8056812800</PhoneNumber>
+<StreetAddress>75 ROBIN HILL RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LCA9B6NMW454</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ATOMICA CORP</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Innovative Micro Technology]]></Name>
+<CityName>SANTA BARBARA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>931173108</ZipCode>
+<StreetAddress><![CDATA[75 ROBIN HILL RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA24</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1167</Code>
+<Text>MULTIDISCIPLINARY BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9107</Code>
+<Text>BIOELECTRONICS AND BIONETWORKS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~99983</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[DUSEL R&amp;D Collaborative Research: Light Amplifier Compressor Photodetector Development for Astroparticle Experiments]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>40000.00</AwardTotalIntnAmount>
+<AwardAmount>40000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jonathan Whitmore</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award will provide funds to develop a new class of photodetectors for astroparticle physics, cosmic ray phenomena, nucleon decay, neutrino oscillations, and high energy physics, which can scale to very large sizes, exceeding available photomultipliers (PMTs). This photodetector compresses the phase space of the incident photons, and amplifies them ? a Light Amplifier Compressor (LAC) tube. &lt;br/&gt;&lt;br/&gt;The technology is based on proven techniques used in image intensifiers, and on the experience of a pre-prototype already constructed by the proposers. Photoelectrons are accelerated to a phosphor screen, and the resulting light is collected by wavelength-shifting (WLS) optical fibers. Because the photoelectron trajectories at the phosphor screen are not critical, high collection efficiency and nearly isochronous photoelectron arrivals result. Two configurations are considered, one with a planar photocathode, proximity focused to a planar phosphor screen anode, and readout by WLS fibers behind the screen. The other is a cylindrical photocathode, radially focused onto a much smaller cylindrical hollow coaxial phosphor anode, readout by WLS fibers coaxially inserted into the center of the anode cylinder. &lt;br/&gt;&lt;br/&gt;Compared with spherical-type PMTs, the vacuum volume for a comparable photocathode area is much reduced, and the vacuum envelope is amenable to much higher external pressures. For a mega-tonne-class neutrino or nucleon decay detector, a 20-30 cm diameter by 1-2 m long cylindrical Optical Compressor Amplifier might be contemplated, readout by a pair of mm diameter pixel detectors, with ~40 cm spatial resolution along the axis. &lt;br/&gt;&lt;br/&gt;Broader Impacts include photon detection applications where low power and/or compactness are essential at the site of detection. Such applications include space and satellite applications, CT scanners, gamma cameras, and fluorescence instruments. At least six students are anticipated to participate in this work. It is also likely that if successful, companies that work in electro-optics will use the technology for a variety of applications. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>09/11/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0810216</AwardID>
+<Investigator>
+<FirstName>Yasar</FirstName>
+<LastName>Onel</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yasar Onel</PI_FULL_NAME>
+<EmailAddress><![CDATA[yasar-onel@uiowa.edu]]></EmailAddress>
+<NSF_ID>000368345</NSF_ID>
+<StartDate>09/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Iowa</Name>
+<CityName>IOWA CITY</CityName>
+<ZipCode>522421316</ZipCode>
+<PhoneNumber>3193352123</PhoneNumber>
+<StreetAddress>105 JESSUP HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Z1H9VJS8NG16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF IOWA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Iowa]]></Name>
+<CityName>IOWA CITY</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>522421316</ZipCode>
+<StreetAddress><![CDATA[105 JESSUP HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7694</Code>
+<Text>UNDERGROUND R&amp;D</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7483</Code>
+<Text>PHYSICS OF THE UNIVERSE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~20000</FUND_OBLG>
+<FUND_OBLG>2009~20000</FUND_OBLG>
+</Award>
+</rootTag>

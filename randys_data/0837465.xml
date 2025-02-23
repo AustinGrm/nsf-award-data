@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CCLI: Design and Implementation of an Innovative Problem-based Learning Model and Assessment Tools in Undergraduate Engineering Education]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Susan Finger</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Engineering - Other (59)&lt;br/&gt;Problem-based learning (PBL), a student-centered pedagogy, offers a strong framework upon which to build a curriculum that will teach our students the necessary problem solving and critical thinking skills to solve the complex problems of the future. In undergraduate STEM education, PBL is recognized as a key strategy for improving student motivation and learning. PBL has been shown to be effective in a variety of settings; however, its use in undergraduate engineering education has been primarily focused in capstone design experiences. Through this project, PBL is being integrated throughout the coursework in the first two years of a new interdisciplinary engineering program. A cataloging system for characterizing PBL experiences is being developed along with a comprehensive toolkit for assessing student learning from those experiences. Vetted PBL experiences suitable for inclusion in introductory engineering courses and assessment instruments resulting from this project are being disseminated broadly and are available for adoption at other institutions.]]></AbstractNarration>
+<MinAmdLetterDate>08/24/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>11/07/2012</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0837465</AwardID>
+<Investigator>
+<FirstName>Ronald</FirstName>
+<LastName>Kander</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ronald G Kander</PI_FULL_NAME>
+<EmailAddress><![CDATA[kanderrg@jmu.edu]]></EmailAddress>
+<NSF_ID>000225544</NSF_ID>
+<StartDate>08/24/2008</StartDate>
+<EndDate>04/15/2011</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Pappas</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eric C Pappas</PI_FULL_NAME>
+<EmailAddress><![CDATA[pappasec@jmu.edu]]></EmailAddress>
+<NSF_ID>000201570</NSF_ID>
+<StartDate>08/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Olga</FirstName>
+<LastName>Pierrakos</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Olga Pierrakos</PI_FULL_NAME>
+<EmailAddress><![CDATA[pierrao@wfu.edu]]></EmailAddress>
+<NSF_ID>000244660</NSF_ID>
+<StartDate>08/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Prins</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME>Dr.</PI_SUFX_NAME>
+<PI_FULL_NAME>Robert J Prins</PI_FULL_NAME>
+<EmailAddress><![CDATA[prinsrj@jmu.edu]]></EmailAddress>
+<NSF_ID>000503510</NSF_ID>
+<StartDate>08/24/2008</StartDate>
+<EndDate>04/15/2011</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robin</FirstName>
+<LastName>Anderson</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robin D Anderson</PI_FULL_NAME>
+<EmailAddress><![CDATA[ander2rd@jmu.edu]]></EmailAddress>
+<NSF_ID>000505422</NSF_ID>
+<StartDate>08/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Nagel</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert L Nagel</PI_FULL_NAME>
+<EmailAddress><![CDATA[nagelrl@jmu.edu]]></EmailAddress>
+<NSF_ID>000572617</NSF_ID>
+<StartDate>03/23/2011</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Watson</FirstName>
+<LastName>Heather</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Watson L Heather</PI_FULL_NAME>
+<EmailAddress><![CDATA[watsonhl@jmu.edu]]></EmailAddress>
+<NSF_ID>000572837</NSF_ID>
+<StartDate>03/23/2011</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>James Madison University</Name>
+<CityName>HARRISONBURG</CityName>
+<ZipCode>228013104</ZipCode>
+<PhoneNumber>5405686872</PhoneNumber>
+<StreetAddress>800 S MAIN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MVTKSCN6NMH3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>JAMES MADISON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X6KEFGLHSJX7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[James Madison University]]></Name>
+<CityName>HARRISONBURG</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>228013104</ZipCode>
+<StreetAddress><![CDATA[800 S MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~150000</FUND_OBLG>
+</Award>
+</rootTag>

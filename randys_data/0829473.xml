@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[FSML Increasing Capacity for Research and Education at Archbold Biological Station]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>299000.00</AwardTotalIntnAmount>
+<AwardAmount>299000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter McCartney</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The Archbold Biological Station is awarded a grant to assist in construction of a new lodge with 14-bedrooms (40 beds) and shared bathroom facilities to increase capacity for visiting scientists, particularly large groups, with increased privacy and comfort. The Lodge will house visitors for Archbold Biological Station, the MacArthur Agro-ecology Research Center, and Archbold Reserve, solving current limitations to research use by complementing existing accommodations.&lt;br/&gt;The new Lodge will facilitate increased use of existing research laboratory and classroom space by students and visiting investigators; allow more workshops and conferences; stimulate growth and expansion of research programs at MAERC and the Archbold Reserve;  and improve housekeeping and maintenance by having large groups consolidated in one building.&lt;br/&gt;&lt;br/&gt;Archbold Expeditions (Archbold Biological Station, Archbold Reserve and the MacArthur Agro-ecology Research Center), established in 1941, is a not-for-profit institution dedicated to long-term ecological research and education. Archbold owns and manages a 3,653-ha globally significant scrub preserve, which is located in one of the most distinctive natural ecosystems in the USA, and the adjacent Archbold Reserve, a 1,476-ha restoration site. Archbold also has a long-term lease for the MacArthur Agro-ecology Research Center, a 4,168-ha working cattle ranch near the Station. Staff, visiting investigators, and students conduct research focused on the environments of the Lake Wales Ridge, and surrounding areas. Research strengths are population and conservation biology, emphasizing ecological changes over local and regional scales, fire ecology, demographic shifts in rare and endemic species, and agro-ecology.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>12/02/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>12/02/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0829473</AwardID>
+<Investigator>
+<FirstName>Hilary</FirstName>
+<LastName>Swain</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hilary Swain</PI_FULL_NAME>
+<EmailAddress><![CDATA[hswain@archbold-station.org]]></EmailAddress>
+<NSF_ID>000484218</NSF_ID>
+<StartDate>12/02/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Archbold Expeditions, Inc.</Name>
+<CityName>VENUS</CityName>
+<ZipCode>339602039</ZipCode>
+<PhoneNumber>8634652571</PhoneNumber>
+<StreetAddress>123 MAIN DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ZC2GY8VUCAE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ARCHBOLD EXPEDITIONS, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Archbold Expeditions, Inc.]]></Name>
+<CityName>VENUS</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>339602039</ZipCode>
+<StreetAddress><![CDATA[123 MAIN DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1104</Code>
+<Text>FIELD STATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1104</Code>
+<Text>FIELD STATIONS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~299000</FUND_OBLG>
+</Award>
+</rootTag>

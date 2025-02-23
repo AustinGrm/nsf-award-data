@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Mechanisms, Gene Targets and Response Strategies of Retrograde Signaling During Mitochondrial Perturbations in Plants]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>450000.00</AwardTotalIntnAmount>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090300</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stephen J Tonsor</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Mitochondria are the sub-cellular compartments that perform numerous metabolic processes and produce necessary chemical energy.  Environmental stresses such as high ozone levels and cold can negatively affect plant mitochondrial function, which can limit productivity.  Evidence suggests that mitochondria are 'sensors' that communicate cell status changes to the nucleus to alter expression of genes; a process called mitochondrial retrograde regulation (MRR).  Presumably, the changes in gene expression are directed at recovering from the perturbations caused by the stresses.  This is an important research area because it is becoming increasingly clear that MRR is a fundamental aspect of many eukaryotic stress and disease responses.   However, the mechanisms of this mitochondria-to-nucleus communication remain elusive.  Results from this research will allow a greater understanding of how mitochondria can communicate with the nucleus to alter the activity of genes.  This will be accomplished by using 1) biochemistry and metabolomics to identify compounds that may be involved in MRR; 2) "reverse genetics" to study plants that lack specific proteins thought to be involved in MRR; and 3) genomics to identify all genes in the model plant Arabidopsis thaliana that are affected in the early stages of the MRR response.  It is expected that this research effort will result in identification of components of the molecular mechanisms of MRR and mitochondria-directed strategies that plants use to overcome environmental stresses.  If MRR can be enhanced, this advance may allow production of crop plants that are more tolerant to environmental stresses and increased plant productivity for food and biofuels. This project will involve graduate students, undergraduate students and post-doctoral fellows. Additionally, it will be part of a training program for high school teachers and provide opportunities for students (including members of under-represented groups in science) to participate in biotechnology/genomic research as part of a high school curriculum.]]></AbstractNarration>
+<MinAmdLetterDate>07/13/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/08/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0822521</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Rhoads</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David Rhoads</PI_FULL_NAME>
+<EmailAddress><![CDATA[drhoads@csusb.edu]]></EmailAddress>
+<NSF_ID>000658304</NSF_ID>
+<StartDate>07/13/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Arizona State University</Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852813670</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress>660 S MILL AVENUE STE 204</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NTLHJXM55KZ6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ARIZONA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Arizona State University East Campus]]></Name>
+<CityName>TEMPE</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>852813670</ZipCode>
+<StreetAddress><![CDATA[660 S MILL AVENUE STE 204]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7657</Code>
+<Text>Integrtv Ecological Physiology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~3253</FUND_OBLG>
+<FUND_OBLG>2009~0</FUND_OBLG>
+</Award>
+</rootTag>

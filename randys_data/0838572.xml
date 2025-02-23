@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Experimental Determination of Argon Diffusion Kinetics and Mechanisms in Plagioclase]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>258280.00</AwardTotalIntnAmount>
+<AwardAmount>258280</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030107</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sonia Esperanca</SignBlockName>
+<PO_EMAI>sesperan@nsf.gov</PO_EMAI>
+<PO_PHON>7032922674</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The radioactive decay of potassium to argon provides one of the most important means of dating events in the geologic past. Because argon is a gas, it can escape from geologic materials, i.e., minerals, especially at elevated temperatures, through the process of diffusion. The diffusion process can be described mathematically in terms of a few kinetic parameters which can be determined by laboratory studies, and knowing the values of these parameters enables the determination of the thermal histories of rocks over time. Thermal histories of rocks have proven critical to understanding a wide range of phenomena, including large scale motions of the crust along major faults, thermal maturation of hydrocarbons in deep basins, the heating effects of magma intrusions, and the thermal histories of meteorites derived from other planetary bodies which in turn governs whether organic molecules necessary for life could survive impact and interplanetary transport. Kinetic parameters for argon diffusion have been determined for some minerals, but plagioclase, the most abundant mineral in the Earth's crust has until now been largely unstudied. This project will use novel laser heating techniques and ultrasensitive mass spectrometry to determine the kinetic parameters for plagioclase from a variety of occurrences, and thereby provide powerful new tools for determining rocks' thermal histories in a significantly broadened range of geologic environments.&lt;br/&gt;&lt;br/&gt;Three argon isotopes (masses 37, 39, and 40) are degassed from neutron-irradiated plagioclase and measured with a noble gas mass spectrometer. The kinetic parameters of activation energy and frequency factor (diffusivity at infinite temperature) are determined by regression of incremental heating data defining linear Arrhenius relationships. A high priority of this project is to distinguish between diffusion mechanisms operative in nature versus experimental artifacts. This is addressed by cyclic incremental heating of single crystals, emphasizing temperatures below 500 °C, and analysis of reirradiated samples to distinguish between domain depletion and domain destruction during heating. The length scale of diffusion is investigated by analyzing a range of crystal sizes, and laser ablation studies with high spatial resolution to map out isotopic gradients. The importance of microstructures such as exsolution lamellae and antiphase boundaries is evaluated using transmission electron microscopy. Software for analysis and application of the data are being developed and will be publicly available by the end of the grant period.]]></AbstractNarration>
+<MinAmdLetterDate>03/02/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/02/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0838572</AwardID>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Renne</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Paul R Renne</PI_FULL_NAME>
+<EmailAddress><![CDATA[prenne@bgc.org]]></EmailAddress>
+<NSF_ID>000459110</NSF_ID>
+<StartDate>03/02/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Shuster</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David L Shuster</PI_FULL_NAME>
+<EmailAddress><![CDATA[dshuster@bgc.org]]></EmailAddress>
+<NSF_ID>000459419</NSF_ID>
+<StartDate>03/02/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Berkeley Geochronology Center</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947091211</ZipCode>
+<PhoneNumber>5106449200</PhoneNumber>
+<StreetAddress>2455 RIDGE RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KZ4DBKNLP9V9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BERKELEY GEOCHRONOLOGY CENTER</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Berkeley Geochronology Center]]></Name>
+<CityName>BERKELEY</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947091211</ZipCode>
+<StreetAddress><![CDATA[2455 RIDGE RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1573</Code>
+<Text>Petrology and Geochemistry</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~258280</FUND_OBLG>
+</Award>
+</rootTag>

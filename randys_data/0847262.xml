@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Developing microwave heating as a tool for synthetic and mechanistic chemistry]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2015</AwardExpirationDate>
+<AwardTotalIntnAmount>575000.00</AwardTotalIntnAmount>
+<AwardAmount>575000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090003</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tyrone Mitchell</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;The Organic and Macromolecular Chemistry Program in the Chemistry Division at the National Science Foundation supports Professor Nicholas E. Leadbeater at the University of Connecticut who will examine microwave heating as a tool in synthetic organic chemistry to exploit its advantages over conventional heating that includes shorter reaction times, higher product yields, and enhanced selectivity. The first theme in the proposal is the development of microwave heating in conjunction with in-situ Raman spectroscopy as a tool for reaction monitoring, for mechanistic chemistry, and for probing the fundamentals behind the rate accelerations seen in microwave-promoted reactions. The second theme is synthetic chemistry driven, focusing attention on performing microwave-promoted reactions under a reactive gas atmosphere using the gas as a reagent, exploring the combination of microwave heating and photochemistry in synthesis, and the use of microwave-promoted reactions for the scale-up of reactions using supported catalysts. Overall, the work proposed here will lead to a more thorough understanding of the fundamental interaction of microwave energy with reaction mixtures; take advantage of microwave irradiation in conjunction with Raman spectroscopy as a tool for probing kinetics and developing new synthetic methodologies.&lt;br/&gt;&lt;br/&gt;The proposed activities will have clear implications for green chemistry since microwave heating offers a clean and efficient alternative for providing heat to drive chemical reactions. The educational aspects of this proposal are centered on the integration of new topics and technology for including preparative chemistry into the undergraduate curriculum, and an outreach program directed at high school students in high-need educational districts in Connecticut. Specifically, microwave heating will be used as an educational and enabling tool for the undergraduate organic chemistry laboratory. A course will be developed to introduce students to new technology and the concepts of clean chemistry as well as to use biofuels as teaching tools in general chemistry. The outreach component of the proposal is part of a larger project in collaboration with five other junior faculty members in the Chemistry Department, with the objective of introducing students from high-need school districts to new concepts they and to encourage them to consider careers in science.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/26/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/19/2014</MaxAmdLetterDate>
+<ARRAAmount>575000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0847262</AwardID>
+<Investigator>
+<FirstName>Nicholas</FirstName>
+<LastName>Leadbeater</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nicholas E Leadbeater</PI_FULL_NAME>
+<EmailAddress><![CDATA[nicholas.leadbeater@uconn.edu]]></EmailAddress>
+<NSF_ID>000028317</NSF_ID>
+<StartDate>07/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Connecticut</Name>
+<CityName>STORRS</CityName>
+<ZipCode>062691133</ZipCode>
+<PhoneNumber>8604863622</PhoneNumber>
+<StreetAddress>438 WHITNEY RD EXTENSION UNIT 11</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WNTPS995QBM7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CONNECTICUT</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D9SNFDRCW3W7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Connecticut]]></Name>
+<CityName>STORRS</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>062691133</ZipCode>
+<StreetAddress><![CDATA[438 WHITNEY RD EXTENSION UNIT 11]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1944</Code>
+<Text>BIMOLECULAR PROCESSES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1187</Code>
+<Text>PECASE- eligible</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1944</Code>
+<Text>BIMOLECULAR PROCESSES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~575000</FUND_OBLG>
+</Award>
+</rootTag>

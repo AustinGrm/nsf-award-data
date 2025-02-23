@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Oceanographic Instrumentation R/V Cape Hatteras]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>31600.00</AwardTotalIntnAmount>
+<AwardAmount>31600</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040101</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Holik</SignBlockName>
+<PO_EMAI>jholik@nsf.gov</PO_EMAI>
+<PO_PHON>7032927711</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This proposal requests a Soutar Box Core (Geochemical box core) to replace an old model that has been in the equipment pool of R/V Cape Hatteras, a 136-ft long research vessel owned by the National Science Foundation and operated by the Duke/UNC Oceanographic Consortium. The Soutar Box Corer will be a replacement for a 21-year old corer that is used primarily to take large (20 cm x 30 cm ) undisturbed sediment samples of the sea floor.&lt;br/&gt;&lt;br/&gt;Broader impacts:&lt;br/&gt; In the present proposal, the item recommended for support will become part of the shared-use infrastructure capability for basic instrumentation at Duke University Marine Laboratory.  The Duke technical support group has the expertise to operate and support the recommended system on the vessel&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/10/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0819669</AwardID>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Ustach</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joseph F Ustach</PI_FULL_NAME>
+<EmailAddress><![CDATA[joeu@duke.edu]]></EmailAddress>
+<NSF_ID>000091833</NSF_ID>
+<StartDate>07/10/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Wilder</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John D Wilder</PI_FULL_NAME>
+<EmailAddress><![CDATA[jwilder@duke.edu]]></EmailAddress>
+<NSF_ID>000257379</NSF_ID>
+<StartDate>07/10/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bruce</FirstName>
+<LastName>Corliss</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bruce H Corliss</PI_FULL_NAME>
+<EmailAddress><![CDATA[bcorliss@uri.edu]]></EmailAddress>
+<NSF_ID>000088771</NSF_ID>
+<StartDate>07/10/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277054640</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W MAIN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TP7EK8DZV6N5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DUKE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277054640</ZipCode>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0204000</Code>
+<Name>Oceanography</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5413</Code>
+<Text>OCEANOGRAPHIC INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~31600</FUND_OBLG>
+</Award>
+</rootTag>

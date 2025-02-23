@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Joint Incoherent Scatter Radar and Electro-Optical Remote-Sensing of the Effects of Auroras as well as Planetary, Tidal and Gravity Waves in the Polar Thermosphere over Sondrestrom]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>503484.00</AwardTotalIntnAmount>
+<AwardAmount>503484</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020201</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne-Marie Schmoltner</SignBlockName>
+<PO_EMAI>aschmolt@nsf.gov</PO_EMAI>
+<PO_PHON>7032924716</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;The project seeks continued support of investigations of the polar mesosphere, thermosphere, and ionosphere over Sondrestromfjord through coordinated optical and radar observations.  Airglow emissions are measured by a spectrometer and an interferometer and combined with observations by the incoherent scatter radar at Sondrestrom to provide information on the energetics, dynamics, and thermodynamics over the region.  The specific questions to be addressed are:  1. What are the effects of geomagnetic storms on the E-region's O/N2 (atomic oxygen to molecular nitrogen) ratio and on thermosphere dynamics and how do these lead to variations in the E-region composition?  2. What are the effects of intense auroral electric fields and the subsequent Joule heating on the thermodynamics of the ionosphere?  3. To what extent are perturbations to planetary and gravity waves observed in the polar mesosphere associated with stratospheric warming events?  The O/N2 abundance measurements will make contributions to understanding of thermospheric circulation and its solar and geomagnetic drivers.  The investigations focused on Joule heating  will augment information on auroral energy inputs.  The planetary and gravity wave investigation will contribute to a more quantitative understanding of the energetic coupling between the stratosphere and the mesosphere/lower thermosphere region.   A particular interest is the energy transport mechanism responsible for the mesopause cooling that precedes stratospheric warmings by about two days, including the role of planetary and gravity waves in the stratospheric warming events.  The broader impacts of the project include the involvement of graduate and undergraduate students and a postdoctoral researcher and the generation of an extensive database of optical and radar data.]]></AbstractNarration>
+<MinAmdLetterDate>08/11/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/23/2010</MaxAmdLetterDate>
+<ARRAAmount>503484</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0854704</AwardID>
+<Investigator>
+<FirstName>Gulamabas</FirstName>
+<LastName>Sivjee</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gulamabas G Sivjee</PI_FULL_NAME>
+<EmailAddress><![CDATA[sivjee@erau.edu]]></EmailAddress>
+<NSF_ID>000231320</NSF_ID>
+<StartDate>08/11/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Syed</FirstName>
+<LastName>Azeem</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Syed Azeem</PI_FULL_NAME>
+<EmailAddress><![CDATA[azeem71d@erau.edu]]></EmailAddress>
+<NSF_ID>000330235</NSF_ID>
+<StartDate>08/11/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Hughes</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John M Hughes</PI_FULL_NAME>
+<EmailAddress><![CDATA[John.Hughes@erau.edu]]></EmailAddress>
+<NSF_ID>000255512</NSF_ID>
+<StartDate>08/11/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Embry-Riddle Aeronautical University</Name>
+<CityName>DAYTONA BEACH</CityName>
+<ZipCode>321143910</ZipCode>
+<PhoneNumber>3862267695</PhoneNumber>
+<StreetAddress>1 AEROSPACE BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U5MMBAC9XAM5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>EMBRY-RIDDLE AERONAUTICAL UNIVERSITY, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U5MMBAC9XAM5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Embry-Riddle Aeronautical University]]></Name>
+<CityName>DAYTONA BEACH</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>321143910</ZipCode>
+<StreetAddress><![CDATA[1 AEROSPACE BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0205000</Code>
+<Name>Space</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1521</Code>
+<Text>AERONOMY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~503484</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Fe Acquisition by Trichodesmium:  Role of the Associated Microbial Community]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2007</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>129192</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040301</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Garrison</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Trichodesmium are colonial marine N2-fixing cyanobacteria that contribute significantly to new nitrogen pools in the oligotrophic tropical and subtropical oceans. Due to the high iron requirement for diazotrophic growth and the low availability of iron in oceanic waters, iron availability has been proposed to be an important limiting factor for Trichodesmium growth and N2 fixation. Currently little is known about the mechanisms employed by Trichodesmium to acquire iron.  In this project, bacteria living in close association with Trichodesmium colonies are being studied in their role in facilitating colony iron acquisition, through the production of Fe chelating agents (eg. siderophores).   These PIs are characterizing the microbial community associated with Trichodesmium colonies, and investigating the ability of the community to produce iron-complexing compounds by using cultivated strains, close relatives of community members, or molecular approaches.  Radiotracer studies of Trichodesmium uptake of dissolved and colloidal iron, including iron complexes with marine siderophores from Trichodesmium-associated bacteria are being carried out both in the laboratory and in the field.  Molecular and uptake studies are being carried out with both cultivated and natural populations. Cultivation of non-axenic and axenic Trichodesmium strains are allowing comparison of siderophore uptake and colloidal iron dissolution with and without the presence of bacteria. Collection of natural populations are being carried out in conjunction with ongoing programs at the Bermuda Atlantic Time Series station (BATS) and the Hawaii Ocean Time-series study (HOT) as well as on cruises of opportunity.]]></AbstractNarration>
+<MinAmdLetterDate>06/25/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/17/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0838213</AwardID>
+<Investigator>
+<FirstName>Margo</FirstName>
+<LastName>Haygood</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Margo G Haygood</PI_FULL_NAME>
+<EmailAddress><![CDATA[margo.haygood@utah.edu]]></EmailAddress>
+<NSF_ID>000299823</NSF_ID>
+<StartDate>06/25/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Oregon Health &amp; Science University</Name>
+<CityName>PORTLAND</CityName>
+<ZipCode>972393011</ZipCode>
+<PhoneNumber>5034947784</PhoneNumber>
+<StreetAddress>3181 SW SAM JACKSON PARK RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OR03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPSNT86JKN51</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OREGON HEALTH &amp; SCIENCE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Oregon Health &amp; Science University]]></Name>
+<CityName>PORTLAND</CityName>
+<StateCode>OR</StateCode>
+<ZipCode>972393011</ZipCode>
+<StreetAddress><![CDATA[3181 SW SAM JACKSON PARK RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OR03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1650</Code>
+<Text>BIOLOGICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9117</Code>
+<Text>MARINE BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<FUND_OBLG>2003~129192</FUND_OBLG>
+</Award>
+</rootTag>

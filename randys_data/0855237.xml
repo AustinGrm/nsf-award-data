@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[II-NEW: Acquisition of FPGA-Based Emulation Hardware for Research in Computer Systems Architecture]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>161868.00</AwardTotalIntnAmount>
+<AwardAmount>161868</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Krishna Kant</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[A recent shift from single-core to multi-core and many-core architectures and rising complexity of both hardware and software pose a number of challenges to computer systems industry.  Computer architecture research is crucial in finding new approaches for designing, programming, debugging, and operating future computer systems based on multi-core processors.&lt;br/&gt;Computer architecture research has predominantly relied on software simulations for quantitative evaluations of new architectural ideas and design space exploration in the last two decades.  However, simulation-based research cannot keep pace with growing demands of new architectures and new benchmarks, suffering from extremely long simulation times, over-burdening complexity, and limited credibility.  FPGA-based hardware emulators provide an attractive and cost-effective alternative to simulation: they address key weaknesses of software simulators - scalability, speed, and credibility, while offering similar levels of flexibility, observability, and reproducibility.  Modern FPGAs can accommodate up to 16 processor cores running at clock speeds of over 200 MHz.  At these speeds, they enable full-system emulation of complex multi-core architectures, run operating systems and real-world applications, and are several orders of magnitude faster than corresponding simulators.&lt;br/&gt;This project will acquire new FPGA-based emulation hardware infrastructure at the University of Alabama in Huntsville.  It will be used by researchers in the Laboratory for Advanced Computer Architectures and Systems (LaCASA), to help their ongoing research efforts targeting new architectures for increasing programmers? productivity and dependability in both single-core and multi-core computer systems.  The infrastructure will also be used in several graduate and undergraduate computer engineering courses to improve academic training and learning experience, and help recruiting efforts. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/21/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/21/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855237</AwardID>
+<Investigator>
+<FirstName>Aleksandar</FirstName>
+<LastName>Milenkovic</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Aleksandar Milenkovic</PI_FULL_NAME>
+<EmailAddress><![CDATA[milenka@ece.uah.edu]]></EmailAddress>
+<NSF_ID>000351300</NSF_ID>
+<StartDate>08/21/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Alabama in Huntsville</Name>
+<CityName>HUNTSVILLE</CityName>
+<ZipCode>358051911</ZipCode>
+<PhoneNumber>2568242657</PhoneNumber>
+<StreetAddress>301 SPARKMAN DR NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AL05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HB6KNGVNJRU1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF ALABAMA IN HUNTSVILLE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Alabama in Huntsville]]></Name>
+<CityName>HUNTSVILLE</CityName>
+<StateCode>AL</StateCode>
+<ZipCode>358051911</ZipCode>
+<StreetAddress><![CDATA[301 SPARKMAN DR NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AL05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7354</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7359</Code>
+<Text>CCRI-CISE Cmnty Rsrch Infrstrc</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~161868</FUND_OBLG>
+</Award>
+</rootTag>

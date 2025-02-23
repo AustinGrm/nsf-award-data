@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Lipid bilayer-inorganic nanoparticle interactions: Model systems to examine the role of particle size and surface chemistry on cell membrane stability]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>188493.00</AwardTotalIntnAmount>
+<AwardAmount>194493</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Barbara Karn</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[CBET- 0828022  &lt;br/&gt;Bothun&lt;br/&gt;&lt;br/&gt;As nanomaterial-based commercial technologies and products emerge, it is important that studies be conducted in tandem to gauge their potential health and environmental impacts.  Biological membranes define cell structure and function, and provide an initial point of contact for cell/nanomaterial interactions.  However, quantifying these interactions and relating them to nanomaterial biocompatibility has proven difficult using in vitro or in vivo studies.  This project will examine thermodynamic and transport properties of lipid bilayers, as model membranes, exposed to engineered nanoparticles. The goal is to determine the effect of nanoparticle composition, size, and surface chemistry on biomembrane stability by elucidating specific bilayer/nanoparticle interactions mechanisms.  Materials of immediate interest include carbon fullerenes, and native or hydrophobically modified alumina, iron oxide, and silver nanoparticles ranging from 5 to 20 nm.  Research will be conducted under four specific aims: (1) Protocols will be developed for examining biomembrane-nanoparticle interactions using model lipid bilayers in the form of vesicles and supported lipid membranes (SLMs, planar).  Complimentary information will be obtained from the two geometries.  (2) Changes in thermodynamic properties, such as phase behavior and melting cooperativity, associated with biomembrane response to nanoparticles will be characterized.  This includes nanoparticles adsorbing within the bilayer (hydrophobic) or at the lipid/water interface (hydrophilic).  (3) The ability of adsorbed nanoparticles to alter the lateral diffusion of lipids within the bilayer, which relates to the dynamic behavior of cell membranes, will be examined. (4) Changes in transmembrane permeability due to bilayer stabilization and/or destabilization with adsorbed nanoparticles will be characterized.&lt;br/&gt;&lt;br/&gt;Nanomaterial toxicity has received considerable attention as of late, and this project addresses a specific aspect related to the cell membrane and nanoparticle bioaccumulation.  Understanding such interactions will aid the design of biocompatible nanomaterials.  In addition to publications and presentations, they will disseminate their results on their research website and the NIOSH Nanoparticle Information Library website.  In addition, the new structures formed will provide interesting hybrid liposomal systems that could potentially be used in the medical and pharmaceutical fields.  This project will also serve as an educational tool for high school, undergraduate, and graduate students.  The PI participates in a summer high school intern program and has been contacted by the New England LSAMP program to mentor students.  These programs target underrepresented students in engineering.  Finally, the concepts behind this project and the results obtained will be used as teaching material in a new interdisciplinary graduate-level Bionanotechnology course offered in the spring semester.]]></AbstractNarration>
+<MinAmdLetterDate>08/25/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>02/04/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0828022</AwardID>
+<Investigator>
+<FirstName>Geoffrey</FirstName>
+<LastName>Bothun</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Geoffrey D Bothun</PI_FULL_NAME>
+<EmailAddress><![CDATA[gbothun@uri.edu]]></EmailAddress>
+<NSF_ID>000487112</NSF_ID>
+<StartDate>08/25/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Rhode Island</Name>
+<CityName>KINGSTON</CityName>
+<ZipCode>028811974</ZipCode>
+<PhoneNumber>4018742635</PhoneNumber>
+<StreetAddress>75 LOWER COLLEGE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>RI02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CJDNG9D14MW7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF RHODE ISLAND</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NFS9RNJVPMC7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Rhode Island]]></Name>
+<CityName>KINGSTON</CityName>
+<StateCode>RI</StateCode>
+<ZipCode>028811974</ZipCode>
+<StreetAddress><![CDATA[75 LOWER COLLEGE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>RI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0118000</Code>
+<Name>Pollution Control</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1179</Code>
+<Text>Nanoscale Interactions Program</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>011E</Code>
+<Text>Nano environmental health &amp; safety</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9197</Code>
+<Text>ENVIRONMENTAL TECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~188493</FUND_OBLG>
+<FUND_OBLG>2009~6000</FUND_OBLG>
+</Award>
+</rootTag>

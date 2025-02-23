@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Nanomechanics of Biologically Inspired Repeatable and Hierarchical Elastomer Fibrillar Adhesives]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>299332.00</AwardTotalIntnAmount>
+<AwardAmount>299332</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dennis Robert Carter</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The research objective of this award is to develop a design methodology for optimal synthetic fibrillar adhesives inspired by gecko foot-hairs, to improve our detailed nanomechanical understanding of biologically inspired fiber array adhesion, and to fabricate and demonstrate hierarchical synthetic fibrillar adhesives similar to their biological counterparts.  The research breakthrough proposed in this work is the development of a design methodology for the fabrication of hierarchical and high performance biologically inspired fibrillar adhesives using continuum theoretical nanomechanical models.  These improved theoretical fibrillar nanomechanical models and fabricated synthetic multi-level fibrillar adhesives will advance research of biologically inspired adhesives and nanofiber adhesion, contact, and fracture mechanics and will produce new self-cleaning and repeatable adhesive commercial products in the near future.&lt;br/&gt;&lt;br/&gt;If successful, the results of this research will provide an opportunity to create new repeatable adhesive products in textile, biomedical, space, sports, entertainment, product design, robotics, and packaging industry.  Interdisciplinary research work in this proposal will be transferred to many educational activities in mechanical engineering, biomedical engineering, and materials science.  Micro/Nano-Robotics course developed by the principle investigator will use the biologically inspired adhesive and material concepts, models, and fabrication facilities in this project to design and implement new biologically inspired nanomaterials in student semester-long projects.  The research results of this project will be disseminated to children, K-12 students and teachers, and college students through public lectures and summer internships.  This project will train underrepresented graduate and undergraduate students in biologically inspired inspired nanomaterials and nanomechanics fields.]]></AbstractNarration>
+<MinAmdLetterDate>04/21/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/21/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0800408</AwardID>
+<Investigator>
+<FirstName>Metin</FirstName>
+<LastName>Sitti</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Metin Sitti</PI_FULL_NAME>
+<EmailAddress><![CDATA[sitti@cmu.edu]]></EmailAddress>
+<NSF_ID>000490682</NSF_ID>
+<StartDate>04/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 FORBES AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NKNFLNQ613</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARNEGIE MELLON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NKNFLNQ613</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>PITTSBURGH</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152133815</ZipCode>
+<StreetAddress><![CDATA[5000 FORBES AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7479</Code>
+<Text>BMMB-Biomech &amp; Mechanobiology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>028E</Code>
+<Text>BIOMECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~299332</FUND_OBLG>
+</Award>
+</rootTag>

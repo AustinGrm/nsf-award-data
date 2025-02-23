@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research:  Comparative Investigation of Incipient Sex Chromosome Evolution in the genus Asparagus</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>90000.00</AwardTotalIntnAmount>
+<AwardAmount>90000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010207</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>George Gilchrist</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>While distinctive sex chromosomes are a conspicuous feature of the nuclei of diverse organisms, the evolutionary processes responsible for the origins of separate genders and sex chromosomes in animals, plants and fungi remain largely unknown. The independent origin of separate sexes (that is, male individuals and female individuals) in many flowering plant lineages provides biologists with an opportunity to investigate various stages in the evolution of gender determination and sex chromosomes.  For example, separate sexes have evolved within the last two million years in the genus Asparagus and the genes responsible for gender determination have been mapped to a relatively small region on otherwise recombining chromosomes.  PIs, Leebens-Mack and Pires will sequence across the newly evolving female (proto-X) and male (proto-Y) forms of this region in garden asparagus in order to test hypotheses concerning the early evolution of incipient sex chromosomes and to identify candidate genes that may be responsible for gender determination.&lt;br/&gt;&lt;br/&gt;By investigating the mechanisms that promote repression of recombination between genes influencing male and female function in flowering plants, the results from this project will have implications for crop improvement and the fundamental processes that shape genome structure.  Undergraduate students will also be trained in genome annotation and comparative genomics.</AbstractNarration>
+<MinAmdLetterDate>07/15/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0841988</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Leebens-Mack</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James H Leebens-Mack</PI_FULL_NAME>
+<EmailAddress>jleebensmack@plantbio.uga.edu</EmailAddress>
+<PI_PHON>7065835573</PI_PHON>
+<NSF_ID>000306247</NSF_ID>
+<StartDate>07/15/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Georgia Research Foundation Inc</Name>
+<CityName>ATHENS</CityName>
+<ZipCode>306021589</ZipCode>
+<PhoneNumber>7065425939</PhoneNumber>
+<StreetAddress>310 EAST CAMPUS RD TUCKER HALL R</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NMJHD63STRC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Georgia]]></Name>
+<CityName>ATHENS</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>306020001</ZipCode>
+<StreetAddress><![CDATA[310 E CAMPUS RD TUCKER HALL RM 4]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1329</Code>
+<Text>Plant Genome Research Project</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1127</Code>
+<Text>EVOLUTIONARY PROCESSES CLUSTER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1329</Code>
+<Text>PLANT GENOME RESEARCH PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7378</Code>
+<Text>EVOLUTIONARY GENETICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~90000</FUND_OBLG>
+</Award>
+</rootTag>

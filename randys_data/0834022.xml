@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SUSY09: The 17th International Conference on Supersymmetry and Unification of Fundamental Interactions; June 2009, Boston, MA]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>10000.00</AwardTotalIntnAmount>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Keith Dienes</SignBlockName>
+<PO_EMAI>kdienes@nsf.gov</PO_EMAI>
+<PO_PHON>7032925314</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This proposal is to provide partial support for a Conference at Northeastern which will bring experimentalists and theorists together to discuss new developments in Physics Beyond the Standard model related to Tevatron and LHC physics. The 17th "International Conference on Supersymmetry and Unfication of Fundamental Interactions (SUSY)", will be held at Northeastern University in Boston, June 18-24, 2009. The conference will bring together leading experts in the area of physics beyond the Standard Model including supersymmetry, extra dimensions, string phenomenology, and model building. There will be a strong experimental component in the scientific program with a number of experimental talks in the area of particle physics and specially related to the analysis of data from the Fermilab Tevatron, and hopefully of preliminary data from the Large Hadron Collider. There will be a special session on new physics signatures analyses at the LHC.  Some of the topics that will be included are : Physics from CDF and D0 at the Tevatron,  Supersymmetry and the Higgs Phenomenology at the LHC, Sparticles and their detection at the Large Hadron Collider,Extra dimensions, Flavor problem and CP violation, the interconnections of dark matter and the LHC physics, LHC new physics signatures and simulations, and Neutrino physics and proton stability.  The broader impacts are that many students will participate and give talks in parallel sessions at SUSY-09. This would be an important opportunity for them to interact with a wide group of active researchers in their area to achieve a broader perspective of developments on the frontiers of physics  The Physics program of the conference will help in the discovery of new physics beyond the Standard Model. This would have important implications for the development of high energy theory and string theory in the coming decades.The conference will enhance international collaboration among groups working on similar projects.]]></AbstractNarration>
+<MinAmdLetterDate>04/23/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>04/23/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0834022</AwardID>
+<Investigator>
+<FirstName>Pran</FirstName>
+<LastName>Nath</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Pran Nath</PI_FULL_NAME>
+<EmailAddress><![CDATA[nath@neu.edu]]></EmailAddress>
+<NSF_ID>000441788</NSF_ID>
+<StartDate>04/23/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northeastern University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>021155005</ZipCode>
+<PhoneNumber>6173733004</PhoneNumber>
+<StreetAddress>360 HUNTINGTON AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HLTMVS2JZBS6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHEASTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>HLTMVS2JZBS6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northeastern University]]></Name>
+<CityName>BOSTON</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021155005</ZipCode>
+<StreetAddress><![CDATA[360 HUNTINGTON AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1221</Code>
+<Text>HEP-High Energy Physics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1286</Code>
+<Text>Elem. Particle Physics/Theory</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1643</Code>
+<Text>Particle Astrophysics/Cosmic P</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~10000</FUND_OBLG>
+</Award>
+</rootTag>

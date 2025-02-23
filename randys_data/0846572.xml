@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER:  Advancing Model Predictive Control of Cell Differentiation</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Radhakisan Baheti</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Proposal Number: 0846572&lt;br/&gt;&lt;br/&gt;This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;CAREER: Advancing Model Predictive Control of Cell Differentiation&lt;br/&gt;&lt;br/&gt;Intellectual Merit: One goal of tissue engineering is to direct the differentiation, integration, and organization of living cells to produce biological substitutes for organs to meet the need of nearly 100,000 Americans who are waiting for organ transplants. Current efforts in tissue engineering are largely driven by experiments with very little guidance from control theory. This project develops and experimentally evaluates a control theory-based approach that will facilitate the design of protocols to predictably promote the differentiation of human promyelocytic leukemia (HL60) cells into monocytes and granulocytes. Model predictive controllers will be designed using sparse grid-based optimization methods to select practical values that are robust to model uncertainties and experimental disturbances. This potentially&lt;br/&gt;transformative research will be among the very first studies specifically designed to develop and experimentally validate control theory-based strategies to control cellular differentiation.&lt;br/&gt;&lt;br/&gt;Broader Impact: Efforts will be made to educate and inspire tomorrows engineers to pursue careers that utilize control principles and practices to design experimental strategies to manipulate cellular processes. It is estimated that more than 500 graduate, undergraduate, and middle school students will benefit from the proposed educational activities. Mastery-oriented teaching and small group mentoring sessions are anticipated to promote student attainment of a positive self-image, sustained motivation, and life-long learning skills while the Web-modules, electronic fieldtrips, and summer camp activities will highlight the beneficial contributions of control engineers to society. This integrated research and education career plan will have implications for the control theory, systems biology, tissue engineering, and engineering education communities.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>07/22/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/14/2014</MaxAmdLetterDate>
+<ARRAAmount>400000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0846572</AwardID>
+<Investigator>
+<FirstName>Ann</FirstName>
+<LastName>Rundell</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ann Rundell</PI_FULL_NAME>
+<EmailAddress>rundell@ecn.purdue.edu</EmailAddress>
+<NSF_ID>000088486</NSF_ID>
+<StartDate>07/22/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>West Lafayette</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>2550 Northwestern Ave.</StreetAddress>
+<StreetAddress2><![CDATA[Suite 1900]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>072051394</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>072051394</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>West Lafayette</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479061332</ZipCode>
+<StreetAddress><![CDATA[2550 Northwestern Ave.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0112000</Code>
+<Name>System Theory</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7607</Code>
+<Text>EPCN-Energy-Power-Ctrl-Netwrks</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>093E</Code>
+<Text>System fab/packaging &amp; assembly</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1187</Code>
+<Text>PECASE- eligible</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~400000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Mechanistic insights into nitric oxide synthase catalytic function]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>255000.00</AwardTotalIntnAmount>
+<AwardAmount>255000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090005</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Timothy Patten</SignBlockName>
+<PO_EMAI>tpatten@nsf.gov</PO_EMAI>
+<PO_PHON>7032927196</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).  The Inorganic, Bioinorganic, and Organometallic Chemistry Program supports the efforts of Dr. Mekki Bayachou of Cleveland State University to explore the two-step reaction by which Nitric Oxide Synthase (NOS) enzymes produce NO from the amino acid L-arginine (Arg).  This research addresses fundamental questions about how the protein environment in NOS controls the reduction potential of its heme active site and explores how the binding of cofactors and substrates may regulate the activity of NOSs by altering the heme's redox potential during catalysis.  There is considerable current interest in NO biochemistry because of the remarkable bioregulatory functions that have been identified for the NO free radical.  Professor Bayachou, his students, and his collaborators are well poised to address many fascinating and fundamental mechanistic questions in NOS enzymology through the development of unique fast-scan cyclic voltammetry and spectroelectrochemical tool sets.  The innovative tools developed in this study should be widely applicable to other heme proteins.]]></AbstractNarration>
+<MinAmdLetterDate>07/23/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2009</MaxAmdLetterDate>
+<ARRAAmount>255000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0848820</AwardID>
+<Investigator>
+<FirstName>Mekki</FirstName>
+<LastName>Bayachou</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mekki Bayachou</PI_FULL_NAME>
+<EmailAddress><![CDATA[m.bayachou@csuohio.edu]]></EmailAddress>
+<NSF_ID>000490805</NSF_ID>
+<StartDate>07/23/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cleveland State University</Name>
+<CityName>CLEVELAND</CityName>
+<ZipCode>441152214</ZipCode>
+<PhoneNumber>2166873630</PhoneNumber>
+<StreetAddress>2121 EUCLID AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YKGMTXA2NVL6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CLEVELAND STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cleveland State University]]></Name>
+<CityName>CLEVELAND</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>441152214</ZipCode>
+<StreetAddress><![CDATA[2121 EUCLID AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1966</Code>
+<Text>SYNTHETIC INORGANIC</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1144</Code>
+<Text>BIOMOLECULAR SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1982</Code>
+<Text>BIOLOGICAL CHEMISTRY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~255000</FUND_OBLG>
+</Award>
+</rootTag>

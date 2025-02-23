@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[WATERS Network:  Observing and Predicting Freshwater Eutrophication-Algal Bloom Dynamics Using Local Hyperspectral Imaging]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>395000.00</AwardTotalIntnAmount>
+<AwardAmount>395000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030109</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Thomas Torgersen</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[WATERS Network: Observing and Predicting Nutrient-Algae Dynamics Using Ground-Based and Underwater Hyperspectral Imaging&lt;br/&gt;Thomas C. Harmon and Qinghua Guo&lt;br/&gt;School of Engineering, University of California, Merced&lt;br/&gt;&lt;br/&gt;This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5). &lt;br/&gt;&lt;br/&gt;ABSTRACT -  Problems associated with primary production include eutrophication, hypoxia and harmful algal blooms, all of which can negatively impact human health and ecosystem services in the critical zone.  The proposed research will explore expanded use of a commonly implemented remote sensing tool, hyperspectral imaging (HSI), in the realm of water quality observation.  HSI has proven invaluable when deployed both aerially and on-the-ground for noninvasively classifying vegetative type and other properties and, to a lesser yet significant extent, for mapping water quality properties (e.g., chlorophyll, suspended solids, dissolved organic matter) in lakes, relatively large rivers, estuaries and coastal water bodies.   Underwater application of HSI is as yet unproven, but recent evidence points to the potential of HSI to reveal complex spatiotemporal patterns of a vast array of chemicals, including nitrogen and phosphorous species critical to many aquatic ecosystems.  The main objective of the proposed work is to test a strategy for expanding the application of hyperspectral imaging (HSI) to a broad array of coupled physical, chemical, and biological processes in aquatic systems.  The work will emphasize the use of ground-based and underwater (as opposed to airborne) HSI.  Experiments will begin in the laboratory, and extend to reservoirs and streams in the San Joaquin Valley and the Southern Sierra Critical Zone Observatory.  The approach will not only provide a powerful noninvasive and real-time sensor for the simultaneous mapping of multiple water quality parameters, but the results of this work will provide a transformative sensor for the broad range of large scale observatories, such as the CZO, NEON, and proposed WATERS Network efforts.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/19/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2009</MaxAmdLetterDate>
+<ARRAAmount>395000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0854566</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Harmon</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thomas C Harmon</PI_FULL_NAME>
+<EmailAddress><![CDATA[tharmon@ucmerced.edu]]></EmailAddress>
+<NSF_ID>000316718</NSF_ID>
+<StartDate>07/19/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Qinghua</FirstName>
+<LastName>Guo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Qinghua Guo</PI_FULL_NAME>
+<EmailAddress><![CDATA[qguo@ucmerced.edu]]></EmailAddress>
+<NSF_ID>000486915</NSF_ID>
+<StartDate>07/19/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California - Merced</Name>
+<CityName>MERCED</CityName>
+<ZipCode>953435001</ZipCode>
+<PhoneNumber>2092012039</PhoneNumber>
+<StreetAddress>5200 N LAKE RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FFM7VPAG8P92</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, MERCED FOUNDATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California - Merced]]></Name>
+<CityName>MERCED</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>953435001</ZipCode>
+<StreetAddress><![CDATA[5200 N LAKE RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1579</Code>
+<Text>Hydrologic Sciences</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~395000</FUND_OBLG>
+</Award>
+</rootTag>

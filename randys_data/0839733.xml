@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I: The Synthesis of Air-stable Copper Nanoparticles for the Printed Electronics Industry</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>99992.00</AwardTotalIntnAmount>
+<AwardAmount>99992</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>William Haines</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research Phase I project is to test the feasibility of the chemical synthesis for the production of copper nanoparticles, which are stable on the air, for the electronic industry. UT Dots will develop a synthetic procedure for the production of copper nanoparticles that will be formulated as ink for printable electronic industry.&lt;br/&gt;&lt;br/&gt;Air stable copper nanoparticles may be used in a wide variety of applications.</AbstractNarration>
+<MinAmdLetterDate>11/04/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>11/04/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839733</AwardID>
+<Investigator>
+<FirstName>Yuri</FirstName>
+<LastName>Didenko</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yuri T Didenko</PI_FULL_NAME>
+<EmailAddress>yuri@irilliant.com</EmailAddress>
+<PI_PHON>2173903286</PI_PHON>
+<NSF_ID>000301658</NSF_ID>
+<StartDate>11/04/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>UT Dots, Inc.</Name>
+<CityName>CHAMPAIGN</CityName>
+<ZipCode>618222841</ZipCode>
+<PhoneNumber>2173903286</PhoneNumber>
+<StreetAddress>2716 W CLARK RD STE E</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NQTNHLKQMD91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UT DOTS, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[UT Dots, Inc.]]></Name>
+<CityName>CHAMPAIGN</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>618222841</ZipCode>
+<StreetAddress><![CDATA[2716 W CLARK RD STE E]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1788</Code>
+<Text>Nanomanufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~99992</FUND_OBLG>
+</Award>
+</rootTag>

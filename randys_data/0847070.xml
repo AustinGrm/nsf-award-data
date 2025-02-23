@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Three-dimensional optical image guided spectroscopy for biological material analysis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2015</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajakkannu Mutharasan</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;0847070&lt;br/&gt;Lyubovitsky&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The objective of this integrated research and educational program is to understand the mechanisms that form proteins in living tissues. This understanding is critical for inducing tissue growth for wound healing or disease recovery, and for other biomanufacturing applications. The specific focus of the project is to develop a non-invasive optical microscopy method that will enable biological researchers, for the first time, to literally see how the proteins form and disassemble. This capability can have a transformative impact on biological research.&lt;br/&gt; &lt;br/&gt;INTELLECTUAL MERIT. To understand the complex process of protein assembly, researchers need to be able to visualize processes at very small scales on the order of microns (1/1,000,000 meter) and smaller. An interaction of light with matter can produce the needed pictures of protein components without harming the samples. However, it is still not known what exactly generates the signals used to make protein pictures. The goal of this project is to establish comprehensive approaches for studying how proteins are formed in living tissues. The approach will be based on a multi-photon optical microscopy method that combines nonlinear optical phenomena of second harmonic generation and two-photon fluorescence signals integrated with Raman spectroscopy to study protein assembly. &lt;br/&gt;&lt;br/&gt;BROADER IMPACT. The ability to non-invasively monitor and understand the structure, composition and function of protein-derived biological materials and adhesives will have significant impacts on biological research and bioengineering. It will make it possible to establish scientific principles for the design, construction, modification, growth, and maintenance of living engineered tissues, implants and novel adhesives. The project also incorporates initiatives to train graduate, undergraduate, and pre-college students from diverse backgrounds. The Principal Investigator will develop course curriculum that requires students? in-depth understanding of subject matters related to optical microscopy and its biological applications. Students of various ages and the general public will gain a greater appreciation of how diverse fields interact to produce high impact engineering research on the fundamental assembly mechanisms of protein-based materials.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/06/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/05/2014</MaxAmdLetterDate>
+<ARRAAmount>400000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0847070</AwardID>
+<Investigator>
+<FirstName>Julia</FirstName>
+<LastName>Lyubovitsky</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Julia G Lyubovitsky</PI_FULL_NAME>
+<EmailAddress><![CDATA[julial@ucr.edu]]></EmailAddress>
+<NSF_ID>000498680</NSF_ID>
+<StartDate>07/06/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Riverside</Name>
+<CityName>RIVERSIDE</CityName>
+<ZipCode>925210001</ZipCode>
+<PhoneNumber>9518275535</PhoneNumber>
+<StreetAddress>200 UNIVERSTY OFC BUILDING</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>41</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA41</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MR5QC5FCAVH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Riverside]]></Name>
+<CityName>RIVERSIDE</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>925210001</ZipCode>
+<StreetAddress><![CDATA[200 UNIVERSTY OFC BUILDING]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>41</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA41</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7909</Code>
+<Text>BIOSENS-Biosensing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1187</Code>
+<Text>PECASE- eligible</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~400000</FUND_OBLG>
+</Award>
+</rootTag>

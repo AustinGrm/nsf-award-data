@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research:   In Situ Examination of Hydrogen Peroxide Sources and Sinks in a Slightly Alkaline Stream]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>97588.00</AwardTotalIntnAmount>
+<AwardAmount>97588</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030205</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Enriqueta Barrera</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Photochemically produced hydrogen peroxide (H2O2) is ubiquitous in sunlit freshwater and may play a number of important biogeochemical roles. Of particular interest is that H2O2 may be the most important source of hydroxyl radical (OH) in surface waters via reduction of H2O2 by Fe(II). Oxidation by hydroxyl radical is an effective mechanism for converting refractory organic compounds, including contaminants and natural organic matter, to CO2 and microbial substrates. It is still unclear whether the sources and sinks of H2O2 identified in lakes and marine systems are the most important controls on H2O2 in streams. The role of reduction of H2O2, in particular, remains unexplored in all but very acidic streams. &lt;br/&gt;&lt;br/&gt;In addition, preliminary modeling of a theoretical reach-scale stream tracer injection experiment suggests that H2-18O2, used in conjunction with a conservative tracer, could be uniquely useful for addressing one of the main problems of modeling biogeochemical processes in streams (e.g. nitrogen cycling, contaminant biodegradation, sorption): the need for a tracer that can distinguish flowpaths involving transient storage in surface water pools from flowpaths through the hyporheic zone (subsurface). However, H2-18O2's application as a tracer requires a better understanding of the controls on H2-18O2 decomposition rates in surface and subsurface waters. &lt;br/&gt;&lt;br/&gt;The overall goal of the proposed work is to conduct the first comprehensive study of hydrogen peroxide cycling in a natural stream chosen to be broadly representative of agricultural headwater streams in the central U.S. Measurement of the fate of natural H2O2 and an injected isotope-labeled H2-18O2 tracer in mesocosms placed directly into stream sediments will be used to test our current understanding of H2O2 sources and sinks in sunlit stream water and the underlying sediment. &lt;br/&gt;&lt;br/&gt;Our results will show whether hydroxyl radical production from hydrogen peroxide could be a dominant mechanism of indirect photolysis of organic contaminants and natural organic matter in streams. Photolysis of natural organic matter is of significance because it produces bioavailable carbon substrates as well as carbon dioxide, and is thought to be an important control on ecosystem-scale carbon cycling. Our work could also lay the groundwork for developing methods to accelerate Fenton's reaction in systems such as agricultural headwaters, for the purpose of decreasing concentrations of contaminants such as atrazine. Finally, if hydrogen peroxide turns out to be a good tracer for distinguishing between surface and subsurface storage in streams, the proposed work will contribute to the development of better models of biogeochemical processes such as nitrogen cycling and biodegradation of contaminants in these environments. The proposed work is a joint effort between a new investigator (Durelle Scott) and a mid-level female scientist (Bettina Voelker), and will support one graduate student and one undergraduate researcher each at the Colorado School of Mines and at the University of Nebraska.]]></AbstractNarration>
+<MinAmdLetterDate>02/10/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>02/10/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855699</AwardID>
+<Investigator>
+<FirstName>Durelle</FirstName>
+<LastName>Scott</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Durelle T Scott</PI_FULL_NAME>
+<EmailAddress><![CDATA[dscott@vt.edu]]></EmailAddress>
+<NSF_ID>000225563</NSF_ID>
+<StartDate>02/10/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240603359</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>300 TURNER ST NW</StreetAddress>
+<StreetAddress2><![CDATA[STE 4200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QDE5UHE5XD16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIRGINIA POLYTECHNIC INSTITUTE &amp; STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M515A1DKXAN8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Virginia Polytechnic Institute and State University]]></Name>
+<CityName>BLACKSBURG</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>240603359</ZipCode>
+<StreetAddress><![CDATA[300 TURNER ST NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7295</Code>
+<Text>Geobiology &amp; Low-Temp Geochem</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<FUND_OBLG>2007~97588</FUND_OBLG>
+</Award>
+</rootTag>

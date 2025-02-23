@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Theoretical Study of Nucleon Structure and Hadronic Interactions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>240000.00</AwardTotalIntnAmount>
+<AwardAmount>240000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bogdan Mihaila</SignBlockName>
+<PO_EMAI>bmihaila@nsf.gov</PO_EMAI>
+<PO_PHON>7032928235</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;Neutrons and protons, the constituents of the atomic nucleus, are composed of quarks.  We study how this quark substructure appears in nuclear physics.  We focus on tests of charge symmetry, which would be exact if protons and neutrons were identical.  We study details of the strong force binding the atomic nucleus, concentrating on reactions where one observes all final reaction products.  We carry out simulations of electrons or atoms moving in small two-dimensional nanoscale systems, where the wave nature of particles produces large effects.  &lt;br/&gt;&lt;br/&gt;Broader impacts involve training of undergraduates and postdocs, who become expert in complex systems with application to technology, defense, communications and finance.  Recent postdocs have included several women.  The PI gives seminars on advances in physics for non-scientists, increasing scientific literacy in the general population. The PI and his students volunteer at a children's science museum.  He participated in a year-long study "Science and American Public Democracy."]]></AbstractNarration>
+<MinAmdLetterDate>07/31/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/31/2009</MaxAmdLetterDate>
+<ARRAAmount>240000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0854805</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Londergan</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John T Londergan</PI_FULL_NAME>
+<EmailAddress><![CDATA[tlonderg@indiana.edu]]></EmailAddress>
+<NSF_ID>000237498</NSF_ID>
+<StartDate>07/31/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Indiana University</Name>
+<CityName>BLOOMINGTON</CityName>
+<ZipCode>474057000</ZipCode>
+<PhoneNumber>3172783473</PhoneNumber>
+<StreetAddress>107 S INDIANA AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YH86RTW2YVJ4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF INDIANA UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YH86RTW2YVJ4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Indiana University]]></Name>
+<CityName>BLOOMINGTON</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>474057000</ZipCode>
+<StreetAddress><![CDATA[107 S INDIANA AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1285</Code>
+<Text>NUCLEAR THEORY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~240000</FUND_OBLG>
+</Award>
+</rootTag>

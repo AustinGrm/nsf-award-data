@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CNH: Collaborative Research:  Spatial Land-Use Change and Ecological Effects (SLUCE):  Interactions of Exurban Land Management and Carbon Dynamics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>1166066.00</AwardTotalIntnAmount>
+<AwardAmount>1488805</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06000000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sarah Ruth</SignBlockName>
+<PO_EMAI>sruth@nsf.gov</PO_EMAI>
+<PO_PHON>7032927594</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Exurban residential development is widespread, constituting one of the major forms of land-use and land-cover changes in the Eastern US and elsewhere.  This sprawl has large impacts on natural and rural landscapes, ecosystem services, and quality of life for millions of people.  This project investigates the processes linking dynamics of land-atmosphere carbon budgets in exurban residential areas, preferences for land-cover types and patterns on these lands, and land-management activities of residents and developers. The goal of the project is to obtain a clearer understanding of the relationships between carbon dynamics, land-management activities, and market and non-market values of land-uses and land-covers ? focusing on how carbon dynamics might respond in a non-linear fashion to various management and policy options for land-cover management.  Building on the extensive data resources developed under a precursor project, the researchers will use dynamic agent-based models (including a new land-market sub model) to examine a range of exurban land-cover patterns that might be expected to result from market and policy drivers These models will be linked to homeowner preferences and landscape management behaviors from surveys. The outputs of the models will be coupled with a spatially explicit model of biogeochemistry, with inputs derived from remote sensing and field-based sampling within Southeastern Michigan. The researchers will explore the relationship between decision processes by various actors and the resulting changes in biogeochemical processes. We will look for the existence of ecologically significant thresholds (e.g., large, nonlinear land-atmosphere carbon exchange in response to small changes in policy, preferences or behaviors) that are revealed in the coupled system. The study will identify both modeled micro-level dynamics and macro-level patterns in space and time, building on data and model resources developed from previous projects, while creating a complementary new dataset to support modeling of land-market interactions that includes land transactions, biogeochemical processes, cultural preferences and management practices affecting land covers, &lt;br/&gt;&lt;br/&gt;The complex feedbacks explored in this project, that both drive and result from exurban sprawl, will provide new insights into how policy can be used to guide and manage this landscape change.  Coupled  computer models will be used to evaluate policy scenarios that may be spatially-targeted (e.g., zoning) or aspatial (e.g., carbon credits) and are designed to affect carbon dynamics through mechanisms built on an understanding of the incentives created by markets and preferences and behaviors of residents, developers, and local governments.  Field and modeling work on soil and vegetation carbon dynamics will provide much needed insights into the effects of exurban development on carbon storage, which, given the growth of exurban development, has important implications for the atmospheric carbon budget. The project strengthens scientific capacity and integration by bringing together scientists from a wide range of fields including landscape architecture, ecosystem science, economics, geographic information science, and complex systems science.  The project will produce results that improve our ability to model (a) carbon cycling in the heterogeneous landscapes that humans inhabit, (b) the economic incentives inherent in our management exurban landscapes, and (c) the linkages between peoples? preferences and their behaviors and ecological landscape function.  Models developed for the project will be used to generate both formal and informal educational materials for both graduate and undergraduate instruction on environmental science, policy, and design, in order to improve student understanding of how complex coupled human-environment dynamics can complicate decision making about ecosystem services, and how spatial and dynamic modeling can improve our understanding of alternative options in such settings. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/08/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/21/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0814542</AwardID>
+<Investigator>
+<FirstName>Rick</FirstName>
+<LastName>Riolo</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rick L Riolo</PI_FULL_NAME>
+<EmailAddress><![CDATA[rlriolo@umich.edu]]></EmailAddress>
+<NSF_ID>000318737</NSF_ID>
+<StartDate>08/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Page</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Scott E Page</PI_FULL_NAME>
+<EmailAddress><![CDATA[scottepage@gmail.com]]></EmailAddress>
+<NSF_ID>000332457</NSF_ID>
+<StartDate>08/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joan</FirstName>
+<LastName>Nassauer</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joan Nassauer</PI_FULL_NAME>
+<EmailAddress><![CDATA[nassauer@umich.edu]]></EmailAddress>
+<NSF_ID>000388602</NSF_ID>
+<StartDate>08/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Currie</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>William S Currie</PI_FULL_NAME>
+<EmailAddress><![CDATA[wcurrie@umich.edu]]></EmailAddress>
+<NSF_ID>000190655</NSF_ID>
+<StartDate>08/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>DANIEL</FirstName>
+<LastName>BROWN</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>DANIEL G BROWN</PI_FULL_NAME>
+<EmailAddress><![CDATA[danbro@uw.edu]]></EmailAddress>
+<NSF_ID>000217188</NSF_ID>
+<StartDate>08/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Michigan - Ann Arbor</Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>1109 GEDDES AVE, SUITE 3300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091079</ZipCode>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1691</Code>
+<Text>DYN COUPLED NATURAL-HUMAN</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7643</Code>
+<Text>EnvS-Environmtl Sustainability</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7764</Code>
+<Text>EMERGING TOPICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1691</Code>
+<Text>BE: DYN COUPLED NATURAL-HUMAN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7764</Code>
+<Text>EMERGING TOPICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9278</Code>
+<Text>HUMAN DIMENSIONS OF GLOBAL CHANGE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~1166066</FUND_OBLG>
+<FUND_OBLG>2009~322739</FUND_OBLG>
+</Award>
+</rootTag>

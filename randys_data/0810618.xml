@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Ultra-High Flux Carbon Nanotube Water Purification Technology</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2008</AwardExpirationDate>
+<AwardTotalIntnAmount>99915.00</AwardTotalIntnAmount>
+<AwardAmount>99915</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>William Haines</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This SBIR Phase I research project will develop an innovative carbon nanotube water filtration membrane technology that will drastically outperform conventional filtration membranes.  This project aims to improve performance by fabricating an ultra-high flux carbon nanotube filtration membrane through a solution-based material preparation technology.  The goal of the carbon nanotube filtration membrane is to provide ultra-high flux output, yet at low energy consumption, which is currently unavailable. &lt;br/&gt;&lt;br/&gt;If the carbon nanotube water filtration membrane is successfully developed it will change the landscape for the water purification industry. The desired performance improvement would significantly surpass the evolutionary progress that has characterized the membrane industry over the past four decades. The adoption of this novel ultra-high flux carbon nanotube membrane would have profound impact on industries such as water purification, medical, chemical, pharmaceuticals, food processing, and environmental remediation.</AbstractNarration>
+<MinAmdLetterDate>05/05/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/05/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0810618</AwardID>
+<Investigator>
+<FirstName>Jack</FirstName>
+<LastName>Salerno</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jack Salerno</PI_FULL_NAME>
+<EmailAddress>jsalerno@agiltron.com</EmailAddress>
+<PI_PHON>7819351200</PI_PHON>
+<NSF_ID>000102859</NSF_ID>
+<StartDate>05/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Agiltron Incorporated</Name>
+<CityName>WOBURN</CityName>
+<ZipCode>018011040</ZipCode>
+<PhoneNumber>7819351200</PhoneNumber>
+<StreetAddress>15 Presidential Way</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Agiltron Incorporated]]></Name>
+<CityName>WOBURN</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>018011040</ZipCode>
+<StreetAddress><![CDATA[15 Presidential Way]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1788</Code>
+<Text>Nanomanufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9139</Code>
+<Text>INFORMATION INFRASTRUCTURE &amp; TECH APPL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~99915</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Science ,Technology, Engineering, and Mathematics Scholars Program]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>596248.00</AwardTotalIntnAmount>
+<AwardAmount>596248</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Zhanjing Yu</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[In this project Minneapolis Community and Technical College is awarding scholarships to thirty-six financially needy, academically talented students to help them enroll full-time, complete degree programs, and enter jobs or baccalaureate studies in sciences, information technology, computer science, engineering, or mathematics. The project aspires to have at least eighty-five percent of the scholars complete a two-year degree and either transfer to a baccalaureate program, or enter the workforce in two years. The intellectual merit of the project builds on a variety of elements such as the creation of a supportive cohort environment, assignment of a faculty mentor from each student's academic discipline, and receipt of ongoing support including academic and career advice, counseling, and work experience opportunities, along with peer interaction. The program is exercising broader impact by enabling more members of at-risk communities to become professionals in science, technology and mathematics fields, diversifying the workforce and providing role models for other under-represented individuals to pursue similar goals.]]></AbstractNarration>
+<MinAmdLetterDate>08/18/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/18/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0805826</AwardID>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Pollak</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Richard A Pollak</PI_FULL_NAME>
+<EmailAddress><![CDATA[richard.pollak@minneapolis.edu]]></EmailAddress>
+<NSF_ID>000308014</NSF_ID>
+<StartDate>08/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nicole</FirstName>
+<LastName>Watson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nicole Watson</PI_FULL_NAME>
+<EmailAddress><![CDATA[nicole.watson@minneapolis.edu]]></EmailAddress>
+<NSF_ID>000317287</NSF_ID>
+<StartDate>08/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Minneapolis Community and Technical College</Name>
+<CityName>MINNEAPOLIS</CityName>
+<ZipCode>554031710</ZipCode>
+<PhoneNumber>6126596300</PhoneNumber>
+<StreetAddress>1501 HENNEPIN AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Z4FKMZ74P7L4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MINNEAPOLIS COMMUNITY &amp; TECHNICAL COLLEGE FOUNDATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Minneapolis Community and Technical College]]></Name>
+<CityName>MINNEAPOLIS</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>554031710</ZipCode>
+<StreetAddress><![CDATA[1501 HENNEPIN AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>1300CYXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~596248</FUND_OBLG>
+</Award>
+</rootTag>

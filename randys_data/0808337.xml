@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Dissertation Research: The effects of multispecies interactions on population dynamics of invading Centaurea solstitialis across a geographic range</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>7961.00</AwardTotalIntnAmount>
+<AwardAmount>7961</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010207</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard S. Inouye</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Plants interact with numerous species, including pollinators, competitors, and pathogens. Nonadditive effects arise when an interaction with one species alters the intensity or frequency of the plant's interactions with subsequent species. While complex interactions such as these are probably common in natural systems, their net effects are inherently difficult to predict and the underlying mechanisms are poorly understood. Even when interactions impact individual plants, they may not affect the size of the plant population. Individual performance and population size can be decoupled when population growth is less sensitive to changes in a particular life stage; interactions that alter a plant at that stage will have little effect on the population as a whole. Because population dynamics often vary across the geographic range of a species, a given biotic interaction may have different population level consequences depending on where it takes place. &lt;br/&gt;This study will use an invasive plant, yellow starthistle, its pollinators, and two biological control agents (a pathogen and an insect herbivore) to examine (1) the net outcome of multispecies interactions for individual plants, (2) whether changes in individual performance have population level effects, and (3) whether populations at the periphery of the range of this invasive species are affected differently than populations at the center of its range. The intellectual merit of the study is that it addresses population-level consequences of multispecies interactions, a central, albeit under-studied, theme in ecology. Furthermore, it considers those consequences in a geographic context, with the understanding that population-level consequences may vary with their broader ecological context. Broader impacts of this study include student training and potential application to biological control programs that are used in agricultural systems and to limit the spread of invasive species.</AbstractNarration>
+<MinAmdLetterDate>05/14/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/14/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0808337</AwardID>
+<Investigator>
+<FirstName>Sarah</FirstName>
+<LastName>Swope</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sarah M Swope</PI_FULL_NAME>
+<EmailAddress>swope@biology.ucsc.edu</EmailAddress>
+<PI_PHON>5108831210</PI_PHON>
+<NSF_ID>000456049</NSF_ID>
+<StartDate>05/14/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ingrid</FirstName>
+<LastName>Parker</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ingrid Parker</PI_FULL_NAME>
+<EmailAddress>imparker@ucsc.edu</EmailAddress>
+<PI_PHON>8314595017</PI_PHON>
+<NSF_ID>000089863</NSF_ID>
+<StartDate>05/14/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Cruz</Name>
+<CityName>SANTA CRUZ</CityName>
+<ZipCode>950641077</ZipCode>
+<PhoneNumber>8314595278</PhoneNumber>
+<StreetAddress>1156 HIGH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA20</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>VXUFPE4MCZH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA SANTA CRUZ</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Santa Cruz]]></Name>
+<CityName>SANTA CRUZ</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>950641077</ZipCode>
+<StreetAddress><![CDATA[1156 HIGH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA20</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1182</Code>
+<Text>POP &amp; COMMUNITY ECOL PROG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~7961</FUND_OBLG>
+</Award>
+</rootTag>

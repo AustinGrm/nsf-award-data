@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Teachers Domain: Pathways Stage II]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>724772.00</AwardTotalIntnAmount>
+<AwardAmount>724772</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Herbert H. Richtol</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The WGBH Educational Foundation is expanding the reach, impact, and stability of the Teachers' Domain Pathway to the NSDL, through an integrated set of research, development, and dissemination activities. This project is extending the stewardship of rich-media materials customized for K-12 STEM educators (and post-secondary audiences as well), a service successfully initiated through a NSDL Pathways award in 2004 and supplemented by recent additional support from NSF and other funding agencies. &lt;br/&gt;&lt;br/&gt;Addressing the evolving needs of the target audience, WGBH is further enhancing the utility and appeal of Teachers' Domain (TD) by integrating social media tools to promote user engagement and interaction. Teachers' Domain is also expanding  its content offerings and user base, primarily through complementary funding initiatives and production partnerships and by providing a series of in-person and online workshops to support active use of the Pathway in K-12 classrooms, post-secondary campuses, and professional development settings across the country. &lt;br/&gt;&lt;br/&gt;Advisors representing other NSDL projects and working groups, public television stations, and organizations provides TD with specialized expertise in the use of participatory media in education. Building upon research conducted on the original Pathways initiative and several additional Teachers' Domain projects, the Center for Children and Technology (CCT) at EDC is conducting ongoing evaluation to assess needs of the target audience and the impact of the resulting products and services. &lt;br/&gt;&lt;br/&gt;Building on the extensive and growing reach of Teachers' Domain, this free online service has over 256,000 registered users from more than 163 countries (including 55% of the public schools in the U.S.). Usage is growing rapidly as knowledge of its availability spreads with the rate of cumulative visits doubling every six months. Dissemination, promotion, and marketing activities will be conducted through partnering organizations, established channels of WGBH and PBS, and public television's emerging EDCAR initiative, engaging K-12 teachers and students as well as professional associations promoting enhanced science, technology, engineering, and mathematics (STEM) education across the country.]]></AbstractNarration>
+<MinAmdLetterDate>09/11/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/11/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0840737</AwardID>
+<Investigator>
+<FirstName>Theodore</FirstName>
+<LastName>Sicker</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Theodore A Sicker</PI_FULL_NAME>
+<EmailAddress><![CDATA[ted_sicker@wgbh.org]]></EmailAddress>
+<NSF_ID>000151700</NSF_ID>
+<StartDate>09/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>WGBH Educational Foundation</Name>
+<CityName>BRIGHTON</CityName>
+<ZipCode>021352016</ZipCode>
+<PhoneNumber>6173002000</PhoneNumber>
+<StreetAddress>1 GUEST ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GKSJF1SPLXX9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WGBH EDUCATIONAL FOUNDATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[WGBH Educational Foundation]]></Name>
+<CityName>BRIGHTON</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021352016</ZipCode>
+<StreetAddress><![CDATA[1 GUEST ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7444</Code>
+<Text>NATIONAL SMETE DIGITAL LIBRARY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~724772</FUND_OBLG>
+</Award>
+</rootTag>

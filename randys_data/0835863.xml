@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CDI Type I. Mixing the Data to Knowledge direction: Computational Thinking for Faint Feature Detection by Feedback Control and Sensitivity/Resolution Enhancement of Matrix Images</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>670000.00</AwardTotalIntnAmount>
+<AwardAmount>670000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Junping Wang</SignBlockName>
+<PO_EMAI>jwang@nsf.gov</PO_EMAI>
+<PO_PHON>7032924488</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The investigator and his colleagues propose a new paradigm-shifting approach towards high resolution and high contrast imaging, which combines revolutions in magnetic resonance imaging (MRI) and optical imaging with equally cutting edge mathematical developments.&lt;br/&gt;The approach uses non-linear feedback between the detector and the sample, so that the measured field is fed back to the MRI magnet.  The unstable feedback increases the dynamical contrast between normal and cancerous cells.  This highly nontraditional approach will be complemented by incorporating compressed sensing, a data analysis technique where mathematical algorithms are used to extract specific features and images from a relatively small number of measurements.&lt;br/&gt;Finally, multiple sources and detectors, which coupled with compressed sensing and feedback imaging can collect data in parallel will be implemented together, and modern filter-diagonalization techniques will be used to synthesize the data leading to faster images.&lt;br/&gt;&lt;br/&gt;      Overall, the research and development that the principal investigator and his colleagues propose will revolutionize MRI.  By applying nontraditional measurement and imaging technique, the contrast between tumors and normal areas will be increased many fold.  The increase will be based on the same physical phenomena, chaos, that is used to by birds and jet fighters to quickly switch their direction. The revolutionary paradigm will will eventually make it much cheaper and faster to do an MRI scan, thereby having enormously broad impacts. In 2008, an estimated 1,680,000 people in the U.S. will be diagnosed with cancer, and approximately 670,000 people will die.  Between 10%-35% could have been saved with earlier detection.&lt;br/&gt;This highlights the need for improved early detection methods, which could have saved many patients. A large (2-5 or more) reduction MRI acquisition time, which is not feasible with conventional methods, coupled with the enhanced feature resolution native to the proposed approach, will allow for faster and cheaper cancer screening, which is crucial to improved early detection and thus reducing deaths due to cancer.  Besides cancer detection, there are numerous other imaging applications that stand to benefit from significantly decreased scan time and cost, such as industrial sensing (for example uniformity of fruits in agriculture) and homeland security applications, including highly sensitive detection of concealed materials.&lt;br/&gt;&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>09/18/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/18/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0835863</AwardID>
+<Investigator>
+<FirstName>Stanley</FirstName>
+<LastName>Osher</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stanley J Osher</PI_FULL_NAME>
+<EmailAddress>sjo@math.ucla.edu</EmailAddress>
+<NSF_ID>000165369</NSF_ID>
+<StartDate>09/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Neuhauser</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel Neuhauser</PI_FULL_NAME>
+<EmailAddress>dxn@ucla.edu</EmailAddress>
+<NSF_ID>000443201</NSF_ID>
+<StartDate>09/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yung-Ya</FirstName>
+<LastName>Lin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yung-Ya Lin</PI_FULL_NAME>
+<EmailAddress>yylin@chem.ucla.edu</EmailAddress>
+<NSF_ID>000489548</NSF_ID>
+<StartDate>09/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nien-Hui</FirstName>
+<LastName>Ge</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nien-Hui Ge</PI_FULL_NAME>
+<EmailAddress>nhge@uci.edu</EmailAddress>
+<NSF_ID>000489342</NSF_ID>
+<StartDate>09/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Los Angeles</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900951406</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress>10889 Wilshire Boulevard</StreetAddress>
+<StreetAddress2><![CDATA[Suite 700]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>33</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA33</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>092530369</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, LOS ANGELES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>071549000</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Los Angeles]]></Name>
+<CityName>LOS ANGELES</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900951406</ZipCode>
+<StreetAddress><![CDATA[10889 Wilshire Boulevard]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>33</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA33</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7750</Code>
+<Text>CDI TYPE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7721</Code>
+<Text>FROM DATA TO KNOWLEDGE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7752</Code>
+<Text>CDI NON SOLICITED RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<FUND_OBLG>2008~670000</FUND_OBLG>
+</Award>
+</rootTag>

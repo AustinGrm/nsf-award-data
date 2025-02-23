@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SGER: A Hybrid Approach for Petascale Computing: Accelerating Scientific]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>102562.00</AwardTotalIntnAmount>
+<AwardAmount>102562</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Manish Parashar</SignBlockName>
+<PO_EMAI>mparasha@nsf.gov</PO_EMAI>
+<PO_PHON>7032922274</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Intellectual Merit: &lt;br/&gt;The proposed work is an exploratory research effort to automatically extract parallelism from sequential program and to schedule the resulting fine-grained computational elements on manycore processors. The goal is to allow existing sequential programs to run on many-core processors efficiently and build the foundation to enable a hybrid approach, involving message passing and&lt;br/&gt;shared memory, to address petascale programmability&lt;br/&gt;This exploratory research will attack the following issues:&lt;br/&gt;? Design a compiler to decompose the code running on a single node into fine-grained computation tasks to utilize the collection of cores on a single chip.&lt;br/&gt;? Develop a highly-efficient runtime system to schedule fine-grained tasks to optimize for available parallelisms and to maximize on-chip cache locality to overcome off-chip memory latency and bandwidth constrains.&lt;br/&gt;? Evaluate our success with a newly released benchmark suite PARSEC which allows us to compare our success with hand-tuned parallel solutions. We also plan to evaluate one computational science application&lt;br/&gt;&lt;br/&gt;Broader Impact:&lt;br/&gt;The potential impact of this project is significant. First, the success of the proposed research would advance knowledge and understanding in parallel programming to exploit the power of future parallel machines. Second, the success of the project will accelerate software developmentfor petascale computing. Third, the proposed compiler and runtime systems will provide the&lt;br/&gt;capability to run existing large-scale computational science programs on petascale computers without burdensome programming efforts.]]></AbstractNarration>
+<MinAmdLetterDate>05/14/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>05/14/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0849512</AwardID>
+<Investigator>
+<FirstName>Kai</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kai Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[li@cs.princeton.edu]]></EmailAddress>
+<NSF_ID>000117303</NSF_ID>
+<StartDate>05/14/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>August</LastName>
+<PI_MID_INIT>I</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David I August</PI_FULL_NAME>
+<EmailAddress><![CDATA[august@cs.princeton.edu]]></EmailAddress>
+<NSF_ID>000192343</NSF_ID>
+<StartDate>05/14/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jeremiah</FirstName>
+<LastName>Ostriker</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeremiah P Ostriker</PI_FULL_NAME>
+<EmailAddress><![CDATA[jpo@astro.princeton.edu]]></EmailAddress>
+<NSF_ID>000191528</NSF_ID>
+<StartDate>05/14/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Princeton University</Name>
+<CityName>PRINCETON</CityName>
+<ZipCode>085442001</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress>1 NASSAU HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NJ1YPQXQG7U5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF PRINCETON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName>PRINCETON</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>085442001</ZipCode>
+<StreetAddress><![CDATA[1 NASSAU HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7691</Code>
+<Text>PetaApps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>071P</Code>
+<Text>SGER EVALUATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7691</Code>
+<Text>PetaApps</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9215</Code>
+<Text>HIGH PERFORMANCE COMPUTING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9237</Code>
+<Text>SMALL GRANTS-EXPLORATORY RSRCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~102562</FUND_OBLG>
+</Award>
+</rootTag>

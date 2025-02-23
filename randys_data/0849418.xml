@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Ontological Implications of a Geometrical Approach to Quantum Mechanics</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>86523</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Frederick Kronz</SignBlockName>
+<PO_EMAI>fkronz@nsf.gov</PO_EMAI>
+<PO_PHON>7032927283</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>&lt;br/&gt;The project is supported by the Science, Technology, and Society program. The PI has been awarded a professional development fellowship to enable him to develop expertise in the philosophical foundations of quantum mechanics (the physical theory of molecular, atomic, and sub-atomic systems). He will work closely with Dr. Malcolm Forster, professor in the Department of Philosophy at the University of Wisconsin-Madison. The PI has published a series of papers on the mathematical foundations of quantum mechanics in which he has put forth a new geometrical approach to quantum mechanics so as to address fundamental conceptual puzzles that have been debated since the inception of the theory in the 1920s.&lt;br/&gt;&lt;br/&gt;The new approach begins by treating space as a part of a larger quantum mechanically defined space of states in a mathematically rigorous way. One of the core ideas of the approach is that a physical system is in the classical space (meaning the space of everyday experience) if and only if and only if quantum mechanics predicts with certainty that it has a precise position, which is usually expressed by saying that the state of the system is characterized by a Dirac delta function associated with the physical quantity position. In all other states, the particle is not in physical space. This approach provides a new interpretation of the ontological meaning of superpositions (additive combinations) of classical states; namely, that particles in superpositions are not in space. This involves the rejection of a dogma that gripped our way of thinking about reality throughout the ages: Everything that exists is located in space. Rejection of this dogma has far-reaching implications for many widely discussed issues in the foundations of quantum mechanics, such as particle-wave duality, the Einstein-Podolsky-Rosen argument and the meaning of non-locality, the nature of quantum measurement and the collapse of the wave packet.&lt;br/&gt;&lt;br/&gt;With the fellowship support, the PI will develop, document, and debate the implications indicated above from a philosophical standpoint in careful, accessible, and clear manner that is well informed by the vast philosophical literature on the subject. The project promises to improve our understanding of what, if anything, quantum mechanics is telling us about the world behind the observable phenomena. It address the most fundamental and challenging problems in the philosophy of physics. The results of this research will be of interest to philosophers and theoretical physicists alike, and to any members of the general public who are interested in what contemporary physics may be telling us about the world. The even broader impact of this could be in the teaching of quantum mechanics to beginning students; especially those who want to understand the theories in terms of a "picture" rather than merely to learn how to use them to make calculations.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>02/04/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/16/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0849418</AwardID>
+<Investigator>
+<FirstName>Alexey</FirstName>
+<LastName>Kryukov</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexey Kryukov</PI_FULL_NAME>
+<EmailAddress>alexey.kryukov@uwc.edu</EmailAddress>
+<NSF_ID>000077806</NSF_ID>
+<StartDate>02/04/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin Colleges</Name>
+<CityName>Madison</CityName>
+<ZipCode>537061415</ZipCode>
+<PhoneNumber>6082633191</PhoneNumber>
+<StreetAddress>432 Lake Street</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI02</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>102263501</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>041188822</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>537151218</ZipCode>
+<StreetAddress><![CDATA[21 North Park Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7603</Code>
+<Text>STS-Sci, Tech &amp; Society</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1353</Code>
+<Text>Hist &amp; Philosophy of SET</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2009~86523</FUND_OBLG>
+</Award>
+</rootTag>

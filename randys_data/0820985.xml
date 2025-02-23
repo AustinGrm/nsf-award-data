@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Acquisition of an Illumina/Solexa Genome Analyzer]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>484395.00</AwardTotalIntnAmount>
+<AwardAmount>484395</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vicki Martin</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[A grant has been awarded to the University of Utah to obtain a next-generation genome analysis machine such as the Illumina/Solexa Genome Analyzer.  This sort of equipment uses new methods that allow very large amounts of DNA sequence to be obtained rapidly, and at approximately 1% of the cost of traditional genome centers.  The equipment will support a diverse base of users, and will contribute significantly to many NSF-supported research programs.  In addition, the equipment will also be used for undergraduate education.  The PIs and major users of this equipment will address several different basic research question: (1) Natural Variation and Genome Evolution-  Making sense of biological diversity requires understanding the DNA sequence differences between individuals or strains and how these sequence differences influence phenotypes.  The reduced cost of sequencing using this new technology, and the speed with which DNA sequence data can be obtained, will allow several PIs and major users to obtain high quality genomic sequence data for the plant Arabidopsis thaliana, bacterial endosymbionts, the ninespine stickleback, red fox, and zebra finch.  We anticipate that the genome sequences will allow us to gain insights into modes of evolutionary change, including those that underlie response of organisms to their environments (e.g., drought response in plants). (2) Genetic Networks and Basic Molecular Mechanisms-  A major goal of cellular and developmental biology is to understand how specific genes come to be expressed in specific cell types.  Several PIs and major users are focusing on transcriptional networks and mechanisms of RNA decay, and will use the next-generation sequencer to identify the RNAs that are produced as a result of specific signaling, and the intermediates that accumulate.  The approaches that are possible with the funded instrumentation will allow both qualitative and quantitative analyses at an unprecedented level of detail. (3) Behavioral Genetics and Molecular Characterization of Subtle Mutant Phenotypes- Some genetic variations (mutations) cause very subtle phenotypes, and so traditional approaches like genetic mapping are either difficult or extremely time-intensive.  Nevertheless, such mutations are very informative for understanding the molecular basis of behaviors.  Using the next-generation sequencer, in combination with genetic approaches, will allow rapid identification of the DNA lesions (and genes) underlying behavioral traits.  Initial studies will be performed with the nematode Caenorhabditis elegans.&lt;br/&gt; &lt;br/&gt;The next-generation sequence analyzer will be placed into a new Genomics Facility in the Biology Department at the University of Utah.  It will be made available to researchers in the Great Basin Region (e.g. Idaho, Wyoming, Montana, Nevada, and New Mexico).  The Biology Department at the University of considers a hands-on understanding of large genomics datasets to be an essential component of a basic undergraduate education.  Specific plans to incorporate this new equipment and analysis of the resulting data have already been developed for three undergraduate courses.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>06/19/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/19/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0820985</AwardID>
+<Investigator>
+<FirstName>Leslie</FirstName>
+<LastName>Sieburth</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Leslie E Sieburth</PI_FULL_NAME>
+<EmailAddress><![CDATA[sieburth@biology.utah.edu]]></EmailAddress>
+<NSF_ID>000109407</NSF_ID>
+<StartDate>06/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Colin</FirstName>
+<LastName>Dale</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Colin Dale</PI_FULL_NAME>
+<EmailAddress><![CDATA[colin.dale@utah.edu]]></EmailAddress>
+<NSF_ID>000494982</NSF_ID>
+<StartDate>06/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Shapiro</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael D Shapiro</PI_FULL_NAME>
+<EmailAddress><![CDATA[shapiro@biology.utah.edu]]></EmailAddress>
+<NSF_ID>000073702</NSF_ID>
+<StartDate>06/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Clark</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Richard M Clark</PI_FULL_NAME>
+<EmailAddress><![CDATA[clark@biology.utah.edu]]></EmailAddress>
+<NSF_ID>000498449</NSF_ID>
+<StartDate>06/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Utah</Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841129049</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress>201 PRESIDENTS CIR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LL8GLEVH6MG3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF UTAH</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Utah]]></Name>
+<CityName>SALT LAKE CITY</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>841129049</ZipCode>
+<StreetAddress><![CDATA[201 PRESIDENTS CIR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9109</Code>
+<Text>AGRICULTURAL BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~484395</FUND_OBLG>
+</Award>
+</rootTag>

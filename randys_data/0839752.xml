@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Conversion of Biodiesel Glycerol to Xylitol Co-Product</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>148864</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gregory T. Baxter</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research (SBIR) Phase I project focuses on the production of xylitol from glycerol, a byproduct of biodiesel production. By converting crude glycerol to a value-added coproduct there will be significant improvement in biodiesel production economics. Xylitol has health benefits as a low calorie sweetener and anticariogenic agent, but its use is limited by high cost due to limited availability of d-xylose, the feedstock for current manufacturing methods. Phase I will assess the feasibility of engineering E. coli to produce xylitol from glycerol. By starting with a strain capable of converting glycerol to d-xylulose-5-phosphate and d-xylulose to xylitol, the ability to convert glycerol to xylitol hinges on a single enzyme a phosphatase to bridge the gap. Phosphatases will be tested and identified, and the ability to engineer the system will be demonstrated. Phase II will focus on developing an optimized commercial process. &lt;br/&gt;&lt;br/&gt;The broader impacts of this research will be to enchance the viability of biodiesel production processes while enhancing the supply of a critical sweetener.  First, creating better economics for the production of biodiesel will result in a more competitive process, thus reducing our reliance on foreign oil, creating new market opportunities for the US agricultural industry, and reducing pollution and carbon footprint. Second, such a process would relieve the production bottleneck for xylitol which is beneficial to oral health, allowing the US market for xylitol to expand.  Finally, the process will provide a springboard for conversion of glycerol to generally more valuable 5-carbon sugar-based molecules. &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>11/14/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/19/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839752</AwardID>
+<Investigator>
+<FirstName>Ryan</FirstName>
+<LastName>Woodyer</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ryan Woodyer</PI_FULL_NAME>
+<EmailAddress>rwoodyer@zuchem.com</EmailAddress>
+<PI_PHON>3129972150</PI_PHON>
+<NSF_ID>000506078</NSF_ID>
+<StartDate>11/14/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>zuChem, Inc.</Name>
+<CityName>PEORIA</CityName>
+<ZipCode>616061877</ZipCode>
+<PhoneNumber>3129972150</PhoneNumber>
+<StreetAddress>801 W MAIN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL17</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LHZKXV13TLJ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ZUCHEM INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[zuChem, Inc.]]></Name>
+<CityName>PEORIA</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>616061877</ZipCode>
+<StreetAddress><![CDATA[801 W MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1179</Code>
+<Text>ENVIRONMENTAL IMPLICATIONS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1402</Code>
+<Text>BIOCHEMICAL &amp; BIOMASS ENG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1465</Code>
+<Text>PRODUCTION SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9181</Code>
+<Text>BIOPROCESSING/BIOMOLECULAR MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~148864</FUND_OBLG>
+</Award>
+</rootTag>

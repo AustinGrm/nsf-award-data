@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Stopping URL-Fraud One Website at a Time</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Errol Arkilic</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research (SBIR) Phase I project will develop a novel approach to protect people and businesses from damage inflicted by phony and malicious web-sites, which engage in URL-fraud. These web-sites exploit the carelessness and inexperience of users, who often mistype the name of a site or follow hyperlinks from email spam, which appears to be from a legitimate organization, such as their bank. The proposed core technology consists of a method to automatically detect whether a website is legitimate or not.  The novelty of the work lies in the development of profiles, which capture multiple facets of the properties and the behavior of a website.  The project requires a synergy between networking, datamining, graph-mining and machine learning in order to identify the right features in each profile and combine them intelligently for a final decision.&lt;br/&gt;&lt;br/&gt;The proposed work has high commercial potential and direct impact on regular Internet users. Web-fraud is an immediate and expensive problem that affects people and business through identity theft, email spam, and the spread of viruses, all of which are interconnected manifestations of Internet threats.  Through the development of web-browser plug-ins and monitoring tools, the proposed technology will make web-surfing and email safer for the less tech-savvy people, such as elders and children, which are particularly vulnerable.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>11/28/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>11/28/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839491</AwardID>
+<Investigator>
+<FirstName>Anirban</FirstName>
+<LastName>Banerjee</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anirban Banerjee</PI_FULL_NAME>
+<EmailAddress>banerjee.anirban@gmail.com</EmailAddress>
+<PI_PHON>9512310557</PI_PHON>
+<NSF_ID>000506091</NSF_ID>
+<StartDate>11/28/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>JAAL LLC</Name>
+<CityName>Abluquerque</CityName>
+<ZipCode>925076056</ZipCode>
+<PhoneNumber>9513289296</PhoneNumber>
+<StreetAddress>1801 Notre Dame NE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+<CONGRESSDISTRICT>41</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NM41</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[JAAL LLC]]></Name>
+<CityName>Abluquerque</CityName>
+<StateCode>NM</StateCode>
+<ZipCode>925076056</ZipCode>
+<StreetAddress><![CDATA[1801 Notre Dame NE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>41</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NM41</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6850</Code>
+<Text>DIGITAL SOCIETY&amp;TECHNOLOGIES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9139</Code>
+<Text>INFORMATION INFRASTRUCTURE &amp; TECH APPL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~100000</FUND_OBLG>
+</Award>
+</rootTag>

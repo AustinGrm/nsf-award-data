@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[IAU Symposium 261 - Relativity in Fundamental Astronomy: Dynamics, Reference Frames and Data Analysis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>23080.00</AwardTotalIntnAmount>
+<AwardAmount>23924</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020400</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nigel Sharp</SignBlockName>
+<PO_EMAI>nsharp@nsf.gov</PO_EMAI>
+<PO_PHON>7032924905</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award provides partial support for the international meeting "Relativity in Fundamental Astronomy: Dynamics, Reference Frames and Data Analysis", to be held in Virginia Beach, VA from 27 April to 1 May 2009 as Symposium 261 of the International Astronomical Union.  The increasing precision of astrometric measurements now both allows more precise tests of General Relativity, and requires relativistic corrections to the measurement of celestial positions.  The meeting will bring together radio and optical observers, theoretical and experimental relativists, theoretical astronomers, space scientists, Earth orientation scientists, geodesists, and experts in timekeeping and reference frames.&lt;br/&gt;&lt;br/&gt;NSF funds will support the participation of early-career scientists from North America.  The meeting will expose US students and postdocs to international experts in this field.  Proceedings will be published by the International Astronomical Union.  &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>01/15/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>01/15/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0843236</AwardID>
+<Investigator>
+<FirstName>Kevin</FirstName>
+<LastName>Marvel</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kevin B Marvel</PI_FULL_NAME>
+<EmailAddress><![CDATA[marvel@aas.org]]></EmailAddress>
+<NSF_ID>000369415</NSF_ID>
+<StartDate>01/15/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>P. Kenneth</FirstName>
+<LastName>Seidelmann</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>P. Kenneth Seidelmann</PI_FULL_NAME>
+<EmailAddress><![CDATA[pks6n@virginia.edu]]></EmailAddress>
+<NSF_ID>000508998</NSF_ID>
+<StartDate>01/15/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>American Astronomical Society</Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>200061681</ZipCode>
+<PhoneNumber>2023282010</PhoneNumber>
+<StreetAddress>1667 K ST NW</StreetAddress>
+<StreetAddress2><![CDATA[STE 800]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FFBRJQ4X2B63</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>AMERICAN ASTRONOMICAL SOCIETY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[American Astronomical Society]]></Name>
+<CityName>WASHINGTON</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>200061681</ZipCode>
+<StreetAddress><![CDATA[1667 K ST NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1217</Code>
+<Text>EXTRAGALACTIC ASTRON &amp; COSMOLO</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1243</Code>
+<Text>Gravity Exp. &amp; Data Analysis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~23924</FUND_OBLG>
+</Award>
+</rootTag>

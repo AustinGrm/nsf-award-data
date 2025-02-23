@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Toward 3-dimensional, time-dependent, non-LTE radiation transport for cosmological simulations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>172730.00</AwardTotalIntnAmount>
+<AwardAmount>172730</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020400</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nigel Sharp</SignBlockName>
+<PO_EMAI>nsharp@nsf.gov</PO_EMAI>
+<PO_PHON>7032924905</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This team will develop a new numerical scheme for following the transfer of radiation through the gas within and around galaxies. They will combine methods that have worked successfully in problems of stellar atmospheres with the adaptive mesh refinement code ENZO that is adapted for cosmological simulations. ENZO has been made available for community use. Unlike previous radiation-transport solvers, this new scheme will treat scattering exactly using accelerated Lambda iteration with the short characteristic method. Non-LTE effects (those inconsistent with the approximation of local thermodynamic equilibrium) in the transport of Lyman-alpha photons will be included. Radiation will be coupled to hydrodynamics using an operator-split approach. The code would be used to model the physical state of the gas between the galaxies early is cosmic history, as it is ionized by primeval stars, and by the active nuclei of galaxies. &lt;br/&gt;&lt;br/&gt;All three of the team members will work with graduate students on this research. The ENZO code is public, and the new transport solver will be released to the scientific community.]]></AbstractNarration>
+<MinAmdLetterDate>09/04/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/19/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0807416</AwardID>
+<Investigator>
+<FirstName>Stuart</FirstName>
+<LastName>Vogel</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stuart N Vogel</PI_FULL_NAME>
+<EmailAddress><![CDATA[vogel@astro.umd.edu]]></EmailAddress>
+<NSF_ID>000124531</NSF_ID>
+<StartDate>05/15/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Thierry</FirstName>
+<LastName>Lanz</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thierry M Lanz</PI_FULL_NAME>
+<EmailAddress><![CDATA[lanz@astro.umd.edu]]></EmailAddress>
+<NSF_ID>000229825</NSF_ID>
+<StartDate>09/04/2008</StartDate>
+<EndDate>05/15/2009</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland, College Park</Name>
+<CityName>College Park</CityName>
+<ZipCode>207420001</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 REGENTS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPU8ULVAAS23</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND, COLLEGE PARK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KMGEN62NKEM9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland, College Park]]></Name>
+<CityName>College Park</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>207420001</ZipCode>
+<StreetAddress><![CDATA[3112 LEE BLDG 7809 REGENTS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1217</Code>
+<Text>EXTRAGALACTIC ASTRON &amp; COSMOLO</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~172730</FUND_OBLG>
+</Award>
+</rootTag>

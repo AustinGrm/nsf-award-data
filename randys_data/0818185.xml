@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Assessing Shifts in the Reproductive Output, Behavior and Physiology of Harvested Wildlife</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>398838.00</AwardTotalIntnAmount>
+<AwardAmount>398838</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090500</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michelle Elekonich</SignBlockName>
+<PO_EMAI>melekoni@nsf.gov</PO_EMAI>
+<PO_PHON>7032927202</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Justin S. Brashares, IOS-0818185 Assessing shifts in the reproductive output, behavior and physiology of harvested wildlife&lt;br/&gt;&lt;br/&gt;The unsustainable harvest of wildlife threatens biodiversity and human livelihoods worldwide and calls for wildlife-use policies that safeguard animals from extinction. For resource use policies to prevent over-harvest they must account for the biological characteristics of harvested species, particularly the rate at which a population replenishes itself. Traditional wildlife management theory assumes that as harvest removes individuals from a given population, competition for resources is reduced and rates of reproduction and survival increase. In contrast to this idea, recent studies focusing on predator-prey systems suggest that predators not only impact prey populations by directly removing individuals, but also by changing the behavior of animals that escape predation. However, few studies have examined if predation by humans on wildlife has similarly profound effects on prey species. This study will evaluate how hunting (legal and illegal) affects the behavior and reproduction of three species of antelope in an East African savanna ecosystem. Three distinctly different species were chosen for the study, the dik-dik (5-7 kg), the impala (60-80 kg) and the African buffalo (700-900 kg), because they represent a natural range of ecology and behavior. The research will be conducted in an area of central Tanzania where economies are closely tied to wildlife use and, thus, achieving sustainable harvests is considered a local and regional priority. Findings of the study will reveal if increased harvesting promotes higher reproductive output, as assumed by conventional harvest theory, or if harvest activities compromise reproductive health, leading to unexpected population declines. By incorporating information on reproductive health into sustainable harvest decision-making, this study aims to improve efforts to manage wildlife populations in Africa while developing tools that will benefit harvesting efforts around the world. The study also will provide field and laboratory training to U.S. and Tanzanian undergraduates, graduate students and postdoctoral researchers.  This award is co-funded by NSF's Office of International Science and Engineering.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>07/28/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/28/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0818185</AwardID>
+<Investigator>
+<FirstName>Justin</FirstName>
+<LastName>Brashares</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Justin S Brashares</PI_FULL_NAME>
+<EmailAddress>brashares@berkeley.edu</EmailAddress>
+<PI_PHON>5106436080</PI_PHON>
+<NSF_ID>000476143</NSF_ID>
+<StartDate>07/28/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress>1608 4TH ST STE 201</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GS3YEVSS12N6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>BERKELEY</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947101749</ZipCode>
+<StreetAddress><![CDATA[1608 4TH ST STE 201]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7298</Code>
+<Text>International Research Collab</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7659</Code>
+<Text>Animal Behavior</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5976</Code>
+<Text>AFRICA, NEAR EAST, &amp; SO ASIA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7338</Code>
+<Text>TANZANIA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7388</Code>
+<Text>NETWORKING RESEARCH (NR)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~398838</FUND_OBLG>
+</Award>
+</rootTag>

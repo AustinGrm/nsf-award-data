@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[DISSERTATION RESEARCH: Phenotypic plasticity, sexual size dimorphism and Rensch's rule in freshwater turtles.]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>11976.00</AwardTotalIntnAmount>
+<AwardAmount>11976</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010207</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>George Gilchrist</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Body size influences animal fecundity, survival, and consequently, population success, particularly in cold-blooded vertebrates such as turtles. Body size can differ between sexes (sexual size dimorphism or SSD) and with latitude, but the exact causes and consequences of such differences in vertebrates remain obscure. This project will explore (1) broad-scale geographic and taxonomic patterns of SSD in turtles and (2) environmental effects on the growth of two turtle species exhibiting contrasting SSD (male-larger versus female-larger SSD) in North and South America. It will advance our understanding of the importance of plastic responses to environmental conditions (temperature, quality and quantity of food availability) in shaping SSD patterns within and across species, and with latitude. &lt;br/&gt;&lt;br/&gt;This project enhances ISU's international dimension though the training of a Colombian PhD student, and through the collaboration with a Venezuelan NGO (FUDECI). This project has implications for the conservation headstart programs of endangered understudied turtles, and it will build local research capacity. The continued participation of female minority students from the Honors and the Program for Women in Science and Engineering at ISU in this project helps integrating research and education, and enhances the participation of underrepresented groups in science.]]></AbstractNarration>
+<MinAmdLetterDate>06/12/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/12/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0808047</AwardID>
+<Investigator>
+<FirstName>Nicole</FirstName>
+<LastName>Valenzuela</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nicole Valenzuela</PI_FULL_NAME>
+<EmailAddress><![CDATA[nvalenzu@iastate.edu]]></EmailAddress>
+<NSF_ID>000139339</NSF_ID>
+<StartDate>06/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Claudia</FirstName>
+<LastName>Ceballos</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Claudia P Ceballos</PI_FULL_NAME>
+<EmailAddress><![CDATA[ceballos@iastate.edu]]></EmailAddress>
+<NSF_ID>000082778</NSF_ID>
+<StartDate>06/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Iowa State University</Name>
+<CityName>AMES</CityName>
+<ZipCode>500112105</ZipCode>
+<PhoneNumber>5152945225</PhoneNumber>
+<StreetAddress>515 MORRILL RD, 1350 BEARDSHEAR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DQDBM7FGJPC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DQDBM7FGJPC5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Iowa State University]]></Name>
+<CityName>AMES</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>500112105</ZipCode>
+<StreetAddress><![CDATA[515 MORRILL RD, 1350 BEARDSHEAR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7378</Code>
+<Text>EVOLUTIONARY GENETICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1228</Code>
+<Text>MINORITY INVOLVEMENT -- BIO</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7378</Code>
+<Text>EVOLUTIONARY GENETICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~11976</FUND_OBLG>
+</Award>
+</rootTag>

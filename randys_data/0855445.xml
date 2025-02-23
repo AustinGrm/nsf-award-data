@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Neutron Interferometry Experiments for Nuclear Physics</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>180000.00</AwardTotalIntnAmount>
+<AwardAmount>180000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gail Dodge</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The neutron interferometer is a device that uses the quantum mechanical (QM) wave-like properties of free neutrons to measure certain properties of matter very precisely. It functions much like a light interferometer, except that it detects the interference of neutron matter waves rather than light waves. A slow neutron (moving less than 2000 m/s) has an associated QM wavelength comparable in size to the spacing of atoms in a solid, so it interacts with matter coherently, i.e. like a wave rather than a particle. When a slow neutron enters the interferometer, its QM wave is diffracted in a perfect silicon crystal and splits into two sub-waves, each taking a different path. Two of these four sub-waves meet again in a later crystal and can interfere with each other. The degree of interference determines the probability of detecting the neutron in a neutron detector placed behind the interferometer. We can place a piece of matter, a magnetic or electric field, or even a gravitational field inside the interferometer to shift the phase of one sub-wave relative to another and change this interference. This gives important and often unique information about the strength and nature of the neutron's interaction in the material or field. We use the neutron interferometer to study phenomena important for nuclear physics, such as the internal charge distribution of the neutron and the scattering of neutrons from light nuclei.&lt;br/&gt;&lt;br/&gt;Graduate and undergraduate students participate in this research program. In addition to learning the science of neutron interferometry, they are educated broadly in the physics and methodology of research at neutron sources, which prepares them for a wide range of careers related to neutron science in academia and industry.</AbstractNarration>
+<MinAmdLetterDate>08/10/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/10/2009</MaxAmdLetterDate>
+<ARRAAmount>180000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855445</AwardID>
+<Investigator>
+<FirstName>Fred</FirstName>
+<LastName>Wietfeldt</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Fred Wietfeldt</PI_FULL_NAME>
+<EmailAddress>few@tulane.edu</EmailAddress>
+<NSF_ID>000164464</NSF_ID>
+<StartDate>08/10/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Tulane University</Name>
+<CityName>NEW ORLEANS</CityName>
+<ZipCode>701185698</ZipCode>
+<PhoneNumber>5048654000</PhoneNumber>
+<StreetAddress>6823 ST CHARLES AVENUE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>LA01</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>053785812</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>ADMINISTRATORS OF THE TULANE EDUCATIONAL FUND, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>053785812</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Tulane University]]></Name>
+<CityName>NEW ORLEANS</CityName>
+<StateCode>LA</StateCode>
+<ZipCode>701185698</ZipCode>
+<StreetAddress><![CDATA[6823 ST CHARLES AVENUE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>LA01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1232</Code>
+<Text>Nuclear &amp; Hadron Quantum Chrom</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~180000</FUND_OBLG>
+</Award>
+</rootTag>

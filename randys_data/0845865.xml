@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Scalable Machine Learning for Astrostatistics</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>590000.00</AwardTotalIntnAmount>
+<AwardAmount>590000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daniel Katz</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;This project is designing new data structures and efficient algorithms for scaling modern machine learning techniques to massive datasets, and their application to recent sky surveys to solve central problems in astronomy. The long term goal is to scale up all the best machine learning techniques, by focusing on key computational primitives, and by creating the educational initiatives to allow future generations to do the same.&lt;br/&gt;&lt;br/&gt;In the shorter term, the project is accelerating the singular value decomposition (SVD), the key computational bottleneck in a number of state-of-the-art methods in machine learning (and well beyond). In addition to the classic principal component analysis, we consider the application of our ideas to kernel ridge regression, graphical model inference, and maximum variance unfolding, each representing a larger class (kernelized, graphical, and convex models). Working with leading astrophysicist collaborators, we validate each of these in a fundamental astronomical data analysis problem: respectively, estimation of the distances to objects, cross-matching of objects in different catalogs, and discovery of new types of objects. &lt;br/&gt;&lt;br/&gt;The key insight is the use of a new data structure called a cosine tree, which partitions vectors based on their mutual orthogonality, using analogies of successful ideas for distance-based geometric problems to enable a new Monte Carlo sampling technique.  Preliminary results demonstrate as much as 20,000 times speedup over exact SVD in moderate-sized problems with user-specifiable high approximation accuracy.&lt;br/&gt;&lt;br/&gt;The broader impact of the work is the transformative ability to utilize the advanced data analysis techniques to unlock the potential insights across science, engineering, and business lying within the tera- and peta-scale datasets of the present and future. Apropos these goals, the project educational goals are deep integration of real-world data analysis, and cross-disciplinary thinking into traditional computing programs.</AbstractNarration>
+<MinAmdLetterDate>07/06/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/12/2014</MaxAmdLetterDate>
+<ARRAAmount>590000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0845865</AwardID>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Gray</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexander Gray</PI_FULL_NAME>
+<EmailAddress>agray@cc.gatech.edu</EmailAddress>
+<PI_PHON>4049330666</PI_PHON>
+<NSF_ID>000065875</NSF_ID>
+<StartDate>07/06/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 NORTH AVE NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1187</Code>
+<Text>PECASE- eligible</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9217</Code>
+<Text>NATNL RESERCH &amp; EDUCAT NETWORK</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~590000</FUND_OBLG>
+</Award>
+</rootTag>

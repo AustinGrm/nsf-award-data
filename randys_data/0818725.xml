@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SGER: Adaptation of a chromatographic technique for accurate, rapid and affordable determination of soil amino acid concentration and their fingerprints]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>63756</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010209</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry L. Gholz</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[ There is growing albeit circumstantial evidence that many native soils are characterized by a relatively large concentration of soluble amino acids (AAs). Additionally, numerous plant species from multitudes of ecosystems have been shown to be able to absorb AAs. Despite such evidence, there is considerable uncertainty about the relative importance of AAs to the annual N requirements of native plants. The resolution to this uncertainty is slow in coming largely due to the lack of user friendly and cost effective techniques that can be widely used in assessing soil AAs and their fingerprints in native soils.  In this study, we propose to use a recently developed ion exchange column to assay AA composition/fingerprints and to measure their response to climatic and edaphic factors. Given the unequivocal fact that AAs differ significantly in their biochemical properties, it follows that each AA requires a distinct membrane bound carrier to facilitate its uptake and transport. Therefore, it is critical to know not only total availability of soil AAs but also their composition. We will use recent advances in High Performance Liquid Chromatography (HPLC) to develop rapid, accurate and affordable measurements of soil AA profiles.&lt;br/&gt; The proposed research should make what is currently a specialized analytical chemistry technique easily available for wide spread use in biogeochemistry research. Ultimately, we hope the results generated here will remove technical obstacles that are currently slowing down our ability to characterize and integrate soil AAs information into models of the terrestrial N cycle.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>05/27/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>03/31/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0818725</AwardID>
+<Investigator>
+<FirstName>Hormoz</FirstName>
+<LastName>BassiriRad</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hormoz BassiriRad</PI_FULL_NAME>
+<EmailAddress><![CDATA[hormoz@uic.edu]]></EmailAddress>
+<NSF_ID>000097560</NSF_ID>
+<StartDate>05/27/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Chicago</Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606124305</ZipCode>
+<PhoneNumber>3129962862</PhoneNumber>
+<StreetAddress>809 S MARSHFIELD AVE M/C 551</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>W8XEAJDKMXH3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606124305</ZipCode>
+<StreetAddress><![CDATA[809 S MARSHFIELD AVE M/C 551]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1181</Code>
+<Text>ECOSYSTEM STUDIES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1181</Code>
+<Text>ECOSYSTEM STUDIES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9237</Code>
+<Text>SMALL GRANTS-EXPLORATORY RSRCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~63756</FUND_OBLG>
+</Award>
+</rootTag>

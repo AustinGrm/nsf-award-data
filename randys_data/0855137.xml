@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CI-ADDO-EN: A Community Testbed for Controlled and Repeatable Wireless Experiments]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>750000.00</AwardTotalIntnAmount>
+<AwardAmount>750000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Min Song</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;This project is deploying two community wireless network test facilities that use real-time signal propagation emulation to implement the N-by-N interfering channels connecting the wireless devices.  Since signal propagation is controlled in software, experiments are easy to control and are fully repeatable.  This allows thorough testing and evaluation of research results, fair, side-by-side comparison of wireless solutions, and the emulation of very diverse wireless environments (e.g. residential, office, mesh, vehicular, etc.) on a single platform.  The testbeds operate in the 2.4 GHz ISM band and support for the 5GHz band and for MIMO devices is being added.  Endpoints consist of WiFi devices and USRP software radios by default, although other devices can be supported.  A set of 'world models' that model specific wireless environments (mesh and vehicular) is being added.  This makes the testbed easier to use, and simplifies sharing of experiments and comparing of results.  To support and encourage such sharing, a repository for shared experiments is maintained.  &lt;br/&gt;&lt;br/&gt;The wireless emulator testbed allows researchers to run repeatable and fully controlled wireless networking experiments, which significantly improves the quality of the research evaluation.  By sharing experiments, researchers are able to more thoroughly evaluate and compare their research on a realistic platform, which otherwise would not have been possible.  The emulator also improves education in wireless networking by enabling exciting hands-on assignments and projects.]]></AbstractNarration>
+<MinAmdLetterDate>07/20/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>02/08/2012</MaxAmdLetterDate>
+<ARRAAmount>750000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855137</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Stancil</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel D Stancil</PI_FULL_NAME>
+<EmailAddress><![CDATA[ddstancil@ncsu.edu]]></EmailAddress>
+<NSF_ID>000262348</NSF_ID>
+<StartDate>07/20/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Steenkiste</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peter A Steenkiste</PI_FULL_NAME>
+<EmailAddress><![CDATA[prs@cs.cmu.edu]]></EmailAddress>
+<NSF_ID>000456370</NSF_ID>
+<StartDate>07/20/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 FORBES AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NKNFLNQ613</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARNEGIE MELLON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NKNFLNQ613</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>PITTSBURGH</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152133815</ZipCode>
+<StreetAddress><![CDATA[5000 FORBES AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7359</Code>
+<Text>CCRI-CISE Cmnty Rsrch Infrstrc</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~750000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Ask a Biologist- answering questions and developing content for a community-based web generation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Herbert H. Richtol</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Biological Sciences (61)&lt;br/&gt;&lt;br/&gt;This project moves the Ask-a-Biologist (AAB) web site into a dynamic content management system (Drupal - drupal.org), adds Web 2.0 tools to provide a collaborative web content development environment; and includes the appropriate metadata for inclusion into the NSDL repository. The current AAB web site has over 1,400 static web pages, an extensive array of content, and datasets used in learning activities. The Drupal-enhanced site adds value to the current materials by providing a content management system (CMS) as well as Web 2.0 tools. The added features permit development and growth of existing and new content by experts in science, communications and graphics not trained to use web development software. As part of the conversion, NSDL metadata tags are added, allowing the content to be brought into the NSDL repository. &lt;br/&gt;&lt;br/&gt;The new Drupal version of AAB promotes participation in content development by an expanded group of people. In this format, scientists, writers, and graphic artists can collaborate on articles and learning activities, and connect more directly with pre-K-12 students, teachers, home schoolers and life-long learners. In addition, AAB can add an option for translating content into other languages, thus expanding the impact of the AAB site. Drupal also includes standard modules for RSS feeds, wikis, blogs, and other community-based tools to further enhance the learning experience of the visitor and expand the audience of the web site. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>09/16/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/16/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0840788</AwardID>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Kazilek</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Charles Kazilek</PI_FULL_NAME>
+<EmailAddress><![CDATA[kazilek@asu.edu]]></EmailAddress>
+<NSF_ID>000416064</NSF_ID>
+<StartDate>09/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Margaret</FirstName>
+<LastName>Coulombe</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Margaret G Coulombe</PI_FULL_NAME>
+<EmailAddress><![CDATA[margaret.coulombe@asu.edu]]></EmailAddress>
+<NSF_ID>000507817</NSF_ID>
+<StartDate>09/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Debi</FirstName>
+<LastName>Molina-Walters</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Debi Molina-Walters</PI_FULL_NAME>
+<EmailAddress><![CDATA[Debi.Molina-Walters@asu.edu]]></EmailAddress>
+<NSF_ID>000449513</NSF_ID>
+<StartDate>09/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Arizona State University</Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852813670</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress>660 S MILL AVENUE STE 204</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NTLHJXM55KZ6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ARIZONA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>TEMPE</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>852813670</ZipCode>
+<StreetAddress><![CDATA[660 S MILL AVENUE STE 204]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7444</Code>
+<Text>NATIONAL SMETE DIGITAL LIBRARY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~150000</FUND_OBLG>
+</Award>
+</rootTag>

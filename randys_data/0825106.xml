@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: The Development of Hinged Molecular Containers as Fluorescent Sensors of Small Molecules</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2007</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>88628.00</AwardTotalIntnAmount>
+<AwardAmount>88628</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tingyu Li</SignBlockName>
+<PO_EMAI>tli@nsf.gov</PO_EMAI>
+<PO_PHON>7032924949</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Professor Schafmeister is exploring the development of hinged molecular containers as fluorescent sensors of small molecules. Cyclic, chiral building blocks will be joined into spiro-ladder fused-ring oligomers that create complex three-dimensional structures. An amino acid-linked "lid" will provide for ligand-dependent reversible opening and closing of the resulting molecular container. By appending a donor and an acceptor at appropriate positions, this opening and closing will be readily observed via fluorescence measurements. Professor Schafmeister will develop effective tools for the stereographic presentation and visualization of three-dimensional molecular structures, facilitating the communication and learning of these often complex structures. These tools will be disseminated for world-wide use through the Internet.&lt;br/&gt;&lt;br/&gt;With this CAREER award, the Organic and Macromolecular Chemistry Program is supporting the teaching and research activities of Professor Christian E. Schafmeister, of the Department of Chemistry at the University of Pittsburgh. Professor Schafmeister is designing molecules which will specifically recognize and bind selected smaller molecules and in so doing undergo a dramatic and easily measurable change in properties. This basic premise can serve as the basis for the design of molecule-specific sensors and for the construction of selective catalysts for chemical transformations. Professor Schafmeister will facilitate student learning about the three-dimensional complexities of organic chemistry through the development of effective tools for stereographic presentation and visualization, and will make these tools available to others, enhancing the educational experience of students around the world.</AbstractNarration>
+<MinAmdLetterDate>03/11/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>03/11/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0825106</AwardID>
+<Investigator>
+<FirstName>Christian</FirstName>
+<LastName>Schafmeister</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christian E Schafmeister</PI_FULL_NAME>
+<EmailAddress>meister@temple.edu</EmailAddress>
+<NSF_ID>000489490</NSF_ID>
+<StartDate>03/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Temple University</Name>
+<CityName>Philadelphia</CityName>
+<ZipCode>191226003</ZipCode>
+<PhoneNumber>2157077547</PhoneNumber>
+<StreetAddress>1801 N. Broad Street</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA02</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>057123192</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>TEMPLE UNIVERSITY-OF THE COMMONWEALTH SYSTEM OF HIGHER EDUCATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>057123192</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Temple University]]></Name>
+<CityName>Philadelphia</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>191226003</ZipCode>
+<StreetAddress><![CDATA[1801 N. Broad Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1950</Code>
+<Text>METHODOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<FUND_OBLG>2005~88628</FUND_OBLG>
+</Award>
+</rootTag>

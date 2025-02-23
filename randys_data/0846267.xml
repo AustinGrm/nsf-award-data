@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER:  Exploiting the Density Fluctuating Regime in Supercritical Fluids for Environmentally Green Polymer Surface Processing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>430000.00</AwardTotalIntnAmount>
+<AwardAmount>430000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alexis Lewis</SignBlockName>
+<PO_EMAI>alewis@nsf.gov</PO_EMAI>
+<PO_PHON>7032922624</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).  &lt;br/&gt;&lt;br/&gt;The research objective of this award is to develop an integrated education and research program at Stony Brook University designed to play a leading role in the field of environmentally benign polymer surface processing. Supercritical carbon dioxide (scCO2) is a density fluctuating system which is known to be energetically unstable. Consequently, when confined near a polymer interface, the fluid is found to be driven across the interface into the polymer material, even when the enthalpy is unfavorable. Furthermore, since the phenomenon appears to be a function of only the amplitude of the density fluctuations in the fluid, it may also be independent of the particular polymer/fluid combinations, facilitating the use of density fluctuating scCO2 as a new process environment for polymer surface processing. The research described in this proposal will explore the underlying driving force for the density-fluctuation-induced surface phenomena. A variety of in-situ and real-time X-ray/neutron scattering techniques will be integrated to enable to form a comprehensive model of the interactions between the polymer and density fluctuating scCO2. &lt;br/&gt;&lt;br/&gt;This proposed activity will promote educational initiatives designed both to complement this research and, more generally, to advance science education at Stony Brook. The first component of this initiative involves the strengthening of an undergraduate thesis program for Chemical Engineering majors at Stony Brook University which encourages them to perform research as an integral part of their education. The second component of this initiative involves the creation of an interdisciplinary lab course on nanostructure characterization using X-ray scattering for upper-level undergraduates and beginning gradate students. A unique aspect of this course will be its use of a national scattering facility (at nearby Brookhaven National Lab.) including planning, executing and analyzing a focused set of measurements. A final initiative involves an international (Japan) collaborative program. Graduate students at Stony Brook will gain valuable research experience in Japan and expand their knowledge beyond their fields of study by interacting with Japanese professors and graduate students of different backgrounds and perspectives. Collectively, these efforts aim both to make the science community at Stony Brook more inclusive and to give the students a more varied experience.&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/15/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/14/2014</MaxAmdLetterDate>
+<ARRAAmount>430000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0846267</AwardID>
+<Investigator>
+<FirstName>Tadanori</FirstName>
+<LastName>Koga</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tadanori Koga</PI_FULL_NAME>
+<EmailAddress><![CDATA[tadanori.koga@stonybrook.edu]]></EmailAddress>
+<NSF_ID>000154633</NSF_ID>
+<StartDate>07/15/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY at Stony Brook</Name>
+<CityName>STONY BROOK</CityName>
+<ZipCode>117940001</ZipCode>
+<PhoneNumber>6316329949</PhoneNumber>
+<StreetAddress>W5510 FRANKS MELVILLE MEMORIAL L</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M746VC6XMNH9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SUNY at Stony Brook]]></Name>
+<CityName>STONY BROOK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>117940001</ZipCode>
+<StreetAddress><![CDATA[W5510 FRANKS MELVILLE MEMORIAL L]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0106000</Code>
+<Name>Materials Research</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1633</Code>
+<Text>MATERIALS AND SURFACE ENG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>024E</Code>
+<Text>MATERIALS DESIGN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1187</Code>
+<Text>PECASE- eligible</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1444</Code>
+<Text>SURFACE ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9161</Code>
+<Text>SINGLE DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>AMPP</Code>
+<Text>ADVANCED MATERIALS &amp; PROCESSING PROGRAM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~430000</FUND_OBLG>
+</Award>
+</rootTag>

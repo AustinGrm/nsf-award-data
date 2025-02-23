@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[U.S.-Germany Dissertation Enhancement:  Serre Duality for Systems of Submodules]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2008</AwardExpirationDate>
+<AwardTotalIntnAmount>9300.00</AwardTotalIntnAmount>
+<AwardAmount>9300</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jennifer Pearl</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[U.S-Germany Dissertation Enhancement:  Serre Duality for Systems of Submodules&lt;br/&gt;0831369&lt;br/&gt;&lt;br/&gt;The purpose of this Doctoral Dissertation Enhancement Project is to further the research in mathematics conducted by Audrey Doughty, doctoral student at Florida Atlantic University, on her thesis topic in the representation theory of finite dimensional algebras.  Ms. Doughty's dissertation advisor is Associate Professor Markus Schmidmeier.  The award will allow Ms. Doughty to visit the Collaborative Research Center 701 at Bielefeld University in Germany and work with Professor Claus M. Ringel on the following topics: use of homological methods, in particular Serre duality, for the classification of systems of submodule embeddings; applications to the problem posed in 1934 by Garrett Birkhoff of the classification of the possible subgroups of finite abelian groups, and to the Invariant Subspace Problem in operator theory; and computation of the precise values of the Calabi-Yau dimension of submodule embedding categories in important examples.  &lt;br/&gt;&lt;br/&gt;The project will expand on an existing collaboration between researchers at Florida Atlantic University and at Bielefeld University.  Its success will improve opportunities for research and graduate studies in mathematics in Southeastern Florida.]]></AbstractNarration>
+<MinAmdLetterDate>07/16/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/16/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.079</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0831369</AwardID>
+<Investigator>
+<FirstName>Markus</FirstName>
+<LastName>Schmidmeier</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Markus Schmidmeier</PI_FULL_NAME>
+<EmailAddress><![CDATA[markus@math.fau.edu]]></EmailAddress>
+<NSF_ID>000483725</NSF_ID>
+<StartDate>07/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida Atlantic University</Name>
+<CityName>BOCA RATON</CityName>
+<ZipCode>334316424</ZipCode>
+<PhoneNumber>5612970777</PhoneNumber>
+<StreetAddress>777 GLADES RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>22</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL22</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Q266L2NDAVP1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA ATLANTIC UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D4GCCCMXR1H3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida Atlantic University]]></Name>
+<CityName>BOCA RATON</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>334316424</ZipCode>
+<StreetAddress><![CDATA[777 GLADES RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>22</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL22</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7727</Code>
+<Text>IRES Track I: IRES Sites (IS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5936</Code>
+<Text>GERMANY (F.R.G.)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5979</Code>
+<Text>Europe and Eurasia</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7715</Code>
+<Text>BROADENING PARTICIPATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~9300</FUND_OBLG>
+</Award>
+</rootTag>

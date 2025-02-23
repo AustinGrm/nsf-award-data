@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>An Alkylative Dearomatization-Annulation Approach to the Polyprenylated Phloroglucinol Natural Products</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>425600.00</AwardTotalIntnAmount>
+<AwardAmount>425600</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090003</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tingyu Li</SignBlockName>
+<PO_EMAI>tli@nsf.gov</PO_EMAI>
+<PO_PHON>7032924949</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;In this project, alkylative dearomatization processes will be developed for synthesis of the polyprenylated phloroglucinol natural products.  In preliminary results, methodologies for efficient construction of the bicyclo[3.3.1]nonan-9-one core of the polyprenylated phloroglucinol clusianone have been developed.  In this funding period, the scope of the methodology will be expanded and the improved method will be applied towards the syntheses of nemorosone and the adamantane natural products hyperibone K and plukenetione A.  In addition, the project aims to develop a catalytic, asymmetric dearomatization process by making use of computational docking algorithms to understand reaction mechanisms and design new asymmetric catalyst candidates.   &lt;br/&gt;&lt;br/&gt;With this award, the Organic and Macromolecular Chemistry Program is supporting the research of Professor John A. Porco Jr. of the Department of Chemistry at Boston University.  Professor Porco's research efforts revolve around the development of methodologies for the synthesis of complex natural products and their derivatives.   His efforts will contribute to chemical synthesis by furthering the development of underutilized alkylative dearomatization processes and will have a positive impact on synthesis in the pharmaceutical and agricultural industries.</AbstractNarration>
+<MinAmdLetterDate>08/10/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/10/2009</MaxAmdLetterDate>
+<ARRAAmount>425600</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0848082</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Porco, Jr.</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME>Jr.</PI_SUFX_NAME>
+<PI_FULL_NAME>John A Porco, Jr.</PI_FULL_NAME>
+<EmailAddress>porco@chem.bu.edu</EmailAddress>
+<NSF_ID>000126238</NSF_ID>
+<StartDate>08/10/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Trustees of Boston University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>022151300</ZipCode>
+<PhoneNumber>6173534365</PhoneNumber>
+<StreetAddress>881 COMMONWEALTH AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>049435266</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF BOSTON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>049435266</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Trustees of Boston University]]></Name>
+<CityName>BOSTON</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>022151300</ZipCode>
+<StreetAddress><![CDATA[881 COMMONWEALTH AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1948</Code>
+<Text>SYNTHESIS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2009~425600</FUND_OBLG>
+</Award>
+</rootTag>

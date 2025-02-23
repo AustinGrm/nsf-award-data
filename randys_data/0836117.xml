@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Conference: Essential Cosmology for the Next Generation; January 12 - 16, 2009, Los Cabos, Mexico</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>20248.00</AwardTotalIntnAmount>
+<AwardAmount>20248</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020400</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nigel Sharp</SignBlockName>
+<PO_EMAI>nsharp@nsf.gov</PO_EMAI>
+<PO_PHON>7032924905</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award provides partial support for the international meeting "Essential Cosmology for the Next Generation" to be held in Los Cabos, Mexico from 12-16 January 2009.  It is sponsored jointly by the Berkeley Center for Cosmological Physics (BCCP), the Munich 'cluster of excellence' for "Structure and Origin of the Universe", and the Mexican Advanced Institute for Cosmology (IAC), an organization bringing together 45 researchers at 18 academic institutions. The meeting will combine mini-courses with plenary talks and contributed papers.  The organizers expect about 100 attendees, with roughly 90 junior participants (students and postdocs).  Half of the participants are expected to be from Mexico, with the rest from the US and Germany.  NSF funding will cover half of the travel, lodging and registration costs for 20 US junior participants.  &lt;br/&gt;&lt;br/&gt;The collaboration with IAC and with the Munich cluster will expose US students and postdocs to international aspects of research.  Proceedings will be webcast and archived for later viewing, allowing a broader audience.  A public talk for the local community is planned during the meeting.  This award is made jointly by NSF's Astronomical Sciences Division and its Office of International Science and Engineering.</AbstractNarration>
+<MinAmdLetterDate>11/13/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>11/13/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0836117</AwardID>
+<Investigator>
+<FirstName>George</FirstName>
+<LastName>Smoot</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>George F Smoot</PI_FULL_NAME>
+<EmailAddress>smoot@cosmos.lbl.gov</EmailAddress>
+<NSF_ID>000239189</NSF_ID>
+<StartDate>11/13/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress>Sponsored Projects Office</StreetAddress>
+<StreetAddress2><![CDATA[1608 Fourth Street, Suite 220]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA13</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>124726725</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>071549000</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>BERKELEY</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947101749</ZipCode>
+<StreetAddress><![CDATA[Sponsored Projects Office]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1217</Code>
+<Text>EXTRAGALACTIC ASTRON &amp; COSMOLO</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7299</Code>
+<Text>Catalyzing New Intl Collab</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5922</Code>
+<Text>MEXICO</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5977</Code>
+<Text>AMERICAS PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2009~20248</FUND_OBLG>
+</Award>
+</rootTag>

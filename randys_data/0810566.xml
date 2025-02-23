@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  High Throughput Flowcell for Biosensor Platforms]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2008</AwardExpirationDate>
+<AwardTotalIntnAmount>99963.00</AwardTotalIntnAmount>
+<AwardAmount>99963</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cynthia A. Znati</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This Small Business Innovation Research Phase I project will develop and demonstrate a high throughput flow cell array for use with a variety of label-free biosensing platforms, but primarily SPR systems. Flow cell technology is currently the limiting factor in the development of high throughput label-free sensing technologies. Modification of Wasatch Microfluidics Continuous Flow MicrospotterTM into a highly parallel flow cell should begin to eliminate this bottleneck and provide a template for even more highly parallel systems. The research performed in this project will specifically help us understand the differences between different pumping technologies and their ability to be integrated with the flow cell. Preliminary work suggests that a flow cell array can convert mediocre SPR imaging instruments into highly-competitive protein analysis instruments comparable to state-of-the-art SPR instruments with meager throughput. We will also develop an understanding of how the flow cell technology will impact the sensing capabilities of a surface plasmon resonance (SPR) instrument, and an optimized baseline protocol will be developed. The end result will be a 48 channel flow cell, which will be scalable to much higher throughputs (192, 1536). This flow cell will be generic such that it will be easily integrated with a variety of label-free sensing technologies. The end result of this research and development effort will be a flow cell array with more than double the capacity of the best current systems and will lay the ground work for much higher density systems.&lt;br/&gt;&lt;br/&gt;The broader impacts of this technology include the commercial opportunities of the microfluidic flow cell array (MFCA). The MFCA will be developed for integration with the biosensing platforms of a number of other companies. Specifically we will target labelfree technologies used to measure kinetic and affinity constants for binding of molecules to one another. This is currently a $100M/year market. From our discussions with pharmaceutical companies, higher throughput label-free systems will lead much larger implementation of these technologies and a significant commercial potential, including a significantly larger market. Even the most basic implementation of our flow cell will have a substantial impact. Currently, it takes the flagship Biacore instrument 28 hrs to process 384 samples. These same 384 samples would only take 1 hr with our new flowcell. These same instruments will then lead to substantially faster and more effective drug discovery processes, and eventually better health for the US population.]]></AbstractNarration>
+<MinAmdLetterDate>05/01/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/01/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0810566</AwardID>
+<Investigator>
+<FirstName>Bruce</FirstName>
+<LastName>Gale</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bruce K Gale</PI_FULL_NAME>
+<EmailAddress><![CDATA[bruce.gale@utah.edu]]></EmailAddress>
+<NSF_ID>000425787</NSF_ID>
+<StartDate>05/01/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Wasatch Microfluidics, LLC</Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841036126</ZipCode>
+<PhoneNumber>8015816549</PhoneNumber>
+<StreetAddress>825 N 300 W STE C309</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G68UXNP4J1W5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARTERRA INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Wasatch Microfluidics, LLC]]></Name>
+<CityName>SALT LAKE CITY</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>841036126</ZipCode>
+<StreetAddress><![CDATA[825 N 300 W STE C309]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1491</Code>
+<Text>BIOTECH, BIOCHEM &amp; BIOMASS ENG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; DEVICE TEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9107</Code>
+<Text>BIOELECTRONICS AND BIONETWORKS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9267</Code>
+<Text>INSTRUMENTATION &amp; LAB IMPROVE.</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~99963</FUND_OBLG>
+</Award>
+</rootTag>

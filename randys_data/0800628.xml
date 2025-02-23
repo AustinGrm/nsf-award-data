@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research on Risk Management in Supply Chains Using Market Information</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>100711.00</AwardTotalIntnAmount>
+<AwardAmount>100711</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cerry M. Klein</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>NSF Proposal # 0800628: Management in Supply Chains Using Market Information&lt;br/&gt;&lt;br/&gt;Abstract: &lt;br/&gt;&lt;br/&gt;This grant provides funding for the development of risk management tools for supply chains using market information. Preliminary studies have shown that the demand for discretionary purchase items, such as automobiles, apparel, consumer electronics, and home furnishings is correlated with the movement of economic indicators. These findings present an opportunity to use information about market expectations embedded in the prices of financial instruments to improve demand forecasting, production planning, and inventory thus reducing risk. This project aims to establish that the market indicators can be used to plan inventories in supply chains that are optimal not just in a static sense but also dynamically, and to test whether and how the value of the firm is correlated with the economic indicators driving the forecasts. The proposed work also includes the examination of the effect of price information on inventories when the price of the product can be forecasted using prices of traded market instruments. &lt;br/&gt;&lt;br/&gt;The project consists of four parts: forecasting, optimal decision-making, hedging, and empirical validation. If successful, this research will lead to better understanding of the connections between economic factors with supply chain demand and inventory planning. The results will provide a mechanism to inventory planners to use readily available and reliable market information for inventory planning, profit forecasting, and hedging purposes. They also provide a systematic method for developing and testing profit and risk equations using models of supply chains, and allow the enterprises to better understand how the cost of procurement and the volatility of prices and demand affect risk in a simple and joint manner, and thus, the firms will be able to make use of market factors in designing inventory and production systems.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>04/22/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/22/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0800628</AwardID>
+<Investigator>
+<FirstName>Marti</FirstName>
+<LastName>Subrahmanyam</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marti G Subrahmanyam</PI_FULL_NAME>
+<EmailAddress>msubrahm@stern.nyu.edu</EmailAddress>
+<PI_PHON>2129980348</PI_PHON>
+<NSF_ID>000101566</NSF_ID>
+<StartDate>04/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sridhar</FirstName>
+<LastName>Seshadri</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sridhar Seshadri</PI_FULL_NAME>
+<EmailAddress>seshadris@mccombs.utexas.edu</EmailAddress>
+<PI_PHON>5124719689</PI_PHON>
+<NSF_ID>000486530</NSF_ID>
+<StartDate>04/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQ S</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NX9PXMKW5KW8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW YORK UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NX9PXMKW5KW8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100121019</ZipCode>
+<StreetAddress><![CDATA[70 WASHINGTON SQ S]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1786</Code>
+<Text>MANFG ENTERPRISE SYSTEMS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>071E</Code>
+<Text>MFG ENTERPRISE OPERATIONS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9147</Code>
+<Text>GENERIC TECHNOL FOR MANUFACTURING CELLS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~12824</FUND_OBLG>
+</Award>
+</rootTag>

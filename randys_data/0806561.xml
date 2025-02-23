@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[DREAMS-II --- A novel program to recruit and educate underrepresented students in geosciences (Collaborative Proposal)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>44707.00</AwardTotalIntnAmount>
+<AwardAmount>44707</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06000001</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jill L. Karsten</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Diversity in Research in Environmental And Marine Science (DREAMS-II) combines the strengths of two leading HBCUs, Hampton University and Elizabeth City State University, and two top-notch research institutions, Virginia Institute of Marine Science and University of South Carolina, to form a strong regional consortium in the mid-Atlantic coast for promoting geosciences among underrepresented students across all education levels. DREAMS-II goals are to raise the awareness and interests in geosciences among underrepresented groups; to recruit underrepresented pre-college students into geosciences; to retain and prepare underrepresented undergraduate students for graduate study or work in geosciences; to cultivate the next generation of leaders among underrepresented students in geosciences. The program puts equal emphasis on academic training, career training, as well as life-skills training, and the activities will revolve around the theme Coastal Environmental Challenges in the 21st Century. Geoscience seminars, summer immersion courses, technical and life skill workshops will equip participating undergraduate students with the necessary knowledge to navigate through challenges in school and in life. DREAMS-II undergraduate students and project investigators will aggressively reach out to pre-college students and parents that are underrepresented in the geosciences. GeoTrek outdoor adventures, after school activities, special recruitment brochures and campus tours will allow these pre-college students and their parents to experience the excitement and to understand the importance of geosciences. This program ultimately seeks to present participants with a strong and clear message that they can achieve a successful career in geosciences.]]></AbstractNarration>
+<MinAmdLetterDate>06/04/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>03/20/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0806561</AwardID>
+<Investigator>
+<FirstName>Kam</FirstName>
+<LastName>Tang</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kam W Tang</PI_FULL_NAME>
+<EmailAddress><![CDATA[kamtang@vims.edu]]></EmailAddress>
+<NSF_ID>000117389</NSF_ID>
+<StartDate>06/04/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>College of William &amp; Mary Virginia Institute of Marine Science</Name>
+<CityName>GLOUCESTER POINT</CityName>
+<ZipCode>230622026</ZipCode>
+<PhoneNumber>8046847000</PhoneNumber>
+<StreetAddress>1375 GREATE RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>XGE9T6KCMSR4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIRGINIA INSTITUTE OF MARINE SCIENCE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[College of William &amp; Mary Virginia Institute of Marine Scien]]></Name>
+<CityName>GLOUCESTER POINT</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>230622026</ZipCode>
+<StreetAddress><![CDATA[1375 GREATE RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1733</Code>
+<Text>GEOSCIENCE EDUCATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~22172</FUND_OBLG>
+<FUND_OBLG>2009~22535</FUND_OBLG>
+</Award>
+</rootTag>

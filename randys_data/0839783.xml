@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  MEMS-Based System for Particulate Matter Pollution Monitoring Using Thin-Film Bulk Acoustic Wave Resonators (FBARs)</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maria Josephine Yuen</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research Phase I project will investigate the feasibility of a miniaturized, battery-powered, and inexpensive sensor to provide real-time mass measurements of airborne particulate matter (PM). PM is a major public health issue, and there is an urgent need for inexpensive devices that monitor PM in epidemiological studies of aerosol exposure, especially with regard to pollutants. The highly innovative PM mass monitor leverages state-of-the-art micromachined electromechanical system (MEMS) technologies to achieve unprecedented reductions in power consumption, cost, sample flow rate, and form factor. The system employs the thermophoretic deposition of particulates from a sample stream onto a thin-film bulk acoustic wave resonator (FBAR), and determines the mass deposited by measuring the frequency shift of an electronic  oscillator. The Phase I effort will focus largely on improving the sensitivity and stability of the MEMS FBAR mass sensor, but also seek to reduce the monitor size and power consumption and to improve the interface electronics.&lt;br/&gt;&lt;br/&gt;The broader impact/commercial potential of this technology will be to inexpensively and quickly assess airborne particulates for human health and industrial cleanliness. Present instrumentation to measure PM mass can be bulky, costly to purchase, and difficult to operate. This real-time MEMS PM mass monitor provides a compelling value proposition by offering stand-alone operation and an order of magnitude reduction in size and power and lower cost in comparison to existing aerosol mass monitors. Markets for the instrument include industrial hygiene and clean room monitoring, power plant monitoring, mobile monitoring in aircraft, indoor air quality monitoring, ambient PM monitoring, and emergency response. The 2007 worldwide addressable market for the technology is over $100 million. This work contributes to scientific understanding by enabling a highly-sensitive, portable, and low-cost PM mass monitor for epidemiological studies of aerosol exposure. The technology has important societal impact by assisting those seeking to improve air quality and reduce the health impacts of airborne PM in the environment and workplace and by reducing the cost of collecting airborne PM pollution data.</AbstractNarration>
+<MinAmdLetterDate>11/12/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839783</AwardID>
+<Investigator>
+<FirstName>Justin</FirstName>
+<LastName>Black</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Justin P Black</PI_FULL_NAME>
+<EmailAddress>justin@harmonicdevices.com</EmailAddress>
+<PI_PHON>5103164166</PI_PHON>
+<NSF_ID>000072460</NSF_ID>
+<StartDate>11/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Harmonic Devices Inc.</Name>
+<CityName>Berkeley</CityName>
+<ZipCode>947041517</ZipCode>
+<PhoneNumber>5103164166</PhoneNumber>
+<StreetAddress>2342 Shattuck Avenue #232</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Harmonic Devices Inc.]]></Name>
+<CityName>Berkeley</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947041517</ZipCode>
+<StreetAddress><![CDATA[2342 Shattuck Avenue #232]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; DEVICE TEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9107</Code>
+<Text>BIOELECTRONICS AND BIONETWORKS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9267</Code>
+<Text>INSTRUMENTATION &amp; LAB IMPROVE.</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~100000</FUND_OBLG>
+</Award>
+</rootTag>

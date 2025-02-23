@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Providing Suppport Structures for Chemistry Majors]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>583414.00</AwardTotalIntnAmount>
+<AwardAmount>583414</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Tymann</SignBlockName>
+<PO_EMAI>ptymann@nsf.gov</PO_EMAI>
+<PO_PHON>7032922832</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project is establishing a new program, Providing Support Structures for Chemistry Majors (PSSCM), to support 15-20 students throughout their undergraduate chemistry education. To qualify for PSSCM scholarships, students must demonstrate significant financial need and show promise for success in chemistry. The goal of this project is to provide significant academic support for this cohort of students. This program builds on three existing St. Olaf resources: (i) a nationally-recognized chemistry program; (ii) TRiO/Special Students Services (SSS) program, which supports students in overcoming financial, social, and cultural barriers to success in higher education; and (iii) St. Olaf's Center for Experiential Learning (CEL), which uses workshops, internships, and career counseling to link students' undergraduate experiences to future careers.  A steering committee includes chemistry faculty and the directors of financial aid, the SSS program, and the CEL. The committee is guiding the program, recruiting and selecting PSSCM Scholars, and overseeing program activities and mentorship.]]></AbstractNarration>
+<MinAmdLetterDate>07/31/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/31/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0806792</AwardID>
+<Investigator>
+<FirstName>Mary</FirstName>
+<LastName>Walczak</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mary M Walczak</PI_FULL_NAME>
+<EmailAddress><![CDATA[walczak@stolaf.edu]]></EmailAddress>
+<NSF_ID>000383166</NSF_ID>
+<StartDate>07/31/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Douglas</FirstName>
+<LastName>Beussman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Douglas Beussman</PI_FULL_NAME>
+<EmailAddress><![CDATA[beussmad@stolaf.edu]]></EmailAddress>
+<NSF_ID>000384090</NSF_ID>
+<StartDate>07/31/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kathy</FirstName>
+<LastName>Glampe</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kathy R Glampe</PI_FULL_NAME>
+<EmailAddress><![CDATA[glampe@stolaf.edu]]></EmailAddress>
+<NSF_ID>000385733</NSF_ID>
+<StartDate>07/31/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Saint Olaf College</Name>
+<CityName>NORTHFIELD</CityName>
+<ZipCode>550571574</ZipCode>
+<PhoneNumber>5077863000</PhoneNumber>
+<StreetAddress>1520 SAINT OLAF AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WDA2A3VKY3A7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ST. OLAF COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Saint Olaf College]]></Name>
+<CityName>NORTHFIELD</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>550571574</ZipCode>
+<StreetAddress><![CDATA[1520 SAINT OLAF AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EHR, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~583414</FUND_OBLG>
+</Award>
+</rootTag>

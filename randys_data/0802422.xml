@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Symposium K Materials and Devices for Laser Remote Sensing and Optical Communication will be held in San Francisco on March 24-28, 2008]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/15/2007</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2008</AwardExpirationDate>
+<AwardTotalIntnAmount>2900.00</AwardTotalIntnAmount>
+<AwardAmount>2900</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eric Johnson</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Abstract&lt;br/&gt;ECCS-0802422&lt;br/&gt;Robert Pachavis, Materials Research Society&lt;br/&gt;&lt;br/&gt;INTELLECTUAL MERIT&lt;br/&gt;This symposium provides ideal opportunities for science and engineering graduate students and post doctorates to learn about critical laser and photonic component technologies that can revolutionize the human lives by enabling major breakthroughs in future voice and data communication, transportation and travel. This grant will allow the graduate student attendees to become familiarize to the state-of-the-art laser and photonic technologies, learn about various applications of these technologies, and understand their requirements and needs.&lt;br/&gt;&lt;br/&gt;BROADER IMPACT&lt;br/&gt;One of the major goals of this symposium is to provide a forum gathering scientists, technologists, and end-users from different technical backgrounds in order to elevate the laser remote sensing field to a technological level that can allow low-cost and reliable instruments for a wide range of scientific, commercial, military, and space applications. The laser remote sensing field can greatly benefit from considerable advances in fiber optics and photonics component technologies. These telecommunication-related technologies will create new exciting opportunities for developing lidar sensors with drastically improved measurement capabilities. Much of the lidar robustness and efficiency issues that has prevented its widespread utilization can also be addressed by the technological knowledge acquired by the optical telecommunication communities. This NSF grant will be used only to support US graduate students to participate in the symposium and provide them with opportunities to interact with research experts and industry representatives in this field. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>12/19/2007</MinAmdLetterDate>
+<MaxAmdLetterDate>12/19/2007</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0802422</AwardID>
+<Investigator>
+<FirstName>Nasser</FirstName>
+<LastName>Peyghambarian</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nasser Peyghambarian</PI_FULL_NAME>
+<EmailAddress><![CDATA[nnp@u.arizona.edu]]></EmailAddress>
+<NSF_ID>000218689</NSF_ID>
+<StartDate>12/19/2007</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Pachavis</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert H Pachavis</PI_FULL_NAME>
+<EmailAddress><![CDATA[pachavis@mrs.org]]></EmailAddress>
+<NSF_ID>000218077</NSF_ID>
+<StartDate>12/19/2007</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Materials Research Society</Name>
+<CityName>WARRENDALE</CityName>
+<ZipCode>150867537</ZipCode>
+<PhoneNumber>7247792732</PhoneNumber>
+<StreetAddress>506 KEYSTONE DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA17</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MFPJGRD1NWE3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MATERIALS RESEARCH SOCIETY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Materials Research Society]]></Name>
+<CityName>WARRENDALE</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>150867537</ZipCode>
+<StreetAddress><![CDATA[506 KEYSTONE DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0206000</Code>
+<Name>Telecommunications</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1517</Code>
+<Text>EPMD-ElectrnPhoton&amp;MagnDevices</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>103E</Code>
+<Text>Energy efficient electronics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>109E</Code>
+<Text>Sys theory in biology &amp; medicine</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~2900</FUND_OBLG>
+</Award>
+</rootTag>

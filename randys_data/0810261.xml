@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Regenerative Technologies in the Future: Tissue Engineering and Organ Printing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>75000.00</AwardTotalIntnAmount>
+<AwardAmount>75000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DRL</Abbreviation>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alphonse Desena</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[DRL- 0810261&lt;br/&gt;PI: Gabor Forgacs &lt;br/&gt;&lt;br/&gt;ABSTRACT&lt;br/&gt;&lt;br/&gt;In this Communicating Research to Public Audiences (CRPA) project, the University of Missouri is collaborating with the St. Louis Science Center on the development and implementation of exhibits and programs related to the principal investigator?s NSF-funded research on tissue engineering and organ printing, Understanding Molecular Self-Assembly.  The research is exploring basic research and technologies that could provide alternatives to organ donor transplants, especially given the mismatch between the demand and supply of organs.  The exhibits will become an offering in the science center?s new life sciences gallery whose goal is to help visitors better understand the applications of life science research that affect people?s everyday lives.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>09/24/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/24/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0810261</AwardID>
+<Investigator>
+<FirstName>Cristina</FirstName>
+<LastName>Encarnacion</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Cristina H Encarnacion</PI_FULL_NAME>
+<EmailAddress><![CDATA[cencarna@slsc.org]]></EmailAddress>
+<NSF_ID>000145404</NSF_ID>
+<StartDate>09/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gabor</FirstName>
+<LastName>Forgacs</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gabor Forgacs</PI_FULL_NAME>
+<EmailAddress><![CDATA[gabor@forkngoode.com]]></EmailAddress>
+<NSF_ID>000155183</NSF_ID>
+<StartDate>09/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Missouri-Columbia</Name>
+<CityName>COLUMBIA</CityName>
+<ZipCode>652113020</ZipCode>
+<PhoneNumber>5738827560</PhoneNumber>
+<StreetAddress>121 UNIVERSITY HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SZPJL5ZRCLF4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MISSOURI SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Missouri-Columbia]]></Name>
+<CityName>COLUMBIA</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>652113020</ZipCode>
+<StreetAddress><![CDATA[121 UNIVERSITY HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7259</Code>
+<Text>AISL</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9177</Code>
+<Text>ELEMENTARY/SECONDARY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~75000</FUND_OBLG>
+</Award>
+</rootTag>

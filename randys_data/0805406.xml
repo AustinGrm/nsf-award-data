@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RUI: Embedding spaces via calculus of functors and generalizations of finite type invariants]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>99707.00</AwardTotalIntnAmount>
+<AwardAmount>99707</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christopher Stark</SignBlockName>
+<PO_EMAI>cstark@nsf.gov</PO_EMAI>
+<PO_PHON>7032924869</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The PI plans to study spaces of embeddings of manifolds in Euclidean spaces.  In particular, this includes  knots in Euclidean spaces of various dimensions. The PI plans to further our understanding of their structure from the homotopy-theoretic point of view.  He plans to study knots by applying the calculus of functors, which he has already connected to knot theory in recent work.  In particular, calculus of functors produces a certain sequence of spaces which captures all the information about a relatively new class of knot invariants called finite type knot invariants.  These invariants have been found to connect in intricate ways to other areas of topology and geometry, as well as physics.  The ultimate goal is to show that these invariants separate knots, i.e. that, given any two knots which are different, there exists a finite type invariant which can tell them apart.  The PI believes he can make some progress on this conjecture since the calculus of functors provides a new, powerful, promising tool with which this problem can be attacked.  More generally, the PI plans to build on the work he and his collaborators have already accomplished concerning a complete topological description of spaces of embeddings of a manifold in a Euclidean space with suitable restrictions on dimensions.  In particular, he expects to be able to show the collapse of a certain spectral sequence which computes the homotopy of these embedding spaces, to extend certain integrals to more general spaces of knots in order to generalize finite type invariants, and establish a variety of foundational technical results of wide importance and variety of uses. &lt;br/&gt;&lt;br/&gt;Knots are some of the most interesting objects of study in topology both because they are easy to define and visualize and because they are of interest to physicists, chemists, etc.  Some fundamental questions about knots, such as their classification, or construction of efficient ways of telling them apart (i.e. finding good knot invariants), still generate a wealth of exciting research.  One of the main objectives of this project is to further the understanding of knot theory by studying it through the relatively new technique of calculus of functors.  It turns out, however, that the methods used in this theory are quite general and extend beyond knots to larger classes of topological spaces.  Thus the new connections between topology, geometry, combinatorics, and physics which are expected to arise from this project will potentially provide new ways of constructing invariants of various spaces of embeddings, answer several important conjectures about knot theory, and to introduce new points of view in algebraic topology.]]></AbstractNarration>
+<MinAmdLetterDate>07/29/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/29/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0805406</AwardID>
+<Investigator>
+<FirstName>Ismar</FirstName>
+<LastName>Volic</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ismar Volic</PI_FULL_NAME>
+<EmailAddress><![CDATA[ivolic@wellesley.edu]]></EmailAddress>
+<NSF_ID>000107301</NSF_ID>
+<StartDate>07/29/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Wellesley College</Name>
+<CityName>WELLESLEY HILLS</CityName>
+<ZipCode>024818203</ZipCode>
+<PhoneNumber>7812832079</PhoneNumber>
+<StreetAddress>106 CENTRAL ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Z17DSLNJ1DX1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WELLESLEY COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Wellesley College]]></Name>
+<CityName>WELLESLEY HILLS</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>024818203</ZipCode>
+<StreetAddress><![CDATA[106 CENTRAL ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1267</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~99707</FUND_OBLG>
+</Award>
+</rootTag>

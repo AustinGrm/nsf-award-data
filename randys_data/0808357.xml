@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>DISSERTATION RESEARCH: Comparative phylogeography of neotropical trees</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>7445.00</AwardTotalIntnAmount>
+<AwardAmount>7445</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010207</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy J. Huntly</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Climatic and geological change can affect both species and genetic diversity, and the nature of such responses to environmental change has implications for forest structure and adaptive potential and is of importance to conservation measures. In Central America, major geological changes during the uplift of the Panama land-bridge and climate fluctuations during the ice ages may have caused extinctions and re-colonizations of populations. Such events can be reconstructed by examining genetic relationships among current populations. DNA sequencing and fingerprinting techniques will be used to examine genetic patterns of populations of three Central American tree species and determine whether past geological and climatic change had common and significant influences on the trees? diversity and evolutionary history.  &lt;br/&gt;&lt;br/&gt;This study will reveal the impact of past climatic and geological change on Central American forest species. Understanding species? responses to past climate change enables prediction of responses to future climate change, which is particularly critical in this biodiverse and heavily exploited region. The information derived from this project can be used to improve conservation strategies and potentially ameliorate habitat deterioration.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>06/12/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/12/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0808357</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Hamrick</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME>III</PI_SUFX_NAME>
+<PI_FULL_NAME>James L Hamrick</PI_FULL_NAME>
+<EmailAddress>hamrick@plantbio.uga.edu</EmailAddress>
+<PI_PHON>7065421826</PI_PHON>
+<NSF_ID>000253306</NSF_ID>
+<StartDate>06/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Monica</FirstName>
+<LastName>Poelchau</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Monica F Poelchau</PI_FULL_NAME>
+<EmailAddress>poelchau@uga.edu</EmailAddress>
+<PI_PHON>7063407921</PI_PHON>
+<NSF_ID>000375176</NSF_ID>
+<StartDate>06/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Georgia Research Foundation Inc</Name>
+<CityName>ATHENS</CityName>
+<ZipCode>306021589</ZipCode>
+<PhoneNumber>7065425939</PhoneNumber>
+<StreetAddress>310 EAST CAMPUS RD TUCKER HALL R</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NMJHD63STRC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Georgia]]></Name>
+<CityName>ATHENS</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>306020001</ZipCode>
+<StreetAddress><![CDATA[310 E CAMPUS RD TUCKER HALL RM 4]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7377</Code>
+<Text>EVOLUTIONARY ECOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7377</Code>
+<Text>EVOLUTIONARY ECOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~7445</FUND_OBLG>
+</Award>
+</rootTag>

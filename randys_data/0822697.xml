@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>International Collaboration in Chemistry:  Directed synthesis of graphene nanoribbons</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>440000.00</AwardTotalIntnAmount>
+<AwardAmount>440000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tyrone Mitchell</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>With the support of the Organic Dynamics Program in the Chemistry Division and the Office of International Science and Engineering, Professors Laren Tolbert and Clifford Henderson at the Georgia Institute of Technology will work with collaborators Professors Klaus Mullen and Andreas Hirsch at the Max-Planck-Institute for Polymer Research and the University of Erlangen, respectively, on the synthesis and characterization of graphene nanoribbons. Graphene, a two-dimensional planar allotrope of carbon, has attracted considerable excitement as an electronic material beyond conventional silicon and compound semiconductors. &lt;br/&gt;A new bottoms-up oligomer approach to the synthesis of graphene ribbons on solid surfaces is proposed, free of structural defects, based upon oxidative aryl-aryl coupling reactions and Diels-Alder chemistry. Graphene nanostructures will be created directly through a novel "hot-tip nanolithography" technique, which uses a resistive heater within the atomic probe tip to locally convert graphene precursors into functional nanostructures on a surface. This technique will take advantage of the tremendous success and extensive literature in synthesizing free-standing graphitic molecules by a number of groups, including the collaborators on this project, as well as the exciting new hot-tip nanolithography methods pioneered by Professor Henderson and his collaborators.&lt;br/&gt;&lt;br/&gt;This proposal will use the unique but complementary capabilities of the group of four international investigators, each of whom supplies a critical piece of overall technology, to bring to bear the power of systematic organic synthesis. This potential breakthrough technology may open up a new and potentially transformative approach to nanocircuit design and strengthen the ties among several heretofore unlinked groups. The international collaboration will provide a unique educational experience for Ph.D. students and create a new interactive consortium. Moreover, Georgia Tech is one of the leading producers of graduates in science and engineering from underrepresented groups, and the groups of Henderson and Tolbert have an extensive record in the education of these students. Such groups will be targeted in soliciting candidates for participation in this project.</AbstractNarration>
+<MinAmdLetterDate>09/03/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/03/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0822697</AwardID>
+<Investigator>
+<FirstName>Clifford</FirstName>
+<LastName>Henderson</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Clifford L Henderson</PI_FULL_NAME>
+<EmailAddress>clhenderson@usf.edu</EmailAddress>
+<PI_PHON>8139746354</PI_PHON>
+<NSF_ID>000483587</NSF_ID>
+<StartDate>09/03/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Laren</FirstName>
+<LastName>Tolbert</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Laren M Tolbert</PI_FULL_NAME>
+<EmailAddress>laren.tolbert@chemistry.gatech.edu</EmailAddress>
+<PI_PHON>4048944093</PI_PHON>
+<NSF_ID>000358497</NSF_ID>
+<StartDate>09/03/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 NORTH AVE NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1944</Code>
+<Text>BIMOLECULAR PROCESSES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7298</Code>
+<Text>International Research Collab</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5936</Code>
+<Text>GERMANY (F.R.G.)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5979</Code>
+<Text>Europe and Eurasia</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7298</Code>
+<Text>COLLABORATIVE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9161</Code>
+<Text>SINGLE DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9162</Code>
+<Text>MULTI DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~440000</FUND_OBLG>
+</Award>
+</rootTag>

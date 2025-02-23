@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[ITR: Very Efficient Network Simulation Methods for Auctioning and Collaborative Models of Air Traffic Management]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>258568.00</AwardTotalIntnAmount>
+<AwardAmount>258568</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ephraim Glinert</SignBlockName>
+<PO_EMAI>eglinert@nsf.gov</PO_EMAI>
+<PO_PHON>7032924341</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The objective of the project is to develop new efficient simulation methods using a hybrid simulation/analytic queueing model for large and complex networks, and efficiently run the simulation portion of the model using a new dynamic computing budget allocation technique. This project will extend the use of the newly developed simulation methods to the national air traffic network including runway slot auctioning and agent-based modeling (ABM) of air traffic management.  Airlines and airports play the roles of agents engaged in a dynamic competition to maximize their individual profits with the use of information. Alternative agent-based rules will be experimented to determine optimal decision policies. Good auction rules to better regulate the use of airport runways will be investigated and designed using the fast simulation engine and ABM modeling approach.  Using auctions to allocate runway slots has the potential to economically induce airline carriers to more efficiently use the capacity of the entire system - thus, decreasing congestion and increasing the safety level. While the proposed simulation tool is tailored for the air transportation network in the U.S., the newly developed methods will be applicable to other complex, dynamic networks, such as communication networks, manufacturing systems, and logistics networks.]]></AbstractNarration>
+<MinAmdLetterDate>04/14/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/14/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0829553</AwardID>
+<Investigator>
+<FirstName>Abhijit</FirstName>
+<LastName>Deshmukh</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Abhijit V Deshmukh</PI_FULL_NAME>
+<EmailAddress><![CDATA[abhi@purdue.edu]]></EmailAddress>
+<NSF_ID>000205536</NSF_ID>
+<StartDate>04/14/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M Engineering Experiment Station</Name>
+<CityName>COLLEGE STATION</CityName>
+<ZipCode>778433124</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress>3124 TAMU</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX17</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QD1MX6N5YTN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A&amp;M ENGINEERING EXPERIMENT STATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QD1MX6N5YTN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&amp;M Engineering Experiment Station]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>778433124</ZipCode>
+<StreetAddress><![CDATA[3124 TAMU]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1687</Code>
+<Text>ITR MEDIUM (GROUP) GRANTS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1657</Code>
+<Text>SOCIAL AND ECONOMIC IMPLICATIONS OF IT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<FUND_OBLG>2003~171235</FUND_OBLG>
+<FUND_OBLG>2004~6000</FUND_OBLG>
+<FUND_OBLG>2005~81333</FUND_OBLG>
+</Award>
+</rootTag>

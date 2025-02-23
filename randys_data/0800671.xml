@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research:  Cluster Algebras, Canonical Bases, and Nets on Surfaces of Higher Genus</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>105000.00</AwardTotalIntnAmount>
+<AwardAmount>105000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomek Bartoszynski</SignBlockName>
+<PO_EMAI>tbartosz@nsf.gov</PO_EMAI>
+<PO_PHON>7032924885</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project  explores  links between classical combinatorics, modern theory of Teichmueller spaces, real algebraic geometry and total positivity, and the rapidly developing theory of cluster algebras. In particlular, PIs utilize the link between decorated Teichmueller spaces and the algebra of geodesics on the one hand and  the theory of cluster algebras on the other hand to investigate the structure of the dual canonical basis of  a cluster algebra. Furthermore,  they use cluster algebra point of  view to study directed nets on  surfaces and describe compatible Poisson-Lie structures for nets and solutions of corresponding  inverse problems and to study associated integrable hierarchies. The latter will be applied to investigate new relations between double Hurwitz numbers of coverings of the sphere by higher genus curves and, on the other hand, to analyze a new  two- and multi-matrix models and associated biorthogonal polynomials and apply them to problems of enumeration of bicolored embedded graphs.&lt;br/&gt;&lt;br/&gt;Space discretization using networks on surfaces is an important in the theory of random processes, in mathematical physics, including  2D gravity, the theory of electric potential  and especially theory of electrical networks and in other fields.&lt;br/&gt;Combinatorial properties of surface networks capture crucial features of complex mathematical and physical structures.&lt;br/&gt;Recently it was observed that surface networks also exhibit many features that are typical for cluster algebra structures.&lt;br/&gt;Introduced only a few years ago by  Fomin and Zelevinsky, the cluster algebra formalism is proved to be widely applicable  in investigation of algebraic  and geometric objects with symmetries often associated with important physical systems. Interplay between the two concepts will be instrumental in the study of combinatorial quantities and geometric phenomena of physical relevance and  classical and quantum exactly solvable models.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>07/03/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/03/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0800671</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Shapiro</LastName>
+<PI_MID_INIT>Z</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael Z Shapiro</PI_FULL_NAME>
+<EmailAddress>mshapiro@math.msu.edu</EmailAddress>
+<PI_PHON>5173539248</PI_PHON>
+<NSF_ID>000485335</NSF_ID>
+<StartDate>07/03/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Michigan State University</Name>
+<CityName>EAST LANSING</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress>426 AUDITORIUM RD RM 2</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>R28EKN92ZTZ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MICHIGAN STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VJKZC4D1JN36</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>EAST LANSING</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>488242600</ZipCode>
+<StreetAddress><![CDATA[426 AUDITORIUM RD RM 2]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~105000</FUND_OBLG>
+</Award>
+</rootTag>

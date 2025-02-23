@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Metal Ion-dependent Folding of the Spliceosomal U2-U6 snRNA Complex]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/27/2008</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2008</AwardExpirationDate>
+<AwardTotalIntnAmount>38898.00</AwardTotalIntnAmount>
+<AwardAmount>38898</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070400</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kamal Shukla</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The goal of this project is to understand how RNA and protein components of the spliceosome, the cellular apparatus responsible for the removal of noncoding regions from precursor messenger (pre-m)RNA molecules, assemble to perform splicing chemistry. The folding of individual RNA components, and of structures formed by RNA-RNA interactions, is an important feature of spliceosome assembly. Specific binding of metal ions by the small nuclear (sn)RNA components of the spliceosome is essential for assembly and catalytic activity, yet little is known about individual binding sites or the role of metal ions folding.  Luminescence and solution NMR techniques will be used to investigate the metal ion-dependent structural change in the complex formed by paired U2 and U6 snRNAs. U2 and U6 snRNA are the only two snRNAs required for both steps of splicing, and their sequences are highly conserved phylogenetically.  &lt;br/&gt;&lt;br/&gt;Broader impacts of this work include education of graduate and undergraduate students in a laboratory setting, which provides these students with interdisciplinary training in molecular biology, biochemistry, structural biology, and spectroscopic techniques;  contributions to the PI's strength as a classroom teacher, in particular development and teaching of a research-based course in Nucleic Acid Structure &amp; Function; community outreach programs, including judging in community science fairs; visits to small undergraduate colleges, including women's and historically black schools, to present research seminars and encourage students to consider graduate programs in science; and  encouragement of women and minority students to pursue careers in science.  This latter area takes the form of continuous mentoring of women students through Florida State University's Women in Mathematics, Science, and Engineering Program, recruiting minority undergraduates into the lab and department for Summer Research Internships, sponsoring minority students and postdoctoral fellows for fellowships to do research in the PI's laboratory.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>09/10/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/10/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0840880</AwardID>
+<Investigator>
+<FirstName>Nancy</FirstName>
+<LastName>Greenbaum</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nancy L Greenbaum</PI_FULL_NAME>
+<EmailAddress><![CDATA[ngreenba@hunter.cuny.edu]]></EmailAddress>
+<NSF_ID>000203508</NSF_ID>
+<StartDate>09/10/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CUNY Hunter College</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100655024</ZipCode>
+<PhoneNumber>2127724020</PhoneNumber>
+<StreetAddress>695 PARK AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EK93EZLLBSC4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U7WPB7AFN7M2</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[CUNY Hunter College]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100655024</ZipCode>
+<StreetAddress><![CDATA[695 PARK AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1144</Code>
+<Text>Molecular Biophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1164</Code>
+<Text>MOLECULAR BIOPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<FUND_OBLG>2006~38898</FUND_OBLG>
+</Award>
+</rootTag>

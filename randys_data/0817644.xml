@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RIG: Mosquito Circulatory System: Hemolymph Flow and Associated Immune Cells]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>175000.00</AwardTotalIntnAmount>
+<AwardAmount>175000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090300</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michael Mishkind</SignBlockName>
+<PO_EMAI>mmishkin@nsf.gov</PO_EMAI>
+<PO_PHON>7032928413</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Mosquitoes are globally important organisms because of their role as a pest and a disease vector.  To date, mosquito control has been primarily via chemical insecticides that act as contact poisons or fumigants that enter the mosquito circulatory system by absorption through the cuticle or tracheoles.  Another form of mosquito control employs biological agents that can penetrate the mosquito midgut and cause death by overpowering endogenous immune responses and causing lethal septicemia.  Given the important role of the mosquito circulatory system in these processes it is surprising that it has gone virtually unstudied.  This research aims to functionally and molecularly scrutinize the mosquito circulatory system and the immune cells associated with it.  Objective #1 uses light and electron microscopy to elucidate the structure of the mosquito circulatory system and develop a comprehensive map detailing the direction, rate, and speed of blood flow.  Objective #2 morphologically and functionally characterizes pericardial cells and sessile hemocytes that are thought to be involved in phagocytic antimicrobial responses.  Lastly, objective #3 uses molecular methodologies to characterize a mosquito gene family that codes proteins believed to be involved in phagocytosis of microbes.  It is expected that a better understanding of the mosquito circulatory and immune systems will lead to the development of novel or improved pest control strategies.  This project also involves extensive training of young biologists (including underrepresented minorities), and the majority of the work is being done by graduate and undergraduate students under the direct supervision of the principal investigator.]]></AbstractNarration>
+<MinAmdLetterDate>07/13/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/13/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0817644</AwardID>
+<Investigator>
+<FirstName>Julian</FirstName>
+<LastName>Hillyer</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Julian F Hillyer</PI_FULL_NAME>
+<EmailAddress><![CDATA[julian.hillyer@vanderbilt.edu]]></EmailAddress>
+<NSF_ID>000484936</NSF_ID>
+<StartDate>07/13/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Vanderbilt University</Name>
+<CityName>NASHVILLE</CityName>
+<ZipCode>372032416</ZipCode>
+<PhoneNumber>6153222631</PhoneNumber>
+<StreetAddress>110 21ST AVE S</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GTNBNWXJ12D5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VANDERBILT UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Vanderbilt University]]></Name>
+<CityName>NASHVILLE</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>372032416</ZipCode>
+<StreetAddress><![CDATA[110 21ST AVE S]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7487</Code>
+<Text>BROADENING PARTICIPATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7692</Code>
+<Text>RIG/CAA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~175000</FUND_OBLG>
+</Award>
+</rootTag>

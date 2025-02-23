@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Acquisition of Instruments for the Research of Applying Ultra Wide Band Based Wireless Networks to Vehicles for Communications and Controls]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>199981.00</AwardTotalIntnAmount>
+<AwardAmount>199981</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dominique Dagenais</SignBlockName>
+<PO_EMAI>ddagenai@nsf.gov</PO_EMAI>
+<PO_PHON>7032922980</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Objective: &lt;br/&gt;In this project, we requested instrumentation to setup a UWB laboratory to support the research of intra-vehicle wireless networks and wireless networked control system (wireless NCS). Related topics include in-vehicle UWB channel measurement and modeling, an optimal high-speed UWB data transmission scheme using multiple band orthogonal frequency-division multiplexing (OFDM), a robust real-time control message delivery method using time-hopping UWB radio under various vehicle setting and interferences, an effective media access control protocol, and control system performance analysis and design under unreliable data transmission links.&lt;br/&gt;&lt;br/&gt;Intellectual Merit: &lt;br/&gt;The project intends to fully utilize an intelligent mechanism in the design of wireless NCS by sensing, analyzing, and predicting channel conditions and network configuration consequently adaptively adjusting network configurations and modifying schemes to optimize system objectives. The outcomes of this project will advance the state-of-the-art wireless communications, networks and control systems and the mechanisms applied are extremely applicable to various fields of science and engineering. &lt;br/&gt;&lt;br/&gt;Broader Impact: &lt;br/&gt;The application of intra-vehicle wireless communications systems will enhance the transportation environments, the quality of life and the efficiency of work. The adoption of wireless NCS considerably facilitates a wide range of modern control systems to achieve ground-breaking functions and attain high scalability and flexibility by eliminating the wiring limit. The University of Michigan, Dearborn is located in the heartland of the American automotive industry. The adoption of intra-vehicle wireless networks and wireless NCS will have significant and long term impacts on the competition between automobile manufacturers worldwide.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/02/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0821503</AwardID>
+<Investigator>
+<FirstName>Weidong</FirstName>
+<LastName>Xiang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Weidong Xiang</PI_FULL_NAME>
+<EmailAddress><![CDATA[xwd@umich.edu]]></EmailAddress>
+<NSF_ID>000494186</NSF_ID>
+<StartDate>07/02/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Wayne</FirstName>
+<LastName>Stark</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wayne E Stark</PI_FULL_NAME>
+<EmailAddress><![CDATA[stark@umich.edu]]></EmailAddress>
+<NSF_ID>000316575</NSF_ID>
+<StartDate>07/02/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Taehyung</FirstName>
+<LastName>Kim</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Taehyung Kim</PI_FULL_NAME>
+<EmailAddress><![CDATA[taehyung@umich.edu]]></EmailAddress>
+<NSF_ID>000493139</NSF_ID>
+<StartDate>07/02/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Richardson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Paul Richardson</PI_FULL_NAME>
+<EmailAddress><![CDATA[richarpc@umich.edu]]></EmailAddress>
+<NSF_ID>000328475</NSF_ID>
+<StartDate>07/02/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Michigan - Ann Arbor</Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>1109 GEDDES AVE, SUITE 3300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Michigan Dearborn]]></Name>
+<CityName>Dearborn</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481281491</ZipCode>
+<StreetAddress><![CDATA[4901 Evergreen Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0206000</Code>
+<Name>Telecommunications</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>094E</Code>
+<Text>Optoelectronic devices</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>109E</Code>
+<Text>Sys theory in biology &amp; medicine</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~199981</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[DISSERTATION RESEARCH: Functional dissimilarity in soil microbial communities]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>11032</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010208</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alan Tessier</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The activities of microbes in the soil, such as bacteria, are essential for soil fertility and hence play a central role in maintaining ecosystem productivity and structure. Soils are experiencing an increasing number of insults, from invasive species to land-use change. These insults bring a new set of plant species into contact with soil microbes. Given the tremendous species richness and abundance of soil microbes, ecologists typically assume that microbial communities rapidly adapt to new conditions and hence maintain their essential ecosystem functions in light of changing conditions. However, recent evidence suggests that unique sets of microbial species are found in different locations, just as for animals and plants. This presents the intriguing possibility that microbial species in different locations might function differently. Initial work suggests that this is the case and the work under this new project will explore this result. Specifically, it will use an experimental approach to explore the role that both the contemporary environment and extant microbial communities play in shaping ecosystem function. The expectation is that the community will be more important in environments where plants with complex leaf chemistry, such as trees, are present. The understanding gained will facilitate informed prediction of how soil fertility and other ecosystem properties will change in response to a changing environment. As well as training a Ph.D. student, the work will train an undergraduate student from underrepresented groups in ecology. The results will be broadly disseminated via publication in peer-reviewed journals and presentations at national meetings.]]></AbstractNarration>
+<MinAmdLetterDate>05/20/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/07/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0807898</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Gittleman</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John L Gittleman</PI_FULL_NAME>
+<EmailAddress><![CDATA[jlg@uga.edu]]></EmailAddress>
+<NSF_ID>000344377</NSF_ID>
+<StartDate>07/07/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Bradford</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark A Bradford</PI_FULL_NAME>
+<EmailAddress><![CDATA[mark.bradford@yale.edu]]></EmailAddress>
+<NSF_ID>000494482</NSF_ID>
+<StartDate>05/20/2008</StartDate>
+<EndDate>07/07/2009</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Strickland</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael S Strickland</PI_FULL_NAME>
+<EmailAddress><![CDATA[mstrickland@uidaho.edu]]></EmailAddress>
+<NSF_ID>000082750</NSF_ID>
+<StartDate>05/20/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Georgia Research Foundation Inc</Name>
+<CityName>ATHENS</CityName>
+<ZipCode>306021589</ZipCode>
+<PhoneNumber>7065425939</PhoneNumber>
+<StreetAddress>310 EAST CAMPUS RD TUCKER HALL R</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NMJHD63STRC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Georgia]]></Name>
+<CityName>ATHENS</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>306020001</ZipCode>
+<StreetAddress><![CDATA[310 E CAMPUS RD TUCKER HALL RM 4]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1182</Code>
+<Text>POP &amp; COMMUNITY ECOL PROG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1182</Code>
+<Text>POP &amp; COMMUNITY ECOL PROG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~11032</FUND_OBLG>
+</Award>
+</rootTag>

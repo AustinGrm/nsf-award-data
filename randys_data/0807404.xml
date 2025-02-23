@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RUI: Solitary structures in nonlinear wave equations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>103752.00</AwardTotalIntnAmount>
+<AwardAmount>103752</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Warchall</SignBlockName>
+<PO_EMAI>hwarchal@nsf.gov</PO_EMAI>
+<PO_PHON>7032924861</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The proposal concerns the investigation of nonlinear wave phenomena in shallow water waves, nonlinear optics, plasma and other areas of nonlinear physics. A comprehensive characterization of the solitary waves resulting from such phenomena is an important problem, which is far from complete. Therefore an objective of this research project is to conduct an extensive study of the nonlinear equations describing such localized wave-forms and wave-patterns by analyzing the underlying mathematical structures of the relevant solution spaces. Since the theory is shared by various physical systems, it is anticipated that the results from the proposed work would provide insights into other areas such as light waves in nonlinear optics, and spin waves in magnetic thin films. A second objective is to apply the theoretical results of this project to investigate possible mechanisms generating "rogue" waves of extremely high elevations frequently observed in open seas, and surface wave patterns in shallow water. Understanding the nature and dynamics of such extreme waves, and ultimately predicting such wave phenomena in oceans near highly populated coastal areas or at harbor entrances with heavy shipping traffic, are extremely important tasks. The proposed research activities will involve several undergraduate students over the course of this project since it will be carried out in an undergraduate institution. The students will gain firsthand research experience in applied mathematics, which may motivate them to pursue graduate studies or other career opportunities in mathematical sciences.]]></AbstractNarration>
+<MinAmdLetterDate>06/30/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0807404</AwardID>
+<Investigator>
+<FirstName>Sarbarish</FirstName>
+<LastName>Chakravarty</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sarbarish Chakravarty</PI_FULL_NAME>
+<EmailAddress><![CDATA[chuck@math.uccs.edu]]></EmailAddress>
+<NSF_ID>000206445</NSF_ID>
+<StartDate>06/30/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Colorado Springs</Name>
+<CityName>COLORADO SPRINGS</CityName>
+<ZipCode>80918</ZipCode>
+<PhoneNumber>7192553153</PhoneNumber>
+<StreetAddress>1420 AUSTIN BLUFFS PARKWAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RH87YDXC1AY5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF COLORADO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Colorado at Colorado Springs]]></Name>
+<CityName>COLORADO SPRINGS</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>80918</ZipCode>
+<StreetAddress><![CDATA[1420 AUSTIN BLUFFS PARKWAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~103752</FUND_OBLG>
+</Award>
+</rootTag>

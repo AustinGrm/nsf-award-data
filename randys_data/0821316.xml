@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI:  Development of a Time Projection Chamber and Photo-Multiplier Array to Measure Neutrino Interactions in the MicroBooNE Detector]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>773500.00</AwardTotalIntnAmount>
+<AwardAmount>773500</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Randy Ruchti</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[&lt;br/&gt;PROPOSAL NUMBER: 0821316&lt;br/&gt;INSTITUTION: Yale University&lt;br/&gt;NSF PROGRAM: PHY ? ELEMENTARYPARTICLE ACCEL USER&lt;br/&gt;PRINCIPAL INVESTIGATOR: Fleming, Bonnie&lt;br/&gt;&lt;br/&gt;TITLE: MRI:Development of a Time Projection Chamber and Photo-Multiplier&lt;br/&gt;Array to Measure Neutrino Interactions in the MicroBooNE Detector&lt;br/&gt;&lt;br/&gt;This proposal describes the development of the Liquid Argon time projection chamber (TPC) and Photo-multiplier Tube (PMT) array as a major part of the MicroBooNE experiment at Fermilab. It is with the development of the MicroBooNE TPC and PMT array that the nature of the intriguing low energy events recently observed by the MiniBooNE experiment may be resolved. In addition, the R&amp;D on the Liquid Argon TPC will provide important information and experience for developing the larger systems that will be necessary to fully elucidate the nature of the neutrino sector in future experiments at Fermilab and DUSEL.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>09/08/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/04/2012</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0821316</AwardID>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Willis</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>William J Willis</PI_FULL_NAME>
+<EmailAddress><![CDATA[willis@nevis.columbia.edu]]></EmailAddress>
+<NSF_ID>000356716</NSF_ID>
+<StartDate>09/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Janet</FirstName>
+<LastName>Conrad</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Janet M Conrad</PI_FULL_NAME>
+<EmailAddress><![CDATA[conrad@mit.edu]]></EmailAddress>
+<NSF_ID>000273390</NSF_ID>
+<StartDate>09/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bonnie</FirstName>
+<LastName>Fleming</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bonnie Fleming</PI_FULL_NAME>
+<EmailAddress><![CDATA[bonnie.fleming@yale.edu]]></EmailAddress>
+<NSF_ID>000320121</NSF_ID>
+<StartDate>09/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Yale University</Name>
+<CityName>NEW HAVEN</CityName>
+<ZipCode>065118917</ZipCode>
+<PhoneNumber>2037854689</PhoneNumber>
+<StreetAddress>105 WALL ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FL6GV84CKN57</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>YALE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FL6GV84CKN57</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Yale University]]></Name>
+<CityName>NEW HAVEN</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>065118917</ZipCode>
+<StreetAddress><![CDATA[105 WALL ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~773500</FUND_OBLG>
+</Award>
+</rootTag>

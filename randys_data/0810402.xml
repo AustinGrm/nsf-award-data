@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[2008 Multiphoton Processes Gordon Conference, June 8-13, Tilton, NH]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>6000.00</AwardTotalIntnAmount>
+<AwardAmount>6000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010100</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Dunford</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award provides funding to support student and postdoc travel to participate in the 2008 Multiphoton Processes Gordon Conference. The conference is being held during the week of June 8-14, 2008, and will involve a broad program that touches upon a number of research activities of interest to investigators and students supported through NSF?s AMO program. Some of these include advances in ultrafast laser spectroscopy, attosecond physics and attosecond pulse generation, coherent control of molecular dynamics, and electron dynamics in atoms and molecules exposed to intense laser fields. Students will participate through presentation of posters and through formal and informal interactions with leading scientists in the various fields.   Support is provided by both the theoretical and experimental AMO programs&lt;br/&gt; &lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>01/28/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>01/28/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0810402</AwardID>
+<Investigator>
+<FirstName>Mette</FirstName>
+<LastName>Gaarde</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mette Gaarde</PI_FULL_NAME>
+<EmailAddress><![CDATA[gaarde@phys.lsu.edu]]></EmailAddress>
+<NSF_ID>000361741</NSF_ID>
+<StartDate>01/28/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Gordon Research Conferences</Name>
+<CityName>EAST GREENWICH</CityName>
+<ZipCode>028183454</ZipCode>
+<PhoneNumber>4017834011</PhoneNumber>
+<StreetAddress>5586 POST RD</StreetAddress>
+<StreetAddress2><![CDATA[UNIT 2]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>RI02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>XL5ANMKWN557</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GORDON RESEARCH CONFERENCES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Gordon Research Conferences]]></Name>
+<CityName>EAST GREENWICH</CityName>
+<StateCode>RI</StateCode>
+<ZipCode>028183454</ZipCode>
+<StreetAddress><![CDATA[5586 POST RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>RI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1284</Code>
+<Text>AMO Theory/Atomic, Molecular &amp;</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1291</Code>
+<Text>ATOMIC &amp; MOLECULAR DYNAMICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~6000</FUND_OBLG>
+</Award>
+</rootTag>

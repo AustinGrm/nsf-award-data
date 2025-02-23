@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Communicating Forecast Information to Optimize Evacuation Behavior]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>391145.00</AwardTotalIntnAmount>
+<AwardAmount>391145</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dennis Wenger</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The research objective of this project is to model the difference between what would have been optimal evacuation and what is actually observed.  Understanding evacuation behavior is a part of the planning puzzle for emergency management agencies as they plan the movement of a large number of people out of their homes to safer areas. A wide variety of factors (e.g., forecast uncertainty, mode of transmission of forecast information, risk perception and constraints on people's ability to prepare themselves, transportation means, and an acceptable destination) affect evacuation behavior. Integrated modeling of these factors to predict how people will respond to diverse hurricane forecasts is quite complex. Given this context, the investigators attempt to answer some basic questions in a unified research framework such as (1) what is the link between objective hurricane forecast information and subjective risk perception, (2) how subjective risk perception and its interactions with other relevant factors affect evacuation behavior and (3) how observed (and intended) evacuation behavior deviates from optimal evacuation behavior. From a set of hurricane events that provide contrasting forecasts and timing scenarios, the investigators propose to model the difference between what would have been optimal evacuation and what is actually observed. Built on interdisciplinary knowledge from sociology, economics, meteorology, and media research on hurricane risk communication, the investigators propose to combine both descriptive (the way people actually behave) and prescriptive (the way people should behave under perfect information) approaches in a unified research framework to integrate user-specific cognitive and local risk information with objective scientific forecast information.&lt;br/&gt;&lt;br/&gt;Incorporating subjective risk perception in the modeling approach to provide realistic predictions of evacuation behavior will be useful to develop efficient risk management options in evacuation planning for reducing vulnerability against coastal hazards.]]></AbstractNarration>
+<MinAmdLetterDate>08/21/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2014</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0838683</AwardID>
+<Investigator>
+<FirstName>Hugh</FirstName>
+<LastName>Gladwin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hugh Gladwin</PI_FULL_NAME>
+<EmailAddress><![CDATA[gladwin@fiu.edu]]></EmailAddress>
+<NSF_ID>000236568</NSF_ID>
+<StartDate>08/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Pallab</FirstName>
+<LastName>Mozumder</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Pallab Mozumder</PI_FULL_NAME>
+<EmailAddress><![CDATA[mozumder@fiu.edu]]></EmailAddress>
+<NSF_ID>000505412</NSF_ID>
+<StartDate>08/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida International University</Name>
+<CityName>MIAMI</CityName>
+<ZipCode>331992516</ZipCode>
+<PhoneNumber>3053482494</PhoneNumber>
+<StreetAddress>11200 SW 8TH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL26</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Q3KCVK5S9CP1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA INTERNATIONAL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D4GCCCMXR1H3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida International University]]></Name>
+<CityName>MIAMI</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>331992516</ZipCode>
+<StreetAddress><![CDATA[11200 SW 8TH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL26</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<FoaInformation>
+<Code>0304000</Code>
+<Name>Disaster &amp; Natural Hazard</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1321</Code>
+<Text>Decision, Risk &amp; Mgmt Sci</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1638</Code>
+<Text>HDBE-Humans, Disasters, and th</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>H356</Code>
+<Text/>
+</ProgramElement>
+<ProgramElement>
+<Code>H358</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>041E</Code>
+<Text>HAZARD AND DISASTER REDUCTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>042E</Code>
+<Text>HAZARD AND DISASTER RESPONSE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000809RB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~391145</FUND_OBLG>
+</Award>
+</rootTag>

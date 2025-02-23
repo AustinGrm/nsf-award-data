@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Acquisition of a Multipurpose Analytical High-Resolution Transmission Electron Microscope for Research and Education in NDSU's Central Multi-User Microscopy Facility]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>673234.00</AwardTotalIntnAmount>
+<AwardAmount>673234</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dennis Robert Carter</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This MRI award to North Dakota State University is for acquisition of a high-resolution 200 KV remotely operable analytical transmission electron microscope, along with sample preparation capabilities. This instrumentation will support state-of-the-art imaging, spectroscopic analysis, research, training, class-room education, and outreach, in advanced microscopy. High-resolution TEM imaging and spectroscopic analysis will support existing research programs in design of biomaterials and nanocomposites, engineered polymers and polymer matrix composites, and other research areas in the fields of materials and nanotechnology. The requested instrumentation will also be a much-needed resource for NDSU's new PhD program in Materials and Nanotechnology, providing necessary experimental capabilities. This instrumentation will also provide hands-on experience that will broaden opportunities for research, training, and outreach for faculty, graduate students, undergraduates from NDSU and other area colleges, and K-12 teachers and students. This instrumentation will also provide advanced microscopy services to industries in the region. The requested instrumentation will also strengthen NDSU participation in outreach and educational activities with native American colleges in the region.]]></AbstractNarration>
+<MinAmdLetterDate>07/10/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0821655</AwardID>
+<Investigator>
+<FirstName>Jayma</FirstName>
+<LastName>Moore</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jayma A Moore</PI_FULL_NAME>
+<EmailAddress><![CDATA[jayma.moore@ndsu.edu]]></EmailAddress>
+<NSF_ID>000498097</NSF_ID>
+<StartDate>07/10/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kalpana</FirstName>
+<LastName>Katti</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kalpana S Katti</PI_FULL_NAME>
+<EmailAddress><![CDATA[kalpana.katti@ndsu.edu]]></EmailAddress>
+<NSF_ID>000485525</NSF_ID>
+<StartDate>07/10/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Payne</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Scott A Payne</PI_FULL_NAME>
+<EmailAddress><![CDATA[scott.payne@ndsu.edu]]></EmailAddress>
+<NSF_ID>000498098</NSF_ID>
+<StartDate>07/10/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Dakota State University Fargo</Name>
+<CityName>FARGO</CityName>
+<ZipCode>581055750</ZipCode>
+<PhoneNumber>7012318045</PhoneNumber>
+<StreetAddress>1310 BOLLEY DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Dakota</StateName>
+<StateCode>ND</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>ND00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EZ4WPGRE1RD5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTH DAKOTA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EZ4WPGRE1RD5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[North Dakota State University Fargo]]></Name>
+<CityName>FARGO</CityName>
+<StateCode>ND</StateCode>
+<ZipCode>581055750</ZipCode>
+<StreetAddress><![CDATA[1310 BOLLEY DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Dakota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>ND00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>034E</Code>
+<Text>Dynamical systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~673234</FUND_OBLG>
+</Award>
+</rootTag>

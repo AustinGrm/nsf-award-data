@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research:  Acquisition of GPS and seismic equipment for Phase 2 of a Plate Boundary Observatory, Nicoya Peninsula, Costa Rica]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>36890.00</AwardTotalIntnAmount>
+<AwardAmount>36890</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030202</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Russell Kelz</SignBlockName>
+<PO_EMAI>rkelz@nsf.gov</PO_EMAI>
+<PO_PHON>7032924747</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This grant supports a collaborative effort between the University of Miami ? RSMAS (PI: Tim Dixon), the University of California Santa Cruz (PI: Susan Schwartz), UNAVCO and Costa Rican colleague Dr. Marino Protti at OVSICORI to acquire and deploy GPS and seismic equipment on the Nicoya Peninsula, Costa Rica.   Observation from this network will directly feed into research efforts supported by the Margins Program (OCE-0841091/Miami-RSMAS/Dixon and OCE-0841091/UCSC/Schwartz).   This grant will facilitate an augmentation and upgrade to a current but smaller network of GPS and seismic instrumentation on the Nicoya Peninsula, Costa Rica (funded through EAR- 0502221).  The end result will be extended and better constrained geophysical observations in time and space beyond that now being acquired.&lt;br/&gt;&lt;br/&gt;This support will add an additional seven GPS sites and upgrade five of the older existing thirteen GPS sites to PBO standards as well as allow for the purchase and installation of four Guralp CMG3 broadband seismic sensors and associated data loggers to replace equipment in the current Nicoya seismic network that are currently on loan.  Data from the network will continue to flow to the UNAVCO and IRIS publicly accessible data archives.  &lt;br/&gt;&lt;br/&gt;The existing Nicoya seismogeodetic network has recorded initial evidence of aseismic slip of the downgoing slab and associated nonvolcanic tremor in May 2007.  This expansion of the Nicoya GPS and seismic network will better constrain the time varying strain field and seismic activity.  Similar albeit higher resolution space-time observations of subduction zone dynamics within the Cascadia and SW Japan subduction zones have radically changed and challenged our understanding of plate tectonic processes at subduction zones with implications for better understanding seismic hazards.  This expansion of the Nicoya Plate Boundary Observatory (PBO) will allow for study of a class of subduction zone with different properties from those of the Cascadia and Japan trenches, perhaps most importantly, temperature/age of the downgoing slab.  The Nicoya Peninsula is unique in that it is perched almost directly over the locked part of the plate boundary.  As a result, the proposed geophysical observatory will enable high signal/noise (S/N) ratio observations of plate boundary processes.  Questions to be addressed by the data collected by these instruments include: 1) What is the relationship between slow slip, nonvolcanic tremor, strain accumulation and interplate earthquakes. 2) What is the role of temperature and fluids in tremor and slip generation? 3) Is the occurrence of fast and slow slip tremor spatially and/or temporally separated? The answers to these questions have important implications for understanding the seismic process at subduction zones.&lt;br/&gt;&lt;br/&gt;Broader impacts will include international cooperation and technology transfer, graduate student training with state-of-the-art seismic and geodetic instrumentation and techniques, and improved understanding of earthquake hazards in the region.&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>05/04/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>05/04/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0842137</AwardID>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>Dixon</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Timothy Dixon</PI_FULL_NAME>
+<EmailAddress><![CDATA[thd@usf.edu]]></EmailAddress>
+<NSF_ID>000594040</NSF_ID>
+<StartDate>05/04/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Miami</Name>
+<CityName>CORAL GABLES</CityName>
+<ZipCode>331462509</ZipCode>
+<PhoneNumber>3054214089</PhoneNumber>
+<StreetAddress>1251 MEMORIAL DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>27</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL27</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KXN7HGCF6K91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MIAMI</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VNZZYCJ55TC4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Miami]]></Name>
+<CityName>CORAL GABLES</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>331462509</ZipCode>
+<StreetAddress><![CDATA[1251 MEMORIAL DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>27</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL27</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1580</Code>
+<Text>Instrumentation &amp; Facilities</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~6022</FUND_OBLG>
+</Award>
+</rootTag>

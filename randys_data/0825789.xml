@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Short-Term Joint Maintenance and Production Decision Support Tool of Manufacturing Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>278743.00</AwardTotalIntnAmount>
+<AwardAmount>278743</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce Kramer</SignBlockName>
+<PO_EMAI>bkramer@nsf.gov</PO_EMAI>
+<PO_PHON>7032925348</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The research objective of this award is to develop scientific methods for modeling and analysis of short-term joint maintenance and production decision support tools for complex manufacturing systems. For manufacturing systems with unreliable machines and finite internal buffers, there is a need for effective short-term real time control policies in order to satisfy various system performance requirements, such as throughput, reliability, quality and cost effectiveness. This research will develop a real-time short-term production and maintenance control system based on novel data-driven instantaneous bottleneck detection methods, maintenance opportunity planning and maintenance task prioritization without using simulation models. The proposed system will investigate the mitigation of production uncertainties to reduce unscheduled downtime and the effective utilization of finite factory resources on the throughput-critical sections of a production system by detecting bottlenecks. This goal for such proposed joint maintenance and production decision optimization is to achieve a nearly balanced line status for any given production operation.&lt;br/&gt;&lt;br/&gt;If successful, the results of this research will establish a scientific knowledge base and provide an opportunity for creating optimal maintenance policies that can be used to effectively improve the performance of complex manufacturing systems as well as many other mission critical engineering systems. The developed ?smart? joint production and maintenance decision-making can have a significant impact for industrial applications such as automotive production systems.&lt;br/&gt;&lt;br/&gt;The results will be disseminated to allow industrial practitioners to apply these methods to achieve increased production efficiency, reduced cost, and improved competitiveness. Graduate and undergraduate engineering students will benefit through classroom instruction and involvement in the research. Students involved in this research will greatly benefit from the interdisciplinary research environment anticipated in this project, where mechanical, industrial, and electrical engineering science will be intertwined. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/25/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>10/08/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0825789</AwardID>
+<Investigator>
+<FirstName>Jun</FirstName>
+<LastName>Ni</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jun Ni</PI_FULL_NAME>
+<EmailAddress><![CDATA[junni@umich.edu]]></EmailAddress>
+<NSF_ID>000334717</NSF_ID>
+<StartDate>07/25/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Michigan - Ann Arbor</Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>1109 GEDDES AVE, SUITE 3300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091079</ZipCode>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1786</Code>
+<Text>MANFG ENTERPRISE SYSTEMS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>071E</Code>
+<Text>MFG ENTERPRISE OPERATIONS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>078E</Code>
+<Text>ENTERPRISE DESIGN &amp; LOGISTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9147</Code>
+<Text>GENERIC TECHNOL FOR MANUFACTURING CELLS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9148</Code>
+<Text>TOOLS &amp; TECHNOL FOR MANUFACTURING DESIGN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~278743</FUND_OBLG>
+</Award>
+</rootTag>

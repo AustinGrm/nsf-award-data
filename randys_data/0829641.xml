@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research:  CPATH TI:  Project EXCE2L (Excellence in Computer Education with Entrepreneurship and Leadership Skills)</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>289906.00</AwardTotalIntnAmount>
+<AwardAmount>289906</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Harriet Taylor</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Abstract &lt;br/&gt;This CPATH award funds a collaborative Transformative Implementation project between SUNY Stony Brook and Hofstra University to integrate entrepreneurship and leadership components into the undergraduate curricula at both institutions. The project includes development of modules about innovation, entrepreneurship, and global aspects in several required courses and development of an entrepreneurial computer science minor. In addition students work in global entrepreneurial teams with students at targeted universities in Germany, Romania, and Korea. The project includes community building activities with faculty in the greater New York area to promote adaptation and adoption of the curricula models and resources developed. &lt;br/&gt;&lt;br/&gt;The intellectual merit of the project lies in the importance and currency of the topic and clear need for such changes in computing education to prepare the upcoming generation of computing professionals. The project has a strong collaborative team with entrepreneurial and educational experience and an enhanced evaluation component that should clearly demonstrate the impact of this innovative approach to the research and education community. The project also includes testing of methodologies for handling associated intellectual property issues that could be of value to many other researchers in the future. &lt;br/&gt;&lt;br/&gt;The broader impacts of the project lie in the potential to prepare a diverse student and faculty population to pursue entrepreneurial activities in high-technology. The project includes dissemination to a broad community and opportunities for sharing of resources. There is potential for national models that can help to develop a technology-savvy workforce which is vital to the nation?s continued prosperity and security. &lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>08/05/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>03/17/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0829641</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Impagliazzo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John Impagliazzo</PI_FULL_NAME>
+<EmailAddress>John.Impagliazzo@Hofstra.edu</EmailAddress>
+<PI_PHON>5164636774</PI_PHON>
+<NSF_ID>000137383</NSF_ID>
+<StartDate>08/05/2008</StartDate>
+<EndDate>03/17/2009</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Simona</FirstName>
+<LastName>Doboli</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Simona Doboli</PI_FULL_NAME>
+<EmailAddress>simona.doboli@hofstra.edu</EmailAddress>
+<PI_PHON>5164634786</PI_PHON>
+<NSF_ID>000277014</NSF_ID>
+<StartDate>08/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gerda</FirstName>
+<LastName>Kamberova</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gerda L Kamberova</PI_FULL_NAME>
+<EmailAddress>cscglk@hofstra.edu</EmailAddress>
+<PI_PHON>5164635775</PI_PHON>
+<NSF_ID>000216875</NSF_ID>
+<StartDate>08/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xiang</FirstName>
+<LastName>Fu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiang Fu</PI_FULL_NAME>
+<EmailAddress>Xiang.Fu@hofstra.edu</EmailAddress>
+<PI_PHON>5164634787</PI_PHON>
+<NSF_ID>000488194</NSF_ID>
+<StartDate>01/09/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Hayes</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Richard N Hayes</PI_FULL_NAME>
+<EmailAddress>richard.hayes@hofstra.edu</EmailAddress>
+<PI_PHON>5164636810</PI_PHON>
+<NSF_ID>000502167</NSF_ID>
+<StartDate>08/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Hofstra University</Name>
+<CityName>HEMPSTEAD</CityName>
+<ZipCode>115491000</ZipCode>
+<PhoneNumber>5164636810</PhoneNumber>
+<StreetAddress>100 HOFSTRA UNIVERSITY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SR22RUJJ11H2</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>HOFSTRA UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>SR22RUJJ11H2</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Hofstra University]]></Name>
+<CityName>HEMPSTEAD</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>115491000</ZipCode>
+<StreetAddress><![CDATA[100 HOFSTRA UNIVERSITY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7640</Code>
+<Text>CPATH</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7640</Code>
+<Text>CPATH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~289906</FUND_OBLG>
+</Award>
+</rootTag>

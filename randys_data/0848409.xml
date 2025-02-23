@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Ensemble-Based Predictability, Sensitivity and Data Assimilation in PREDICT</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>278595.00</AwardTotalIntnAmount>
+<AwardAmount>278595</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020105</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>A. Gannet Hallar</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5). &lt;br/&gt;&lt;br/&gt;This study is part of the Pre-Depression Investigation of Cloud-systems in the Tropics (PREDICT) project. The central scientific hypothesis of this study is that properly simulating the initial formation of synoptic-scale, pre-tropical-depression wave trough in numerical forecasting models is most essential for the accurate modeling of tropical cyclone genesis. It is within this disturbance that the critical layer, which acts to shield an incipient rotating disturbance from wind shear and dry air intrusion, is hypothesized to exist. To investigate this and other hypotheses, an ensemble-based framework based on the THORPEX Interactive Grand Global Ensemble (TIGGE), the Weather Research and Forecasting (WRF) model and an ensemble Kalman filter will be prepared in Year 1 for real-time prediction during the PREDICT field experiment (mid-Year 2). During the field experiment observations will be performed of tropical cyclones developing and travelling through the eastern Atlantic and Caribbean regions. Ensemble-based techniques will be used to diagnose the important physical processes, and the associated scales and parameters, that need to be sampled to optimally limit prediction errors. The remainder of Year 2 and all of Year 3 will be devoted to analysis of observations using models as diagnostic tools, including production of a convective-scale reanalysis that will include all data collected during the field campaign and will be used by other PREDICT PIs for their research. The intellectual merit of the proposed research lies in the potential to advance understanding of the processes and predictability associated with tropical cyclone genesis, via multi-scale, multi-faceted numerical model ensembles. The broader impacts of the proposed activity include improved probabilistic predictions of tropical cyclone genesis, and subsequent intensity change. Better forecasts of wind and rainfall structure at landfall will be possible. Two graduate students will be trained to run models that capture inner-core processes within tropical cyclones and to address unsolved issues related to their predictability. Furthermore, data and results will be shared between the research and operational communities.</AbstractNarration>
+<MinAmdLetterDate>08/30/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/30/2009</MaxAmdLetterDate>
+<ARRAAmount>278595</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0848409</AwardID>
+<Investigator>
+<FirstName>Ryan</FirstName>
+<LastName>Torn</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ryan D Torn</PI_FULL_NAME>
+<EmailAddress>rtorn@albany.edu</EmailAddress>
+<NSF_ID>000497727</NSF_ID>
+<StartDate>08/30/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY at Albany</Name>
+<CityName>Albany</CityName>
+<ZipCode>122220100</ZipCode>
+<PhoneNumber>5184374974</PhoneNumber>
+<StreetAddress>1400 Washington Ave MSC 312</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY20</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>152652822</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>020657151</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SUNY at Albany]]></Name>
+<CityName>Albany</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>122220100</ZipCode>
+<StreetAddress><![CDATA[1400 Washington Ave MSC 312]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY20</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1525</Code>
+<Text>Physical &amp; Dynamic Meteorology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~278595</FUND_OBLG>
+</Award>
+</rootTag>

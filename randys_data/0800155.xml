@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research:  Protocols for Wireless Networking and Multi-application Data Handling for Freeway Traffic Safety Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>154985.00</AwardTotalIntnAmount>
+<AwardAmount>154985</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Konstantinos Triantis</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The objective of this project is to develop a framework for vehicle-to-vehicle information networking to support emerging Intelligent Transportation System (ITS) applications aimed at improving safety and performance of surface transportation networks. This project features two parallel, but interrelated, research tracks. The first track focuses on the design of a multi-hop wireless network architecture using the newly adopted Dedicated Short Range Communication (DSRC) standard for inter-vehicle communications. The second track focuses on the communication needs of ITS safety applications that may benefit from the proposed networking features. Research is approached with a particular emphasis on the needs of freeway safety systems such as collision and hazard warning systems. Elements to be investigated include functions for data inquiry and retrieval through the communication network, data filtering needs, data fusion factoring the impacts of potential communication delays, data prioritization needs, and decision control considering data quality. The project will develop a simulation based virtual testbed which will not only help design the communication functions, but also help assess the potential impacts of alternative communication network designs on the operation of ITS applications and on traffic behavior and safety. &lt;br/&gt; &lt;br/&gt; Project contributions in the networking front will include development of network protocols for low-collision broadcasts in highly dynamic environments, design of new context-aware multi-hop routing, and demonstration of feasibility and performance of the developed protocols through a virtual testbed. Contributions to ITS applications will include categorization and prioritization of data communication needs, data fusion algorithms, and decision algorithms supporting driver assistance systems by leveraging the ability for vehicles to communicate with vehicles multiple hops away. The project?s broad impacts in advancing science and engineering are in its potential to exploit emerging mobile network technology for the development of information-based applications. In addition to extending communication capabilities for ITS applications, the project will provide an evolving data networking framework for supporting new applications as they emerge. The research results will be also usable for the design and commercialization of in-vehicle internet access. The project is further envisioned as a stepping stone for the development of a joint multi-disciplinary ITS research program across Michigan State University and the University of Michigan. Such an effort will bridge research areas in electrical, computer science, civil and industrial engineering. It will also provide unique opportunities for academic researchers and transportation engineers to work cooperatively on the development of information-based applications enhancing the efficiency and security of the nation?s transportation infrastructure.]]></AbstractNarration>
+<MinAmdLetterDate>06/04/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/13/2012</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0800155</AwardID>
+<Investigator>
+<FirstName>Ralph</FirstName>
+<LastName>Robinson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ralph Robinson</PI_FULL_NAME>
+<EmailAddress><![CDATA[ralphrob@umich.edu]]></EmailAddress>
+<NSF_ID>000584412</NSF_ID>
+<StartDate>01/21/2011</StartDate>
+<EndDate>06/13/2012</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Romesh</FirstName>
+<LastName>Saigal</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Romesh Saigal</PI_FULL_NAME>
+<EmailAddress><![CDATA[rsaigal@umich.edu]]></EmailAddress>
+<NSF_ID>000446675</NSF_ID>
+<StartDate>06/13/2012</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Francois</FirstName>
+<LastName>Dion</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Francois Dion</PI_FULL_NAME>
+<EmailAddress><![CDATA[fdion@umich.edu]]></EmailAddress>
+<NSF_ID>000242300</NSF_ID>
+<StartDate>06/04/2008</StartDate>
+<EndDate>01/21/2011</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Romesh</FirstName>
+<LastName>Saigal</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Romesh Saigal</PI_FULL_NAME>
+<EmailAddress><![CDATA[rsaigal@umich.edu]]></EmailAddress>
+<NSF_ID>000446675</NSF_ID>
+<StartDate>01/21/2011</StartDate>
+<EndDate>06/13/2012</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Michigan - Ann Arbor</Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>1109 GEDDES AVE, SUITE 3300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091079</ZipCode>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1631</Code>
+<Text>CIS-Civil Infrastructure Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~154985</FUND_OBLG>
+</Award>
+</rootTag>

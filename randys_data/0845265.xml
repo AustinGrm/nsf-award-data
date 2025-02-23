@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER:   Genetic &amp; evolutionary mechanisms of ecological divergence in migration tendency in salmonid fishes</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>900000.00</AwardTotalIntnAmount>
+<AwardAmount>900000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010207</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samuel Scheiner</SignBlockName>
+<PO_EMAI>sscheine@nsf.gov</PO_EMAI>
+<PO_PHON>7032927175</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;A number of animal groups (e.g. mammals, birds, fish) undertake long-distance migrations between feeding and breeding grounds. The alternative evolutionary 'decisions' of migration versus permanent residency play important roles in maintaining ecological diversity across animal taxa. Salmon, trout, charr and whitefish species are an especially diverse group of fishes that vary in the propensity and timing of migration, and serve as an excellent model to study the genetics and evolution of this trait. Using rainbow and steelhead trout, which exhibit variability in migration and residency across their native range, this research aims to reveal the genes that have been shaped during the diversification of this trait along with the developmental and molecular mechanisms that underlie these alternate strategies. &lt;br/&gt;&lt;br/&gt;Results from this research will make important contributions to the conservation of an economically and evolutionarily important group of fishes. The study integrates outreach and education with Native Americans, including those whose subsistence depends on migratory fish species. Climate change has been shown to alter the migration patterns of some species in this group of fishes. Understanding the genetics and evolution of migration or residency will provide an important baseline for future studies on the impacts of climate change.</AbstractNarration>
+<MinAmdLetterDate>07/21/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/11/2014</MaxAmdLetterDate>
+<ARRAAmount>900000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0845265</AwardID>
+<Investigator>
+<FirstName>Krista</FirstName>
+<LastName>Nichols</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Krista M Nichols</PI_FULL_NAME>
+<EmailAddress>krista.nichols@noaa.gov</EmailAddress>
+<NSF_ID>000288831</NSF_ID>
+<StartDate>07/21/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>West Lafayette</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>2550 Northwestern Ave.</StreetAddress>
+<StreetAddress2><![CDATA[Suite 1900]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>072051394</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>072051394</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>West Lafayette</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479061332</ZipCode>
+<StreetAddress><![CDATA[2550 Northwestern Ave.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1127</Code>
+<Text>Evolutionary Processes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1187</Code>
+<Text>PECASE- eligible</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7657</Code>
+<Text>Integrative Ecologi Physiology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~900000</FUND_OBLG>
+</Award>
+</rootTag>

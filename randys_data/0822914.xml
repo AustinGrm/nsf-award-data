@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STTR Phase II:  Metal Oxide Nanofibers for Filter and Catalyst Support Structures</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Benaiah Schrag</SignBlockName>
+<PO_EMAI>bschrag@nsf.gov</PO_EMAI>
+<PO_PHON>7032928323</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Technology Transfer (STTR) Phase II project seeks to take advantage of unique performance properties of ceramic nanofiber supported catalysts for applications in automotive, power generation, and chemical process industries. The efficiency of ceramic nanofiber composite materials to capture nano-sized particulates (inorganic and soot) is of particular interest to the automotive industry. Also, an opportunity to field test a composite catalyzed nanofiber material in a power generation facility to remove low-levels of NOx has been developed through commercialization activities within the power generation industry. This is a significant opportunity that will require the fabrication of a ceramic nanofiber/polymeric composite media and a field test apparatus. Successful completion of this opportunity will provide the background necessary to develop a first-generation ceramic nanofiber product.&lt;br/&gt;&lt;br/&gt;The broader impact/commercial potential of this project will provide the initial detailed examination of catalyst deactivation mechanisms using nanofiber support structures as well as providing a critical investigation of nano-sized particulate capture by nanofiber composite materials. This baseline information is beneficial to define and support future investigations of ceramic nanofiber materials. It is anticipated that catalyzed ceramic nanofiber/microfiber media will maximize the efficient use of catalytic materials (precious metals), enhance destruction of greenhouse gases (NOx and CO) from combustion processes, and capture harmful particulates from various gas process streams. These characteristics will help the power generation industry (fossil fuel burning), the motor vehicle, and the chemical industry meet current and future emission reduction standards while simultaneously benefiting the environment. Also as globalization leads to added pressures on U.S. companies to produce products and materials at a lower cost to remain competitive, reduction in the overall cost of energy production and transportation costs will improve U.S. competitiveness.</AbstractNarration>
+<MinAmdLetterDate>06/19/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/19/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0822914</AwardID>
+<Investigator>
+<FirstName>Gary</FirstName>
+<LastName>Carlson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gary Carlson</PI_FULL_NAME>
+<EmailAddress>carlson@mempro.com</EmailAddress>
+<PI_PHON>3033865471</PI_PHON>
+<NSF_ID>000068830</NSF_ID>
+<StartDate>06/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>MemPro Ceramics Corporation</Name>
+<CityName>Copper Mountain</CityName>
+<ZipCode>804433806</ZipCode>
+<PhoneNumber>3032249999</PhoneNumber>
+<StreetAddress>PO Box 3806</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[MemPro Ceramics Corporation]]></Name>
+<CityName>Copper Mountain</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>804433806</ZipCode>
+<StreetAddress><![CDATA[PO Box 3806]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0110000</Code>
+<Name>Technology Transfer</Name>
+</FoaInformation>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1591</Code>
+<Text>STTR Phase II</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1591</Code>
+<Text>STTR PHASE II</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1788</Code>
+<Text>Nanomanufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9163</Code>
+<Text>SINGLE DIVISION/UNIVERSITY - INDUSTRY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>AMPP</Code>
+<Text>ADVANCED MATERIALS &amp; PROCESSING PROGRAM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~500000</FUND_OBLG>
+</Award>
+</rootTag>

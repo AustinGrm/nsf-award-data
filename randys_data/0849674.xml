@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Making Disadvantaged Engineering Graduates a Reality</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>594407.00</AwardTotalIntnAmount>
+<AwardAmount>594407</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yvette Weatherton</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This project is awarding scholarships to academically talented and financially needy students and is supporting the scholars through a variety of structures and programs. Students from underrepresented groups are being especially targeted for support. There is a national need for professionals who have expertise in aerospace engineering and this project is aimed at meeting this need by graduating students from a nationally recognized aviation university in two degree programs: electrical and computer engineering. Project personnel are partnering with the Math-Science Regional Center to recruit student scholars from participants in an Upward Bound program aimed at underprivileged high school students in the southwest region. Student participants are also being recruited directly from mathematics and science high schools in the region. The students are being mentored by faculty and have access to specialized services such as tutoring and advising. The project is based on the concept of collaborative learning and a student study area is being utilized to facilitate teamwork and cooperation.</AbstractNarration>
+<MinAmdLetterDate>06/10/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/10/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0849674</AwardID>
+<Investigator>
+<FirstName>Milton</FirstName>
+<LastName>Cone</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Milton L Cone</PI_FULL_NAME>
+<EmailAddress>conec@erau.edu</EmailAddress>
+<NSF_ID>000394467</NSF_ID>
+<StartDate>06/10/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Post</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John E Post</PI_FULL_NAME>
+<EmailAddress>john.post@erau.edu</EmailAddress>
+<NSF_ID>000480052</NSF_ID>
+<StartDate>06/10/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Embry-Riddle Aeronautical University</Name>
+<CityName>Daytona Beach</CityName>
+<ZipCode>321143910</ZipCode>
+<PhoneNumber>3862267695</PhoneNumber>
+<StreetAddress>Sponsored Research Adm</StreetAddress>
+<StreetAddress2><![CDATA[1 Aerospace Boulevard]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL06</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>052104791</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>EMBRY-RIDDLE AERONAUTICAL UNIVERSITY, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>052104791</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Embry-Riddle Aeronautical University]]></Name>
+<CityName>Daytona Beach</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>321143910</ZipCode>
+<StreetAddress><![CDATA[Sponsored Research Adm]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EHR, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~594407</FUND_OBLG>
+</Award>
+</rootTag>

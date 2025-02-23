@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Facility Support to Renew Operation of the National Center for Airborne Laser Mapping (NCALM)</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>1495444</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030202</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Russell Kelz</SignBlockName>
+<PO_EMAI>rkelz@nsf.gov</PO_EMAI>
+<PO_PHON>7032924747</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>0828047&lt;br/&gt;Shrestha &lt;br/&gt;&lt;br/&gt;Airborne Laser Swath Mapping (ALSM) allows for the measurement of surface topographic features with decimeter-level accuracies and meter to sub-meter spatial resolution.  High resolution, georeferenced, digital elevation models (DEMs) processed from raw ALSM data (point clouds of laser postings in xyz space) are critical for observing a multitude of geomorphic features at scales appropriate to the fundamental processes that govern their topographic expression.   Examples include, fault structures, hill slopes, river channels, coastal features, glaciers, volcanic edifices and vegetative canopy structure.  DEMs developed from ALSM can be used to model and therefore better understand the dynamics of these landforms and the underlying processes that form them.  The technique also has obvious applications in civil engineering. &lt;br/&gt;&lt;br/&gt;This grant provides five years of continued support for the management and operation of the National Center for Airborne Laser Mapping (NCALM).  A collaborative effort between the University of Florida (UF) and the University of California - Berkeley (UC-B), NCALM provides project planning services, ALSM flight and ground crew operations, technical support for data analysis, and access to computational resources and software to make available to the broader geosciences community, high accuracy, high spatial resolution digital topographic data.  NCALM makes available to the science community, an Optech GEMINI 167 kHz and 33 kHz ALSM systems owned by UF that can be flown on a UF twin engine Cessna 337 aircraft equipped with GPS equipment and an inertial measurement system.  These systems can also be flown on leased aircraft for international projects or projects that dictate high altitude flights.  NCALM staff are also involved in: 1) development of new laser ranging technologies including MHz photon counting ALSM operating at wavelengths that allow for water penetration for coastal bathymetry; 2) developing methods and software for multi-sensor data collection and fusion; 3) training students in ALSM techniques and applications through the UF graduate program in Geosensing Engineering; 4) administering a competitive seed grant program for student investigators; and 5) community outreach through ALSM workshops and organization of ALSM science sessions at national meetings.  NCALM is managed by PIs at UF and UC-B and is advised by a steering committee (SC). The SC provides guidance and review on the following:  1) scheduling and prioritizing projects; 2) cost effective management of the Center; 3) information dissemination; 4) opportunities and necessities for technological upgrades; and 5) contact and coordination with major programs (EarthScope, CUASHI, Margins, etc.) and agencies (NASA, FEMA, USGS). &lt;br/&gt;&lt;br/&gt;***&lt;br/&gt;&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>07/03/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/21/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0828047</AwardID>
+<Investigator>
+<FirstName>Kenneth</FirstName>
+<LastName>Slatton</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kenneth C Slatton</PI_FULL_NAME>
+<EmailAddress>slatton@ece.ufl.edu</EmailAddress>
+<NSF_ID>000373045</NSF_ID>
+<StartDate>07/03/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ramesh</FirstName>
+<LastName>Shrestha</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ramesh Shrestha</PI_FULL_NAME>
+<EmailAddress>rlshrestha@uh.edu</EmailAddress>
+<NSF_ID>000557301</NSF_ID>
+<StartDate>07/03/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Carter</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>William E Carter</PI_FULL_NAME>
+<EmailAddress>carter4451@bellsouth.net</EmailAddress>
+<NSF_ID>000204779</NSF_ID>
+<StartDate>07/03/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326112002</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1 UNIVERSITY OF FLORIDA</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL03</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>969663814</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF FLORIDA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>159621697</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Florida]]></Name>
+<CityName>GAINESVILLE</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>326112002</ZipCode>
+<StreetAddress><![CDATA[1 UNIVERSITY OF FLORIDA]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1195</Code>
+<Text>LONG TERM ECOLOGICAL RESEARCH</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1573</Code>
+<Text>Petrology and Geochemistry</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1580</Code>
+<Text>Instrumentation &amp; Facilities</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7458</Code>
+<Text>Geomorphology &amp; Land-use Dynam</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1306</Code>
+<Text>ECOLOGICAL RATES OF CHANGE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1316</Code>
+<Text>LAND-MARGIN ECOSYSTEMS RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1650</Code>
+<Text>BIOLOGICAL OCEANOGRAPHY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2008~608996</FUND_OBLG>
+<FUND_OBLG>2009~445600</FUND_OBLG>
+</Award>
+</rootTag>

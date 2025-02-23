@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Villanova Computing Scholars: The Sequel]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>597973.00</AwardTotalIntnAmount>
+<AwardAmount>597973</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>gregory goins</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project continues the successful Computer Science, Engineering, and Mathematics Scholarship (CSEMS) program at the university. Specifically, it aims to increase the number of students pursuing a computer science major by offering substantial scholarship support. The program places special emphasis on recruiting and retaining underrepresented groups such as women and Hispanics, building on the infrastructure already in place at the university.&lt;br/&gt;&lt;br/&gt;The intellectual merit of the project lies in integrating the excellent academics of the institution and department with the financial student support from NSF for outstanding, financially needy students. It continues a professional development seminar for supported participants and other interested computer science majors and supplements it with Team Work in Several Time Zones (TWISTZ) to address the direction of computing in the global marketplace.The seminar builds upon the previous program's state-of-the-art techniques and peer effects for encouraging project scholars to develop good study habits, to learn how to survey the ongoing advancement of computer science, and to develop critical thinking. In addition to career counseling, scholars receive encouragement to participate in funded undergraduate research projects whose teams are spread across time zones.&lt;br/&gt;&lt;br/&gt;The broader impact centers on the outreach to underrepresented student populations and the cross-cultural aspect of TWISTZ. The program is developing a culture that can attract, nurture and support underrepresented students through its connection with the Multicultural Affairs Office at the institution.]]></AbstractNarration>
+<MinAmdLetterDate>02/06/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>10/09/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0850279</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Beck</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert E Beck</PI_FULL_NAME>
+<EmailAddress><![CDATA[robert.beck@villanova.edu]]></EmailAddress>
+<NSF_ID>000417997</NSF_ID>
+<StartDate>02/06/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Frank</FirstName>
+<LastName>Klassner</LastName>
+<PI_MID_INIT>I</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Frank I Klassner</PI_FULL_NAME>
+<EmailAddress><![CDATA[frank.klassner@villanova.edu]]></EmailAddress>
+<NSF_ID>000220853</NSF_ID>
+<StartDate>02/06/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Villanova University</Name>
+<CityName>VILLANOVA</CityName>
+<ZipCode>190851603</ZipCode>
+<PhoneNumber>6105194220</PhoneNumber>
+<StreetAddress>800 LANCASTER AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EYNYSU6L8ZX6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VILLANOVA UNIVERSITY IN THE STATE OF PENNSYLVANIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EYNYSU6L8ZX6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Villanova University]]></Name>
+<CityName>VILLANOVA</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>190851603</ZipCode>
+<StreetAddress><![CDATA[800 LANCASTER AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~597973</FUND_OBLG>
+</Award>
+</rootTag>

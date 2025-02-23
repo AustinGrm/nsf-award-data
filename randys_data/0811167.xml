@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Discontinuous Galerkin Methods for Optimal Control Problems Governed by Advection-Diffusion Equations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>106836.00</AwardTotalIntnAmount>
+<AwardAmount>106836</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dalin Tang</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[There are several methods to approach real-life problems.  An attractive and relatively cheap approach is to design a mathematical model that describes some physical phenomena and to use this model to make predictions.  To validate the model it is important that the predictions agree with real observations.  Usually mathematical models have several parameters that are unknown or uncertain.  Given some observations, these parameters can be tuned in order to reduce the discrepancy between the predicted and the observed values.  In other words, by refining a model we want to minimize certain objective quantities produced by the model.  Mathematically these types of problems can be classified as optimal control problems.   &lt;br/&gt;&lt;br/&gt;In this proposal we are interested in optimal control problems with constraints given by systems of partial differential equations (PDEs).  In particular, we are interested in models that describe an evolution of a flow.  The corresponding PDEs for such problems are called advection-diffusion equations.  These equations are fundamental and solutions to such equations often exhibit "nonsmooth behavior", like shocks, boundary and interior layers, and interface discontinuities.  Such phenomena are often observed in reality and possess serious computational and analytical challenges in order to solve such problems numerically.  In designing a numerical method it is very important to know how the method behaves in the neighborhood of such discontinuities, and whether or not the resulting effects are global or local. &lt;br/&gt;&lt;br/&gt;Over the years many competitive methods have been designed.  In this proposal we intend to incorporate a family of Discontinuous Galerkin (DG) methods.  These methods have received a lot of attention lately.  The main attractive feature is that DG methods use discontinuous functions to approximate the unknown solutions and in principle are well suited for problems with sharp changes in function values.&lt;br/&gt;&lt;br/&gt;In this proposal we intend to develop new analytical tools that will enable us to analyze such methods in the context of optimal control problems.  We also plan to demonstrate computationally the advantages of the DG methods for estimating important physical quantities, such as bottom drag coefficient and eddy viscosity, over other commonly used methods for real-life geophysical flow problems.]]></AbstractNarration>
+<MinAmdLetterDate>06/30/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0811167</AwardID>
+<Investigator>
+<FirstName>Dmitriy</FirstName>
+<LastName>Leykekhman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dmitriy Leykekhman</PI_FULL_NAME>
+<EmailAddress><![CDATA[dmitriy.leykekhman@uconn.edu]]></EmailAddress>
+<NSF_ID>000155274</NSF_ID>
+<StartDate>06/30/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Connecticut</Name>
+<CityName>STORRS</CityName>
+<ZipCode>062691133</ZipCode>
+<PhoneNumber>8604863622</PhoneNumber>
+<StreetAddress>438 WHITNEY RD EXTENSION UNIT 11</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WNTPS995QBM7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CONNECTICUT</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D9SNFDRCW3W7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Connecticut]]></Name>
+<CityName>STORRS</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>062691133</ZipCode>
+<StreetAddress><![CDATA[438 WHITNEY RD EXTENSION UNIT 11]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~106836</FUND_OBLG>
+</Award>
+</rootTag>

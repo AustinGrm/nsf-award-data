@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[The Topology and Geometry of Topological Field Theories]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>20000.00</AwardTotalIntnAmount>
+<AwardAmount>20000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040200</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christopher Stark</SignBlockName>
+<PO_EMAI>cstark@nsf.gov</PO_EMAI>
+<PO_PHON>7032924869</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Topological field theories arose in the 1980s through the work of mathematicians studying low dimensional topology, including Donaldson, Floer, Gromov, and others. In his effort to understand their work, Witten discovered that, in dimensions 2,3 and 4, these theories could be viewed as a special kind of supersymmetric quantum field theory. This combination of ideas has proved to be a fertile source of new mathematics in a variety of fields, including geometry, topology, and algebra. Parallel to this work, Atiyah and Segal presented an axiomatization of topological field theories which allows their study using the techniques of algebra, and in particular of homological algebra. Their has been a great deal of recent work in this direction and the purpose of this conference and its associated graduate student workshop is to survey the state of the field and to explore directions for the future.&lt;br/&gt;&lt;br/&gt;Field theories arise in physics to describe the behavior of sub-atomic particles, their interactions, and the forces that act on them.&lt;br/&gt;Topological field theories arise from string theory in physics and the observation that particles may not be discrete objects, but one-dimensional, if still very small, "strings".  This has inspired a great deal of important mathematics; in particular in the geometry of low-dimensional objects -- a field that has been completely transformed in the past twenty-five years. The conference funded here will bring together mathematicians and mathematical physicists in this and closely related areas to gain a better understanding of where the most fertile areas of interaction presently are. The conference will be preceded by a week-long workshop intended to give new researchers to be exposed to the latest ideas and techniques in the field.&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>02/23/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>02/23/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0852513</AwardID>
+<Investigator>
+<FirstName>Ezra</FirstName>
+<LastName>Getzler</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ezra Getzler</PI_FULL_NAME>
+<EmailAddress><![CDATA[getzler@northwestern.edu]]></EmailAddress>
+<NSF_ID>000107157</NSF_ID>
+<StartDate>02/23/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Goerss</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Paul G Goerss</PI_FULL_NAME>
+<EmailAddress><![CDATA[pgoerss@math.northwestern.edu]]></EmailAddress>
+<NSF_ID>000280871</NSF_ID>
+<StartDate>02/23/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kevin</FirstName>
+<LastName>Costello</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kevin J Costello</PI_FULL_NAME>
+<EmailAddress><![CDATA[kevin.j.costello@gmail.com]]></EmailAddress>
+<NSF_ID>000310047</NSF_ID>
+<StartDate>02/23/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northwestern University</Name>
+<CityName>EVANSTON</CityName>
+<ZipCode>602080001</ZipCode>
+<PhoneNumber>3125037955</PhoneNumber>
+<StreetAddress>633 CLARK STREET</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EXZVPWZBLUE8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHWESTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>EVANSTON</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>602080001</ZipCode>
+<StreetAddress><![CDATA[633 CLARK STREET]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1267</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~20000</FUND_OBLG>
+</Award>
+</rootTag>

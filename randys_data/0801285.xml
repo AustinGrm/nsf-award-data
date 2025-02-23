@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Symposium Z Bulk Metallic Glasses;Boston, MA; November 25-29, 2007.]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2008</AwardExpirationDate>
+<AwardTotalIntnAmount>7150.00</AwardTotalIntnAmount>
+<AwardAmount>7150</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070010</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alan J. Ardell</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[TECHNICAL: The area of bulk metallic glasses has witnessed a fast growth in basic research and developments in the last ten years. Materials have been developed for civil, military, biomedicine, mining, sports, and structure applications. Besides, theoretical and computational efforts have been made that hold promises to uncover the mysteries in the glass formation, deformation mechanisms, and the basic phenomena in transport, phase transition, magnetic properties, corrosion, dynamic response, and fracture mechanics. This project is for sponsorship for Symposium Z on Bulk Metallic Glasses, which is part of the 2007 Annual Materials Research Society (MRS) Fall meeting. The research presented and discussed at this Symposium will be of significant interest and relevance to many scientific and technology goals in the area of Metals. This Symposium is a significant event in a rapidly developing research and application area, and more than 145 oral presentations and posters are expected. The symposium will also host a half day tutorial on Materials Characterization of Bulk Metallic Glasses. The MRS fall meeting is held in Boston on November 25-29, 2007. It is a large national and international event attended by thousands of researchers. NON-TECHNICAL: The use of bulk metallic glasses has been demonstrated in their revolutionary impacts on many key engineering and military applications. The objective of this symposium is to provide a forum for communicating fundamentally new insights in bulk metallic glass developments, characterization, and novel approaches for fabrication of bulk metallic glasses and devices. These developments can then lead to new and exciting applications. This meeting is one of the series of meetings established and agreed upon by MRS governing committee for bulk metallic glasses. We anticipate many exciting reports on progresses and new insights.]]></AbstractNarration>
+<MinAmdLetterDate>01/14/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>01/14/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0801285</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Pachavis</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert H Pachavis</PI_FULL_NAME>
+<EmailAddress><![CDATA[pachavis@mrs.org]]></EmailAddress>
+<NSF_ID>000218077</NSF_ID>
+<StartDate>01/14/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Materials Research Society</Name>
+<CityName>WARRENDALE</CityName>
+<ZipCode>150867537</ZipCode>
+<PhoneNumber>7247792732</PhoneNumber>
+<StreetAddress>506 KEYSTONE DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA17</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MFPJGRD1NWE3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MATERIALS RESEARCH SOCIETY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Materials Research Society]]></Name>
+<CityName>WARRENDALE</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>150867537</ZipCode>
+<StreetAddress><![CDATA[506 KEYSTONE DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0106000</Code>
+<Name>Materials Research</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1771</Code>
+<Text>METAL &amp; METALLIC NANOSTRUCTURE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9161</Code>
+<Text>SINGLE DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>AMPP</Code>
+<Text>ADVANCED MATERIALS &amp; PROCESSING PROGRAM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~7150</FUND_OBLG>
+</Award>
+</rootTag>

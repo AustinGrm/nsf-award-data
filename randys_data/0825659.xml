@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Temporal evolution of submarine Mauna Loa provides insights into the nature of the Hawaiian plume</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>102866.00</AwardTotalIntnAmount>
+<AwardAmount>102866</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040200</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard L. Carlson</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Intellectual Merit &lt;br/&gt;This project seeks to document the growth and long-term magmatic evolution of Mauna Loa volcano on the western, Loa side of the Hawaii plume to reveal physical, chemical, and temporal variations across its entirety. The long-term magmatic evolution of a volcano along the Kea trend of the plume has been well-documented by the Hawaii Scientific Drilling Project (HSDP) studies. There is no comparable long-term magmatic history of a volcano on the Loa side of the plume. The P.I.s propose to obtain a magmatic record for the Loa side from samples that have been collected along a 1.6 km thick sequence of lavas exposed by a giant landslide scarp that dissects Mauna Loa's submarine south-west rift zone. They request funding to undertake an intensive 40Ar/39Ar investigation of lavas from these sections and adjacent dredge hauls. &lt;br/&gt;&lt;br/&gt;Broader Impacts &lt;br/&gt;This study includes several national and international partnerships and the training of graduate and undergraduate students. It also will improve understanding of the stability of the flanks of Hawaii volcanoes. Failure of the flanks of volcanoes is thought to pose a serious hazard to the population of the islands.</AbstractNarration>
+<MinAmdLetterDate>09/03/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/03/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0825659</AwardID>
+<Investigator>
+<FirstName>Bradley</FirstName>
+<LastName>Singer</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bradley S Singer</PI_FULL_NAME>
+<EmailAddress>bsinger@geology.wisc.edu</EmailAddress>
+<NSF_ID>000440225</NSF_ID>
+<StartDate>09/03/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<StreetAddress2><![CDATA[Suite 6301]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI02</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>161202122</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>041188822</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>537151218</ZipCode>
+<StreetAddress><![CDATA[21 North Park Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0204000</Code>
+<Name>Oceanography</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1620</Code>
+<Text>Marine Geology and Geophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1620</Code>
+<Text>MARINE GEOLOGY AND GEOPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~102866</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[S-STEM: Encouraging students to pursue an engineering education and career]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2016</AwardExpirationDate>
+<AwardTotalIntnAmount>591979.00</AwardTotalIntnAmount>
+<AwardAmount>591979</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ron Buckmire</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Software Engineering (34)&lt;br/&gt;&lt;br/&gt;The Embry-Riddle Aeronautical University College of Engineering S-STEM program is providing thirteen $10,000 scholarships to students in computer science and in computer, mechanical, software and electrical engineering.  Students participating in the program are being provided with one-on-one advising, participation opportunities in interdisciplinary real-world engineering projects, internship opportunities, and research assistance and educational support for their research project.  Additionally, participants are receiving all of the benefits of the school's pre-existing career services department, including access to job fairs, interview preparation, resume development assistance, and direct connections to industry recruiters.&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>03/18/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>12/16/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0850141</AwardID>
+<Investigator>
+<FirstName>Massood</FirstName>
+<LastName>Towhidnejad</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Massood Towhidnejad</PI_FULL_NAME>
+<EmailAddress><![CDATA[towhid@erau.edu]]></EmailAddress>
+<NSF_ID>000341874</NSF_ID>
+<StartDate>03/18/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jayathi</FirstName>
+<LastName>Raghavan</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jayathi S Raghavan</PI_FULL_NAME>
+<EmailAddress><![CDATA[raghavaj@erau.edu]]></EmailAddress>
+<NSF_ID>000432233</NSF_ID>
+<StartDate>03/18/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joanne</FirstName>
+<LastName>Detore-Nakamura</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joanne L Detore-Nakamura</PI_FULL_NAME>
+<EmailAddress><![CDATA[detor6ee@erau.edu]]></EmailAddress>
+<NSF_ID>000504305</NSF_ID>
+<StartDate>03/18/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Owen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert Owen</PI_FULL_NAME>
+<EmailAddress><![CDATA[robert.owen@erau.edu]]></EmailAddress>
+<NSF_ID>000508888</NSF_ID>
+<StartDate>03/18/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Farahzad</FirstName>
+<LastName>Behi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Farahzad Behi</PI_FULL_NAME>
+<EmailAddress><![CDATA[behif@erau.edu]]></EmailAddress>
+<NSF_ID>000509045</NSF_ID>
+<StartDate>03/18/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Embry-Riddle Aeronautical University</Name>
+<CityName>DAYTONA BEACH</CityName>
+<ZipCode>321143910</ZipCode>
+<PhoneNumber>3862267695</PhoneNumber>
+<StreetAddress>1 AEROSPACE BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U5MMBAC9XAM5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>EMBRY-RIDDLE AERONAUTICAL UNIVERSITY, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U5MMBAC9XAM5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Embry-Riddle Aeronautical University]]></Name>
+<CityName>DAYTONA BEACH</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>321143910</ZipCode>
+<StreetAddress><![CDATA[1 AEROSPACE BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~8150</FUND_OBLG>
+<FUND_OBLG>2010~583829</FUND_OBLG>
+</Award>
+</rootTag>

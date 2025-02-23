@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Canted Undulator Upgrade for GeoSoilEnviroCARS Sector 13 at the Advanced Photon Source]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>766502.00</AwardTotalIntnAmount>
+<AwardAmount>766502</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030202</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Lambert</SignBlockName>
+<PO_EMAI>dlambert@nsf.gov</PO_EMAI>
+<PO_PHON>7032924736</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[0841622&lt;br/&gt;Rivers&lt;br/&gt;&lt;br/&gt;This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5). This proposal seeks ~$767K (~1/3 of the total needed) in funding to implement a canted undulator upgrade for the GeoSoilEnviroCARS (GSECARS) national user facility for synchrotron research. Partial support (2/3 cost) for this upgrade will be separately awarded from NASA and DOE. The upgrade will provide new capabilities and double available beam time. The upgrade will install a new undulator system in a canted geometry which will, in turn provide two independent x-ray sources. One undulator will be optimized for lower energies (2.3-23 keV) and be dedicated for detailed speciation and microprobe light and heavy elemental compositional research. The other undulator will be configured for higher (5.6-80 keV) energies and will be applied to high-pressure and surface scattering research. The new beamline configuration at GSECARS will be used for high-pressure mineral physics and chemistry, high-pressure non- and nano-crystalline work, hydrothermal fluid chemistry, mineral-water interface biogeochemistry, magma oxidation state research, fluid and solid flow dynamics, and extraterrestrial materials research. The upgrade will provide access to diamond anvil cell or large volume press high-pressure and high-temperature spectroscopy and crystallography, single-crystal and powder interface diffraction, inelastic x-ray scattering, x-ray absorption fine structure (XAFS) spectroscopy, x-ray microprobe analysis, and microtomography. The facility has broad community usage. GSECARS offers 400+ user-visits per year. The array of research conducted on current beamlines spans a range of geoscience disciplines with considerable societal impacts. &lt;br/&gt;&lt;br/&gt;***]]></AbstractNarration>
+<MinAmdLetterDate>07/23/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2009</MaxAmdLetterDate>
+<ARRAAmount>766502</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0841622</AwardID>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Eng</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peter Eng</PI_FULL_NAME>
+<EmailAddress><![CDATA[eng@cars.uchicago.edu]]></EmailAddress>
+<NSF_ID>000164446</NSF_ID>
+<StartDate>07/23/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Rivers</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark L Rivers</PI_FULL_NAME>
+<EmailAddress><![CDATA[rivers@cars.uchicago.edu]]></EmailAddress>
+<NSF_ID>000118441</NSF_ID>
+<StartDate>07/23/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Sutton</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stephen R Sutton</PI_FULL_NAME>
+<EmailAddress><![CDATA[sutton@cars.uchicago.edu]]></EmailAddress>
+<NSF_ID>000394064</NSF_ID>
+<StartDate>07/23/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Newville</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthew Newville</PI_FULL_NAME>
+<EmailAddress><![CDATA[newville@cars.uchicago.edu]]></EmailAddress>
+<NSF_ID>000506272</NSF_ID>
+<StartDate>07/23/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Chicago</Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606375418</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress>5801 S ELLIS AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ZUE9HKT2CLC9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CHICAGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>ZUE9HKT2CLC9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606375418</ZipCode>
+<StreetAddress><![CDATA[5801 S ELLIS AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1580</Code>
+<Text>Instrumentation &amp; Facilities</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~766502</FUND_OBLG>
+</Award>
+</rootTag>

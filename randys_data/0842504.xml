@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Mathematical Modeling of Rechargeable Batteries]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040100</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Warchall</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award supports planning of a collaborative research project on modeling and analysis of designs for rechargeable batteries.  The research project under development will address dynamical processes occurring in novel battery materials.  The research aims to (i) extend battery models to include elastic stress, interfacial tension and diffusion, and slow electron transport; (ii) perform asymptotic and stability analyses and numerical simulations of the nonlinear waves; (iii) study wave-defect interactions, as a new mechanism for power loss; and (iv) simulate, analyze, and optimize transport in realistic cathode microstructures.  &lt;br/&gt;&lt;br/&gt;While significant effort has been invested in applied research over the past few decades, the performance of rechargeable batteries has improved only incrementally.  Atomistic simulations have predicted new materials with higher energy density, but the physical limit has nearly been reached.  However, power density (charge/discharge rate per unit mass) and cycle life must improve drastically for new applications such as electric vehicles. These properties are governed by dynamical processes occurring on larger length and time scales, better suited for continuum or statistical models, which have not been developed. Breakthrough advances towards the next generation of rechargeable batteries will require new fundamental understanding of such processes, and the field is ripe for contributions from applied mathematics.  To meet this need, we plan a collaboration consisting of experts on atomistic simulations of batteries (Ceder), microstructural simulations (Thornton), and mathematical modeling of electrochemical systems (Golovin and Bazant). The team will build on a recently-formulated general continuum model for phase-transformation dynamics in battery materials and a new mode of intercalation by nonlinear waves.&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>09/08/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/15/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0842504</AwardID>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Golovin</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexander A Golovin</PI_FULL_NAME>
+<EmailAddress><![CDATA[a-golovin@northwestern.edu]]></EmailAddress>
+<NSF_ID>000307315</NSF_ID>
+<StartDate>09/08/2008</StartDate>
+<EndDate>04/15/2009</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Martin</FirstName>
+<LastName>Bazant</LastName>
+<PI_MID_INIT>Z</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Martin Z Bazant</PI_FULL_NAME>
+<EmailAddress><![CDATA[bazant@mit.edu]]></EmailAddress>
+<NSF_ID>000507976</NSF_ID>
+<StartDate>09/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gerbrand</FirstName>
+<LastName>Ceder</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gerbrand Ceder</PI_FULL_NAME>
+<EmailAddress><![CDATA[gceder@mit.edu]]></EmailAddress>
+<NSF_ID>000489216</NSF_ID>
+<StartDate>09/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Katsuyo</FirstName>
+<LastName>Thornton</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Katsuyo S Thornton</PI_FULL_NAME>
+<EmailAddress><![CDATA[kthorn@umich.edu]]></EmailAddress>
+<NSF_ID>000388841</NSF_ID>
+<StartDate>09/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stanford University</Name>
+<CityName>STANFORD</CityName>
+<ZipCode>943052004</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress>450 JANE STANFORD WAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HJD6G4D6TJY5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE LELAND STANFORD JUNIOR UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Stanford University]]></Name>
+<CityName>STANFORD</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>943052004</ZipCode>
+<StreetAddress><![CDATA[450 JANE STANFORD WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~6370</FUND_OBLG>
+</Award>
+</rootTag>

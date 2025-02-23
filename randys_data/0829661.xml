@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CPATH CDP: Piloting Pathways for Computational Thinking in a General Education Curriculum]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>139981.00</AwardTotalIntnAmount>
+<AwardAmount>164981</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Spengler</SignBlockName>
+<PO_EMAI>sspengle@nsf.gov</PO_EMAI>
+<PO_PHON>7032927347</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The goal of this project is to provide a model for incorporating computational thinking into the undergraduate general education curriculum, and to demonstrate the intrinsic importance of computational thinking as a part of the general education of all undergraduate students. The vision is that "Computational Thinking becomes a standard general education category in the undergraduate curriculum at all academic institutions nationwide. To meet this goal, the main objective of this CPATH-CDP grant is to develop and assess a particular model for developing pathways of computational thinking throughout the general education (GenEd) curriculum at Towson University. Such pathways would be realized through the development of discipline-specific computational thinking courses by faculty members from various departments across all colleges on campus, supported by a common "Everyday Computational Thinking" freshman-level course. As the second-largest university in the state of Maryland with a broad range of academic programs and faculty dedicated to teaching, Towson is an ideal test bed for the proposed model. One of the outcomes of the recent revision of the Towson General Education curriculum is the addition of a three-credit freshman seminar category that all students would need to satisfy. This new category is a perfect place for an introductory computational thinking course.  In addition, the committee will also be proposing a junior seminar GenEd category, which will also be perfect placement of the more advanced discipline-specific computational thinking courses.  The model that this project will investigate, for infusing general education curricula with concepts of "computational thinking", has the potential to dramatically advance the understanding of computing by all undergraduate students, not just those in a computing major. Such understanding not only enables use of computing technology and methods, but is an important intellectual asset for all types of problem solving.]]></AbstractNarration>
+<MinAmdLetterDate>08/20/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/15/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0829661</AwardID>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Dierbach</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Charles Dierbach</PI_FULL_NAME>
+<EmailAddress><![CDATA[cdierbach@towson.edu]]></EmailAddress>
+<NSF_ID>000199717</NSF_ID>
+<StartDate>08/20/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Harry</FirstName>
+<LastName>Hochheiser</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Harry Hochheiser</PI_FULL_NAME>
+<EmailAddress><![CDATA[hhochheiser@towson.edu]]></EmailAddress>
+<NSF_ID>000497246</NSF_ID>
+<StartDate>08/20/2008</StartDate>
+<EndDate>04/15/2010</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joshua</FirstName>
+<LastName>Dehlinger</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joshua J Dehlinger</PI_FULL_NAME>
+<EmailAddress><![CDATA[jdehlinger@towson.edu]]></EmailAddress>
+<NSF_ID>000503243</NSF_ID>
+<StartDate>04/15/2010</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Siddharth</FirstName>
+<LastName>Kaza</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Siddharth Kaza</PI_FULL_NAME>
+<EmailAddress><![CDATA[skaza@towson.edu]]></EmailAddress>
+<NSF_ID>000518559</NSF_ID>
+<StartDate>04/15/2010</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Towson University</Name>
+<CityName>TOWSON</CityName>
+<ZipCode>212520001</ZipCode>
+<PhoneNumber>4107042236</PhoneNumber>
+<StreetAddress>8000 YORK RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LC3SFMP2L798</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TOWSON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Towson University]]></Name>
+<CityName>TOWSON</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212520001</ZipCode>
+<StreetAddress><![CDATA[8000 YORK RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7640</Code>
+<Text>CPATH</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7218</Code>
+<Text>RET SUPP-Res Exp for Tchr Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7640</Code>
+<Text>CPATH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~139981</FUND_OBLG>
+<FUND_OBLG>2009~25000</FUND_OBLG>
+</Award>
+</rootTag>

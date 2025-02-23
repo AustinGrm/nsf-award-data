@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[AOC:   Health Information Technology as an Agent of Change for Improving Health Care Delivery Processes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>749985.00</AwardTotalIntnAmount>
+<AwardAmount>749985</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Brian Humes</SignBlockName>
+<PO_EMAI>bhumes@nsf.gov</PO_EMAI>
+<PO_PHON>7032927284</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Health care delivery in the U.S. is experiencing severe and worsening problems.  Costs are higher than in other countries and continue to increase, yet the overall quality of care delivered is not improving.  Increasing demand for health care as baby boomers become elderly is further straining the care delivery system.  Thus, dramatic changes are needed in health care delivery in the U.S. over the next decade. &lt;br/&gt; &lt;br/&gt;One proposed solution is computer systems designed for health care, called health information technology (HIT).  These HIT systems, particularly electronic health records (EHR) that store patients? medical history and their interactions with physicians, promise significant improve¬ments in quality, effectiveness and productivity of care delivery.  Yet simply installing HIT without significantly changing existing work processes is unlikely to produce needed results. What is needed is an in-depth under¬standing of how HIT and process design techniques should be conceptualized and applied in health care. &lt;br/&gt;This project develops theories that can transform health care delivery processes in the U.S., through a deep understanding of the changes needed to make effective use of HIT and process design techniques.  The questions we address are: What capabilities does an EHR provide and which are used by health care organizations?  Which characteristics of the health care context, including characteristics of countries, the physician and nursing professions, and health care organizations, enable and inhibit the ability of health care organizations to take advantage of what EHR systems provide?  What are the dynamics of change by which EHR capabilities affect care delivery processes?  How and why do new EHR systems improve or reduce the quality and productivity of health care delivery processes?  How do health care organizations and individuals working in them need to change to make the most effective use of new EHR systems?  Answers to these questions will provide the knowledge needed to transform health care delivery processes in the U.S.&lt;br/&gt;&lt;br/&gt;This team will conduct multiple case studies of EHR implementation in health care organizations to understand the dynamics of change as the EHR implementation alters health care delivery processes.  The case studies will be carried out at our partner organizations, Fallon Clinic, UMass Memorial Health Care, Canada?s single payer system in British Columbia, and two of Israel?s four Health Fund systems.  These four settings provide different health care contexts, enabling us to observe and learn from their differences.  &lt;br/&gt;&lt;br/&gt;Improving the quality of health care delivered in the U.S. as well as reducing its cost has become a critically important societal goal.  The health care system is reaching a breaking point, and needs to be changed.  Simplistic solutions, however, will not work. Solutions require an interdisciplinary approach and the holistic, in-depth understanding of the variety of forces influencing change that will be studied in this project.  The work produced will provide a foundation for a larger community of researchers transforming HIT and process design ideas to solve health care delivery problems.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>09/19/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/19/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0826842</AwardID>
+<Investigator>
+<FirstName>Isa</FirstName>
+<LastName>Bar-On</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Isa Bar-On</PI_FULL_NAME>
+<EmailAddress><![CDATA[ibaron@wpi.edu]]></EmailAddress>
+<NSF_ID>000107885</NSF_ID>
+<StartDate>09/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sharon</FirstName>
+<LastName>Johnson</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sharon A Johnson</PI_FULL_NAME>
+<EmailAddress><![CDATA[sharon@wpi.edu]]></EmailAddress>
+<NSF_ID>000319825</NSF_ID>
+<StartDate>09/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Diane</FirstName>
+<LastName>Strong</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Diane M Strong</PI_FULL_NAME>
+<EmailAddress><![CDATA[dstrong@wpi.edu]]></EmailAddress>
+<NSF_ID>000392457</NSF_ID>
+<StartDate>09/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nitu</FirstName>
+<LastName>Kashyap</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME>Dr.</PI_SUFX_NAME>
+<PI_FULL_NAME>Nitu Kashyap</PI_FULL_NAME>
+<EmailAddress><![CDATA[nitu.kashyap@fallonclinic.org]]></EmailAddress>
+<NSF_ID>000500483</NSF_ID>
+<StartDate>09/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Edward</FirstName>
+<LastName>Westrick</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Edward Westrick</PI_FULL_NAME>
+<EmailAddress><![CDATA[WestricE@ummhc.org]]></EmailAddress>
+<NSF_ID>000500810</NSF_ID>
+<StartDate>09/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Worcester Polytechnic Institute</Name>
+<CityName>WORCESTER</CityName>
+<ZipCode>016092247</ZipCode>
+<PhoneNumber>5088315000</PhoneNumber>
+<StreetAddress>100 INSTITUTE RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HJNQME41NBU4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WORCESTER POLYTECHNIC INSTITUTE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Worcester Polytechnic Institute]]></Name>
+<CityName>WORCESTER</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>016092247</ZipCode>
+<StreetAddress><![CDATA[100 INSTITUTE RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7318</Code>
+<Text>HSD - AGENTS OF CHANGE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7322</Code>
+<Text>HSD - DEC, RISK &amp; UNCERTAINTY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7318</Code>
+<Text>HSD - AGENTS OF CHANGE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~749985</FUND_OBLG>
+</Award>
+</rootTag>

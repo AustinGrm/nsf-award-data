@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Genome Scrambling in Caulobacters and their Phages]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>368069.00</AwardTotalIntnAmount>
+<AwardAmount>368069</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08040000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EF</Abbreviation>
+<LongName>Emerging Frontiers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karen Cone</SignBlockName>
+<PO_EMAI>kccone@nsf.gov</PO_EMAI>
+<PO_PHON>7032924967</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project is a full partnership between Dr. Bert Ely at the University of South Carolina and the Eau Claire High School Science Club. The ECHS Science Club was started in 2006 by Dr. Ely and Ms. Lagodia Sewell and Nicole Albertine, two ECHS Biology teachers. Their goal was to promote better education in a low-income neighborhood school. The Eau Claire High School is an inner city school in Columbia, SC, approximately three miles from the University of South Carolina campus. Approximately 95% of the ECHS students qualify for free or reduced-cost lunch. ECHS has recently been declared a failing school according to the definitions resulting from the No Child Left Behind Act.  But the Science Club has been a complete success. There is great interest in the club amongst the students. To this point, they had identified and purified phages from environmental sources, isolated high quality DNA from many of the phages in Dr. Ely's collection, and contributed to the bioinformatic analysis/annotation of a bacterial genome. These efforts have set the stage for this project: Caulobacter and their phage. The PI got the idea of developing a student project on Caulobacter phage genomes after reading a paper by Dr. Graham Hatfull involving high school students in a study of Mycobacteriophages.  Caulobacter spp. are broadly distributed in aquatic environments. Most bacteriophages that infect members of the genus Caulobacter have a common type of phage morphology and have an exceptionally large head that contains a large (200 kb) genome. Based on genome analysis in the Ely lab, these phage appeared to have undergone extensive genome rearrangements. Furthermore, two Caulobacter genomes also appeared to have undergone extensive rearrangements. The goal of this project is to characterize this apparent genome rearrangement or 'scrambling' in Caulobacter and their phage.  These investigators (i.e., both Ely and the Science Club members) will also look for evidence of gene transfer as a result of this scrambling with gene transfer occurring between host and phage and between phage and phage. The lead investigator will assist in data analysis and interpretation and all will be coauthors on the paper. To increase the likelihood of success of this project, summer internships are being provided to the high school students so they can focus on their research and not take part time summer jobs. One of the teachers will incorporate some of the Caulobacter genomic research into her coursework.]]></AbstractNarration>
+<MinAmdLetterDate>08/26/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/26/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0826792</AwardID>
+<Investigator>
+<FirstName>Bert</FirstName>
+<LastName>Ely</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bert E Ely</PI_FULL_NAME>
+<EmailAddress><![CDATA[Ely@sc.edu]]></EmailAddress>
+<NSF_ID>000221736</NSF_ID>
+<StartDate>08/26/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Friedman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert Friedman</PI_FULL_NAME>
+<EmailAddress><![CDATA[bobf@biol.sc.edu]]></EmailAddress>
+<NSF_ID>000155846</NSF_ID>
+<StartDate>08/26/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University South Carolina Research Foundation</Name>
+<CityName>COLUMBIA</CityName>
+<ZipCode>292084009</ZipCode>
+<PhoneNumber>8037777093</PhoneNumber>
+<StreetAddress>915 BULL ST</StreetAddress>
+<StreetAddress2><![CDATA[STE 202]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SC06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ELBVJ1KYX976</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SOUTH CAROLINA RESEARCH FOUNDATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University South Carolina Research Foundation]]></Name>
+<CityName>COLUMBIA</CityName>
+<StateCode>SC</StateCode>
+<ZipCode>292084009</ZipCode>
+<StreetAddress><![CDATA[915 BULL ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SC06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7187</Code>
+<Text>MICROBIAL GENOME SEQUENCING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7187</Code>
+<Text>MICROBIAL GENOME SEQUENCING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9104</Code>
+<Text>ENVIRONMENTAL BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~368069</FUND_OBLG>
+</Award>
+</rootTag>

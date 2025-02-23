@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CPA-G&amp;V:  Tensor Factory]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>299999.00</AwardTotalIntnAmount>
+<AwardAmount>299999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lawrence Rosenblum</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Abstract&lt;br/&gt;Wonka (0811790)&lt;br/&gt;&lt;br/&gt;Recent advances in remote sensing give rise to new data sets that capture detailed facade and urban appearance information. These multi-gigabyte data sets pose new challenges for urban rendering: it is difficult to fit the models into the memory of the graphics card and the memory transfer of large amounts of data is prohibitively slow. Crucial ingredients for success are efficient data representations. In this research project the investigators study three important challenges of massive urban rendering. The research involves mapping computer graphics data representation problems to new factorization problems of higher-order arrays. The research has practical applications in computer graphics (e.g., for driving and traffic simulation systems, virtual reality training systems for first responders, three-dimensional mapping for cell phones and PDAs, computer games, and computer animation). The methodology also contributes to advance related fields, such as image and video processing, computational biology, and medical image analysis.&lt;br/&gt;&lt;br/&gt;The investigators focus on the following two fundamental research questions: How can we efficiently render massive urban models? and How can we efficiently process higher-order tensors for computer graphics applications? The research is specifically addressing three example rendering techniques that are suitable for massive urban models: displacement mapping of building facades, robust visibility pre-computation, and rendering of aggregated urban appearance information. For these three examples the question of efficient representation of the involved data structures can shown to map nicely to new tensor factorization and reconstruction problems. The factorization problems are novel because of the nature of the data sets (e.g. discrete and binary tensors) and constraints imposed on the factorization (e.g. the entries of the reconstruction have to be equal to or greater than those of the original tensor). &lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>06/23/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/23/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0811790</AwardID>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Wonka</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peter Wonka</PI_FULL_NAME>
+<EmailAddress><![CDATA[Peter.Wonka@asu.edu]]></EmailAddress>
+<NSF_ID>000494299</NSF_ID>
+<StartDate>06/23/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jieping</FirstName>
+<LastName>Ye</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jieping Ye</PI_FULL_NAME>
+<EmailAddress><![CDATA[jpye@umich.edu]]></EmailAddress>
+<NSF_ID>000488391</NSF_ID>
+<StartDate>06/23/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Arizona State University</Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852813670</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress>660 S MILL AVENUE STE 204</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NTLHJXM55KZ6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ARIZONA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>TEMPE</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>852813670</ZipCode>
+<StreetAddress><![CDATA[660 S MILL AVENUE STE 204]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7453</Code>
+<Text>GRAPHICS &amp; VISUALIZATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~299999</FUND_OBLG>
+</Award>
+</rootTag>

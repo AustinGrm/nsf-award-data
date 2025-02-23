@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[REU Site: Research on Computer Vision and Multi-Agent Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>305801.00</AwardTotalIntnAmount>
+<AwardAmount>305801</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maria Zemankova</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project will provide an opportunity for ten undergraduate students to participate in the  ongoing CVMA (Computer Vision and Multi-Agent) research activities in the CS department at USU. The  REU students will receive formal instruction on CVMA and an introduction to each project during the first  week and a half. They will then directly work with the faculty mentor to generate computer programs for  testing hypotheses and new techniques, and to demonstrate the feasibility of the specific ideas. Students  will also participate in weekly individual meetings, alternated bi-weekly REU group meetings and brown- bag research group meetings, and social events. They are required to accomplish three oral  presentations and writing tasks at three stages to improve communication skills essential to professionals  in any discipline. Our goals are to provide undergraduate students with the opportunities to learn the  research process, assimilate latest research, assess their own research, present their own work and  experimental results, prepare publications, and prepare for admission to graduate school. This site will  ensure at least four participants are underrepresented students and at least six participants are from  other institutions, especially undergraduate institutions where research programs are limited.&lt;br/&gt;&lt;br/&gt;Intellectual Merit:&lt;br/&gt;The program will build a "real-world" working environment to help  undergraduate students to develop an ability to think independently, a willingness to explore a multitude  of approaches, a tenacity to face obstacles, and a background to learn state-of-the-art technical  knowledge. Multiple projects will be defined to support and broaden current research efforts. These  research projects include semantic-based CBIR (Content-Based Image Retrieval), image forensic and  authentication, fire and flame detection, coalition organization with agent leadership, trust of robotic  systems, and cooperative network monitoring. The proposed work will address the broad spectrums and  challenging issues in CVMA using hands-on stimulating research projects. Some projects, designed for highly  talented students, seek to advance knowledge and understanding by addressing unsolved problems.  Others seek to employ CVMA techniques to solve the real-world problems. An intellectual approach will  be applied to encourage students in active learning, free and open exchange of ideas, team spirit, and  recognition and rewards for achievements.  &lt;br/&gt;&lt;br/&gt;Broader Impacts:&lt;br/&gt;The program will impact the disciplines of CS and the competitiveness of our  nation by seeding the next generation of researchers.The program will impact the individual  participants by promoting the development of their independent thinking and problem-solving skills. The  program's focus on students from primarily undergraduate institutions and on members of  underrepresented groups will further enhance these impacts. Finally, the research itself has the potential  for positive social impact due to its focus on real-world applications.  Early  exposure to research activities will substantially further students' learning process, significantly enhance  their research experience, quickly develop their skills in CVMA related research, actively promote their  interests in research, and effectively inspire their desire to pursue advanced degrees.]]></AbstractNarration>
+<MinAmdLetterDate>05/07/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>09/04/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0850825</AwardID>
+<Investigator>
+<FirstName>Chad</FirstName>
+<LastName>Mano</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chad D Mano</PI_FULL_NAME>
+<EmailAddress><![CDATA[chad.mano@usu.edu]]></EmailAddress>
+<NSF_ID>000425407</NSF_ID>
+<StartDate>09/04/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xiaojun</FirstName>
+<LastName>Qi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiaojun Qi</PI_FULL_NAME>
+<EmailAddress><![CDATA[Xiaojun.Qi@usu.edu]]></EmailAddress>
+<NSF_ID>000358006</NSF_ID>
+<StartDate>05/07/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Vicki</FirstName>
+<LastName>Allan</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vicki H Allan</PI_FULL_NAME>
+<EmailAddress><![CDATA[Vicki.Allan@usu.edu]]></EmailAddress>
+<NSF_ID>000424504</NSF_ID>
+<StartDate>05/07/2009</StartDate>
+<EndDate>09/04/2009</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Utah State University</Name>
+<CityName>LOGAN</CityName>
+<ZipCode>843221000</ZipCode>
+<PhoneNumber>4357971226</PhoneNumber>
+<StreetAddress>1000 OLD MAIN HILL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SPE2YDWHDYU4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UTAH STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>SPE2YDWHDYU4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Utah State University]]></Name>
+<CityName>LOGAN</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>843221000</ZipCode>
+<StreetAddress><![CDATA[1000 OLD MAIN HILL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1139</Code>
+<Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~305801</FUND_OBLG>
+</Award>
+</rootTag>

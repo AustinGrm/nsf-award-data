@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SURE: Summer Undergraduate Research in Engineering/Science</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>363669.00</AwardTotalIntnAmount>
+<AwardAmount>363669</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EEC</Abbreviation>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Esther Bolding</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This REU site is a renewal of Georgia Institute of Technology's Summer Undergraduate Research in Engineering (SURE) program.  Ten undergraduate students over a ten-week period will be involved in hands-on research in electrical and computer engineering areas (including optoelectronics, integrated circuits and devices, and digital signal processing).  To assist in the growth of the undergraduate students, each participant will be paired with both a faculty advisor and graduate student research mentor.  In addition, every SURE student will also be paired with a graduate student "social" mentor.&lt;br/&gt;&lt;br/&gt;The REU program will be comprised of four main components: 1) in-depth laboratory experiences; 2) local industrial site visits and social trips; 3) synergistic workshops and seminars; and 4) oral and written research summaries prepared by the student participants. A broad range of social and cultural activities will be critical to fostering a sense of community within the undergraduate student group.  A set of workshops and seminars will assist in their development as researchers, improve their technical writing and presentation skills, and expose them to technical research projects across the ECE field, and expand their knowledge of graduate programs and the process of applying to graduate school.  &lt;br/&gt;&lt;br/&gt;Recruitment efforts will be focused on attracting women and underrepresented minority participants to the program. The overall goal of the SURE program is to encourage and motivate participants to enroll in a graduate school of study after receiving their Bachelor?s degrees.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>05/07/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>09/18/2012</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0851643</AwardID>
+<Investigator>
+<FirstName>Gary</FirstName>
+<LastName>May</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gary S May</PI_FULL_NAME>
+<EmailAddress>gary.may@coe.gatech.edu</EmailAddress>
+<PI_PHON>4048946825</PI_PHON>
+<NSF_ID>000400256</NSF_ID>
+<StartDate>05/07/2009</StartDate>
+<EndDate>09/18/2012</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Leyla</FirstName>
+<LastName>Conrad</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Leyla Conrad</PI_FULL_NAME>
+<EmailAddress>leyla.conrad@ece.gatech.edu</EmailAddress>
+<PI_PHON>4043850439</PI_PHON>
+<NSF_ID>000395557</NSF_ID>
+<StartDate>05/07/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ayanna</FirstName>
+<LastName>Howard</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ayanna M Howard</PI_FULL_NAME>
+<EmailAddress>howard.1727@osu.edu</EmailAddress>
+<PI_PHON>6142922836</PI_PHON>
+<NSF_ID>000108981</NSF_ID>
+<StartDate>09/18/2012</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 NORTH AVE NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1360</Code>
+<Text>EWFD-Eng Workforce Development</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1360</Code>
+<Text>HUMAN RESOURCES DEVELOPMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~363669</FUND_OBLG>
+</Award>
+</rootTag>

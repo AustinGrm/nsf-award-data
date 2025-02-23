@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Educational Assessment Tools For Genomics And Bioinformatics Education]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>63732.00</AwardTotalIntnAmount>
+<AwardAmount>63732</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>gregory goins</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Advances in genomics and bioinformatics have led to the rapid proliferation of dedicated research laboratories, summer institutes, and academic degree programs. Individual biologists, working groups, and national research networks are focusing their attention on the integration of genomics and bioinformatics lessons into undergraduate curricula. The first goal of this project is to: (1) assemble genomics and bioinformatics assessment items and tools into a single, freely-accessible, and user-friendly format; (2) summarize validity and reliability data for existing measures; (3) construct, evaluate, and revise a suite of supplemental genomics assessment tools in four areas: knowledge, affect, performance, and faculty assessment; (4) disseminate this genomics education concept inventory through SERC, the DANSER project, and the FIRST project, and (5) field test the inventory items for utility, validity, and generalizability by using a newly developed, HHMI-funded interdisciplinary genomics curriculum at Barnard College as a test case. &lt;br/&gt;&lt;br/&gt;A mixed-methods (i.e., quantitative and qualitative) quasi-experimental design is being used to assess the impact of the curriculum intervention at Barnard. The following five methodologies are being employed, using a longitudinal study design, to assess the impact of the genomics curriculum relative to the traditional biology curriculum: (1) a Likert-scale questionnaire, (2) the Student Assessed Learning Gains (SALG) anonymous online instrument, (3) concept mapping of content knowledge, (4) the CTT (Critical Thinking Test), and (5) semi-structured, transcribed oral interviews by an independent researcher. These data permit methodological triangulation of results. The overarching research question for goal two of this project is: Does a 4-year undergraduate genomics curriculum pathway produce significantly different performance skills, attitudes, knowledge, and dispositions toward biological research compared to a traditional 4-year biology pathway in women science students? &lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>09/03/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/03/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0837334</AwardID>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Morton</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brian R Morton</PI_FULL_NAME>
+<EmailAddress><![CDATA[bmorton@barnard.columbia.edu]]></EmailAddress>
+<NSF_ID>000231316</NSF_ID>
+<StartDate>09/03/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Barnard College</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100276909</ZipCode>
+<PhoneNumber>2128542708</PhoneNumber>
+<StreetAddress>3009 BROADWAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LPQ1NHRK78M9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BARNARD COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Barnard College]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100276909</ZipCode>
+<StreetAddress><![CDATA[3009 BROADWAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~63732</FUND_OBLG>
+</Award>
+</rootTag>

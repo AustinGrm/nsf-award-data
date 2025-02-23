@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Acquisition/upgrade of alpha spectrometry facility]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>36120.00</AwardTotalIntnAmount>
+<AwardAmount>36120</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040302</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Donald L. Rice</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Researchers at the State University of New York (SUNY) at Stony Brook will replace outdated alpha spectrometry systems.  Since the 1980's, their laboratory used four Quad Alpha systems, and these systems have worked well for many years.  However these systems are interfaced with now-obsolete analyzers that have failed and are not repairable.  In addition, most of the Quad Alpha units themselves have failed and currently only four out of 16 detectors are operating.  Even though alpha spectrometry has been supplanted by other analytical approaches for many alpha-emitting radionuclides, measurement of certain short-lived alpha emitters is optimally accomplished via this method.  A new, upgraded alpha spectrometry system will provide the necessary capability to continue the laboratory's high quality alpha spectrometric measurements.  The equipment will be used in several NSF-supported projects related to carbon cycle research.  These studies will be important to our understanding of the ocean's "biological pump", which influences the transport of organic carbon to the deep ocean and is coupled with the ocean's ability to take up and cycle carbon dioxide derived from human activities.  In terms of broader impacts, the equipment will enhance the research infrastructure at SUNY Stony Brook, and will aid in supporting research activities for the foreseeable future.  Researchers at SUNY Stony Brook will use the systems as part of their education and training activities.]]></AbstractNarration>
+<MinAmdLetterDate>01/26/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>01/26/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0850768</AwardID>
+<Investigator>
+<FirstName>J. Kirk</FirstName>
+<LastName>Cochran</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>J. Kirk Cochran</PI_FULL_NAME>
+<EmailAddress><![CDATA[kirk.cochran@stonybrook.edu]]></EmailAddress>
+<NSF_ID>000264307</NSF_ID>
+<StartDate>01/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY at Stony Brook</Name>
+<CityName>STONY BROOK</CityName>
+<ZipCode>117940001</ZipCode>
+<PhoneNumber>6316329949</PhoneNumber>
+<StreetAddress>W5510 FRANKS MELVILLE MEMORIAL L</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M746VC6XMNH9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SUNY at Stony Brook]]></Name>
+<CityName>STONY BROOK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>117940001</ZipCode>
+<StreetAddress><![CDATA[W5510 FRANKS MELVILLE MEMORIAL L]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0204000</Code>
+<Name>Oceanography</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1670</Code>
+<Text>Chemical Oceanography</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~36120</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Introducing Undergraduates to Complex Systems through Rapid-prototyping of Low-cost, Networked Mobile Robots]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>149995.00</AwardTotalIntnAmount>
+<AwardAmount>149995</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Don Millard</SignBlockName>
+<PO_EMAI>dmillard@nsf.gov</PO_EMAI>
+<PO_PHON>7032924620</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Computer Engineering (32)&lt;br/&gt;The use of mobile robotics in teaching has the potential to be revolutionized by advances in four areas: (a) computationally powerful target hardware; (b) modern Automatic Code Generation tools which allow these devices to be programmed directly from high-level Matlab / Simulink-based designs; (c) the built-in networking capabilities of these devices, which enables groups of robots to interact with one another in complex ways; (d) increasingly interdisciplinary approaches to dealing with this complexity. This project realizes this potential by bringing all these components together in a series of exemplary Laboratory Modules, programmed directly from the Matlab / Simulink environment, and autoCoded for implementation on either i) the Lego MindStorms NXT for simple algorithms, or ii) the Nokia N800 Internet Tablet for more demanding applications. To project involves first developing and deploying the necessary software and hardware tools to enable rapid prototyping for these specific target devices, and then exploiting the capabilities it provides to develop new Laboratory Modules which enhance the curriculum. The versatility of the resultant toolset, and its ability to address the educational needs of students in different disciplines and at different stages of their educational growth is demonstrated in the variety of Laboratory Modules which include a search and rescue project, mobile self-balancing robots, robotic evolution, and dynamic multi-robot communication.&lt;br/&gt;&lt;br/&gt;This project produces the following student learning outcomes:&lt;br/&gt;(a) Students learn more efficiently and can more fully realize the benefits of using robots in the curriculum because they are free to focus on higher level pedagogical aims rather than low level implementation detail.&lt;br/&gt;(b) Students are able to understand and harness the complex engineering and social system formed by groups of robots which interact with one another through their in-built sound, vision, WiFi and Bluetooth networking capabilities.&lt;br/&gt;(c) Students from different disciplines and non-computer engineering or computer science backgrounds are able to participate effectively in solving complex mobile robotics-based problems using methods from Cognitive Science, Biology, Mechanical, Electrical and Computer Engineering.&lt;br/&gt;(d) Students are able to use autoCoding methods to implement algorithms in embedded computers and are better prepared for the workplace.&lt;br/&gt;These assertions are rigorously evaluated by an advisory group of robotics and educational experts from the Academic, Industrial and K-12 STEM community.]]></AbstractNarration>
+<MinAmdLetterDate>02/11/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>02/11/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0837637</AwardID>
+<Investigator>
+<FirstName>Chandrasekhar</FirstName>
+<LastName>Nataraj</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chandrasekhar Nataraj</PI_FULL_NAME>
+<EmailAddress><![CDATA[nataraj@villanova.edu]]></EmailAddress>
+<NSF_ID>000423241</NSF_ID>
+<StartDate>02/11/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Frank</FirstName>
+<LastName>Klassner</LastName>
+<PI_MID_INIT>I</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Frank I Klassner</PI_FULL_NAME>
+<EmailAddress><![CDATA[frank.klassner@villanova.edu]]></EmailAddress>
+<NSF_ID>000220853</NSF_ID>
+<StartDate>02/11/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Peyton Jones</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James Peyton Jones</PI_FULL_NAME>
+<EmailAddress><![CDATA[james.peyton-jones@villanova.edu]]></EmailAddress>
+<NSF_ID>000205590</NSF_ID>
+<StartDate>02/11/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sarvesh</FirstName>
+<LastName>Kulkarni</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sarvesh Kulkarni</PI_FULL_NAME>
+<EmailAddress><![CDATA[sarvesh.kulkarni@villanova.edu]]></EmailAddress>
+<NSF_ID>000505577</NSF_ID>
+<StartDate>02/11/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Villanova University</Name>
+<CityName>VILLANOVA</CityName>
+<ZipCode>190851603</ZipCode>
+<PhoneNumber>6105194220</PhoneNumber>
+<StreetAddress>800 LANCASTER AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EYNYSU6L8ZX6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VILLANOVA UNIVERSITY IN THE STATE OF PENNSYLVANIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EYNYSU6L8ZX6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Villanova University]]></Name>
+<CityName>VILLANOVA</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>190851603</ZipCode>
+<StreetAddress><![CDATA[800 LANCASTER AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0409</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000910DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>1300CYXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~149995</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SGER: THE EFFECTS OF TEMPERATURE AND CONDUCTIVITY ON AQUEOUS PHASE ELECTRICAL DISCHARGE]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>56942</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Arvind Atreyae Atreya</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[CBET-0839984&lt;br/&gt;Locke&lt;br/&gt;&lt;br/&gt;A one-year exploratory research project builds on preliminary work studying electrical discharges in water. Such discharges are of fundamental and practical interest for various chemical, biomedical, and environmental applications. The key preliminary observation was that H2O2 is formed more slowly near the boiling point of low-conductivity water, where the discharge occurs in small water-vapor bubbles, and in higher-conductivity water, where the discharge appears to form and propagate on the inside of large water-vapor bubbles.  H2O2 is used as an indirect indicator of the formation of the active OH radicals.  &lt;br/&gt;&lt;br/&gt;The central hypothesis of the present work is that the much smaller density of water molecules in the bubble phase than in the condensed liquid phase causes the reduced H2O2.  In the research, H2, O2, H2O2, and OH formation will first be measured as functions of solution conductivity (up to 2000 ìS/cm), of temperature to 100 C, of the exposed area of the needle electrode, and of addition of various other gases (argon and oxygen) bubbled into the solution. The measurements of formation rates and stoichiometry will then used to test the mathematical model of electrical discharge channels in water previously reported by the group.&lt;br/&gt;&lt;br/&gt;A basic understanding of electrical discharge in water near the boiling point should provide insight into the fundamental processes occurring in electrical discharge in water and in gas-liquid environments and can lead to insight into how to develop such discharges for practical use.  Previous work has provided key information on the formation of electrical discharges in liquid water under ambient temperature and pressure conditions. However, while the effects of elevated pressure on liquid-phase water discharges have been reported, no previous work has been reported on electrical discharge in high-temperature water; that is, near boiling.]]></AbstractNarration>
+<MinAmdLetterDate>08/20/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/22/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839984</AwardID>
+<Investigator>
+<FirstName>Bruce</FirstName>
+<LastName>Locke</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bruce R Locke</PI_FULL_NAME>
+<EmailAddress><![CDATA[locke@eng.famu.fsu.edu]]></EmailAddress>
+<NSF_ID>000232534</NSF_ID>
+<StartDate>08/20/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida State University</Name>
+<CityName>TALLAHASSEE</CityName>
+<ZipCode>323060001</ZipCode>
+<PhoneNumber>8506445260</PhoneNumber>
+<StreetAddress>874 TRADITIONS WAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JF2BLNN4PJC3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D4GCCCMXR1H3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida State University]]></Name>
+<CityName>TALLAHASSEE</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>323060001</ZipCode>
+<StreetAddress><![CDATA[874 TRADITIONS WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1407</Code>
+<Text>CFS-Combustion &amp; Fire Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>062E</Code>
+<Text>Plasma-assisted combustion</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9237</Code>
+<Text>SMALL GRANTS-EXPLORATORY RSRCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~56942</FUND_OBLG>
+</Award>
+</rootTag>

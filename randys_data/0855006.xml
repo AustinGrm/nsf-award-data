@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[American Geophysical Union (AGU) Chapman Conference on Effects of Thunderstorms and Lightning in the Upper Atmosphere; University Park, Pennsylvania; May 10-14, 2009]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>45000.00</AwardTotalIntnAmount>
+<AwardAmount>45000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020201</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Farzad Kamalabadi</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project will partly support a Chapman Conference being held in University Park, Pennsylvania, from May 10 to 14, 2009 on the subject of ''Effects of Thunderstorms and Lightning in the Upper Atmosphere''. Transient optical flashes during thunderstorms were first discovered in 1989.  From this chance discovery, a new research field emerged which simultaneously encompasses meteorology and lightning, plasma and gas discharge physics, atmospheric chemistry, ionospheric physics, and energetic particle physics. Following the initial ground-based discovery in 1989, research quickly expanded to include extensive optical observations from the ground, from aircraft, balloons, the Space Shuttle, satellites and from the International Space Station.   At about the same time, an Earth-orbiting satellite observed transient gamma ray flashes of energy greater than 1 MeV emitted from some thunderstorm systems.  Subsequent observations pushed the energy range to beyond 20 MeV and showed that the associated thunderstorms tended to be tropical or low latitude systems.  These studies and an extensive body of follow-on research in each of these areas have revealed that large scale transient electrical breakdown is a fairly ubiquitous feature of the upper atmosphere above large thunderstorm systems.&lt;br/&gt;  &lt;br/&gt;The Chapman Conference focues on the effects of thunderstorms and lightning on the upper atmosphere and will cover a wide range of topics, including meteorology of sprite-associated lightning; gas breakdown and discharge processes; electromagnetic effects; energetic processes and radiation associated with lightning and terrestrial gamma ray flashes; photochemical, kinetic, and transport mechanisms; and observations, theory, and modeling of transient luminous events, including field and satellite experiments using optical, infrared, UV, FUV, and infrasound techniques, as well as descriptions and discussions of new techniques, trends, and experiments.   The meeting will have eight oral sessions, four poster sessions, with all posters on display for the duration of the conference,  and anticipates hosting 120 to 150 participants, including 30 to 40 students and young scientists.  Papers based on the presentations at the meeting will be published in a special section of the Journal of Geophysical Research, Space Physics.    The funds requested are largely to support the attendance of graduate students and young scientists.]]></AbstractNarration>
+<MinAmdLetterDate>03/26/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/26/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855006</AwardID>
+<Investigator>
+<FirstName>A. F.</FirstName>
+<LastName>Spilhaus, Jr.</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME>Jr.</PI_SUFX_NAME>
+<PI_FULL_NAME>A. F. Spilhaus, Jr.</PI_FULL_NAME>
+<EmailAddress><![CDATA[fspilhaus@agu.org]]></EmailAddress>
+<NSF_ID>000106642</NSF_ID>
+<StartDate>03/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Brenda</FirstName>
+<LastName>Weaver</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brenda L Weaver</PI_FULL_NAME>
+<EmailAddress><![CDATA[bweaver@agu.org]]></EmailAddress>
+<NSF_ID>000242443</NSF_ID>
+<StartDate>03/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>American Geophysical Union</Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>200091231</ZipCode>
+<PhoneNumber>2024626900</PhoneNumber>
+<StreetAddress>2000 FLORIDA AVE NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QSTAN1HJRXJ5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>AMERICAN GEOPHYSICAL UNION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[American Geophysical Union]]></Name>
+<CityName>WASHINGTON</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>200091231</ZipCode>
+<StreetAddress><![CDATA[2000 FLORIDA AVE NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0205000</Code>
+<Name>Space</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1521</Code>
+<Text>AERONOMY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1525</Code>
+<Text>Physical &amp; Dynamic Meteorology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~45000</FUND_OBLG>
+</Award>
+</rootTag>

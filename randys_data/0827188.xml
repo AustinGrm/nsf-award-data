@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SGER:  Research to Improve Communication by Pedagogical Agents]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>84129.00</AwardTotalIntnAmount>
+<AwardAmount>84129</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ephraim Glinert</SignBlockName>
+<PO_EMAI>eglinert@nsf.gov</PO_EMAI>
+<PO_PHON>7032924341</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[There is great need for accessible and effective intelligent tutoring systems that can improve learning by children and adults.  In this project, the PI will investigate the role of facial expressions and head movements produced by a lifelike animated character with the goal of indicating important information in a story or the emotions of the characters.  The PI's hypothesis is that stories in which the virtual storyteller emulates natural head movements and emotions will lead to increased engagement by subjects, more positive ratings of the storyteller, and better comprehension of the stories.  To validate the hypothesis, the PI will conduct experiments in which she manipulates the head movements and facial emotions of a virtual storyteller, so as to emphasize specific speech intervals or to provide emotional expression through the storyteller?s voice.  She will analyze videotapes of subjects listening to and looking at the storyteller to assess how attentive they are, and she will also employ questionnaires to measure the subjects? impressions of how believable, credible and human-like the virtual storyteller appears to be.  She will further ask subjects to summarize the stories they heard, and will then analyze the summaries both for comprehension and for recollection of emotional content.  By these means the PI expects to lay the foundation for a powerful new experimental approach for investigating engaging and effective communication by lifelike animated characters through speech, head movements and facial expression of emotions, and to derive important new insights about how voice and facial expressions can be combined in optimal ways to enable pedagogical agents to provide more believable and effective communication experiences.&lt;br/&gt;&lt;br/&gt;Broader Impacts:  This exploratory research will provide new insights and knowledge about the role of face and head gestures, and facial displays of emotion, on engagement and learning in intelligent tutoring programs that use lifelike pedagogical agents.  Project outcomes will inform the design of pedagogical agents that can produce more engaging and natural dialogs and narrations, which in turn will ultimately lead to more effective technology that benefits diverse learner groups across a wide range of application domains.]]></AbstractNarration>
+<MinAmdLetterDate>04/23/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/23/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0827188</AwardID>
+<Investigator>
+<FirstName>Jie</FirstName>
+<LastName>Yan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jie Yan</PI_FULL_NAME>
+<EmailAddress><![CDATA[jyan@bowiestate.edu]]></EmailAddress>
+<NSF_ID>000493683</NSF_ID>
+<StartDate>04/23/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Bowie State University</Name>
+<CityName>BOWIE</CityName>
+<ZipCode>207153319</ZipCode>
+<PhoneNumber>3018604399</PhoneNumber>
+<StreetAddress>14000 JERICHO PARK RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WMEEHCAPGR65</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BOWIE STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Bowie State University]]></Name>
+<CityName>BOWIE</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>207153319</ZipCode>
+<StreetAddress><![CDATA[14000 JERICHO PARK RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7367</Code>
+<Text>HCC-Human-Centered Computing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9215</Code>
+<Text>HIGH PERFORMANCE COMPUTING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~84129</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Whole Genome Sequencing and Annotation of Representative Strains of Spiroplasma Mirum]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>185000.00</AwardTotalIntnAmount>
+<AwardAmount>185000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08040000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EF</Abbreviation>
+<LongName>Emerging Frontiers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karen Cone</SignBlockName>
+<PO_EMAI>kccone@nsf.gov</PO_EMAI>
+<PO_PHON>7032924967</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Mollicutes are an evolutionarily interesting group of bacteria with small genomes and without cell walls; they typically live as parasites. Spiroplasma are unusual mollicutes in that these cells have a helical morphology and move in a corkscrew fashion. Spiroplasma mirum is a potential pathogen in animals and crustaceans. There is evidence that S. mirum has been associated with transmissible spongiform encephalopathies (TSE) of animals with significant implications to agricultural practices and human health. Also, spiroplasma are generally poorly studied at the molecular level. &lt;br/&gt;Drs. Frank Bastian and Ronald Thune of Louisiana State University Agricultural Center will be obtaining a finished, complete sequence of three spiroplasma genomes: Spiroplasma mirum, a rabbit tick isolate; a Spiroplasma sp. isolated recently from scrapie-infected sheep brain and closely related to S. mirum; and a non-pathogenic spiroplasma, Spiroplasma montanense. To this point, only partial Spiroplasma kunkelii and Spiroplasma citri genomes have been sequenced. However, these spiroplasma are plant pathogens and widely divergent from S. mirum. S. mirum is the only Spiroplasma sp. to experimentally cause persistent infection in animals, including mice, rats and ruminants. These investigators postulate that direct comparison of the genomes of S. mirum, an S. mirum-like spiroplasma from TSE-affected ruminant brain, and a non-pathogenic spiroplasma will provide evidence for the pathogenesis of TSE in some animals and in humans. Comparative studies by the Bastian lab of pathogenic animal spiroplasma and those infecting plants and insects will lead to the identification of S. mirum virulence genes. The Bastian/Thune project will have a number of education and outreach activities which will interweave with the research. First, a Ph.D. graduate student will be trained in microbial genomics and as a mentor for undergraduate students and by providing microbial genomics instruction to high school teachers. Second, the project will be supporting an undergraduate student through the Howard Hughes Program and a veterinary student through the LSU/SVM Summer Scholars Program as active participants in the research and in the Spiroplasma Genome workshop during the International Organization for Mycoplasmology (IOM) International Scientific Congress in 2010. Thirdly, the Bastian/Thune labs will be conducting 3-4 workshops for high school biology teachers, which will be providing training with a variety of online resources which can be accessed from their classrooms. Finally, the Bastian/Thune labs will be adding 3 complete spiroplasma genomes to the community database, which will increase understanding of spiroplasma biology in plant and animal diseases and in human health. These three genomes will permit comparative bioinformatic analysis of the previously sequenced S. kunkelii and S. citri genomes, as well as of other available mollicute sequences.]]></AbstractNarration>
+<MinAmdLetterDate>08/17/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/17/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0827012</AwardID>
+<Investigator>
+<FirstName>Frank</FirstName>
+<LastName>Bastian</LastName>
+<PI_MID_INIT>O</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Frank O Bastian</PI_FULL_NAME>
+<EmailAddress><![CDATA[Bastianfrank87@gmail.com]]></EmailAddress>
+<NSF_ID>000871597</NSF_ID>
+<StartDate>08/17/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ronald</FirstName>
+<LastName>Thune</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ronald Thune</PI_FULL_NAME>
+<EmailAddress><![CDATA[thune@vetmed.lsu.edu]]></EmailAddress>
+<NSF_ID>000312505</NSF_ID>
+<StartDate>08/17/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Louisiana State University Agricultural Center</Name>
+<CityName>BATON ROUGE</CityName>
+<ZipCode>708030001</ZipCode>
+<PhoneNumber>2255786030</PhoneNumber>
+<StreetAddress>104 J NORMAN EFFERSON HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>LA06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UF3LV6W2W6K9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>LOUISIANA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>Z7ZNZH7LJ778</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Louisiana State University Agricultural Center]]></Name>
+<CityName>BATON ROUGE</CityName>
+<StateCode>LA</StateCode>
+<ZipCode>708030001</ZipCode>
+<StreetAddress><![CDATA[104 J NORMAN EFFERSON HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>LA06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7187</Code>
+<Text>MICROBIAL GENOME SEQUENCING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9104</Code>
+<Text>ENVIRONMENTAL BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~185000</FUND_OBLG>
+</Award>
+</rootTag>

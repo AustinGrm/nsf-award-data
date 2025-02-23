@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Doctoral Dissertation Research: Detecting Anthropogenic Forest Disturbances and Understory Density for the Study of Hantavirus in Paraguay]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>11598.00</AwardTotalIntnAmount>
+<AwardAmount>11598</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ezekiel Kalipeni</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Landscape epidemiology is the study of the effect that landscape has on disease occurrence, transmission, and persistence. Hence, the quality of landscape epidemiology research frequently depends on the accuracy and reliability of land cover information. For zoonotic diseases, this means a needed focus on the aspects of the landscape that form the habitat of the host. Hantavirus, a zoonotic virus hosted by rodents of the murine family, is one example of an etiological organism whose dynamics are known to be related to landscape factors. With some hantavirus reservoir species, forest disturbances are important factors in disease transmission. Frequently, land cover maps developed using existing remote sensing techniques consider only the binary distinction between forested and deforested cover. Based on ongoing research, it appears that forests with intermediate disturbances are in fact one of the key habitat types associated with high hantavirus prevalence in rodent communities. Improved methods are therefore needed to differentiate levels of disturbance remotely, in order to map areas at risk for the occurrence and spread of hantavirus. This research will address the question: How can we improve landcover mapping of different types of forest and forest disturbances to facilitate landscape epidemiology studies of hantavirus in the Paraguayan Atlantic Forest? Selected plots representing a gradient of forest disturbance within the Mbaracayu Biosphere in Paraguay will be field surveyed to determine understory and canopy structure and composition. Each sample plot will have a nested sub-plot design, with 100x100m plots to measure trees, a smaller plot in the center to measure shrub density, and nine subplots to measure ground cover. These field data will be used to relate the canopy and understory structures, as determined in the field plots, to remotely sensed landscape metrics derived from object-oriented image analysis at a variety of spatial scales. It is expected that this study will lead to improved estimation of forest disturbances and differences in understory density using remotely sensed imagery, with implications for studying diseases. &lt;br/&gt;&lt;br/&gt;The research in this project will more closely tie the use of remotely sensed data to landscape epidemiology applications. The developed techniques will be applicable to analyzing remotely sensed data in a way that is more useful to studying the ecology of hantavirus, as well as a range of other zoonotic diseases. Additionally, the techniques will be generally applicable to landscape ecology and biogeography studies in forested landscapes. Currently, detecting deforestation with remotely sensed data often is treated as a binary task, forested and deforested, but in reality, there are many levels of forest disturbance that can be important to various natural systems. This research will improve the ability to detect and map different levels and kinds of forest disturbance, enabling more detailed analysis of the ecological effect of those disturbances. Other potential benefits of this study include improved understanding of the Atlantic forest in Eastern Paraguay, a little known and endangered ecosystem and biodiversity hotspot. As a Doctoral Dissertation Research Improvement award, this award also will provide support to enable a promising student to establish a strong independent research career.]]></AbstractNarration>
+<MinAmdLetterDate>06/17/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/17/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0826297</AwardID>
+<Investigator>
+<FirstName>Douglas</FirstName>
+<LastName>Goodin</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Douglas G Goodin</PI_FULL_NAME>
+<EmailAddress><![CDATA[dgoodin@ksu.edu]]></EmailAddress>
+<NSF_ID>000417332</NSF_ID>
+<StartDate>06/17/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Koch</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David Koch</PI_FULL_NAME>
+<EmailAddress><![CDATA[dkoch@ksu.edu]]></EmailAddress>
+<NSF_ID>000334659</NSF_ID>
+<StartDate>06/17/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Kansas State University</Name>
+<CityName>MANHATTAN</CityName>
+<ZipCode>665061103</ZipCode>
+<PhoneNumber>7855326804</PhoneNumber>
+<StreetAddress>1601 VATTIER STREET</StreetAddress>
+<StreetAddress2><![CDATA[103 FAIRCHILD HALL]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<StateCode>KS</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KS01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CFMMM5JM7HJ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>KANSAS STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Kansas State University]]></Name>
+<CityName>MANHATTAN</CityName>
+<StateCode>KS</StateCode>
+<ZipCode>665061103</ZipCode>
+<StreetAddress><![CDATA[1601 VATTIER STREET]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KS01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1352</Code>
+<Text>Geography and Spatial Sciences</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1352</Code>
+<Text>GEOGRAPHY AND SPATIAL SCIENCES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~11598</FUND_OBLG>
+</Award>
+</rootTag>

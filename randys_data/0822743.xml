@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II:  (IT-B5) Feasibility to run novel voice interface on a low-power microcontroller</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Glenn H. Larsen</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research (SBIR) Phase II research project will implement a miniature information management system that is suitable to the access requirements for visually impaired users. Current information technologies for the visually impaired are slow and difficult to operate while holding a white cane or guide dog. Visually impaired people will benefit greatly from a hands-free/eyes-free information system that is much faster to operate and easier to access. The project will develop a voice-operated personal digital assistant (PDA), called Vivian, which performs 10 times faster than Braille PDAs. The outcome of the Phase I study demonstrated the feasibility of real-time speech processing algorithms on integrated microcontrollers without hardware floating-point arithmetic. The outcome of this Phase II project is anticipated to result in a wearable device similar to a state of the art media player with 10X faster processing and 10X smaller in size.&lt;br/&gt;&lt;br/&gt;With more than 160 million visually impaired people worldwide, 10 million in the US alone, the proposed research is a critical step towards a device that will address their mobile information management needs significantly better than current alternatives. Moreover, this device should impact mobile information management for sighted people. The results of usability trials with sighted users speaking multiple languages conducted during the Phase I project, indicate that the outcomes of a powerful and fast alternative human computer interface to graphical user interfaces for sighted and visually impaired users. Additionally, this voice technology is suitable for integration into mobile appliances such as mobile phones for which over 300 million were sold in 2007.</AbstractNarration>
+<MinAmdLetterDate>08/14/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/14/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0822743</AwardID>
+<Investigator>
+<FirstName>Seth</FirstName>
+<LastName>Cameron</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Seth Cameron</PI_FULL_NAME>
+<EmailAddress>seth@cameronsound.com</EmailAddress>
+<PI_PHON>8014740134</PI_PHON>
+<NSF_ID>000412245</NSF_ID>
+<StartDate>08/14/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CameronSound, LLC</Name>
+<CityName>Great Falls</CityName>
+<ZipCode>594043685</ZipCode>
+<PhoneNumber>8014740134</PhoneNumber>
+<StreetAddress>2004 Centennial Dr.</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<StateCode>MT</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MT00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[CameronSound, LLC]]></Name>
+<CityName>Great Falls</CityName>
+<StateCode>MT</StateCode>
+<ZipCode>594043685</ZipCode>
+<StreetAddress><![CDATA[2004 Centennial Dr.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MT00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1654</Code>
+<Text>HUMAN COMPUTER INTERFACE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9215</Code>
+<Text>HIGH PERFORMANCE COMPUTING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~500000</FUND_OBLG>
+</Award>
+</rootTag>

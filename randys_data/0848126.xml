@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RUI:  Radical Reactions of Transition Metal-Arene Complexes</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090003</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tingyu Li</SignBlockName>
+<PO_EMAI>tli@nsf.gov</PO_EMAI>
+<PO_PHON>7032924949</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project will continue work on the development of methods for the formation of C-C bonds using previously undiscovered radical processes.  More specifically, the project will study reactions at the interface of two important subdisciplines of organic chemistry, radical-based organic synthesis and transition metal-arene complexes.  While transition metals have been used extensively to modify the ionic reactivity of bound organic molecules, very little study has been made of the radical reactions of such systems.  This project will address this shortcoming in the chemical literature through the systematic study of a series of transition metal complexes to determine their utility in radical processes.&lt;br/&gt;&lt;br/&gt;With this award, the Organic and Macromolecular Chemistry Program is supporting the research of Professor Jeffrey Byers and six undergraduate summer research assistants in the Department of Chemistry and Biochemistry at Middlebury College.  Since both transition metal-promoted processes and radical processes are of significant importance to the chemical industry, this work could open up new avenues for the efficient generation of complex molecules of broad applicability and importance.  The possible applications of this methodology include any of the disciplines related to the petrochemical industry, including such diverse fields as pharmaceuticals, agricultural chemicals, and materials science.</AbstractNarration>
+<MinAmdLetterDate>02/23/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>02/23/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0848126</AwardID>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Byers</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeffrey H Byers</PI_FULL_NAME>
+<EmailAddress>byers@middlebury.edu</EmailAddress>
+<NSF_ID>000187106</NSF_ID>
+<StartDate>02/23/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Middlebury College</Name>
+<CityName>MIDDLEBURY</CityName>
+<ZipCode>057536000</ZipCode>
+<PhoneNumber>8024435000</PhoneNumber>
+<StreetAddress>14 OLD CHAPEL ROAD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Vermont</StateName>
+<StateCode>VT</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VT00</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>020651675</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>PRESIDENT AND FELLOWS OF MIDDLEBURY COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>020651675</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Middlebury College]]></Name>
+<CityName>MIDDLEBURY</CityName>
+<StateCode>VT</StateCode>
+<ZipCode>057536000</ZipCode>
+<StreetAddress><![CDATA[14 OLD CHAPEL ROAD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Vermont</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VT00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1950</Code>
+<Text>METHODOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2009~225000</FUND_OBLG>
+</Award>
+</rootTag>

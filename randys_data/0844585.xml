@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Towards Autonomous Wheelchair Systems in Urban Environments]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>480000.00</AwardTotalIntnAmount>
+<AwardAmount>480000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Todd Leen</SignBlockName>
+<PO_EMAI>tleen@nsf.gov</PO_EMAI>
+<PO_PHON>7032927215</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA["This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5)."&lt;br/&gt;&lt;br/&gt;The aging U.S. population is expected to place unprecedented strains on the country?s health care system. To mitigate this, there is growing industry interest towards home-centered approaches to health care. Leveraging technology advances is seen as one of the primary enablers of the home-care paradigm. To this end, this project is investigating the development of smart wheelchair technologies. There are three significant technical components. The first is&lt;br/&gt;the use of large-scale, three-dimensional maps to support accurate wheelchair localization in outdoor, urban environments even in the absence of reliable GPS measurements. This is accomplished through automated synthesis of map models a priori to locate stable, robust landmark features that the wheelchair can use at runtime. The motivation is that by leveraging maps generated from high fidelity/cost sensor systems, lower-cost service robots gain many of the benefits of these sensors but without the cost. This is critical for the technology to be commercially viable in the future. The second is an optimization-based framework for motion planning in crowds that will enable the smart wheelchair to maneuver safely in the presence of large numbers of pedestrians and static/dynamic obstacles. This approach builds upon recent advances in convex optimization theory, and explicitly integrates higher-level models of wheelchair-pedestrian dynamics through interactive control functions to improve navigation performance. Finally, there is a significant development and test component planned through a collaboration with Good Shepherd Rehabilitation Hospital in Allentown, PA. This will provide critical service provider and end user input into system development.]]></AbstractNarration>
+<MinAmdLetterDate>06/09/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/12/2014</MaxAmdLetterDate>
+<ARRAAmount>480000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0844585</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Spletzer</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John R Spletzer</PI_FULL_NAME>
+<EmailAddress><![CDATA[john@boxrobotics.ai]]></EmailAddress>
+<NSF_ID>000221007</NSF_ID>
+<StartDate>06/09/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Lehigh University</Name>
+<CityName>BETHLEHEM</CityName>
+<ZipCode>180153008</ZipCode>
+<PhoneNumber>6107583021</PhoneNumber>
+<StreetAddress>526 BRODHEAD AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E13MDBKHLDB5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>LEHIGH UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Lehigh University]]></Name>
+<CityName>BETHLEHEM</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>180153008</ZipCode>
+<StreetAddress><![CDATA[526 BRODHEAD AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>Robust Intelligence</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1187</Code>
+<Text>PECASE- eligible</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9215</Code>
+<Text>HIGH PERFORMANCE COMPUTING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~480000</FUND_OBLG>
+</Award>
+</rootTag>

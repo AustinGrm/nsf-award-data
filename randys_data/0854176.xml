@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Wiyot Language Materials Project]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>65904.00</AwardTotalIntnAmount>
+<AwardAmount>65904</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040500</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Shobhana Chelliah</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA["This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5)." &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The goal of this project is to render the heterogeneous body of published and unpublished material on the Wiyot language accessible to and usable by both the academic community and the Wiyot tribal community.  Wiyot is an Algic language that was traditionally spoken in the Humboldt Bay area of northern California, where most of today's Wiyot people still reside.  Although the last fluent Wiyot speaker died more than forty years ago, the language is unusually well-documented  (by California standards), with two published grammars, a substantial body of published texts,  copious archived field notes elicited by several investigators, and audio recordings of fairly high quality.  These materials span most of the twentieth century and differ dramatically in quality, organization, orthography, and linguistic framework.  However, virtually all are notoriously difficult for linguists to use and, as a practical matter, incomprehensible to anyone else.  &lt;br/&gt;&lt;br/&gt;By digitizing all of the archival Wiyot materials in the form of a searchable electronic language database, our project will take the necessary first step toward the creation of the first dictionary and the first usable and reasonably complete reference grammar for this language.  This database will be a major contribution to the fields of historical and typological linguistics, and will be indispensable for the current nascent Wiyot language revitalization efforts.]]></AbstractNarration>
+<MinAmdLetterDate>08/25/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/25/2009</MaxAmdLetterDate>
+<ARRAAmount>65904</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0854176</AwardID>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Weigel</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME>PhD</PI_SUFX_NAME>
+<PI_FULL_NAME>William F Weigel</PI_FULL_NAME>
+<EmailAddress><![CDATA[bill.weigel@gmail.com]]></EmailAddress>
+<NSF_ID>000512671</NSF_ID>
+<StartDate>08/25/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lynnika</FirstName>
+<LastName>Butler</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME>MA</PI_SUFX_NAME>
+<PI_FULL_NAME>Lynnika G Butler</PI_FULL_NAME>
+<EmailAddress><![CDATA[lynnika@wiyot.us]]></EmailAddress>
+<NSF_ID>000512674</NSF_ID>
+<StartDate>08/25/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Wiyot Tribe</Name>
+<CityName>LOLETA</CityName>
+<ZipCode>955519640</ZipCode>
+<PhoneNumber>7077335055</PhoneNumber>
+<StreetAddress>1000 WIYOT DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ZUQGAQ428S99</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WIYOT TRIBE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Wiyot Tribe]]></Name>
+<CityName>LOLETA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>955519640</ZipCode>
+<StreetAddress><![CDATA[1000 WIYOT DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7719</Code>
+<Text>DEL</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7719</Code>
+<Text>DEL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~65904</FUND_OBLG>
+</Award>
+</rootTag>

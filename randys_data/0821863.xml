@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Development of Single-Molecule NEMS Mass Spectrometry]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>620000.00</AwardTotalIntnAmount>
+<AwardAmount>620000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vicki Martin</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[A grant has been awarded to California Institute of Technology under the supervision of Professor Michael Roukes to develop instrumentation for next-generation mass spectrometry based on nanoelectromechanical systems (NEMS). NEMS devices, given their extremely minute size, are exquisitely sensitive to added mass -- even down to the addition of individual molecules. These sensors now form the basis for a new approach to molecular identification, NEMS-based mass spectrometry (NEMS-MS), for resolving vast numbers of molecules, one-by-one.  This project will culminate in assembly of benchtop NEMS-MS systems and their automated control electronics. In domestic and international collaborations with leaders in proteomics mass spectrometry, these systems will enable pioneering, benchmarking studies of NEMS-MS proteomics, ultimately carried out on individual cells.&lt;br/&gt;&lt;br/&gt;Research in the life sciences and medicine now requires significant technological innovation to proceed from the post-genomics era to new frontiers in single-molecule proteomics.  Especially important, and especially challenging, is research in ?systems biology?, which strives to elucidate the deterministic biochemical ?circuit diagrams? for living systems.  These ?circuits? hierarchically encompass the entire organism -- from organs, to individual cells, down to cascades of individual molecular processes within cells that give them their function.  Through advanced and, of necessity, massively-detailed measurements it will ultimately become possible to assemble complex blueprints for living systems, down to their fine details, routinely. This will provide an unparalleled window into how living systems function and, thus, provide unprecedented predictive power. Such deterministic research on biological systems will ultimately help engender predictive and personalized medicine based upon a person?s genetic predispositions and present physiological state.  NEMS-MS promises a new paradigm that is essential for such research: high-throughput biological mass spectrometry with single-molecule resolution.  &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/17/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/17/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0821863</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Roukes</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael L Roukes</PI_FULL_NAME>
+<EmailAddress><![CDATA[roukes@caltech.edu]]></EmailAddress>
+<NSF_ID>000449135</NSF_ID>
+<StartDate>08/17/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Akshay</FirstName>
+<LastName>Naik</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Akshay Naik</PI_FULL_NAME>
+<EmailAddress><![CDATA[akshay@caltech.edu]]></EmailAddress>
+<NSF_ID>000499349</NSF_ID>
+<StartDate>08/17/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California Institute of Technology</Name>
+<CityName>PASADENA</CityName>
+<ZipCode>911250001</ZipCode>
+<PhoneNumber>6263956219</PhoneNumber>
+<StreetAddress>1200 E CALIFORNIA BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA28</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U2JMKHNS5TG4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CALIFORNIA INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[California Institute of Technology]]></Name>
+<CityName>PASADENA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>911250001</ZipCode>
+<StreetAddress><![CDATA[1200 E CALIFORNIA BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA28</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9184</Code>
+<Text>BIOTECHNOLOGY - INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~620000</FUND_OBLG>
+</Award>
+</rootTag>

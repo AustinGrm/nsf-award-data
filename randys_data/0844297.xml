@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SGER:  Integrating Distributed Energy Resources into Electricity Markets]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>69865.00</AwardTotalIntnAmount>
+<AwardAmount>69865</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>George Maracas</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The objective of the project is to advance the evolution of the electric power system to a distributed utility architecture by developing a pricing mechanism that will demonstrate the effectiveness of distributed energy resources in meeting the growing demand for electricity while decreasing the production of greenhouse gases and maintaining system reliability. The research project will develop and demonstrate a market signal drawing upon the concepts of frequency droop and own price elasticity in order to create a "price droop" signal. Simulations using this signal will demonstrate the ability of distributed energy resources, organized into microgrids and coordinated to act as a unified entity, to participate in electricity markets. The project will demonstrate the open-loop, multi-agent price droop signal through computer simulations. &lt;br/&gt;&lt;br/&gt;Intellectual Merit: &lt;br/&gt;&lt;br/&gt;The project advances the knowledge and understanding in the area of power engineering and economic theory. The contribution of this research will be (i) to expand the concept and design of a microgrid to include active demand response technologies, (ii) to develop the new price droop signal that allows customers and suppliers within a microgrid to participate in electricity markets, both locally and at the high voltage level, and (iii) to demonstrate the ability of distributed energy resources to help reduce overall power system greenhouse gas production. &lt;br/&gt;&lt;br/&gt;Broader Impacts: &lt;br/&gt;&lt;br/&gt;The research project will promote the increased use of microgrids by demonstrating the effectiveness of distributed energy resources (including renewable energy and demand response) in meeting the demand for clean and reliable electricity. &lt;br/&gt;&lt;br/&gt;Being based at Smith College, a women's undergraduate institution with an economically diverse student body, the project will involve underrepresented minorities in all aspects of the educational and research activities - the research project is designed to be accessible, yet also challenging, for participation by undergraduate students. In addition, the PI will develop and pilot course modules on renewable energy and customer demand response at the Smith College Campus School, an experimental K-6 school, located adjacent to Smith College, with strong ties to the engineering program.]]></AbstractNarration>
+<MinAmdLetterDate>08/19/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/19/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0844297</AwardID>
+<Investigator>
+<FirstName>Judith</FirstName>
+<LastName>Cardell</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Judith B Cardell</PI_FULL_NAME>
+<EmailAddress><![CDATA[jcardell@smith.edu]]></EmailAddress>
+<NSF_ID>000103193</NSF_ID>
+<StartDate>08/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Smith College</Name>
+<CityName>NORTHAMPTON</CityName>
+<ZipCode>010636304</ZipCode>
+<PhoneNumber>4135842700</PhoneNumber>
+<StreetAddress>10 ELM ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KRDJLRA9X6F3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF THE SMITH COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Smith College]]></Name>
+<CityName>NORTHAMPTON</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>010636304</ZipCode>
+<StreetAddress><![CDATA[10 ELM ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0306000</Code>
+<Name>Energy Research &amp; Resources</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7607</Code>
+<Text>EPCN-Energy-Power-Ctrl-Netwrks</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>104E</Code>
+<Text>MEMS/NEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9237</Code>
+<Text>SMALL GRANTS-EXPLORATORY RSRCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~69865</FUND_OBLG>
+</Award>
+</rootTag>

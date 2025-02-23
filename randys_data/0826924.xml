@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Single Cell Genome Sequencing of Uncultured Prokaryotes From the South Atlantic Mesopelagic]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>976747.00</AwardTotalIntnAmount>
+<AwardAmount>976747</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08040000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EF</Abbreviation>
+<LongName>Emerging Frontiers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karen Cone</SignBlockName>
+<PO_EMAI>kccone@nsf.gov</PO_EMAI>
+<PO_PHON>7032924967</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The mesopelagic zone of the ocean is 200 to 1000 m below the sea surface and contains about 25% of the global ocean volume. It harbors one of the largest and least understood of the Earth's ecosystems. This region receives the organic matter which rains down from the photic zone and is dominated by microorganisms whose activities are critical for ocean productivity - because they recycle nutrients - and for the global carbon cycle. This community also constitutes an untapped source of pharmaceuticals. Despite considerable interest in this deep-dwelling community, the biochemistry, physiology and evolutionary history of mesopelagic microbes remain enigmatic, largely due to access, the vast scale of the region and the limitations of research tools. As a new approach to the study of these deep dwelling communities, scientists at the Bigelow Laboratory for Ocean Sciences will employ single amplified genomics (SAG), a novel, transformative technology which enables the reconstruction of the entire genome of an uncultured microorganism collected from the environment. These scientists coupled SAG with flow cytometry, which is used for sorting cells, to apply this procedure in the ocean. This technology is transformative because, though many marine bacteria are not culturable, this limitation is now overcome because it allows these scientists to study a microbe (through its genome) without the need for first bringing the organism into culture. These investigators will use samples from the mesopelagic zone in the South Atlantic Gyre and through a careful screening procedure, produce hundreds of SAGs from these samples, which can then be sequenced. These researchers will be particularly interested in characterizing the identities and genomic composition of the microorganisms which are involved in the degradation of complex biomolecules and in the transformations of nitrogen compounds that control the productivity of the ocean. These SAG sequences will also be interrogated with metagenomic sequence datasets, such as the Global Ocean Survey dataset, to postulate the metabolism, physiology and evolutionary history of these organisms. The genomic information these scientists will gather from uncultured cells will lay the groundwork for microbial evolution and population genetics studies in the future. To promote development and broader use of this new technology, the investigators will be engaging postdoctoral associates and undergraduate students in the project, hosting SAG workshops, and establishing a web-based SAG discussion group. The SAG genome sequence library will also be an important community resource.]]></AbstractNarration>
+<MinAmdLetterDate>08/17/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0826924</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>McClellan</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David A McClellan</PI_FULL_NAME>
+<EmailAddress><![CDATA[dmcclellan@bigelow.org]]></EmailAddress>
+<NSF_ID>000428985</NSF_ID>
+<StartDate>08/17/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ramunas</FirstName>
+<LastName>Stepanauskas</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ramunas Stepanauskas</PI_FULL_NAME>
+<EmailAddress><![CDATA[rstepanauskas@bigelow.org]]></EmailAddress>
+<NSF_ID>000494157</NSF_ID>
+<StartDate>08/17/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Sieracki</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael E Sieracki</PI_FULL_NAME>
+<EmailAddress><![CDATA[MSieracki@Bigelow.org]]></EmailAddress>
+<NSF_ID>000234739</NSF_ID>
+<StartDate>08/17/2008</StartDate>
+<EndDate>06/30/2010</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Bigelow Laboratory for Ocean Sciences</Name>
+<CityName>EAST BOOTHBAY</CityName>
+<ZipCode>045445700</ZipCode>
+<PhoneNumber>2073152567</PhoneNumber>
+<StreetAddress>60 BIGELOW DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<StateCode>ME</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>ME01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DRTAEZWWJHM8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BIGELOW LABORATORY FOR OCEAN SCIENCES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Bigelow Laboratory for Ocean Sciences]]></Name>
+<CityName>EAST BOOTHBAY</CityName>
+<StateCode>ME</StateCode>
+<ZipCode>045445700</ZipCode>
+<StreetAddress><![CDATA[60 BIGELOW DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>ME01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7187</Code>
+<Text>MICROBIAL GENOME SEQUENCING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7187</Code>
+<Text>MICROBIAL GENOME SEQUENCING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9104</Code>
+<Text>ENVIRONMENTAL BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~976747</FUND_OBLG>
+</Award>
+</rootTag>

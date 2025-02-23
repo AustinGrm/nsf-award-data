@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER:  Governing Collaborative Science: Cyberinfrastructure, Scale, and Governance in the Networked Ecological Sciences]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>462249.00</AwardTotalIntnAmount>
+<AwardAmount>462249</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Frederick Kronz</SignBlockName>
+<PO_EMAI>fkronz@nsf.gov</PO_EMAI>
+<PO_PHON>7032927283</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This CAREER award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5). Investments in advanced computational infrastructure ("cyberinfrastructure" (CI)) represent a large and growing percentage of the U.S. science budget. Underwriting such investments are a number of broadly transformational claims: that new computational resources and paradigms will enable new modes of data-driven discovery and innovation; that new capacities for data storage and exchange will render scientific stocks of knowledge more durable, open and accessible; that CI will extend and improve science teaching and training at all educational levels; that CI will lead to new and efficient modes of distributed collaborative working in the sciences, notably in the form of novel "virtual organizations"; and that CI will improve the efficacy and openness of the science-society interface, better connecting researchers to citizens and public decision-makers.&lt;br/&gt;&lt;br/&gt;Such changes map and contribute to an ongoing transition from postwar "big science" towards "networked science" in which sociotechnical issues of scale, integration, and governance are central -- and routinely underappreciated by the computational backers and builders of the present cyberinfrastructure movement. This NSF CAREER award explores the dynamics and tensions of governance within two leading examples of highly distributed networked science: the long-standing Long-Term Ecological Research (LTER) Network, oriented to producing locally grounded, multi-decadal, and cross-disciplinary ecological research; and the emerging National Ecological Observatory Network (NEON), presently under construction with the ambitious goal of practicing interoperable, computationally-intensive, and continental-scale ecology. Drawing on theoretical traditions within and beyond science and technology studies (STS) and a novel combination of multi-scale ethnographic, historical, and network-analytic methods, this project promises important and practically beneficial advances in STS thinking around networked collaboration and computational change in the sciences.&lt;br/&gt;&lt;br/&gt;Intellectual Merit: This project deepens and extends long-standing STS concerns with: a) the integration of scientific knowledge and resources across multiple sites of practice; b) the formal and informal governance of scientific work, both "internal" (within and across specific worksites and "external" (vis-à-vis funders, decision-makers, and variously configured publics); and c) shifts in the practice of science associated with the introduction of new computational and organizational forms. It produces new and significant findings around the nature of scientific collaboration, and provides fuller understanding of the interplay between information infrastructures and the dynamics and tensions surrounding the practice and governance of science. Finally, the project leads to new methodological combinations -- in particular an integrated suite of comparative ethnographic, historical, and network-analytic methods -- suggesting new strategies for applying STS investigations to phenomena and scales beyond the field's canonical case study.&lt;br/&gt;&lt;br/&gt;Broader Impact: This study leads to both design- and policy-level prescriptions, and so contribute directly to NSF and other science funder efforts to develop more effective, dynamic, and responsive cyberinfrastructure for the sciences, both within and beyond the ecological sciences. In its attention to the external governing of networked science (including issues of network participation and exclusion), the project contributes to NSF goals of broadened and more equitable public participation in science. The project's extensive educational and outreach components -- including cross-disciplinary primary, undergraduate, and graduate training components; public lectures and science café; and multi-part public radio series -- extends the project's impact to a wider educational and public audience, including members of groups traditionally underrepresented within the sciences.]]></AbstractNarration>
+<MinAmdLetterDate>07/30/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/14/2014</MaxAmdLetterDate>
+<ARRAAmount>462249</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0847175</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Finholt</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thomas Finholt</PI_FULL_NAME>
+<EmailAddress><![CDATA[finholt@umich.edu]]></EmailAddress>
+<NSF_ID>000382396</NSF_ID>
+<StartDate>01/26/2012</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>Jackson</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Steven J Jackson</PI_FULL_NAME>
+<EmailAddress><![CDATA[sjj54@cornell.edu]]></EmailAddress>
+<NSF_ID>000488585</NSF_ID>
+<StartDate>03/14/2014</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>Jackson</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Steven J Jackson</PI_FULL_NAME>
+<EmailAddress><![CDATA[sjj54@cornell.edu]]></EmailAddress>
+<NSF_ID>000488585</NSF_ID>
+<StartDate>07/30/2009</StartDate>
+<EndDate>01/26/2012</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Michigan - Ann Arbor</Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>1109 GEDDES AVE, SUITE 3300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091079</ZipCode>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7603</Code>
+<Text>STS-Sci, Tech &amp; Society</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1187</Code>
+<Text>PECASE- eligible</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7567</Code>
+<Text>SOC STUDIES OF SCI, ENG &amp; TECH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~462249</FUND_OBLG>
+</Award>
+</rootTag>

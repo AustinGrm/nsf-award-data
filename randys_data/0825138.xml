@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Memorandum of Understanding - NIST and the NCC (Ernest McDuffie)</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>214847.00</AwardTotalIntnAmount>
+<AwardAmount>919100</AwardAmount>
+<AwardInstrument>
+<Value>Contract Interagency Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>12000000</Code>
+<Directorate>
+<Abbreviation>NCO</Abbreviation>
+<LongName>National Coordination Office</LongName>
+</Directorate>
+<Division>
+<Abbreviation>NCO</Abbreviation>
+<LongName>National Coordination Office</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Virginia Moore</SignBlockName>
+<PO_EMAI>vmoore@nsf.gov</PO_EMAI>
+<PO_PHON>7032927929</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration/>
+<MinAmdLetterDate>03/10/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>03/15/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM/>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0825138</AwardID>
+<Investigator>
+<FirstName>Dinah</FirstName>
+<LastName>Wynne</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dinah Wynne</PI_FULL_NAME>
+<EmailAddress>dinah.wynne@nist.gov</EmailAddress>
+<PI_PHON>3019752905</PI_PHON>
+<NSF_ID>000199260</NSF_ID>
+<StartDate>03/10/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>NIST/Center for Atomic Molecular and Optical Physics</Name>
+<CityName>Gaithersburg</CityName>
+<ZipCode>208990001</ZipCode>
+<PhoneNumber/>
+<StreetAddress>100 Bureau Dr Bldg 101</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[NIST/Center for Atomic Molecular and Optical Physics]]></Name>
+<CityName>Gaithersburg</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>208990001</ZipCode>
+<StreetAddress><![CDATA[100 Bureau Dr Bldg 101]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1280</Code>
+<Text>NCO PROGRAM OFFICE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>HR01</Code>
+<Text/>
+</ProgramElement>
+<ProgramElement>
+<Code>S008</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0110</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809RB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001011DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~429694</FUND_OBLG>
+<FUND_OBLG>2009~304503</FUND_OBLG>
+<FUND_OBLG>2010~184903</FUND_OBLG>
+</Award>
+</rootTag>

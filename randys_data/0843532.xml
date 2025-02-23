@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Proton Translocation and Metal Chelation in Ferrochelatase</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>557428.00</AwardTotalIntnAmount>
+<AwardAmount>557428</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070400</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michele McGuirl</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;Intellectual Merit&lt;br/&gt;Heme is an essential cofactor for a wide variety of biologically important proteins including globins, cytochromes, transcription factors, peroxidases, catalases, and others. With few exceptions, organisms that possess heme-containing proteins possess the biosynthetic machinery to synthesize their own heme and do not acquire heme from their diet. Inability to synthesize heme is lethal for most organisms. The importance of the metabolic synthesis of heme is underscored by recent evidence revealing that heme is also a regulator of a number of other metabolic processes. In this exciting new role, these "heme sensors" must detect and respond to heme but not bind it permanently. The terminal step in the seven step biosynthetic pathway, the insertion of ferrous iron into protoporphyrin to make protoheme (heme), is catalyzed by the enzyme ferrochelatase. In animals this membrane-associated enzyme is located on the matrix side of the inner mitochondrial membrane with its active site facing into the membrane. This is in contrast to the bacterial ferrochelatases that are quite soluble.   At the heart of this investigation is the development of biophysical tools and techniques to directly monitor proton translocation as well as metal binding and chelation in porphyrin macrocycles.  &lt;br/&gt;&lt;br/&gt;The implications of such technology and experimental findings have much broader implications because proton binding/transfer is a critical element of the vast majority of biochemical reactions and many essential biochemical processes.  In addition, it is now widely recognized that metals play a critical role in approximately 30 percent of all known enzymatic reactions.  Taking advantage of the catalytic diversity found in nature will be critical to sustaining the quality of life humanity currently enjoys in the absence of abundant fossil fuels.&lt;br/&gt;&lt;br/&gt;Due to the broad importance of the chelation reaction under investigation here, the experiments outlined in this project will significantly advance our understanding of how metals are inserted into porphyrin cofactors in general. In addition, a unique aspect of this project is the application of organic synthesis and neutron diffraction to test specific hypotheses regarding the atomic details of porphyrin deprotonation, metal dehydration, and metal insertion. Given the established and emerging roles for porphyrin cofactors in numerous enzymes, metabolic pathways, as well as clinical applications, this work will have far reaching implications. In addition, the application of both neutron diffraction methods and organic synthesis to probe enzyme mechanism makes this project truly multidisciplinary and places this work at the cutting edge of scientific discovery that will lead to and support new technology development.&lt;br/&gt;&lt;br/&gt;Broader Impact&lt;br/&gt;In addition to the broader technological impacts, this research project offers an exceptional educational opportunity in the context of a multi-disciplinary approach to advancing discovery and understanding of structure-function relationships in enzyme function. Funding will support training of two PhD candidates and several undergraduate students in biophysical chemistry, structural biology, biochemistry, molecular biology and organic chemistry. In addition, this project will further advance the attraction of underrepresented minority students to the physical sciences through an affiliation with the Peach State Louis Stokes Alliance for Minority Participation (LSAMP) as well as the Center for Undergraduate Research Opportunities (CURO) programs.  Both of these programs have proven track records in helping these students find success in the professional fields of their choice.</AbstractNarration>
+<MinAmdLetterDate>06/30/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2009</MaxAmdLetterDate>
+<ARRAAmount>557428</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0843532</AwardID>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Lanzilotta</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>William N Lanzilotta</PI_FULL_NAME>
+<EmailAddress>wlanzilo@bmb.uga.edu</EmailAddress>
+<PI_PHON>7065421324</PI_PHON>
+<NSF_ID>000088474</NSF_ID>
+<StartDate>06/30/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Georgia Research Foundation Inc</Name>
+<CityName>ATHENS</CityName>
+<ZipCode>306021589</ZipCode>
+<PhoneNumber>7065425939</PhoneNumber>
+<StreetAddress>310 EAST CAMPUS RD TUCKER HALL R</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NMJHD63STRC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Georgia]]></Name>
+<CityName>ATHENS</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>306020001</ZipCode>
+<StreetAddress><![CDATA[310 E CAMPUS RD TUCKER HALL RM 4]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1144</Code>
+<Text>Molecular Biophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1166</Code>
+<Text>MOLECULAR BIOCHEMISTRY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~557428</FUND_OBLG>
+</Award>
+</rootTag>

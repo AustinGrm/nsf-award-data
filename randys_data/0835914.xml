@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>The Effect of Academic Policies on the Effectiveness and Efficiency of Achieving Student Outcomes</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EEC</Abbreviation>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alan Cheville</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This exploratory project will create a model of how an institution?s instructional culture and institutional infrastructure affect student outcomes through feedback to students. It will examine instructional culture and institutional infrastructure as manifested in academic policies, such as grade forgiveness, probation, or suspension, and structure such as the process of articulating to engineering, credit loads, or student-faculty ratio. In addition to the study of retention and graduation as outcomes, it will also explore time-to-graduation and rates of course repetition as measures of academic efficiency. This project builds on the work of the Multiple-Institution Database For Investigating Engineering Longitudinal Development (MIDFIELD) research team and creates a rare opportunity to study persistence, graduation, and other outcomes longitudinally while accounting for institutional differences. The MIDFIELD partnership will leverage resources and initiatives beyond the individual institutions.&lt;br/&gt;&lt;br/&gt;This project?s research and documentation of institutional policies will lay a foundation for the continued study of the effect of academic policy and structure on retention, graduation, and other educational outcomes. It will also expand the study of institutional differences identified in earlier work. The addition of new MIDFIELD database partners will support the concomitant development of a cadre of researchers using MIDFIELD in their own research. By engaging other researchers, the project also gains a broader perspective, dissemination partners, and, ideally, colleagues who will continue to do research using the MIDFIELD database. As the MIDFIELD partnership grows, the results will be more representative of the nation?s engineering education enterprise.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>08/18/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>01/15/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0835914</AwardID>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Ohland</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthew W Ohland</PI_FULL_NAME>
+<EmailAddress>ohland@purdue.edu</EmailAddress>
+<NSF_ID>000181324</NSF_ID>
+<StartDate>08/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>West Lafayette</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>2550 Northwestern Ave.</StreetAddress>
+<StreetAddress2><![CDATA[Suite 1900]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>072051394</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>072051394</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>West Lafayette</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479061332</ZipCode>
+<StreetAddress><![CDATA[2550 Northwestern Ave.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1340</Code>
+<Text>EngEd-Engineering Education</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>110E</Code>
+<Text>EDUCATION RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~150000</FUND_OBLG>
+</Award>
+</rootTag>

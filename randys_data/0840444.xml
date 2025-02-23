@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Purchase of an X-ray Diffractometer]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>349828.00</AwardTotalIntnAmount>
+<AwardAmount>349828</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090002</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos Murillo</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;With this award from the Chemistry Research Instrumentation and Facilities Multiuser Program (CRIF:MU), Professor R. David Britt and colleagues Alan L. Balch, Susan M. Kauzlarich, Mark J. Kurth, and Philip P. Power from the University of California-Davis will acquire an X-ray diffractometer with a low temperature device. This instrument will support research and education in areas such as the study of fullerenes, Zintl ions, metal-to-metal bonded species, inorganic and organometallic compounds, porphyrin related devices, and combinatorial medicinal chemistry.&lt;br/&gt;&lt;br/&gt;An X-ray diffractometer allows accurate and precise measurements of the full three dimensional structure of a molecule, including bond distances and angles, and provides accurate information about the spatial arrangement of a molecule relative to neighboring molecules. The studies described here will impact a number of areas, including chemistry, materials chemistry and biochemistry. This instrument will be an integral part of teaching as well as research.]]></AbstractNarration>
+<MinAmdLetterDate>07/26/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/26/2009</MaxAmdLetterDate>
+<ARRAAmount>349828</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0840444</AwardID>
+<Investigator>
+<FirstName>Alan</FirstName>
+<LastName>Balch</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alan L Balch</PI_FULL_NAME>
+<EmailAddress>albalch@ucdavis.edu</EmailAddress>
+<NSF_ID>2</NSF_ID>
+<RoleCode>Co-Principal Investigator</RoleCode>
+<StartDate/>
+<EndDate>2009.07.26</EndDate>
+<StartDateEpoch/>
+<EndDateEpoch>0</EndDateEpoch>
+<RecentPIFlag>000055949</RecentPIFlag>
+<ID>/saswrk/awdsrch/TEMP/2008/0840444</ID>
+</Investigator>
+<Investigator>
+<FirstName>Philip</FirstName>
+<LastName>Power</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Philip P Power</PI_FULL_NAME>
+<EmailAddress>pppower@ucdavis.edu</EmailAddress>
+<NSF_ID>2</NSF_ID>
+<RoleCode>Co-Principal Investigator</RoleCode>
+<StartDate/>
+<EndDate>2009.07.26</EndDate>
+<StartDateEpoch/>
+<EndDateEpoch>0</EndDateEpoch>
+<RecentPIFlag>000077849</RecentPIFlag>
+<ID>/saswrk/awdsrch/TEMP/2008/0840444</ID>
+</Investigator>
+<Investigator>
+<FirstName>Susan</FirstName>
+<LastName>Kauzlarich</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Susan M Kauzlarich</PI_FULL_NAME>
+<EmailAddress>smkauzlarich@ucdavis.edu</EmailAddress>
+<NSF_ID>2</NSF_ID>
+<RoleCode>Co-Principal Investigator</RoleCode>
+<StartDate/>
+<EndDate>2009.07.26</EndDate>
+<StartDateEpoch/>
+<EndDateEpoch>0</EndDateEpoch>
+<RecentPIFlag>000173993</RecentPIFlag>
+<ID>/saswrk/awdsrch/TEMP/2008/0840444</ID>
+</Investigator>
+<Investigator>
+<FirstName>Ralph</FirstName>
+<LastName>Britt</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ralph D Britt</PI_FULL_NAME>
+<EmailAddress>rdbritt@ucdavis.edu</EmailAddress>
+<NSF_ID>1</NSF_ID>
+<RoleCode>Principal Investigator</RoleCode>
+<StartDate/>
+<EndDate>2009.07.26</EndDate>
+<StartDateEpoch/>
+<EndDateEpoch>1</EndDateEpoch>
+<RecentPIFlag>000188355</RecentPIFlag>
+<ID>/saswrk/awdsrch/TEMP/2008/0840444</ID>
+</Investigator>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Kurth</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark J Kurth</PI_FULL_NAME>
+<EmailAddress>kurth@chem.ucdavis.edu</EmailAddress>
+<NSF_ID>2</NSF_ID>
+<RoleCode>Co-Principal Investigator</RoleCode>
+<StartDate/>
+<EndDate>2009.07.26</EndDate>
+<StartDateEpoch/>
+<EndDateEpoch>0</EndDateEpoch>
+<RecentPIFlag>269699119</RecentPIFlag>
+<ID>/saswrk/awdsrch/TEMP/2008/0840444</ID>
+</Investigator>
+<Institution>
+<Name>University of California-Davis</Name>
+<CityName>DAVIS</CityName>
+<ZipCode>956186153</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress>1850 RESEARCH PARK DR, STE 300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TX2DAGQPENZ5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, DAVIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Davis]]></Name>
+<CityName>DAVIS</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>956186153</ZipCode>
+<StreetAddress><![CDATA[1850 RESEARCH PARK DR, STE 300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1938</Code>
+<Text>Chemical Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1108</Code>
+<Text>INSTRUMENTAT &amp; INSTRUMENT DEVP</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9161</Code>
+<Text>SINGLE DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~349828</FUND_OBLG>
+</Award>
+</rootTag>

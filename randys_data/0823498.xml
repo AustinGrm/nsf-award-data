@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Linking Atmospheric and Ocean Circulation Variability to Abrupt Climate Change Over the Last 40 Kyr</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>307908.00</AwardTotalIntnAmount>
+<AwardAmount>317103</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040200</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Barbara Ransom</SignBlockName>
+<PO_EMAI>bransom@nsf.gov</PO_EMAI>
+<PO_PHON>7032927792</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Intellectual Merit:  This research seeks to identify the cause of the largest climate events of the last glacial cycle by using the geochemistry of the calcarious tests of planktonic and benthic foraminifera to reconstruct the timing of tropical/subtropical atmospheric circulation change in relation to variability in North Atlantic Meridional Overturning Circulation AMOC.  The work is motivated by recent findings that North Atlantic Ocean salinity changes during the last glacial cycle show that abrupt climate change events are associated with significant changes in the low-latitude hydrologic cycle, suggesting that tropical atmospheric circulation plays an important role in climate change. &lt;br/&gt;       Research will involve documenting past sea surface temperature and salinity as well as large-scale ocean circulation changes by using unique temperature and salinity proxies in foraminifera tests from sediment cores from the Florida Straits.  Proxies include Mg/Ca-paleothermometry, oxygen isotope analyses, and Ba/Ca ratios in planktonic (floating) foraminifera tests.  Companion data from benthic (seafloor dwelling) foraminiferal  records from the same cores will identify the timing of Florida Current transport changes across major climate transitions.  Because the relative timing between signals will be established in a single core, research goals will be to identify the influence on the subtropical/tropical Atlantic hydrologic cycle on the hydrologic cycle and to examine of abrupt climate events during the last glacial period were driven by atmospheric circulation change that then impacted AMOC.  &lt;br/&gt;&lt;br/&gt;Broader Impacts:  The recent rise in greenhouse gases in the atmosphere and their potential to strengthen the hydrologic cycle gives urgent need to better understanding the role of freshwater fluxes in ocean-atmosphere interactions. This research will help us understand past changes in the tropical hydrologic cycle during abrupt climate events. Furthermore, the companion high-resolution records of intermediate-water density changes have the potential to determine the rate and timing of large-scale ocean circulation change across the largest climate transitions of the last 40,000 years and can be used in climate modeles to predict how recent changes in the hydrologic cycle will alter global climate in the near future.  Data will be archived at the World Data Center for Paleoclimatology at NOAA in Boulder, Colorado. Results will be incorporated into graduate classes at Texas A&amp;M.  The work will support a graduate student and include the training of  undergraduates.  Efforts will be made to recruit undergraduates from groups under-represented in the science through Texas A&amp;M?s Department of Multicultural Services.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>09/04/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/10/2013</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0823498</AwardID>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Schmidt</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthew W Schmidt</PI_FULL_NAME>
+<EmailAddress>mwschmid@odu.edu</EmailAddress>
+<NSF_ID>000344545</NSF_ID>
+<StartDate>09/04/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M Research Foundation</Name>
+<CityName>College Station</CityName>
+<ZipCode>778454375</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress>400 Harvey Mitchell Parkway, S</StreetAddress>
+<StreetAddress2><![CDATA[Suite 300]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX17</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>078592789</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A &amp; M RESEARCH FOUNDATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>078592789</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&amp;M University]]></Name>
+<CityName>College Station</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>778454375</ZipCode>
+<StreetAddress><![CDATA[400 Harvey Mitchell Pkwy South]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0204000</Code>
+<Name>Oceanography</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1620</Code>
+<Text>Marine Geology and Geophysics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7699</Code>
+<Text>Integrat &amp; Collab Ed &amp; Rsearch</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1620</Code>
+<Text>MARINE GEOLOGY AND GEOPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2008~307908</FUND_OBLG>
+<FUND_OBLG>2009~9195</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Computational and Experimental Studies of Cellulose Degradation for the Production of Biofuels]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gregory Rorrer</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[CBET-0854463&lt;br/&gt;Khare&lt;br/&gt;&lt;br/&gt;Cellulose that is derived from biomass such as plant material provides an attractive renewable feedstock for the production of the biofuel ethanol.  The naturally occurring cellulose is a long chain polymeric molecule that is predominantly in semi-crystalline form.  In the process of enzymatic hydrolysis of cellulose for the production of ethanol, the polymeric cellulose molecule is broken down into shorter fragments in the first stage.  These fragments are further broken down by the action of enzymes to even shorter fragments leading to the disaccharide cellobiose and finally to the monosaccharide glucose; fermentation of these sugar molecules yields ethanol.  The short fragments of cellulose that are formed in the initial stage have been suggested to be attached to the surface of the crystalline cellulose and it is hypothesized that this phenomenon slows down the overall rate of enzymatic hydrolysis process.  The objective of this proposal is to determine the energetics of the process of separation of such cellulose fragments from the cellulose crystal surface.  The fundamental understanding gained in this study will be useful in the long term for increasing the rate of enzymatic hydrolysis of cellulose and thus increasing the rate of ethanol production from cellulose.  &lt;br/&gt;&lt;br/&gt;The proposed work will consist of an approach that will combine molecular simulation studies with experiments performed using atomic force microscopy (AFM).  Molecular simulations account for the detailed chemical interactions as well as the specific molecular structure of the system.  These simulations will be used to characterize the molecular pathway of the process of separating the cello-oligomer fragments from the surface of a cellulose crystal and the energy required for this process.  The simulation results will be validated against AFM measurements of the force required for separating cellulose fragments from the cellulose surface.  A detailed mechanistic understanding of the process of cello-oligomer separation from a cellulose crystal surface will be developed in this work.  &lt;br/&gt;&lt;br/&gt;If successful, the fundamental knowledge gained in the proposed work will lead to new strategies for increasing the rate of enzyme hydrolysis of cellulosic biomass and hence the ability for economical production of ethanol from cellulose.  This will have significant implications on removing the current, ever increasing dependence on fossil fuels.  The proposed work will involve multidisciplinary research in the areas of interfacial thermodynamics, organic chemistry and alternate energy sources.  The graduate students working on the project will receive interdisciplinary training in the techniques of molecular simulations, AFM measurements and chemical synthesis.]]></AbstractNarration>
+<MinAmdLetterDate>04/08/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>02/08/2013</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0854463</AwardID>
+<Investigator>
+<FirstName>Muhammad</FirstName>
+<LastName>Karim</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Muhammad N Karim</PI_FULL_NAME>
+<EmailAddress><![CDATA[nazkarim@tamu.edu]]></EmailAddress>
+<NSF_ID>000377384</NSF_ID>
+<StartDate>04/08/2009</StartDate>
+<EndDate>02/08/2013</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Guigen</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Guigen Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[guigen.li@ttu.edu]]></EmailAddress>
+<NSF_ID>000485976</NSF_ID>
+<StartDate>04/08/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Brandon</FirstName>
+<LastName>Weeks</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brandon L Weeks</PI_FULL_NAME>
+<EmailAddress><![CDATA[brandon.weeks@ttu.edu]]></EmailAddress>
+<NSF_ID>000452491</NSF_ID>
+<StartDate>04/08/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rajesh</FirstName>
+<LastName>Khare</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rajesh S Khare</PI_FULL_NAME>
+<EmailAddress><![CDATA[rajesh.khare@ttu.edu]]></EmailAddress>
+<NSF_ID>000238657</NSF_ID>
+<StartDate>04/08/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas Tech University</Name>
+<CityName>LUBBOCK</CityName>
+<ZipCode>79409</ZipCode>
+<PhoneNumber>8067423884</PhoneNumber>
+<StreetAddress>2500 BROADWAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EGLKRQ5JBCZ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS TECH UNIVERSITY SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas Tech University]]></Name>
+<CityName>LUBBOCK</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>79409</ZipCode>
+<StreetAddress><![CDATA[2500 BROADWAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0306000</Code>
+<Name>Energy Research &amp; Resources</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7644</Code>
+<Text>EchemS-Electrochemical Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>002E</Code>
+<Text>Bio-energy</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>051E</Code>
+<Text>Interfacial trans &amp; thermodynamic</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>090E</Code>
+<Text>Chem/Bio and Physical Diagnostics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~300000</FUND_OBLG>
+</Award>
+</rootTag>

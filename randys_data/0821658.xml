@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Acquisition of Research and Education Equipment for Ultra-Wideband Wireless Sensor Network and Radar Sensing Integration]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>196000.00</AwardTotalIntnAmount>
+<AwardAmount>196000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lawrence Goldberg</SignBlockName>
+<PO_EMAI>lgoldber@nsf.gov</PO_EMAI>
+<PO_PHON>7032928339</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Objective:&lt;br/&gt;In this proposal, the acquisition of ultra-wideband (UWB) wireless sensor network and radar (Environmental) sensing integration equipment is proposed. The new lab equipment will form a UWB radar sensing system including an arbitrary waveform generator, real-time spectrum analyzer, and a digital phosphor oscilloscope. The new equipment will be integrated with the existing UWB sensor network at Tennessee Technological University (TTU). The equipment would provide a core facility for all academic departments and research centers at TTU. Primary users of the instruments, across different colleges, would be Center for Manufacturing Research, Department of Electrical and Computer Engineering, Department of Manufacturing and Industrial Technology, and Department of Earth Sciences.&lt;br/&gt;&lt;br/&gt;Intellectual Merit: &lt;br/&gt;Some projects are funded by NSF, ONR, or DoE. At this time, the PIs and the participating faculties are either waiting for the acquisition of the proposed facility or using off-campus equipment. The purchase of the dedicated state-of-the-art facilities at TTU would greatly enhance the participating faculties, productivity and ability in conducting the ongoing research and broaden their capacity to attract new projects or make new discoveries.&lt;br/&gt;&lt;br/&gt;Broad Impacts: &lt;br/&gt;TTU is a comprehensive university with a vibrant undergraduate research emphasis while offering a PhD degree program in engineering. It is a regional university serving Tennessee and the Upper Cumberland region. The proposed state-of-the-art equipment will enhance the undergraduate program through new course contents, curriculum, and design projects. It will promote faculty research, strengthen the PhD program, and offer necessary training in modern technology to graduate students.]]></AbstractNarration>
+<MinAmdLetterDate>06/30/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0821658</AwardID>
+<Investigator>
+<FirstName>Periasamy</FirstName>
+<LastName>Rajan</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Periasamy K Rajan</PI_FULL_NAME>
+<EmailAddress><![CDATA[pkrajan@tntech.edu]]></EmailAddress>
+<NSF_ID>000153817</NSF_ID>
+<StartDate>06/30/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ali</FirstName>
+<LastName>Alouani</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ali T Alouani</PI_FULL_NAME>
+<EmailAddress><![CDATA[aalouani@tntech.edu]]></EmailAddress>
+<NSF_ID>000346006</NSF_ID>
+<StartDate>06/30/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mohamed</FirstName>
+<LastName>Abdelrahman</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mohamed A Abdelrahman</PI_FULL_NAME>
+<EmailAddress><![CDATA[Mohamed.abdelrahman@csupueblo.edu]]></EmailAddress>
+<NSF_ID>000413432</NSF_ID>
+<StartDate>06/30/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peter Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[pli@tntech.edu]]></EmailAddress>
+<NSF_ID>000391853</NSF_ID>
+<StartDate>06/30/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Qiu</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert C Qiu</PI_FULL_NAME>
+<EmailAddress><![CDATA[rqiu@tntech.edu]]></EmailAddress>
+<NSF_ID>000176920</NSF_ID>
+<StartDate>06/30/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Tennessee Technological University</Name>
+<CityName>COOKEVILLE</CityName>
+<ZipCode>385050001</ZipCode>
+<PhoneNumber>9313723374</PhoneNumber>
+<StreetAddress>1 WILLIAM L JONES DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KZNHNMDUTJA5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TENNESSEE TECHNOLOGICAL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Tennessee Technological University]]></Name>
+<CityName>COOKEVILLE</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>385050001</ZipCode>
+<StreetAddress><![CDATA[1 WILLIAM L JONES DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0206000</Code>
+<Name>Telecommunications</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>094E</Code>
+<Text>Optoelectronic devices</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>106E</Code>
+<Text>Mixed signal technologies</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>109E</Code>
+<Text>Sys theory in biology &amp; medicine</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~196000</FUND_OBLG>
+</Award>
+</rootTag>

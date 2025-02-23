@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>III-COR-Small: Collaborative Research: Preference- And Context-Aware Query Processing for Location-based Database Servers</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>192868.00</AwardTotalIntnAmount>
+<AwardAmount>192868</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Frank Olken</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>The goal of this project is to turn existing location-based services to be preference- and context-aware. Enabling preference- and context-awareness will make location-based services more convenient to use by casual users and make the best use of technology advances in location-detection devices, wireless communication, and mobile computing. The project achieves its goals using the following approaches: (1) define a context taxonomy and build a system architecture to guide location-based query processors to be preference- and context-aware, (2) extend the SQL language with new constructs to define/manipulate preference and context, (3) develop new query processing techniques that integrate user preferences, user context, and database context, (4) develop query processing techniques that can make use of the surrounding user peers, (5) integrate the awareness of the continuous changes in the environmental context, like changes in the road network, into query processors, and (6) take into account data incompleteness and uncertainty in real life scenarios. PhD students pursue research in this project. Publications, technical reports, software and experimental data from this research will be disseminated via the project web site (http://www.cs.umn.edu/~mokbel/ContextAware).</AbstractNarration>
+<MinAmdLetterDate>08/13/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>12/20/2011</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0811954</AwardID>
+<Investigator>
+<FirstName>Walid</FirstName>
+<LastName>Aref</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Walid G Aref</PI_FULL_NAME>
+<EmailAddress>aref@cs.purdue.edu</EmailAddress>
+<NSF_ID>000235103</NSF_ID>
+<StartDate>12/20/2011</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mourad</FirstName>
+<LastName>Ouzzani</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mourad Ouzzani</PI_FULL_NAME>
+<EmailAddress>mourad@cs.purdue.edu</EmailAddress>
+<NSF_ID>000241303</NSF_ID>
+<StartDate>12/20/2011</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Walid</FirstName>
+<LastName>Aref</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Walid G Aref</PI_FULL_NAME>
+<EmailAddress>aref@cs.purdue.edu</EmailAddress>
+<NSF_ID>000235103</NSF_ID>
+<StartDate>08/13/2008</StartDate>
+<EndDate>12/20/2011</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mourad</FirstName>
+<LastName>Ouzzani</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mourad Ouzzani</PI_FULL_NAME>
+<EmailAddress>mourad@cs.purdue.edu</EmailAddress>
+<NSF_ID>000241303</NSF_ID>
+<StartDate>08/13/2008</StartDate>
+<EndDate>12/20/2011</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>West Lafayette</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>2550 Northwestern Ave.</StreetAddress>
+<StreetAddress2><![CDATA[Suite 1900]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>072051394</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>072051394</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>West Lafayette</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479061332</ZipCode>
+<StreetAddress><![CDATA[2550 Northwestern Ave.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>Info Integration &amp; Informatics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~192868</FUND_OBLG>
+</Award>
+</rootTag>

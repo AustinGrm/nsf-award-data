@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CP Violation and Rare-Decay Studies]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>287000.00</AwardTotalIntnAmount>
+<AwardAmount>287000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Randy Ruchti</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;This award provides support for a new program of research in elementary particle physics at George Mason University. The PI, Philip Rubin, will complete his research in charm physics with the CLEO-c collaboration and join in constructing an apparatus at CERN (NA62) to make extremely sensitive measurements of elements of the Cabibbo-Kobayashi-Maskawa (CKM) quark mixing matrix by measuring the decay rate of kaons to pizero-neutrino-neutrino-bar beginning with the charged kaon mode. Both the neutral and charged channels are clean but exacting probes of the Standard Model and of physics beyond this model. In particular, measurements of the rates of these channels will provide great insight into CP-violation, a symmetry breaking that permits the concentration of matter, and therefore the development of life, in the universe. Rubin and his group will work on the critical muon veto system, helping to refurbish NA48's hadron calorimeter and providing the monitoring and controls system. In the past, Rubin has conducted his research almost exclusively with undergraduate students. While continuing his commitment to providing exciting undergraduate experiences in research, his Department's new Ph.D. program, which commenced in Fall 2008, will allow for graduate students to be part of the high energy physics program. His additional outreach efforts are focused on student development and teacher training by developing interdisciplinary courses designed simultaneously to meet University graduation and Virginia state certification requirements.]]></AbstractNarration>
+<MinAmdLetterDate>08/10/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/10/2009</MaxAmdLetterDate>
+<ARRAAmount>287000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855393</AwardID>
+<Investigator>
+<FirstName>Philip</FirstName>
+<LastName>Rubin</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Philip D Rubin</PI_FULL_NAME>
+<EmailAddress><![CDATA[prubin@gmu.edu]]></EmailAddress>
+<NSF_ID>000176707</NSF_ID>
+<StartDate>08/10/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>George Mason University</Name>
+<CityName>FAIRFAX</CityName>
+<ZipCode>220304422</ZipCode>
+<PhoneNumber>7039932295</PhoneNumber>
+<StreetAddress>4400 UNIVERSITY DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EADLFP7Z72E5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGE MASON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EADLFP7Z72E5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[George Mason University]]></Name>
+<CityName>FAIRFAX</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>220304422</ZipCode>
+<StreetAddress><![CDATA[4400 UNIVERSITY DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1221</Code>
+<Text>HEP-High Energy Physics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~287000</FUND_OBLG>
+</Award>
+</rootTag>

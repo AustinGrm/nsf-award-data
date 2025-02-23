@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research:   NeTS-NECO:  Energy Replenishment for Wireless Sensor Networks]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>344510.00</AwardTotalIntnAmount>
+<AwardAmount>344510</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Thyagarajan Nandagopal</SignBlockName>
+<PO_EMAI>tnandago@nsf.gov</PO_EMAI>
+<PO_PHON>7032924550</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Abstract for proposal #0831874 &lt;br/&gt;Energy constraint has persisted as a fundamental problem in sensor networks, especially when the networks are required to operate for a long time. Although many solutions have been proposed to address the problem, their limitations are salient: resource-conservation schemes can slow down energy consumption but cannot compensate energy depletion; current environmental resource harvesting schemes have low, unstable efficiency due to uncontrollable environmental conditions and technological limitations; incremental deployment may cause environment pollution and may be too costly. This project leverages the emerging wireless energy charging technology to address the problem from a brand new perspective. Specifically, a hierarchical architecture is first proposed to include an energy provision station as the stable source of energy, a few autonomous mobile energy chargers, and a large number of sensor nodes. On top of the architecture, schemes are developed to solve a unique three-tier, long-term, multiple-time and on-line scheduling problem present in resource replenishment. The architecture and schemes are evaluated through prototyping and extensive experiments. The project will potentially transform the current research on energy management in sensor networks, improve the sensor network performance from both practical and theoretical aspects, and thus promote the wider application of sensor networks in structural health monitoring, smart factories, garden/orchid monitoring, road/traffic monitoring and so on. It will also train a diverse cadre of young scientists, students and professionals for network research and applications.  &lt;br/&gt; &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/21/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/21/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0831874</AwardID>
+<Investigator>
+<FirstName>Daji</FirstName>
+<LastName>Qiao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daji Qiao</PI_FULL_NAME>
+<EmailAddress><![CDATA[daji@iastate.edu]]></EmailAddress>
+<NSF_ID>000283633</NSF_ID>
+<StartDate>08/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Wensheng</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wensheng Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[wzhang@iastate.edu]]></EmailAddress>
+<NSF_ID>000227336</NSF_ID>
+<StartDate>08/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Iowa State University</Name>
+<CityName>AMES</CityName>
+<ZipCode>500112105</ZipCode>
+<PhoneNumber>5152945225</PhoneNumber>
+<StreetAddress>515 MORRILL RD, 1350 BEARDSHEAR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DQDBM7FGJPC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DQDBM7FGJPC5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Iowa State University]]></Name>
+<CityName>AMES</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>500112105</ZipCode>
+<StreetAddress><![CDATA[515 MORRILL RD, 1350 BEARDSHEAR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1640</Code>
+<Text>Information Technology Researc</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7747</Code>
+<Text>NETWORK ECOSYSTEMS (NECO)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~344510</FUND_OBLG>
+</Award>
+</rootTag>

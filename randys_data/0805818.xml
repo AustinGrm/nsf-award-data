@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Research Starter Grant: The Genetics of Complex Phenotypes in Drosophila]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010207</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy J. Huntly</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Most complex quantitative traits, such as growth rate, virulence, disease susceptibility, ageing or longevity, are actually multivariate trait suites comprised of smaller, individual elements. The evolution of such complex trait suites is predicted to be affected by the number of genes contributing to (co)variation within the trait suite, the strength and additivity of gene effects, and the degree and nature of interactions among these genes (i.e., the genetic architecture of the trait suite). Unfortunately, the genetic architecture of variation in complex, quantitative traits is largely unknown. The proposed research employs a novel introgression approach to isolate genomic regions responsible for variation in wing shape between two closely related Drosophila species. These regions will be identified by using a genome-wide, fine scale mapping approach. By combining this introgression and mapping approach, this research promises to reveal the complex, fine-scale genetic architecture of a model quantitative trait.&lt;br/&gt;&lt;br/&gt;The proposed research program represents a new way of studying the genetics of complex trait suites in animals and consequently, it will deliver methodologies that can be used to pry open elusive genetic architectures underlying variation in complex traits in other biological systems. This will generate the empirical data that are sorely needed to test predictions of the nascent, generalizable theory of development and evolution.  &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>06/13/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/13/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0805818</AwardID>
+<Investigator>
+<FirstName>W</FirstName>
+<LastName>Frankino</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>W A Frankino</PI_FULL_NAME>
+<EmailAddress><![CDATA[wafranki@central.uh.edu]]></EmailAddress>
+<NSF_ID>000315120</NSF_ID>
+<StartDate>06/13/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Houston</Name>
+<CityName>HOUSTON</CityName>
+<ZipCode>772043067</ZipCode>
+<PhoneNumber>7137435773</PhoneNumber>
+<StreetAddress>4300 MARTIN LUTHER KING BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QKWEF8XLMTT3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF HOUSTON SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Houston]]></Name>
+<CityName>HOUSTON</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>772043067</ZipCode>
+<StreetAddress><![CDATA[4300 MARTIN LUTHER KING BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7378</Code>
+<Text>EVOLUTIONARY GENETICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7184</Code>
+<Text>MINORITY POSTDOC RSRCH STARTER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7378</Code>
+<Text>EVOLUTIONARY GENETICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~50000</FUND_OBLG>
+</Award>
+</rootTag>

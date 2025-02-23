@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Workforce Management in Labor-Intensive Service Operations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>269601.00</AwardTotalIntnAmount>
+<AwardAmount>269601</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Edwin Romeijn</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Abstract for &lt;br/&gt;&lt;br/&gt;Collaborative Research: &lt;br/&gt;Workforce Management in Labor Intensive Service Operations?&lt;br/&gt;&lt;br/&gt;Noah Gans and Haipeng Shen&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The proposed research seeks to advance the state of knowledge concerning many of the fundamental drivers of performance in call centers and other labor-intensive services.  An important aim of this work is to integrate the use of rigorous and robust statistical methods into the development and analysis of capacity-management problems.  One set of projects develops methods that explicitly account for arrival-rate uncertainty when making capacity-planning decisions.  Distributional forecasting techniques are integrated with stochastic-programming alternatives to traditional, deterministic scheduling approaches.  This stochastic-programming approach allows for forecast updates, along with recourse actions.  A second set of projects is devoted to better understanding and managing the factors that drive agents' service-time distributions. Regression analysis techniques are used to more systematically understand how learning, shift fatigue, cross-training, and other factors affect the distribution of service times.  The results inform models of short-term staffing decisions, as well as of longer-term hiring and training, that more properly account for service-time heterogeneity across agents and over time.&lt;br/&gt;&lt;br/&gt;If successful, this data-driven approach will provide at least two benefits.  First, a detailed examination of the data will help to characterize important features of workforce management problems that are not well addressed by the current state of the art, either practically or theoretically.  Second, the careful application of advanced statistical techniques will enable the effective solution of these problems.  The research will lead to the development of new tools required for a detailed, rigorous analysis of these service data.  The data analysis, in turn, will enable the recasting of traditional workforce management models and the formulation of new problems of theoretical and practical interest.]]></AbstractNarration>
+<MinAmdLetterDate>04/24/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/24/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0800575</AwardID>
+<Investigator>
+<FirstName>Haipeng</FirstName>
+<LastName>Shen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Haipeng Shen</PI_FULL_NAME>
+<EmailAddress><![CDATA[haipeng@email.unc.edu]]></EmailAddress>
+<NSF_ID>000211121</NSF_ID>
+<StartDate>04/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina at Chapel Hill</Name>
+<CityName>CHAPEL HILL</CityName>
+<ZipCode>275995023</ZipCode>
+<PhoneNumber>9199663411</PhoneNumber>
+<StreetAddress>104 AIRPORT DR STE 2200</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>D3LHU66KBLD5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>N8DMK1K4C2K5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of North Carolina at Chapel Hill]]></Name>
+<CityName>CHAPEL HILL</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>275995023</ZipCode>
+<StreetAddress><![CDATA[104 AIRPORT DR STE 2200]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1787</Code>
+<Text>SERVICE ENTERPRISE SYSTEMS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>076E</Code>
+<Text>SERVICE ENTERPRISE SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9147</Code>
+<Text>GENERIC TECHNOL FOR MANUFACTURING CELLS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~269601</FUND_OBLG>
+</Award>
+</rootTag>

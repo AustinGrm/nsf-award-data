@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Development of non-toxic antifouling compounds targeting a key G-protein coupled receptor involved in settlement and metamorphosis of barnacles</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>124400</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gregory T. Baxter</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research (SBIR) Phase I project develops a novel, non-toxic, antifouling technology for the aquaculture industry. Unlike existing biocidal metal-based coatings, our technology is based on a class of compounds that inhibit the settlement, attachment, and/or metamorphosis of invertebrates on marine surfaces by modulating the activity of a specific nutrient-salinity sensing receptor found in fouling invertebrates. In initial testing, it was demonstrated that a class of compounds called calcimimetics act on these receptors and possess antifouling activity in barnacles in the lab and the field. These data will be refined utilizing a combination of approaches to identify antifoulants suitable for use in the aquaculture industry. Such a non-toxic antifouling system will either replace or dramatically reduce the metal content of current toxic alternatives.&lt;br/&gt;&lt;br/&gt;The broader impacts of this research are to benefit society by discovering a non-toxic solution to antifouling. This approach, if successful, will reduce the need for metal-based coatings that are toxic to many non-fouling organisms and to allow for increased aquaculture opportunities that are often in economically depressed areas. One of these areas is downeast Maine and as such this research is carried out in collaboration with the University of Maine. This partnership will form the basis for future private-public projects in Maine?s developing aquaculture industries.</AbstractNarration>
+<MinAmdLetterDate>11/12/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/29/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839550</AwardID>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>Jury</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Steven H Jury</PI_FULL_NAME>
+<EmailAddress>sjury@marical.biz</EmailAddress>
+<PI_PHON>2077732500</PI_PHON>
+<NSF_ID>000506279</NSF_ID>
+<StartDate>11/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>MariCal, Inc.</Name>
+<CityName>Portland</CityName>
+<ZipCode>041014660</ZipCode>
+<PhoneNumber>2077732500</PhoneNumber>
+<StreetAddress>400 Commercial St.</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<StateCode>ME</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>ME01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[MariCal, Inc.]]></Name>
+<CityName>Portland</CityName>
+<StateCode>ME</StateCode>
+<ZipCode>041014660</ZipCode>
+<StreetAddress><![CDATA[400 Commercial St.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>ME01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1179</Code>
+<Text>ENVIRONMENTAL IMPLICATIONS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5345</Code>
+<Text>BIOMEDICAL ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9117</Code>
+<Text>MARINE BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~124400</FUND_OBLG>
+</Award>
+</rootTag>

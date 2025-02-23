@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Planning Visit:   Engineering and Medical Research Collaboration on the Dynamics of Human Thyroid]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>3882.00</AwardTotalIntnAmount>
+<AwardAmount>3882</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne Emig</SignBlockName>
+<PO_EMAI>aemig@nsf.gov</PO_EMAI>
+<PO_PHON>7032927241</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This Planning Visit proposal will provide travel support for Dr. Yossi Chait, from the University of Massachusetts, to advance recent, online research collaboration with Dr. Antonio Traino, director of the Medical Physics Section in the Health Physics Unit at the University Hospital, Pisa, Italy.  Dr. Traino is a leading international researcher in the area of radiation therapy for Graves' disease with emphasis on optimal computation of radioactive iodine dose, and is arguably the most published researcher in this field during the past decade.  Dr. Chait?s research has focused on feedback control problems and more recently on formal analysis of thyroid's iodine metabolism dynamics through mathematical modeling.  Dr. Traino's group has been collecting data on the dynamics of activity and mass reduction in many patients treated at their hospital.  This data, not available elsewhere worldwide, offers the UMass research team a near ideal data base for identification of key mechanisms and structure in a patient-specific thyroid model.  The objective of this visit is to overcome the inherent differences between our respective disciplines (engineering and medical physics) facilitating face-to-face meetings.  This is expected to advance our level of collaboration, both professional and personally, to a point where in the near future we can explore numerous funding sources in Europe and in the USA for this line of work.&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/21/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/21/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.079</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0826982</AwardID>
+<Investigator>
+<FirstName>Yossi</FirstName>
+<LastName>Chait</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yossi Chait</PI_FULL_NAME>
+<EmailAddress><![CDATA[chait@ecs.umass.edu]]></EmailAddress>
+<NSF_ID>000275331</NSF_ID>
+<StartDate>07/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Massachusetts Amherst</Name>
+<CityName>AMHERST</CityName>
+<ZipCode>01003</ZipCode>
+<PhoneNumber>4135450698</PhoneNumber>
+<StreetAddress>COMMONWEALTH AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>VGJHK59NMPK9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MASSACHUSETTS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MLBQUML9JJT6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Massachusetts Amherst]]></Name>
+<CityName>AMHERST</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>01003</ZipCode>
+<StreetAddress><![CDATA[COMMONWEALTH AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7299</Code>
+<Text>Catalyzing New Intl Collab</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5920</Code>
+<Text>ITALY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5979</Code>
+<Text>Europe and Eurasia</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~3882</FUND_OBLG>
+</Award>
+</rootTag>

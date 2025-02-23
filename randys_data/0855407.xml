@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Searches for Transient Gravitational Wave Signals]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>302246.00</AwardTotalIntnAmount>
+<AwardAmount>302246</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Marronetti</SignBlockName>
+<PO_EMAI>pmarrone@nsf.gov</PO_EMAI>
+<PO_PHON>7032927372</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award supports research designed to extend the ability of the Laser Interferometer Gravitational-wave Observatory (LIGO) to detect gravitational wave signals from a variety of transient sources, including black hole mergers and core collapse supernovae. The enhanced searches for transient gravitational wave signals will employ the powerful technique of constrained signal reconstruction using data from a network of gravitational wave detectors. A key element of this approach is the development of constraints that describe prior knowledge of the signals. Information from numerical simulations of black hole mergers and core collapse supernovae will be used to construct source specific prior input. Once a detection has been made it is important that the signal be characterized values established for the parameters that describe the signal. This will be done through implementation of Markov Chain Monte Carlo sampling routines to study spinning black hole inspiral signals and un-modeled burst signals. These implementations will be integrated into the standard LIGO search pipelines using the existing infrastructure to compute signal likelihoods. These studies will be carried out in close collaboration with the LIGO Scientific Collaboration data analysis working groups. &lt;br/&gt;&lt;br/&gt;The majority of the gravitational wave signals that LIGO hopes to detect would pass by unnoticed, hidden in the instrument noise, without sophisticated data analysis techniques. Enhancements in data analysis can be just as valuable as hardware upgrades. The LIGO project presents young researchers and students with the opportunity to participate in the birth of a new observation science that is poised to make discoveries that will revolutionize astronomy and deliver unique insights into some of the Universe's most exotic phenomena. The research program supported by this award offers opportunities for graduate and undergraduate students to learn these data analysis techniques with potentially broader applicability. In addition, a lecture program on gravitational wave astronomy is being developed that will be taken to schools throughout Montana.]]></AbstractNarration>
+<MinAmdLetterDate>07/26/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/26/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855407</AwardID>
+<Investigator>
+<FirstName>Neil</FirstName>
+<LastName>Cornish</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Neil J Cornish</PI_FULL_NAME>
+<EmailAddress><![CDATA[cornish@physics.montana.edu]]></EmailAddress>
+<NSF_ID>000275421</NSF_ID>
+<StartDate>07/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Montana State University</Name>
+<CityName>BOZEMAN</CityName>
+<ZipCode>59717</ZipCode>
+<PhoneNumber>4069942381</PhoneNumber>
+<StreetAddress>216 MONTANA HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<StateCode>MT</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MT00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EJ3UF7TK8RT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MONTANA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>HD5YDTPGA865</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Montana State University]]></Name>
+<CityName>BOZEMAN</CityName>
+<StateCode>MT</StateCode>
+<ZipCode>59717</ZipCode>
+<StreetAddress><![CDATA[216 MONTANA HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MT00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1252</Code>
+<Text>LIGO RESEARCH SUPPORT</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9150</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7483</Code>
+<Text>PHYSICS OF THE UNIVERSE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~302246</FUND_OBLG>
+</Award>
+</rootTag>

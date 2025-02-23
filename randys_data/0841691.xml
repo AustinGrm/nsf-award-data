@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[REVSYS: Phylogenetic Systematics and the Taxonomic Revision of Sturgeons, (Actinopterygii:  Acipenseridae), an Endangered Family of Ray-finned fishes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>494603.00</AwardTotalIntnAmount>
+<AwardAmount>494603</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010206</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Mindell</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;Sturgeons, paddlefishes and their fossil relatives form a small group that is thought to have split off from other fishes early in the evolutionary history of ray-finned fishes, the group that contains approximately half of all vertebrate species alive today. The 25 living species of sturgeons are distinctive fishes, with five rows of bony plates along their bodies, elongate snouts, and shark-like tails. Many species of these so-called living fossils, which are found throughout the northern hemisphere, are difficult to distinguish from one another and most of these long-lived, highly migratory fishes are endangered or threatened. Hilton and his collaborator Dillman will conduct the first ever analysis of evolutionary relationships to include both morphological (primarily skeletal anatomy) and DNA data for all living and fossil sturgeon species. Together Hilton, Dillman, and an international team of sturgeon experts will conduct detailed taxonomic studies of every species of sturgeon based on new observations of specimens housed in natural history collections. This study will establish a new taxonomic classification of sturgeons, which will be used in many areas of their biology, including developmental, evolutionary, and conservation biology, and fisheries management.&lt;br/&gt;This project will support and train a postdoctoral researcher and a Ph.D. student in the methods and techniques of both morphological and molecular evolutionary biology and taxonomy. Hilton is active in programs focused on training of undergraduate and high school students, and public volunteers, all of which will be involved in this project. Sturgeons are culturally and economically important fishes (e.g., they are the source of caviar) and are of great interest to public audiences. Public outreach activities associated with this research, including displays at local and regional museums and aquaria, will target audiences at all scales (local to global) and will promote the crucial role that natural history collections, systematics, and taxonomy continue to play in 21st century biology.]]></AbstractNarration>
+<MinAmdLetterDate>08/18/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/18/2009</MaxAmdLetterDate>
+<ARRAAmount>494603</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0841691</AwardID>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Hilton</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eric J Hilton</PI_FULL_NAME>
+<EmailAddress><![CDATA[ehilton@vims.edu]]></EmailAddress>
+<NSF_ID>000099225</NSF_ID>
+<StartDate>08/18/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>College of William &amp; Mary Virginia Institute of Marine Science</Name>
+<CityName>GLOUCESTER POINT</CityName>
+<ZipCode>230622026</ZipCode>
+<PhoneNumber>8046847000</PhoneNumber>
+<StreetAddress>1375 GREATE RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>XGE9T6KCMSR4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIRGINIA INSTITUTE OF MARINE SCIENCE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[College of William &amp; Mary Virginia Institute of Marine Scien]]></Name>
+<CityName>GLOUCESTER POINT</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>230622026</ZipCode>
+<StreetAddress><![CDATA[1375 GREATE RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7374</Code>
+<Text>Systematics &amp; Biodiversity Sci</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1171</Code>
+<Text>PHYLOGENETIC SYSTEMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7375</Code>
+<Text>REVISIONARY SYSTEMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~494603</FUND_OBLG>
+</Award>
+</rootTag>

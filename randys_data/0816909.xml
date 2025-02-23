@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Message Passing Interface Forum]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>131250.00</AwardTotalIntnAmount>
+<AwardAmount>131250</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Almadena Chtchelkanova</SignBlockName>
+<PO_EMAI>achtchel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927498</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Message Passing Interface (MPI)  is de-facto standard for communications software used by scientific parallel applications community well over last 10 years. The current standard has a core of routines used for point-to-point and one-sided data exchange, blocking collective communications routines, remote parallel file access and dynamic process control. In addition, it provides support for features such as derived data types, communications contexts, process groups, and virtual process topologies. However, arrival of multicore- and heterogeneous chips pose a significant challenge for scientific community as they are porting and optimizing existing applications on new computational platforms.&lt;br/&gt;The proposed Message Passing Interface Forum addresses the continuation of activity focused on enhancing the MPI  for passing data between processes in a MIMD computing system, for parallel remote file operations and for dynamic process control of such parallel application programs. The work of this forum will produce a communications standard suitable for addressing the needs of applications on the next generation computing facilities at the Peta-Scale level and beyond]]></AbstractNarration>
+<MinAmdLetterDate>04/22/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/22/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0816909</AwardID>
+<Investigator>
+<FirstName>Jack</FirstName>
+<LastName>Dongarra</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jack J Dongarra</PI_FULL_NAME>
+<EmailAddress><![CDATA[dongarra@icl.utk.edu]]></EmailAddress>
+<NSF_ID>000299281</NSF_ID>
+<StartDate>04/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Tennessee Knoxville</Name>
+<CityName>Knoxville</CityName>
+<ZipCode>379163801</ZipCode>
+<PhoneNumber>8659743466</PhoneNumber>
+<StreetAddress>1331 CIR PARK DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FN2YCS2YAUW3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TENNESSEE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FN2YCS2YAUW3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Tennessee Knoxville]]></Name>
+<CityName>Knoxville</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>379163801</ZipCode>
+<StreetAddress><![CDATA[1331 CIR PARK DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>4080</Code>
+<Text>ADVANCED COMP RESEARCH PROGRAM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7684</Code>
+<Text>CESER-Cyberinfrastructure for</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~131250</FUND_OBLG>
+</Award>
+</rootTag>

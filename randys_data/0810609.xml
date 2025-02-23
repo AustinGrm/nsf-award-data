@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Solution Processed p-i-n type Multilayer White Emission OLED with High Power Efficiency and Long Lifetime</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2008</AwardExpirationDate>
+<AwardTotalIntnAmount>99972.00</AwardTotalIntnAmount>
+<AwardAmount>99972</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Juan E. Figueroa</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research (SBIR) Phase I project addresses a method to achieve low-cost, high performance multiple-layer organic light emitting devices (OLEDs) by solution process. OLED is emerging as a next-generation display and lighting technology, they have a number of intrinsic advantages over liquid crystal displays including brighter and clearer displays, large viewing angles, simpler construction, low cost, and fast response times. They also hold a promise to provide more energy-efficient solid state lighting sources featuring long lifetime, excellent color quality, novel designs, and significant energy and environmental savings. The simplicity of OLED device structures and the associated solution based, non-vacuum fabrication processing will lead to low fabrication costs. However, currently the efficiency of solution processed OLEDs is still too low for lighting applications. The PI and his team will use their expertise in this area to enhance the efficiency of OLEDs. &lt;br/&gt;&lt;br/&gt;If successful the commercial potential of the proposed technology is two-fold: solid state lighting and flat panel displays, including flexible displays. OLED based displays are encroaching on the currently liquid crystal dominated flat panel display market valued at tens of billions of dollars in 2007 with unprecedented attributes such as flexibility and transparency, unattainable from other display technologies. For solid state lighting (SSL), OLED intrinsically achieves higher lighting efficiency than conventional incandescent lamps and fluorescent tubes from the energy conversion standpoint, leading to significant energy and environmental savings. OLED based lighting also offers long lifetime, high color quality, and novel design features not available with current light sources. OLED based lighting is estimated to provide cumulative financial savings of $115 billion in the US alone by 2020. OLED lighting also promises to replace conventional light sources, with impressive environmental savings. SSL also serves US national interests. With rapid development and commercialization of high performance OLEDs, the US leadership in SSL will be assured. A new lighting industry will be created along with many new high quality jobs.</AbstractNarration>
+<MinAmdLetterDate>04/29/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/29/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0810609</AwardID>
+<Investigator>
+<FirstName>King</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>King Wang</PI_FULL_NAME>
+<EmailAddress>kwang@agiltron.com</EmailAddress>
+<PI_PHON>7819351200</PI_PHON>
+<NSF_ID>000304388</NSF_ID>
+<StartDate>04/29/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Agiltron Incorporated</Name>
+<CityName>WOBURN</CityName>
+<ZipCode>018011040</ZipCode>
+<PhoneNumber>7819351200</PhoneNumber>
+<StreetAddress>15 Presidential Way</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Agiltron Incorporated]]></Name>
+<CityName>WOBURN</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>018011040</ZipCode>
+<StreetAddress><![CDATA[15 Presidential Way]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; DEVICE TEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7257</Code>
+<Text>APPLICATS OF ADVANCED TECHNOLS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9139</Code>
+<Text>INFORMATION INFRASTRUCTURE &amp; TECH APPL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~99972</FUND_OBLG>
+</Award>
+</rootTag>

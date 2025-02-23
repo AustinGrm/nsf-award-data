@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Genetic Analysis of Behavioral Variation Among Wild and Domesticated Strains of Zebrafish.]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>426889.00</AwardTotalIntnAmount>
+<AwardAmount>426889</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090500</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michelle Elekonich</SignBlockName>
+<PO_EMAI>melekoni@nsf.gov</PO_EMAI>
+<PO_PHON>7032927202</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The process of animal domestication often causes profound changes in fear-related behaviors, with domesticated populations becoming substantially less fearful than their wild ancestors.  The evolution of reduced fearfulness occurs in numerous domesticated vertebrates, including birds, mammals, and fish, but very little is known about the genetic changes that drive this process. Are the genetic changes that occur during domestication always the same, or are there many different genetic paths leading to the same behavioral outcome? To address this question, researchers must first identify the genes that regulate fear related behaviors in vertebrates. The proposed research uses genetic techniques to identify the genes that are responsible for differences in fear-related behaviors among wild and domesticated populations of zebrafish.  In addition to being an important biomedical model, the zebrafish is also emerging as a powerful model in behavior genetics.  The results of this research will be important in many contexts, including the study of molecular mechanisms of behavioral evolution, the genetic basis of complex behaviors, and the effective conservation of captively reared species.  &lt;br/&gt;Broader impacts: The issue of captive rearing is particularly relevant to the Native American tribes of Idaho and the Northwest because of the Tribe's close economic and cultural ties to salmon fisheries.  To increase participation of Native American Students in the sciences, this research program will host two Native American high school students in the lab each summer.]]></AbstractNarration>
+<MinAmdLetterDate>08/07/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/23/2013</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0818904</AwardID>
+<Investigator>
+<FirstName>Barrie</FirstName>
+<LastName>Robison</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Barrie Robison</PI_FULL_NAME>
+<EmailAddress><![CDATA[brobison@uidaho.edu]]></EmailAddress>
+<NSF_ID>000063229</NSF_ID>
+<StartDate>08/07/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Drew</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert Drew</PI_FULL_NAME>
+<EmailAddress><![CDATA[rdrew@umassd.edu]]></EmailAddress>
+<NSF_ID>000563379</NSF_ID>
+<StartDate>08/07/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Idaho</Name>
+<CityName>MOSCOW</CityName>
+<ZipCode>838449803</ZipCode>
+<PhoneNumber>2088856651</PhoneNumber>
+<StreetAddress>875 PERIMETER DR MS 3020</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Idaho</StateName>
+<StateCode>ID</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>ID01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QWYKRJH5NNJ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF IDAHO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of the University of Idaho]]></Name>
+<CityName>MOSCOW</CityName>
+<StateCode>ID</StateCode>
+<ZipCode>838449803</ZipCode>
+<StreetAddress><![CDATA[875 PERIMETER DR MS 3020]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Idaho</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>ID01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7659</Code>
+<Text>Animal Behavior</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9150</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~426889</FUND_OBLG>
+</Award>
+</rootTag>

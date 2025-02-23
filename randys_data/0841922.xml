@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Arabidopsis 2010: 1O2-mediated and tetrapyrrole-dependent plastid-to-nucleus signaling pathways in higher plants]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>240000.00</AwardTotalIntnAmount>
+<AwardAmount>240000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090300</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Slocum</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Chloroplasts act as sensors of environmental changes that activate a broad range of stress defense responses. This activation requires the rapid transfer of signals from the plastid to the nucleus. So far, very little is known about how this chloroplast-nucleus communication takes place. The project includes work that will compare the physiological impact of two chloroplast-derived signals, singlet oxygen and tetrapyrroles, that have previously been implicated with the modulation of nuclear gene expression. The aims of the project are primarily the isolation and molecular characterization of signaling mutants . These will be instrumental in defining and eventually modifying  genetic constraints  that determine the adaptability of plants to environmental stress. The identification of genetic factors that determine the robustness  of plants to climatic changes is of immense importance to both agriculture and the environment. Results of the project will be made publicly available through the Web site (www.singlox.com/) of the investigator.  The research activities of the project will include the training of undergraduate students. The investigator will paticipate in the BTI summer internship program that strongly supports applications from students of minority groups (www.bti.cornell.edu/pgrp).]]></AbstractNarration>
+<MinAmdLetterDate>05/11/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>05/11/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0841922</AwardID>
+<Investigator>
+<FirstName>Klaus</FirstName>
+<LastName>Apel</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Klaus Apel</PI_FULL_NAME>
+<EmailAddress><![CDATA[kha24@cornell.edu]]></EmailAddress>
+<NSF_ID>000072341</NSF_ID>
+<StartDate>05/11/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Boyce Thompson Institute Plant Research</Name>
+<CityName>ITHACA</CityName>
+<ZipCode>148537202</ZipCode>
+<PhoneNumber>6072541248</PhoneNumber>
+<StreetAddress>533 TOWER RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ULBJY4YK9ZX8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BOYCE THOMPSON INSTITUTE FOR PLANT RESEARCH INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Boyce Thompson Institute Plant Research]]></Name>
+<CityName>ITHACA</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>148537202</ZipCode>
+<StreetAddress><![CDATA[533 TOWER RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7658</Code>
+<Text>Physiol Mechs &amp; Biomechanics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1228</Code>
+<Text>MINORITY INVOLVEMENT -- BIO</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1684</Code>
+<Text>THE 2010 PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~240000</FUND_OBLG>
+</Award>
+</rootTag>

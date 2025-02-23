@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Enabling Timely Revolutions in Organizational Performance]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>208957.00</AwardTotalIntnAmount>
+<AwardAmount>208957</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Brian Humes</SignBlockName>
+<PO_EMAI>bhumes@nsf.gov</PO_EMAI>
+<PO_PHON>7032927284</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This is a three-year study of multiple high-technology development and manufacturing organizations that are either succeeding or failing to achieve 'timely revolutions' in performance or that have succeeded or failed to do so in the past.  By timely revolutions, the researchers mean exceptional gains in performance at crucial moments, moments when improvements are most needed.  The ability to produce such gains at key moments can be extremely important for ensuring competitiveness.&lt;br/&gt;&lt;br/&gt;The study will examine (1) relationships between continuous improvement at the subsystem-level of an organization and radical improvement in performance at an organizational level; (2) interplay between innovative activities at the subsystem-level of an organization and those in its external economic environment; and (3) coordinative or natural (circadian) rhythms of subsystems and external economic forces.  The aim is to develop an empirically grounded model of the lifecycle of a high technology manufacturing process that enables practicing managers in multiple high technology industries to plan revolutions in organizational performance in advance and to time them to occur when they are needed most.  &lt;br/&gt;&lt;br/&gt;The findings of the proposed study should advance the state of knowledge in innovation and organizational sciences in general.  They should also be readily translated into practical insights for managers in high technology industries.]]></AbstractNarration>
+<MinAmdLetterDate>07/29/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/29/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0822062</AwardID>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Weber</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Charles M Weber</PI_FULL_NAME>
+<EmailAddress><![CDATA[webercm@pdx.edu]]></EmailAddress>
+<NSF_ID>000497936</NSF_ID>
+<StartDate>07/29/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Portland State University</Name>
+<CityName>PORTLAND</CityName>
+<ZipCode>972015522</ZipCode>
+<PhoneNumber>5037259900</PhoneNumber>
+<StreetAddress>1600 SW 4TH AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OR03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H4CAHK2RD945</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PORTLAND STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>H4CAHK2RD945</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Portland State University]]></Name>
+<CityName>PORTLAND</CityName>
+<StateCode>OR</StateCode>
+<ZipCode>972015522</ZipCode>
+<StreetAddress><![CDATA[1600 SW 4TH AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OR03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1321</Code>
+<Text>Decision, Risk &amp; Mgmt Sci</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1504</Code>
+<Text>GOALI-Grnt Opp Acad Lia wIndus</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5376</Code>
+<Text>INNOVATION &amp; ORG SCIENCES(IOS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~208957</FUND_OBLG>
+</Award>
+</rootTag>

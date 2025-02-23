@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>ITEST Study: Promoting STEM Career Interest in the Classroom: An Exploratory Study Linking Teacher Professional Development with Changes in Teaching Practices</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>1129730.00</AwardTotalIntnAmount>
+<AwardAmount>1129730</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DRL</Abbreviation>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Celestine Pea</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>&lt;br/&gt;Classroom students need to engage with innovative technologies (IT) in ways that better match computer literacy skills and applications in today?s workplace. The NSF-funded ITEST teacher professional development projects address this need by helping teachers effectively integrate real-world IT-based investigations into K-12 curriculum. This ITEST Study will examine the ways that ITEST teacher education projects lead to changes in classroom practice by using two teacher-role models to examine technology-based professional development and related changes in teaching practices: Teacher as Pedagogical Expert (teachers using existing technology-based curriculum with or without adaptations) and Teacher as Curriculum Developer (teachers creating new curriculum). The study will explore these two models within the context of IT teaching and learning. Specifically, we want to understand what kinds of professional development activities promote and/or influence changes in teaching practices and the integration of innovative technologies in the classroom. We will address the following research questions: 1) What are the characteristics of the two teacher-role models (curriculum developer or pedagogical expert) in teacher professional development projects that immerse participants in professional IT experiences? and 2) Does IT classroom implementation differ for teachers who have and have not completed an IT-immersion professional development experience  and does the difference (if any) vary by model?&lt;br/&gt;&lt;br/&gt;The research design includes a review of current and past ITEST professional development activities (surveys/interviews with project leaders and project artifacts), a broad survey of teacher participants from ITEST teacher education projects, and an in-depth study of a subset of ITEST teacher participants and comparison teachers to trace classroom implementation over an academic year. This project is a collaboration between Education Development Center (EDC, Inc.), TERC and University of Maryland Center of Environmental Science, all of which have extensive experience with the NSF ITEST program.</AbstractNarration>
+<MinAmdLetterDate>09/24/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/24/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0833524</AwardID>
+<Investigator>
+<FirstName>Cathlyn</FirstName>
+<LastName>Davis</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Cathlyn M Davis</PI_FULL_NAME>
+<EmailAddress>Cathlyn.Davis@umces.edu</EmailAddress>
+<NSF_ID>000476041</NSF_ID>
+<StartDate>09/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Carla</FirstName>
+<LastName>McAuliffe</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carla McAuliffe</PI_FULL_NAME>
+<EmailAddress>carla_mcauliffe@terc.edu</EmailAddress>
+<NSF_ID>000423139</NSF_ID>
+<StartDate>09/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Caroline</FirstName>
+<LastName>Parker</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Caroline Parker</PI_FULL_NAME>
+<EmailAddress>caroline.parker@sri.com</EmailAddress>
+<NSF_ID>000202374</NSF_ID>
+<StartDate>09/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Education Development Center</Name>
+<CityName>Waltham</CityName>
+<ZipCode>024518778</ZipCode>
+<PhoneNumber>6176182227</PhoneNumber>
+<StreetAddress>300 Fifth Avenue, Suite 2010</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA05</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>076583830</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>EDUCATION DEVELOPMENT CENTER, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>076583830</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Education Development Center]]></Name>
+<CityName>Waltham</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>024518778</ZipCode>
+<StreetAddress><![CDATA[300 Fifth Avenue, Suite 2010]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7227</Code>
+<Text>ITEST-Inov Tech Exp Stu &amp; Teac</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9177</Code>
+<Text>ELEMENTARY/SECONDARY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EHR, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~1129730</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Towards High Performance Policy Evaluation</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>425000.00</AwardTotalIntnAmount>
+<AwardAmount>425000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marilyn McClure</SignBlockName>
+<PO_EMAI>mmcclure@nsf.gov</PO_EMAI>
+<PO_PHON>7032925197</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;Policy-based computing is a critical component of many large-scale configurable systems because it enables dynamic adaptability of system behavior by changing policy configurations without reprogramming the systems. Policy evaluation, the process of checking whether a request satisfies a policy, is typically the performance bottleneck of policy-based systems. Most prior research has focused on the correctness (i.e., specification, design, and analysis) of policies. While correctness is an important issue, the adoption of policy-based computing may be limited if the resulting systems are not implemented efficiently and thus perform poorly. The high-level research objective of this project is to increase the effectiveness and adoption of policy-based computing by designing high performance policy evaluation algorithms and engines that can be adapted to support various policy languages. The primary focus of this project is the fast evaluation of security policies, which are most prevalent. To speed up policy evaluation, this research uses two unique approaches: policy normalization and canonical policy representation. The idea of policy normalization is to convert a policy with a complex logical structure to an equivalent policy with a simple logical structure. The idea of canonical policy representation is to convert a given policy to its canonical form. The techniques developed in this effort will be useful beyond this project. The results will greatly benefit society by increasing the adoption of policy-based computing. To promote education and learning, this effort actively involves high school, undergraduate, graduate students, especially students from under-represented minorities.</AbstractNarration>
+<MinAmdLetterDate>09/02/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/13/2014</MaxAmdLetterDate>
+<ARRAAmount>425000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0845513</AwardID>
+<Investigator>
+<FirstName>Alex</FirstName>
+<LastName>Liu</LastName>
+<PI_MID_INIT>X</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alex X Liu</PI_FULL_NAME>
+<EmailAddress>alexliu@cse.msu.edu</EmailAddress>
+<PI_PHON>5178020805</PI_PHON>
+<NSF_ID>000482202</NSF_ID>
+<StartDate>09/02/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Michigan State University</Name>
+<CityName>EAST LANSING</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress>426 AUDITORIUM RD RM 2</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>R28EKN92ZTZ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MICHIGAN STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VJKZC4D1JN36</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>EAST LANSING</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>488242600</ZipCode>
+<StreetAddress><![CDATA[426 AUDITORIUM RD RM 2]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7795</Code>
+<Text>TRUSTWORTHY COMPUTING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~425000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Learning Effects in Work Teams:  Transactive Memory Systems and Team Performance]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>398052.00</AwardTotalIntnAmount>
+<AwardAmount>398052</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Quinetta Roberson</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[As team members gain experience working together, team performance improves significantly. These "learning curves" have been observed in many team settings, including software development teams, hospital surgery teams and coal-mining crews.  This research project will examine constituents of team experience in order to learn more about the specific phenomena that underlie learning curve gains. &lt;br/&gt;&lt;br/&gt;Researchers have attributed some of the performance gains associated with team longevity to the development of "transactive memory" (TM) systems, which involve awareness of who knows and does what on a team. When a team has a well-defined TMS, team members know whom to rely on for specific skills or expertise. A series of laboratory studies will manipulate the match between team members' knowledge and roles and the extent to which team members share a common language. The experiments will examine the separate and interactive effects of these variables on team performance as well as the nature of the task (e.g., its uncertainty, urgency), characteristics of team members (e.g., member diversity), and features of the work context (e.g., whether team performance occurs in a virtual or co-located setting) in order to identify which component of transactive memory (or which interactions) increases team performance.  &lt;br/&gt;&lt;br/&gt;This research has theoretical and practical implications. Due to the rapid organizational and technological changes prevalent in today's workplace, teams often do not not have the luxury of staying together for extended periods.  By unpacking the constituents of learning curve effects we learn how to promote these effects more quickly. Conversely, we can learn to recognize the conditions in which there can be no substitute for time.]]></AbstractNarration>
+<MinAmdLetterDate>09/23/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/30/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0823283</AwardID>
+<Investigator>
+<FirstName>Linda</FirstName>
+<LastName>Argote</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Linda Argote</PI_FULL_NAME>
+<EmailAddress><![CDATA[argote@cmu.edu]]></EmailAddress>
+<NSF_ID>000360894</NSF_ID>
+<StartDate>09/23/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ella</FirstName>
+<LastName>Spektor</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ella Spektor</PI_FULL_NAME>
+<EmailAddress><![CDATA[emironsp@andrew.cmu.edu]]></EmailAddress>
+<NSF_ID>000499933</NSF_ID>
+<StartDate>09/23/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ray</FirstName>
+<LastName>Reagans</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ray Reagans</PI_FULL_NAME>
+<EmailAddress><![CDATA[rreagans@andrew.cmu.edu]]></EmailAddress>
+<NSF_ID>000407966</NSF_ID>
+<StartDate>09/23/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 FORBES AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NKNFLNQ613</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARNEGIE MELLON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NKNFLNQ613</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>PITTSBURGH</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152133815</ZipCode>
+<StreetAddress><![CDATA[5000 FORBES AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5376</Code>
+<Text>INNOVATION &amp; ORG SCIENCES(IOS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~398052</FUND_OBLG>
+</Award>
+</rootTag>

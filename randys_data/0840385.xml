@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SGER:Humidity and Ice Supersaturation Observations at South Pole Station</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>55667.00</AwardTotalIntnAmount>
+<AwardAmount>55667</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090300</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OPP</Abbreviation>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Milne</SignBlockName>
+<PO_EMAI>pmilne@nsf.gov</PO_EMAI>
+<PO_PHON>7032924714</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Several aspects of the exact mechanisms of ice nucleation and ice cloud formation remain unsettled despite, for example, the properties of cirrus clouds being recognized as a large uncertainty in the radiative balance of the atmosphere.  Accurate representation of the microphysics of these systems in climate models is crucial to simulation of their radiative forcing, and also to determining whether anthropogenic particles in the upper troposphere may be affecting ice cloud properties. &lt;br/&gt;&lt;br/&gt;In situ studies of the microphysics of cirrus clouds are normally accessible only by relatively high altitude aircraft restricted to the mid-latitudes, or the tropics. This poses limits on observation time and instrumentation payloads.  Aircraft measurements may also be subject to additional complications of high impaction velocities and heating rates on instrument surfaces leading to uncertainties in ambient temperature and humidity readings. &lt;br/&gt;&lt;br/&gt;This Small Grant for Exploratory Research (SGER) supports the PI to take a timely opportunity of a previously funded, not yet executed field campaign, to investigate the use of a new humidity sensor in order to better understand the ice nucleation and ice crystal growth at a uniquely accessible environment, namely the high altitude South Pole atmosphere.&lt;br/&gt;&lt;br/&gt;The proposal meets the SGER criteria of having both an element of risk (i.e. uncertain or unforseen engineering issues) but a potentially high pay-off (i.e. a unique data set allowing temporal change of ice crystals to be followed in a difficult to access environmental system).  The proposal meets an additional SGER criterion of representing a quick response to a unique, pre-existing field campaign measurement opportunity.&lt;br/&gt;&lt;br/&gt;Broader impacts: Applications of the expected data set, along with the ancillary data collected by the parent project (OPP-0337876) will contribute to better understanding of ice microphysics, radiative forcing of cirrus clouds, and improve the fidelity of climate modeling efforts.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>07/24/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.078</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0840385</AwardID>
+<Investigator>
+<FirstName>R. Paul</FirstName>
+<LastName>Lawson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>R. Paul Lawson</PI_FULL_NAME>
+<EmailAddress>plawson@specinc.com</EmailAddress>
+<PI_PHON>3034491105</PI_PHON>
+<NSF_ID>000329857</NSF_ID>
+<StartDate>07/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Gettelman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrew Gettelman</PI_FULL_NAME>
+<EmailAddress>andrew@ucar.edu</EmailAddress>
+<PI_PHON>3034971000</PI_PHON>
+<NSF_ID>000456705</NSF_ID>
+<StartDate>07/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University Corporation For Atmospheric Res</Name>
+<CityName>BOULDER</CityName>
+<ZipCode>803012252</ZipCode>
+<PhoneNumber>3034971000</PhoneNumber>
+<StreetAddress>3090 CENTER GREEN DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YEZEE8W5JKA3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY CORPORATION FOR ATMOSPHERIC RESEARCH</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YEZEE8W5JKA3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[National Center For Atmospheric Research]]></Name>
+<CityName>Boulder</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803073000</ZipCode>
+<StreetAddress><![CDATA[P.O. Box 3000]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0311000</Code>
+<Name>Polar Programs-Related</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5113</Code>
+<Text>ANT Ocean &amp; Atmos Sciences</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9237</Code>
+<Text>SMALL GRANTS-EXPLORATORY RSRCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>02XX</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>0100CYXXDB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~55667</FUND_OBLG>
+</Award>
+</rootTag>

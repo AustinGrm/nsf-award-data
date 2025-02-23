@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF-CCF-EMT Workshop on Cyberinfrastructure (CI)-based Emerging Models and Petascale Computing for Nanoscience and Nanotechnology]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Almadena Chtchelkanova</SignBlockName>
+<PO_EMAI>achtchel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927498</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This proposal is to organize a  national workshop to bring together   research and development communities of nanotechnology and high performance computing to discuss challenge problems in multi-scale modeling and large-scale simulations for nanotechnology.&lt;br/&gt;The proposed education components influence the public education systems in science and technology through Virtual School of Science and Engineering by NSF-OCI sponsored  Great Lakes Consortium Project and HPC University project initiated by NSF TeraGrid.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>09/18/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>09/18/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0842323</AwardID>
+<Investigator>
+<FirstName>Jun</FirstName>
+<LastName>Ni</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jun Ni</PI_FULL_NAME>
+<EmailAddress><![CDATA[jun-ni@uiowa.edu]]></EmailAddress>
+<NSF_ID>000388103</NSF_ID>
+<StartDate>09/18/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jack</FirstName>
+<LastName>Dongarra</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jack J Dongarra</PI_FULL_NAME>
+<EmailAddress><![CDATA[dongarra@icl.utk.edu]]></EmailAddress>
+<NSF_ID>000299281</NSF_ID>
+<StartDate>09/18/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Dunning</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME>Jr</PI_SUFX_NAME>
+<PI_FULL_NAME>Thomas H Dunning</PI_FULL_NAME>
+<EmailAddress><![CDATA[thdjr@uw.edu]]></EmailAddress>
+<NSF_ID>000399097</NSF_ID>
+<StartDate>09/18/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Iowa</Name>
+<CityName>IOWA CITY</CityName>
+<ZipCode>522421316</ZipCode>
+<PhoneNumber>3193352123</PhoneNumber>
+<StreetAddress>105 JESSUP HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Z1H9VJS8NG16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF IOWA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Iowa]]></Name>
+<CityName>IOWA CITY</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>522421316</ZipCode>
+<StreetAddress><![CDATA[105 JESSUP HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7947</Code>
+<Text>NANOCOMPUTING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~50000</FUND_OBLG>
+</Award>
+</rootTag>

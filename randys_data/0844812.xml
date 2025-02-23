@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Efficient Image Sparsifying Operators: Theory, Algorithms and Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>399600.00</AwardTotalIntnAmount>
+<AwardAmount>399600</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John Cozzens</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA["This award is funded under the American Recovery and Reinvestment Act of 2009&lt;br/&gt;(Public Law 111-5)."&lt;br/&gt;&lt;br/&gt;Many image processing applications rely on a transform or an operator to eliminate the redundancies in images, thus sparsifying the data. The need for multi-resolution makes it difficult for wavelet-like transforms to sparsify local discontinuities, while being invariant to rotations and translations without significant redundancy. The limited ability of wavelet-based sparse reconstruction algorithms to account for this redundancy limits their performance in challenging practical applications. In this context, there is a strong motivation to develop multidimensional image sparsifying operators that are invariant to translations and rotations and is competent in representing edges. This research leads to fundamental advances in several areas of multidimensional signal recovery. Specifically, the investigators apply the framework to significantly accelerate the acquisition of dynamic and spectroscopic magnetic resonance imaging (MRI) data.&lt;br/&gt;&lt;br/&gt;The main highlight of this proposal is the generalization of the gradient to obtain a new family of multidimensional operators. The use of these operators results in higher degree total variation (HD-TV) image recovery schemes that (a) are rotation and translation invariant, (b) can represent polynomials of arbitrary degree, and (c) minimize ringing artifacts. To fully exploit the power of this framework in MRI applications, the investigators also develop stable and efficient optimization algorithms and a computational scheme to derive robust sampling patterns. The proposed research projects involves a mix of theory and computation, focused on solving challenging practical problems. The research modules are tuned to provide direct, hands-on experience for graduate and undergraduate students in the processing of multidimensional image data.]]></AbstractNarration>
+<MinAmdLetterDate>06/19/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/14/2014</MaxAmdLetterDate>
+<ARRAAmount>399600</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0844812</AwardID>
+<Investigator>
+<FirstName>Mathews</FirstName>
+<LastName>Jacob</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mathews Jacob</PI_FULL_NAME>
+<EmailAddress><![CDATA[Mathews-Jacob@uiowa.edu]]></EmailAddress>
+<NSF_ID>000497835</NSF_ID>
+<StartDate>06/19/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Rochester</Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>146113847</ZipCode>
+<PhoneNumber>5852754031</PhoneNumber>
+<StreetAddress>910 GENESEE ST</StreetAddress>
+<StreetAddress2><![CDATA[STE 200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F27KDXZMF9Y8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ROCHESTER</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Rochester]]></Name>
+<CityName>ROCHESTER</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>146113847</ZipCode>
+<StreetAddress><![CDATA[910 GENESEE ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7936</Code>
+<Text>SIGNAL PROCESSING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~399600</FUND_OBLG>
+</Award>
+</rootTag>

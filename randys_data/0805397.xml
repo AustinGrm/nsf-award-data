@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF PostDoctoral Research Fellowship in Biology]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>123000.00</AwardTotalIntnAmount>
+<AwardAmount>123000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080300</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carter Kimsey</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[&lt;br/&gt;____________________________________________________________________________&lt;br/&gt;This action funds an NSF Postdoctoral Research Fellowship for FY 2008. The fellowship supports a research and training plan entitled ? The role of social networks in task allocation of harvester ants? for Noa M. Pinter-Wollman. The host institution for this research is Stanford University and the sponsoring scientist is Deborah M. Gordon. &lt;br/&gt;&lt;br/&gt;Biological systems self-organize through the interactions between different components of the system. The research examines how the structure of interaction networks affects the organization of ant colonies.  Individual ants within colonies perform various tasks, such as foraging, patrolling, and nest repair, but the assignment of each task is organized without central control. Previous work shows that an ant uses its recent experience of interactions, in the form of brief antennal contact, in task decisions. This research is tracking the network of ant interactions in laboratory colonies of harvester ants using tiny Radio Frequency Identification (RFID) attached to each ant. Experiments and agent-based computer simulations are being used to investigate the roles of individuals in the network. &lt;br/&gt;&lt;br/&gt;Training objectives include development of quantitative, computational, and engineering skills. The development of a novel tracking technique will provide a unique methodology that may be applied to a broad array of social insects both in the lab and field. The broader impacts of this research will also offer opportunities for mentoring undergraduates, collaborating with engineers and statisticians, and promoting the use of quantitative and computational methods in biological research that will broaden the understanding of social networks and self-organization in social insects.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/27/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0805397</AwardID>
+<Investigator>
+<FirstName>Noa</FirstName>
+<LastName>Pinter-Wollman</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Noa M Pinter-Wollman</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000079841</NSF_ID>
+<StartDate>07/27/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pinter-Wollman          Noa            M</Name>
+<CityName>Davis</CityName>
+<ZipCode>956163131</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Pinter-Wollman          Noa            M]]></Name>
+<CityName>Davis</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>956163131</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1398</Code>
+<Text>BIO INFOR POSTDOCT RSCH FELLOW</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1398</Code>
+<Text>BIO INFOR POSTDOCT RSCH FELLOW</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~123000</FUND_OBLG>
+</Award>
+</rootTag>

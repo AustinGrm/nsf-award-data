@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[The Neuroeconomics of Self-Control in Dieting Populations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>527244.00</AwardTotalIntnAmount>
+<AwardAmount>527244</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mary Rigdon</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA["This award is funded under the American Recovery and Reinvestment Act of 2009&lt;br/&gt;(Public Law 111-5)."&lt;br/&gt;&lt;br/&gt;Self-control problems are at the core of many of the public policy challenges facing the United States. Examples include obesity, addiction, and low levels of savings. Not surprisingly, given its importance, the problem of self-control has been the subject of inquiry for many centuries. However, despite these efforts we still do not have answers to basic questions such as: What aspects of the brain?s decision making circuitry lead to temptation and self-control problems? Why are some brains much better at exercising self-control than others? What can be done to improve the brain?s ability to exercise self-control? In this research, the Principal Investigators plan to use the new tools and techniques of neuroeconomics (especially functional magnetic resonance imaging, diffusion tensor imaging, and repeated transcranial magnetic stimulation) to address these questions. The research involves studying the brains of dieters while they make decisions about which food they want to eat.  The brain patterns of connectivity exhibited by successful and unsuccessful dieters will be compared to indicate the regions of the brain responsible for temptation and for self-control. The region of the brain thought to be responsible for self control ? the dorsolateral prefrontal cortex -- will also be studied using transcranial magnetic stimulation which may induce improvements in self-control.]]></AbstractNarration>
+<MinAmdLetterDate>06/19/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/19/2009</MaxAmdLetterDate>
+<ARRAAmount>527244</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0851408</AwardID>
+<Investigator>
+<FirstName>Antonio</FirstName>
+<LastName>Rangel</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Antonio Rangel</PI_FULL_NAME>
+<EmailAddress><![CDATA[rangel@hss.caltech.edu]]></EmailAddress>
+<NSF_ID>000499256</NSF_ID>
+<StartDate>06/19/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Todd</FirstName>
+<LastName>Hare</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Todd A Hare</PI_FULL_NAME>
+<EmailAddress><![CDATA[thare@hss.caltech.edu]]></EmailAddress>
+<NSF_ID>000510665</NSF_ID>
+<StartDate>06/19/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California Institute of Technology</Name>
+<CityName>PASADENA</CityName>
+<ZipCode>911250001</ZipCode>
+<PhoneNumber>6263956219</PhoneNumber>
+<StreetAddress>1200 E CALIFORNIA BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA28</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U2JMKHNS5TG4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CALIFORNIA INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[California Institute of Technology]]></Name>
+<CityName>PASADENA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>911250001</ZipCode>
+<StreetAddress><![CDATA[1200 E CALIFORNIA BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA28</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1321</Code>
+<Text>Decision, Risk &amp; Mgmt Sci</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~527244</FUND_OBLG>
+</Award>
+</rootTag>

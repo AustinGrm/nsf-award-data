@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[REU Site: The Integrated Science of Global Change and Its Impacts]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>323456.00</AwardTotalIntnAmount>
+<AwardAmount>323456</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030203</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lina Patino</SignBlockName>
+<PO_EMAI>lpatino@nsf.gov</PO_EMAI>
+<PO_PHON>7032925047</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;Undergraduate students and K-12 teachers in University of Texas Environmental Science Institute's combined REU/RET program will work in the research groups of faculty mentors working on scientific topics related to The Integrated Science of Global Change and Its Impacts. The program is focused on global change, defined as the processes of climate change and land use/land cover change and their impacts upon ecosystems and water.  An emphasis is placed on interdisciplinary perspectives that integrate diverse fields such as paleoecology, geology, ecology, atmospheric science, urban ecology, policy, engineering, hydrology, and marine biology. Group workshops and field trips will familiarize students and teachers with this interdisciplinary approach and faculty mentors, their graduate students and post-doctoral fellows will guide students in the development of independent research projects.  The goal of this independent research is a scientific publication or presentation at a scientific meeting. Professional development opportunities will include visits with professionals in environmental consulting firms and state and federal government agencies.  &lt;br/&gt;&lt;br/&gt;Advancements in global change science require an interdisciplinary approach that combines basic research in geology, hydrology, and ecology, with applied and social science studies in engineering, urban ecology, and policy. This REU/RET program will provide the disciplinary training and collaborative experiences necessary to develop future integrative scientists and science teachers with strong content understanding. It provides undergraduates from colleges with limited research resources with training in basic research and dissemination of scientific results, as well as hands-on learning and broader exposure to science career options. The program will provide grade 5-12 science teachers with an understanding of the nature of scientific research and broad-based content knowledge.]]></AbstractNarration>
+<MinAmdLetterDate>06/21/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/21/2009</MaxAmdLetterDate>
+<ARRAAmount>323456</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0852029</AwardID>
+<Investigator>
+<FirstName>Jay</FirstName>
+<LastName>Banner</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jay L Banner</PI_FULL_NAME>
+<EmailAddress><![CDATA[banner@mail.utexas.edu]]></EmailAddress>
+<NSF_ID>000162591</NSF_ID>
+<StartDate>06/21/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7699</Code>
+<Text>Integrat &amp; Collab Ed &amp; Rsearch</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~323456</FUND_OBLG>
+</Award>
+</rootTag>

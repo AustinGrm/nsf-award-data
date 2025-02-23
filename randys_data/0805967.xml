@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Planning Grant for Emerging Contaminants Center</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2008</AwardExpirationDate>
+<AwardTotalIntnAmount>10000.00</AwardTotalIntnAmount>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EEC</Abbreviation>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rathindra DasGupta</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Emerging contaminants (ECs) generally refer to chemicals and materials recently detected in the environment, and which may have potential or real threat to human health or the environment.  The challenge of ECs intersects several industries including the pharmaceutical and personal care products industries, producers of nano-sized materials, as well as entities that treat wastewater and drinking water.  A planning meeting will be held to investigate the proposed establishment of a multi-university Industry/University Cooperative Research Center for Emerging Contaminants.  The lead location of the proposed center will be at the New Jersey Institute of Technology, with a second site at Villanova University.  The mission of the proposed center is to address sensing and remediation of emerging contaminants (EC).  &lt;br/&gt;&lt;br/&gt;The proposed center will pursue research projects of importance to a broad range of US companies seeking to avoid becoming a major contributor to pollution.  The center and its research activity will involve faculty researchers, graduate and undergraduate students working together with industrial representatives.   The center will further enhance the ongoing efforts at both institutions of integrating research in classroom teaching.</AbstractNarration>
+<MinAmdLetterDate>12/27/2007</MinAmdLetterDate>
+<MaxAmdLetterDate>12/27/2007</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0805967</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Watts</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel Watts</PI_FULL_NAME>
+<EmailAddress>Watts@njit.edu</EmailAddress>
+<PI_PHON>9735963465</PI_PHON>
+<NSF_ID>000283793</NSF_ID>
+<StartDate>12/27/2007</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New Jersey Institute of Technology</Name>
+<CityName>NEWARK</CityName>
+<ZipCode>071021824</ZipCode>
+<PhoneNumber>9735965275</PhoneNumber>
+<StreetAddress>323 DR MARTIN LUTHER KING JR BLV</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SGBMHQ7VXNH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW JERSEY INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>SGBMHQ7VXNH5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New Jersey Institute of Technology]]></Name>
+<CityName>NEWARK</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>071021824</ZipCode>
+<StreetAddress><![CDATA[323 DR MARTIN LUTHER KING JR BLV]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0400000</Code>
+<Name>Industry University - Co-op</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5761</Code>
+<Text>IUCRC-Indust-Univ Coop Res Ctr</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1049</Code>
+<Text>INDUSTRY-UNIV COOPERATIVE RSCH PROJECTS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>122E</Code>
+<Text>CENTERS: OTHER INDUSTRY-UNIV</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~10000</FUND_OBLG>
+</Award>
+</rootTag>

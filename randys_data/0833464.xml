@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Multivariate special functions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2007</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>72645</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040200</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomek Bartoszynski</SignBlockName>
+<PO_EMAI>tbartosz@nsf.gov</PO_EMAI>
+<PO_PHON>7032924885</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This research program consists of three lines of investigation, each &lt;br/&gt;connected to multivariate analogues of generalized hypergeometric &lt;br/&gt;functions.  The first concerns a family of biorthogonal abelian &lt;br/&gt;functions associated to elliptic curves that generalize multivariate &lt;br/&gt;orthogonal polynomials due to Macdonald and Koornwinder.  The second &lt;br/&gt;aspect involves certain multivariate analogues of quadratic &lt;br/&gt;transformations of hypergeometric functions, which generalize identities &lt;br/&gt;from the theory of symmetric spaces; related to this is the study of &lt;br/&gt;natural deformations of permutation actions of Coxeter groups to &lt;br/&gt;representations of the associated Hecke algebras, some of which have led &lt;br/&gt;to proofs of multivariate quadratic transformations.  Finally, the &lt;br/&gt;investigator will be studying multivariate elliptic hypergeometric &lt;br/&gt;(contour) integrals, with a view to understanding the functional &lt;br/&gt;equations satisfied by such integrals.&lt;br/&gt;&lt;br/&gt;Historically, the study of "special functions" originated in the fact &lt;br/&gt;that quite a few functions of interest in applications turned out to be &lt;br/&gt;members of a single family, the hypergeometric functions.  The new &lt;br/&gt;family of functions the investigator is studying is a significant &lt;br/&gt;generalization of this family, combining several existing &lt;br/&gt;generalizations (each with their own applications and connections to &lt;br/&gt;other areas of mathematics) under one roof.  In addition to the &lt;br/&gt;potential that new applications may arise, this investigation should &lt;br/&gt;also lead to a greater understanding of the existing families.&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>05/08/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/16/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0833464</AwardID>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Rains</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eric M Rains</PI_FULL_NAME>
+<EmailAddress><![CDATA[rains@caltech.edu]]></EmailAddress>
+<NSF_ID>000270011</NSF_ID>
+<StartDate>05/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California Institute of Technology</Name>
+<CityName>PASADENA</CityName>
+<ZipCode>911250001</ZipCode>
+<PhoneNumber>6263956219</PhoneNumber>
+<StreetAddress>1200 E CALIFORNIA BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA28</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U2JMKHNS5TG4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CALIFORNIA INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[California Institute of Technology]]></Name>
+<CityName>PASADENA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>911250001</ZipCode>
+<StreetAddress><![CDATA[1200 E CALIFORNIA BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA28</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<FUND_OBLG>2004~72645</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Project:  Integration of Shared Presentation Virtual Space in STEM courses]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>10000.00</AwardTotalIntnAmount>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Scott Grissom</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Interdisciplinary (99)&lt;br/&gt;&lt;br/&gt;This collaborative project implements an innovative, online and real-time course delivery system, Shared Presentation Virtual Space (SPVS). The SPVS technology is evaluated through expected measurable outcomes of improved student performance and increased student satisfaction. The team implements this technology into several different STEM courses in mathematics, biology, and computing. &lt;br/&gt;The project results in the creation of a virtual classroom world to enhance and enrich the learning experience of online education (OE) students, by creating real-time lectures and class discussions. This system contributes to the educational process for students and educators because it can be delivered via low-bandwidth to rural areas of the country. The SPVS classroom worlds used in this project comprise an emerging medium demonstrated in many areas already familiar to today's student (e.g., computer games, entertainment systems, and visualizations). The specific instructional goals for this project include the development of non-traditional online lectures. The project enhances and enriches the learning experience of both OE students (by creating real-time lecture and class discussion) and also students in Face-To-Face (FTF) classes (by creating archived lessons as a study aid and that allow students to make up lessons they might have missed). &lt;br/&gt;&lt;br/&gt;Intellectual Merit: The SPVS system is designed to create a suitable infrastructure supporting OE and FTF classes, while providing students with an environment resulting in an overall increase in student performance and satisfaction. Student performance improves when the learning environment allows students to see, hear, and interact with the instructor and other students, and to directly view educational information, such as notes written on a whiteboard. This environment also increases student participation in class, which helps increase motivation and satisfaction. &lt;br/&gt;&lt;br/&gt;Broader Impact: The SPVS system is accessible to instructors and to all students, especially economically disadvantaged students, because the SPVS system uses low bandwidth, requires no costly system enhancements, and does not involve steep learning curves for students or instructors.]]></AbstractNarration>
+<MinAmdLetterDate>03/23/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/23/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0837551</AwardID>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>McFadden</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Charles B McFadden</PI_FULL_NAME>
+<EmailAddress><![CDATA[BrownMcF@beaufortccc.edu]]></EmailAddress>
+<NSF_ID>000256363</NSF_ID>
+<StartDate>03/23/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Beaufort County Community College</Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>278897889</ZipCode>
+<PhoneNumber>2529406216</PhoneNumber>
+<StreetAddress>5337 US HIGHWAY 264 E</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>J68MDA8ZN3Q9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BEAUFORT COUNTY COMMUNITY COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Beaufort County Community College]]></Name>
+<CityName>WASHINGTON</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>278897889</ZipCode>
+<StreetAddress><![CDATA[5337 US HIGHWAY 264 E]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0409</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000910DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~10000</FUND_OBLG>
+</Award>
+</rootTag>

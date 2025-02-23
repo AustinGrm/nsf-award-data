@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II:  Biocidal Textiles for Active Infection Control</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>463713</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gregory T. Baxter</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research Phase II project focuses on the development of patented antimicrobial compounds to provide superior infection control to textiles. 5-10% of patients admitted to hospitals in the US acquire an infection while in hospital.  Consequences of hospital-acquired infections (HAIs) include prolonged hospital stays, increased treatment costs, and cause more than 100,000 deaths each year. The financial costs of these infections run into billions of dollars annually. Laboratory and clinical studies have shown that bacteria can survive for weeks on items found in patient rooms, which are suspected of playing a role in the transmission of pathogens. This program continues the development an innovative fabric finish to create textiles that will kill microbes on contact.  The performance of these compounds has been shown to be superior to current non-leaching antimicrobial technologies. The biocide is chemically attached to fabric using a water-based solution. Chemical immobilization of the antimicrobial agent minimizes migration into the environment. During Phase II, the efficacy of treated fabrics will be assessed against pathogens, including strains associated with HAIs.  Physical characterization of the fabrics will be performed to determine the effects of laundering. Finally, the effectiveness of treated fabrics in the clinic will be demonstrated.&lt;br/&gt;&lt;br/&gt;The number of hospital acquired infections (HAIs) is increasing, with a larger proportion being caused by antibiotic-resistant bacteria.  Policy changes of cost reimbursement related to HAIs have already been implemented, placing the burden on hospitals to prevent such infections. Inevitably, infection control policies within hospitals will be expanded in order to reduce rates of infection. Creating actively biocidal surfaces will provide a new method of infection control, augmenting current practices without significantly adding to the workload of staff.  In this program, novel antimicrobial technology is being developed for use on fabrics. Ultimately, it is expected that strategic deployment of this technology as a complement to hand-hygiene (the most important component of infection control) will reduce the number of HAIs, improve patient outcomes and reduce the costs of healthcare.  Other commercial textile applications of this technology include protective garments for military personnel, emergency responders, and fabrics for sports apparel.  The antimicrobial product may also be applied to non-textile items, such as computer keyboards and bedrails.  &lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>03/03/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/26/2011</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0849005</AwardID>
+<Investigator>
+<FirstName>Nina</FirstName>
+<LastName>Lamba</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nina M Lamba</PI_FULL_NAME>
+<EmailAddress>cclbiomed@verizon.net</EmailAddress>
+<PI_PHON>4109399356</PI_PHON>
+<NSF_ID>000110139</NSF_ID>
+<StartDate>03/03/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CCL BIOMEDICAL, INC</Name>
+<CityName>HAVRE DE GRACE</CityName>
+<ZipCode>210782909</ZipCode>
+<PhoneNumber>4109399356</PhoneNumber>
+<StreetAddress>224 N. WASHINGTON ST.</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[CCL BIOMEDICAL, INC]]></Name>
+<CityName>HAVRE DE GRACE</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>210782909</ZipCode>
+<StreetAddress><![CDATA[224 N. WASHINGTON ST.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1167</Code>
+<Text>MULTIDISCIPLINARY BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1238</Code>
+<Text>TECH FOR SUSTAINABLE ENVIRONMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1491</Code>
+<Text>BIOTECH, BIOCHEM &amp; BIOMASS ENG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1773</Code>
+<Text>POLYMERS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~463713</FUND_OBLG>
+</Award>
+</rootTag>

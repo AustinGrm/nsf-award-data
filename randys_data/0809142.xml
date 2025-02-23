@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Intramolecular Anodic Olefin Coupling Reactions</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>399000.00</AwardTotalIntnAmount>
+<AwardAmount>399000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090003</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tingyu Li</SignBlockName>
+<PO_EMAI>tli@nsf.gov</PO_EMAI>
+<PO_PHON>7032924949</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project will continue work on the development of new oxidative cyclization reactions. Oxidative cyclization reactions are powerful tools for constructing organic molecules because they both generate new ring systems without giving up the functionality used to initiate the reaction, and reverse the polarity of electron-rich functional groups so that they can be used in entirely new ways. The combination of these features creates unique opportunities to develop novel synthetic pathways to highly functionalized products.  For this reason, an intensive study will be conducted examining both the scope of the reactions and the nature of the reactive radical cation intermediates that are central to their success.&lt;br/&gt;&lt;br/&gt;With this award, the Organic and Macromolecular Chemistry Program is supporting the research of Professor Kevin D. Moeller of the Department of Chemistry at Washington University in St. Louis.  Professor Moeller's research capitalizes on the use of electrochemistry to explore new oxidative cyclization reactions. The use of electrochemistry to effect the reactions avoids the need for a chemical oxidant, and hence, the need for disposing the waste that inevitably results from such a reagent. This minimizes the environmental impact of the reactions. In this way, the chemistry being studied not only illustrates the power of the synthetic methods being developed, but also highlights the potential of electrochemistry for developing sustainable chemical processes in the future.</AbstractNarration>
+<MinAmdLetterDate>06/25/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/24/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0809142</AwardID>
+<Investigator>
+<FirstName>Kevin</FirstName>
+<LastName>Moeller</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kevin D Moeller</PI_FULL_NAME>
+<EmailAddress>moeller@wustl.edu</EmailAddress>
+<NSF_ID>000189849</NSF_ID>
+<StartDate>06/25/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Washington University</Name>
+<CityName>Saint Louis</CityName>
+<ZipCode>631304862</ZipCode>
+<PhoneNumber>3147474134</PhoneNumber>
+<StreetAddress>CAMPUS BOX 1054</StreetAddress>
+<StreetAddress2><![CDATA[1 Brookings Drive]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO01</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>068552207</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>WASHINGTON UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>068552207</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Washington University]]></Name>
+<CityName>Saint Louis</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>631304862</ZipCode>
+<StreetAddress><![CDATA[CAMPUS BOX 1054]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1950</Code>
+<Text>METHODOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2008~133000</FUND_OBLG>
+<FUND_OBLG>2009~266000</FUND_OBLG>
+</Award>
+</rootTag>

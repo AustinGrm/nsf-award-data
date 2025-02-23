@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[COLLABORATIVE RESEARCH: Numerical studies of double-diffusive convection in the interior of giant planets]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>27005.00</AwardTotalIntnAmount>
+<AwardAmount>83439</AwardAmount>
+<AwardInstrument>
+<Value>Interagency Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Neff</SignBlockName>
+<PO_EMAI>jneff@nsf.gov</PO_EMAI>
+<PO_PHON>7032922475</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[AST-0807672/0806431&lt;br/&gt;Garaud/Radko&lt;br/&gt;&lt;br/&gt;The competing effects of destabilizing thermal gradients and stabilizing compositional gradients (i.e. double-diffusive convection) play a major role in the structure and evolution of giant planets.  They relate to the low observed heat flux of Uranus, the high metallicity of the envelopes of Uranus and Neptune, the erosion of the cores of Jupiter and Saturn, and the large radii of some observed transiting exoplanets.  Extensive studies in the context of global oceanic mixing are not applicable because of the wide discrepancy between the governing parameters in the two cases.  This collaborative project will perform state-of-the-art three-dimensional high-resolution numerical simulations of double-diffusive convection in the relevant parameter regime, analyze them to extract practical flux parameterizations, and modify an existing planetary evolution code (CEPAM) to account for the effects.  This improved technique will then be used to address two particular questions: (i) How do the revised heat flux laws affect the thermal evolution and structure of the planets, and (ii) How are chemical elements mixed across their compositional interfaces.  Progress here would be an invaluable step towards a better understanding of the global evolution of giant planets everywhere.&lt;br/&gt;&lt;br/&gt;This work is interdisciplinary between geophysical and astrophysical fluid dynamics, and will naturally benefit both subjects, as well as training a graduate student.  Dissemination to the scientific community will be enhanced by publication of a monograph on Double-Diffusive Processes by Dr.Radko.]]></AbstractNarration>
+<MinAmdLetterDate>08/11/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/20/2013</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0806431</AwardID>
+<Investigator>
+<FirstName>Timour</FirstName>
+<LastName>Radko</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Timour Radko</PI_FULL_NAME>
+<EmailAddress><![CDATA[tradko@nps.edu]]></EmailAddress>
+<NSF_ID>000484514</NSF_ID>
+<StartDate>08/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Naval Postgraduate School</Name>
+<CityName>MONTEREY</CityName>
+<ZipCode>939435098</ZipCode>
+<PhoneNumber>8316562271</PhoneNumber>
+<StreetAddress>1 UNIVERSITY CIR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CEPCN5K7EKU8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NAVAL POSTGRADUATE SCHOOL</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NW2RJN8TQQW1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Naval Postgraduate School]]></Name>
+<CityName>MONTEREY</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>939435098</ZipCode>
+<StreetAddress><![CDATA[1 UNIVERSITY CIR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1214</Code>
+<Text>PLANETARY ASTRONOMY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0110</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001011DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~27005</FUND_OBLG>
+<FUND_OBLG>2009~27815</FUND_OBLG>
+<FUND_OBLG>2010~28643</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RIG: Postsynaptic Molecular Assembly at the Onset of Neuromuscular Synaptogenesis in vivo]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>174242.00</AwardTotalIntnAmount>
+<AwardAmount>174242</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090200</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Deshler</SignBlockName>
+<PO_EMAI>jdeshler@nsf.gov</PO_EMAI>
+<PO_PHON>7032927871</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The mechanisms that initiate a synapse have rarely been analyzed in living cells due to limited access in embryos. The investigator has previously observed filopodial processes (myopodia) extending from muscle cells toward neurons prior to neuromuscular synaptogenesis, using three- and four-dimensional imaging of fluorescent-labeled bioprobes in live Drosophila embryos. This appearance of myopodia was seen to coincide with motoneuron outgrowth, suggesting a mechanism in which synaptic partners interact before they make permanent contact. As development continues, transient stabilization of pre- and post-synaptic filopodia from matched partners can be observed. This myopodial clustering event is the focus of the current project. The investigator will test the "synaptic nucleation" hypothesis, which states that myopodial clustering serves as a sub cellular signaling compartment where the nascent synapse is coordinated. Using in vivo imaging and immunocytochemistry, the researcher will study the underlying molecules involved in synaptic partner-induced myopodial clustering, and in particular, will investigate how these proteins are recruited to the myopodial cluster compartment. The goal of this project is to gain a better understanding of synaptic matchmaking and synaptogenesis by identifying the postsynaptic molecular players at the site of synapse formation and to characterize the mechanism by which they are recruited. Once considered as passive players, muscle cells are emerging as active synaptogenic partners, and myopodial interactions offer a chance to dissect the molecular integrations that lead to the successful formation of the synapse. With over 99% of the total undergraduate student enrollment in the Department of Biology at the University of Puerto Rico Mayaguez identified as members of underrepresented groups in the sciences, this proposal will support training of a significant number of minority students. Their research experiences will be enhanced through access to mentors and role models which will be facilitated by the investigator.]]></AbstractNarration>
+<MinAmdLetterDate>08/17/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/12/2011</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0818243</AwardID>
+<Investigator>
+<FirstName>Franklin</FirstName>
+<LastName>Carrero-Martinez</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Franklin A Carrero-Martinez</PI_FULL_NAME>
+<EmailAddress><![CDATA[FCarrero@nas.edu]]></EmailAddress>
+<NSF_ID>000060099</NSF_ID>
+<StartDate>08/17/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Puerto Rico Mayaguez</Name>
+<CityName>MAYAGUEZ</CityName>
+<ZipCode>006806475</ZipCode>
+<PhoneNumber>7878312065</PhoneNumber>
+<StreetAddress>259 BLVD ALFONSO VALDES</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Puerto Rico</StateName>
+<StateCode>PR</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PR00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GZRNJ1GZDBM1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF PUERTO RICO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>RD8QJEHNYLJ7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Puerto Rico Mayaguez]]></Name>
+<CityName>MAYAGUEZ</CityName>
+<StateCode>PR</StateCode>
+<ZipCode>006806475</ZipCode>
+<StreetAddress><![CDATA[259 BLVD ALFONSO VALDES]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Puerto Rico</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PR00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1157</Code>
+<Text>Broadening Participation of Gr</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1228</Code>
+<Text>MINORITY INVOLVEMENT -- BIO</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7487</Code>
+<Text>BROADENING PARTICIPATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~174242</FUND_OBLG>
+</Award>
+</rootTag>

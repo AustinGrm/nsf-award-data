@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>U.S.-Switzerland Doctoral Dissertation Enhancement Project:    An Adaptive Mesoscale Eddy Capturing Approach</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>12400.00</AwardTotalIntnAmount>
+<AwardAmount>12400</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maija Kukla</SignBlockName>
+<PO_EMAI>mkukla@nsf.gov</PO_EMAI>
+<PO_PHON>7032924940</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award will support doctoral student Shanon McIntyre from the Department of Mechanical Engineering at the University of Colorado at Boulder to work with experts at the Swiss Federal Institute of Technology in Zurich (ETH-Zurich) to conduct research for her doctoral dissertation dealing with the development of algorithms to address problems of efficient and affordable numerical simulations of global ocean circulation.  Ms. McIntyre will visit ETH-Zurich to work with the team led by Dr. Taras Gerya for an initial three month period and then return for a shorter visit at a later time.  While she is in Europe, she will also collaborate with researchers Giuliano de Stefano at the Second University of Naples in Italy and Kai Schneider at the Université de Provence in France.  The researchers will work together to address the problems of limited horizontal resolution and the representation of bathymetry in global ocean circulation modeling.  This work should provide crucial insight into the role of ocean circulation in mediating the effects of anthropogenic climate change.</AbstractNarration>
+<MinAmdLetterDate>10/31/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>10/31/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.079</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0837948</AwardID>
+<Investigator>
+<FirstName>Oleg</FirstName>
+<LastName>Vasilyev</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Oleg V Vasilyev</PI_FULL_NAME>
+<EmailAddress>oleg.vasilyev@colorado.edu</EmailAddress>
+<NSF_ID>000290815</NSF_ID>
+<StartDate>10/31/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Boulder</Name>
+<CityName>Boulder</CityName>
+<ZipCode>803031058</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress>3100 Marine Street, Room 481</StreetAddress>
+<StreetAddress2><![CDATA[572 UCB]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>007431505</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF COLORADO, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>007431505</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName>Boulder</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803031058</ZipCode>
+<StreetAddress><![CDATA[3100 Marine Street, Room 481]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0510403</Code>
+<Name>Engineering &amp; Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7727</Code>
+<Text>IRES Track I: IRES Sites (IS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5918</Code>
+<Text>FRANCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5920</Code>
+<Text>ITALY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5950</Code>
+<Text>SWITZERLAND</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5979</Code>
+<Text>Europe and Eurasia</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~12400</FUND_OBLG>
+</Award>
+</rootTag>

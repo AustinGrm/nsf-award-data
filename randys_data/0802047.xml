@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>GOALI: Neural Networks and Adaptive Critic Designs For Energy Security and Sustainability</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>398841.00</AwardTotalIntnAmount>
+<AwardAmount>398841</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Werbos</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Abstract&lt;br/&gt;&lt;br/&gt;Proposal Number:  ECCS-0802047&lt;br/&gt;&lt;br/&gt;Proposal Title:  GOALI: Neural Networks and Adaptive Critic Designs For Energy Security and Sustainability&lt;br/&gt;&lt;br/&gt;PI Name:              Harley, Ronald&lt;br/&gt;&lt;br/&gt;PI Institution: GA Tech Research Corporation - GA Institute of Technology&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;GOALI: NEURAL NETWORKS AND ADAPTIVE CRITIC DESIGNS FOR ENERGY SECURITY AND SUSTAINABILITY&lt;br/&gt;&lt;br/&gt;Objectives and Approach&lt;br/&gt;The objective is to develop an intelligent wide area controller to monitor and coordinate wide areas of a power network that includes a windfarm, solarfarm, pumped storage system and other traditional generators, in order to optimally use all of these resources both during slow changing conditions such as moving cloud cover, and variations in wind speed, as well as during transient disturbances.&lt;br/&gt; &lt;br/&gt;The approach will use adaptive critic designs to develop an optimal wide area controller, which does not need any mathematical descriptions of the power system. This involves first simulation, then validation on a real time digital simulator and finally, a demonstration on a small scale 2000kW power system in Colorado.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Intellectual Merit&lt;br/&gt;Learning how well the theory of adaptive critic designs scales up with cellular neural networks and ObjectNets. Optimum utilization of the wind and solar farms, will improve reliability, damping during disturbances in the power network, and assist control room operators. The findings should provide a better understanding of multiple-time base system identifiers and neurocontrollers.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Broader Impact&lt;br/&gt;The outcome of this project will allow solar and wind farms to be recognized and used by engineers in the same way as other more traditional energy sources and to be fully integrated with controls to assist in maintaining grid stability, and energy security and sustainability. Skilled manpower including minorities will be produced to serve as future champions in the quest for generating "clean" energy and reducing CO2 and other greenhouse gases emissions.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>05/07/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/31/2013</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0802047</AwardID>
+<Investigator>
+<FirstName>Sunil</FirstName>
+<LastName>Cherian</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sunil Cherian</PI_FULL_NAME>
+<EmailAddress>sunil@sixthdimension.com</EmailAddress>
+<PI_PHON>9702174138</PI_PHON>
+<NSF_ID>000419681</NSF_ID>
+<StartDate>05/07/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ronald</FirstName>
+<LastName>Harley</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ronald Harley</PI_FULL_NAME>
+<EmailAddress>rharley@ee.gatech.edu</EmailAddress>
+<PI_PHON>4048941876</PI_PHON>
+<NSF_ID>000393314</NSF_ID>
+<StartDate>05/07/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ganesh</FirstName>
+<LastName>Venayagamoorthy</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ganesh K Venayagamoorthy</PI_FULL_NAME>
+<EmailAddress>gkumar@ieee.org</EmailAddress>
+<PI_PHON>8646565936</PI_PHON>
+<NSF_ID>000492539</NSF_ID>
+<StartDate>05/07/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 NORTH AVE NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0510403</Code>
+<Name>Engineering &amp; Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1504</Code>
+<Text>GOALI-Grnt Opp Acad Lia wIndus</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7607</Code>
+<Text>EPCN-Energy-Power-Ctrl-Netwrks</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>090E</Code>
+<Text>Chem/Bio and Physical Diagnostics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>093E</Code>
+<Text>System fab/packaging &amp; assembly</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096E</Code>
+<Text>High freq comm/sensing circuits</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>104E</Code>
+<Text>MEMS/NEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7238</Code>
+<Text>ENG ITR CORE ACTIVITIES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~398841</FUND_OBLG>
+</Award>
+</rootTag>

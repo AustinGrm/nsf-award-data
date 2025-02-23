@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Steering Committee Workshop to Build a Community for Algorithm Visualization]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>8500.00</AwardTotalIntnAmount>
+<AwardAmount>8500</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Don Millard</SignBlockName>
+<PO_EMAI>dmillard@nsf.gov</PO_EMAI>
+<PO_PHON>7032924620</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Computer Science (31)&lt;br/&gt;&lt;br/&gt;This project involves the running of a workshop whose goal is to establish a steering committee that will guide the development of internet-based resources to support a developing community of users and developers of algorithm and data structure visualizations (AVs). Successful use of AVs depends on both the availability of quality educational materials and their proper deployment. The field of AV has progressed little from the mid 1990s in terms of adoption levels or total educational impact. Many developers are not making use of lessons learned. Since effective ways of developing and deploying AVs are known, these difficulties can be overcome by a cohesive community of AV developers and users. The goal of this project is to build this community. The first step to building this community is to establish a steering committee of active members in the field who help to guide creation of an integrated collection of resources and infrastructure to serve as a communications hub and information clearing house. These resources leverage the progress already made by AV developers and users to bring about wider adoption and greater successful impact in the classroom.&lt;br/&gt;&lt;br/&gt;The intellectual merit is the improvement of the computer science education community's understanding of how AVs can be made pedagogically effective. The broader impact is improving on the general availability and quality of AVs, which can affect the educational outcomes for many students every year in computer science and related disciplines. Providing a community resource on best practices improves the development of future AVs. A clearing house of available AVs and documenting best practices for their use provides quality educational materials to instructors.]]></AbstractNarration>
+<MinAmdLetterDate>09/19/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/19/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839837</AwardID>
+<Investigator>
+<FirstName>Clifford</FirstName>
+<LastName>Shaffer</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Clifford A Shaffer</PI_FULL_NAME>
+<EmailAddress><![CDATA[shaffer@vt.edu]]></EmailAddress>
+<NSF_ID>000234855</NSF_ID>
+<StartDate>09/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Edwards</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stephen H Edwards</PI_FULL_NAME>
+<EmailAddress><![CDATA[edwards@cs.vt.edu]]></EmailAddress>
+<NSF_ID>000246007</NSF_ID>
+<StartDate>09/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240603359</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>300 TURNER ST NW</StreetAddress>
+<StreetAddress2><![CDATA[STE 4200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QDE5UHE5XD16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIRGINIA POLYTECHNIC INSTITUTE &amp; STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X6KEFGLHSJX7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Virginia Polytechnic Institute and State University]]></Name>
+<CityName>BLACKSBURG</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>240603359</ZipCode>
+<StreetAddress><![CDATA[300 TURNER ST NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7492</Code>
+<Text>CCLI-Type 2 (Expansion)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~8500</FUND_OBLG>
+</Award>
+</rootTag>

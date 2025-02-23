@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CSR-PSCE,SM:   Recovery Aware Parallel Computing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>330000.00</AwardTotalIntnAmount>
+<AwardAmount>330000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Krishna Kant</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[As the scale and complexity of parallel systems continue to grow, failures are inevitable.  For years research focused on pre-failure prediction and tolerance - predicting failures and taking precautionary actions before failure occurrence. Despite progress on failure prediction, unexpected failures occur in practice, especially in modern systems with unprecedented sizes and complexities. Relying on pre-failure prediction and tolerance alone is insufficient for fault management because of the inevitability of failures.  Just as failures need to be carefully avoided and managed when they occur, post-failure diagnosis and recovery is of equal importance and has a profound impact on almost every aspect of parallel computing.  The goal of this research project is to develop RAPS, a Recovery Aware Parallel computing System for post-failure diagnosis and recovery. The research focuses on how to quickly and effectively resume parallel computing after a failure has occurred. The ultimate goal is to seamlessly integrate post-failure diagnosis and recovery with pre-failure prediction and tolerance as a compound fault management solution for parallel computing. The approach consists of (1) development of new diagnosis mechanisms for fast failure detection and root cause analysis, (2) development of system-wide orchestration for recovery coordination, (3) design of new recovery techniques for quick restoration of parallel applications, and (4) a comprehensive evaluation. The results of this project can significantly improve the productivity of parallel systems. This project also enhances the CS curriculum at IIT and broadens the participation by underrepresented groups.]]></AbstractNarration>
+<MinAmdLetterDate>08/12/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0834514</AwardID>
+<Investigator>
+<FirstName>Xian-He</FirstName>
+<LastName>Sun</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xian-He Sun</PI_FULL_NAME>
+<EmailAddress><![CDATA[sun@iit.edu]]></EmailAddress>
+<NSF_ID>000318956</NSF_ID>
+<StartDate>08/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Zhiling</FirstName>
+<LastName>Lan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zhiling Lan</PI_FULL_NAME>
+<EmailAddress><![CDATA[lan@iit.edu]]></EmailAddress>
+<NSF_ID>000304384</NSF_ID>
+<StartDate>08/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Illinois Institute of Technology</Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606163717</ZipCode>
+<PhoneNumber>3125673035</PhoneNumber>
+<StreetAddress>10 W 35TH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NDENMDUEG8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ILLINOIS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Illinois Institute of Technology]]></Name>
+<CityName>CHICAGO</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606163717</ZipCode>
+<StreetAddress><![CDATA[10 W 35TH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7354</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~90000</FUND_OBLG>
+<FUND_OBLG>2009~240000</FUND_OBLG>
+</Award>
+</rootTag>

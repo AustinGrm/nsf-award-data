@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[FRG: Collaborative Research: Stochastics and Dynamics: Asymptotic problems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>523421.00</AwardTotalIntnAmount>
+<AwardAmount>523421</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomek Bartoszynski</SignBlockName>
+<PO_EMAI>tbartosz@nsf.gov</PO_EMAI>
+<PO_PHON>7032924885</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;Mathematical models taking both deterministic and stochastic factors into account are becoming increasingly important in science and technology. These models, as a rule, are rather complicated. Oftentimes, they include many parameters characterizing the system (diffusion coefficients, rates of chemical reactions, time scales, etc). The parameters often have different scales, so it is natural to consider various asymptotic regimes in these models. We will study deterministic and stochastic perturbations of systems with conservation&lt;br/&gt;laws, in particular, perturbations of Hamiltonian systems with multi-well Hamiltonians. Metastability and stochastic resonance for systems perturbed by noise will be considered. New problems on singular perturbations of elliptic PDE's will be studied as well as quasi-linear parabolic equations which lead to a new class of stochastic perturbations of dynamical systems. Mathematical models of polymers and models leading to anomalous particle transport will be considered. We plan to study a number of asymptotic problems for inifinite-dimensional systems, in particular, for stochastic PDE's.&lt;br/&gt;&lt;br/&gt;We will develop new methods of asymptotic analysis for stochas-&lt;br/&gt;tic processes, dynamical systems and PDE's. New effects related to metastability, singular perturbations of PDE's, particle and wave motion in random media will be described. The research is related to many branches of mathematics and has various applications in physics, biology and engineering. Asymptotic methods can and should play an important role in educating the new generation of researchers. We plan to work with graduate students and postdocs, run seminars and organize conferences on these topics.]]></AbstractNarration>
+<MinAmdLetterDate>05/29/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2009</MaxAmdLetterDate>
+<ARRAAmount>523421</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0854982</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Freidlin</LastName>
+<PI_MID_INIT>I</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark I Freidlin</PI_FULL_NAME>
+<EmailAddress><![CDATA[mif@math.umd.edu]]></EmailAddress>
+<NSF_ID>000235125</NSF_ID>
+<StartDate>05/29/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Leonid</FirstName>
+<LastName>Koralov</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Leonid B Koralov</PI_FULL_NAME>
+<EmailAddress><![CDATA[koralov@math.umd.edu]]></EmailAddress>
+<NSF_ID>000238674</NSF_ID>
+<StartDate>05/29/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dmitry</FirstName>
+<LastName>Dolgopyat</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dmitry Dolgopyat</PI_FULL_NAME>
+<EmailAddress><![CDATA[dmitry@math.umd.edu]]></EmailAddress>
+<NSF_ID>000196443</NSF_ID>
+<StartDate>05/29/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland, College Park</Name>
+<CityName>College Park</CityName>
+<ZipCode>207420001</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 REGENTS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPU8ULVAAS23</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND, COLLEGE PARK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KMGEN62NKEM9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland, College Park]]></Name>
+<CityName>College Park</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>207420001</ZipCode>
+<StreetAddress><![CDATA[3112 LEE BLDG 7809 REGENTS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1263</Code>
+<Text>PROBABILITY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1616</Code>
+<Text>FOCUSED RESEARCH GROUPS IN MATH SCIENCES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~523421</FUND_OBLG>
+</Award>
+</rootTag>

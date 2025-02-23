@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[HCC-Small: Collaborative Research:  Design and Evaluation of the Next Generation of E-book Readers.]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>75999.00</AwardTotalIntnAmount>
+<AwardAmount>75999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>William Bainbridge</SignBlockName>
+<PO_EMAI>wbainbri@nsf.gov</PO_EMAI>
+<PO_PHON>7032927470</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This research will evaluate the potential of a new generation of electronic document readers that present information across multiple displays - a design that anticipates the future availability of fast, bi-stable, display technology.  Despite the fact that e-book readers have been available to the general public for several years, paper remains far more popular as a medium for reading and annotating documents. Although electronic devices for reading can provide unique affordances such as a large storage capacity, keyword search, indexing, and some interactivity, they remain unpopular probably because they fail to offer several core affordances of paper such as efficient page-to-page navigation, quick access to multiple documents, and efficient handling of annotations.&lt;br/&gt;&lt;br/&gt;Starting from an existing proof of concept, this project will design a fully functional prototype that addresses a large spectrum of reading activities that include: reading a book or magazine, lateral reading, and active reading. A set of deployable prototypes will be used to evaluate the potential of the design through a series of longitudinal studies. In producing prototypes of a next generation electronic document reader, this project will systematically study the design parameters that might enhance the reading experience on such devices in a wide variety of scenarios encompassing a diversity of reading activities. &lt;br/&gt;&lt;br/&gt;It is possible that digital displays will become the predominant technology for&lt;br/&gt;consuming text information. However, digital reading devices will be used only if they combine physical design, software infrastructure, and interface features that support a wide variety of reading patterns.  Increasing amounts of reading material (both classic and modern) are available through digital distribution. By making it convenient and enjoyable to access this wealth of digital content, this project will spur new interest in reading both for work and pleasure.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/04/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0812562</AwardID>
+<Investigator>
+<FirstName>Maneesh</FirstName>
+<LastName>Agrawala</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Maneesh Agrawala</PI_FULL_NAME>
+<EmailAddress><![CDATA[maneesh@cs.stanford.edu]]></EmailAddress>
+<NSF_ID>000068262</NSF_ID>
+<StartDate>08/04/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress>1608 4TH ST STE 201</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GS3YEVSS12N6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>BERKELEY</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947101749</ZipCode>
+<StreetAddress><![CDATA[1608 4TH ST STE 201]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7367</Code>
+<Text>HCC-Human-Centered Computing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9215</Code>
+<Text>HIGH PERFORMANCE COMPUTING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~75999</FUND_OBLG>
+</Award>
+</rootTag>

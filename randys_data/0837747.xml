@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CSI Module to Enhance Students Learning in Materials, Design and Manufacturing Engineering]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>102779.00</AwardTotalIntnAmount>
+<AwardAmount>102779</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maura Borrego</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Engineering Mechanical - (56)&lt;br/&gt;&lt;br/&gt;Create your Scenario Interactively (CSI) is a novel concept that utilizes interactive storylines, 2D/3D visualization, simulation, and state-of-the-art interaction technologies. In this exploratory grant project personnel develop a CSI module, implement the module in a series of undergraduate materials, design, and manufacturing engineering courses at The University of Oklahoma (OU) and Tuskegee University (TU), assess the impact of these modules on students' learning and retention through external evaluation, and disseminate the results globally. This project provides students with a tool that enhances their understanding of engineering concepts. In the CSI module, instructors first present the scenario to attract the students' attention, and then teach the theoretical content needed to accomplish the goals of the scenario. Afterwards, students solve relevant problems associated with the scenario in the CSI environment and provide justifications for their design decisions. Simulations and visualizations for each step in the design scenario are provided for students to demonstrate the effects of their decisions. This CSI module:(i) stimulates active learning; (ii) ties theory with real-world design experience, (ii) provides more insight into engineering careers, and (iii) serves as a natural link to subsequent courses in the STEM disciplines.  Use of this CSI module in courses will positively impact student learning and retention in engineering and provide a mechanism for increasing student interest in engineering careers.]]></AbstractNarration>
+<MinAmdLetterDate>06/01/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/01/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0837747</AwardID>
+<Investigator>
+<FirstName>Mrinal</FirstName>
+<LastName>Saha</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mrinal C Saha</PI_FULL_NAME>
+<EmailAddress><![CDATA[msaha@ou.edu]]></EmailAddress>
+<NSF_ID>000351233</NSF_ID>
+<StartDate>06/01/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Zahed</FirstName>
+<LastName>Siddique</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zahed Siddique</PI_FULL_NAME>
+<EmailAddress><![CDATA[zsiddique@ou.edu]]></EmailAddress>
+<NSF_ID>000260270</NSF_ID>
+<StartDate>06/01/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Oklahoma Norman Campus</Name>
+<CityName>NORMAN</CityName>
+<ZipCode>730193003</ZipCode>
+<PhoneNumber>4053254757</PhoneNumber>
+<StreetAddress>660 PARRINGTON OVAL RM 301</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<StateCode>OK</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OK04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EVTSTTLCEWS5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF OKLAHOMA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Oklahoma Norman Campus]]></Name>
+<CityName>NORMAN</CityName>
+<StateCode>OK</StateCode>
+<ZipCode>730193003</ZipCode>
+<StreetAddress><![CDATA[660 PARRINGTON OVAL RM 301]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OK04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0409</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000910DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~102779</FUND_OBLG>
+</Award>
+</rootTag>

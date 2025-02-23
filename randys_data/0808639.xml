@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF Impact Methodology Conference]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>16235.00</AwardTotalIntnAmount>
+<AwardAmount>16235</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DRL</Abbreviation>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John S. Bradley</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The Consortium for Mathematics and Its Applications is convening a workshop with expert participants to develop a consensus on the best methods for selecting the most important outcomes of NSF?s funding of mathematics and science education projects over the last few decades and for assessing the impacts of these outcomes.  Specifically, the workshop addresses the following issues.&lt;br/&gt; How to select the specific NSF programs to be assessed.&lt;br/&gt; How to select the persons to be interviewed.&lt;br/&gt; Which methodologies will be used to assess program impact.&lt;br/&gt; How data will be gathered, organized, reported, and disseminated.&lt;br/&gt; How such data can be acquired by NSF going forward.]]></AbstractNarration>
+<MinAmdLetterDate>02/20/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>02/20/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0808639</AwardID>
+<Investigator>
+<FirstName>Solomon</FirstName>
+<LastName>Garfunkel</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Solomon Garfunkel</PI_FULL_NAME>
+<EmailAddress><![CDATA[sol@comap.com]]></EmailAddress>
+<NSF_ID>000152855</NSF_ID>
+<StartDate>02/20/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Consortium For Mathematics &amp; Its Applications Inc</Name>
+<CityName>BEDFORD</CityName>
+<ZipCode>017301459</ZipCode>
+<PhoneNumber>7818627878</PhoneNumber>
+<StreetAddress>175 MIDDLESEX TPKE</StreetAddress>
+<StreetAddress2><![CDATA[STE 3B]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V2LCDJZQ2H96</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CONSORTIUM FOR MATHEMATICS &amp; ITS APPLICATIONS INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Consortium For Mathematics &amp; Its Applications Inc]]></Name>
+<CityName>BEDFORD</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>017301459</ZipCode>
+<StreetAddress><![CDATA[175 MIDDLESEX TPKE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7645</Code>
+<Text>Discovery Research K-12</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9177</Code>
+<Text>ELEMENTARY/SECONDARY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~16235</FUND_OBLG>
+</Award>
+</rootTag>

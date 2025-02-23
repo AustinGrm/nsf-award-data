@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Meeting the Educational Challenge in Mico/Nanorobotics for Biomedical Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>112429.00</AwardTotalIntnAmount>
+<AwardAmount>112429</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Susan Finger</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Engineering - Other (59)&lt;br/&gt;&lt;br/&gt;This project is developing a set of learning materials and laboratory modules in bio-nanorobotics that can be used in undergraduate biomedical, electrical and computer engineering curricula.    The learning materials are being developed using a challenge-based pedagogy and incorporating active learning so that students may achieve adaptive expertise in the area.   The learning materials include lecture units on micro- and nanorobot components and design, case studies on the use of micro- and nanorobots in biomedicine, and an open ended design problem involving pill sized robots for the gastrointestinal tract.   The laboratory modules use a combination of computer simulation and a small robot test bed to teach robot navigation and multi-robot cooperation.  The project includes rigorous formative and summative evaluation plans with both qualitative and quantitative components coordinated by an independent evaluator.  The evaluation plan is designed to establish the quality of the materials and to ensure the project goals are met.    The projects results are being disseminated through conferences and journal publications and through direct contact with four other institutions of higher learning with diverse student bodies.]]></AbstractNarration>
+<MinAmdLetterDate>04/14/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>04/14/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0837584</AwardID>
+<Investigator>
+<FirstName>Hong</FirstName>
+<LastName>Man</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hong Man</PI_FULL_NAME>
+<EmailAddress><![CDATA[hman@stevens.edu]]></EmailAddress>
+<NSF_ID>000431444</NSF_ID>
+<StartDate>04/14/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yi</FirstName>
+<LastName>Guo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yi Guo</PI_FULL_NAME>
+<EmailAddress><![CDATA[yguo1@stevens.edu]]></EmailAddress>
+<NSF_ID>000068724</NSF_ID>
+<StartDate>04/14/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Arthur</FirstName>
+<LastName>Ritter</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Arthur Ritter</PI_FULL_NAME>
+<EmailAddress><![CDATA[aritter@stevens.edu]]></EmailAddress>
+<NSF_ID>000072061</NSF_ID>
+<StartDate>04/14/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stevens Institute of Technology</Name>
+<CityName>HOBOKEN</CityName>
+<ZipCode>07030</ZipCode>
+<PhoneNumber>2012168762</PhoneNumber>
+<StreetAddress>1 CASTLEPOINT ON HUDSON</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJ6CN5Y5A2R5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF THE STEVENS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Stevens Institute of Technology]]></Name>
+<CityName>HOBOKEN</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>07030</ZipCode>
+<StreetAddress><![CDATA[1 CASTLEPOINT ON HUDSON]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0409</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000910DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>1300CYXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~112429</FUND_OBLG>
+</Award>
+</rootTag>

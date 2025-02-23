@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Immigration and the Dynamics of Labor Market Adjustment]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>140000.00</AwardTotalIntnAmount>
+<AwardAmount>140000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050200</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Patricia White</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[PI: Ted Mouw&lt;br/&gt;&lt;br/&gt;?Immigration and the Dynamics of Labor Market Adjustment in the United States?&lt;br/&gt;&lt;br/&gt;Abstract&lt;br/&gt;&lt;br/&gt;This research project examines the effect of immigration on the employment and wages of native workers.  There is a contentious debate in the academic literature between those who see the see the effect of immigration on wages and employment as small, if not zero, and those who argue that there is a substantial negative effect for less-educated native workers.  This debate has spilled over into the media and mirrors the polarization of the immigration debate in society as a whole. The key to resolving this debate hinges on our understanding of how the labor market adjusts to an influx of immigrants. As the local labor market quickly adjusts through the out-migration of native workers away from high-immigration areas or the in-migration of jobs in industries that absorb immigrant labor, it is possible that the negative impact at the local level is quickly diffused throughout the country, and that the length of time between observations in most existing studies?typically the 10 years between censuses?is too long to model the process of adjustment.  With quarterly individual and firm-level administrative data on the earnings and geographic location of workers from the newly available Longitudinal Employer Household Dynamics (LEHD) data, the investigators will model the process of labor market adjustment by following individual workers over time. The LEHD combines the benefits of the detailed geographic information and large sample size of the decennial census with the strengths of individual longitudinal data sets.  This unique data will allow the investigators to model the short-term effects that are missed by other studies that use census data, as well as document the longer-term effects on workers who are displaced by immigration in specific industries.  The investigators will also analyze the impact of skill complementarities between native and immigrant workers by occupation within detailed industries and at the firm level. The proposed research has the potential to provide a definitive answer to the question of the effect of immigration on the labor market.  The findings will be used to inform the important public policy debate over immigration by providing clear empirical evidence on labor market impacts.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>09/05/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/05/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0827347</AwardID>
+<Investigator>
+<FirstName>Ted</FirstName>
+<LastName>Mouw</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ted Mouw</PI_FULL_NAME>
+<EmailAddress><![CDATA[tedmouw@email.unc.edu]]></EmailAddress>
+<NSF_ID>000271492</NSF_ID>
+<StartDate>09/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina at Chapel Hill</Name>
+<CityName>CHAPEL HILL</CityName>
+<ZipCode>275995023</ZipCode>
+<PhoneNumber>9199663411</PhoneNumber>
+<StreetAddress>104 AIRPORT DR STE 2200</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>D3LHU66KBLD5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>N8DMK1K4C2K5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of North Carolina at Chapel Hill]]></Name>
+<CityName>CHAPEL HILL</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>275995023</ZipCode>
+<StreetAddress><![CDATA[104 AIRPORT DR STE 2200]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1320</Code>
+<Text>Economics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1331</Code>
+<Text>Sociology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~140000</FUND_OBLG>
+</Award>
+</rootTag>

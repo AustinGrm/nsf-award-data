@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Gene Expression Networks and their Regulators in a Model Perennial Plant]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070100</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karen Cone</SignBlockName>
+<PO_EMAI>kccone@nsf.gov</PO_EMAI>
+<PO_PHON>7032924967</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Intellectual merit: Transcription networks may be defined as the organization and relationships of elements that control the expression of functionally related genes. Previous studies have established the feasibility of characterizing the genetic regulation of gene expression based on full genome sequence and transcription profiling of families/pedigrees. However, few studies have attempted to describe transcription networks of genes and their regulators, much less to define the mechanisms of this regulation. This project represents the first level of information required to link genome and genotype to phenotype and, through this analysis, gain an understanding of the basis of morphological and developmental diversity of organisms. Describing these networks and their diversity also provides insight into the role of the regulation of gene expression in the evolution of higher plants. In this project, a comprehensive description of the genetic regulation of gene expression will be generated for the model perennial plant Populus trichocarpa. Transcription networks will be identified and genetic models for their control will be generated for different plant tissues, creating the first description of their ontogeny (developmental regulation within a given plant), diversity (number and complexity) and conservation both within the species and in comparison to other species. Candidates for the regulation of these transcription networks and the mechanisms of regulation will also be pursued. To achieve these objectives, whole-genome microarrays will be analyzed in combination with the P. trichocarpa genome sequence. Genetic loci that regulate gene transcript abundance variation (expression QTLs, or eQTL) will be identified. Gene expression networks will be defined based on coordinated regulation of functionally related genes and shared eQTLs. In addition to transcriptional regulatory circuits, these studies have the potential to provide information about post-transcriptional control, which has not been studied extensively in higher plants. The raw and processed microarray data, as well as the eQTLs and networks discovered through the research will be made available through a new web site (http://forestgenomics.ifas.ufl.edu/KirstLab/PoplarTranscriptionalNetworks). In addition, this information will be integrated with the genome sequence, genetic maps, and the Gene Ontology/Kegg functional annotation system that is available on the Poplar Genome Initiative Portal (www.jgi.doe.gov/poplar).&lt;br/&gt;&lt;br/&gt;Broader impacts: This project will provide training and support to four graduate students, and two postdoctoral associates, using innovative approaches that integrate quantitative genetics and genomics. It will also create opportunities for high-school students from underrepresented groups to participate in research at the University of Florida. For the plant scientific community, this research will establish a framework for comparisons with the architecture of transcript regulation in monocots, other dicots, and gymnosperms. The models of genetic regulation of individual genes and metabolic and regulatory networks will provide support for the analysis and modification of pathway products for improvement of phenotypes and metabolic engineering. The population that will be used in this study has also been extensively phenotyped for growth, plant architecture, wood quality and other valuable properties. This phenotypic information, in combination with the analysis of gene expression networks will be used to identify genes that regulate variation of commercially important traits for the agricultural and forestry industry. All the data will also be integrated with genome sequence, genetic maps, and the Gene Ontology / Kegg functional annotation based on a visual, searchable tool.]]></AbstractNarration>
+<MinAmdLetterDate>09/07/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/07/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0817900</AwardID>
+<Investigator>
+<FirstName>Matias</FirstName>
+<LastName>Kirst</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matias Kirst</PI_FULL_NAME>
+<EmailAddress><![CDATA[mkirst@ufl.edu]]></EmailAddress>
+<NSF_ID>000255270</NSF_ID>
+<StartDate>09/07/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326111941</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1523 UNION RD RM 207</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NNFQH1JAPEP3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF FLORIDA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D4GCCCMXR1H3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Florida]]></Name>
+<CityName>GAINESVILLE</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>326111941</ZipCode>
+<StreetAddress><![CDATA[1523 UNION RD RM 207]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1329</Code>
+<Text>Plant Genome Research Project</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1154</Code>
+<Text>GENE EXPRESSION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1329</Code>
+<Text>PLANT GENOME RESEARCH PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~250000</FUND_OBLG>
+</Award>
+</rootTag>

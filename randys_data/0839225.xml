@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:High Performance Zero-Crossing Based A/D Converter Architectures]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>99750.00</AwardTotalIntnAmount>
+<AwardAmount>99750</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+<PO_EMAI>mnair@nsf.gov</PO_EMAI>
+<PO_PHON>7032927059</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This SBIR Phase I research proposal will investigate new circuit architectures for high performance Analog-to-Digital (A/D) converters with potentially more than an order of magnitude lower power consumption and much smaller silicon area than conventional architectures. The new architectures are based on zero-crossing detectors. The zero-crossing based circuits utilize the virtual-ground based signal processing as in traditional op-amp based circuits. Therefore, they provide the same functionality and robustness and are compatible with most op-amp based circuit architectures. The zero-crossing detectors replace the virtual ground forcing function of the op-amp with virtual ground detection by a zero-crossing detector. The zero-crossing detector based circuits provide high speed operation at extremely low power consumption, are tiny in size, and are compatible with standard deep submicron Complementary Metal Oxide Semiconductors (CMOS) technologies. &lt;br/&gt;&lt;br/&gt;The proposed research, if successful, can have far reaching impact, because A/D converters are ubiquitous in electronics systems. The power consumption represents approximately thirty (30) fold reduction from the state-of-the art. It will provide high performance A/D converters built in deep submicron CMOS technologies thereby exploiting their very low cost, high-speed capability, tiny size, high level of integration, and low power digital circuits. These may include software-defined and cognitive radios, and portable phased array radios among many other possibilities. For military applications, Portable phased-array radars, battery-operated smart sensors (e.g. smart dust), micro-robots, and small unmanned aircrafts can benefit from the low power and tiny size/weight/volume of the proposed circuits.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>11/04/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>11/04/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839225</AwardID>
+<Investigator>
+<FirstName>Kush</FirstName>
+<LastName>Gulati</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kush Gulati</PI_FULL_NAME>
+<EmailAddress><![CDATA[kgulati@cambridgeanalog.com]]></EmailAddress>
+<NSF_ID>000506962</NSF_ID>
+<StartDate>11/04/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cambridge Analog Technologies, Inc.</Name>
+<CityName>Bedford</CityName>
+<ZipCode>017301417</ZipCode>
+<PhoneNumber>7813306735</PhoneNumber>
+<StreetAddress>54 Middlesex Turnpike</StreetAddress>
+<StreetAddress2><![CDATA[Suite 1250]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cambridge Analog Technologies, Inc.]]></Name>
+<CityName>Bedford</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>017301417</ZipCode>
+<StreetAddress><![CDATA[54 Middlesex Turnpike]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7257</Code>
+<Text>APPLICATS OF ADVANCED TECHNOLS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9139</Code>
+<Text>INFORMATION INFRASTRUCTURE &amp; TECH APPL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~99750</FUND_OBLG>
+</Award>
+</rootTag>

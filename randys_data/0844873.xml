@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Computerization of Orphaned Aquatic Collections -- North Carolina State Museum of Natural Sciences</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>285048.00</AwardTotalIntnAmount>
+<AwardAmount>285048</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne Maglia</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;The North Carolina State Museum of Natural Sciences (NCSM), in a major part with prior NSF support, has accomplished the curation, geo-referencing, and data basing of over 50,000 lots of fishes and 21,800 lots of aquatic invertebrates (see: http://collections.naturalsciences.org and the Global Biodiversity Information Facility site). Given further NSF support, the experienced staffs of the NCSM fishes and mollusks units will build on these accomplishments to attempt full assimilation of several orphaned collections adopted by NCSM that are of considerable regional and historic importance (ca. 55,000 lots of fishes, 60,000 lots of mollusks). The major regional scope of these is the Mid-Atlantic States, Southeast, and South Atlantic Bight.&lt;br/&gt;&lt;br/&gt;Beyond facilitating primary researchers, benefits to conservation planners will be greatly increased by rapid electronic access to biotic occurrence data from across the broad and rapidly developing region served. Education of the public is equally critical to conservation of biodiversity and electronic collections data and mapping capabilities are integral to a new NCSM facility that features near and distant learning experiences on current biodiversity research. Thus empowered, these innovations should better serve to enhance the public's appreciation for this diversity and instill the will to protect it. Five technicians, well schooled in best practices during the project, will facilitate the field of biodiversity research well into the future.</AbstractNarration>
+<MinAmdLetterDate>09/10/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>09/10/2009</MaxAmdLetterDate>
+<ARRAAmount>285048</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0844873</AwardID>
+<Investigator>
+<FirstName>Wayne</FirstName>
+<LastName>Starnes</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wayne Starnes</PI_FULL_NAME>
+<EmailAddress>wayne.starnes@naturalsciences.org</EmailAddress>
+<NSF_ID>000346911</NSF_ID>
+<StartDate>09/10/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Arthur</FirstName>
+<LastName>Bogan</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Arthur E Bogan</PI_FULL_NAME>
+<EmailAddress>arthur.bogan@ncdenr.gov</EmailAddress>
+<NSF_ID>000431752</NSF_ID>
+<StartDate>09/10/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Friends of the North Carolina State Museum of Natural Sciences</Name>
+<CityName>Raleigh</CityName>
+<ZipCode>276011029</ZipCode>
+<PhoneNumber>9197079847</PhoneNumber>
+<StreetAddress>11 West Jones Stree</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC02</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>615733656</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>FRIENDS OF THE NORTH CAROLINA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[North Carolina State Museum of Natural Sciences]]></Name>
+<CityName>Raleigh</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>276011029</ZipCode>
+<StreetAddress><![CDATA[11 West Jones Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7226</Code>
+<Text>HUMAN RESOURCES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1197</Code>
+<Text>BIOLOGICAL RESEARCH COLLECTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6895</Code>
+<Text>DIGITIZATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9184</Code>
+<Text>BIOTECHNOLOGY - INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~285048</FUND_OBLG>
+</Award>
+</rootTag>

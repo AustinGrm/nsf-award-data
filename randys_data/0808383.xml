@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA["Dissertation Research: "Anaerobic ammonium oxidation:a new pathway for N2 losses from humid tropical forest soils?"]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>12000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010209</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry L. Gholz</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Denitrification to nitrous oxide (N2O) and dinitrogen (N2) is one of the most poorly understood portions of the land-based nitrogen (N) cycle. This microbial process can release N to the atmosphere as N2O, a potent greenhouse gas and a catalyst for stratospheric ozone depletion, or N2, an inert gas.  This dissertation research focuses on understanding the controls on denitrification to N2 and N2O in tropical forest soils, one of the largest natural sources of N2O globally. In preliminary experiments, evidence of N2 production from anaerobic ammonium oxidation (anammox) was detected, as was evidence of iron reduction coupled to anaerobic ammonium oxidation and denitrification. The presence of these new pathways is likely to change the general understanding of ecosystem-scale N cycling. This research will determine the significance of these new N2 production pathways in upland soils. This will be achieved with laboratory experiments employing 15-N tracer methods similar to those successfully used to show the importance of anammox in marine environments.&lt;br/&gt; This project will include several science outreach activities in the local community and on the UC-Berkeley campus.  These include active contributions to Techbridge Girls, a local program introducing girls to careers in technology, science and engineering, and Community Resources for Science, which helps elementary school teachers use scientific resources for hands-on classroom activities. At UC-Berkeley, project personnel will participate in the Undergraduate Graduate Mentorship Program. Research results will be disseminated at national scientific conferences and incorporated into Ecosystem Ecology lectures on N cycling at UC-Berkeley. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>04/29/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/04/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0808383</AwardID>
+<Investigator>
+<FirstName>Whendee</FirstName>
+<LastName>Silver</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Whendee Silver</PI_FULL_NAME>
+<EmailAddress><![CDATA[wsilver@berkeley.edu]]></EmailAddress>
+<NSF_ID>000465005</NSF_ID>
+<StartDate>04/29/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Wendy</FirstName>
+<LastName>Yang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wendy Yang</PI_FULL_NAME>
+<EmailAddress><![CDATA[wyang@life.illinois.edu]]></EmailAddress>
+<NSF_ID>000080990</NSF_ID>
+<StartDate>04/29/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress>1608 4TH ST STE 201</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GS3YEVSS12N6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>BERKELEY</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947101749</ZipCode>
+<StreetAddress><![CDATA[1608 4TH ST STE 201]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1181</Code>
+<Text>ECOSYSTEM STUDIES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1181</Code>
+<Text>ECOSYSTEM STUDIES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~12000</FUND_OBLG>
+</Award>
+</rootTag>

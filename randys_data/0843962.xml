@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[International Materials Institute for Solar Energy Conversion]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>4174000.00</AwardTotalIntnAmount>
+<AwardAmount>4174000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070002</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michael J. Scott</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;With this award Northwestern University will establish an International Materials Institute (IMI) for Solar Energy Conversion. Although conventional silicon and other semiconductor solar cells have achieved high efficiency for solar energy conversion, their production costs remain high.  Organic photovoltaic cells (OPVC) might yield cost-effective green energy for a wide variety of applications.  The efforts of this IMI are focused on theory-guided fundamental research on OPVC - new materials design, processing, and device fabrication to understand physical processes and limitations to efficient conversion and storage of solar energy.  Northwestern University, Louisiana State University and Argonne National Laboratory along with Tsinghua University in China will form the core partnership to lead the efforts of the IMI. Researchers from 35 more institutions worldwide including USA, China, Australia, Germany, Japan, South Africa, and Taiwan will participate as standing partners. IMI activities include exchange visits of faculty, postdoctoral scholars, and students among core partners, annual symposia and workshops for all partners to exchange research findings and development of a global cyber-based network for year-around communication of solar energy research. The IMI will integrate research and education with a strong focus on global leadership development for graduate students, undergraduate courses on energy conversion topics, teaching modules on solar energy topics for K-12, and inform the public about solar energy conversion and its role in energy conservation via museum and media presentations.  A Leadership Council consisting of the lead researchers from core partner institutions will provide oversight and internal assessment of the research and education programs of the IMI. Guidance and external evaluation will be provided by a rotating Technical Advisory Board consisting of representatives from academia, industry and government laboratories.]]></AbstractNarration>
+<MinAmdLetterDate>08/12/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/05/2014</MaxAmdLetterDate>
+<ARRAAmount>4174000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0843962</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Ratner</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark A Ratner</PI_FULL_NAME>
+<EmailAddress><![CDATA[ratner@northwestern.edu]]></EmailAddress>
+<NSF_ID>000088277</NSF_ID>
+<StartDate>08/12/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tobin</FirstName>
+<LastName>Marks</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tobin J Marks</PI_FULL_NAME>
+<EmailAddress><![CDATA[t-marks@northwestern.edu]]></EmailAddress>
+<NSF_ID>000228780</NSF_ID>
+<StartDate>08/12/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Chang</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert P Chang</PI_FULL_NAME>
+<EmailAddress><![CDATA[r-chang@northwestern.edu]]></EmailAddress>
+<NSF_ID>000127039</NSF_ID>
+<StartDate>08/12/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Wasielewski</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael R Wasielewski</PI_FULL_NAME>
+<EmailAddress><![CDATA[m-wasielewski@northwestern.edu]]></EmailAddress>
+<NSF_ID>000308132</NSF_ID>
+<StartDate>08/12/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Isiah</FirstName>
+<LastName>Warner</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Isiah M Warner</PI_FULL_NAME>
+<EmailAddress><![CDATA[iwarner@lsu.edu]]></EmailAddress>
+<NSF_ID>000360301</NSF_ID>
+<StartDate>08/12/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northwestern University</Name>
+<CityName>EVANSTON</CityName>
+<ZipCode>602080001</ZipCode>
+<PhoneNumber>3125037955</PhoneNumber>
+<StreetAddress>633 CLARK STREET</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EXZVPWZBLUE8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHWESTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>EVANSTON</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>602080001</ZipCode>
+<StreetAddress><![CDATA[633 CLARK STREET]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0106000</Code>
+<Name>Materials Research</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7222</Code>
+<Text>XC-Crosscutting Activities Pro</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7503</Code>
+<Text>International Materials Institutes (IMI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7644</Code>
+<Text>ENERGY FOR SUSTAINABILITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9161</Code>
+<Text>SINGLE DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>AMPP</Code>
+<Text>ADVANCED MATERIALS &amp; PROCESSING PROGRAM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~4174000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Building Security In:  Injecting Security throughout the Undergraduate Computing Curriculum]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>399511.00</AwardTotalIntnAmount>
+<AwardAmount>399511</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Victor Piotrowski</SignBlockName>
+<PO_EMAI>vpiotrow@nsf.gov</PO_EMAI>
+<PO_PHON>7032925141</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Computer Science (31)&lt;br/&gt;&lt;br/&gt;Training the next generation of computing professionals to build secure software requires an emphasis on teaching computer security foundations, principles, and skills.  This project takes the approach that an emphasis on security should pervade all aspects of teaching software development.  Based on a successful pilot study done previously, this project is creating learning materials and teaching strategies that are suitable for a minimally-intrusive introduction of security concepts into multiple existing courses: introduction to computer science; introduction to computer information systems; database systems; networks; and web development.  The materials are being tested at five institutions, including three community colleges.  The goals of the project are to increase the security awareness of both students and faculty, to increase the ability of students to apply security principles, and to increase the number of security-skilled graduates. Because of the wide variations in students' academic and socio-economic backgrounds in the participating institutions, the project's evaluation plan includes identifying features in the materials being developed that work well across the different demographic groups.]]></AbstractNarration>
+<MinAmdLetterDate>09/08/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>11/17/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0817267</AwardID>
+<Investigator>
+<FirstName>Shiva</FirstName>
+<LastName>Azadegan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shiva Azadegan</PI_FULL_NAME>
+<EmailAddress><![CDATA[azadegan@towson.edu]]></EmailAddress>
+<NSF_ID>000365224</NSF_ID>
+<StartDate>09/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mike</FirstName>
+<LastName>O'Leary</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mike O'Leary</PI_FULL_NAME>
+<EmailAddress><![CDATA[moleary@towson.edu]]></EmailAddress>
+<NSF_ID>000301621</NSF_ID>
+<StartDate>09/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Blair</FirstName>
+<LastName>Taylor</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Blair Taylor</PI_FULL_NAME>
+<EmailAddress><![CDATA[btaylor@towson.edu]]></EmailAddress>
+<NSF_ID>000068080</NSF_ID>
+<StartDate>09/08/2008</StartDate>
+<EndDate>11/17/2009</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Blair</FirstName>
+<LastName>Taylor</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Blair Taylor</PI_FULL_NAME>
+<EmailAddress><![CDATA[btaylor@towson.edu]]></EmailAddress>
+<NSF_ID>000068080</NSF_ID>
+<StartDate>11/17/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Claude</FirstName>
+<LastName>Turner</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Claude F Turner</PI_FULL_NAME>
+<EmailAddress><![CDATA[cturner@bowiestate.edu]]></EmailAddress>
+<NSF_ID>000139117</NSF_ID>
+<StartDate>09/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Harry</FirstName>
+<LastName>Hochheiser</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Harry Hochheiser</PI_FULL_NAME>
+<EmailAddress><![CDATA[hhochheiser@towson.edu]]></EmailAddress>
+<NSF_ID>000497246</NSF_ID>
+<StartDate>09/08/2008</StartDate>
+<EndDate>11/17/2009</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Siddharth</FirstName>
+<LastName>Kaza</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Siddharth Kaza</PI_FULL_NAME>
+<EmailAddress><![CDATA[skaza@towson.edu]]></EmailAddress>
+<NSF_ID>000518559</NSF_ID>
+<StartDate>11/17/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Towson University</Name>
+<CityName>TOWSON</CityName>
+<ZipCode>212520001</ZipCode>
+<PhoneNumber>4107042236</PhoneNumber>
+<StreetAddress>8000 YORK RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LC3SFMP2L798</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TOWSON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Towson University]]></Name>
+<CityName>TOWSON</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212520001</ZipCode>
+<StreetAddress><![CDATA[8000 YORK RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7492</Code>
+<Text>CCLI-Type 2 (Expansion)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>1300CYXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~399511</FUND_OBLG>
+</Award>
+</rootTag>

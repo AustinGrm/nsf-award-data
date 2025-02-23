@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>ITR:  Searching for Correlations in a High Dimensional Space</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>156983.00</AwardTotalIntnAmount>
+<AwardAmount>156983</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nigel Sharp</SignBlockName>
+<PO_EMAI>nsharp@nsf.gov</PO_EMAI>
+<PO_PHON>7032924905</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>AST-0312498&lt;br/&gt;Connolly&lt;br/&gt;&lt;br/&gt;This project will create analysis tools for multi-dimensional data sets, in order to address the problem of the expected flood of information from current and planned surveys of the sky, and to start making sense of the resultant panchromatic view of the local and distant Universe.  Utilizing recent advances in statistics and new computational techniques will overcome the limitations of earlier approaches and lead to rapid and efficient tools for extracting correlations.  Astrophysical data, not simulations, will be used to test these new algorithms, which will involve dependency trees, non-linear dimensionality reduction schemes, and Bayesian networks.  The methods to be developed will have a broader impact in all areas where massive data sets need analysis.  The training of graduate students to be as comfortable with the latest statistical or computer science techniques as they are with astrophysical problems will have an educational impact.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>09/16/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/16/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0851007</AwardID>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Connolly</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrew J Connolly</PI_FULL_NAME>
+<EmailAddress>ajc@astro.washington.edu</EmailAddress>
+<NSF_ID>000474629</NSF_ID>
+<StartDate>09/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Washington</Name>
+<CityName>Seattle</CityName>
+<ZipCode>981950001</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress>4333 Brooklyn Ave NE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA07</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>605799469</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WASHINGTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>042803536</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Washington - Office of Sponsored Programs]]></Name>
+<CityName>Seattle</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>981054683</ZipCode>
+<StreetAddress><![CDATA[1100 NE 45th St., Suite 300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1686</Code>
+<Text>ITR SMALL GRANTS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0103</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>490100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2003~156983</FUND_OBLG>
+</Award>
+</rootTag>

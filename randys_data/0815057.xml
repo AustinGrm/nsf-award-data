@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Multilocus Comparative Phylogeography of Pine-Oak Woodland Birds in North America]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>149619.00</AwardTotalIntnAmount>
+<AwardAmount>149619</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010207</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samuel Scheiner</SignBlockName>
+<PO_EMAI>sscheine@nsf.gov</PO_EMAI>
+<PO_PHON>7032927175</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Abstract &lt;br/&gt;For nearly a century, biologists have debated whether past climate change promoted speciation in temperate zone organisms. Models of climate-driven geographic speciation were developed for many groups of temperate organisms, and a particularly detailed and explicit speciation model was developed for North American birds. Over the last decade, this paradigm for North American birds has become the topic of debate, and so a comprehensive understanding of how temperate zone birds were impacted by past environmental change events remains elusive. This project will directly test the paradigm and will significantly extend understanding of the history of the fauna of pine and oak woodlands. The work will use state-of-the-art molecular techniques and analyses to examine the temporal and spatial patterns of diversification of North American birds in relation to past environmental change and will produce a multi-locus comparative phylogeography of pine and oak woodland birds. &lt;br/&gt;&lt;br/&gt;The project provides significant mentoring and research opportunities for undergraduate and graduate students, including many students from underrepresented groups, and gives these students a unique opportunity to work in a multi-institutional and multidisciplinary research effort between a small rural university and two large urban research universities. The project also will support a workshop for high school teachers from the rural and reservation communities of western South Dakota and provide them the knowledge and resources to teach about climate change and its impact on biotic diversity in their classrooms. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>09/23/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/23/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0815057</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Klicka</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John T Klicka</PI_FULL_NAME>
+<EmailAddress><![CDATA[klicka@unlv.neveda.edu]]></EmailAddress>
+<NSF_ID>000340254</NSF_ID>
+<StartDate>09/23/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Nevada Las Vegas</Name>
+<CityName>LAS VEGAS</CityName>
+<ZipCode>891549900</ZipCode>
+<PhoneNumber>7028951357</PhoneNumber>
+<StreetAddress>4505 S MARYLAND PKWY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Nevada</StateName>
+<StateCode>NV</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NV01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DLUTVJJ15U66</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BOARD OF REGENTS OF NEVADA SYSTEM OF HIGHER EDUCATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Nevada Las Vegas]]></Name>
+<CityName>LAS VEGAS</CityName>
+<StateCode>NV</StateCode>
+<ZipCode>891549900</ZipCode>
+<StreetAddress><![CDATA[4505 S MARYLAND PKWY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Nevada</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NV01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7378</Code>
+<Text>EVOLUTIONARY GENETICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7378</Code>
+<Text>EVOLUTIONARY GENETICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~149619</FUND_OBLG>
+</Award>
+</rootTag>

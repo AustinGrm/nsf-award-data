@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SGER: Application of atmospheric microplasma to fuel reforming]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>53390.00</AwardTotalIntnAmount>
+<AwardAmount>53390</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajinder P. Khosla</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Objective:&lt;br/&gt;The objective of this effort is to investigate a microplasma MEMS device that is capable of achieving efficient hydrogen production from hydrocarbon fuels.  The project will develop understanding of the microplasma-based reforming processes and will also lead to practical designs of micro-reformers for fuel cell applications. &lt;br/&gt;&lt;br/&gt;Intellectual Merit&lt;br/&gt;The project will involve the design and fabrication of a microstructure that will generate plasmas for hydrogen production.  Major challenges include: the generation of a suitable plasma at atmospheric pressure, and ensuring its stability, durability, and efficiency.  Microplasmas, which differ from conventionally-scaled plasmas in a few important ways, are attractive in this respect.  Both theoretical and experimental studies will be conducted by a multi-disciplinary team, which includes three investigators.  The effort will benchmark the microplasma approach to all other methods of hydrogen production.&lt;br/&gt;&lt;br/&gt;Broader Impact&lt;br/&gt;Both undergraduate and graduate students will be involved in this project.  Because of its interdisciplinary and collaborative nature, as well as its societal relevance, this research effort will serve as a appealing vehicle for education.  The project will involve RIT's co-operative education program.]]></AbstractNarration>
+<MinAmdLetterDate>07/17/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/17/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839961</AwardID>
+<Investigator>
+<FirstName>Yen-Wen</FirstName>
+<LastName>Lu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yen-Wen Lu</PI_FULL_NAME>
+<EmailAddress><![CDATA[ywleen@rit.edu]]></EmailAddress>
+<NSF_ID>000331463</NSF_ID>
+<StartDate>07/17/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tuhin</FirstName>
+<LastName>Das</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tuhin K Das</PI_FULL_NAME>
+<EmailAddress><![CDATA[tdas@ucf.edu]]></EmailAddress>
+<NSF_ID>000320809</NSF_ID>
+<StartDate>07/17/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Davide</FirstName>
+<LastName>Mariotti</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Davide Mariotti</PI_FULL_NAME>
+<EmailAddress><![CDATA[mariute@hotmail.com]]></EmailAddress>
+<NSF_ID>000175825</NSF_ID>
+<StartDate>07/17/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rochester Institute of Tech</Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>146235603</ZipCode>
+<PhoneNumber>5854757987</PhoneNumber>
+<StreetAddress>1 LOMB MEMORIAL DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>J6TWTRKC1X14</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ROCHESTER INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rochester Institute of Tech]]></Name>
+<CityName>ROCHESTER</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>146235603</ZipCode>
+<StreetAddress><![CDATA[1 LOMB MEMORIAL DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0510403</Code>
+<Name>Engineering &amp; Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7564</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>099E</Code>
+<Text>High voltage switching &amp; conversion</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9237</Code>
+<Text>SMALL GRANTS-EXPLORATORY RSRCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~53390</FUND_OBLG>
+</Award>
+</rootTag>

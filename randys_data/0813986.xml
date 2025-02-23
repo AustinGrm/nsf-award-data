@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Energy Nanotechnology International Conference]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>20000.00</AwardTotalIntnAmount>
+<AwardAmount>20000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Theodore L. Bergman</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[CBET-0813986&lt;br/&gt;Shi&lt;br/&gt;&lt;br/&gt;Partial support is provided for the 3rd Energy Nanotechnology International Conference, which will be held in Jacksonville, Florida, on August 10 - 14, 2008. The purpose of this meeting is to engage a broad spectrum of the nanotechnology research community to address leading issues related to energy. &lt;br/&gt;&lt;br/&gt;With respect to the intellectual merit of the conference, a significant component of the conference is the Workshop on Nanotechnologies for Solar and Thermal Energy Conversion and Storage. The invited participants to this workshop will address current barriers to solar and thermal energy conversion and storage, which are emerging as the most significant barriers to widespread application of renewable energy. The output of this workshop will be a roadmap describing future research directions in this vital area. The workshop report will be published as a journal article, allowing for broad dissemination of the findings. &lt;br/&gt;&lt;br/&gt;The broader impacts of the conference include support for women and underrepresented minority participants. The conference, including the workshop discussed above, addresses crucial research needs inhibiting sustainable energy conversion and usage, and thus may lead to reduced consumption of fossil fuel resources. &lt;br/&gt;&lt;br/&gt;This project is jointly funded by the Thermal Transport Processes (TTP) Program, of the Chemical, Bioengineering, Environmental, and Transport Systems (CBET) Division, by the Energy for Sustainability Program, also of CBET, and by the Nanoscale Science &amp; Engineering Program, all within the Directorate for Engineering (ENG).]]></AbstractNarration>
+<MinAmdLetterDate>04/29/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/29/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0813986</AwardID>
+<Investigator>
+<FirstName>Andrei</FirstName>
+<LastName>Fedorov</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrei G Fedorov</PI_FULL_NAME>
+<EmailAddress><![CDATA[AGF@gatech.edu]]></EmailAddress>
+<NSF_ID>000289598</NSF_ID>
+<StartDate>04/29/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Li</FirstName>
+<LastName>Shi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Li Shi</PI_FULL_NAME>
+<EmailAddress><![CDATA[lishi@mail.utexas.edu]]></EmailAddress>
+<NSF_ID>000485320</NSF_ID>
+<StartDate>04/29/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1406</Code>
+<Text>TTP-Thermal Transport Process</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7644</Code>
+<Text>EchemS-Electrochemical Systems</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7681</Code>
+<Text>ENG NNI Special Studies</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>011E</Code>
+<Text>Nano environmental health &amp; safety</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>090E</Code>
+<Text>Chem/Bio and Physical Diagnostics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~20000</FUND_OBLG>
+</Award>
+</rootTag>

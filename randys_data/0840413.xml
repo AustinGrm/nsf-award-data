@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Acquisition of a Cyber-Enabled 600 MHz NMR Spectrometer for Research and Teaching]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090002</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos Murillo</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;With support from the Chemistry Research Instrumentation and Facilities:Multiuser program (CRIF:MU), the Department of Chemistry at Wayne State University (WSU) will acquire a cyber-enabled 600 MHz nuclear magnetic resonance (NMR) spectrometer.    It will be employed in research projects that span many areas of chemistry including (a) the chemistry of magnetic resonance imaging (MRI) and asymmetric catalysis; (b) the development of synthetic carbohydrate-based vaccines using zwitterionic polysaccharides (ZPSs); (c) the development of new, general methods for facile construction of six-membered and medium-sized ring systems (carbocycles and heterocycles); (d) applications to total synthesis of a wide variety of biologically active, structurally challenging natural products; (e) the development of new strategies for the synthesis of complex oligosaccharides and glycoconjugates; and (f) total synthesis of pharmacologically active natural products.&lt;br/&gt;&lt;br/&gt;Multinuclear NMR spectroscopy is an essential analytical tool in synthetic chemistry.  NMR spectra enable researchers to identify their reaction products including unexpected substances and impurities.  They reveal information on the connectivity of the atoms in molecules and materials - i.e. their structures - by detecting transitions between energy levels arising from the nuclear spin properties of atoms.  The instrument will have an important and broad-based impact on WSU education and training mission. It will be used to support research projects of undergraduates, graduate students, and postdoctoral researchers, including traditionally underrepresented groups (that make up ca. 25% of the enrollment at WSU) as well at smaller nearby colleges and universities.]]></AbstractNarration>
+<MinAmdLetterDate>08/04/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2009</MaxAmdLetterDate>
+<ARRAAmount>500000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0840413</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Rigby</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James H Rigby</PI_FULL_NAME>
+<EmailAddress><![CDATA[jhr@chem.wayne.edu]]></EmailAddress>
+<NSF_ID>000281741</NSF_ID>
+<StartDate>08/04/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Coleman</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David M Coleman</PI_FULL_NAME>
+<EmailAddress><![CDATA[dmc@chem.wayne.edu]]></EmailAddress>
+<NSF_ID>000382974</NSF_ID>
+<StartDate>08/04/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jin</FirstName>
+<LastName>Cha</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jin K Cha</PI_FULL_NAME>
+<EmailAddress><![CDATA[jcha@chem.wayne.edu]]></EmailAddress>
+<NSF_ID>000304266</NSF_ID>
+<StartDate>08/04/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Zhongwu</FirstName>
+<LastName>Guo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zhongwu Guo</PI_FULL_NAME>
+<EmailAddress><![CDATA[zguo@chem.ufl.edu]]></EmailAddress>
+<NSF_ID>000275984</NSF_ID>
+<StartDate>08/04/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Crich</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David Crich</PI_FULL_NAME>
+<EmailAddress><![CDATA[dcrich@chem.wayne.edu]]></EmailAddress>
+<NSF_ID>000505135</NSF_ID>
+<StartDate>08/04/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Wayne State University</Name>
+<CityName>DETROIT</CityName>
+<ZipCode>482023692</ZipCode>
+<PhoneNumber>3135772424</PhoneNumber>
+<StreetAddress>5700 CASS AVE STE 4900</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M6K6NTJ2MNE5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WAYNE STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Wayne State University]]></Name>
+<CityName>DETROIT</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>482023692</ZipCode>
+<StreetAddress><![CDATA[5700 CASS AVE STE 4900]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1938</Code>
+<Text>Chemical Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1108</Code>
+<Text>INSTRUMENTAT &amp; INSTRUMENT DEVP</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9162</Code>
+<Text>MULTI DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~500000</FUND_OBLG>
+</Award>
+</rootTag>

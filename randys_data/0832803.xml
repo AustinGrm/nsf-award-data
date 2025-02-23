@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Creative Collaboration in Online Virtual Worlds</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>86677</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>William Bainbridge</SignBlockName>
+<PO_EMAI>wbainbri@nsf.gov</PO_EMAI>
+<PO_PHON>7032927470</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This is an exploratory study of the convergence of play and creative collaboration in the University of There (UOT), a formal learning environment conceived, created, and run entirely by players within the virtual world There.com. With 147 instructors, 27 staff members and 1869 registered members of its Student Union, UOT is both a large-scale collaborative project and a distributed learning environment. Fieldwork will be conducted primarily in-world through participant observation, interviews, analysis of player-created virtual artifacts, and extra-virtual collaboration environments and tools such as forums, as well as a survey instrument. &lt;br/&gt;&lt;br/&gt;This project builds on the investigator's previous research, which identified the phenomena of "emergent authorship" and "productive play." Contrary to prior assumptions that games were inherently unproductive, this research found that highly engaged players could become motivated to transition into a mode of creativity and productivity, especially those inspired by a strong connection to their communities. Thus engaged in a process of cultural production, players were motivated to embark on often complex and challenging collaborative, creative endeavors. This research will use a mixed-methods approach, including qualitative and quantitative data collected from administrators, instructors and students, to analyze specific ways that players initiate and maintain creative collaboration in online virtual worlds and how players leverage, subvert and augment networked play software for work-related tasks.&lt;br/&gt;&lt;br/&gt;This exploratory research will provide insight for researchers in computer-supported collaborative work and related fields in order to understand the synergies between play and work and how those might be applied in work-related collaboration tasks. This will include how to use techniques and tools from networked play software for enhancing creative collaboration and knowledge sharing in the workplace.  Outcomes will include a preliminary set of design guidelines and hypotheses upon which larger-scale research could be based in future.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>06/05/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/17/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0832803</AwardID>
+<Investigator>
+<FirstName>Celia</FirstName>
+<LastName>Pearce</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Celia Pearce</PI_FULL_NAME>
+<EmailAddress>c.pearce@neu.edu</EmailAddress>
+<PI_PHON>3108668014</PI_PHON>
+<NSF_ID>000077176</NSF_ID>
+<StartDate>06/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 NORTH AVE NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7367</Code>
+<Text>HCC-Human-Centered Computing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9215</Code>
+<Text>HIGH PERFORMANCE COMPUTING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9237</Code>
+<Text>SMALL GRANTS-EXPLORATORY RSRCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~86677</FUND_OBLG>
+</Award>
+</rootTag>

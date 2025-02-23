@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[REU Site: MetroBotics: undergraduate robot research at an urban public college]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>345000.00</AwardTotalIntnAmount>
+<AwardAmount>345000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maria Zemankova</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Abstract&lt;br/&gt;CNS 0851901&lt;br/&gt;REU Site: REU Site: MetroBotics: Undergraduate Robot Research at an Urban Public College&lt;br/&gt;PI: Elizabeth Sklar, CUNY Brooklyn College&lt;br/&gt;&lt;br/&gt;This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;This award provides funding for a new Research Experiences for Undergraduate site focused on agent-based systems at CUNY Brooklyn College.  In this academic year program undergraduate students perform hands-on experiments dealing with multi-agent and multi-robot systems while working in the Agents Lab environment at Brooklyn College. The project is lead by a faculty team with a history of involvement of undergraduates in research. An Advisory Board of faculty across the greater New York City area provides oversight and assistance with recruitment of students who attend New York City area public colleges. The goal is to provide meaningful research experiences and professional development opportunities to a diverse student population that has been unable to participate in traditional summer resident research programs.&lt;br/&gt;&lt;br/&gt;The intellectual merit of this project lies in the research focus of agent-based systems, a topic that is of current interest and importance and that is also attractive to undergraduates. The experienced leadership team is providing a research environment and guidance to the undergraduates that could lead to new discoveries and results that impact the field of robotics and multi-agent systems.&lt;br/&gt;&lt;br/&gt;The broader impacts of the project include providing a quality research experience to a diverse group of undergraduate students, including students from community colleges. The participating faculty members are committed to including under-represented minority students in their research.  Thus this project has the potential to produce new computer science graduate students and faculty members and to advance discovery and understanding while promoting learning. &lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>06/22/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/22/2009</MaxAmdLetterDate>
+<ARRAAmount>345000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0851901</AwardID>
+<Investigator>
+<FirstName>Elizabeth</FirstName>
+<LastName>Sklar</LastName>
+<PI_MID_INIT>I</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elizabeth I Sklar</PI_FULL_NAME>
+<EmailAddress><![CDATA[elizabeth.sklar@kcl.ac.uk]]></EmailAddress>
+<NSF_ID>000106884</NSF_ID>
+<StartDate>06/22/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Simon</FirstName>
+<LastName>Parsons</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Simon Parsons</PI_FULL_NAME>
+<EmailAddress><![CDATA[parsons@sci.brooklyn.cuny.edu]]></EmailAddress>
+<NSF_ID>000119932</NSF_ID>
+<StartDate>06/22/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CUNY Brooklyn College</Name>
+<CityName>BROOKLYN</CityName>
+<ZipCode>112102850</ZipCode>
+<PhoneNumber>7189515622</PhoneNumber>
+<StreetAddress>2900 BEDFORD AVE STE 1</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>XNAKYW3FTSE1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U7WPB7AFN7M2</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[CUNY Brooklyn College]]></Name>
+<CityName>BROOKLYN</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>112102850</ZipCode>
+<StreetAddress><![CDATA[2900 BEDFORD AVE STE 1]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1139</Code>
+<Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~345000</FUND_OBLG>
+</Award>
+</rootTag>

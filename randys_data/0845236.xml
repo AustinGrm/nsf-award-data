@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Development of Novel Methods to Measure Cell Membrane Protein Clustering in vivo: Unraveling the Relationship between Clustering, Ligand Binding and Cell Signaling]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2015</AwardExpirationDate>
+<AwardTotalIntnAmount>600000.00</AwardTotalIntnAmount>
+<AwardAmount>600000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090006</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Colby Foss</SignBlockName>
+<PO_EMAI>cfoss@nsf.gov</PO_EMAI>
+<PO_PHON>7032925327</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA["This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5)." &lt;br/&gt;&lt;br/&gt;The Analytical and Surface Chemistry Program of the Division of Chemistry and the Cellular System cluster of the Molecular and Cellular Biosciences Division will support the CAREER development plan of Prof. Emily Smith of Iowa State University. Prof. Smith and her research group will develop high spatial resolution imaging methods to measure the dynamic organization of cell membrane receptors. These methods include fluorescence resonance energy transfer assays that do not require receptor modification and fluorescence correlation spectroscopy coupled to stimulated emission depletion imaging. Prof. Smith's work will address the important question of how the spatial organization of the cell membrane relates to cell signaling and ligand binding events for two membrane receptors important in cell signaling: integrins and receptors for advanced glycation end products. Drawing from concepts of analytical chemistry and molecular biology, the project will provide excellent training opportunities to graduate students. To support this training, a graduate course in advanced microscopy techniques will be developed. Prof. Smith will also establish a high school outreach program to provide hands-on research experience through a developed low-cost instructional module and summer internship opportunities for high school students from nearby rural school districts.]]></AbstractNarration>
+<MinAmdLetterDate>07/19/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/19/2014</MaxAmdLetterDate>
+<ARRAAmount>600000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0845236</AwardID>
+<Investigator>
+<FirstName>Emily</FirstName>
+<LastName>Smith</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Emily A Smith</PI_FULL_NAME>
+<EmailAddress><![CDATA[esmith1@iastate.edu]]></EmailAddress>
+<NSF_ID>000508097</NSF_ID>
+<StartDate>07/19/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Iowa State University</Name>
+<CityName>AMES</CityName>
+<ZipCode>500112105</ZipCode>
+<PhoneNumber>5152945225</PhoneNumber>
+<StreetAddress>515 MORRILL RD, 1350 BEARDSHEAR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DQDBM7FGJPC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DQDBM7FGJPC5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Iowa State University]]></Name>
+<CityName>AMES</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>500112105</ZipCode>
+<StreetAddress><![CDATA[515 MORRILL RD, 1350 BEARDSHEAR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1114</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1972</Code>
+<Text>ELECTROCHEMISTRY &amp; SURFACE CHE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1187</Code>
+<Text>PECASE- eligible</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~600000</FUND_OBLG>
+</Award>
+</rootTag>

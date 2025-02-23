@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Wave propagation: singularities and asymptotics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>390000.00</AwardTotalIntnAmount>
+<AwardAmount>390000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce P. Palka</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The object of the proposed research is the study of wave propagation. This encompasses such diverse areas as the study of singularities of solutions of the wave equation, which is the "nearby" behavior of waves, as well as the asymptotic behavior of waves on curved space-times, such as in general relativity. The project will employ geometric microlocal techniques to explore new problems in these areas. Some of these techniques are constructive, such as the ones used by the author in the description of the scattering operator on asymptotically de-Sitter-like spaces, and some rely on phase-space energy estimates, such as the microlocal positive commutator estimates employed by the author in the proof of the propagation of singularities on domains with corners and in showing that the wave diffracted by a smooth edge is more regular (which can be interpreted as "weaker") than the incident wave under suitable hypotheses, in joint work with Melrose and Wunsch.&lt;br/&gt;&lt;br/&gt;Most people are familiar with the following two descriptions of the propagation of light. First, in geometric optics, light propagates in straight lines, reflecting from smooth surfaces according to Snell's law (i.e., the angles of incidence and of reflection are the same, as if light consisted of billiard balls). Second, light can be described by the wave equation, its propagation thus being similar to that of water waves. There is a close relationship between these two viewpoints. Namely, for solutions of the wave equation, the propagation of sharp signals (or "singularities" of signals obtained, for example, by turning on light instantaneously) is precisely described by the simpler geometric optics picture. Part of this project can be regarded as an extension of this work to a more general setting, such as reflections from curved edges. As wave propagation is ubiquitous in the physical world, a more precise understanding of it has many potential applications, for instance, to inverse problems. In a material with cracks inside it, one would like to find out the location of these cracks by probing the material with waves (say, sound waves, or x-rays). These cracks are typically not smooth (e.g., they may have edges or corners), but they still fit into our general geometric framework. One can use our proposed results -- namely, that the reflections from the tips of the cracks are weaker (in a certain sense) than the reflections from the smooth parts -- combined with the very precise understanding of reflections from the smooth parts, to locate the cracks. The rough conclusion: the tips can be ignored.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>05/06/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/06/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0801226</AwardID>
+<Investigator>
+<FirstName>Andras</FirstName>
+<LastName>Vasy</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andras Vasy</PI_FULL_NAME>
+<EmailAddress><![CDATA[andras@math.stanford.edu]]></EmailAddress>
+<NSF_ID>000489272</NSF_ID>
+<StartDate>05/06/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stanford University</Name>
+<CityName>STANFORD</CityName>
+<ZipCode>943052004</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress>450 JANE STANFORD WAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HJD6G4D6TJY5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE LELAND STANFORD JUNIOR UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Stanford University]]></Name>
+<CityName>STANFORD</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>943052004</ZipCode>
+<StreetAddress><![CDATA[450 JANE STANFORD WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1265</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~390000</FUND_OBLG>
+</Award>
+</rootTag>

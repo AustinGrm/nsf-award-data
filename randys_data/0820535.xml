@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Risk Analysis : Informing the Management of Nanoscale Materials (Workshop September 10-11, 2008)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>51612.00</AwardTotalIntnAmount>
+<AwardAmount>51612</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050100</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert O'Connor</SignBlockName>
+<PO_EMAI>roconnor@nsf.gov</PO_EMAI>
+<PO_PHON>7032927263</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The rapidly expanding development and use of nanoscale materials has generated new challenges for the application of current risk analysis methods for environmental, health, and safety concerns. The unique properties associated with these materials potentially have significant implications for current approaches to the hazard identification, exposure assessment and dose-response components of the traditional risk assessment paradigm that informs risk management decisions. These factors may confound the accurate assessment of potential risks and may require changes in the ways potential risks are communicated to stakeholders and managed by policymakers. &lt;br/&gt;&lt;br/&gt;To address these challenges, the Emerging Materials and Nanomaterials Specialty group (EMNMS) of the Society for Risk Analysis is organizing a workshop, NanoRisk Analysis: Advancing the Science for Nanoscale Material Risk Management, on September 10-11, 2008, in Washington, DC. The workshop is intended to facilitate a multidisciplinary discussion to identify approaches for risk analysis that assess the unique aspects of nanotechnology and nanomaterials among experts in risk analysis, nanotechnology researchers, environmental scientists, key stakeholders, and members of the public interested in risk analysis, risk communication, and nanotechnology. To facilitate the discussion, five topical white papers, each co-authored by a combination of nanotechnology and risk experts, are being developed and will be presented on topics of: hazard identification and uncertainty; toxicology; exposure assessment; risk characterization; and risk communication. The goal is to develop reference papers for publication on topics advancing the science of risk analysis for nanomaterials and nanotechnology. Additionally, the workshop is intended to form new networks and collaborations among multi-disciplinary experts, junior and international researchers, and governmental, academic and industry leaders in risk analysis and nanotechnology.  &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>09/05/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/05/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0820535</AwardID>
+<Investigator>
+<FirstName>JoAnne</FirstName>
+<LastName>Shatkin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>JoAnne Shatkin</PI_FULL_NAME>
+<EmailAddress><![CDATA[jashatkin@clf.org]]></EmailAddress>
+<NSF_ID>000498979</NSF_ID>
+<StartDate>09/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Garrick</FirstName>
+<LastName>Louis</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Garrick E Louis</PI_FULL_NAME>
+<EmailAddress><![CDATA[gel7f@virginia.edu]]></EmailAddress>
+<NSF_ID>000478004</NSF_ID>
+<StartDate>09/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Society For Risk Analysis</Name>
+<CityName>HERNDON</CityName>
+<ZipCode>201705528</ZipCode>
+<PhoneNumber>7037901745</PhoneNumber>
+<StreetAddress>950 HERNDON PKWY</StreetAddress>
+<StreetAddress2><![CDATA[STE 450]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HHGDHGP1LGB1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SOCIETY FOR RISK ANALYSIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Society For Risk Analysis]]></Name>
+<CityName>HERNDON</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>201705528</ZipCode>
+<StreetAddress><![CDATA[950 HERNDON PKWY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1321</Code>
+<Text>Decision, Risk &amp; Mgmt Sci</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~51612</FUND_OBLG>
+</Award>
+</rootTag>

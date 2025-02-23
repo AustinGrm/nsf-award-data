@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research:   CSR-EHCS(CPS), TM: Teleolog:  Certified Software for Medical Robotics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>708191.00</AwardTotalIntnAmount>
+<AwardAmount>708191</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marilyn McClure</SignBlockName>
+<PO_EMAI>mmcclure@nsf.gov</PO_EMAI>
+<PO_PHON>7032925197</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Healthcare is 16% of the United States Gross Domestic Product.  Technology in the form of medical devices as well as health informatics is critical to improving the quality and reliability of care and the reduction of cost.  Medical devices are increasingly controlled by software, and failures in the software can often be life-threatening.&lt;br/&gt;Medical devices are instances of cyber-physical systems that operate in both the physical and virtual world.  The scientific challenge is to demonstrate that the combined cyber-physical system is safe for its intended purpose.  The Teleolog project takes on the challenge of certifying the safety of SRI's M7 system for robotic telesurgery.  The&lt;br/&gt;M7 medical robot allows a surgeon to perform telesurgery by manipulating the master controls in order to mobilize two robot arms at the slave station connected through a network.  The project takes an explicit, evidence-based approach that leans heavily on formal verification technology for modeling and analyzing the electronic and physical components, the human user, the software control, as well as the interaction between these components.  The certification effort reengineers the M7 software to develop a formal assurance case for the safety and resiliency of the system.  The models, formats, tools, and certification techniques developed during the certification of M7 can be employed in the certification of other cyber-physical systems.  The project also develops course material, case studies, and training kits for educating students in the design and analysis of cyber-physical systems, evidence-based software certification, and resiliency engineering.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/18/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/18/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0834810</AwardID>
+<Investigator>
+<FirstName>Natarajan</FirstName>
+<LastName>Shankar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Natarajan Shankar</PI_FULL_NAME>
+<EmailAddress><![CDATA[shankar@csl.sri.com]]></EmailAddress>
+<NSF_ID>000370169</NSF_ID>
+<StartDate>08/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Rushby</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John M Rushby</PI_FULL_NAME>
+<EmailAddress><![CDATA[rushby@csl.sri.com]]></EmailAddress>
+<NSF_ID>000468618</NSF_ID>
+<StartDate>08/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>thomas</FirstName>
+<LastName>low</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>thomas low</PI_FULL_NAME>
+<EmailAddress><![CDATA[thomas.low@sri.com]]></EmailAddress>
+<NSF_ID>000504623</NSF_ID>
+<StartDate>08/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SRI International</Name>
+<CityName>MENLO PARK</CityName>
+<ZipCode>940253453</ZipCode>
+<PhoneNumber>7032478529</PhoneNumber>
+<StreetAddress>333 RAVENSWOOD AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SRG2J1WS9X63</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SRI INTERNATIONAL</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>SRG2J1WS9X63</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SRI International]]></Name>
+<CityName>MENLO PARK</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>940253453</ZipCode>
+<StreetAddress><![CDATA[333 RAVENSWOOD AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1640</Code>
+<Text>Information Technology Researc</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7903</Code>
+<Text>EHCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~708191</FUND_OBLG>
+</Award>
+</rootTag>

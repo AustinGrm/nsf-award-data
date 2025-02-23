@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Development of a Computing Roadshow Cohort]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Victor Piotrowski</SignBlockName>
+<PO_EMAI>vpiotrow@nsf.gov</PO_EMAI>
+<PO_PHON>7032925141</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Computer Science (31)&lt;br/&gt;&lt;br/&gt;This project is conducting a two-day summer workshop for individuals from colleges and universities who participate in K-12 computer science outreach activities.  The workshop focuses on coordinating these outreach activities to achieve improvements in their scope and effectiveness and on facilitating communication and cooperation among the individuals engaged in these activities.]]></AbstractNarration>
+<MinAmdLetterDate>07/16/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/16/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0813642</AwardID>
+<Investigator>
+<FirstName>Christine</FirstName>
+<LastName>Stephenson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christine Stephenson</PI_FULL_NAME>
+<EmailAddress><![CDATA[cstephenson@acm.org]]></EmailAddress>
+<NSF_ID>000436557</NSF_ID>
+<StartDate>07/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Wanda</FirstName>
+<LastName>Dann</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wanda Dann</PI_FULL_NAME>
+<EmailAddress><![CDATA[wpdann@andrew.cmu.edu]]></EmailAddress>
+<NSF_ID>000248796</NSF_ID>
+<StartDate>07/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Association Computing Machinery</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100197434</ZipCode>
+<PhoneNumber>2128697440</PhoneNumber>
+<StreetAddress>1601 BROADWAY</StreetAddress>
+<StreetAddress2><![CDATA[FL 10]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CK2MCC83LSL8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ASSOCIATION FOR COMPUTING MACHINERY, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Association Computing Machinery]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100197434</ZipCode>
+<StreetAddress><![CDATA[1601 BROADWAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~50000</FUND_OBLG>
+</Award>
+</rootTag>

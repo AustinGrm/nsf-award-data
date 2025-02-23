@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative research aboard Icebreaker Oden:  ASPIRE (Amundsen Sea Polynya International Research Expedition)</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>179599.00</AwardTotalIntnAmount>
+<AwardAmount>179599</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090300</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OPP</Abbreviation>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Milne</SignBlockName>
+<PO_EMAI>pmilne@nsf.gov</PO_EMAI>
+<PO_PHON>7032924714</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5). &lt;br/&gt;&lt;br/&gt;The Amundsen Sea Polynya is areally the most productive Antarctic polynya, exhibits higher chlorophyll levels during peak bloom and greater interannual variability than the better-studied Ross Sea Polynya ecosystem. Polynyas may be the key to understanding the future of polar regions as their extent is expected to increase with anthropogenic warming. The project will examine 1) sources of iron to the Amundsen Sea Polynya as a function of climate forcing, 2) phytoplankton community structure in relation to iron supply and mixed-layer depths, 3) the efficiency of the biological pump of carbon to depth and 4) the net flux of carbon as a function of climate and micronutrient forcing. The research also will compare results for the Amundsen Sea to existing data synthesis and modeling efforts for the Palmer LTER and Ross Sea. The project will 1) build close scientific collaborations between US and Swedish researchers; 2) investigate climate change implications with broad societal relevance; 3) train new researchers; 4) encourage participation in research science by underrepresented groups, and 5) involve broad dissemination of results via scientific literature and public outreach, including close interactions with NSF-supported PolarTrec and COSEE K-12 teachers</AbstractNarration>
+<MinAmdLetterDate>08/14/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/14/2009</MaxAmdLetterDate>
+<ARRAAmount>179599</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0838975</AwardID>
+<Investigator>
+<FirstName>Sharon</FirstName>
+<LastName>Stammerjohn</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sharon E Stammerjohn</PI_FULL_NAME>
+<EmailAddress>sharon.stammerjohn@colorado.edu</EmailAddress>
+<PI_PHON>3037357811</PI_PHON>
+<NSF_ID>000246046</NSF_ID>
+<StartDate>08/14/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Cruz</Name>
+<CityName>SANTA CRUZ</CityName>
+<ZipCode>950641077</ZipCode>
+<PhoneNumber>8314595278</PhoneNumber>
+<StreetAddress>1156 HIGH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA20</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>VXUFPE4MCZH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA SANTA CRUZ</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Santa Cruz]]></Name>
+<CityName>SANTA CRUZ</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>950641077</ZipCode>
+<StreetAddress><![CDATA[1156 HIGH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA20</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0311000</Code>
+<Name>Polar Programs-Related</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5111</Code>
+<Text>ANT Organisms &amp; Ecosystems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~179599</FUND_OBLG>
+</Award>
+</rootTag>

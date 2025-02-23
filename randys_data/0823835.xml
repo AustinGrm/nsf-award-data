@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[GOALI (Industry-University Collaborative Project): Collaborative Research: Scalable Techniques for Detecting Small-Delay Defects in Nanometer Integrated Circuits]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>235199.00</AwardTotalIntnAmount>
+<AwardAmount>235199</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>GEORGE HADDAD</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Objective&lt;br/&gt;The objective of this project is to develop new test techniques that target small-delay defects in nanoscale integrated circuits.  The approach is based on the use of the output-deviations measure as a surrogate "long-path" coverage metric for small-delay defects.  The project will be  carried out in partnership with AMD Corporation and other industrial collaborators. &lt;br/&gt;&lt;br/&gt;Intellectual Merit: &lt;br/&gt;Small-delay defects, induced by process variations, crosstalk, power-supply noise, and resistive opens/shorts, etc., are major quality and reliability concerns in the semiconductor industry.  Current industry practices are not only inadequate for small-delay defects, but test costs are skyrocketing as well (estimated to be more than 50% of manufacturing cost).  This project is focused on test generation using scalable methods that can provide comprehensive defect screening for industrial circuits.  It includes the following components: (i) a gate-delay-defect probability measure to model delay faults; (ii) use of gate-delay-defect probabilities for computing output deviations; (iii) layout-aware, deviation-based test-pattern selection/generation for high defect coverage.&lt;br/&gt;&lt;br/&gt;Broader Impacts: &lt;br/&gt;This project will lead to higher shipped-product quality, increased in-field reliability, and reduced test cost.  Benefits for society include reliable electronics for healthcare, cheaper and dependable computing platforms for servers, weather forecasting, financial transactions, and more, and realization of the much sought-after zero-defects for automotive applications. Students will be trained for the workforce through research experience, coursework, and relevant industry internships. A concerted effort will be made to involve under-represented groups, for example through the Semiconductor Research Corporation fellowship programs.  Tutorials will be presented and special sessions will be organized at major conferences. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/18/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/18/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0823835</AwardID>
+<Investigator>
+<FirstName>Krishnendu</FirstName>
+<LastName>Chakrabarty</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Krishnendu Chakrabarty</PI_FULL_NAME>
+<EmailAddress><![CDATA[Krishnendu.Chakrabarty@asu.edu]]></EmailAddress>
+<NSF_ID>000322112</NSF_ID>
+<StartDate>08/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jeff</FirstName>
+<LastName>Rearick</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeff Rearick</PI_FULL_NAME>
+<EmailAddress><![CDATA[jeff.rearick@amd.com]]></EmailAddress>
+<NSF_ID>000499866</NSF_ID>
+<StartDate>08/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277054640</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W MAIN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TP7EK8DZV6N5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DUKE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277054640</ZipCode>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0510403</Code>
+<Name>Engineering &amp; Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1504</Code>
+<Text>GOALI-Grnt Opp Acad Lia wIndus</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7564</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>099E</Code>
+<Text>High voltage switching &amp; conversion</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~235199</FUND_OBLG>
+</Award>
+</rootTag>

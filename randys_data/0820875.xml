@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Development of  the HAWC-256 Wide-Field Gamma Ray Detector]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>605000.00</AwardTotalIntnAmount>
+<AwardAmount>605000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jonathan Whitmore</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[High energy gamma rays probe the most extreme astrophysical environments including those that produce the highest energy cosmic-ray particles. Most of the discoveries in the TeV energy range have been made by imaging atmospheric Cherenkov telescopes (IACTs) which have a few milli-steradian field of view and ~10% duty cycle. However, the Milagro observatory has demonstrated that a detector with a wide field of view and nearly 100% duty cycle can discover new sources of TeV gamma rays at energies between 10 and 100 TeV, and map the diffuse emission from the plane of our Galaxy. The HAWC (High Altitude Water Cherenkov) observatory builds on the experience and technology of Milagro to make a second-generation high-sensitivity detector that would be capable of continuously surveying the TeV sky for steady and transient sources from 100 GeV to 100 TeV. &lt;br/&gt;&lt;br/&gt;This MRI award is to develop the HAWC electronics and instrumentation by building a core array at high altitude. This instrument will be developed by a collaboration from the US and Mexico, led by the US team that built Milagro and pioneered the development of the water Cherenkov technique for gamma-ray astronomy. It will be located near Sierra Negra, Mexico, at an altitude of 4100m near existing infrastructure and collaborating universities and will allow the development of Cherenkov detectors and electronics at high altitude as a prelude to eventually building the entire HAWC detector. &lt;br/&gt;&lt;br/&gt;Beyond astrophysics, this will establish a preeminent international scientific collaboration with particle physicists and astrophysicists in Mexico. The collaboration will utilize this unique opportunity to reach out to Hispanics as well as maintain the Milagro tradition of providing strong scientific and educational opportunities for undergraduate students, graduate students, and post-doctoral fellows. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/21/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/21/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0820875</AwardID>
+<Investigator>
+<FirstName>Jordan</FirstName>
+<LastName>Goodman</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jordan A Goodman</PI_FULL_NAME>
+<EmailAddress><![CDATA[goodman@umd.edu]]></EmailAddress>
+<NSF_ID>000234549</NSF_ID>
+<StartDate>08/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Smith</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrew J Smith</PI_FULL_NAME>
+<EmailAddress><![CDATA[asmith8@umd.edu]]></EmailAddress>
+<NSF_ID>000458381</NSF_ID>
+<StartDate>08/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland, College Park</Name>
+<CityName>College Park</CityName>
+<ZipCode>207420001</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 REGENTS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPU8ULVAAS23</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND, COLLEGE PARK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KMGEN62NKEM9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland, College Park]]></Name>
+<CityName>College Park</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>207420001</ZipCode>
+<StreetAddress><![CDATA[3112 LEE BLDG 7809 REGENTS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7483</Code>
+<Text>PHYSICS OF THE UNIVERSE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~605000</FUND_OBLG>
+</Award>
+</rootTag>

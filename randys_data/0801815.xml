@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MO Collaborative Research: A Genomics and Cultivation-Based Study on Novel Candidate Divisions OD1, SR1, OP11, and TM7 in a Sulfur-Rich Spring (Zodletone Spring, OK)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08040000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EF</Abbreviation>
+<LongName>Emerging Frontiers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matthew Kane</SignBlockName>
+<PO_EMAI>mkane@nsf.gov</PO_EMAI>
+<PO_PHON>7032927186</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[During the last two decades, advances in techniques used to identify microorganisms have demonstrated that there are many groups of novel, previously unknown bacteria that appear to be very abundant in multiple environments. It is likely that many of these groups have important ecological roles and yet they have not been studied in the laboratory. The goal of this project is to investigate the physiological characteristics, metabolic abilities, and potential ecological roles of four of these important bacterial groups, termed candidate divisions, OD1, SR1, OP11, and TM7. These four groups have been shown to be relatively abundant in Zodletone spring, a low temperature (20 degrees C) sulfide and sulfur-rich spring in southwestern Oklahoma and they are thought to be important members of the community in terms of facilitating the biological processes that are occurring in this spring. These processes include degradation of hydrocarbons, formation of minerals and photosynthesis. Zodletone spring will be used as a microbial observatory to study these groups. A set of genomic techniques will be used, which involve sequencing DNA from the genome of one individual microbial cell, literally fished from the spring using a flow cytometer. The results will allow identification of the genes and assembly of the metabolic pathways that may be used for the above processes. Ultimately the data will be used to understand the chemical reactions and the ecological roles performed by members of each these groups. Along with genomic studies, these groups of bacteria will be cultivated and studied in the laboratory. These bacteria come from an environment in which oxygen is rarely present and as a result, oxygen is likely toxic to these cells. Sophisticated isolation strategies will be used for isolating and growing bacteria that would not normally grow in the laboratory and these will be adapted to work with microorganisms that are oxygen sensitive. These cultivation studies will allow us to verify that the bacteria are able to catalyze the reactions that have been proposed for them and will allow us to study individual reactions to understand how each process occurs. &lt;br/&gt;&lt;br/&gt;The results obtained in this proposal will be integrated into undergraduate and graduate courses offered at Oklahoma State University and the University of Oklahoma. The proposal will also provide several graduate and undergraduate research opportunities to members (especially Native Americans)of underrepresented groups in science. Finally, the project will help continuing and expanding outreach efforts to Oklahoma high schools through the K20 Center at the University of Oklahoma and the Junior Science and Humanities Symposia (JSHS) Program at Oklahoma State University.]]></AbstractNarration>
+<MinAmdLetterDate>08/17/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/17/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0801815</AwardID>
+<Investigator>
+<FirstName>Bruce</FirstName>
+<LastName>Roe</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bruce A Roe</PI_FULL_NAME>
+<EmailAddress><![CDATA[broe@ou.edu]]></EmailAddress>
+<NSF_ID>000168793</NSF_ID>
+<StartDate>08/17/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lee</FirstName>
+<LastName>Krumholz</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lee R Krumholz</PI_FULL_NAME>
+<EmailAddress><![CDATA[krumholz@ou.edu]]></EmailAddress>
+<NSF_ID>000236025</NSF_ID>
+<StartDate>08/17/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Oklahoma Norman Campus</Name>
+<CityName>NORMAN</CityName>
+<ZipCode>730193003</ZipCode>
+<PhoneNumber>4053254757</PhoneNumber>
+<StreetAddress>660 PARRINGTON OVAL RM 301</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<StateCode>OK</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OK04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EVTSTTLCEWS5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF OKLAHOMA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Oklahoma Norman Campus]]></Name>
+<CityName>NORMAN</CityName>
+<StateCode>OK</StateCode>
+<ZipCode>730193003</ZipCode>
+<StreetAddress><![CDATA[660 PARRINGTON OVAL RM 301]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OK04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7187</Code>
+<Text>MICROBIAL GENOME SEQUENCING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1089</Code>
+<Text>MICRO OBS &amp; MICRO INTER &amp; PRO</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7187</Code>
+<Text>MICROBIAL GENOME SEQUENCING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~500000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Acquisition of a Dual Source X-Ray Diffraction Instrument]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>261619.00</AwardTotalIntnAmount>
+<AwardAmount>261619</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos Murillo</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[With this award from the Major Research Instrumentation program (MRI), Daniel R. Talham and colleagues Khalil A. Abboud, Ronald K. Castellano, George Christou, and Lisa McElwee-White from the University of Florida will acquire a SMART APEX II DUO X-ray Diffractometer equipped with a new storage system for data archiving and central file sharing for the Single-crystal X-ray Laboratory to provide structural analysis. Besides these researches many newly hired faculty members in the chemistry department will use the instrument for research in new materials synthesis, organic, inorganic, biochemical, and polymer chemistry.  The new instrumentation will play a critical role in accomplishing the research, educational, and outreach goals of the department.&lt;br/&gt;&lt;br/&gt;The technique of single-crystal X-ray crystallography allows accurate and precise determination of the full three dimensional structure of a molecule, including bond distances and angles, and it provides accurate information about the spatial arrangement of molecules relative to the neighboring molecules. These studies will have an impact in a number of areas ranging from synthetic chemistry to systems of biological interest and cleaning of the environment.]]></AbstractNarration>
+<MinAmdLetterDate>07/15/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0821346</AwardID>
+<Investigator>
+<FirstName>George</FirstName>
+<LastName>Christou</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>George Christou</PI_FULL_NAME>
+<EmailAddress><![CDATA[christou@chem.ufl.edu]]></EmailAddress>
+<NSF_ID>000291947</NSF_ID>
+<StartDate>07/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lisa</FirstName>
+<LastName>McElwee-White</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lisa McElwee-White</PI_FULL_NAME>
+<EmailAddress><![CDATA[lmwhite@chem.ufl.edu]]></EmailAddress>
+<NSF_ID>000407786</NSF_ID>
+<StartDate>07/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Talham</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel R Talham</PI_FULL_NAME>
+<EmailAddress><![CDATA[talham@chem.ufl.edu]]></EmailAddress>
+<NSF_ID>000184783</NSF_ID>
+<StartDate>07/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Khalil</FirstName>
+<LastName>Abboud</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Khalil A Abboud</PI_FULL_NAME>
+<EmailAddress><![CDATA[abboud@chem.ufl.edu]]></EmailAddress>
+<NSF_ID>000358150</NSF_ID>
+<StartDate>07/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ronald</FirstName>
+<LastName>Castellano</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ronald K Castellano</PI_FULL_NAME>
+<EmailAddress><![CDATA[castellano@chem.ufl.edu]]></EmailAddress>
+<NSF_ID>000192531</NSF_ID>
+<StartDate>07/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326111941</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1523 UNION RD RM 207</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NNFQH1JAPEP3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF FLORIDA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D4GCCCMXR1H3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Florida]]></Name>
+<CityName>GAINESVILLE</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>326111941</ZipCode>
+<StreetAddress><![CDATA[1523 UNION RD RM 207]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9161</Code>
+<Text>SINGLE DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>AMPP</Code>
+<Text>ADVANCED MATERIALS &amp; PROCESSING PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~261619</FUND_OBLG>
+</Award>
+</rootTag>

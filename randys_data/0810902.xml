@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Blowup analysis for two dimensional elliptic equations with exponential nonlinearities</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/20/2007</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>35301.00</AwardTotalIntnAmount>
+<AwardAmount>35301</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040100</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joe W. Jenkins</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Blowup Analysis for two-dimensional Elliptic Equations with&lt;br/&gt;Exponential Nonlinearities&lt;br/&gt;&lt;br/&gt;Abstract of Proposed Research&lt;br/&gt;Lei Zhang&lt;br/&gt;&lt;br/&gt;   This project is to study some highly nonlinear elliptic equations related to problems in geometry and physics. These equations have some very singular terms and their solutions also are quite singular. This research is to try to describe the nature of the singularities of the solutions precisely and will require the application of a many deep results from recent studies of non-linear equations.&lt;br/&gt;&lt;br/&gt; The descriptions of the singularities of these equations is likely to be quite important for physics and will help provide a geometrical and analytical understanding of the associated field theories. Similar equations also arise in some models of biological phenomena  and these descriptions may be useful there.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>12/11/2007</MinAmdLetterDate>
+<MaxAmdLetterDate>12/11/2007</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0810902</AwardID>
+<Investigator>
+<FirstName>Lei</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lei Zhang</PI_FULL_NAME>
+<EmailAddress>leizhang@ufl.edu</EmailAddress>
+<NSF_ID>000189008</NSF_ID>
+<StartDate>12/11/2007</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Alabama at Birmingham</Name>
+<CityName>Birmingham</CityName>
+<ZipCode>352940001</ZipCode>
+<PhoneNumber>2059345266</PhoneNumber>
+<StreetAddress>1720 2nd Avenue South</StreetAddress>
+<StreetAddress2><![CDATA[AB 1170]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AL07</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>063690705</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ALABAMA AT BIRMINGHAM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>808245794</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Alabama at Birmingham]]></Name>
+<CityName>Birmingham</CityName>
+<StateCode>AL</StateCode>
+<ZipCode>352940001</ZipCode>
+<StreetAddress><![CDATA[1720 2nd Avenue South]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<FUND_OBLG>2006~35301</FUND_OBLG>
+</Award>
+</rootTag>

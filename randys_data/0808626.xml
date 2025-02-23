@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Bayesian Methods for Large-Scale Applications</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2007</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>80445.00</AwardTotalIntnAmount>
+<AwardAmount>80445</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gabor Szekely</SignBlockName>
+<PO_EMAI>gszekely@nsf.gov</PO_EMAI>
+<PO_PHON>7032928869</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>                                                   ABSTRACT &lt;br/&gt;&lt;br/&gt;PROPOSAL NUMBER.: DMS-0505599  &lt;br/&gt;INSTITUTION: Rutgers University New Brunswick  &lt;br/&gt;NSF PROGRAM: STATISTICS&lt;br/&gt;PRINCIPAL INVESTIGATOR: Madigan, David&lt;br/&gt;PROPOSAL TITLE: Bayesian Methods for Large-Scale Applications   &lt;br/&gt;&lt;br/&gt;The investigators work on Bayesian statistical methods for large-scale&lt;br/&gt;applications. Three applications provide the backdrop for the work.&lt;br/&gt;"Text categorization" concerns the automatic assignment of documents&lt;br/&gt;to predefined categories and requires ultra-high dimensional supervised&lt;br/&gt;learning models. "Authorship attribution" uses similar methodology&lt;br/&gt;but attempts to identify authors of anonymous documents.&lt;br/&gt;The "Localization" problem uses signal characteristics to locate users &lt;br/&gt;in  wireless networks.  The investigators focus on technical challenges &lt;br/&gt;that span these applications including sequential Bayesian analysis,&lt;br/&gt;non-linear optimization, and novelty detection algorithms.&lt;br/&gt;&lt;br/&gt;In both the business and scientific realms, computing advances have&lt;br/&gt;drastically altered the role of data analysis.  Historically, analysts&lt;br/&gt;produced data locally to address specific research questions. Now,&lt;br/&gt;ubiquitous computing and cheap storage have decoupled the production&lt;br/&gt;of data from the research questions. Data of all kinds are produced&lt;br/&gt;and deposited in remotely accessible databases with myriad questions&lt;br/&gt;in mind, both foreseen and unforeseen. Statistics has historically&lt;br/&gt;focused on squeezing the maximum amount of information out of limited&lt;br/&gt;data. The investigator's work focuses instead on so-called&lt;br/&gt;Bayesian statistical methods for these  emerging larger-scale applications&lt;br/&gt;&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>02/01/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>02/01/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0808626</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Madigan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David Madigan</PI_FULL_NAME>
+<EmailAddress>madigan@stat.columbia.edu</EmailAddress>
+<NSF_ID>000432917</NSF_ID>
+<StartDate>02/01/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100276902</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>2960 Broadway</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>049179401</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>049179401</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100276902</ZipCode>
+<StreetAddress><![CDATA[2960 Broadway]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<FUND_OBLG>2006~23768</FUND_OBLG>
+<FUND_OBLG>2007~56677</FUND_OBLG>
+</Award>
+</rootTag>

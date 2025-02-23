@@ -1,96 +1,121 @@
-## Overview
+I use brew to install PostgreSQL. You may need different commands depending on your package manager.
+This is done in terminal, but I recommend you first download warp. Its a terminal app that makes it easier to use terminal commands with AI. IMO, no reason to do anything the hard way.
 
-The National Science Foundation (NSF) hosts a wealth of data regarding their
-awards, both those currently being funded as well as those that were funded in
-the past. This award data contains information regarding funding trends,
-research collaborations, organizational cooperation, and more. In an effort to
-make this information more readily obtainable, I am going to download all of the
-raw data (XML) and parse it into a relational data format which is easier to
-analyze.
+# Install PostgreSQL
+brew install postgresql@15
 
-## Disambiguation
+# Start PostgreSQL service
+brew services start postgresql@15
 
-After initially populating the database, I'll need to perform disambiguation of
-the records. There are a variety of fields which will involve redundancy. I will
-seek to thoroughly document my methodology. I have yet to decide whether or not
-to retain disambiguation history. Purdue University maintains a pre-processed
-copy of this data as well, and the method they used was to enter every person as
-having a unique ID, then disambiguate by tying those unique IDs to unique
-canonical IDs. This method retains history but may complicate queries. Perhaps a
-better approach would be to transition the stored people entries to using the
-canonical IDs as their PKs and retain in another database the disambiguation
-records.
+# Create database
+createdb nsf
 
-## Address Storage: Consistency/Convenience Tradeoffs
+# Create and activate virtual environment
+python -m venv nsf
+source nsf/bin/activate
 
-When storing addresses, there is always a tradeoff between querying convenience
-and data consistency. When addresses are used for purposes of shipping and/or
-identification, consistency is a more important consideration. However, when
-addresses are primarily maintained for analytical purposes or disambiguation
-reasons, then convenience is more important. Therefore the approach taken will
-be to store certain codes (state, country) in separate tables, with display
-names as attributes, use the codes as keys, and then put FKs on the attributes
-of the address table. There needs to be a reasonable balance between planning
-for internationalization and simplicity. In this case, NSF data mostly
-references US locations,  so this general schema should suffice:
+# Install required packages
+pip install psycopg2-binary lxml tqdm
 
-    *********************************
-    Field              Type
-    *********************************
-    address_id (PK)    int
-    unit               string
-    building           string
-    street             string
-    city               string
-    state              string
-    country            string
-    address_code       string
-    *********************************
+# Connect to database
+psql nsf
 
-It will be useful to have additional tables for codes/abbreviations, as
-described above:
+# Create the table (paste this into psql)
+CREATE TABLE raw_awards (
+    id SERIAL PRIMARY KEY,
+    award_id VARCHAR(10),
+    award_title TEXT,
+    agency VARCHAR(10),
+    award_effective_date DATE,
+    award_expiration_date DATE,
+    award_total_intn_amount DECIMAL(15,2),
+    award_amount DECIMAL(15,2),
+    award_instrument_value VARCHAR(100),
+    org_directorate_abbr VARCHAR(10),
+    org_directorate_name TEXT,
+    org_division_abbr VARCHAR(10),
+    org_division_name TEXT,
+    pi_first_name VARCHAR(100),
+    pi_last_name VARCHAR(100),
+    pi_email TEXT,
+    institution_name TEXT,
+    institution_city VARCHAR(100),
+    institution_state VARCHAR(2),
+    abstract_narration TEXT,
+    raw_xml TEXT,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
 
-1. state (abbrev, name)
-2. country (code, name)
+# Edit the database connection in data_insertion.py
+# Change this line to match your username:
+    dbname="nsf",
+    user="your_username",  # Your Mac username
+    password="",          # Leave blank if no password set
+    host="localhost"
 
-A note on #1: since a region may not be a state, there are a few possible
-approaches which could be taken:
+# Run the script
+python data_insertion.py
 
-1. Do not constrain region at all, and don't use a state table
-2. Do not constrain region at all, and use a state table only when abbreviations
-   are found
-3. Do not constrain region at all, and use a general region-mapping table to map
-   region abbreviations to region names; use this for translation
-4. Attempt to capture all region abbreviations in a region table, and constrain
-   the region attribute using that
-5. Add another attribute for state, constrain that one, and allow either to be
-   NULL (but not both at the same time? Is that possible?)
+psql nsf
+=> SELECT COUNT(*) FROM raw_awards;
 
-## Enrichment
+# Here is a more complex query that shows top orgs and institutions by funding
 
-One of the more ambitious goals with this database will be an effort to enrich
-the data we have by mining additional papers, abstracts, publications, etc for
-each investigator. It will also be useful to make an attempt to map their
-affiliation progressions. For instance, for a particular researcher, we can
-currently tell what their affiliations are as a group, and we can infer what the
-current one is, but we do not have the time interval over which they were
-actually affiliated with an organization. This could probably be scraped from
-personal pages, institutional faculty listings, etc.
+-- Basic count of awards
+SELECT COUNT(*) as total_awards FROM raw_awards;
 
-### Geospatial Analysis
+-- Distribution of awards by directorate with total funding
+SELECT 
+    org_directorate_name,
+    COUNT(*) as award_count,
+    SUM(award_amount::numeric) as total_funding,
+    AVG(award_amount::numeric) as avg_award
+FROM raw_awards
+GROUP BY org_directorate_name
+ORDER BY total_funding DESC;
 
-It will likely be interesting at some point to map a trend of NSF funding based
-on geospatial locality, so adding two lat/lon fields to the address table
-might also be useful. The decimal values used below allow for ~1mm accuracy at
-the equator. Initially at least it will be useful to allow these to be NULL by
-default, since the raw NSF data does not have lat/lon coords.
+-- Top 10 institutions by funding
+SELECT 
+    institution_name,
+    institution_state,
+    COUNT(*) as num_awards,
+    SUM(award_amount::numeric) as total_funding
+FROM raw_awards
+GROUP BY institution_name, institution_state
+ORDER BY total_funding DESC
+LIMIT 10;
 
-    *********************************
-    Field              Type
-    *********************************
-    lat             decimal(10,8)
-    lon             decimal(11,8)
-    *********************************
 
-The addresses of institutions can be used to get lat/lon coords using a library
-like [pygeocoder](http://code.xster.net/pygeocoder/wiki/Home).
+# Here is the result:
+        ^
+             org_directorate_name              | award_count | total_funding |      avg_award      
+-----------------------------------------------+-------------+---------------+---------------------
+ Directorate For Geosciences                   |        1838 | 1809966855.00 | 984748.016866158868
+ Direct For Mathematical & Physical Scien      |        2635 | 1516390229.00 | 575480.162808349146
+ Direct For Biological Sciences                |        1505 |  807614272.00 | 536620.778737541528
+ Directorate For Engineering                   |        1821 |  689506421.00 | 378641.637012630423
+ Direct For Education and Human Resources      |         644 |  601869574.00 | 934580.083850931677
+ Direct For Computer & Info Scie & Enginr      |        1605 |  597206702.00 | 372091.403115264798
+ Directorate for STEM Education                |         581 |  540958671.00 | 931082.049913941480
+ Direct For Social, Behav & Economic Scie      |        1218 |  334646068.00 | 274750.466338259442
+ Office Of The Director                        |         429 |  149249592.00 | 347901.146853146853
+ Dir for Tech, Innovation, & Partnerships      |         308 |  103457646.00 | 335901.448051948052
+                                               |          10 |    2232094.00 | 223209.400000000000
+ Office of Budget, Finance, & Award Management |          10 |     980514.00 |  98051.400000000000
+ National Coordination Office                  |           1 |     919100.00 | 919100.000000000000
+ Office Of Information & Resource Mgmt         |           7 |     604667.00 |  86381.000000000000
+(14 rows)
+
+              institution_name              | institution_state | num_awards | total_funding 
+--------------------------------------------+-------------------+------------+---------------
+ University Corporation For Atmospheric Res | CO                |         21 | 1104988786.00
+ California Institute of Technology         | CA                |         59 |  276740397.00
+ University of Washington                   | WA                |        211 |  111565059.00
+ University of Wisconsin-Madison            | WI                |        165 |  107065963.00
+ Cornell University                         | NY                |        122 |  101302902.00
+ University of Illinois at Urbana-Champaign | IL                |        199 |   95320337.00
+ University of California-Berkeley          | CA                |        182 |   88496594.00
+ University of Arizona                      | AZ                |        121 |   80874783.00
+ Purdue University                          | IN                |        151 |   76695016.00
+ University of Minnesota-Twin Cities        | MN                |        144 |   76078297.00
+(10 rows)

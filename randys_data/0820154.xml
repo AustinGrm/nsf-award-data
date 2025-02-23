@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Direct Learning:   Self-Organizing Processes in Perception-Action]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>187358.00</AwardTotalIntnAmount>
+<AwardAmount>187358</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Betty Tuller</SignBlockName>
+<PO_EMAI>btuller@nsf.gov</PO_EMAI>
+<PO_PHON>7032927238</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[People's perceptual judgments and actions depend on the pick-up of informative energy patterns arriving at the senses. As examples, a driver's detection of certain optical variables informs the decision of whether it is safe to pass another car; another variable might inform the driver whether the current braking action will stop the car in time, or if force on the brake needs to be increased. One key function of perceptual and perceptual-motor learning is to change the variables that the perceiver-actor attends to in making their judgments or in controlling their actions. Perceiver-actors educate their attention to variables that permit more accurate judgments and more effective motor activities. A central question, however, is how perceivers improve. While experience can make clear that judgments and actions are not accurate and that change is needed, until recently it has been unclear how (or if) experience actually directs the improvement. A new theory, called direct learning, lays out how change is guided by information. The current project explores: How should one arrange a perceptual learning situation so that learning proceeds as quickly and accurately as possible? Can perceptual learning be shown to be indifferent to the probabilistic value of sensory information? Does learning to detect some information entail exploratory movements that create it? If so, can goal-directed movement also be aimed at information-production? The findings could have broad practical applications to attempts to train perceiver-actors to discriminate objects (letters, faces, aircraft), events (deceptive intention, impending collisions), and to control movements (aircraft landing, skilled athletic or dance performance).]]></AbstractNarration>
+<MinAmdLetterDate>09/19/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/19/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0820154</AwardID>
+<Investigator>
+<FirstName>Claire</FirstName>
+<LastName>Michaels</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Claire F Michaels</PI_FULL_NAME>
+<EmailAddress><![CDATA[claire.michaels@uconn.edu]]></EmailAddress>
+<NSF_ID>000114613</NSF_ID>
+<StartDate>09/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bruce</FirstName>
+<LastName>Kay</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bruce D Kay</PI_FULL_NAME>
+<EmailAddress><![CDATA[bruce.kay@uconn.edu]]></EmailAddress>
+<NSF_ID>000118407</NSF_ID>
+<StartDate>09/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Connecticut</Name>
+<CityName>STORRS</CityName>
+<ZipCode>062691133</ZipCode>
+<PhoneNumber>8604863622</PhoneNumber>
+<StreetAddress>438 WHITNEY RD EXTENSION UNIT 11</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WNTPS995QBM7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CONNECTICUT</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D9SNFDRCW3W7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Connecticut]]></Name>
+<CityName>STORRS</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>062691133</ZipCode>
+<StreetAddress><![CDATA[438 WHITNEY RD EXTENSION UNIT 11]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7252</Code>
+<Text>Perception, Action &amp; Cognition</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~187358</FUND_OBLG>
+</Award>
+</rootTag>

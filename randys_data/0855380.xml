@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>US-Cameroon International Workshop on Mathematical Biology (Buea, Cameroon May 15-17, 2009)</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>40535.00</AwardTotalIntnAmount>
+<AwardAmount>40535</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marjorie Lueck</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>The US-Cameroon International Workshop on Mathematical Biology will take place at the University of Buea in Cameroon, Africa, from May 15-17, 2009, in conjunction with the First International Conference on Mathematical Sciences to be held from May 12-16, 2009.  The workshop will bring together mathematicians, applied mathematicians and mathematical biologists from the US, Europe, and Central and Sub-Saharan Africa in order to exchange information and ideas among participants; promote research that will lead to effective new mathematical and computational methods and techniques for science, engineering, industry, and society; and provide opportunities for future collaboration with scientists and mathematicians in Cameroon and Africa at large. Special emphasis is being placed on providing opportunities for junior faculty and graduate students to participate, as well as women and individuals from groups who are underrepresented in mathematics, including students and faculty from Historically Black Colleges and Universities.  This grant is co-funded by OISE and DMS.</AbstractNarration>
+<MinAmdLetterDate>02/23/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>02/23/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.079</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855380</AwardID>
+<Investigator>
+<FirstName>Miranda</FirstName>
+<LastName>Teboh-Ewungkem</LastName>
+<PI_MID_INIT>I</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Miranda I Teboh-Ewungkem</PI_FULL_NAME>
+<EmailAddress>mit703@lehigh.edu</EmailAddress>
+<NSF_ID>000512856</NSF_ID>
+<StartDate>02/23/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Lafayette College</Name>
+<CityName>Easton</CityName>
+<ZipCode>180420000</ZipCode>
+<PhoneNumber>6103305029</PhoneNumber>
+<StreetAddress>730 High Street</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_ORG/>
+<ORG_DUNS_NUM>041364522</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>LAFAYETTE COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>041364522</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Lafayette College]]></Name>
+<CityName>Easton</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>180420000</ZipCode>
+<StreetAddress><![CDATA[730 High Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_PERF/>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7299</Code>
+<Text>Catalyzing New Intl Collab</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7334</Code>
+<Text>MATHEMATICAL BIOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5976</Code>
+<Text>AFRICA, NEAR EAST, &amp; SO ASIA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7383</Code>
+<Text>CAMEROON</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~40535</FUND_OBLG>
+</Award>
+</rootTag>

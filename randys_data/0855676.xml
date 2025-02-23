@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Theoretical investigation of molecule-intense laser interactions using quantum chemical approaches]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>180000.00</AwardTotalIntnAmount>
+<AwardAmount>180000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ann Orel</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Abstract&lt;br/&gt;&lt;br/&gt;This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;Ultra-fast intense lasers can be developed into powerful tools for imaging electronic structures, probing ultra-fast dynamics, and controlling the electron population and molecular fragmentation. So far proof-of-principle experiments for these applications have been demonstrated for only a small number of molecules. Theoretical understanding of the intense laser-molecule interaction is crucial for the generalization of these applications and it has been limited to over-simplified models. This work explores quantum chemical (QC) methods for two important types of such interactions: multiphoton ionization and high harmonic generation. To properly treat them, the involvement of highly excited electronic states and many-electron effects have to be addressed. This is beyond conventional applications of the QC methods that treat only ground or low-lying excited states. A series of benchmark calculations will be performed to validate the methods and to identify the physics that dominates these processes. Possible improvement of the methods at theoretical level will be in collaboration with two European theoretical chemists. &lt;br/&gt;&lt;br/&gt;This project will have an impact in both strong field molecular physics and theoretical chemistry. It will help the development of new tools to study chemical reactions with state of the art lasers. In addition, it will also be integrated into the undergraduate physical chemistry education in the University of Montana. Junior year students will have their first experience with computational chemistry to enhance their understanding of electronic structure and matter-radiation field interactions.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/08/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/08/2009</MaxAmdLetterDate>
+<ARRAAmount>180000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855676</AwardID>
+<Investigator>
+<FirstName>Xi</FirstName>
+<LastName>Chu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xi Chu</PI_FULL_NAME>
+<EmailAddress><![CDATA[xi.chu@mso.umt.edu]]></EmailAddress>
+<NSF_ID>000410004</NSF_ID>
+<StartDate>08/08/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Montana</Name>
+<CityName>MISSOULA</CityName>
+<ZipCode>598120003</ZipCode>
+<PhoneNumber>4062436670</PhoneNumber>
+<StreetAddress>32 CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<StateCode>MT</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MT00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DAY7Z8ZD48Q3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MONTANA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Montana]]></Name>
+<CityName>MISSOULA</CityName>
+<StateCode>MT</StateCode>
+<ZipCode>598120003</ZipCode>
+<StreetAddress><![CDATA[32 CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MT00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1284</Code>
+<Text>AMO Theory/Atomic, Molecular &amp;</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~180000</FUND_OBLG>
+</Award>
+</rootTag>

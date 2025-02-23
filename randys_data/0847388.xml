@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Multiscale methods for high-dimensional data, graphs and dynamical systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>400161.00</AwardTotalIntnAmount>
+<AwardAmount>400161</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michael Steuerwalt</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Maggioni&lt;br/&gt;DMS-0847388&lt;br/&gt;&lt;br/&gt;     This award is funded under the American Recovery and&lt;br/&gt;Reinvestment Act of 2009 (Public Law 111-5).  The investigator&lt;br/&gt;addresses fundamental problems arising from the mathematical&lt;br/&gt;analysis of multiscale geometries of sets, and multiscale&lt;br/&gt;decompositions of function spaces on such sets.  The complexity&lt;br/&gt;of the geometry of these sets, which are embedded in&lt;br/&gt;high-dimensional spaces, are noisy, and often have different&lt;br/&gt;dimensions at different locations, is analyzed at multiple&lt;br/&gt;resolutions.  He develops robust mathematical and statistical&lt;br/&gt;quantitative multiscale methods of analysis, yielding estimators&lt;br/&gt;of intrinsic dimensionality that are extremely robust to noise&lt;br/&gt;and succeed with high probability even for small sample size.  He&lt;br/&gt;develops algorithms for multiscale processing of high-dimensional&lt;br/&gt;point clouds much as is done for low-dimensional functions, by&lt;br/&gt;means of a geometric multiscale transform.  He studies and&lt;br/&gt;approximates functions on data by constructing data-driven&lt;br/&gt;multiscale dictionaries, generalizing approaches familiar in&lt;br/&gt;low-dimensional Euclidean spaces.  He develops efficient&lt;br/&gt;algorithms for computing these multiscale decompositions and&lt;br/&gt;dictionary expansions. &lt;br/&gt;&lt;br/&gt;     Many important application problems directly require the&lt;br/&gt;analysis of high-dimensional data sets, dynamical systems, or&lt;br/&gt;large graphs, or they are posed on a framework of&lt;br/&gt;high-dimensional data sets, dynamical systems, or large graphs.&lt;br/&gt;Such problems arise for instance in different disciplines and&lt;br/&gt;real-world situations where instruments or simulations produce&lt;br/&gt;large amounts of data.  The investigator develops novel methods&lt;br/&gt;for the analysis of high-dimensional data sets and of statistical&lt;br/&gt;models with a large number of variables, under the assumption&lt;br/&gt;that the number of free parameters (which in some sense&lt;br/&gt;represents the intrinsic dimensionality or complexity) of the&lt;br/&gt;data is small compared to that of the ambient space.  He further&lt;br/&gt;applies these methods to algorithms that are able to learn&lt;br/&gt;functions on such data from examples, or learn models of complex&lt;br/&gt;dynamical systems (e.g. molecular dynamics, protein folding,&lt;br/&gt;neuronal activity, etc.), or learn behavior patterns in social&lt;br/&gt;networks.  This Career award is funded by the Applied Mathematics&lt;br/&gt;program in the Division of Mathematical Sciences/Directorate of&lt;br/&gt;Mathematical and Physical Sciences and by the Office of&lt;br/&gt;Cyberinfrastructure. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>06/25/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/19/2014</MaxAmdLetterDate>
+<ARRAAmount>400161</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0847388</AwardID>
+<Investigator>
+<FirstName>Mauro</FirstName>
+<LastName>Maggioni</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mauro Maggioni</PI_FULL_NAME>
+<EmailAddress><![CDATA[mauro.maggioni@jhu.edu]]></EmailAddress>
+<NSF_ID>000398937</NSF_ID>
+<StartDate>06/25/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277054640</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W MAIN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TP7EK8DZV6N5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DUKE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277054640</ZipCode>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~400161</FUND_OBLG>
+</Award>
+</rootTag>

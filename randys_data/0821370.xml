@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Acquisition of a Field Emission-Scanning Electron Microscope for Nanoscience Research and Education]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>307250.00</AwardTotalIntnAmount>
+<AwardAmount>307250</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leon Esterowitz</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[CBET-0821370&lt;br/&gt;Ramirez&lt;br/&gt;&lt;br/&gt;Texas A&amp;M University-Kingsville (TAMUK), a Hispanic Serving Institution, seeks funding to&lt;br/&gt;acquire a Field Emission-Scanning Electron Microscope (FE-SEM) instrument to enable&lt;br/&gt;research in nanoscience in environmental engineering and physical science and to enhance&lt;br/&gt;current analytical infrastructure. This instrument will allow researchers in South Texas to&lt;br/&gt;conduct research and educational activities of important local, regional and national needs.&lt;br/&gt;Multidisciplinary research areas immediately benefiting from the use of the proposed FESEM&lt;br/&gt;instrument are in the Departments of Environmental Engineering, Chemical Engineering,&lt;br/&gt;Chemistry and Biology at TAMUK. The FE-SEM will be used in research activities related to the&lt;br/&gt;National Science Foundation's mission and focus including 1) adsorption of hazardous air&lt;br/&gt;pollutants onto engineered nanomaterials; 2) identification and exposure assessment to&lt;br/&gt;manufactured nanoparticles in the environment; 3) characterization of sol-gel derived catalysts&lt;br/&gt;applied for green energy; 4) structural characterization of micro and nano fibers from novel flash&lt;br/&gt;spinning processes; 5) silica deposition in the calcareous foraminiferan ammonia parkinsoniana;&lt;br/&gt;6) effects of particle aggregation/disaggregation and precipitation on the transport of fine&lt;br/&gt;suspended sediments and contaminants in river systems; 7) high performance organic&lt;br/&gt;semiconductors for field effect transistors; and 8) characterization of reverse osmosis&lt;br/&gt;membrane damage and fouling.]]></AbstractNarration>
+<MinAmdLetterDate>07/24/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0821370</AwardID>
+<Investigator>
+<FirstName>Jingbo</FirstName>
+<LastName>Liu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jingbo Liu</PI_FULL_NAME>
+<EmailAddress><![CDATA[kfjll00@tamuk.edu]]></EmailAddress>
+<NSF_ID>000160978</NSF_ID>
+<StartDate>07/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yifang</FirstName>
+<LastName>Zhu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yifang Zhu</PI_FULL_NAME>
+<EmailAddress><![CDATA[yifangzhu06@gmail.com]]></EmailAddress>
+<NSF_ID>000487978</NSF_ID>
+<StartDate>07/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Ramirez</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David Ramirez</PI_FULL_NAME>
+<EmailAddress><![CDATA[kfdr000@tamuk.edu]]></EmailAddress>
+<NSF_ID>000313227</NSF_ID>
+<StartDate>07/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Patrick</FirstName>
+<LastName>Mills</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Patrick L Mills</PI_FULL_NAME>
+<EmailAddress><![CDATA[kfplm00@tamuk.edu]]></EmailAddress>
+<NSF_ID>000244848</NSF_ID>
+<StartDate>07/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jon</FirstName>
+<LastName>Baskin</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jon A Baskin</PI_FULL_NAME>
+<EmailAddress><![CDATA[kfjab02@tamuk.edu]]></EmailAddress>
+<NSF_ID>000498302</NSF_ID>
+<StartDate>07/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M University-Kingsville</Name>
+<CityName>KINGSVILLE</CityName>
+<ZipCode>783638202</ZipCode>
+<PhoneNumber>3615933344</PhoneNumber>
+<StreetAddress>700 N UNIVERSITY BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>34</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX34</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SQ6VAWQ7YSZ4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A &amp; M UNIVERSITY KINGSVILLE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&amp;M University-Kingsville]]></Name>
+<CityName>KINGSVILLE</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>783638202</ZipCode>
+<StreetAddress><![CDATA[700 N UNIVERSITY BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>34</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX34</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>014E</Code>
+<Text>NANOBIOTECH AND NANOTOXICOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7236</Code>
+<Text>BIOPHOTONICS, IMAGING &amp;SENSING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~307250</FUND_OBLG>
+</Award>
+</rootTag>

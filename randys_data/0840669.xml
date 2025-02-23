@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: PENGUIn - A High-Latitude Window to Geospace Dynamics</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>130000.00</AwardTotalIntnAmount>
+<AwardAmount>130000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090300</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OPP</Abbreviation>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vladimir Papitashvili</SignBlockName>
+<PO_EMAI>vpapita@nsf.gov</PO_EMAI>
+<PO_PHON>7032927425</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5). &lt;br/&gt;The PENGUIn team will continue investigating in depth a multi-scale electrodynamic system that comprises space environment of Planet Earth (geospace). Several science topics important to the space physics and aeronomy are outlines in this proposal that can be broadly categorized as the following objectives: (a) to study reconnection and waves in the southern cusp region; (b) to investigate unraveling global geomagnetic substorm signatures; (c) to understand the dayside wave-particle interactions; and (d) to observe and investigate various polar cap phenomena and neutral atmosphere dynamics. Cutting-edge science on these critical topics will be accomplished by acquiring multi-instrument data from a distributed network of autonomous observatories in Antarctica, built and deployed with the matured technological achievements. In the last several years, advances in power supply systems and Iridium data transmission for the Automatic Geophysical Observatories (AGOs) have proven effective for providing real-time geophysical data reliably. Five AGOs that span from the auroral zone to deep in the polar cap will be maintained providing a wealth of data for science analyses. Additional instrumentation as GPS-based receivers measuring total electron content in the ionosphere will be deployed at AGOs. These scientific investigations will be enriched by complementary measurements from manned stations in the Antarctic, from magnetically conjugate regions in the Arctic, and from a fleet of magnetospheric and ionospheric spacecraft. Continued reliance on students provides a broader impact to this proposed research and firmly grounds this effort in its educational mission.</AbstractNarration>
+<MinAmdLetterDate>08/20/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/20/2009</MaxAmdLetterDate>
+<ARRAAmount>130000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.078</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0840669</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>LaBelle</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James W LaBelle</PI_FULL_NAME>
+<EmailAddress>jlabelle@einstein.dartmouth.edu</EmailAddress>
+<PI_PHON>6036462973</PI_PHON>
+<NSF_ID>000422642</NSF_ID>
+<StartDate>08/20/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Dartmouth College</Name>
+<CityName>HANOVER</CityName>
+<ZipCode>037552170</ZipCode>
+<PhoneNumber>6036463007</PhoneNumber>
+<StreetAddress>7 LEBANON ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Hampshire</StateName>
+<StateCode>NH</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NH02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EB8ASJBCFER9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF DARTMOUTH COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EB8ASJBCFER9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Dartmouth College]]></Name>
+<CityName>HANOVER</CityName>
+<StateCode>NH</StateCode>
+<ZipCode>037552170</ZipCode>
+<StreetAddress><![CDATA[7 LEBANON ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Hampshire</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NH02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0311000</Code>
+<Name>Polar Programs-Related</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5115</Code>
+<Text>ANT Astrophys &amp; Geospace Sci</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~130000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[STTR Phase I: Smart Antenna Systems for Unlicensed ISM-band Public Safety and Remote Meter Reading Data Networks]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>147794.00</AwardTotalIntnAmount>
+<AwardAmount>147794</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Juan E. Figueroa</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This Small Business Technology Transfer (STTR) Phase I project will characterize the interference environment of outdoor unlicensed 900 and 2400 MHz wireless networks used for public safety and energy management. It will also develop a proof of concept and test innovative interference minimizing smart antenna prototypes to restore operations and improve performance of public safety networks. Private wireless broadband networks, deployed by municipalities and utilities are used for such functions as public safety, public Internet access, and energy and water management. These networks are experiencing dramatic growth in both size and number. This growth, along with expanding enterprise and consumer use of overlapping devices and Wireless Local Area Networks (WLANs), continue to exacerbate performance reducing interference problems. This interference has forced many municipalities to double their investments in infrastructure equipment or to increase transmitter power to overcome interference, thus producing more interference for overlapping systems.&lt;br/&gt;&lt;br/&gt;If successful the use of this antenna in the proposed band will help first responders save lives. For example, interactive live video, voice and vitals monitoring allow physicians to interact with disaster victims and their caregivers at the scene and during transport. These and other applications such as GPS enabled emergency response vehicle and personnel tracking and fuel-efficient dispatch require large amounts of data to be delivered over reliable wireless networks. This unique smart antenna technology will help insure that private municipal wireless networks provide reliable high data rates that continue to meet performance goals as the frequencies they use become more crowded.]]></AbstractNarration>
+<MinAmdLetterDate>05/07/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/07/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0810792</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Conley</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert J Conley</PI_FULL_NAME>
+<EmailAddress><![CDATA[bconley@LHC2.com]]></EmailAddress>
+<NSF_ID>000427331</NSF_ID>
+<StartDate>05/07/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>LHC2 Inc.</Name>
+<CityName>LIBERTY LAKE</CityName>
+<ZipCode>990199421</ZipCode>
+<PhoneNumber>5099532182</PhoneNumber>
+<StreetAddress>23326 E 2ND AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>X2EVJACJEW87</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>LHC2 INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[LHC2 Inc.]]></Name>
+<CityName>LIBERTY LAKE</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>990199421</ZipCode>
+<StreetAddress><![CDATA[23326 E 2ND AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; DEVICE TEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7257</Code>
+<Text>APPLICATS OF ADVANCED TECHNOLS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9139</Code>
+<Text>INFORMATION INFRASTRUCTURE &amp; TECH APPL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~147794</FUND_OBLG>
+</Award>
+</rootTag>

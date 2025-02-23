@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[GOALI: Safety-Preserved Estimation and Control of Tire/Road Interaction]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2008</AwardExpirationDate>
+<AwardTotalIntnAmount>245999.00</AwardTotalIntnAmount>
+<AwardAmount>245999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eduardo Misawa</SignBlockName>
+<PO_EMAI>emisawa@nsf.gov</PO_EMAI>
+<PO_PHON>7032925353</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Tire/road interaction plays an important role for safe operation of motor vehicles. The objective of this GOALI project is to establish a sensor-enabled modeling framework to real-time predict and preserve the safety limits of tire/road interaction. The project will develop, implement, and evaluate a safety-preserved tire/road interaction estimation and control scheme. The following three objectives will be pursued: (1) a sensor-enabled tire/road interaction modeling scheme; (2) a tire/road interaction safety-limit estimation and control system; and (3) technology implementation and transfer at Ford as well as research/education integration. The approach of this research is based on the integration of the physical and dynamic tire/road friction models with the distributed tire rubber deformation sensing system. Based on the sensor-enabled models, on-line estimation and control strategies will be developed to predict the safety limits of tire/road interaction and prevent vehicles from unsafe operation. &lt;br/&gt;&lt;br/&gt;The success of this project will advance fundamental understanding of tire/road interaction by providing new sensing mechanisms for modeling tire/road interaction, new knowledge and methodologies to real-time estimate the safety limits of tire/road interaction under normal driving conditions without the need of severe and unsafe maneuvers, and a new adaptive control methodology to preserve vehicle safety. Industrial implementation of the resulting methodology is expected to generate broad economic and societal impacts. One of the direct applications of the proposed research will be to advance the ?smart tire? technology in the automotive industry. The project will provide students (at the K-12, the undergraduate and graduate levels) with multidisciplinary training, exposure to important industrial problems, and practical experience. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/29/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/29/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0800964</AwardID>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Tseng</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eric Tseng</PI_FULL_NAME>
+<EmailAddress><![CDATA[HTseng@ford.com]]></EmailAddress>
+<NSF_ID>000489850</NSF_ID>
+<StartDate>07/29/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jingang</FirstName>
+<LastName>Yi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jingang Yi</PI_FULL_NAME>
+<EmailAddress><![CDATA[jgyi@rutgers.edu]]></EmailAddress>
+<NSF_ID>000246666</NSF_ID>
+<StartDate>07/29/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>San Diego State University Foundation</Name>
+<CityName>SAN DIEGO</CityName>
+<ZipCode>921821901</ZipCode>
+<PhoneNumber>6195945731</PhoneNumber>
+<StreetAddress>5250 CAMPANILE DR MC1947</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>51</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA51</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H59JKGFZKHL7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SAN DIEGO STATE UNIVERSITY FOUNDATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[San Diego State University]]></Name>
+<CityName>San Diego</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>921151338</ZipCode>
+<StreetAddress><![CDATA[5300 Campanile Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>51</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA51</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1504</Code>
+<Text>GOALI-Grnt Opp Acad Lia wIndus</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1632</Code>
+<Text>CONTROL SYSTEMS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>030E</Code>
+<Text>CONTROL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~0</FUND_OBLG>
+</Award>
+</rootTag>

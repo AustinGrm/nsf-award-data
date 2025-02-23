@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NECO:   Protocol Design for Distributed Delaunay Triangulation and Its Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joseph Lyles</SignBlockName>
+<PO_EMAI>jlyles@nsf.gov</PO_EMAI>
+<PO_PHON>7032922087</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[&lt;br/&gt;NSF NeTS-NECO Proposal 0830939: Protocol Design for Distributed Delaunay Triangulation and Its Applications&lt;br/&gt;&lt;br/&gt;Award Abstract&lt;br/&gt;&lt;br/&gt;Delaunay triangulation (DT) of a set of points in Euclidean space has many applications in different fields of science and engineering.  A distributed DT can be used to improve performance for a variety of networks (e.g., P2P, overlay, sensor, and wireless networks) as well as simulation-type applications, including distributed virtual reality systems and multiplayer online games.  The discovery of a necessary and sufficient condition for a correct distributed DT is the basis of protocol design in this project for a dynamically changing system of nodes (in d-dimensional space, d &gt; 1) to construct and maintain a distributed DT.  In addition to correctness and efficiency, accuracy is used as a performance metric because it is impossible to maintain a correct distributed DT continually (correctness of a distributed DT is broken as soon as a join, leave or failure occurs).  A suite of protocols is designed that recovers quickly from incorrect system states such that a system that has been under ?churn? converges to 100% accuracy quickly after churning stops.  Expected results include (i) the design of an improved protocol suite that is an order of magnitude more efficient than existing protocols and still satisfies requirements of correctness and accuracy, and (ii) protocols to construct a distributed Euclidean minimum spanning tree for systems under churn.  Network application protocols are also designed for greedy routing, finding the closest node, broadcast, multicast, geocast, and clustering.  The performance of these protocols for network nodes with inaccurate (or virtual) coordinates is being investigated.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Investigator:  Simon S. Lam&lt;br/&gt;&lt;br/&gt;List of Active Grant Awards&lt;br/&gt;&lt;br/&gt;1. NSF NeTS-NECO Proposal 0830939: Protocol Design for Distributed Delaunay Triangulation and Its Applications, 9/1/08 to 8/31/11&lt;br/&gt;      Support for Simon Lam from this grant:  1 summer month (2009, 2010, 2011)&lt;br/&gt;&lt;br/&gt;2. NSF CNS-0434515: NeTS-NR: A Novel Technique to Detect Shared Congestion and Applications, 10/01/04 to 9/30/08.&lt;br/&gt;      Support for Simon Lam from this grant:  none (grant expires on 9/30/08)&lt;br/&gt;&lt;br/&gt;3. NSF CNS-0627020: Collaborative Research: NeTS-NBD: Traffic Engineering in an Uncertain World, 9/1/06 to 8/31/09.&lt;br/&gt;      Support for Simon Lam from this grant: 1 summer month (2009)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/08/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/08/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0830939</AwardID>
+<Investigator>
+<FirstName>Simon</FirstName>
+<LastName>Lam</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Simon S Lam</PI_FULL_NAME>
+<EmailAddress><![CDATA[lam@cs.utexas.edu]]></EmailAddress>
+<NSF_ID>000432537</NSF_ID>
+<StartDate>08/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1640</Code>
+<Text>Information Technology Researc</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7747</Code>
+<Text>NETWORK ECOSYSTEMS (NECO)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~400000</FUND_OBLG>
+</Award>
+</rootTag>

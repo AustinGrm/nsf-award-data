@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSWP:  High Frequency (HF) Doppler Radar for Low Latitude Studies]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>299569.00</AwardTotalIntnAmount>
+<AwardAmount>299569</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020201</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anja Stromme</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[A Doppler High Frequency (HF) radar is placed at the Jicamarca Peru Incoherent Scatter Radar Facility for the purpose of untangling the processes that lead to the onset of equatorial plasma bubbles (EPBs), and in turn to scintillations of radio signals traversing the ionosphere, including GPS signals.  The spectra and propagation of ionospheric perturbations just below the F-region peak are characterized, and their relationship to EPBs observed at Jicamarca is determined.  The variability of vertical ion drift in the enhanced ion density preceding the neutral wind reversal is determined during solar minimum conditions, and the relationship of that variability to equatorial plasma bubble onset is determined.  The extent to which neutral winds modulate the occurrence of EPBs, and possibly override otherwise effective triggering mechanisms is also evaluated using data from nearby Fabry-Perot interferometers.  The determined relationships between plasma perturbations below the F-region ionospheric peak, variability of the vertical ion drift, the neutral wind, and EPB onset are finally used to in an attempt to predict EPB generation, along with associated radio scintillations.]]></AbstractNarration>
+<MinAmdLetterDate>09/26/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/26/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0852393</AwardID>
+<Investigator>
+<FirstName>Geoffrey</FirstName>
+<LastName>Crowley</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Geoffrey Crowley</PI_FULL_NAME>
+<EmailAddress><![CDATA[geoff.crowley@orionspace.com]]></EmailAddress>
+<NSF_ID>000415296</NSF_ID>
+<StartDate>09/26/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Orion Space Solutions (OSS), LLC</Name>
+<CityName>LOUISVILLE</CityName>
+<ZipCode>800271677</ZipCode>
+<PhoneNumber>2108343475</PhoneNumber>
+<StreetAddress>282 CENTURY PL</StreetAddress>
+<StreetAddress2><![CDATA[STE 1000]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DRYZNRMCBKL6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ATMOSPHERIC &amp; SPACE TECHNOLOGY RESEARCH ASSOCIATES LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Orion Space Solutions (OSS), LLC]]></Name>
+<CityName>LOUISVILLE</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>800271677</ZipCode>
+<StreetAddress><![CDATA[282 CENTURY PL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0205000</Code>
+<Name>Space</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1521</Code>
+<Text>AERONOMY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>4202</Code>
+<Text>Upper Atmospheric Facilities</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>V939</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9196</Code>
+<Text>NATURAL DISASTERS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<FUND_OBLG>2005~119648</FUND_OBLG>
+<FUND_OBLG>2006~87172</FUND_OBLG>
+<FUND_OBLG>2007~92749</FUND_OBLG>
+</Award>
+</rootTag>

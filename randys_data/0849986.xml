@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[A PAARE Program Between New Mexico State University, the National Solar Observatory, and the AFRL]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>651870.00</AwardTotalIntnAmount>
+<AwardAmount>651870</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daniel Evans</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This proposal will be awarded using funds made available by the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;The goal of this program is to enhance diversity in astronomical research and education by establishing a partnership between the minority serving university, New Mexico State University (NMSU), the National Solar Observatory (NSO), and the Air Force Research Laboratory (AFRL) Space Weather Center of Excellence. Scientists from the latter group are permanently stationed at the NSO facilities.  The primary focus of this partnership is graduate education. A complete pathway, starting with a student's admission to NMSU and ending with his/her transition into the professoriate is provided.  Research will target three areas where the partner institutions have common interests: 1) the origins and prediction of stellar activity, 2) instrument development, and 3) computational astrophysics. These have been designated as long-term research fields by the NSO, are central to the mission of the AFRL Space Weather Center of Excellence, and coincide with NMSU faculty research interests.&lt;br/&gt;&lt;br/&gt;This effort will recruit superior students regardless of their ethnicity. However, once it reaches a mature state, it will lead to a 50% increase in the number of Hispanic Ph.D.s awarded in Astronomy. It also 1) impacts research at NMSU by increasing external collaborative activities in five academic departments, 2) enhances the graduate curricula in these departments, and 3) produces graduates who can work in academia, at the NSO and AFRL, in businesses such as General Dynamics and Boeing, and in federally-funded national facilities and laboratories.  Predictive models of space weather are highly relevant to today's society. Severe changes in the Earth's space weather can compromise satellite systems, disrupt global communication networks, navigation systems, and electric power distribution grids. To avoid the socio-economic losses associated with these failures, these efforts seek to improve space weather predictions so that active interventions can take place.]]></AbstractNarration>
+<MinAmdLetterDate>07/07/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/07/2009</MaxAmdLetterDate>
+<ARRAAmount>651870</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0849986</AwardID>
+<Investigator>
+<FirstName>Bernard</FirstName>
+<LastName>McNamara</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bernard J McNamara</PI_FULL_NAME>
+<EmailAddress><![CDATA[bmcnamar@nmsu.edu]]></EmailAddress>
+<NSF_ID>000106092</NSF_ID>
+<StartDate>07/07/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>K.</FirstName>
+<LastName>Balasubramaniam</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME>Dr.</PI_SUFX_NAME>
+<PI_FULL_NAME>K. S Balasubramaniam</PI_FULL_NAME>
+<EmailAddress><![CDATA[balaks@kirtland.af.mil]]></EmailAddress>
+<NSF_ID>000353402</NSF_ID>
+<StartDate>07/07/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Han</FirstName>
+<LastName>Uitenbroek</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Han Uitenbroek</PI_FULL_NAME>
+<EmailAddress><![CDATA[huitenbroek@nso.edu]]></EmailAddress>
+<NSF_ID>000077625</NSF_ID>
+<StartDate>07/07/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jason</FirstName>
+<LastName>Jackiewicz</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jason Jackiewicz</PI_FULL_NAME>
+<EmailAddress><![CDATA[jasonj@nmsu.edu]]></EmailAddress>
+<NSF_ID>000510430</NSF_ID>
+<StartDate>07/07/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New Mexico State University</Name>
+<CityName>LAS CRUCES</CityName>
+<ZipCode>880038001</ZipCode>
+<PhoneNumber>5756461590</PhoneNumber>
+<StreetAddress>1050 STEWART ST STE E1200</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NM02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>J3M5GZAT8N85</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW MEXICO STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>ED67D3S7GM79</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New Mexico State University]]></Name>
+<CityName>LAS CRUCES</CityName>
+<StateCode>NM</StateCode>
+<ZipCode>880038001</ZipCode>
+<StreetAddress><![CDATA[1050 STEWART ST STE E1200]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NM02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7682</Code>
+<Text>PAARE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9138</Code>
+<Text>CAREER ADVNCMT AWDS-MINORITIES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~651870</FUND_OBLG>
+</Award>
+</rootTag>

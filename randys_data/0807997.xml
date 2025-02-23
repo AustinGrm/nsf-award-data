@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[M Stars and the History of the Milky Way]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>158100.00</AwardTotalIntnAmount>
+<AwardAmount>158100</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Neff</SignBlockName>
+<PO_EMAI>jneff@nsf.gov</PO_EMAI>
+<PO_PHON>7032922475</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Dr. Jennifer Johnson (Ohio State University) will develop an empirical calibration of moderate dispersion spectral indices (in the optical red region) for M-type giant and M-type dwarf stars.  The M giants will be calibrated by observing stars with known chemical composition and colors or by comparing directly to previous studies of high-resolution spectra at various wavelengths.  The M dwarfs will be calibrated by observing dwarfs in binary systems with a companion that is an F-, G-, or K-type star; the metallicity of the companion being applied to the M dwarf.   &lt;br/&gt;&lt;br/&gt;The calibrations will be used to derive properties of M giants and dwarfs already observed by Sloan Extension for Galactic Understanding and Exploration (SEGUE) and the Two-Micron All-Sky Survey (2MASS), and additional observations will be made at the Large Binocular Telescope, the MDM observatory, and the Small and Moderate Aperture Research Telescope System in order to map the halo distribution of M giant stars.  Results from the work can also be applied to Sloan Digital Sky Survey and United Kingdom Infrared Telescope Infrared Deep Sky Survey data in general for other studies.  A graduate student and a postdoctoral researcher will take part in this research project.  Undergraduate students will also be involved in some aspects of the research.  Dr. Johnson and her collaborators will also be involved with the Ohio State University collaboration with the Columbus Science Museum (COSI) to perform public outreach in the area.]]></AbstractNarration>
+<MinAmdLetterDate>06/20/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/20/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0807997</AwardID>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Johnson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jennifer Johnson</PI_FULL_NAME>
+<EmailAddress><![CDATA[jaj@astronomy.ohio-state.edu]]></EmailAddress>
+<NSF_ID>000242583</NSF_ID>
+<StartDate>06/20/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Ohio State University Research Foundation -DO NOT USE</Name>
+<CityName>Columbus</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888734</PhoneNumber>
+<StreetAddress>1960 KENNY RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QR7NH79713E5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>COLUMBUS</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>432101016</ZipCode>
+<StreetAddress><![CDATA[1960 KENNY RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1216</Code>
+<Text>GALACTIC ASTRONOMY PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7480</Code>
+<Text>ARCHIVAL DATA ANALYSIS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~158100</FUND_OBLG>
+</Award>
+</rootTag>

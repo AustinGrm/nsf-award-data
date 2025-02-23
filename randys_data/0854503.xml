@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Thermally Actuated Pumping Mechanism During Boiling on an Asymmetrically Structured Surface]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>101099.00</AwardTotalIntnAmount>
+<AwardAmount>101099</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sumanta Acharya</SignBlockName>
+<PO_EMAI>sacharya@nsf.gov</PO_EMAI>
+<PO_PHON>7032924509</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[0854503&lt;br/&gt;Narayanan&lt;br/&gt;&lt;br/&gt;This is a collaborative research and educational program between investigators at Oregon State University and Auburn University in the general area of phase-change heat transfer enhancement. The research goal is to characterize the effect of a passively imposed asymmetric force on a bubble during the boiling process. Such asymmetry is created by the use of a surface with repeated ratchet structures and pyramidal reentrant cavities located on one of its sides. The hypothesis is that with several ratchets, this local asymmetric motion can be translated to a net fluid pumping. Educational activities aim to provide a synergy between research and education, as well as between several universities.&lt;br/&gt;The main objectives of the project are to: (1) Determine, using a suite of non-intrusive imaging methods, time-varying bubble diameters and frequencies, liquid and bubble velocities, and temporally- and spatially- resolved surface temperatures, (2) Refine preliminary models based on information obtained from the above imaging experiments,  (3) Validate the model against global measurements of a large-array of ratchets, for which boiling curves will be established, and (4) Integrate research findings into a new module in an existing multi-University Electronics Thermal Management course.&lt;br/&gt;Intellectual Merit: The enhancement technique can be applied to heat transfer from adversely oriented surfaces and in space thermal management. The proposed methods of experimentation present a detailed estimation of flow and temperature field in boiling flows that will be useful to modellers. The proposed analyses will highlight forces of importance by performing experiments under different orientations and subcooling levels, and with two fluids of contrasting properties. Passive methods of heat transfer enhancement are important in a broader context of energy efficiency.&lt;br/&gt;Broader Impact: Educational activities will include integration of the project results in the form of a module into an existing, past-NSF funded Electronics Thermal Management live-internet multi-campus course and will incorporate Oregon State University as a new partner. At the end of year 2, a DC-9 microgravity flight experiment is planned as a part of a concurrent grant from NASA. Several senior undergraduate students will take part in the design and eventual testing of this experiment. An AT&amp;T-Minority-Engineering-Program student at Auburn University will also be working closely with OSU undergraduate students. One promising high-school student, through the Oregon-state-wide Apprenticeship in Science and Engineering Program, will be involved in experiment design and testing.]]></AbstractNarration>
+<MinAmdLetterDate>05/22/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>05/22/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0854503</AwardID>
+<Investigator>
+<FirstName>Vinod</FirstName>
+<LastName>Narayanan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vinod Narayanan</PI_FULL_NAME>
+<EmailAddress><![CDATA[vnarayanan@ucdavis.edu]]></EmailAddress>
+<NSF_ID>000491828</NSF_ID>
+<StartDate>05/22/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Oregon State University</Name>
+<CityName>CORVALLIS</CityName>
+<ZipCode>973318655</ZipCode>
+<PhoneNumber>5417374933</PhoneNumber>
+<StreetAddress>1500 SW JEFFERSON ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OR04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MZ4DYXE1SL98</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OREGON STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MZ4DYXE1SL98</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Oregon State University]]></Name>
+<CityName>CORVALLIS</CityName>
+<StateCode>OR</StateCode>
+<ZipCode>973318655</ZipCode>
+<StreetAddress><![CDATA[1500 SW JEFFERSON ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OR04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1406</Code>
+<Text>TTP-Thermal Transport Process</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>051E</Code>
+<Text>Interfacial trans &amp; thermodynamic</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>056E</Code>
+<Text>Multiphase flow</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>064E</Code>
+<Text>Convection heat and mass transfer</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~101099</FUND_OBLG>
+</Award>
+</rootTag>

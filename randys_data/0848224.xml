@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Minimal Peptide Catalysts for Asymmetric Synthesis</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>423000.00</AwardTotalIntnAmount>
+<AwardAmount>423000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090003</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tingyu Li</SignBlockName>
+<PO_EMAI>tli@nsf.gov</PO_EMAI>
+<PO_PHON>7032924949</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project will continue work on the development of methods for the formation of C-C bonds employing peptide-based catalysts.  The focus of the proposal is on Lewis base catalysts predicated on the incorporation of nucleophiles into low-molecular weight peptides.  The catalysts are to be tested in a range of enantioselective and diastereoselective complexity-generating processes.  Studies to elucidate the mechanistic basis of stereochemical control are another emphasis of the project.  Combinatorial screening of peptide-based catalyst libraries with hypothesis-driven catalyst selection techniques will also be employed. &lt;br/&gt;&lt;br/&gt;With this award, the Organic and Macromolecular Chemistry Program is supporting the research of Professor Scott J. Miller of the Department of Chemistry at Yale University.  Professor Miller's research efforts revolve around the development of efficient catalysts for complex bond-forming reactions.  This chemistry will contribute environmentally benign methods to the field of chemical synthesis.  Peptide-based catalysts also present analogies to enzymes, creating an opportunity to probe fundamental aspects of biologically relevant catalysts.  Successful development of the methodology will have an impact on the pharmaceutical and fine chemical industries, as well as provide rigorous training for students in synthetic and physical organic chemistry.</AbstractNarration>
+<MinAmdLetterDate>02/10/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>02/10/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0848224</AwardID>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Miller</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Scott J Miller</PI_FULL_NAME>
+<EmailAddress>scott.miller@yale.edu</EmailAddress>
+<NSF_ID>000178885</NSF_ID>
+<StartDate>02/10/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Yale University</Name>
+<CityName>New Haven</CityName>
+<ZipCode>065208327</ZipCode>
+<PhoneNumber>2037854689</PhoneNumber>
+<StreetAddress>Office of Sponsored Projects</StreetAddress>
+<StreetAddress2><![CDATA[P.O. Box 208327]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT03</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>043207562</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>YALE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>043207562</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Yale University]]></Name>
+<CityName>New Haven</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>065208327</ZipCode>
+<StreetAddress><![CDATA[Office of Sponsored Projects]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1950</Code>
+<Text>METHODOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1401</Code>
+<Text>CATALYSIS AND BIOCATALYSIS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9223</Code>
+<Text>ENVIRON BENIGN CHEMICAL SYNTH &amp; PROCESS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2009~423000</FUND_OBLG>
+</Award>
+</rootTag>

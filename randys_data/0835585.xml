@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Project:  Information Assurance and Security Curriculum and Faculty Development]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>468.00</AwardTotalIntnAmount>
+<AwardAmount>468</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Victor Piotrowski</SignBlockName>
+<PO_EMAI>vpiotrow@nsf.gov</PO_EMAI>
+<PO_PHON>7032925141</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This is a capacity building project for curriculum and faculty development and in information assurance and security. The four collaborating institutions are developing, testing, and sharing educational materials on secure network protocols that can be used in both undergraduate and graduate studies. The materials are integrated into a cohesive set of educational modules that collectively address the area of secure network protocols. Modules include the basic requirements, principles, architecture, building blocks, and implementation of secure protocols; analysis of protocols to determine how well they satisfy security requirements; and implementation of existing secure protocols in representative environments. In addition, faculty development is supported by having members from these institutions attend the Information Assurance Education Graduate Certificate (IAEGC) at Purdue University.]]></AbstractNarration>
+<MinAmdLetterDate>09/16/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/16/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0835585</AwardID>
+<Investigator>
+<FirstName>Linda</FirstName>
+<LastName>Morales</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Linda Morales</PI_FULL_NAME>
+<EmailAddress><![CDATA[lmorales@utdallas.edu]]></EmailAddress>
+<NSF_ID>000118663</NSF_ID>
+<StartDate>09/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Dallas</Name>
+<CityName>RICHARDSON</CityName>
+<ZipCode>750803021</ZipCode>
+<PhoneNumber>9728832313</PhoneNumber>
+<StreetAddress>800 WEST CAMPBELL RD.</StreetAddress>
+<StreetAddress2><![CDATA[SP2.25]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>32</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX32</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EJCVPNN1WFS5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT DALLAS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Dallas]]></Name>
+<CityName>RICHARDSON</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>750803021</ZipCode>
+<StreetAddress><![CDATA[800 WEST CAMPBELL RD.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>32</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX32</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1668</Code>
+<Text>CYBERCORPS: SCHLAR FOR SER</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7254</Code>
+<Text>CYBER SECURITY ACT PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0404</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000405DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2004~468</FUND_OBLG>
+</Award>
+</rootTag>

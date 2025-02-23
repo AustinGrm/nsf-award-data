@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[The 18mm2 Laboratory]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>149996</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lee Zia</SignBlockName>
+<PO_EMAI>lzia@nsf.gov</PO_EMAI>
+<PO_PHON>7032925140</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Interdisciplinary (99) This project is developing an innovative capability to add the detailed study of micro- and nanoscale phenomena using Microelectromechanical Systems (MEMS) into a variety of laboratory settings in engineering and physics. The centerpiece of this effort is the development of a low-cost MEMS Education Chip and controller system accessible through standard and widely available laboratory tools (both microscope and computer). Use of the chip permits the illustration of, and hands-on engagement with, important micro- to nanoscale concepts for students at many educational levels and in various disciplines and classes. The intellectual merit of this project rests on strong interaction among theory, computer simulation, design, and on-chip experiments. In addition MEMS devices incorporate concepts that span many engineering and science disciplines and typically require interdisciplinary research and development efforts for successful implementation. As micro- and nanoscale systems continue to become mainstream devices, this project's broader impacts arise through its ability to support new laboratory programs and modes of teaching and learning that promote an environment conducive to producing undergraduate students who are well prepared for high-tech careers and advanced studies. Having a standardized MEMS chip for testing and simulation is cost effective and allows many universities to participate, allowing more interactions and advancement of the MEMS education community.]]></AbstractNarration>
+<MinAmdLetterDate>09/09/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>01/12/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0837521</AwardID>
+<Investigator>
+<FirstName>Tim</FirstName>
+<LastName>Dallas</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tim Dallas</PI_FULL_NAME>
+<EmailAddress><![CDATA[tim.dallas@ttu.edu]]></EmailAddress>
+<NSF_ID>000302595</NSF_ID>
+<StartDate>09/09/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Toni</FirstName>
+<LastName>Sauncy</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Toni Sauncy</PI_FULL_NAME>
+<EmailAddress><![CDATA[tsauncy@tlu.edu]]></EmailAddress>
+<NSF_ID>000646342</NSF_ID>
+<StartDate>09/09/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas Tech University</Name>
+<CityName>LUBBOCK</CityName>
+<ZipCode>79409</ZipCode>
+<PhoneNumber>8067423884</PhoneNumber>
+<StreetAddress>2500 BROADWAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EGLKRQ5JBCZ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS TECH UNIVERSITY SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas Tech University]]></Name>
+<CityName>LUBBOCK</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>79409</ZipCode>
+<StreetAddress><![CDATA[2500 BROADWAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>1300CYXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~149996</FUND_OBLG>
+</Award>
+</rootTag>

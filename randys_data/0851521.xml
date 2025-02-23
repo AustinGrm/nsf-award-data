@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[An Effective Methodology for Combining Information from Independent Sources with Applications to Social and Behavioral Sciences and Medical Research]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>154695.00</AwardTotalIntnAmount>
+<AwardAmount>154695</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cheryl Eavey</SignBlockName>
+<PO_EMAI>ceavey@nsf.gov</PO_EMAI>
+<PO_PHON>7032927269</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[In the modern era with explosive growth of information, it is important to process information in an efficient and meaningful manner. Statistical methodology of meta-analysis is a technique for enabling this. It has broad impacts and applications in social and behavioral sciences and medical research, among other fields. Indeed, formal and meaningful ways of combining data information from independent sources are important both theoretically and practically. Combined results from multiple studies summarize overall associations, and inferences from this are more robust and reliable than inferences from any single study.&lt;br/&gt;&lt;br/&gt;The goals of this proposal are to develop a unifying framework and new methodologies for combining information from independent sources, and to demonstrate the usefulness of the methodologies in a broad range of applications. The underlying tool of the proposed framework is confidence distributions (CDs). Although CD is a fundamental statistical inference concept with a long history, recent developments have redefined it with a focus on solving more complex real-life problems. The proposed framework based on CDs can unify most information combination methods used in the current practice, including both the classical p-value combination and the model based meta-analysis approaches. Furthermore, this framework of CD combination can lead to developments of new methodologies, such as: a) a robust meta-analysis approach, which can remove a critical constraint in current practice requiring all studies be of the same type and with the exact same parameter values; and b) a frequentist Bayes compromise approach to combining expert opinions with information in observed data, which is otherwise not possible in regular frequentist inference. &lt;br/&gt;&lt;br/&gt;The unifying development can potentially lead to a common computing program for various meta-analysis approaches. It not only has theoretical values, but can also promote broader applications of meta-analysis. Advances emerging from this project will help solve the specific set of problems set forth herein, and stimulate new research and applications in statistical methodological developments.]]></AbstractNarration>
+<MinAmdLetterDate>09/16/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>09/16/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0851521</AwardID>
+<Investigator>
+<FirstName>Minge</FirstName>
+<LastName>Xie</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Minge Xie</PI_FULL_NAME>
+<EmailAddress><![CDATA[mxie@stat.rutgers.edu]]></EmailAddress>
+<NSF_ID>000303823</NSF_ID>
+<StartDate>09/16/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rutgers University New Brunswick</Name>
+<CityName>NEW BRUNSWICK</CityName>
+<ZipCode>089018559</ZipCode>
+<PhoneNumber>8489320150</PhoneNumber>
+<StreetAddress>3 RUTGERS PLZA</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M1LVPE5GLSD9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M1LVPE5GLSD9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rutgers University New Brunswick]]></Name>
+<CityName>NEW BRUNSWICK</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>089018559</ZipCode>
+<StreetAddress><![CDATA[3 RUTGERS PLZA]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1333</Code>
+<Text>Methodology, Measuremt &amp; Stats</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~154695</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CRCNS 2008 P.I. Meeting]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>40913.00</AwardTotalIntnAmount>
+<AwardAmount>40913</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kenneth Whang</SignBlockName>
+<PO_EMAI>kwhang@nsf.gov</PO_EMAI>
+<PO_PHON>7032925149</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The PIs and Co-PIs of grants supported through the NSF-NIH Collaborative Research in Computational Neuroscience (CRCNS) program meet annually. This will be the fourth meeting of CRCNS investigators. The meeting brings together a broad spectrum of computational neuroscience researchers supported by the program, and includes poster presentations, talks and plenary lectures. The meeting is scheduled for June 1-3, 2008 and will be held at the University of Southern California.]]></AbstractNarration>
+<MinAmdLetterDate>07/01/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/01/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0834005</AwardID>
+<Investigator>
+<FirstName>Laurent</FirstName>
+<LastName>Itti</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Laurent Itti</PI_FULL_NAME>
+<EmailAddress><![CDATA[itti@pollux.usc.edu]]></EmailAddress>
+<NSF_ID>000487896</NSF_ID>
+<StartDate>07/01/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Southern California</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900894304</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress>3720 S FLOWER ST</StreetAddress>
+<StreetAddress2><![CDATA[FL 3]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA37</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G88KLJR3KYT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTHERN CALIFORNIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>LOS ANGELES</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900894304</ZipCode>
+<StreetAddress><![CDATA[3720 S FLOWER ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7327</Code>
+<Text>CRCNS-Computation Neuroscience</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7327</Code>
+<Text>CRCNS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9215</Code>
+<Text>HIGH PERFORMANCE COMPUTING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~40913</FUND_OBLG>
+</Award>
+</rootTag>

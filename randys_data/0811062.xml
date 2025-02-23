@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Second-order methods for large-scale optimization in compressed sensing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>200506.00</AwardTotalIntnAmount>
+<AwardAmount>132529</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040100</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leland Jameson</SignBlockName>
+<PO_EMAI>ljameson@nsf.gov</PO_EMAI>
+<PO_PHON>7032924883</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Nonlinear image reconstruction based upon sparse representations of signals and images has received widespread attention recently with the advent of compressed sensing. This emerging theory indicates that, when feasible, judicious selection of the type of distortion induced by measurement systems may lead to dramatically improved inverse problem solutions. In particular, when the signal or image of interest is very sparse (i.e., zero-valued at most locations) or highly compressible in some basis, relatively few indirect observations are necessary to reconstruct the most significant non-zero signal components. Compressed sensing theory states that sparse signals can be recovered very accurately with high probability from indirect measurements by solving an appropriate optimization problem. This research aims at the development of significantly more efficient methods for solving compressed sensing minimization problems. A crucial property of the proposed methods is that the algorithms are designed to be "matrix-free", i.e., they do not require the storage of (potentially very large) second-derivative matrices. Instead, these methods use matrices only as operators for matrix-vector products. &lt;br/&gt;This research also includes the application of the developed solvers to real large-scale problems from image processing (e.g., coded aperture superresolution, hyperspectral image reconstruction, and compressive video reconstruction), as well as theoretical proofs of convergence and numerical stability of the algorithms. &lt;br/&gt;&lt;br/&gt;"Compressed sensing" is an emerging field in computational mathematics that aims to improve signal (and image) reconstruction with less data. &lt;br/&gt;More efficient methods for compressed sensing can benefit such fields as medical imaging, astrophysics, biosensing, and geophysical data analysis. The basic theory exploits the fact that many natural signals in science and engineering are "sparse"--that is, they can be represented as a weighted combination of a small subset of commonly occurring signals. When a signal is sparse, scientists can accurately reconstruct the original signal using a relatively small number of measurements of the original signal. However, in practice finding the right weighted combination of signals can create staggering numerical and computational complexity. This research aims to develop novel optimization methods that can quickly find accurate solutions to these large-scale problems. For example, consider an astronomer wishing to image the night sky, which consists of small, bright stars against a dark background. A conventional digital camera or imaging system would need a very high resolution and sensitive photodetector to effectively localize the different stars, but collecting this large number of pixels can be very costly and energy inefficient. This work allows the astronomer to collect a relatively small number of random projection measurements of the scene and use these to reconstruct the image with a high probability of accuracy. Fast and accurate optimization algorithms for sparse signal reconstruction can impact many other areas of image and signal processing as well, from reducing the dose of CT scans in biomedical imaging and improving image resolution in video surveillance systems for airport security, to more efficiently transmitting communication signals from distant satellites and NASA spacecraft and more carefully monitoring the health of a forest ecosystem using hyperspectral imaging.]]></AbstractNarration>
+<MinAmdLetterDate>07/09/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/04/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0811062</AwardID>
+<Investigator>
+<FirstName>Roummel</FirstName>
+<LastName>Marcia</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Roummel F Marcia</PI_FULL_NAME>
+<EmailAddress><![CDATA[rmarcia@ucmerced.edu]]></EmailAddress>
+<NSF_ID>000083512</NSF_ID>
+<StartDate>07/09/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rebecca</FirstName>
+<LastName>Willett</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rebecca M Willett</PI_FULL_NAME>
+<EmailAddress><![CDATA[willett@g.uchicago.edu]]></EmailAddress>
+<NSF_ID>000312123</NSF_ID>
+<StartDate>07/09/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277054640</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W MAIN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TP7EK8DZV6N5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DUKE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277054640</ZipCode>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~66486</FUND_OBLG>
+<FUND_OBLG>2009~2592</FUND_OBLG>
+</Award>
+</rootTag>

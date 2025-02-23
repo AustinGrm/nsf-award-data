@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Liquid Behavior Unique to Nanochannels:    Modeling and Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/01/2007</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>165175</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090006</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Zeev Rosenzweig</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Professors Shaorang Liu, Henryk Temkin and Jordan M. Berg of Texas Tech University are supported by the Analytical and Surface Chemistry Program in the Division of Chemistry to conduct research that employs theoretical, computational and experimental nanofluidics methodologies to explore the unique properties of liquids in nanochannels.  The research effort will be focused on three new phenomena: 1) ion enrichment and depletion, 2) electrolyte conductivity enhancement, and 3) nano-induced apparent hydrophobicity. The nanochannels under study will have a depth in the range of ten to one hundred nanometers , where continuum behavior is dominant. Models will be developed to interpret these phenomena and reveal the underlying principles. &lt;br/&gt;Improved fundamental understanding of nanochannels will lead to new devices with substantial societal benefits. The proposed research involves chemists, mechanical and electrical engineers, and students from these three disciplines. This project integrates cutting-edge research with training in teamwork, communication, mentoring and leadership. The inherently interdisciplinary nature of this research will produce students with exceptional training. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>02/28/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/23/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0822539</AwardID>
+<Investigator>
+<FirstName>Shaorong</FirstName>
+<LastName>Liu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shaorong Liu</PI_FULL_NAME>
+<EmailAddress><![CDATA[shaorong.liu@ou.edu]]></EmailAddress>
+<NSF_ID>000492194</NSF_ID>
+<StartDate>02/28/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Oklahoma Norman Campus</Name>
+<CityName>NORMAN</CityName>
+<ZipCode>730193003</ZipCode>
+<PhoneNumber>4053254757</PhoneNumber>
+<StreetAddress>660 PARRINGTON OVAL RM 301</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<StateCode>OK</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OK04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EVTSTTLCEWS5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF OKLAHOMA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Oklahoma Norman Campus]]></Name>
+<CityName>NORMAN</CityName>
+<StateCode>OK</StateCode>
+<ZipCode>730193003</ZipCode>
+<StreetAddress><![CDATA[660 PARRINGTON OVAL RM 301]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OK04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1974</Code>
+<Text>ANALYTICAL SEPARATIONS &amp; MEAS.</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<FUND_OBLG>2006~45175</FUND_OBLG>
+<FUND_OBLG>2007~120000</FUND_OBLG>
+</Award>
+</rootTag>

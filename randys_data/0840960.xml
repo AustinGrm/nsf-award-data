@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Industry/University Collaborative Research Center for Advanced Cutting Tool Technology (ACT2)</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>350000.00</AwardTotalIntnAmount>
+<AwardAmount>168515</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EEC</Abbreviation>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rathindra DasGupta</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Full Center Proposal (Phase I) for an I/UCRC for Advanced Cutting Tool Technology (ACT2) &lt;br/&gt;&lt;br/&gt;0840960 Michigan State University; Patrick Kwon &lt;br/&gt;     &lt;br/&gt;The purpose of this proposal is to start a new I/UCRC entitled "I/UCRC for Advanced Cutting Tool Technology (ACT2)" to develop the fundamental science and technology necessary for the advancement of cutting tool technology.  The proposed center consists of a single academic institution and industrial partners, including cutting tool manufacturers and manufacturing companies to resolve unsettled and new challenges through long-term synergistic partnerships.  The proposed center addresses some of the fundamental issues in advanced machining.  The research expertise of the proposed team will enable them to identify wear mechanisms under various machining conditions, develop wear-resistant compositions and geometries of cutting tools, apply tool wear models for selection of optimum tool materials for specific machining situations, and find new ways to realize minimum quantity lubrication (MQL).  The proposed center, led by Michigan State, will have the assistance of Georgia Tech; and will be an important contributor to the knowledge base in cutting tools and tool materials.  &lt;br/&gt;&lt;br/&gt;The projects outlined in the proposal will significantly advance the know-how of the researchers.  The developed science and technologies will enable cutting tool and component manufacturers to effectively design and produce components more efficiently.  The students involved in the industry relevant research projects will certainly benefit from the industrial interaction.  The results of the proposed research will be disseminated in conference presentations, journals, and an online database will be created to assist researchers worldwide.  The PIs plan to recruit students through the Michigan State University (MSU) ENGINEERING Minority Office, and the McNair-SROP program, in order to encourage participation from underrepresented and economically disadvantaged groups.</AbstractNarration>
+<MinAmdLetterDate>08/15/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/10/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0840960</AwardID>
+<Investigator>
+<FirstName>Hyungson</FirstName>
+<LastName>Ki</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hyungson Ki</PI_FULL_NAME>
+<EmailAddress>hski@msu.edu</EmailAddress>
+<PI_PHON>5173551855</PI_PHON>
+<NSF_ID>000330849</NSF_ID>
+<StartDate>08/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Feeny</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brian F Feeny</PI_FULL_NAME>
+<EmailAddress>feeny@egr.msu.edu</EmailAddress>
+<PI_PHON>5173539451</PI_PHON>
+<NSF_ID>000338948</NSF_ID>
+<StartDate>08/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Patrick</FirstName>
+<LastName>Kwon</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Patrick Kwon</PI_FULL_NAME>
+<EmailAddress>pkwon@egr.msu.edu</EmailAddress>
+<PI_PHON>5173550173</PI_PHON>
+<NSF_ID>000343572</NSF_ID>
+<StartDate>08/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Michigan State University</Name>
+<CityName>EAST LANSING</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress>426 AUDITORIUM RD RM 2</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>R28EKN92ZTZ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MICHIGAN STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VJKZC4D1JN36</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>EAST LANSING</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>488242600</ZipCode>
+<StreetAddress><![CDATA[426 AUDITORIUM RD RM 2]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0400000</Code>
+<Name>Industry University - Co-op</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5761</Code>
+<Text>IUCRC-Indust-Univ Coop Res Ctr</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>I292</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1049</Code>
+<Text>INDUSTRY-UNIV COOPERATIVE RSCH PROJECTS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>122E</Code>
+<Text>CENTERS: OTHER INDUSTRY-UNIV</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910RB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~70000</FUND_OBLG>
+<FUND_OBLG>2009~98515</FUND_OBLG>
+</Award>
+</rootTag>

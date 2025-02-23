@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I: A Molecularly Imprinted Conductive Polymer-based Biodetector</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2008</AwardExpirationDate>
+<AwardTotalIntnAmount>99999.00</AwardTotalIntnAmount>
+<AwardAmount>99999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cynthia A. Znati</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>In this Small Business Innovation Research project, Smart Polymers Research Corporation will focus on the creation and testing of a molecularly imprinted conductive polymer as an innovative potential electrochemical detector for ricin, a natural cytotoxin, which is the second highest toxic plant cytotoxin after abrin, and which can be a potent biological weapon. Molecularly imprinted polymers (MIPs) are becoming an important analytical tool. Non-covalent imprinting, in particular, has a great range of applications because of the theoretical lack of restrictions on size, shape or chemical character of the imprinted molecule. The possibility of tailor-made, highly selective artificial receptors at low cost, with good mechanical, thermal and chemical properties makes MIP materials appear ideal for chemical- or bio-sensing applications. Despite the large amount of data available to date on formulae for MIPs, the main applications continue to be in the separation field, whereas the development of sensors and electrochemical sensors, in particular, is significantly slower. Electrochemical sensing could offer good limits of detection, at low cost, with the possibility of easy miniaturization and automation. Upon feasibility demonstration of our approach, a multispecific detector will be targeted to address the detection of several biowarfare agents of viral or bacterial nature. The potential for future miniaturization and possibility of field application of the proposed assay/sensor will be outlined.&lt;br/&gt;&lt;br/&gt;The proposed MIP-based sensor can have a wide range of commercial applications due to the versatility and adaptability of the underlying technology. The immediate applications can be broadly defined as targeted toward 1) the military; 2) first responders, and 3) the civilian sector. Based on mission requirements and the possibility of battlefield contamination, the military is expected to remain the largest consumer. Second are civil defense and law enforcement agencies, or first responders. These end-users are present at state and local levels and are tasked with protecting civilians in the event of a WMD attack. The third group of end-users is found in the civilian sector. These are primarily companies involved in chemical and biological demilitarization work and government agencies without first responder duties.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>05/21/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0809497</AwardID>
+<Investigator>
+<FirstName>Elena</FirstName>
+<LastName>Komarova</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elena Komarova</PI_FULL_NAME>
+<EmailAddress>elenka27@hotmail.com</EmailAddress>
+<PI_PHON>7275956175</PI_PHON>
+<NSF_ID>000275434</NSF_ID>
+<StartDate>05/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Smart Polymers Research Corporation</Name>
+<CityName>Belleair Beach</CityName>
+<ZipCode>337863213</ZipCode>
+<PhoneNumber>7275956175</PhoneNumber>
+<StreetAddress>108 4th Street</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Smart Polymers Research Corporation]]></Name>
+<CityName>Belleair Beach</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>337863213</ZipCode>
+<StreetAddress><![CDATA[108 4th Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1491</Code>
+<Text>BIOTECH, BIOCHEM &amp; BIOMASS ENG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; DEVICE TEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9107</Code>
+<Text>BIOELECTRONICS AND BIONETWORKS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9267</Code>
+<Text>INSTRUMENTATION &amp; LAB IMPROVE.</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~99999</FUND_OBLG>
+</Award>
+</rootTag>

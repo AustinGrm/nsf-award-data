@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>The Arabidopsis Proteome Folding Project</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>1621765.00</AwardTotalIntnAmount>
+<AwardAmount>1621765</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Julie Dickerson</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>New York University is awarded a grant to develop a public database that provides information about the structure and inferred function of proteins found in two plant genomes ? the model species Arabidopsis thaliana and the crop plant Oryza sativa (rice). Proteins are synthesized in the cell as long polymers that fold to form three-dimensional shapes critical for their function; knowledge of the 3D structure of proteins can be crucial for inferring their specific function.  Multiple state-of-the-art methods for predicting protein structure from protein sequences, including fold-recognition approaches, where protein sequences are mapped onto known folds, and Rosetta de novo structure prediction, where proteins are folded in silico, will be applied to all annotated proteins in these plant genomes. We will also integrate these structure predictions with knowledge of how proteins (and functional sites on folded proteins) evolve, by estimating the phylogenies of all protein domain families in these genomes and identifying positively-selected amino acid sites in these prorein families using codon-based molecular evolution models that can be mapped onto the predicted structures. This integration of structural and evolutionary information will result in annotated functional information inferences that will be useful to a wide cross-section of biologists working on several plant species. These methods will be especially useful for annotating the large fraction of proteins in plant genomes whose functions are currently unknown, the majority of which do not have any annotation of 3D folded structure (i.e., no detectable similarity to another protein with known structure). The bioinformatics resources for this project can also be extended for application to other sequenced plant genomes.  The project is a collaborative effort between New York University and the American Museum of Natural History and will be carried out on the World Community Grid (a loosely coupled computing platform composed of &gt;400,000 volunteers, organized by IBM), sidestepping the computational barrier to the required genome-wide structure prediction in a cost effective way.  By participating in the World Community Grid (wcgrid.org), the project will also provide a forum for explaining plant genomics to several hundred thousand Grid participants spanning all geographic, age, and socioeconomic categories. Finally, the project will be coupled to a continuing education program for high school teachers at the NYU Steinhardt School that will train teachers how to incorporate bioinformatics into high school science curricula.</AbstractNarration>
+<MinAmdLetterDate>08/02/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/02/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0820757</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>DeSalle</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert DeSalle</PI_FULL_NAME>
+<EmailAddress>desalle@amnh.org</EmailAddress>
+<PI_PHON>2127695670</PI_PHON>
+<NSF_ID>000317137</NSF_ID>
+<StartDate>08/02/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Purugganan</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael D Purugganan</PI_FULL_NAME>
+<EmailAddress>mp132@nyu.edu</EmailAddress>
+<PI_PHON>2129929628</PI_PHON>
+<NSF_ID>000149386</NSF_ID>
+<StartDate>08/02/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Bonneau</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Richard Bonneau</PI_FULL_NAME>
+<EmailAddress>bonneau@nyu.edu</EmailAddress>
+<PI_PHON>2129929516</PI_PHON>
+<NSF_ID>000115823</NSF_ID>
+<StartDate>08/02/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQ S</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NX9PXMKW5KW8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW YORK UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NX9PXMKW5KW8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100121019</ZipCode>
+<StreetAddress><![CDATA[70 WASHINGTON SQ S]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1329</Code>
+<Text>Plant Genome Research Project</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1165</Code>
+<Text>ADVANCES IN BIO INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1329</Code>
+<Text>PLANT GENOME RESEARCH PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1684</Code>
+<Text>THE 2010 PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9184</Code>
+<Text>BIOTECHNOLOGY - INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~1621765</FUND_OBLG>
+</Award>
+</rootTag>

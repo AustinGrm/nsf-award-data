@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Architectural Enhancement and Design Methodologies for Secure Processing in Embedded Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>405000.00</AwardTotalIntnAmount>
+<AwardAmount>405000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nina Amla</SignBlockName>
+<PO_EMAI>namla@nsf.gov</PO_EMAI>
+<PO_PHON>7032927991</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law III-5).&lt;br/&gt;&lt;br/&gt;With pervasive usage of embedded systems in our daily life and infrastructures, strengthening the security of embedded system in its design and implementation has become a critical priority for the research community. This project targets augmenting the processor architecture for run-time secure processing. Since the architectural support can be made transparent to upper-level software, it cannot be easily circumvented by new software security attacks. Meanwhile, in-processor changes offer great efficiency. We are pursuing three research objectives to address random memory corruption caused by software attacks. First, we explore effective architectural augmentations of embedded processors to monitor code integrity, and incorporate the monitor in a realistic application-specific instruction set processors (ASIPs) design flow. Second, we utilize the embedded speculative architectures of processors as a cache for legitimate behaviors to validate program control flow, protecting control data and decision-making data. The program execution validations are sampled at critical points to reduce the performance degradation. Third, we scale architectural support in a single-core environment up to more sophisticated and increasingly popular multi-core platforms. A suite of CAD design tools will be released to public for free use. Our approach will lead to a real impact on modern secure embedded processor design. The project will also facilitate the integration of research and education across multiple disciplines, and the PI is especially keen on promoting participation of traditionally underrepresented minorities and women in such domains.]]></AbstractNarration>
+<MinAmdLetterDate>09/02/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/19/2014</MaxAmdLetterDate>
+<ARRAAmount>405000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0845871</AwardID>
+<Investigator>
+<FirstName>Yunsi</FirstName>
+<LastName>Fei</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yunsi Fei</PI_FULL_NAME>
+<EmailAddress><![CDATA[yfei@ece.neu.edu]]></EmailAddress>
+<NSF_ID>000193839</NSF_ID>
+<StartDate>09/02/2009</StartDate>
+<EndDate>09/01/2011</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rajeev</FirstName>
+<LastName>Bansal</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rajeev Bansal</PI_FULL_NAME>
+<EmailAddress><![CDATA[rajeev@engr.uconn.edu]]></EmailAddress>
+<NSF_ID>000599475</NSF_ID>
+<StartDate>09/01/2011</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Connecticut</Name>
+<CityName>STORRS</CityName>
+<ZipCode>062691133</ZipCode>
+<PhoneNumber>8604863622</PhoneNumber>
+<StreetAddress>438 WHITNEY RD EXTENSION UNIT 11</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WNTPS995QBM7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CONNECTICUT</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D9SNFDRCW3W7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Connecticut]]></Name>
+<CityName>STORRS</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>062691133</ZipCode>
+<StreetAddress><![CDATA[438 WHITNEY RD EXTENSION UNIT 11]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7795</Code>
+<Text>TRUSTWORTHY COMPUTING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~405000</FUND_OBLG>
+</Award>
+</rootTag>

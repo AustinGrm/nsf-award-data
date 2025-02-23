@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of HPLC with Diode Array Detection for Pharmaceutical and Forensic Chemistry at the College of Charleston</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>63773.00</AwardTotalIntnAmount>
+<AwardAmount>63773</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos Murillo</SignBlockName>
+<PO_EMAI>cmurillo@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With this award from the Major Research Instrumentation program (MRI), Wendy C. Cory from the College of Charleston will acquire a high performance liquid chromatograph with a UV/VIS Diode Array Detector (HPLC-DAD) to perform research in the areas of pharmaceutical and forensic science.  The research projects will be carried out by faculty members in the Department of Chemistry and Biochemistry and the Department of Biology along with undergraduate students that are being mentored by these faculty members.  In addition, one of the projects will be carried out in collaboration with the Forensic Services Laboratory of the Charleston Police Department.&lt;br/&gt;&lt;br/&gt;An HPLC-DAD system will allow separation of mixtures of substances into individual components to facilitate their study by analyzing the characteristic traces provided by the interaction of such substances with visible and ultraviolet light. These studies are of great importance in forensic and other analytical studies. Training provided to students will prepare them for jobs in many areas of importance to society such as analytical and organic chemistry, biology and crime investigations.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>09/16/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/16/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0821426</AwardID>
+<Investigator>
+<FirstName>Wendy</FirstName>
+<LastName>Cory</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wendy C Cory</PI_FULL_NAME>
+<EmailAddress>CoryW@cofc.edu</EmailAddress>
+<NSF_ID>000498887</NSF_ID>
+<StartDate>09/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>College of Charleston</Name>
+<CityName>CHARLESTON</CityName>
+<ZipCode>294240001</ZipCode>
+<PhoneNumber>8439534973</PhoneNumber>
+<StreetAddress>66 GEORGE ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SC01</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>073723322</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>COLLEGE OF CHARLESTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>073723322</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[College of Charleston]]></Name>
+<CityName>CHARLESTON</CityName>
+<StateCode>SC</StateCode>
+<ZipCode>294240001</ZipCode>
+<StreetAddress><![CDATA[66 GEORGE ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SC01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9150</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~63773</FUND_OBLG>
+</Award>
+</rootTag>

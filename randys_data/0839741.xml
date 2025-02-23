@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Catalysis of Exothermic Solid-State Reaction for Safe Heating of Consumer Products</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maria Josephine Yuen</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research Phase I project, led by Ironbridge Technologies, Inc. is directed at harnessing the energy release from a kinetically modulated solid-state reaction for use in novel food heating products for consumers. The research will build on recent findings on "super-thermites", and be conducted by a highly qualified team comprising an industrial partner experienced in technology commercialization and university experts on nano-energetic materials. Using various combinations of reaction rate modifiers we will prepare catalyzed thermite fuels, assess kinetic, energetic and safety characteristics and then analyze physical and chemical properties to establish correlations between structural properties and thermal performance. Through this effort we will develop greater insight into factors that govern solid state chemical reactions. The scientific challenges are extremely high; for the intended end-use we must discover a combination of solid fuels, oxidizers, and additives to yield a system that is energy efficient, inherently self-regulating at bounded temperature, uses food-safe materials, and is low cost. At the end of Phase I we will complete a system analysis to objectively gauge the technology capability to fully address application requirements defined by potential commercialization partners from the packaged food industry. &lt;br/&gt;&lt;br/&gt;The intended consumer application for this technology is self-heating food packaging (SHFP) intended to heat prepared foods in their containers to serving temperature in minutes, simply, safely and efficiently. Major producers of prepared foods have indicated hundreds of millions of units potential for a SHFP system that can deliver on challenging performance, safety, and cost characteristics. The only SHFP technology currently in the consumer market uses an onboard system for mixing quicklime and water. These products are bulky, complex, unreliable, costly, and have thus achieved very low market penetration. The proposed technical approach is superior in that will use a dry, energy-dense material to heat foods in their containers with a flameless, smokeless reaction. These advantages may enable significant market penetration. In addition to significant commercial potential, there will be many tangible broader impacts of the proposed research effort. University subawards will provide support for student education and training to gain cross-disciplinary knowledge in nanoscience and chemical analysis. From an applied standpoint the information developed will be invaluable for the design and optimization of superior chemical technologies for energy storage.</AbstractNarration>
+<MinAmdLetterDate>11/19/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>11/19/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839741</AwardID>
+<Investigator>
+<FirstName>Brendan</FirstName>
+<LastName>Coffey</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brendan M Coffey</PI_FULL_NAME>
+<EmailAddress>bcoffey@heatgenie.com</EmailAddress>
+<PI_PHON>5126199727</PI_PHON>
+<NSF_ID>000083174</NSF_ID>
+<StartDate>11/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Ironbridge Technologies, Inc.</Name>
+<CityName>Austin</CityName>
+<ZipCode>787441060</ZipCode>
+<PhoneNumber>5125013800</PhoneNumber>
+<StreetAddress>3913 Todd Lane, Suite 509</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>35</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX35</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Ironbridge Technologies, Inc.]]></Name>
+<CityName>Austin</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787441060</ZipCode>
+<StreetAddress><![CDATA[3913 Todd Lane, Suite 509]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>35</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX35</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1401</Code>
+<Text>CATALYSIS AND BIOCATALYSIS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9163</Code>
+<Text>SINGLE DIVISION/UNIVERSITY - INDUSTRY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>AMPP</Code>
+<Text>ADVANCED MATERIALS &amp; PROCESSING PROGRAM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~100000</FUND_OBLG>
+</Award>
+</rootTag>

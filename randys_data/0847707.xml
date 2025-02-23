@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Monitoring ultrafast excited-state selective dynamics, bond rupture, and rearrangement of small polyatomic molecules in solution]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2015</AwardExpirationDate>
+<AwardTotalIntnAmount>689571.00</AwardTotalIntnAmount>
+<AwardAmount>689571</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090004</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Colby Foss</SignBlockName>
+<PO_EMAI>cfoss@nsf.gov</PO_EMAI>
+<PO_PHON>7032925327</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;In this project supported by the Experimental Physical Chemistry Program, Professor Alexander N. Tarnovsky of Bowling Green State University will explore the photo-dissociation dynamics of small polyatomic molecules in solution using ultrafast femtosecond laser pump-probe spectroscopy and several other time-resolved techniques, including x-ray and infrared absorption.  The target systems include halogenated methane molecules (CF2I2, CH2I2, and CH2BrI) in different organic solvents.  Photoinduced bond breaking and structural rearrangement will be monitored using various probes that encompass a wide range of the electromagnetic spectrum (x-ray to infrared) covering time domains from a single vibrational period to nanoseconds.  The properties of the surrounding liquid medium (polarity, polarizability, local structure) are expected to have significant time-dependent influence on dissociation and recombination processes. &lt;br/&gt;&lt;br/&gt;In addition to advancing our understanding of the photochemistry of halogenated hydrocarbons, this research will also contribute to our general understanding of solvent environmental effects on chemical reactions, and perhaps to our ability to control chemical reaction pathways using ultrafast laser techniques.  Professor Tarnovsky?s research program will provide a rich research training experience for both graduate and undergraduate students.  Two high school science teachers from local public schools will also take part in the research, and incorporate some aspects of their work into their curricula.&lt;br/&gt;&lt;br/&gt; &lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/19/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/01/2015</MaxAmdLetterDate>
+<ARRAAmount>689571</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0847707</AwardID>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Tarnovsky</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexander N Tarnovsky</PI_FULL_NAME>
+<EmailAddress><![CDATA[atarnov@bgsu.edu]]></EmailAddress>
+<NSF_ID>000170436</NSF_ID>
+<StartDate>07/19/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Bowling Green State University</Name>
+<CityName>BOWLING GREEN</CityName>
+<ZipCode>434034401</ZipCode>
+<PhoneNumber>4193722481</PhoneNumber>
+<StreetAddress>1851 N RESEARCH DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SLT3EB6G3FA9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BOWLING GREEN STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Bowling Green State University]]></Name>
+<CityName>BOWLING GREEN</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>434034401</ZipCode>
+<StreetAddress><![CDATA[1851 N RESEARCH DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1960</Code>
+<Text>STRUCTURE AND REACTIVITY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~689571</FUND_OBLG>
+</Award>
+</rootTag>

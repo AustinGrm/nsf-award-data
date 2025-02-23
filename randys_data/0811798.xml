@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CPA-CSA: CMP Architecures with Global Communication]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>108341.00</AwardTotalIntnAmount>
+<AwardAmount>108341</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Hong Jiang</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The focus of this proposal is to evaluate the use of instantaneous, chip-wide global information for increasing performance and reducing power and cost in large-scale, chip multi-processors (CMPs).  Using global information contradicts conventional thinking because it has been assumed that traversing the entire chip requires many clock periods.  Recently developed circuits, however, enable single-cycle, chip-wide signaling, suggesting new possibilities of combining global and local information simultaneously.  Further, similar ideas have not been previously implemented in large, traditional multi-chip systems because design flexibility, interconnect configurability, and transistor performance improvements exist only on chip.&lt;br/&gt;&lt;br/&gt;Preliminary exploration has identified both the required interconnect circuits and opportunities for hardware and software to take advantage of up-to-date global information. The research plans to exploit new circuit techniques that will enable the proposed network-on-chip (NOC)with hybrid interconnect (NOCHI) architecture, which has both a data plane using conventional interconnect techniques and an ultra low-latency control plane with a global interconnect. Because NOCHI ignores established design patterns, understanding the circuit properties is essential for the architectural studies, which include: new algorithms that can better control and regulate power consumption within the network and across cores; improved interaction of the cores with the off-chip memory system to reduce demands on on-chip network resources; the ramifications of global information on cache coherence and management; and software controlled, ultra low-latency efficient synchronization for multicores.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/26/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/26/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0811798</AwardID>
+<Investigator>
+<FirstName>Mattan</FirstName>
+<LastName>Erez</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mattan Erez</PI_FULL_NAME>
+<EmailAddress><![CDATA[mattan.erez@mail.utexas.edu]]></EmailAddress>
+<NSF_ID>000082396</NSF_ID>
+<StartDate>08/26/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7352</Code>
+<Text>COMPUTING PROCESSES &amp; ARTIFACT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~108341</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Nanomanufacturing Using Solder Based Three Dimensional Self-Assembly]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>297052.00</AwardTotalIntnAmount>
+<AwardAmount>297052</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce Kramer</SignBlockName>
+<PO_EMAI>bkramer@nsf.gov</PO_EMAI>
+<PO_PHON>7032925348</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Present day nanoscale patterning techniques are inherently two dimensional and it is extremely challenging to construct arbitrary patterned three dimensional nanoscale components. This proposal seeks to develop a simple and high-throughput strategy for fabricating these precisely patterned and monodisperse nanoscale components. Specifically, the proposed strategy that will be developed involves the self-assembly of two dimensional lithographically patterned templates to form three dimensional, untethered polyhedral components. In addition to demonstrating the applicability of the process at the 100 nanometer length scale, investigations directed at understanding defect tolerance and parameters that influence overall yield will also be carried out. &lt;br/&gt;&lt;br/&gt;The proposed low-cost, mass production of nanoscale components, with arbitrary patterning will enable a wide range of miniaturized and more effective devices to be constructed for applications such as nanoelectronics, biomolecular imaging, drug delivery, sensing, and actuation. Additionally, the process is compatible with present day fabrication of microchips; hence the process allows the seamless integration of electronic modules, such as transistors and sensors, within the components. Along with the research, a concerted effort will be made to enhance undergraduate education and outreach in Baltimore high schools. Undergraduate students, high school teachers and students, including under represented minorities, will be invited to participate in research experiences. Moreover, activities directed at increasing an appreciation for science, engineering and nanotechnology in schools, colleges and to the public will be organized. &lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>05/27/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>09/01/2011</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0854881</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Gracias</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David Gracias</PI_FULL_NAME>
+<EmailAddress><![CDATA[dgracias@jhu.edu]]></EmailAddress>
+<NSF_ID>000490383</NSF_ID>
+<StartDate>05/27/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Johns Hopkins University</Name>
+<CityName>BALTIMORE</CityName>
+<ZipCode>212182608</ZipCode>
+<PhoneNumber>4439971898</PhoneNumber>
+<StreetAddress>3400 N CHARLES ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FTMTDMBR29C7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>JOHNS HOPKINS UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FTMTDMBR29C7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName>BALTIMORE</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212182608</ZipCode>
+<StreetAddress><![CDATA[3400 N CHARLES ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1788</Code>
+<Text>NANOMANUFACTURING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>084E</Code>
+<Text>NANOMANUFACTURING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~297052</FUND_OBLG>
+</Award>
+</rootTag>

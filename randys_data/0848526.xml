@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II:  Ultraviolet Laser for Ultra-high-resolution Photoemission Spectroscopy</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>789937</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Benaiah Schrag</SignBlockName>
+<PO_EMAI>bschrag@nsf.gov</PO_EMAI>
+<PO_PHON>7032928323</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research Phase II project is to develop a shortwavelength, narrow-bandwidth, high-brightness photo-ionization laser; that can be used for used for ultra-high energy-resolution, angle-resolved photoemission spectroscopy (ARPES), and for single-photon-ionization (SPI) in order to improve mass spectroscopy-based detection capabilities of complex organic molecules, especially low-vapor-pressure explosive compounds and trace residues. &lt;br/&gt;&lt;br/&gt;The compact size, efficient optical conversion, and high brightness of the proposed laser source will enable integration into "field-ready", on-line mass spectrometry tools. The capabilities of the proposed single-photon-ionization light source will also complement a broad array of established mass-spectral analysis techniques to enable the development of instruments capable of analyzing heterogeneous samples with no a-priori knowledge of the sample composition. This capability is urgently needed for a variety of homeland security and non-proliferation applications.</AbstractNarration>
+<MinAmdLetterDate>01/30/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>12/22/2011</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0848526</AwardID>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Merriam</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrew J Merriam</PI_FULL_NAME>
+<EmailAddress>andrew@lumeras-labs.com</EmailAddress>
+<PI_PHON>6505757448</PI_PHON>
+<NSF_ID>000193841</NSF_ID>
+<StartDate>01/30/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Lumeras</Name>
+<CityName>SANTA CRUZ</CityName>
+<ZipCode>950605863</ZipCode>
+<PhoneNumber>6505757448</PhoneNumber>
+<StreetAddress>207-C MCPHERSON STREET</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA20</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H6WJXDXC2A16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>LUMERAS LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Lumeras]]></Name>
+<CityName>SANTA CRUZ</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>950605863</ZipCode>
+<StreetAddress><![CDATA[207-C MCPHERSON STREET]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA20</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; DEVICE TEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>165E</Code>
+<Text>SBIR Phase IIB</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9148</Code>
+<Text>TOOLS &amp; TECHNOL FOR MANUFACTURING DESIGN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9215</Code>
+<Text>HIGH PERFORMANCE COMPUTING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0110</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0112</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001011DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001213DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~500000</FUND_OBLG>
+<FUND_OBLG>2010~100000</FUND_OBLG>
+<FUND_OBLG>2012~189937</FUND_OBLG>
+</Award>
+</rootTag>

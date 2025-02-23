@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>DUSEL Theory Workshop</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>15000.00</AwardTotalIntnAmount>
+<AwardAmount>15000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Keith Dienes</SignBlockName>
+<PO_EMAI>kdienes@nsf.gov</PO_EMAI>
+<PO_PHON>7032925314</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This proposal is to provide partial support for a 3 day Dusel Workshop at Ohio State at the Center for Cosmology and Astroparticle Physics (CCAPP). The workshop will bring about 30 Physicists together to discuss the physics questions that can be answered by DUSEL, particularly in the area of proton decay and GUTs. The broader impacts resulting from the workshop is to gather physicists from a wide variety of research areas (from astrophysics to collider physics to underground physics) in the hopes of optimizing the physics and astrophyscis return from DUSEL. The workshop will consist of presentations on 6 topics and then break into working groups to discuss and write up white papers on the physics importance and timeliness of doing experiments related to long baseline neutrino oscillations, proton decay, dark matter, astrophysical neutrinos, neutrinoless double beta decay and nucleon antinucleon oscillations.  These discussions and white paper committees will be lead by prominent physicists who are experts in these field of physics.</AbstractNarration>
+<MinAmdLetterDate>05/13/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/13/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0824563</AwardID>
+<Investigator>
+<FirstName>Terrence</FirstName>
+<LastName>Walker</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Terrence P Walker</PI_FULL_NAME>
+<EmailAddress>walker.33@osu.edu</EmailAddress>
+<NSF_ID>000398289</NSF_ID>
+<StartDate>05/13/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Ohio State University Research Foundation -DO NOT USE</Name>
+<CityName>Columbus</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888734</PhoneNumber>
+<StreetAddress>1960 KENNY RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH03</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>071650709</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>OHIO STATE UNIVERSITY RESEARCH FOUNDATION, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>Columbus</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>432101016</ZipCode>
+<StreetAddress><![CDATA[Office of Sponsored Programs]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1286</Code>
+<Text>Elem. Particle Physics/Theory</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7694</Code>
+<Text>UNDERGROUND R&amp;D</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~15000</FUND_OBLG>
+</Award>
+</rootTag>

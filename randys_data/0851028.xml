@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Kinetics of Inorganic Sulfide Mineral Oxidation in Seawater]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>163268.00</AwardTotalIntnAmount>
+<AwardAmount>163268</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040302</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Donald L. Rice</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The oxidation of sulfide minerals plays an important role along the seafloor in the energetics of redox-dependent organisms, and is a significant chemical pathway for the cycling of transition metals and sulfur from oceanic crust to seawater.  In addition, in situ pulverization and mining of seafloor sulfide deposits create large amounts of reactive sulfide mineral grain surfaces whose rapid oxidation generates local acidity, potentially affecting sensitive oceanic biota. Thus, determining rates of sulfide mineral oxidation in seawater has merit to improve our understanding of these processes. In this project, a scientist from the University of California-Riverside would investigate the rates of abiotic oxidation of pyrite and chalcopyrite in synthetic seawater over a range of relevant chemical and physical conditions through the use of initial-rate batch reactors and longer-term mixed-flow reactors. This research would provide insight into (1) the quantitative effects of mineral surface area, pH, salinity, temperature and oxidant concentrations on rates of oxidation; (2) the nature and stability of the oxidation products; and (3) whether the mineral surface oxidation reactions limit the actual dissolution rates seen in nature.  Results from this research would also enhance scientists? abilities to model and interpret data on sulfide oxidation in other geologic and geochemical settings than is currently possible.  One African American graduate student and one Native American undergraduate student would be supported and trained as part of this project.]]></AbstractNarration>
+<MinAmdLetterDate>02/13/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>02/13/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0851028</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>McKibben</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael A McKibben</PI_FULL_NAME>
+<EmailAddress><![CDATA[michael.mckibben@ucr.edu]]></EmailAddress>
+<NSF_ID>000468578</NSF_ID>
+<StartDate>02/13/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Riverside</Name>
+<CityName>RIVERSIDE</CityName>
+<ZipCode>925210001</ZipCode>
+<PhoneNumber>9518275535</PhoneNumber>
+<StreetAddress>200 UNIVERSTY OFC BUILDING</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>41</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA41</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MR5QC5FCAVH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Riverside]]></Name>
+<CityName>RIVERSIDE</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>925210001</ZipCode>
+<StreetAddress><![CDATA[200 UNIVERSTY OFC BUILDING]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>41</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA41</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0204000</Code>
+<Name>Oceanography</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1620</Code>
+<Text>Marine Geology and Geophysics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1670</Code>
+<Text>Chemical Oceanography</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~163268</FUND_OBLG>
+</Award>
+</rootTag>

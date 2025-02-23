@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[The Evolution of Gene and Genome Architecture]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>829965.00</AwardTotalIntnAmount>
+<AwardAmount>829965</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08040000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EF</Abbreviation>
+<LongName>Emerging Frontiers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kamal Shukla</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Intellectual Merit:&lt;br/&gt;Because all aspects of biodiversity ultimately derive from DNA-level resources, a mechanistic theory of evolution must start at the genomic level. This work focuses on the hypothesis that many aspects of genome evolution are driven by nonadaptive forces (random genetic drift, mutation, and recombination) rather than natural selection responding to external ecological forces. Using mathematical/computational analysis, the research will exploit the enormous set of resources available from whole-genome sequencing projects, from viruses to organelles to bacteria and multicellular species. Because evolution is a population-level process, priority will be on developing a general theory for genomic evolution consistent with well-established principles of population genetics, while spanning the fields of computational biology and informatics, molecular and cellular biology, and systems biology.&lt;br/&gt;The overall goal is to help transform the descriptive field of comparative genomics into a more explanatory field of evolutionary genomics. Under the proposed hypothesis, many of the complex genomic features that are the hallmark of multicellular species emerged largely as a consequence of a substantial reduction in the efficiency of selection, whereas the streamlined genomes of microbial species result from highly efficient selection opposing the accumulation of mutationally hazardous excess DNA. At the very least, the theory to be developed provides a null (nonadaptive) hypothesis for interpreting the evolution of genome complexity. &lt;br/&gt;&lt;br/&gt;Broader Impact: &lt;br/&gt;Through the integration of these various subprojects, the overall goal of the proposed research is to help transform the descriptive field of comparative genomics into a more explanatory field of evolutionary genomics, as well as to help develop the intellectual infrastructure that will ultimately be necessary for the emergence of a field of evolutionary cell biology. In addition, the research project will be intertwined with a set of educational goals, including: 1) the establishment of an annual set of projects associated with a genome evolution class that services students from both the life sciences and informatics; 2) the recruitment of mathematically inclined biology undergraduates into a two- to three-year research program; and 3) the development of an integrative ?training-grant?-like environment among the grant participants.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>09/25/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2012</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0827411</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Lynch</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael R Lynch</PI_FULL_NAME>
+<EmailAddress><![CDATA[mlynch11@asu.edu]]></EmailAddress>
+<NSF_ID>000182365</NSF_ID>
+<StartDate>09/25/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Indiana University</Name>
+<CityName>BLOOMINGTON</CityName>
+<ZipCode>474057000</ZipCode>
+<PhoneNumber>3172783473</PhoneNumber>
+<StreetAddress>107 S INDIANA AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YH86RTW2YVJ4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF INDIANA UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YH86RTW2YVJ4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Indiana University]]></Name>
+<CityName>BLOOMINGTON</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>474057000</ZipCode>
+<StreetAddress><![CDATA[107 S INDIANA AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7664</Code>
+<Text>THEORETICAL BIOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7664</Code>
+<Text>THEORETICAL BIOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~829965</FUND_OBLG>
+</Award>
+</rootTag>

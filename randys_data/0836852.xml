@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshop on Networking Research Challenges; September 28-30, 2008;  Seattle, Washington</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>35000.00</AwardTotalIntnAmount>
+<AwardAmount>35000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Darleen Fisher</SignBlockName>
+<PO_EMAI>dlfisher@nsf.gov</PO_EMAI>
+<PO_PHON>7032928950</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The Workshop on Network Research Challenges in late September 2008 builds on results from past workshops organized under the auspices of the Joint Engineering Team (JET), but now has an agenda to address the challenges and goals set forth by the 2008 Federal Plan for Advanced Networking Research and Development (available from http://www.nitrd.gov).  The workshop aims to identify and prioritize networking research challenges for realizing the vision of advanced, secure networking in 2015 and beyond, and to meet four overarching goals:  1) Provide secure network services anytime, anywhere; 2) Make secure, global, federated networks possible; 3) Manage network complexity and heterogeneity; 4) Foster innovation among the Federal, research, commercial, and other sectors through development of advanced network systems, strong security services, and newly enabled applications. &lt;br/&gt;&lt;br/&gt;Broader Impact:  Advanced networking has numerous global benefits as increasingly our economic, political and societal functioning and its associated information flows occur across the networking infrastructure, and depend completely on network and security services.  Security and reliability, key foci of the workshop, play central roles in advancing networking toward the four identified goals.  Envisioning the research agenda for investing in advanced networking is a central broad impact outcome of the proposed workshop.  Communicating the outcome of the workshop widely is clearly a crucial aspect of the broader impact - to realize the greatest impact the organizing executive committee of the workshop is producing a highly directed and substantive paper following the workshop.  The first draft is scheduled less than a month after the workshop.</AbstractNarration>
+<MinAmdLetterDate>08/08/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/08/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0836852</AwardID>
+<Investigator>
+<FirstName>Keren</FirstName>
+<LastName>Bergman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Keren Bergman</PI_FULL_NAME>
+<EmailAddress>bergman@ee.columbia.edu</EmailAddress>
+<NSF_ID>000176311</NSF_ID>
+<StartDate>08/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100276902</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>2960 Broadway</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>049179401</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>049179401</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100276902</ZipCode>
+<StreetAddress><![CDATA[2960 Broadway]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~35000</FUND_OBLG>
+</Award>
+</rootTag>

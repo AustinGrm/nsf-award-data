@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Functional Diversity of Subsurface Deposit Feeders]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>499198.00</AwardTotalIntnAmount>
+<AwardAmount>499198</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040301</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Garrison</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA["This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5)."&lt;br/&gt;&lt;br/&gt;Benthic community composition is changing at an alarming rate in many coastal regions. At the extreme of macrofaunal change, "dead zones" are growing in number, frequency and extent. Ecological extinction is occurring in many localities before the functional roles of the lost species are understood even crudely. Subsurface deposit feeders dominate particulate bioturbation and control the burial of organic matter, the primary process by which carbon is removed globally from contact with the biosphere and locked away for geological time. Very little is known, however, regarding the mechanics, spatial geometry and selectivity of their food acquisition and their mechanisms of particle translation. The absence of that information effectively blocks the use of sophisticated, agent-based or automaton models that project deposit-feeder effects on substrata from ecological to geological time. Two principal obstacles have blocked understanding. One is the difficulty of making direct observations through mud. The second is a lack of understanding of the mechanics of the medium on the space and time scales of animal burrowing and feeding. Both problems have been greatly alleviated simultaneously, making this work possible now.&lt;br/&gt;&lt;br/&gt;Physics of the medium constrain what is possible. They also determine in concert with other features (e.g., food quality of the medium) what behaviors and processing rates are optimal. The investigators have two simultaneous goals. One is to test hypotheses about how subsurface deposit feeders free particles from the medium that they crack, and the other is to measure the per-event and per-individual sedimentary consequences in the context of particulate bioturbation. They will systematically do so in the major polychaete groups of subsurface deposit feeders and opportunistically do so in other subsurface deposit feeders. Explicit hypotheses to be tested (phrased as the more interesting alternative hypothesis rather than the null) include: that crack propagation produces elastic-plastic deformation, mixing sediment at the crack tip; that crack propagation displaces particles gravitationally, that friction of animal surfaces with crack boundaries displaces particles; and, that unsteady flows in the burrow created by pressure pulses associated with crack propagation free particles from the matrix and displace them.&lt;br/&gt;&lt;br/&gt;The broader impacts include a better understanding and development of updated diagrams for textbooks showing what seabed invertebrates do and how they do it. In addition, the investigators will work with COSEE-OS to produce compelling and accurate graphics about the role of bioturbation in complicating interpretation of the geological record and in gating the step in the carbon cycle that removes carbon from contact with the current biosphere. This outreach is designed to cover the spectrum of specialists and interested students of all ages who want to be informed about the ecology of the seabed and its role in global carbon cycling.]]></AbstractNarration>
+<MinAmdLetterDate>05/26/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>05/26/2009</MaxAmdLetterDate>
+<ARRAAmount>499198</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0851172</AwardID>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Jumars</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peter A Jumars</PI_FULL_NAME>
+<EmailAddress><![CDATA[jumars@maine.edu]]></EmailAddress>
+<NSF_ID>000238217</NSF_ID>
+<StartDate>05/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sara</FirstName>
+<LastName>Lindsay</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sara M Lindsay</PI_FULL_NAME>
+<EmailAddress><![CDATA[slindsay@maine.edu]]></EmailAddress>
+<NSF_ID>000258983</NSF_ID>
+<StartDate>05/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maine</Name>
+<CityName>ORONO</CityName>
+<ZipCode>044695717</ZipCode>
+<PhoneNumber>2075811484</PhoneNumber>
+<StreetAddress>5717 CORBETT HALL RM 422</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<StateCode>ME</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>ME02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>PB3AJE5ZEJ59</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MAINE SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>JHKKHVC7EPL3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maine]]></Name>
+<CityName>ORONO</CityName>
+<StateCode>ME</StateCode>
+<ZipCode>044695717</ZipCode>
+<StreetAddress><![CDATA[5717 CORBETT HALL RM 422]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>ME02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0204000</Code>
+<Name>Oceanography</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1650</Code>
+<Text>BIOLOGICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~499198</FUND_OBLG>
+</Award>
+</rootTag>

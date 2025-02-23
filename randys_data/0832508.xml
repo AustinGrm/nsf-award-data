@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Advanced Space Technologies Research and Engineering Center</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>274000.00</AwardTotalIntnAmount>
+<AwardAmount>168000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EEC</Abbreviation>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rathindra DasGupta</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Full Center Proposal (Phase I) for an I/UCRC for Advanced Space Technologies Research and Engineering Center &lt;br/&gt;&lt;br/&gt;0832517 University of Florida; Norman Fitz-Coy &lt;br/&gt;0832508 North Carolina State University; William Edmonson &lt;br/&gt;     &lt;br/&gt;The purpose of this proposal is to start a new I/UCRC "Advanced Space Technologies Research and Engineering Center (ASTREC)" that will develop new knowledge, tools, hardware, and personnel required for advanced space technologies. ASTREC will establish this multi-university collaboration between two research institutions in the southeast, University of Florida (UF) and North Carolina State University (NCSU).  The proposed research aims at advancing knowledge by performing multidisciplinary research and providing breakthrough technologies in each of the satellite subsystems for pico/-nano-class of satellites. By focusing on small satellites of the pico- and nano-class drives the technology research to be constrained by low power, mass and volume. Through a Design-Build-Fly (DBF) philosophy, the center?s research mission is to perform leading-edge research that is industry driven to produce technologically small satellites and components, which will be on-orbit validated and demonstrated. The proposed work is important because it seeks to develop more agile space assets through developing innovative technologies and processes.  Due to the diverse technologies that make up a satellite, those involved in the center?s research will come from engineering, the physical sciences and biological sciences.&lt;br/&gt;&lt;br/&gt;The efforts of ASTREC will provide the space industry with a class of satellites that cost less to develop and build without becoming technologically dated at launch.  Through the success of its DBF philosophy, ASTREC will assist in the transformation of the space industry from risk adverse towards risk tolerant design.  The Center plans to engage K-20 students in all aspects of small satellite design through hands-on cradle-to-grave experience to create the next generation of "rocket scientists". ASTREC has a strong diversity plan that ensures the participation of underrepresented groups in all levels of the Center. Extensive experience in fostering participation of underrepresented in research and education will add value to the center. &lt;br/&gt;&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>07/29/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/28/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0832508</AwardID>
+<Investigator>
+<FirstName>Winser</FirstName>
+<LastName>Alexander</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Winser E Alexander</PI_FULL_NAME>
+<EmailAddress>winser@ncsu.edu</EmailAddress>
+<PI_PHON>9195155190</PI_PHON>
+<NSF_ID>000249229</NSF_ID>
+<StartDate>11/10/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Edmonson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>William Edmonson</PI_FULL_NAME>
+<EmailAddress>wwedmonson@sadaina.com</EmailAddress>
+<PI_PHON>9197576205</PI_PHON>
+<NSF_ID>000323781</NSF_ID>
+<StartDate>11/10/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina State University</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>27607</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress>2601 WOLF VILLAGE WAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NVH931QJJ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTH CAROLINA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>N8DMK1K4C2K5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>RALEIGH</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>27607</ZipCode>
+<StreetAddress><![CDATA[2601 WOLF VILLAGE WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0400000</Code>
+<Name>Industry University - Co-op</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>4202</Code>
+<Text>Upper Atmospheric Facilities</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5761</Code>
+<Text>IUCRC-Indust-Univ Coop Res Ctr</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1049</Code>
+<Text>INDUSTRY-UNIV COOPERATIVE RSCH PROJECTS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>122E</Code>
+<Text>CENTERS: OTHER INDUSTRY-UNIV</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0110</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001011DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~62000</FUND_OBLG>
+<FUND_OBLG>2009~25344</FUND_OBLG>
+<FUND_OBLG>2010~0</FUND_OBLG>
+</Award>
+</rootTag>

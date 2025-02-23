@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CT-ISG: Collaborative Research: Detection and Isolation of Malicious Inclusions in Secure Hardware (DIMINISH)</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>99987.00</AwardTotalIntnAmount>
+<AwardAmount>99987</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samuel M. Weber</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Due to global economy pressures, fabrication of advanced integrated circuits (ICs) is migrating to foreign foundries. It has become a common trend for many fab-less companies and government agencies to ship their designs offshore for low-cost fabrication. These trends have raised serious concerns regarding possible threats or attacks on US military systems, critical sites and even household appliances that rely on high performance chips. There are various potential vulnerabilities to such systems caused by malicious alterations of hardware processes that might make these vital systems inoperable at some future time. Such malicious manipulation of ICs slated for installation in US weapon systems cannot be tolerated.&lt;br/&gt;&lt;br/&gt;The focus of this research is on the development of automatic test pattern generation (ATPG) and signal analysis techniques for detecting and locating malicious alterations, e.g. the insertion of Trojan circuits, during wafer probe aor package test as a means of improving the level of trustworthiness of the chip. In particular, techniques that significantly improve the resolution of quiescent current and transient current techniques for detecting and locating Trojan circuits are investigated.  A second focus of the project is on the development of ATPG methods designed to detect hidden alterations of the chip, e.g., inserted or weakened wires or transistors which cause the chip to fail later in the field.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>12/15/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/15/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0852949</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Plusquellic</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James F Plusquellic</PI_FULL_NAME>
+<EmailAddress>jimp@ece.unm.edu</EmailAddress>
+<PI_PHON>2404751882</PI_PHON>
+<NSF_ID>000212368</NSF_ID>
+<StartDate>12/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of New Mexico</Name>
+<CityName>ALBUQUERQUE</CityName>
+<ZipCode>871063837</ZipCode>
+<PhoneNumber>5052774186</PhoneNumber>
+<StreetAddress>1700 LOMAS BLVD NE STE 2200</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NM01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F6XLTRUQJEN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NEW MEXICO, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>C16BGHA4MLJ6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of New Mexico]]></Name>
+<CityName>ALBUQUERQUE</CityName>
+<StateCode>NM</StateCode>
+<ZipCode>871063837</ZipCode>
+<StreetAddress><![CDATA[1700 LOMAS BLVD NE STE 2200]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NM01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7371</Code>
+<Text>CYBER TRUST</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7795</Code>
+<Text>TRUSTWORTHY COMPUTING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~49987</FUND_OBLG>
+<FUND_OBLG>2009~50000</FUND_OBLG>
+</Award>
+</rootTag>

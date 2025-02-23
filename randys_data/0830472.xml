@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Fundamental Bounds on Decentralized Adaptive Detection in Hidden Markov Models</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>183817.00</AwardTotalIntnAmount>
+<AwardAmount>183817</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John Cozzens</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Abstract for ?TF08: Fundamental Bounds on Decentralized Adaptive Detection in Hidden Markov Models? (PI: Yajun Mei, NSF proposal #0830472)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;In modern information era, the advance of sensor, computing and communication technologies offers promising opportunities for the decision makers and organizations to make effective decisions quickly in many areas of real-world applications of sensor network systems. However, without timely updating or adaptation to reflect the changing environments, even the best decision-making methods are irrevocably vulnerable in applications such as threats detection in bioterrorism and hacking. The challenges become more difficult due to the complex spatio-temporal correlations among sensors and the constraints on communications, energy and computing. &lt;br/&gt;&lt;br/&gt;This research is concerned with the development of a general and systematic foundation and methodologies for decentralized adaptive detection when sensor observations are from hidden Markov models, with the focus on deriving the fundamental information limitation on the ability to reliably detect the changes. The investigator studies decentralized adaptive detection in hidden Markov models for two scenarios of sensor network systems. The first is the system where sensors do not have access to their past observations, in which the research topics include (i) optimal stationary quantizers; (ii) lower bounds on adaptive detection; (iii) robust detection via tandem quantizers; and (iv)adaptive detection with censored sensor observations. The second is the system where sensors have access their past observations, in which the research investigates: (i) universal information bounds; (ii) computing-friendly, effective schemes; (iii) schemes with controlled detection delay; and (iv) blockwise transmission. &lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>07/17/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/17/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0830472</AwardID>
+<Investigator>
+<FirstName>Yajun</FirstName>
+<LastName>Mei</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yajun Mei</PI_FULL_NAME>
+<EmailAddress>yajun.mei@isye.gatech.edu</EmailAddress>
+<PI_PHON>4043850866</PI_PHON>
+<NSF_ID>000073627</NSF_ID>
+<StartDate>07/17/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 NORTH AVE NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>4720</Code>
+<Text>SIGNAL PROCESSING SYS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~183817</FUND_OBLG>
+</Award>
+</rootTag>

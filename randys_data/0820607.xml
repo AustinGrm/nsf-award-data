@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[U.S.-Germany Planning Visit:    Structural Health Monitoring Sensors for Offshore Wind Turbines]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>7578.00</AwardTotalIntnAmount>
+<AwardAmount>7578</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jennifer Pearl</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[OISE-0820607  U.S.-Germany Planning Visit: Structural Health Monitoring Sensors for Offshore Wind Turbines  &lt;br/&gt;&lt;br/&gt;This project supports a collaboration between Dr. Jerome Lynch in the Department of Civil and Environmental Engineering at the University of Michigan, Dr. John Sweetman in the Department of Maritime Systems Engineering at Texas A&amp;M at Galveston, and Dr. Raimund Rolfes at the Institute for Structural Analysis at the University of Hannover in Germany.  This proposal, and its collaborative mate 0813764, will fund a six day visit to Germany for Dr. Lynch, Dr. Sweetman, and two students from the University of Michigan to develop a research proposal dealing with structural health monitoring technologies to be installed on offshore wind turbines.  In addition, the PI?s plan to develop a graduate course dealing with offshore wind energy.  The U.S team has expertise in wireless sensors and embedded data processing for damage identification, and the German collaborator provides expertise and access to a new offshore field of wind turbines being deployed in the German Bight.  This is a unique opportunity for the U.S. team, because such a field of offshore wind turbines does not currently exist in the U.S.  The sensors that will be deployed will harvest a rich set of data that fully captures the complexity of wind-wave-structure interactions inherent to offshore turbines.  This data will be useful in optimizing the design of future offshore wind turbines thereby helping the U.S. in its quest for renewable energy sources.  &lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>04/04/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/04/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.079</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0820607</AwardID>
+<Investigator>
+<FirstName>Jerome</FirstName>
+<LastName>Lynch</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jerome P Lynch</PI_FULL_NAME>
+<EmailAddress><![CDATA[jpl58@duke.edu]]></EmailAddress>
+<NSF_ID>000158249</NSF_ID>
+<StartDate>04/04/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Michigan - Ann Arbor</Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>1109 GEDDES AVE, SUITE 3300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091079</ZipCode>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0306000</Code>
+<Name>Energy Research &amp; Resources</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7299</Code>
+<Text>Catalyzing New Intl Collab</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5936</Code>
+<Text>GERMANY (F.R.G.)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5979</Code>
+<Text>Europe and Eurasia</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~7578</FUND_OBLG>
+</Award>
+</rootTag>

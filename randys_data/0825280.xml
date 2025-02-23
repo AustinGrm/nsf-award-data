@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[COLLABORATIVE RESEARCH: A Multi-Proxy Search for the Deglacial Deep Sea Carbonate Preservation Maximum]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>84029.00</AwardTotalIntnAmount>
+<AwardAmount>84029</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040200</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bilal U. Haq</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award will provide funds to investigate the magnitude of the deglacial deep-sea carbonate preservation maximum with a multi-proxy approach that includes a new bulk sediment calcite dissolution proxy, the menardii fragmentation index (MFI), and multiple cores from the Pacific and Indian Oceans. Specifically, the PI will apply the MFI to deep sea sediments in an attempt to explain why a preservation spike is not seen with the MFI relative to other proxies.  Results of this work will provide a significant test of hypotheses that link the deglacial rise in atmospheric CO2 to increased ventilation of deep water masses. Broader Impacts include undergraduate involvement in both research activities and the scientific and public dissemination of results as well as public outreach events such as activities for Super Science Saturday, postings on www.realclimate.org and annual student presentations at Student Scholarship Day. This project also brings together collaborators from premier research institutions and a primarily undergraduate teaching institution.]]></AbstractNarration>
+<MinAmdLetterDate>09/11/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/11/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0825280</AwardID>
+<Investigator>
+<FirstName>Figen</FirstName>
+<LastName>Mekik</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Figen A Mekik</PI_FULL_NAME>
+<EmailAddress><![CDATA[mekikf@gvsu.edu]]></EmailAddress>
+<NSF_ID>000309244</NSF_ID>
+<StartDate>09/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Grand Valley State University</Name>
+<CityName>ALLENDALE</CityName>
+<ZipCode>494019401</ZipCode>
+<PhoneNumber>6163316840</PhoneNumber>
+<StreetAddress>1 CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y2M5HUXKJPF1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GRAND VALLEY STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Grand Valley State University]]></Name>
+<CityName>ALLENDALE</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>494019401</ZipCode>
+<StreetAddress><![CDATA[1 CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0204000</Code>
+<Name>Oceanography</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5418</Code>
+<Text>OCE SPECIAL PROGRAMS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5720</Code>
+<Text>OCEAN DRILLING PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~84029</FUND_OBLG>
+</Award>
+</rootTag>

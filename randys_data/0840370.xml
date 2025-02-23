@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SGER: Biomimetic Electrospray Vapor Chamber]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>40000.00</AwardTotalIntnAmount>
+<AwardAmount>40000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Theodore L. Bergman</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[CBET-0840370&lt;br/&gt;Chen&lt;br/&gt;&lt;br/&gt;The objective of this exploratory project is to demonstrate the proof-of-concept for an unprecedented biomimetic electrospray vapor chamber (BEVAC).  The proposed vapor chamber has a beetle-inspired superhydrophobic condenser with embedded hydrophilic patches where condensate of the working fluid accumulates. The working fluid is returned to the evaporator by electrospray atomization. This innovative liquid return mechanism completely eliminates wick structures and enables the direct use of a microprocessor chip as a wickless evaporator. Numerous scientific and technical challenges need to be overcome for the successful development of a BEVAC system. Neither conducting beetle-like structures nor evaporative electrospray cooling have been reported in the literature, not to mention the physics behind the phase change processes on the proposed condenser and evaporator. The NSF SGER grant is appropriate for the early stage of this high-risk, high-payoff research endeavor with rich physics and broad applicability. In the pilot phase, a prototypical BEVAC will be developed to prove the concept. Considerable efforts will be directed toward the development of a condenser that is conducive to both preferential condensation and electrospray atomization. &lt;br/&gt;&lt;br/&gt;The intellectual merits of the proposed research lie in the development of an original concept for a new class of wickless vapor chamber. The BEVAC technology combines the merits of high-heat-flux spray cooling and low-temperature-gradient vapor chamber into an adaptive two-phase cooling system. Biomimetic condenser and electrospray cooling are important even as stand-alone components, and have wide-ranging applications in energy systems such as autonomous water management and hotspot thermal management. The proposed work will unveil the physics behind preferential condensation and electrospray evaporation which have been largely unexplored so far, and lay the foundation for electrospray vapor chamber as a new cooling technology.&lt;br/&gt;&lt;br/&gt;The broader impacts of the proposed work lie in its potential to transform heat-spreading technology at the chip level for a wide spectrum of military and commercial applications. Intel Corporation has expressed keen interest and enthusiastic support for the proposed technology. Drawing upon Intel's support and the PI's own success with two licensed patents, the PI will rigorously pursue opportunities for technological transition of this transformative work. On the other hand, the BEVAC project is an excellent showcase for educational outreach with its bioinspired condenser design and practical cooling applications, both interesting and tangible for K-12 students. The pilot projects will be converted to science demos for high school students at the City of Durham with a large African American population.]]></AbstractNarration>
+<MinAmdLetterDate>08/15/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/15/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0840370</AwardID>
+<Investigator>
+<FirstName>Chuan-Hua</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chuan-Hua Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[chuanhua.chen@duke.edu]]></EmailAddress>
+<NSF_ID>000501434</NSF_ID>
+<StartDate>08/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277054640</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W MAIN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TP7EK8DZV6N5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DUKE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277054640</ZipCode>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1406</Code>
+<Text>TTP-Thermal Transport Process</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>064E</Code>
+<Text>Convection heat and mass transfer</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9237</Code>
+<Text>SMALL GRANTS-EXPLORATORY RSRCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~40000</FUND_OBLG>
+</Award>
+</rootTag>

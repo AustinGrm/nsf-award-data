@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II:   Bioinformatics knowledge-based, universal library design for a non-immunoglobulin, protein-scaffold</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>499825.00</AwardTotalIntnAmount>
+<AwardAmount>499825</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research Phase II project seeks to fully establish ProtElix' scaffold-based human fibronectin libraries (14th fibronectin type III module of Human Fibronectin) as platform technology to discover novel antibody-mimics drug candidates for a wide range of therapeutic applications. The social and commercial implications of this discovery may include developing second generation protein drug antagonists which are less expensive, more efficacious and safer than current monoclonal antibody-based drugs. Overall, this Phase II Project will be divided in two stages: a research plan during which different binding and stability optimization strategies will be executed. Moreover, ProtElix technology will be tested with several protein targets (CD20, EGFR, VEGFR2, VLA-4) in order to fully assess the universality of the platform itself. The second stage of the project will be focused upon drug development activities. Lead candidates will undergo full kinetic characterization in vitro and in vivo and will be tested for PK/PD in small animal models. By the completion of phase II, a comprehensive discovery platform for proprietary human 14FN3-based antibody mimics libraries will be fully developed and the "drugability" of lead candidates assessed.&lt;br/&gt;&lt;br/&gt;The application of protein scaffold to develop new therapeutics is becoming an area of great commercial potential with high social implications as it relates to lower the cost and increase the accessibility of therapy to several life-threatening diseases. In particular the use of antibody-mimics to selectively block therapeutically important protein targets could be the key to overcome the clinical limitations and potential toxicity and lack of efficacy of current antibody-based therapeutics. The flexible format of ProtElix scaffold platform technology together with its proprietary mutagenesis technology for producing "intelligent" library diversity will provide an attractive alternative to pharmaceutical and biotech companies for the discovery and development of next-generation biotherapeutics. In addition, the intrinsic characteristics of the Fibronectin Type III domain (i.e. small size, no disulfide bonds) would lead to cheaper cost of manufacturing and potentially more effective and safe drugs (higher tissue penetration and faster clearance) compared to immunoglobulin-based antibodies. If successful, this project will take the potential applications of scaffold-based therapeutics to a higher level than first generation antibodies, including cancer, autoimmune diseases, cardiovascular and infectious diseases.</AbstractNarration>
+<MinAmdLetterDate>01/14/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>01/14/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0848867</AwardID>
+<Investigator>
+<FirstName>Guido</FirstName>
+<LastName>Cappuccilli</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Guido Cappuccilli</PI_FULL_NAME>
+<EmailAddress>gcappuccilli@protelix.com</EmailAddress>
+<PI_PHON>5107853330</PI_PHON>
+<NSF_ID>000489281</NSF_ID>
+<StartDate>01/14/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Protelix Inc</Name>
+<CityName>Hayward</CityName>
+<ZipCode>945453732</ZipCode>
+<PhoneNumber>5107853330</PhoneNumber>
+<StreetAddress>26136 Research Road</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA15</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Protelix Inc]]></Name>
+<CityName>Hayward</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>945453732</ZipCode>
+<StreetAddress><![CDATA[26136 Research Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA15</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1717</Code>
+<Text>BIOLOGICAL COMPUTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~499825</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>24th Southern Biomedical Engineering Conference</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2008</AwardExpirationDate>
+<AwardTotalIntnAmount>11920.00</AwardTotalIntnAmount>
+<AwardAmount>11920</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Semahat S. Demir</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>CBET-0801410&lt;br/&gt;Nazeran&lt;br/&gt;&lt;br/&gt;This project will support the 24th Southern Biomedical Engineering Conference (SBEC) to be held April 18-20, 2008 at the University of Texas at El Paso (UTEP).  The SBEC aims to assemble students, researchers, clinicians, and industry leaders in Biomedical Engineering to disseminate information in this rapidly growing field.  The SBEC will provide a multidisciplinary, educational forum for discussing new ideas and future concepts in the field of Biomedical Engineering.  The SBEC serves a special purpose of encouraging student participation by providing opportunities for students to present their research through a student paper competition.  In keeping with the emphasis on student participation, the SBEC also plans to present student awards based on performances in both paper competitions and presentations.  Additionally, this project will sponsor student registration fees and publication support.  Due to the venue?s location at UTEP, the forum will incorporate a diverse mix of participants, particularly attracting those from the southern regions of the United States and northern Mexico.  This symposium will be of great educational benefit and will inspire junior researchers and students within the Biomedical Engineering field.</AbstractNarration>
+<MinAmdLetterDate>05/08/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/08/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0801410</AwardID>
+<Investigator>
+<FirstName>Homayoun</FirstName>
+<LastName>Nazeran</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Homayoun Nazeran</PI_FULL_NAME>
+<EmailAddress>nazeran@ece.utep.edu</EmailAddress>
+<PI_PHON>9157476955</PI_PHON>
+<NSF_ID>000368553</NSF_ID>
+<StartDate>05/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at El Paso</Name>
+<CityName>EL PASO</CityName>
+<ZipCode>799680001</ZipCode>
+<PhoneNumber>9157475680</PhoneNumber>
+<StreetAddress>500 W UNIVERSITY AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>C1DEGMMKC7W7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT EL PASO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at El Paso]]></Name>
+<CityName>EL PASO</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>799680001</ZipCode>
+<StreetAddress><![CDATA[500 W UNIVERSITY AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<FoaInformation>
+<Code>0203000</Code>
+<Name>Health</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5345</Code>
+<Text>Engineering of Biomed Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>004E</Code>
+<Text>BIOMEDICAL ENG AND DIAGNOSTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~11920</FUND_OBLG>
+</Award>
+</rootTag>

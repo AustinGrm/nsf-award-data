@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Student Panel at IEEE Virtual Reality 2008 Conference]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>3750.00</AwardTotalIntnAmount>
+<AwardAmount>3750</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Chitaranjan Das</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Student Panel at IEEE Virtual Reality 2008 Conference&lt;br/&gt;&lt;br/&gt;This conference brings together researchers academia and industry focused on research topics related to the Graphics and Visualization subarea of the CPA cluster.  A five-member student panel will be supported that allows students to take a more active and integral role in voicing new research directions of interest to the research community.  Among the topics to be discussed on the student panel are defining the future of virtual reality research, identifying killer virtual reality applications, and building careers in this research area.  This outreach activity helps to broaden the participation of students in this research field.]]></AbstractNarration>
+<MinAmdLetterDate>03/14/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>03/14/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0802263</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Lindeman</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert W Lindeman</PI_FULL_NAME>
+<EmailAddress><![CDATA[gogo@wpi.edu]]></EmailAddress>
+<NSF_ID>000477916</NSF_ID>
+<StartDate>03/14/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Worcester Polytechnic Institute</Name>
+<CityName>WORCESTER</CityName>
+<ZipCode>016092247</ZipCode>
+<PhoneNumber>5088315000</PhoneNumber>
+<StreetAddress>100 INSTITUTE RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HJNQME41NBU4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WORCESTER POLYTECHNIC INSTITUTE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Worcester Polytechnic Institute]]></Name>
+<CityName>WORCESTER</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>016092247</ZipCode>
+<StreetAddress><![CDATA[100 INSTITUTE RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7352</Code>
+<Text>COMPUTING PROCESSES &amp; ARTIFACT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~3750</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[High-Strength Nanostructured Alloys via Novel Machining Processes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>332996.00</AwardTotalIntnAmount>
+<AwardAmount>332996</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mary Toney</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The objective or this interdisciplinary research collaboration is to develop the materials processing science underpinning a new class of hybrid machining processes that enable large-scale, low-cost manufacturing of nanostructured alloys. The finding that chips produced during normal machining operations are composed of nanocrystalline structures of high strength and hardness opens a low-cost, direct way of making these materials in large volumes. The study focuses on Large-Strain Extrusion Machining (LSEM) and Modulation-Assisted Machining (MAM), two new processes that impart grain refinement through severe plastic deformation (SPD) together with independent control of the product size and shape, in both bulk and particulate forms. The program couples systematic processing experiments on alloys of commercial interest with advance microstructure characterization methods, including electron microscopy.  This work will map the capabilities and limitations of these new processes and provide clear direction for their application to commercial processing operations. &lt;br/&gt; &lt;br/&gt;Widespread use of nanostructured alloys has been hampered by their high cost, frequently quoted in excess of one hundred dollars per pound.  The new machining-based processes offer a transformative solution to this fundamental problem. The research will provide an important bridge between the manufacturing of nanostructured alloys and the practical utilization of these materials in bulk forms in the discrete products sector. An important secondary benefit, with broad societal impact, will be providing higher value utilization for chips produced in manufacturing operations (up-cycling). Complementing the research is a student-centered education and training program that includes an interdisciplinary, collaborative environment, industrial internships for graduate students and integrated summer research opportunities for undergraduates. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/11/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0800481</AwardID>
+<Investigator>
+<FirstName>Kevin</FirstName>
+<LastName>Trumble</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kevin P Trumble</PI_FULL_NAME>
+<EmailAddress><![CDATA[driscol@ecn.purdue.edu]]></EmailAddress>
+<NSF_ID>000329909</NSF_ID>
+<StartDate>07/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Srinivasan</FirstName>
+<LastName>Chandrasekar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Srinivasan Chandrasekar</PI_FULL_NAME>
+<EmailAddress><![CDATA[chandy@ecn.purdue.edu]]></EmailAddress>
+<NSF_ID>000422067</NSF_ID>
+<StartDate>07/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>W. Dale</FirstName>
+<LastName>Compton</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>W. Dale Compton</PI_FULL_NAME>
+<EmailAddress><![CDATA[dcompton@ecn.purdue.edu]]></EmailAddress>
+<NSF_ID>000315800</NSF_ID>
+<StartDate>07/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>WEST LAFAYETTE</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>2550 NORTHWESTERN AVE STE 1900</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YRXVL4JYCEF5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YRXVL4JYCEF5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479061332</ZipCode>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE STE 1900]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1467</Code>
+<Text>MATERIALS PROCESSING AND MANFG</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1504</Code>
+<Text>GOALI-Grnt Opp Acad Lia wIndus</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>081E</Code>
+<Text>NANO SCALE ASSEMBLY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~332996</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Optimally Designed Unimolecular Rectifiers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>730000.00</AwardTotalIntnAmount>
+<AwardAmount>730000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090006</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Zeev Rosenzweig</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA["This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5)."&lt;br/&gt;&lt;br/&gt;Professors Robert M. Metzger and Stephen A. Woski of the University of Alabama Tuscaloosa, and Professor Daniell L. Mattern of the University of Mississippi are supported by the Analytical and Surface Chemistry Program in the Division of Chemistry to develop and evaluate molecular rectifiers.  Synthetic tools will be developed to arrive at optimally designed organic molecules with appropriate molecular electronic levels to allow passage of charge in a single direction, and appropriate end/side groups to facilitate device assembly.  The overall objectives are to design molecules with high rectification ratios and to use these molecules to develop molecular diodes with stable device operation to be the future circuit components in molecular electronics.  Students drawn from universities which educate a large number of graduate students from underrepresented minorities will be trained in synthesis and molecular electronics, and the research will be interfaced with the LSAMP program.]]></AbstractNarration>
+<MinAmdLetterDate>07/23/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2009</MaxAmdLetterDate>
+<ARRAAmount>730000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0848206</AwardID>
+<Investigator>
+<FirstName>Daniell</FirstName>
+<LastName>Mattern</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniell L Mattern</PI_FULL_NAME>
+<EmailAddress><![CDATA[mattern@olemiss.edu]]></EmailAddress>
+<NSF_ID>000326625</NSF_ID>
+<StartDate>07/23/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Metzger</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert M Metzger</PI_FULL_NAME>
+<EmailAddress><![CDATA[rmetzger@ua.edu]]></EmailAddress>
+<NSF_ID>000447538</NSF_ID>
+<StartDate>07/23/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Woski</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stephen A Woski</PI_FULL_NAME>
+<EmailAddress><![CDATA[swoski@as.ua.edu]]></EmailAddress>
+<NSF_ID>000352936</NSF_ID>
+<StartDate>07/23/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Alabama Tuscaloosa</Name>
+<CityName>TUSCALOOSA</CityName>
+<ZipCode>354870001</ZipCode>
+<PhoneNumber>2053485152</PhoneNumber>
+<StreetAddress>301 ROSE ADMIN BLDG</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AL07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RCNJEHZ83EV6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ALABAMA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>TWJWHYEM8T63</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Alabama Tuscaloosa]]></Name>
+<CityName>TUSCALOOSA</CityName>
+<StateCode>AL</StateCode>
+<ZipCode>354870001</ZipCode>
+<StreetAddress><![CDATA[301 ROSE ADMIN BLDG]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1972</Code>
+<Text>ELECTROCHEMISTRY &amp; SURFACE CHE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>100E</Code>
+<Text>Novel devices &amp; vacuum electronics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9162</Code>
+<Text>MULTI DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~730000</FUND_OBLG>
+</Award>
+</rootTag>

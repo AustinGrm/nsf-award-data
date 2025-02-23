@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Conference: The XVII International Chromosome Conference to be held June 23-27, 2009 in Boone, North Carolina]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>5000.00</AwardTotalIntnAmount>
+<AwardAmount>5000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070100</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Susan Porter Ridley</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The International Chromosome Conference in Boone, North Carolina, is the 17th in this series of triannual meetings, which have all previously been held in Europe. In the past fifteen years, cytogeneticists have fully embraced the molecular techniques that have been so useful in other areas of genetic research. The primary objective of this upcoming meeting is to provide a forum for researchers studying chromosome biology to present data, exchange ideas, and initiate collaborations, both national and international. Another important objective of the meeting is to provide students and postdoctoral fellows with the opportunity to interact with other researchers as well as to present their own research. Through its outreach programs, the North Carolina meeting will both increase the awareness of science and genomic research among local high school and college students, and spark these students' interest in careers in scientific research. The meeting will continue the ICC's tradition of fostering the intellectual exchange and growth in this field, while also providing cytogeneticists in the United States with easier access to these benefits.&lt;br/&gt;&lt;br/&gt;For the first time in the 45-year history of the International Chromosome Conference series, the group will meet in North America. This gives North American cytogeneticists the opportunity to have the leaders in the field of chromosome research more easily available for discussion, consultation, and collaboration, and will enhance the opportunities for the United States scientific community in this important field.]]></AbstractNarration>
+<MinAmdLetterDate>06/26/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0852283</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Venable</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark E Venable</PI_FULL_NAME>
+<EmailAddress><![CDATA[venableme@appstate.edu]]></EmailAddress>
+<NSF_ID>000252295</NSF_ID>
+<StartDate>06/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ken</FirstName>
+<LastName>Shull</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ken Shull</PI_FULL_NAME>
+<EmailAddress><![CDATA[shulljk@appstate.edu]]></EmailAddress>
+<NSF_ID>000509330</NSF_ID>
+<StartDate>06/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Appalachian State University</Name>
+<CityName>BOONE</CityName>
+<ZipCode>286080001</ZipCode>
+<PhoneNumber>8282627459</PhoneNumber>
+<StreetAddress>438 ACADEMY ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F1NAKY5L1425</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>APPALACHIAN STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Appalachian State University]]></Name>
+<CityName>BOONE</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>286080001</ZipCode>
+<StreetAddress><![CDATA[438 ACADEMY ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1112</Code>
+<Text>Genetic Mechanisms</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1112</Code>
+<Text>GENES AND GENOME SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1116</Code>
+<Text>EUKARYOTIC GENETICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~5000</FUND_OBLG>
+</Award>
+</rootTag>

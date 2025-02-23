@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Homotopy-Theoretic Aspects of the Theory of Motives</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>174561.00</AwardTotalIntnAmount>
+<AwardAmount>174561</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christopher Stark</SignBlockName>
+<PO_EMAI>cstark@nsf.gov</PO_EMAI>
+<PO_PHON>7032924869</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The goal of this proposal is to develop an analog, in the homotopy&lt;br/&gt;category, of the category of mixed Tate motives which have proved to&lt;br/&gt;be so important in recent developments in arithmetic geometry. The&lt;br/&gt;central idea is to replace the algebraic K-theory of the ring of&lt;br/&gt;integers in the latter subject with Waldhausen's K-theory of the&lt;br/&gt;sphere spectrum. This would explain the appearance of zeta-values&lt;br/&gt;at odd positive integers in both the theory of motives, and as values&lt;br/&gt;of Igusa's Reidemeister invariants in differential topology.&lt;br/&gt;&lt;br/&gt; Certain values of Riemann's zeta function are widely conjectured to be &lt;br/&gt;transcendental. These numbers have recently been shown [through work of&lt;br/&gt;Connes, Kreimer, and Marcolli] to play a central and unexpected role&lt;br/&gt;in the theoretical basis for the renormalization techniques fundamental&lt;br/&gt;to perturbative quantum field theory, but WHY they should be so important&lt;br/&gt;is quite mysterious. However, these same numbers are of fundamental&lt;br/&gt;importance in other parts of mathematics, eg in arithmetic algebraic&lt;br/&gt;geometry and in differential topology. Their role in algebraic geometry&lt;br/&gt;has been rationalized by the development of a theory of `motives', and it&lt;br/&gt;seems likely that some version of these ideas can be extended to&lt;br/&gt;differential topology as well. The deep links between topological quantum&lt;br/&gt;field theories and differential topology suggest that this&lt;br/&gt;will lead to a new level of understanding of the geometric foundations&lt;br/&gt;of phyics.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>08/03/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/03/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0805531</AwardID>
+<Investigator>
+<FirstName>Jack</FirstName>
+<LastName>Morava</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jack Morava</PI_FULL_NAME>
+<EmailAddress>jack@math.jhu.edu</EmailAddress>
+<NSF_ID>000374094</NSF_ID>
+<StartDate>08/03/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Johns Hopkins University</Name>
+<CityName>Baltimore</CityName>
+<ZipCode>212182686</ZipCode>
+<PhoneNumber>4439971898</PhoneNumber>
+<StreetAddress>1101 E 33rd St</StreetAddress>
+<StreetAddress2><![CDATA[Suite B001]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD07</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>001910777</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>JOHNS HOPKINS UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>001910777</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName>Baltimore</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212182686</ZipCode>
+<StreetAddress><![CDATA[1101 E 33rd St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1267</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2009~174561</FUND_OBLG>
+</Award>
+</rootTag>

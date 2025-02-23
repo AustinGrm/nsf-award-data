@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CNH: Collab Research: The Interactions of Climate Change, Land-Management Policies, and Forest Succession on Fire Hazard and Ecosystem Trajectories in the Wildland-Urban Interface</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>1093152.00</AwardTotalIntnAmount>
+<AwardAmount>1109002</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010208</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alan Tessier</SignBlockName>
+<PO_EMAI>atessier@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project will identify ways to reduce wildfire hazard and the loss of imperiled ecosystems by exploring the joint effects of climate and land use changes in western Oregon's Willamette Valley Ecoregion.  Three hypotheses will be tested: climate change will increase fuel loads and wildfire hazard; land development will increase the area of wildland-urban interface and alter vegetation in ways that increase the risk of wildfire and loss of imperiled ecosystems; and some management options will be more robust than others in mitigating fire risk and sustaining imperiled ecosystems across a range of future climate scenarios.  The work will employ a biophysical model that downscales from the coarse spatial scales of current climate change models to the fine spatial scales at which human land use and management decisions are made, and then scales back up to represent the landscape-scale effects of human actions on vegetation and fire hazard.  The biophysical model will be coupled with an agent-based model in which decision makers on individual land parcels respond to climate, land use regulation and incentives, land markets, perceived fire hazard, land management costs, and aesthetics.  This research will advance knowledge of how to bridge key theoretical and practical issues related to multiple types of system uncertainties, different spatial and temporal scales, and complex interactions and feedbacks among coupled natural and human systems.  &lt;br/&gt;&lt;br/&gt;The risk of catastrophic wildfire in the wildland-urban interface is a growing nationwide threat that projected climate change is likely to exacerbate.  This project supports emerging national, regional and local initiatives by providing tools to forecast risks and mitigate the impacts.  Global climate change models have become increasingly mechanistic, sophisticated and spatially explicit.  However, the development of interactive models of how biological and human cultural systems will respond to climate change at the spatial scales at which land use and management decisions are made is in its infancy.  This research will produce a transferable methodology for modeling such systems that is tractable, spatially explicit, and directly linked to policy-based decision-making.  The development of solutions that are robust to future uncertainties is an important approach toward adaptively managing complex systems that include strongly coupled ecological and socio-economic processes.  The project engages graduate and undergraduate students in interdisciplinary research at two universities. It also involves students with stakeholder groups in workshops designed to support policy makers and the public in making more informed decisions that address the challenges of climate change.</AbstractNarration>
+<MinAmdLetterDate>09/25/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/06/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0816475</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Hulse</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David W Hulse</PI_FULL_NAME>
+<EmailAddress>dhulse@ufl.edu</EmailAddress>
+<NSF_ID>000343962</NSF_ID>
+<StartDate>09/25/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bart</FirstName>
+<LastName>Johnson</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bart R Johnson</PI_FULL_NAME>
+<EmailAddress>bartj@uoregon.edu</EmailAddress>
+<NSF_ID>000329376</NSF_ID>
+<StartDate>09/25/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Bridgham</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Scott D Bridgham</PI_FULL_NAME>
+<EmailAddress>bridgham@uoregon.edu</EmailAddress>
+<NSF_ID>000087147</NSF_ID>
+<StartDate>09/25/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Ribe</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert Ribe</PI_FULL_NAME>
+<EmailAddress>rribe@uoregon.edu</EmailAddress>
+<NSF_ID>000084268</NSF_ID>
+<StartDate>09/25/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Oregon Eugene</Name>
+<CityName>Eugene</CityName>
+<ZipCode>974035219</ZipCode>
+<PhoneNumber>5413465131</PhoneNumber>
+<StreetAddress>5219 UNIVERSITY OF OREGON</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OR04</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>079289626</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF OREGON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>049793995</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Oregon Eugene]]></Name>
+<CityName>Eugene</CityName>
+<StateCode>OR</StateCode>
+<ZipCode>974035219</ZipCode>
+<StreetAddress><![CDATA[5219 UNIVERSITY OF OREGON]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OR04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1182</Code>
+<Text>POP &amp; COMMUNITY ECOL PROG</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7304</Code>
+<Text>ERE General</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7318</Code>
+<Text>HSD - AGENTS OF CHANGE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7322</Code>
+<Text>HSD - DEC, RISK &amp; UNCERTAINTY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1355</Code>
+<Text>EGC EDUCATIONAL ACTIVITIES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1691</Code>
+<Text>BE: DYN COUPLED NATURAL-HUMAN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~1093152</FUND_OBLG>
+<FUND_OBLG>2009~15850</FUND_OBLG>
+</Award>
+</rootTag>

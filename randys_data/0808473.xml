@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>DISSERTATION RESEARCH:  Effects of Soil Nitrogen Enrichment on the Chemical Mediation of Multi-Trophic Interactions</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>6627.00</AwardTotalIntnAmount>
+<AwardAmount>6627</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010208</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alan Tessier</SignBlockName>
+<PO_EMAI>atessier@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>While most temperate terrestrial ecosystems remain nitrogen limited, nitrogen inputs from human activity are increasing at a rapid rate. This project will examine the influence of nitrogen enrichment on plant-herbivore and herbivore-predator interactions. Soil nitrogen enrichment may influence such interactions through changes in plant productivity, nutritional quality, and defensive chemistry. These direct effects on plants, in turn, may affect both herbivores and predators. This project examines interactions between an invasive plant that is chemically defended (Dalmatian Toadflax, Linaria dalmatica, Scrophulariaceae), a specialist insect herbivore that stores these plant defense compounds (Toadflax Defoliator, Calophasia lunula, Noctuidae), and several invertebrate predators. These interactions will be investigated in greenhouse and field experiments in which plants are grown under varying levels of nitrogen addition. The results will contribute to understanding the explicit mechanisms by which soil nitrogen enrichment may influence such interactions. This project represents the first study of the chemical ecology of this invasive plant and a biological control insect that has been introduced to manage this species. Invasive plants pose an important threat to native biodiversity and the aggressiveness of these species to invade a habitat may be facilitated by nitrogen deposition. Information from this research will provide insight for improving biocontrol efforts for an invasive plant that has ecological and economic significance as a rangeland weed. Further, the broader impacts of this research include fostering collaborations between researchers and land managers as well as educating the public about environmental change and plant invasions.</AbstractNarration>
+<MinAmdLetterDate>05/20/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0808473</AwardID>
+<Investigator>
+<FirstName>Mary</FirstName>
+<LastName>Jamieson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mary Jamieson</PI_FULL_NAME>
+<EmailAddress>mary.jamieson@colorado.edu</EmailAddress>
+<NSF_ID>000409388</NSF_ID>
+<StartDate>05/20/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>M. Deane</FirstName>
+<LastName>Bowers</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>M. Deane Bowers</PI_FULL_NAME>
+<EmailAddress>deane.bowers@colorado.edu</EmailAddress>
+<NSF_ID>000265237</NSF_ID>
+<StartDate>05/20/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>Seastedt</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Timothy R Seastedt</PI_FULL_NAME>
+<EmailAddress>timothy.seastedt@colorado.edu</EmailAddress>
+<NSF_ID>000403685</NSF_ID>
+<StartDate>05/20/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Boulder</Name>
+<CityName>Boulder</CityName>
+<ZipCode>803031058</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress>3100 Marine Street, Room 481</StreetAddress>
+<StreetAddress2><![CDATA[572 UCB]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>007431505</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF COLORADO, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>007431505</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName>Boulder</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803031058</ZipCode>
+<StreetAddress><![CDATA[3100 Marine Street, Room 481]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1182</Code>
+<Text>POP &amp; COMMUNITY ECOL PROG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1182</Code>
+<Text>POP &amp; COMMUNITY ECOL PROG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~6627</FUND_OBLG>
+</Award>
+</rootTag>

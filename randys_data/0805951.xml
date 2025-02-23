@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Algebraic applications of the homotopy theory of homotopy theories]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>82697.00</AwardTotalIntnAmount>
+<AwardAmount>82697</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christopher Stark</SignBlockName>
+<PO_EMAI>cstark@nsf.gov</PO_EMAI>
+<PO_PHON>7032924869</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This proposal concerns the application of various models for the homotopy theory of homotopy theories to more concrete situations in algebra and topology.  More specifically, we would like to take questions traditionally posed in the settings of model categories and derived categories and translate them into the context of complete Segal spaces. &lt;br/&gt;This approach seems particularly promising for situations in which the derived category plays a role, in that we can retain much higher-order information in a complete Segal space that is lost when passing to the derived category.  Our primary application at this point is generalizing Toen's definition of derived Hall algebras associated to certain kinds of stable model categories.  By defining a derived Hall algebra for a stable complete Segal space, we hope to gain insight into extending a result relating Hall algebras and quantum enveloping algebras arising from certain Lie algebras.&lt;br/&gt;&lt;br/&gt;This work will take techniques traditionally used in algebraic topology and apply them to questions arising in algebra.  In particular, we hope to answer an open problem in representation theory, an area in which these methods have not yet been used.  This approach is expected to provide a new perspective on constructions in algebra as well as in topology.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/28/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/28/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0805951</AwardID>
+<Investigator>
+<FirstName>Julia</FirstName>
+<LastName>Bergner</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Julia E Bergner</PI_FULL_NAME>
+<EmailAddress><![CDATA[jeb2md@virginia.edu]]></EmailAddress>
+<NSF_ID>000644305</NSF_ID>
+<StartDate>08/28/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Riverside</Name>
+<CityName>RIVERSIDE</CityName>
+<ZipCode>925210001</ZipCode>
+<PhoneNumber>9518275535</PhoneNumber>
+<StreetAddress>200 UNIVERSTY OFC BUILDING</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>41</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA41</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MR5QC5FCAVH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Riverside]]></Name>
+<CityName>RIVERSIDE</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>925210001</ZipCode>
+<StreetAddress><![CDATA[200 UNIVERSTY OFC BUILDING]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>41</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA41</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1267</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~82697</FUND_OBLG>
+</Award>
+</rootTag>

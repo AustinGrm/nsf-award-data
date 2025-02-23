@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Instrument and Equipment Aquisition for the Environmental laboroatory at SPSU</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>34553.00</AwardTotalIntnAmount>
+<AwardAmount>34553</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leon Esterowitz</SignBlockName>
+<PO_EMAI>lesterow@nsf.gov</PO_EMAI>
+<PO_PHON>7032927942</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>CBET-0821376&lt;br/&gt;Ortiz&lt;br/&gt;&lt;br/&gt;This proposal requests funds for the acquisition of instruments and equipment for the environmental laboratory in the Civil Engineering Technology Department at Southern Polytechnic State University. They propose to add a block digestion system, an UV-Vis spectrophotometer and a particle size analyzer for water and wastewater characterization. The addition of a particle size analyzer, an additional jar test apparatus and a UV-Vis spectrophotometer and a filtration system will enhance their capabilities to better assess the efficiency of those processes using parameters and analytical techniques currently used in water treatment plants. The particle size analyzer, for example, can be used in water quality assessment, but also in soil characterizations. Thus, this piece of equipment will be used frequently by all civil engineering technology students. The UV spectrophotometer will be used to identify specific organic compounds that can be used as tracers or to evaluate the performance of treatment process, without using expensive testing techniques.</AbstractNarration>
+<MinAmdLetterDate>07/22/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0821376</AwardID>
+<Investigator>
+<FirstName>Carlos</FirstName>
+<LastName>Ortiz</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carlos A Ortiz</PI_FULL_NAME>
+<EmailAddress>cortiz@spsu.edu</EmailAddress>
+<NSF_ID>000343135</NSF_ID>
+<StartDate>07/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Southern Polytechnic State University</Name>
+<CityName>Marietta</CityName>
+<ZipCode>300602895</ZipCode>
+<PhoneNumber>6789153156</PhoneNumber>
+<StreetAddress>1100 S. Marietta Parkway</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA11</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>062092457</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>SOUTHERN POLYTECHNIC STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>180655748</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Southern Polytechnic State University]]></Name>
+<CityName>Marietta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>300602895</ZipCode>
+<StreetAddress><![CDATA[1100 S. Marietta Parkway]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>001E</Code>
+<Text>Air pollution</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7236</Code>
+<Text>BIOPHOTONICS, IMAGING &amp;SENSING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~34553</FUND_OBLG>
+</Award>
+</rootTag>

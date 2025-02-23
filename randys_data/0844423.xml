@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Optimizing Disease Screening &amp; Diagnosis</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>430000.00</AwardTotalIntnAmount>
+<AwardAmount>430000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Diwakar Gupta</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Faculty Early Career Development (CAREER) award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;The research objective of this Faculty Early Career Development (CAREER) project is to provide a stochastic optimization modeling framework for disease screening &amp; diagnosis. The proposal particularly focuses on two broad areas of research in breast cancer, the most common non-skin cancer affecting women in the U.S, but the research also applies to other diseases. The first research area considers developing a stochastic optimization model that generates personalized cancer screening policies. The second research area considers optimizing diagnostic decisions in mammography screening while accounting for non-adherence of the patients to the screening guidelines and various risk attitudes of the patients. This project will develop several finite-horizon Markov decision process (MDP) and partially observable MDP models to formulate and solve these problems.&lt;br/&gt;&lt;br/&gt;This research will not only improve breast cancer screening &amp; diagnosis, but will also provide a framework for developing better screening policies for other cancers including prostate and colorectal cancers as well as other diseases such as diabetic retinopathy. Any improvement on cancer screening &amp; diagnosis would directly affect millions of people being screened for cancer and indirectly affect almost the whole population being screened for other diseases. Furthermore, the potential life savings and dollar savings of the proposed research are substantial. This research will have an immediate impact on education as well.  PhD student(s) will be trained to utilize operations research techniques to solve complicated decision problems in medicine. The results of this research will be integrated into new courses developed by the PI. The proposed research will introduce operations research tools to medical community through a successful application of these tools to a complicated and controversial problem in medicine.</AbstractNarration>
+<MinAmdLetterDate>06/30/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/07/2014</MaxAmdLetterDate>
+<ARRAAmount>430000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0844423</AwardID>
+<Investigator>
+<FirstName>Oguzhan</FirstName>
+<LastName>Alagoz</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Oguzhan Alagoz</PI_FULL_NAME>
+<EmailAddress>alagoz@engr.wisc.edu</EmailAddress>
+<NSF_ID>000227346</NSF_ID>
+<StartDate>06/30/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<StreetAddress2><![CDATA[Suite 6301]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI02</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>161202122</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>041188822</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>537151218</ZipCode>
+<StreetAddress><![CDATA[21 North Park Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1787</Code>
+<Text>SERVICE ENTERPRISE SYSTEMS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>076E</Code>
+<Text>SERVICE ENTERPRISE SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1187</Code>
+<Text>PECASE- eligible</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9147</Code>
+<Text>GENERIC TECHNOL FOR MANUFACTURING CELLS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9148</Code>
+<Text>TOOLS &amp; TECHNOL FOR MANUFACTURING DESIGN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~430000</FUND_OBLG>
+</Award>
+</rootTag>

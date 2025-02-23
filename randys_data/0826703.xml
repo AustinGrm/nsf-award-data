@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Dynamics and Stability of Metallic Foams: Network Modelling]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>364318.00</AwardTotalIntnAmount>
+<AwardAmount>364318</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mary Toney</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The research objective of this award is to develop a process and theory for making members of porous metals by the freezing of liquid/gas foams.  A primary problem with liquid foams is that adjacent bubbles coalesce very rapidly (milliseconds) turning the foam into one large bubble.  In this investigation a continuous process that freezes the bubbles in place creating a uniform array of pores within the solid will be designed and modeled.  To accomplish this one must study the fluid flow and heat transfer in liquid foams, determine the rates at which different physical processes occur and devise a protocol for the control of these.  A mathematical representation of a multi-bubble foam will be constructed to monitor how the foam coarsens and to determine the best way to freeze the material.  Asymptotic methods, numerical simulation and analysis will be combined to suggest experiments to yield proof of concept of the process.&lt;br/&gt;&lt;br/&gt;If successful this work is expected to result in a process to create porous metals that are as strong or stronger than the comparable solid but with one-tenth the weight. Such materials would be useful in the manufacture of airplane, rockets, ships, and automobiles.  This research will enable the creation of metals of precisely controlled porosity and will impact the understanding of complex, nonlinear physical phenomena governed by free boundary problems containing a large expanse of scales.  The potential, long-term impact of the research in society will include improvements in energy efficiency, environmental cleanliness, safety, and conservation of material resources.&lt;br/&gt;&lt;br/&gt;This project is jointly funded by the Materials Processing &amp; Manufacturing (MPM) Program, of the Civil, Mechanical, and Manufacturing Innovation (CMMI) Division, by the Fluid Dynamics Program, of the Chemical, Bioengineering, Environmental, and Transport Systems (CBET) Division, and by funding provided from the Directorate for Engineering (ENG) to support Inter Divisional Research. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/13/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/13/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0826703</AwardID>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Davis</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stephen H Davis</PI_FULL_NAME>
+<EmailAddress><![CDATA[sdavis@northwestern.edu]]></EmailAddress>
+<NSF_ID>000149014</NSF_ID>
+<StartDate>08/13/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northwestern University</Name>
+<CityName>EVANSTON</CityName>
+<ZipCode>602080001</ZipCode>
+<PhoneNumber>3125037955</PhoneNumber>
+<StreetAddress>633 CLARK STREET</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EXZVPWZBLUE8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHWESTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>EVANSTON</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>602080001</ZipCode>
+<StreetAddress><![CDATA[633 CLARK STREET]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1402</Code>
+<Text>BIOCHEMICAL &amp; BIOMASS ENG</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1443</Code>
+<Text>FD-Fluid Dynamics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1467</Code>
+<Text>MATERIALS PROCESSING AND MANFG</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1468</Code>
+<Text>Manufacturing Machines &amp; Equip</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>080E</Code>
+<Text>DEFORMATION PROCESSES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>088E</Code>
+<Text>THERMALLY DRIVEN PROCESSES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~364318</FUND_OBLG>
+</Award>
+</rootTag>

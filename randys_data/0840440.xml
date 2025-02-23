@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[U.S.-South Africa International Undergraduate Research Opportunities:   Ecological Research in Kruger National Park, South Africa]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>109696.00</AwardTotalIntnAmount>
+<AwardAmount>109696</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>DeAndra Beck</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award supports the Organization for Tropical Studies (OTS) to conduct a pilot project for an international research experience program for undergraduates in Kruger National Park, South Africa. This program will be constructed as an extension to the current OTS/Duke University South Africa Semester Abroad Program as an innovative and efficient way of attracting undergraduate students to international research experiences. In each of two years the project will allow six U.S. students who have gained considerable expertise in ecological theory, research methodology, and knowledge of local ecosystems through the OTS semester program to stay on at Kruger National Park to conduct more in-depth ecological research. OTS scientific staff and collaborators from South African National Parks and South African universities will mentor the independent research projects, which will also be linked to conservation management priorities of the park. This pilot project will allow OTS to evaluate the impact that an in-depth undergraduate research opportunity has, beyond the study-abroad experience, on retaining and advancing undergraduates in the sciences and into graduate school. &lt;br/&gt;&lt;br/&gt;This pilot program is designed to guide undergraduate students toward independent field-oriented research in biology. While students will have already conducted some short-term research projects as classwork in the OTS semester abroad program, this six-week research experience requires students to engage in advanced hypothesis development, research design, implementation, analysis, and dissemination.  At the end of the project, students will write up their findings and also present them to Kruger National Park scientists and managers.]]></AbstractNarration>
+<MinAmdLetterDate>08/13/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/13/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.079</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0840440</AwardID>
+<Investigator>
+<FirstName>Elizabeth</FirstName>
+<LastName>Losos</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elizabeth Losos</PI_FULL_NAME>
+<EmailAddress><![CDATA[elizabeth.losos@duke.edu]]></EmailAddress>
+<NSF_ID>000397266</NSF_ID>
+<StartDate>08/13/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277054640</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W MAIN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TP7EK8DZV6N5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DUKE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277054640</ZipCode>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0510602</Code>
+<Name>Ecosystem Dynamics</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7298</Code>
+<Text>International Research Collab</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7731</Code>
+<Text>Other Global Learning &amp; Trng</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1066</Code>
+<Text>SOUTH AFRICA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5976</Code>
+<Text>AFRICA, NEAR EAST, &amp; SO ASIA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~109696</FUND_OBLG>
+</Award>
+</rootTag>

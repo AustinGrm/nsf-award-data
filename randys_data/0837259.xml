@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Creating and Implementing a Concept Inventory-Based Diagnostic Tool to Improve Undergraduate GIS Education]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gul Kremer</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Geology (42)  This project is improving GIS education by uncovering student misconceptions. Drawing on the notions of concept inventories first developed in the Force Concept Inventory, and using techniques developed by education researchers in other STEM disciplines, a concept-based diagnostic tool is being developed to measure student learning across the wide array of disciplines in which GIS is taught. The instrument is being used to identify the misconceptions preventing students from attaining geospatial literacy as defined in the Geospatial Information Science and Technology Body of Knowledge (BOK). Project activities include: 1) mapping the BOK concept inventory to the existing statewide GIS curriculum; 2) developing an assessment instrument to identify misconceptions impairing students' understanding of these concepts; 3) identifying successful strategies for overcoming the misconception; and 4) integrating the successful strategies in classrooms and laboratories to improve and update existing GIS curriculum materials. This project is responsive to a call to action by the National Research Council and numerous professional bodies including the University Consortium for GIS and the Association of American Geographers. The project findings are enabling GIS educators to address the problem of student underperformance and positively impact teaching in the ever widening array of fields in which GIS is now regarded as indispensable.]]></AbstractNarration>
+<MinAmdLetterDate>09/09/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>02/07/2014</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0837259</AwardID>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Szakas</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joseph Szakas</PI_FULL_NAME>
+<EmailAddress><![CDATA[szakas@maine.edu]]></EmailAddress>
+<NSF_ID>000332015</NSF_ID>
+<StartDate>09/09/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tora</FirstName>
+<LastName>Johnson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tora Johnson</PI_FULL_NAME>
+<EmailAddress><![CDATA[tjohnson@maine.edu]]></EmailAddress>
+<NSF_ID>000099295</NSF_ID>
+<StartDate>09/09/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Bampton</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthew Bampton</PI_FULL_NAME>
+<EmailAddress><![CDATA[bampton@usm.maine.edu]]></EmailAddress>
+<NSF_ID>000100150</NSF_ID>
+<StartDate>09/09/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Southern Maine</Name>
+<CityName>PORTLAND</CityName>
+<ZipCode>041044864</ZipCode>
+<PhoneNumber>2072288536</PhoneNumber>
+<StreetAddress>96 FALMOUTH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<StateCode>ME</StateCode>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_ORG/>
+<ORG_UEI_NUM>DMLZJTD7WJ94</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MAINE SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>JHKKHVC7EPL3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Southern Maine]]></Name>
+<CityName>PORTLAND</CityName>
+<StateCode>ME</StateCode>
+<ZipCode>041044864</ZipCode>
+<StreetAddress><![CDATA[96 FALMOUTH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_PERF/>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~150000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[A Theoretical and Quantitative Macroeconomic Analysis of Labor Market Trends: 1970-2000]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/16/2008</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>165595.00</AwardTotalIntnAmount>
+<AwardAmount>165595</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050100</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Niloy Bose</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[   The purpose of this project is to shed light on the economic forces behind some significant labor market trends observed in the United States since the 1970's. In addition, the project also aims to understand the consequences of these labor market trends for the U.S. economy more broadly, by using rigorous theoretical and quantitative economic modeling. The project is composed of three components, which share this common goal.&lt;br/&gt;&lt;br/&gt;    The first subproject focuses on the broad trends related to the evolution of the wage distribution. For example, in the past 30 years there have been substantial increases in overall wage inequality as well as in the returns to education, which still continue today. Will these trends continue in the coming decades? At the same time, despite the significant rise in wage inequality, the rise in consumption inequality has been rather muted. Should this give us comfort that these developments are not likely to have important welfare consequences? To be able to answer questions like these we need a sound understanding of the causes of these phenomena; we need a model. Therefore the first subproject will investigate whether the interaction of a human capital model---where the key heterogeneity is in individuals' learning ability---with skill-biased technical change (SBTC) can explain the observed features of the evolution of the wage distribution. The proposed model is rich, yet analytically tractable, which allows us to develop its implications theoretically. We also intend to provide a comprehensive quantitative assessment of the model's ability to explain the evolution of the wage distribution since the 1970's.&lt;br/&gt;&lt;br/&gt;    The second subproject will elicit information about the nature of labor income risk from individuals' economic choices (such as consumption choice), which contain valuable information about the environment faced by individuals, including the future (income) risks they perceive. Consumption-savings decision will be modeled in a rich life-cycle framework, relaxing several important assumptions made in earlier studies. These assumptions were designed to make the GMM (Generalized Method of Moments) approach feasible. Instead, this project will use the powerful new tools of Indirect Inference developed in the last decade, which provides significant flexibility in estimating economic models with a rich set of realistic features. This exercise poses several computational challenges, and part of the contribution of this subproject will be to develop advanced tools to make indirect inference feasible in complex macroeconomic models, thereby having a broader impact.&lt;br/&gt;&lt;br/&gt;    The third subproject aims to understand several developments that have profoundly changed women's role in the labor market (what some economists have called the "quiet revolution"). Essentially, the labor force participation rate of married women increased from 33 percent in 1960 to almost 70 percent in 1990. Similar trends have been observed in the educational attainment and occupational choices of women (which have become more career-oriented). These trends have jointly given rise to the emergence of "dual-career couples." This subproject therefore studies the ramifications of the emergence of dual-career couples for the labor market equilibrium. The project aims to understand how the labor market outcomes vary across single- and dual-career couples, as well as how the rise in dual-career couples affects the aggregate behavior of the labor market.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>01/18/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>02/09/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0814030</AwardID>
+<Investigator>
+<FirstName>Fatih</FirstName>
+<LastName>Guvenen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Fatih Guvenen</PI_FULL_NAME>
+<EmailAddress><![CDATA[guvenen@umn.edu]]></EmailAddress>
+<NSF_ID>000556518</NSF_ID>
+<StartDate>01/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>National Bureau of Economic Research Inc</Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021385359</ZipCode>
+<PhoneNumber>6178683900</PhoneNumber>
+<StreetAddress>1050 MASSACHUSETTS AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GT28BRBA2Q49</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NATIONAL BUREAU OF ECONOMIC RESEARCH INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[National Bureau of Economic Research Inc]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021385359</ZipCode>
+<StreetAddress><![CDATA[1050 MASSACHUSETTS AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1320</Code>
+<Text>Economics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1320</Code>
+<Text>ECONOMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2007~17811</FUND_OBLG>
+<FUND_OBLG>2008~73892</FUND_OBLG>
+<FUND_OBLG>2009~73892</FUND_OBLG>
+</Award>
+</rootTag>

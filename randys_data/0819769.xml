@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Energetics and Stability of Geologically-Confined Water]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>273766.00</AwardTotalIntnAmount>
+<AwardAmount>273766</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030205</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Enriqueta Barrera</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Water confined in Å- to nm-scale pores is volumetrically and chemically important in surficial and near surface geological environments. Partitioning of water between bulk liquid and vapor phases and water confined in spaces within and between minerals plays a critical role in determining the fate of geochemical and geobiological processes. Despite considerable effort over the past several decades focused on the properties of confined water, rigorous thermodynamic models permitting simultaneous consideration of confined water stability relative to bulk water that are consistent with widely employed geochemical models are generally not available. In part, this is due to a paucity of physical chemical models permitting quantitative description of the hysteresis that is commonly observed between sorption and desorption of confined water. &lt;br/&gt;&lt;br/&gt;The present study addresses these needs through a combination of equilibrium observations, calorimetric measurements, and thermodynamic modeling of a selected suite of systems containing confined water. Model zeolite and nanoporous systems exhibiting hysteretic sorption/desorption behavior will be studied in order to test a newly developed thermodynamic model that shows promise in predicting hysteretic behavior. In addition, two other types of systems will be studied to fill in gaps currently present in the understanding of the factors controlling the stability of confined water: a) pure silica zeolites in which water molecules do not solvate ions; and c) zeolite systems containing confined water that is only bonded to ions. Water in these systems exhibits ?endmember? structural states, that when combined form the environments found in most previously studied microporous confined water systems (that is, those containing water molecules that both solvate ions and interact with the confining medium). &lt;br/&gt;&lt;br/&gt;Scientific outcomes: The results of this study will be synthesized through thermodynamic modeling to describe the stability of confined water molecules as a function of temperature, pressure, and the chemical potential of water. The resulting thermodynamic data and models will significantly expand capabilities for assessing the relative stability and behavior of confined water molecules in a thermodynamic framework that is congruent with standard practices in geochemical thermodynamics. Models describing hysteretic behavior in the systems studied will provide a heuristic basis for macroscopic thermodynamic description of other systems exhibiting this behavior. &lt;br/&gt;&lt;br/&gt;Broader impacts: The proposed study will provide enhanced educational opportunities for students at the University of Florida and will lead to widespread availability of the data and thermodynamic models. Graduate and undergraduate student involvement in the project is integral for its success. Students participating in this project will receive training and experience in modern experimental methods and thermodynamic analysis. In addition, the methods of the proposed study will be used to develop innovative classroom exercises to give students hands-on experience in thermochemical methods in the P.I.?s physical geochemistry course. Data generated in the study will be disseminated not only as publications in international scholarly journals, but will also be available for free download on the internet.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/12/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>03/11/2014</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0819769</AwardID>
+<Investigator>
+<FirstName>Elizabeth</FirstName>
+<LastName>Screaton</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elizabeth J Screaton</PI_FULL_NAME>
+<EmailAddress><![CDATA[screaton@ufl.edu]]></EmailAddress>
+<NSF_ID>000383167</NSF_ID>
+<StartDate>07/25/2013</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Philip</FirstName>
+<LastName>Neuhoff</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Philip Neuhoff</PI_FULL_NAME>
+<EmailAddress><![CDATA[neuhoff@ufl.edu]]></EmailAddress>
+<NSF_ID>000393205</NSF_ID>
+<StartDate>08/12/2008</StartDate>
+<EndDate>07/25/2013</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Jaeger</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John M Jaeger</PI_FULL_NAME>
+<EmailAddress><![CDATA[jmjaeger@ufl.edu]]></EmailAddress>
+<NSF_ID>000466279</NSF_ID>
+<StartDate>07/25/2013</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326111941</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1523 UNION RD RM 207</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NNFQH1JAPEP3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF FLORIDA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D4GCCCMXR1H3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Florida]]></Name>
+<CityName>GAINESVILLE</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>326111941</ZipCode>
+<StreetAddress><![CDATA[1523 UNION RD RM 207]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1674</Code>
+<Text>NANOSCALE: INTRDISCPL RESRCH T</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7295</Code>
+<Text>Geobiology &amp; Low-Temp Geochem</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~273766</FUND_OBLG>
+</Award>
+</rootTag>

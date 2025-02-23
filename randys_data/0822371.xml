@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Workshop for Advancing Numerical Modeling of Mantle Convection and Lithospheric Dynamics at U.C. Davis on July 9-11, 2008]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>30000.00</AwardTotalIntnAmount>
+<AwardAmount>30000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030204</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robin Reichlin</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[We are proposing to hold a workshop on Numerical Modeling of Mantle and Lithospheric Dynamics to build on the success of the 2005 Boulder workshop on Mantle Convection. This workshop will be broader in terms of audience than the Boulder workshop in that we will bring together both the mantle convection and lithospheric dynamics communities. We wish to discuss scientific advances and, importantly, technical and scientific issues related to the quantitative &lt;br/&gt;modeling of the origin and evolution of the mantle-lithosphere system. &lt;br/&gt;&lt;br/&gt;Recent developments in cluster computing, tera-scale resources, and software support and code-sharing efforts of the CIG have brought about major opportunities for scientific progress, such as the prospect of truly combining lithospheric-scale deformation models with mantle convection computations. However, several current science issues remain unresolved and understanding the dynamics of these in a predictive, quantitative sense, is intimately connected to computational issues, for example: &lt;br/&gt;&lt;br/&gt;How can we efficiently model thermo-chemical convection numerically, in spherical geometries, with adequate treatment of entrainment? &lt;br/&gt;&lt;br/&gt;How can we incorporate faulted and moving plate boundaries in spherical geometry, and study regionally realistic subduction system evolution? &lt;br/&gt;&lt;br/&gt;How can we accurately incorporate strain localization and large viscosity variations, and what are the appropriate macroscopic descriptions for sub-scale processes? &lt;br/&gt;&lt;br/&gt;The workshop will be held over three days on July 9-11, 2008 at U.C. Davis. The workshop conveners have worked together to propose a diverse and stimulating group of speakers and topics. The conference format includes a range of keynote and workshop style presentations, with ample room for poster viewing and structured, as well as unstructured, discussion. &lt;br/&gt;&lt;br/&gt;This workshop will have several broader impacts beyond advancing numerical modeling methods in the mantle and lithospheric dynamics communities. First, it will serve to train graduate students and researchers in fundamental methods used in numerical modeling. One special session each afternoon is reserved for the specific purpose of teaching the fundamentals of some of the most important numerical methods already in use or anticipated to hold great &lt;br/&gt;potential for the mantle convection and lithospheric dynamics communities. Second, the workshop will serve to strengthen the new and growing community of lithospheric-dynamics modelers in the US. Finally, the workshop will facilitate starting collaborations between mantle dynamics and lithospheric dynamics modelers.]]></AbstractNarration>
+<MinAmdLetterDate>06/26/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0822371</AwardID>
+<Investigator>
+<FirstName>Magali</FirstName>
+<LastName>Billen</LastName>
+<PI_MID_INIT>I</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Magali I Billen</PI_FULL_NAME>
+<EmailAddress><![CDATA[mibillen@ucdavis.edu]]></EmailAddress>
+<NSF_ID>000454652</NSF_ID>
+<StartDate>06/26/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Davis</Name>
+<CityName>DAVIS</CityName>
+<ZipCode>956186153</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress>1850 RESEARCH PARK DR, STE 300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TX2DAGQPENZ5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, DAVIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Davis]]></Name>
+<CityName>DAVIS</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>956186153</ZipCode>
+<StreetAddress><![CDATA[1850 RESEARCH PARK DR, STE 300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1572</Code>
+<Text>Tectonics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1574</Code>
+<Text>Geophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~30000</FUND_OBLG>
+</Award>
+</rootTag>

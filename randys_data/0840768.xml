@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[The Physics Classroom: Stewardship of Physics Education Resources on the Web]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>115000.00</AwardTotalIntnAmount>
+<AwardAmount>115000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Victor Piotrowski</SignBlockName>
+<PO_EMAI>vpiotrow@nsf.gov</PO_EMAI>
+<PO_PHON>7032925141</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Physics (13)&lt;br/&gt;&lt;br/&gt;The Physics Classroom is an extensive collection of web-based, multimedia tutorials covering physics at the high school level. Developed by high school teachers in Illinois, this web site has become one of the mostly widely used independently-created resources for physics education. It is well known and respected by teachers of high school physics and physical science for its clear explanations and use of concept-building diagrams and animations. A commercial company previously hosted a version of this material, but has ceased hosting this material. Sustaining this sort of exemplary, highly-used materials is an important aspect of the stewardship role in physics education of the ComPADRE Pathway. This proposal supports the author of this resource and the ComPADRE technical staff to bring the content into the library and bring web technology of The Physics Classroom up to current standards. In particular, accessibility, standards, and library issues are addressed through integration with The Physics Front metadata and collaboration tools.&lt;br/&gt;&lt;br/&gt;Supporting an online presence for The Physics Classroom makes it widely available to the physics community and to physics students around the world. In addition, the awareness and use of The Physics Classroom is increased through teacher training and in-service workshops. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>09/08/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/03/2016</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0840768</AwardID>
+<Investigator>
+<FirstName>Warren</FirstName>
+<LastName>Hein</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Warren W Hein</PI_FULL_NAME>
+<EmailAddress><![CDATA[whein@aapt.org]]></EmailAddress>
+<NSF_ID>000338647</NSF_ID>
+<StartDate>09/17/2008</StartDate>
+<EndDate>06/01/2011</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bruce</FirstName>
+<LastName>Mason</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bruce A Mason</PI_FULL_NAME>
+<EmailAddress><![CDATA[bmason@ou.edu]]></EmailAddress>
+<NSF_ID>000237167</NSF_ID>
+<StartDate>09/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Beth</FirstName>
+<LastName>Cunningham</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Beth Cunningham</PI_FULL_NAME>
+<EmailAddress><![CDATA[bcunningham@aapt.org]]></EmailAddress>
+<NSF_ID>000275850</NSF_ID>
+<StartDate>06/01/2011</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Holbrow</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Charles H Holbrow</PI_FULL_NAME>
+<EmailAddress><![CDATA[CHolbrow@aapt.org]]></EmailAddress>
+<NSF_ID>000077063</NSF_ID>
+<StartDate>09/08/2008</StartDate>
+<EndDate>08/06/2011</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>American Association of Physics Teachers</Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>20740</ZipCode>
+<PhoneNumber>3012093311</PhoneNumber>
+<StreetAddress>1 PHYSICS ELLIPSE 5TH FL AAPT</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YRLVBH8FJ9L6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>AMERICAN ASSOCIATION OF PHYSICS TEACHERS INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[American Association of Physics Teachers]]></Name>
+<CityName>COLLEGE PARK</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>20740</ZipCode>
+<StreetAddress><![CDATA[1 PHYSICS ELLIPSE 5TH FL AAPT]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7444</Code>
+<Text>NATIONAL SMETE DIGITAL LIBRARY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~115000</FUND_OBLG>
+</Award>
+</rootTag>

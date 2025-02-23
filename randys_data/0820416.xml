@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRIF:ID- Construction of a probe for optical detection of nuclear magnetic resonance</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>416202.00</AwardTotalIntnAmount>
+<AwardAmount>416202</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090002</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos Murillo</SignBlockName>
+<PO_EMAI>cmurillo@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award from the CRIF-ID program to Carlos A. Meriles and Matthias Lenzner at CUNY City College will fund the construction of a double-channel NMR probe of exceptional versatility designed to simultaneously accommodate a cryogenic-compatible, double-resonance circuit and broadband optics. The former will allow radio-frequency control on the evolution of the nuclear spin magnetization whereas the latter provides the physical setup necessary to implement schemes of optical detection of NMR. Detection of the nuclear spin magnetization will be carried out with the aid of time resolved Faraday rotation.  This will allow novel experiments on NMR micro-spectroscopy of organic materials as well as investigations of the onset of nuclear spin hyperpolarization in semiconductor nanostructures.&lt;br/&gt;&lt;br/&gt;Nuclear magnetic resonance spectroscopy probes material by detecting small changes in magnetization that arises from the nuclei in molecules. These changes can be detected indirectly by an effect on a light beam.  This work will investigate this phenomenon and its application to a broader class of materials such as organic semiconducting polymers or macromolecules in solution. The work is expected to have a broader educational outcome because it will offer students a unique inter-disciplinary scientific education and exposure to teams with complimentary expertise in optics and nuclear magnetic resonance.  &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>08/04/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0820416</AwardID>
+<Investigator>
+<FirstName>Carlos</FirstName>
+<LastName>Meriles</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carlos A Meriles</PI_FULL_NAME>
+<EmailAddress>cmeriles@ccny.cuny.edu</EmailAddress>
+<NSF_ID>000486097</NSF_ID>
+<StartDate>08/04/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthias</FirstName>
+<LastName>Lenzner</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthias Lenzner</PI_FULL_NAME>
+<EmailAddress>mlenzner@sci.ccny.cuny.edu</EmailAddress>
+<NSF_ID>000481300</NSF_ID>
+<StartDate>08/04/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CUNY City College</Name>
+<CityName>New York</CityName>
+<ZipCode>100319101</ZipCode>
+<PhoneNumber>2126505418</PhoneNumber>
+<StreetAddress>Convent Ave at 138th St</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>603503991</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>073268849</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[CUNY City College]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100319101</ZipCode>
+<StreetAddress><![CDATA[Convent Ave at 138th St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1938</Code>
+<Text>Chemical Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9239</Code>
+<Text>MATERIALS CHEMISTRY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~416202</FUND_OBLG>
+</Award>
+</rootTag>

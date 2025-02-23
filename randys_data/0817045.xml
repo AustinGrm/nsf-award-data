@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[An Integrated View of Polarity Establishment in Fucoid Zygotes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>164400</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090100</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce Alexander McClure</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Darryl Louis Kropf&lt;br/&gt;Proposal # 0817045&lt;br/&gt;Title: An Integrated View of Polarity Establishment in Fucoid Zygotes&lt;br/&gt;&lt;br/&gt;Research into the mechanisms that control brown algal development has been hampered by a lack of molecular and cellular tools.  In particular, it has proven to be very difficult to develop techniques that allow researchers to introduce molecules of interest into brown algal cells. This project will develop a molecular delivery system for use with brown algae. The technique uses lipid vesicles filled with the molecule of interest. The lipid vesicles fuse with the algal cell and deliver their contents into the cell. Initial results show that specific molecules can be delivered in this way, and the next step is to show that it works with many different kinds of molecules.  This technique will be truly transformative in that it will allow scientists to study the function of individual molecules for the first time. It is anticipated that this technique will be useful with many different algae, and perhaps with other types of cells as well. A PhD student and four undergraduates will be trained with this funding.]]></AbstractNarration>
+<MinAmdLetterDate>07/28/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/12/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0817045</AwardID>
+<Investigator>
+<FirstName>Darryl</FirstName>
+<LastName>Kropf</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Darryl L Kropf</PI_FULL_NAME>
+<EmailAddress><![CDATA[kropf@bioscience.utah.edu]]></EmailAddress>
+<NSF_ID>000451725</NSF_ID>
+<StartDate>07/28/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Utah</Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841129049</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress>201 PRESIDENTS CIR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LL8GLEVH6MG3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF UTAH</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Utah]]></Name>
+<CityName>SALT LAKE CITY</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>841129049</ZipCode>
+<StreetAddress><![CDATA[201 PRESIDENTS CIR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1118</Code>
+<Text>PLANT FUNGAL &amp; MICROB DEV MECH</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7187</Code>
+<Text>MICROBIAL GENOME SEQUENCING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7187</Code>
+<Text>MICROBIAL GENOME SEQUENCING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~164400</FUND_OBLG>
+</Award>
+</rootTag>

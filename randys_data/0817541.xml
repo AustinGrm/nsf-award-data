@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[IMR: Development of Near-Field Nanophotonic Scanning Microscope for Biomaterials Research and Education]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>247072.00</AwardTotalIntnAmount>
+<AwardAmount>247072</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070006</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Charles E. Bouldin</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Technical Abstract&lt;br/&gt;&lt;br/&gt;The objective of this proposal is to build a novel near-field scanning optical microscope (NSOM), integrating a scanning MEMS probe with a single-layer nanocrystals based light emitting diode (Nano-LED) fabricated on the probe tip, for molecular imaging and patterning of biological materials. The expected light source size is 5~10 nm, an order of magnitude reduction from that of a current advanced NSOM. The emission wavelength of the probe covers the spectrum from near-UV to the visible range, with imaging resolutions well beyond the diffraction limit. The ?Nano-Light source on chip? technology will open many exciting opportunities in biomedical and industrial applications including near-field microscopy of sub-cellular structures, direct material patterning, ultra high-density data storage, and compact light-on-chip biosensors and biochips.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Non-technical Abstract&lt;br/&gt;&lt;br/&gt;The proposed near-field imaging instrument will be developed using a new class of scanning probes with nanoscale light emitting probe tip, where the emission is well confined in a single layer of nanoparticles (diameter: 5~10nm). Downsizing the integrated light source on the probe directly leads to improvement of the resolving power of the microscope. &lt;br/&gt;&lt;br/&gt;The main benefits of the new instrument can be summarized as: (1) the silicon scanning probe is mass-producible; (2) no external light source is required; and (3) high optical resolution substantially beyond diffraction limit; The near-field scanning optical microscope has been used to explore nano-scale structures such as inorganic nanoparticles, organic thin films, and biomaterials. We expect that the novel probe based microscope with molecular resolution will be beneficial for significantly advancing these applications. In addition, direct integration of light source on probe is highly desirable to further extend the applications of the instrument into a compact assembly in biomedical applications such as biochips or portable devices for point-of-care technologies.]]></AbstractNarration>
+<MinAmdLetterDate>08/06/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/06/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0817541</AwardID>
+<Investigator>
+<FirstName>Xiaojing (John)</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiaojing (John) Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[john.zhang@dartmouth.edu]]></EmailAddress>
+<NSF_ID>000088541</NSF_ID>
+<StartDate>08/06/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0106000</Code>
+<Name>Materials Research</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1750</Code>
+<Text>MPS DMR INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9161</Code>
+<Text>SINGLE DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>AMPP</Code>
+<Text>ADVANCED MATERIALS &amp; PROCESSING PROGRAM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~247072</FUND_OBLG>
+</Award>
+</rootTag>

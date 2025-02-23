@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Exon Splice Pattern Characterization of the Whole mRNA Transcriptome</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>1027384.00</AwardTotalIntnAmount>
+<AwardAmount>1027384</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08040000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EF</Abbreviation>
+<LongName>Emerging Frontiers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter McCartney</SignBlockName>
+<PO_EMAI>pmccartn@nsf.gov</PO_EMAI>
+<PO_PHON>7032928470</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>"This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5)."&lt;br/&gt;&lt;br/&gt;The University of Kentucky has received a grant to build cyberinfrastructure to help researchers understand the messenger RNA (mRNA) generated using new high throughput sequencing methods. Next generation deep sequencing technologies applied to complementary DNA (cDNA) have the potential to identify and differentiate all mRNA variants in a sample's transcriptome, while concurrently providing a direct quantitative measurement of their steady state levels. The research team will record, analyze, and compare mRNA transcriptomes directly from high throughput RNA sequencing (RNA-seq) data. This team will build a data-driven processing pipeline applicable to any mRNA transcriptome, requiring only a reference genome, and without dependence on a priori gene structure annotations. Identification and analysis of both known and uncharacterized splicing patterns through the unbiased assessment of splice junction tags will be a major advance. This project will bridge the gap between biological science and the analytical/computational challenges faced with the massive datasets generated using RNA-seq protocols. The suite of bioinformatics tools that will be provided has the potential to turn individual laboratories into small genome centers and to allow individual scientists to assess the mRNA transcriptome in a matter of days using samples from any organisms with a reference genome (which are themselves becoming much easier to resequence using high throughput sequencing technologies applied to genomic DNA). The impact of these analytical resources, therefore, will be transformative as to how biologists and biomedical investigators are doing science every day. Additional information on the project is available at http://bioinfo.netlab.uky.edu/mapsplice.</AbstractNarration>
+<MinAmdLetterDate>08/04/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2009</MaxAmdLetterDate>
+<ARRAAmount>1027384</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0850237</AwardID>
+<Investigator>
+<FirstName>Jan</FirstName>
+<LastName>Prins</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jan F Prins</PI_FULL_NAME>
+<EmailAddress>prins@cs.unc.edu</EmailAddress>
+<NSF_ID>000174374</NSF_ID>
+<StartDate>08/04/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Arnold</FirstName>
+<LastName>Stromberg</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Arnold J Stromberg</PI_FULL_NAME>
+<EmailAddress>stromberg@uky.edu</EmailAddress>
+<NSF_ID>000292411</NSF_ID>
+<StartDate>08/04/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Arne</FirstName>
+<LastName>Bathke</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Arne C Bathke</PI_FULL_NAME>
+<EmailAddress>arne@uky.edu</EmailAddress>
+<NSF_ID>000344731</NSF_ID>
+<StartDate>08/04/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jinze</FirstName>
+<LastName>Liu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jinze Liu</PI_FULL_NAME>
+<EmailAddress>liuj@cs.uky.edu</EmailAddress>
+<NSF_ID>000240351</NSF_ID>
+<StartDate>08/04/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Macleod</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James N Macleod</PI_FULL_NAME>
+<EmailAddress>jnmacleod@uky.edu</EmailAddress>
+<NSF_ID>000510233</NSF_ID>
+<StartDate>08/04/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Kentucky Research Foundation</Name>
+<CityName>Lexington</CityName>
+<ZipCode>405260001</ZipCode>
+<PhoneNumber>8592579420</PhoneNumber>
+<StreetAddress>109 Kinkead Hall</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<StateCode>KY</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KY06</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>939017877</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF KENTUCKY RESEARCH FOUNDATION, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>119108470</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Kentucky Research Foundation]]></Name>
+<CityName>Lexington</CityName>
+<StateCode>KY</StateCode>
+<ZipCode>405260001</ZipCode>
+<StreetAddress><![CDATA[109 Kinkead Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KY06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7275</Code>
+<Text>Cross-BIO Activities</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1165</Code>
+<Text>ADVANCES IN BIO INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9184</Code>
+<Text>BIOTECHNOLOGY - INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~1027384</FUND_OBLG>
+</Award>
+</rootTag>

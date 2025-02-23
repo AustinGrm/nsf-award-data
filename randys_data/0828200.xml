@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Travel Grants for Graduate Students to American Physical Society]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>7000.00</AwardTotalIntnAmount>
+<AwardAmount>7000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010200</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Joseph Reidy</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[PROPOSAL NUMBER: 0828200&lt;br/&gt;INSTITUTION: Duke University&lt;br/&gt;NSF PROGRAM: PHY ? ELEMENTARY PARTICLE ACCEL USER&lt;br/&gt;PRINCIPAL INVESTIGATOR: Goshaw, Alfred T.&lt;br/&gt;&lt;br/&gt;TITLE: Travel Grants for Graduate Students to American Physical Society&lt;br/&gt;&lt;br/&gt;This is a proposal for the support of the travel of students to the APS meeting being held on April 12-15, 2008 in St. Louis, Missouri. At the April 2008 APS meeting, students will be able to sample physics represented by the divisions of Astrophysics, Nuclear Physics, Particles and Fields, Physics of Beams, Plasma Physics, Computational Physics. In addition they will be able to partake in the activities in the Forums on Education, Physics and Society, International Affairs, the History of Physics and Graduate Student Affairs, as well as those of numerous topical groups. A Committee appointed by the APS Division of Particle and Fields Chair, Natalie Roe, will make the selection of the students receiving travel support. The DPF Secretary-Treasurer Alfred Goshaw will administer the grant through Duke University. It will provide support to students that would otherwise be unable to attend and participate in the stimulating atmosphere of an American Physical Society meeting.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>05/13/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/13/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0828200</AwardID>
+<Investigator>
+<FirstName>Alfred</FirstName>
+<LastName>Goshaw</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alfred T Goshaw</PI_FULL_NAME>
+<EmailAddress><![CDATA[goshaw@phy.duke.edu]]></EmailAddress>
+<NSF_ID>000333406</NSF_ID>
+<StartDate>05/13/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277054640</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W MAIN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TP7EK8DZV6N5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DUKE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277054640</ZipCode>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1221</Code>
+<Text>HEP-High Energy Physics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~7000</FUND_OBLG>
+</Award>
+</rootTag>

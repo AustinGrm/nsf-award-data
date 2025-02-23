@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CT-ER:   Exploring Physical Functions for Lightweight and Robust Cryptography]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>149797.00</AwardTotalIntnAmount>
+<AwardAmount>149797</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Xiaoyang Wang</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Low cost devices, e.g. RFIDs, smartcards, sensor nodes, etc.,  are becoming crucial for building the next generation pervasive and ubiquitous heterogeneous networks. Given the massive volume, the per-unit manufacturing cost will play a key role in the adoption of these technologies. These devices are constrained in their available computational power and footprint. Yet, their cryptographic units, which tend to be among the most demanding components in the device architecture, need to be hardened against physical tampering. The project is exploiting hardware anomalies for cryptographic ends. Even as chip manufacturing progresses and becomes more precise, one can always expect slight variations along the production line which can be used to distinguish one physical device from any other manufactured on the same production line. The team is developing models, processes and hardware primitives which contribute to the goal of exploiting these individual fingerprints so that they can be used to efficiently identify devices and enable secure, tamper-resilient communication. This initiative is providing low-cost, tamper-resilient cryptography from physical functions, and thereby plays an enabling role in the adoption of a wide array of products and applications to the benefit of the national economy and national security. The results of this project include new physically unclonable function (PUF) constructions with a particular emphasis on constructions which naturally permit reduction to computationally difficult problems, PUF-enabled cryptographic building blocks (such as secure and efficient storage, tamper-resilient state machines, etc.) and PUF-enabled cryptographic primitives (e.g. authentication schemes, block ciphers, pseudo-random generators).&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/20/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/20/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0831416</AwardID>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Martin</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>William J Martin</PI_FULL_NAME>
+<EmailAddress><![CDATA[martin@wpi.edu]]></EmailAddress>
+<NSF_ID>000112623</NSF_ID>
+<StartDate>08/20/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Berk</FirstName>
+<LastName>Sunar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Berk Sunar</PI_FULL_NAME>
+<EmailAddress><![CDATA[sunar@wpi.edu]]></EmailAddress>
+<NSF_ID>000434676</NSF_ID>
+<StartDate>08/20/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Worcester Polytechnic Institute</Name>
+<CityName>WORCESTER</CityName>
+<ZipCode>016092247</ZipCode>
+<PhoneNumber>5088315000</PhoneNumber>
+<StreetAddress>100 INSTITUTE RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HJNQME41NBU4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WORCESTER POLYTECHNIC INSTITUTE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Worcester Polytechnic Institute]]></Name>
+<CityName>WORCESTER</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>016092247</ZipCode>
+<StreetAddress><![CDATA[100 INSTITUTE RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7371</Code>
+<Text>CYBER TRUST</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~149797</FUND_OBLG>
+</Award>
+</rootTag>

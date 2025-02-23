@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research:   CCF-TF:   Computing Geometric Structures of 3-Manifolds]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>133740.00</AwardTotalIntnAmount>
+<AwardAmount>133740</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dmitri Maslov</SignBlockName>
+<PO_EMAI>dmaslov@nsf.gov</PO_EMAI>
+<PO_PHON>7032928910</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[0830550&lt;br/&gt;Gu, Xianfeng&lt;br/&gt;&lt;br/&gt;With the solution of Poincar´e's conjecture and Thurston's geometrization conjecture, it has been proven in theory that all closed 3-manifolds can be decomposed to  pieces which admit one of eight canonical geometries. Geometric structures of 3-manifolds play fundamental roles in geometry and topology. The proposal focuses on inventing practical algorithms to compute geometric structures of 3-manifolds. The geometric algorithms combine both numerical and symbolic methods to compute the canonical Riemannian metrics on discrete 3-manifolds. These algorithms will lay down the foundations to tackle many important and long lasting open problems in engineering fields.&lt;br/&gt;&lt;br/&gt;All shapes in real life are volumetric. The computational algorithms on shapes are based on geometric structures of 3-manifolds, either explicitly or implicitly. It is important to understand various geometric structures on 3-manifolds and to design rigorous computational framework to approximate them. The proposal focuses on computing canonical Riemannian metrics on 3-manifold using triangulations, angle structures and the volume functional. In discrete setting, Riemannian metrics are represented as edge lengths, the curvatures are represented as dihedral angles. The symmetry of volumes of tetrahedra induces special volumetric energy form. The critical points of the volume energies correspond to the desired canonical metrics. For hyperbolic  3-manifolds, the volume energy is convex. The global minimal point is unique and reachable using Newton's method. In general 3-manifolds, the volumetric energy is more complicted, there may exist topological obstructions. The proposal studies the formation of the obstructions, and designs different strategies to modify the triangulation to remove the obstruction and reach the canonical metric solutions.  The geometric structure of 3-manifolds can be directly applied in comuter graphics, computer vision, geometric modeling and medical imaging and many other fields. The practical computational tool will be helpful for mathematicians and physists in studying low dimensional topology. The visualization tools will be valuable for teaching and propogating the knowledge.&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/24/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0830572</AwardID>
+<Investigator>
+<FirstName>Feng</FirstName>
+<LastName>Luo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Feng Luo</PI_FULL_NAME>
+<EmailAddress><![CDATA[fluo@math.rutgers.edu]]></EmailAddress>
+<NSF_ID>000463777</NSF_ID>
+<StartDate>07/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rutgers University New Brunswick</Name>
+<CityName>NEW BRUNSWICK</CityName>
+<ZipCode>089018559</ZipCode>
+<PhoneNumber>8489320150</PhoneNumber>
+<StreetAddress>3 RUTGERS PLZA</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M1LVPE5GLSD9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M1LVPE5GLSD9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rutgers University New Brunswick]]></Name>
+<CityName>NEW BRUNSWICK</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>089018559</ZipCode>
+<StreetAddress><![CDATA[3 RUTGERS PLZA]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>2865</Code>
+<Text>NUMERIC, SYMBOLIC &amp; GEO COMPUT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~133740</FUND_OBLG>
+</Award>
+</rootTag>

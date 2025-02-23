@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Site-isolation of catalysts within "smart" thimbles for cascade reactions and recycling]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>390000.00</AwardTotalIntnAmount>
+<AwardAmount>390000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090003</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tingyu Li</SignBlockName>
+<PO_EMAI>tli@nsf.gov</PO_EMAI>
+<PO_PHON>7032924949</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;This project will develop methods to site-isolate commercially available Pd, Mn, Cr, and Co catalysts using polymeric thimbles.  The structures of the catalysts will not be altered; the method of site-isolation will be compatible with catalysts that have been optimized for their reactions rather than optimized for site-isolation.  These catalysts will be recycled and used in sequential reactions with more than one catalyst present in a reaction vessel.  Multiple catalysts will be added to a reaction vessel because they will be site-isolated from each other, but organic molecules will be free to react with multiple catalysts.  The mechanism of site-isolation will also be investigated.&lt;br/&gt;&lt;br/&gt;With this award, the Organic and Macromolecular Chemistry Program is supporting the research of Professor Ned B. Bowden of the Department of Chemistry at the University of Iowa. Professor Bowden's research effort centers on the development of general methods to site-isolate catalysts without altering their structures.  This work will allow catalysts to be recycled, products to be isolated with very low loadings of hazardous metal contaminants, and new sequential reactions to be developed.  This work will have an important impact on pharmaceutical, agricultural, and other industries that use metal catalysts to yield small molecules.]]></AbstractNarration>
+<MinAmdLetterDate>07/07/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/07/2009</MaxAmdLetterDate>
+<ARRAAmount>390000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0848162</AwardID>
+<Investigator>
+<FirstName>Ned</FirstName>
+<LastName>Bowden</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ned B Bowden</PI_FULL_NAME>
+<EmailAddress><![CDATA[ned-bowden@uiowa.edu]]></EmailAddress>
+<NSF_ID>000339560</NSF_ID>
+<StartDate>07/07/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Iowa</Name>
+<CityName>IOWA CITY</CityName>
+<ZipCode>522421316</ZipCode>
+<PhoneNumber>3193352123</PhoneNumber>
+<StreetAddress>105 JESSUP HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Z1H9VJS8NG16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF IOWA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Iowa]]></Name>
+<CityName>IOWA CITY</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>522421316</ZipCode>
+<StreetAddress><![CDATA[105 JESSUP HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1948</Code>
+<Text>SYNTHESIS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1401</Code>
+<Text>CATALYSIS AND BIOCATALYSIS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9223</Code>
+<Text>ENVIRON BENIGN CHEMICAL SYNTH &amp; PROCESS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~390000</FUND_OBLG>
+</Award>
+</rootTag>

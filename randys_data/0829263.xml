@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SGER: Developing a Catalytic Aldehyde Olefination Reaction</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tingyu Li</SignBlockName>
+<PO_EMAI>tli@nsf.gov</PO_EMAI>
+<PO_PHON>7032924949</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This SGER project will explore the substrate scopes of the newly discovered catalytic, highly stereoselective aldehyde olefination reaction.  While transforming an aldehyde carbonyl group into a C-C double bond is a ubiquitous organic reaction, the development of a catalytic aldehyde olefination reaction without employing either Ph3P or Bu3As is significantly lacking.  Without employing the phosphine-based and/or phosphonate-based reagents, the new catalytic aldehyde olefination reaction holds great promises to become an environmentally more friendly reaction.  Studies to further expand the substrate scopes of the catalytic aldehyde olefination reaction will be undertaken.  Design and screening of additional ligands with different metals will be carried out to identify new, and potentially more active catalysts.  &lt;br/&gt;&lt;br/&gt;With this award, the Organic and Macromolecular Chemistry Program is supporting the research of Professor Yun-Ming Lin of the Department of Chemistry at the University of Toledo.  Professor Yun-Ming Lin 's research efforts focus on the development of new catalytic methods for constructing C-C and carbon-heteroatom bonds.  Such chemistry will contribute to environmentally benign methods for chemical synthesis because less chemical wastes will be produced.  Successful development of the catalytic methods will have a positive impact on synthesis in the pharmaceutical and agricultural industries.</AbstractNarration>
+<MinAmdLetterDate>08/04/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/27/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0829263</AwardID>
+<Investigator>
+<FirstName>Yun-Ming</FirstName>
+<LastName>Lin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yun-Ming Lin</PI_FULL_NAME>
+<EmailAddress>yun-ming.lin@utoledo.edu</EmailAddress>
+<NSF_ID>000176347</NSF_ID>
+<StartDate>08/04/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Toledo</Name>
+<CityName>TOLEDO</CityName>
+<ZipCode>436063390</ZipCode>
+<PhoneNumber>4195302844</PhoneNumber>
+<StreetAddress>2801 W Bancroft St., MS 218</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH09</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>051623734</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TOLEDO, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>051623734</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Toledo]]></Name>
+<CityName>TOLEDO</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>436063390</ZipCode>
+<StreetAddress><![CDATA[2801 W Bancroft St., MS 218]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1948</Code>
+<Text>SYNTHESIS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9237</Code>
+<Text>SMALL GRANTS-EXPLORATORY RSRCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2008~100000</FUND_OBLG>
+</Award>
+</rootTag>

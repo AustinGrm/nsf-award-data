@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI:  Acquisition of a 600MHz NMR</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>700000.00</AwardTotalIntnAmount>
+<AwardAmount>700000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos Murillo</SignBlockName>
+<PO_EMAI>cmurillo@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With this award from the Major Research Instrumentation program (MRI), Pamela Seaton from the University of North Carolina at Wilmington will acquire a 600 MHz NMR spectrometer for research and teaching in the Department of Chemistry and Biochemistry.  The proposed instrument will enable research on intermolecular interactions in solution, structure of mutant peptides in lipid micelles or vesicles, synthesis of phosphono-modified proteins for investigating bacterial signal transduction in chemotaxis, binding of DNA methylating agents to DNA, development of catalytic enantioselective reactions, analysis of ATP turnover rates using 31P-NMR to monitor changes in high-energy phosphate molecules, and structural characterization traces of complex marine natural products and their binding with its cellular targets.&lt;br/&gt;&lt;br/&gt;Nuclear Magnetic Resonance spectroscopy is one of the most powerful tools available to chemists for the elucidation of the structure of molecules. It is used to identify unknown substances, to characterize specific arrangements of atoms within molecules, and to study the dynamics of interactions between molecules in solution. Access to state-of-the-art NMR spectrometers is essential to chemists who are carrying out frontier research. The results from these NMR studies will have an impact in synthetic organic/inorganic chemistry and biochemistry.</AbstractNarration>
+<MinAmdLetterDate>07/11/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0821552</AwardID>
+<Investigator>
+<FirstName>Pamela</FirstName>
+<LastName>Seaton</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Pamela J Seaton</PI_FULL_NAME>
+<EmailAddress>seatonp@uncw.edu</EmailAddress>
+<NSF_ID>000433330</NSF_ID>
+<StartDate>07/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina at Wilmington</Name>
+<CityName>Wilmington</CityName>
+<ZipCode>284033201</ZipCode>
+<PhoneNumber>9109623167</PhoneNumber>
+<StreetAddress>601 South College Road</StreetAddress>
+<StreetAddress2><![CDATA[Office of Sponsored Programs]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC07</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>040036584</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NORTH CAROLINA AT WILMINGTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>142363428</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of North Carolina at Wilmington]]></Name>
+<CityName>Wilmington</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>284033201</ZipCode>
+<StreetAddress><![CDATA[601 South College Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~700000</FUND_OBLG>
+</Award>
+</rootTag>

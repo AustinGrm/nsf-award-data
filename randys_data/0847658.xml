@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER Towards a GZK Neutrino Detector at the South Pole]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>499900.00</AwardTotalIntnAmount>
+<AwardAmount>499900</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jonathan Whitmore</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;Nearly one hundred years after the discovery of cosmic rays, neutrino telescopes are becoming an integral part of a multi-messenger approach to discovering their still elusive origins. Neutrinos are unique astronomical messengers which may provide critical information in identifying sources of cosmic rays and the physics processes out of which they are born. Neutrinos retain their directional information through magnetic fields and point back to their source. They can travel long distances from their sources without significant attenuation. The observation of neutrinos from an astrophysical source would be unambiguous evidence for hadronic acceleration, since cosmic proton accelerators are expected to produce cosmic rays, gamma rays and neutrinos with similar luminosities. Recent data from HiRES and AUGER seem to support the existence of the "GZK cutoff", the modification of the cosmic ray spectrum due to the photoproduction effect and hence one expects a flux of ultra-high energy neutrinos from the charged pion decays.&lt;br/&gt;&lt;br/&gt;Because of the low flux at extremely high energies, novel techniques must be employed to build a cost effective array large enough to gain a statistically meaningful number of events at GZK energies. One such technique uses the Askaryan effect where the Cerenkov radiation in the radio frequencies (RF) is used to measure the energy and direction of the showers that result from the neutrino interactions. This award provides funds to continue research and development towards a detector to sense the RF emission from neutrino induced showers in RF transparent media such as ice.  Such an RF sensor at the South Pole would significantly extend the flux sensitivity of the IceCube array. &lt;br/&gt;&lt;br/&gt;The Broader Impacts of this project include involvement in public outreach, working to expand U. Maryland's QuarkNet program to a larger audience and visiting local high schools to talk to students and teachers about research and experiences as a scientist.]]></AbstractNarration>
+<MinAmdLetterDate>07/31/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/19/2014</MaxAmdLetterDate>
+<ARRAAmount>499900</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0847658</AwardID>
+<Investigator>
+<FirstName>Kara</FirstName>
+<LastName>Hoffman</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kara D Hoffman</PI_FULL_NAME>
+<EmailAddress><![CDATA[kara@icecube.umd.edu]]></EmailAddress>
+<NSF_ID>000344558</NSF_ID>
+<StartDate>07/31/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland, College Park</Name>
+<CityName>College Park</CityName>
+<ZipCode>207420001</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 REGENTS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPU8ULVAAS23</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND, COLLEGE PARK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KMGEN62NKEM9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland, College Park]]></Name>
+<CityName>College Park</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>207420001</ZipCode>
+<StreetAddress><![CDATA[3112 LEE BLDG 7809 REGENTS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1643</Code>
+<Text>Particle Astrophysics/Cosmic P</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5115</Code>
+<Text>ANT Astrophys &amp; Geospace Sci</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1187</Code>
+<Text>PECASE- eligible</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7483</Code>
+<Text>PHYSICS OF THE UNIVERSE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~499900</FUND_OBLG>
+</Award>
+</rootTag>

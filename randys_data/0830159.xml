@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SGER: Undergraduate Research and Innovation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>30000.00</AwardTotalIntnAmount>
+<AwardAmount>30000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090007</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Charles Pibel</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This pilot program will provide undergraduate students with unique research opportunities by combining the mentorship of a research university faculty and an enthusiastic group of scientists recently retired from the chemical or pharmaceutical industry. &lt;br/&gt;&lt;br/&gt;Students recruited both nationally and from Lehigh University will be engaged in all aspects of research aimed at the discovery and communication of new scientific knowledge. The summer experience will provide these students not only practical experience and the possibility of publishable results, but also the insights of both academic and industrial mentors.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/16/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/16/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0830159</AwardID>
+<Investigator>
+<FirstName>Gregory</FirstName>
+<LastName>Ferguson</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gregory S Ferguson</PI_FULL_NAME>
+<EmailAddress><![CDATA[gf03@lehigh.edu]]></EmailAddress>
+<NSF_ID>000242121</NSF_ID>
+<StartDate>07/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tianbo</FirstName>
+<LastName>Liu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tianbo Liu</PI_FULL_NAME>
+<EmailAddress><![CDATA[tliu@uakron.edu]]></EmailAddress>
+<NSF_ID>000187284</NSF_ID>
+<StartDate>07/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Lehigh University</Name>
+<CityName>BETHLEHEM</CityName>
+<ZipCode>180153008</ZipCode>
+<PhoneNumber>6107583021</PhoneNumber>
+<StreetAddress>526 BRODHEAD AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E13MDBKHLDB5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>LEHIGH UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Lehigh University]]></Name>
+<CityName>BETHLEHEM</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>180153008</ZipCode>
+<StreetAddress><![CDATA[526 BRODHEAD AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1978</Code>
+<Text>PROJECTS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9110</Code>
+<Text>INDUSTRY/UNIV COOP RESEAR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9237</Code>
+<Text>SMALL GRANTS-EXPLORATORY RSRCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~30000</FUND_OBLG>
+</Award>
+</rootTag>

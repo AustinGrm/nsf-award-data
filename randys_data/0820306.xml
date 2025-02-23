@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI:  Acquisition of a Spectral Analysis System to Measure Leaf Optical Properties]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>17535.00</AwardTotalIntnAmount>
+<AwardAmount>17535</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John Yellen</SignBlockName>
+<PO_EMAI>jyellen@nsf.gov</PO_EMAI>
+<PO_PHON>7032928759</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award provides funds for Dr. Curtis Holder of the University of Colorado at Colorado Springs to purchase a UniSpec-SC Spectral Analysis System with integrating sphere to permit examination of the relationship between leaf optical properties and leaf water repellency. The goal is to determine if leaves of species with high water repellency differ in reflectance, transmittance and absorption of incident light from those species with low water repellency. Because leaf water repellency is largely determined by leaf structure and leaf surface properties, leaf optical properties may be a useful method to detect adaptations to leaf water repellency in ecosystems. Dr. Curits will examine the relationships between leaf water repellency, leaf optical properties and leaf characteristics of 37 species within three distinct ecosystems: tropical montaine cloud forest in Guatemala, tropical dry forest in Guatemala and prairie-foothills ecotone in the USA. This study which will be enabled by this instrumentation is significant because it will permit the development of more meaningful models of ecological and forest hydrology processes which incorporate and are revealed through leaf surface variables. Knowledge of ecological and hydrological processes within cloud forests, tropical dry forests and grassland-confier ecotones can be used to guide environmental policy on the management of ecosystems. &lt;br/&gt;&lt;br/&gt;Students will be actively engaged in the research activities and thus learn field methods and receive experience that will build confidence and encourage the pursuit of scientific careers. Modules using the requested instrument will be developed for classroom experiments that develop inquire-based learning through hypothesis testing.]]></AbstractNarration>
+<MinAmdLetterDate>08/22/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/22/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0820306</AwardID>
+<Investigator>
+<FirstName>Curtis</FirstName>
+<LastName>Holder</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Curtis D Holder</PI_FULL_NAME>
+<EmailAddress><![CDATA[cholder@uccs.edu]]></EmailAddress>
+<NSF_ID>000291825</NSF_ID>
+<StartDate>08/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Colorado Springs</Name>
+<CityName>COLORADO SPRINGS</CityName>
+<ZipCode>80918</ZipCode>
+<PhoneNumber>7192553153</PhoneNumber>
+<StreetAddress>1420 AUSTIN BLUFFS PARKWAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RH87YDXC1AY5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF COLORADO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Colorado at Colorado Springs]]></Name>
+<CityName>COLORADO SPRINGS</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>80918</ZipCode>
+<StreetAddress><![CDATA[1420 AUSTIN BLUFFS PARKWAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~17535</FUND_OBLG>
+</Award>
+</rootTag>

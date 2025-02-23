@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SGER: Development of Thin Film Encapsulation Layers For Organic Electronics</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>155416</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mary Toney</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Grant for Exploratory Research (SGER) proposal aims to elucidate the impact of processing parameters on the performance of thin-film encapsulation layers used in organic electronics, leading to new architectures with improved performance.  These films act as permeation barriers to prevent the exposure of organic electronics to atmospheric water vapor and oxygen which are detrimental to their performance.  Vacuum deposition of thin-film barriers will be performed using plasma enhanced chemical vapor deposition (PECVD), atomic layer deposition (ALD), and combinations of the two techniques.   Recent results have shown that unique combinations of ALD and PECVD processing may yield ultrahigh barrier films with submicron thickness and improved processing speeds.  In this work, we will explore the impact of processing temperature, plasma power and frequency, and cycle times on the deposition of these thin film encapsulation layers. By varying these parameters, it will be possible to control both barrier and mechanical properties of the encapsulation films.  Diffusion coefficients of the films will be determined using quartz crystal microbalance testing while water vapor transmission rates through the films will be determined using Ca corrosion testing.  Mechanical properties will be investigated using flexure testing, nanoindentation, and atomic force microscopy.  Microstructural analysis will be performed using high resolution SEM and FIB microscopy.&lt;br/&gt;&lt;br/&gt;If successful, this exploratory grant will yield a new architecture for encapsulating organic electronics which is thinner and more mechanically robust than state of the art encapsulation films.  An understanding of the role of processing parameters on thin film properties will provide a framework for optimizing the encapsulation films of other compositions.  Moreover, the combined PECVD/ALD method will be tuned to provide ultrahigh barrier performance with improvements in deposition rates which is necessary for future implementation in mass manufacturing of flexible organic electronics.</AbstractNarration>
+<MinAmdLetterDate>07/14/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>10/16/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0835484</AwardID>
+<Investigator>
+<FirstName>Ting</FirstName>
+<LastName>Zhu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ting Zhu</PI_FULL_NAME>
+<EmailAddress>ting.zhu@me.gatech.edu</EmailAddress>
+<PI_PHON>4048946597</PI_PHON>
+<NSF_ID>000105741</NSF_ID>
+<StartDate>07/14/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Samuel</FirstName>
+<LastName>Graham</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME>Jr.</PI_SUFX_NAME>
+<PI_FULL_NAME>Samuel Graham</PI_FULL_NAME>
+<EmailAddress>samuelg@umd.edu</EmailAddress>
+<PI_PHON>3014053868</PI_PHON>
+<NSF_ID>000257617</NSF_ID>
+<StartDate>07/14/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 NORTH AVE NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1467</Code>
+<Text>MATERIALS PROCESSING AND MANFG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>080E</Code>
+<Text>DEFORMATION PROCESSES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>083E</Code>
+<Text>MATERIAL TRANSFORMATION PROC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>115E</Code>
+<Text>RESEARCH EXP FOR TEACHERS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7218</Code>
+<Text>RET SUPP-Res Exp for Tchr Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9237</Code>
+<Text>SMALL GRANTS-EXPLORATORY RSRCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0110</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001011DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~145416</FUND_OBLG>
+<FUND_OBLG>2010~10000</FUND_OBLG>
+</Award>
+</rootTag>

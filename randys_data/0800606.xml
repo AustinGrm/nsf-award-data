@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Lamina Emergent Mechanisms]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>270060.00</AwardTotalIntnAmount>
+<AwardAmount>282060</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Collopy</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Lamina Emergent Mechanisms&lt;br/&gt;Howell and Magleby&lt;br/&gt;&lt;br/&gt;Abstract&lt;br/&gt;&lt;br/&gt;The research objective of this award is to develop methods for modeling and design of lamina emergent mechanisms (LEMs). These special types of compliant mechanisms are fabricated from planar materials (lamina) but are able to produce motion that emerges out of the fabrication plane. The research will result in methods which are general enough to apply across multiple size regimes and that can be exploited in diverse applications. The research approach progresses from the development of simple components and basic mechanisms, to the creation of devices capable of complex motions and sophisticated tasks. LEM components and basic mechanisms will be designed, fabricated, and tested to validate the models, identify weaknesses, and demonstrate results. Deliverables include a catalog of fundamental components and basic mechanisms, modeling and analysis tools, demonstration and validation via hardware, documentation of research results, engineering student education, and engineering research experiences for pre-service teachers.&lt;br/&gt;&lt;br/&gt;If successful, the results of this research will provide an opportunity to create compact, cost-effective devices that are capable of accomplishing sophisticated mechanical tasks. Example applications include orthopedic implants that have specified motion characteristics but are small during insertion, and microelectromechanical systems with precise out-of-plane motion. Devices made possible by the research will offer the advantages of planar fabrication, a flat initial state, and monolithic composition. The results will be widely disseminated to allow the creation of commercial devices that have increased precision, reduced cost, reduced weight, and improved recyclability. Graduate and undergraduate engineering students and pre-service teachers will be involved in the research. Students studying to be 6-12 technology and pre-engineering teachers will also be engaged to provide them firsthand research experience that they can draw on throughout their teaching careers.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>02/19/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>10/29/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0800606</AwardID>
+<Investigator>
+<FirstName>Larry</FirstName>
+<LastName>Howell</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Larry L Howell</PI_FULL_NAME>
+<EmailAddress><![CDATA[lhowell@byu.edu]]></EmailAddress>
+<NSF_ID>000423514</NSF_ID>
+<StartDate>02/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Spencer</FirstName>
+<LastName>Magleby</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Spencer P Magleby</PI_FULL_NAME>
+<EmailAddress><![CDATA[magleby@byu.edu]]></EmailAddress>
+<NSF_ID>000413010</NSF_ID>
+<StartDate>02/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Brigham Young University</Name>
+<CityName>PROVO</CityName>
+<ZipCode>846021128</ZipCode>
+<PhoneNumber>8014223360</PhoneNumber>
+<StreetAddress>A-153 ASB</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JWSYC7RUMJD1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BRIGHAM YOUNG UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Brigham Young University]]></Name>
+<CityName>PROVO</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>846021128</ZipCode>
+<StreetAddress><![CDATA[A-153 ASB]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1464</Code>
+<Text>ESD-Eng &amp; Systems Design</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>067E</Code>
+<Text>DESIGN TOOLS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>068E</Code>
+<Text>DESIGN THEORY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9148</Code>
+<Text>TOOLS &amp; TECHNOL FOR MANUFACTURING DESIGN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~270060</FUND_OBLG>
+<FUND_OBLG>2009~12000</FUND_OBLG>
+</Award>
+</rootTag>

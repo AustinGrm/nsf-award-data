@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[A Novel Containerless Melting and Casting Process for Structural Cast Magnesium Alloys]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>359010.00</AwardTotalIntnAmount>
+<AwardAmount>359010</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mary Toney</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The research objective of this award is to develop a novel technology for producing high quality magnesium castings.  The work involves advanced computational and experimental methods that will result in the development of a new electromagnetic casting process and of a process model that is general enough to apply to several conventional electromagnetic casting and solidification processes.  The research approach will progress from the development of a comprehensive mathematical model of the melting operation to understanding of the influences of casting variables on the microstructures and mechanical properties of cast magnesium alloys.  Deliverables include a modeling and analysis tools, development of a processing-microstructure-properties database, documentation and dissemination of research results, engineering student education, and engineering research experiences for undergraduates.&lt;br/&gt;&lt;br/&gt;If successful, the results of this research will provide a series of computational tools that can be used to optimize electromagnetic melting and casting of metals.  This research will also yield a means to produce castings with high purities, low defect contents, and unique microstructures. Examples include light weight magnesium alloys which are highly reactive and difficult to produce. The computational tools developed in this research will be broadly applicable to other electromagnetic melting and casting techniques such as skull induction melting and electromagnetic casting. The results will be disseminated to allow the creation of commercial devices that have increased precision, reduced cost, reduced weight, and improved recyclability. Graduate and undergraduate engineering students will benefit through classroom instruction and involvement in the research. Undergraduate students from the University of Alabama and historically black colleges and universities will be engaged to provide them firsthand research experience.]]></AbstractNarration>
+<MinAmdLetterDate>05/12/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>05/12/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0856320</AwardID>
+<Investigator>
+<FirstName>Nagy</FirstName>
+<LastName>El-Kaddah</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nagy El-Kaddah</PI_FULL_NAME>
+<EmailAddress><![CDATA[nelkaddah@coe.eng.ua.edu]]></EmailAddress>
+<NSF_ID>000102541</NSF_ID>
+<StartDate>05/12/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Weaver</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark Weaver</PI_FULL_NAME>
+<EmailAddress><![CDATA[mweaver@eng.ua.edu]]></EmailAddress>
+<NSF_ID>000432774</NSF_ID>
+<StartDate>05/12/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Alabama Tuscaloosa</Name>
+<CityName>TUSCALOOSA</CityName>
+<ZipCode>354870001</ZipCode>
+<PhoneNumber>2053485152</PhoneNumber>
+<StreetAddress>301 ROSE ADMIN BLDG</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AL07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RCNJEHZ83EV6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ALABAMA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>TWJWHYEM8T63</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Alabama Tuscaloosa]]></Name>
+<CityName>TUSCALOOSA</CityName>
+<StateCode>AL</StateCode>
+<ZipCode>354870001</ZipCode>
+<StreetAddress><![CDATA[301 ROSE ADMIN BLDG]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1467</Code>
+<Text>MATERIALS PROCESSING AND MANFG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>083E</Code>
+<Text>MATERIAL TRANSFORMATION PROC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9147</Code>
+<Text>GENERIC TECHNOL FOR MANUFACTURING CELLS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~359010</FUND_OBLG>
+</Award>
+</rootTag>

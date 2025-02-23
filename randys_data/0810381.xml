@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[2008 Plant and Fungal Cytoskeleton Gordon Research Conference to be held August 3-8, 2008 at Ciocco in Barga, Italy]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>5000.00</AwardTotalIntnAmount>
+<AwardAmount>5000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070600</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Rodewald</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award will provide support for a Gordon Research Conference on the Plant and Fungal Cytoskeleton to be held August 3-8, 20008 at Il Ciocco in Barga, Italy. This is a biennial meeting that brings together researchers from across the globe who study the cytoskeleton in plants, algae, and fungi. This meeting has been and will continue to be a driving force in the study of microtubules and actin in these organisms. They both share similarities and differences that have helped to promote research in both sets of organisms. There will be ten platform sessions, two keynote addresses, and a daily poster session. Nine to ten talks will be chosen from the abstracts to allow younger researchers and new breaking information to be presented.&lt;br/&gt;&lt;br/&gt;Broader Impacts:&lt;br/&gt;The conference promotes participation by all members of the research community. Graduate students, postdoctoral fellows, and assistant professors are encouraged to present their work during platform and poster sessions. Women and minorities are encouraged to give talks and presentations. The conference will provide excellent opportunities for researchers to experience personal contacts with other workers from the geographically diverse plant and fungal communities thatincludes persons from North America, Europe, and Asia. With the addition of talks relating to parasites, it is hoped to attract attendees from Africa and Australia as well.]]></AbstractNarration>
+<MinAmdLetterDate>07/10/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0810381</AwardID>
+<Investigator>
+<FirstName>Susan</FirstName>
+<LastName>Dutcher</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Susan K Dutcher</PI_FULL_NAME>
+<EmailAddress><![CDATA[dutcher@genetics.wustl.edu]]></EmailAddress>
+<NSF_ID>000415811</NSF_ID>
+<StartDate>07/10/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nancy</FirstName>
+<LastName>Gray</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nancy R Gray</PI_FULL_NAME>
+<EmailAddress><![CDATA[nsf@grc.org]]></EmailAddress>
+<NSF_ID>000206836</NSF_ID>
+<StartDate>07/10/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Gordon Research Conferences</Name>
+<CityName>EAST GREENWICH</CityName>
+<ZipCode>028183454</ZipCode>
+<PhoneNumber>4017834011</PhoneNumber>
+<StreetAddress>5586 POST RD</StreetAddress>
+<StreetAddress2><![CDATA[UNIT 2]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>RI02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>XL5ANMKWN557</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GORDON RESEARCH CONFERENCES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Gordon Research Conferences]]></Name>
+<CityName>EAST GREENWICH</CityName>
+<StateCode>RI</StateCode>
+<ZipCode>028183454</ZipCode>
+<StreetAddress><![CDATA[5586 POST RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>RI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1114</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1132</Code>
+<Text>CELLULAR ORGANIZATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~5000</FUND_OBLG>
+</Award>
+</rootTag>

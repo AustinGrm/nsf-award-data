@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Applying Ice Cores, Instrumental Climate Records and Climate Modeling Towards a Mechanistic Understanding of Antarctic Climate Variability on Interannual to Multidecadal Time Scale]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>495539.00</AwardTotalIntnAmount>
+<AwardAmount>495539</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090300</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OPP</Abbreviation>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Milne</SignBlockName>
+<PO_EMAI>pmilne@nsf.gov</PO_EMAI>
+<PO_PHON>7032924714</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Abstract&lt;br/&gt;&lt;br/&gt;Researchers at NCAR aim to address Antarctic climate variability on interannual, multidecadal and longer timescales over the past ~250 years as a means to better understand the underlying physical mechanisms controlling climate change in the southern polar region. A range of observational, modeling and proxy (e.g. ice core) information will be combined and interpreted. &lt;br/&gt;Effort will be focused on the analysis and mechanistic interpretation of the interannual-to-multidecadal variability in the Antarctic ice core records over the past ~250 years. Analyses of observational ice core records will be used to define the leading patterns of variability and relate those to existing Antarctic temperature reconstructions and to tropical climate anomalies from various instrumental data sets. In particular, modeling experiments will be used to examine the relative roles of sea surface temperature forcing (tropical vs. extra-tropical) and direct atmospheric radiative forcing associated with changes in greenhouse gas and stratospheric ozone concentrations on Antarctic climate variability.&lt;br/&gt;&lt;br/&gt;The modeling component will use existing and modified atmospheric general circulation simulations driven with observational history from 1870 to the present. An augmentation of the most recent CCSM CAM (Community Climate System Model, Community Atmospheric Model) model explicitly incorporating a water isotope tracer scheme will be used to evaluate the isotope model performance, and to broaden current interpretation of ice core records.&lt;br/&gt;&lt;br/&gt;Participation in an ongoing and independently funded NCAR minority serving education effort (SOARS - Significant Opportunities in Atmospheric Research) is offered as a means of broadening participation in the atmospheric and related sciences.&lt;br/&gt;&lt;br/&gt;"This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5)."&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>05/26/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>05/26/2009</MaxAmdLetterDate>
+<ARRAAmount>495539</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0838871</AwardID>
+<Investigator>
+<FirstName>Clara</FirstName>
+<LastName>Deser</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Clara Deser</PI_FULL_NAME>
+<EmailAddress><![CDATA[cdeser@ucar.edu]]></EmailAddress>
+<NSF_ID>000573078</NSF_ID>
+<StartDate>05/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Schneider</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David Schneider</PI_FULL_NAME>
+<EmailAddress><![CDATA[David.Schneider-1@Colorado.edu]]></EmailAddress>
+<NSF_ID>000506441</NSF_ID>
+<StartDate>05/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yuko</FirstName>
+<LastName>Okumura</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yuko Okumura</PI_FULL_NAME>
+<EmailAddress><![CDATA[yukoo@ucar.edu]]></EmailAddress>
+<NSF_ID>000506466</NSF_ID>
+<StartDate>05/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University Corporation For Atmospheric Res</Name>
+<CityName>BOULDER</CityName>
+<ZipCode>803012252</ZipCode>
+<PhoneNumber>3034971000</PhoneNumber>
+<StreetAddress>3090 CENTER GREEN DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YEZEE8W5JKA3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY CORPORATION FOR ATMOSPHERIC RESEARCH</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YEZEE8W5JKA3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[National Center For Atmospheric Research]]></Name>
+<CityName>Boulder</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803073000</ZipCode>
+<StreetAddress><![CDATA[P.O. Box 3000]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0311000</Code>
+<Name>Polar Programs-Related</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5113</Code>
+<Text>ANT Ocean &amp; Atmos Sciences</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~495539</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Shock-induced reactive turbulent mixing at a density interface]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>240000.00</AwardTotalIntnAmount>
+<AwardAmount>240000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Horst Henning Winter</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[CBET - 0827285 &lt;br/&gt;Bonazza&lt;br/&gt;&lt;br/&gt;The mixing processes induced by a planar shock wave striking a chemically reactive spherical density discontinuity (a bubble filled with a gas different than the surrounding) will be studied experimentally and numerically. In particular, a bubble filled with a hydrogen-oxygen mixture diluted in an inert gas will be released in a neutral environment (e.g. nitrogen) and accelerated by a planar shock. Preliminary calculations have demonstrated that, by appropriate choice of the inert gas inside the bubble, the shock propagating through the bubble will raise the local temperature to values large enough to ignite the combustion of the H2-O2 mixture thus providing very accurate knowledge of the flow geometry and thermophysical conditions at the start of the chemical reaction. The progress of the chemical reaction will be monitored by non-intrusively measuring the local concentration of the hydroxyl radical, OH, by planar laser induced fluorescence. In parallel to the experiments, numerical simulations of the flow will be performed using the open source FLASH code developed at the University of Chicago FLASH center under DOE's Advanced Scientific Computing Initiative working in close collaboration with Prof. Fausto Cattaneo and his team. Molecular mixing will be studied in a geometry very different from the more commonly investigated ones (jets, shear layers, internal combustion engines). The experimental initial condition and time of ignition will be precisely characterized. The time evolution of the chemical reaction will be observed and simulated. Most importantly, understanding of the mixing due to shock diffraction and wave reverberation will be extended to include the effects of the chemical reaction.  In a broader sense, the relevance of these results reaches all the way into the field of astrophysics where shock-ignited combustion and deflagration to detonation transition are postulated to be the primary drivers in a certain class of supernova explosions. The program has also a significant impact on outreach and education by regularly involving undergraduate and high school students in our research. Minority undergraduate students from out of state universities have been hosted for 10 weeks through a program developed by the UW-Madison College of Engineering Diversity Affairs Office while high school students have been hosted for 8-week summer periods through a program organized by Madison's high schools.]]></AbstractNarration>
+<MinAmdLetterDate>08/22/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/22/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0827285</AwardID>
+<Investigator>
+<FirstName>Riccardo</FirstName>
+<LastName>Bonazza</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Riccardo Bonazza</PI_FULL_NAME>
+<EmailAddress><![CDATA[bonazza@engr.wisc.edu]]></EmailAddress>
+<NSF_ID>000453989</NSF_ID>
+<StartDate>08/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Anderson</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark H Anderson</PI_FULL_NAME>
+<EmailAddress><![CDATA[manderson@engr.wisc.edu]]></EmailAddress>
+<NSF_ID>000380903</NSF_ID>
+<StartDate>08/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jason</FirstName>
+<LastName>Oakley</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jason Oakley</PI_FULL_NAME>
+<EmailAddress><![CDATA[oakley@engr.wisc.edu]]></EmailAddress>
+<NSF_ID>000229469</NSF_ID>
+<StartDate>08/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Rothamer</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David A Rothamer</PI_FULL_NAME>
+<EmailAddress><![CDATA[rothamer@wisc.edu]]></EmailAddress>
+<NSF_ID>000500606</NSF_ID>
+<StartDate>08/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 N PARK ST STE 6301</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LCLSJAGTNZQ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QAFKGG7YY396</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>537151218</ZipCode>
+<StreetAddress><![CDATA[21 N PARK ST STE 6301]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1443</Code>
+<Text>FD-Fluid Dynamics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>057E</Code>
+<Text>Thermodynamics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~240000</FUND_OBLG>
+</Award>
+</rootTag>

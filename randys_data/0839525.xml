@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Oxidation Resistant Carbon Supports For Fuel Cells</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maria Josephine Yuen</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research Phase I project deals with improving the long-term durability of fuel cells. Polymer electrolyte membrane (PEM) fuel cells offer a potential environmentally friendly source of power but performance improvements are required before costs justify more widespread adoption of this technology. This project focuses on the improvement of long-term performance of platinum or other noble metal based catalysts for fuel cells. Loss of active platinum surface area during the course of operation is one of the major reasons for performance degradation. To counteract this loss of active metal area our approach provides a unique method to stabilize the catalyst via modification of the carbon support. New technology from ceramics, the electronics industry and catalysis are combined to develop new support materials which are much more resistant to degradation. Lessons learned in improving the resistance to catalyst deactivation are applicable to catalysts in this study and to any future fuel cell catalyst that uses carbon as a support.&lt;br/&gt;&lt;br/&gt;The broader impacts/commercial potential of this project is to improve the degradation resistance of PEM fuel cells. Fuel cells offer an opportunity to provide a clean source of energy, a world-wide concern. Performance improvements are required before the costs of fuel cells make them economically viable. The catalyst electrode is by far the major cost in a fuel cell stack, so improving its productivity is crucial. This project provides a method of preventing, or slowing, the loss of platinum surface area during fuel operation thus improving its long-term performance. This project complements the work reported by others in developing catalyst systems with higher initial activity. Both approaches are critical in providing economical fuel cells. In terms of overall costs, increasing the catalyst lifetime by two to four fold is equivalent to cutting the platinum costs by at least a factor of two to four. The technology developed in this project is not only applicable to any fuel cell system but to other industrial processes that use carbon catalysts. Carbon supported catalysts are used as commercially important oxidation catalysts. Development of materials more resistant to oxidation and sintering could provide additional benefits to these processes as well.</AbstractNarration>
+<MinAmdLetterDate>11/19/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839525</AwardID>
+<Investigator>
+<FirstName>Dennis</FirstName>
+<LastName>Hucul</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dennis Hucul</PI_FULL_NAME>
+<EmailAddress>Hucul@oxazogen.com</EmailAddress>
+<PI_PHON>9898325590</PI_PHON>
+<NSF_ID>000328402</NSF_ID>
+<StartDate>11/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Oxazogen, Inc.</Name>
+<CityName>Midland</CityName>
+<ZipCode>486402696</ZipCode>
+<PhoneNumber>9898325590</PhoneNumber>
+<StreetAddress>1910 W. St. Andrews Road</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_ORG/>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Oxazogen, Inc.]]></Name>
+<CityName>Midland</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>486402696</ZipCode>
+<StreetAddress><![CDATA[1910 W. St. Andrews Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_PERF/>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1401</Code>
+<Text>CATALYSIS AND BIOCATALYSIS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9163</Code>
+<Text>SINGLE DIVISION/UNIVERSITY - INDUSTRY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>AMPP</Code>
+<Text>ADVANCED MATERIALS &amp; PROCESSING PROGRAM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~100000</FUND_OBLG>
+</Award>
+</rootTag>

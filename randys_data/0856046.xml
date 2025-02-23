@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research:  I/URC Planning Grant - Center for Energy Harvesting Materials and Systems (CEHMS)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>10000.00</AwardTotalIntnAmount>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EEC</Abbreviation>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rathindra DasGupta</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Planning Grant for an I/UCRC for Energy Harvesting Materials and Systems &lt;br/&gt;&lt;br/&gt;0856032 Virginia Polytechnic Institute and State University; Daniel Inman &lt;br/&gt;0856046 Clemson University; Stephen Foulger &lt;br/&gt;0855891 University of Texas, Dallas; Bruce Gnade &lt;br/&gt;&lt;br/&gt;The proposal seeks a planning grant for a new multi-university Center for Energy Harvesting Materials and Systems to focus on recovery (harvesting) of unused energy from various sources such as radio and television towers, satellites and various portable electronics. Virginia Polytechnic Institute (VT), Clemson University (CU) and the University of Texas, Dallas (UTD) are collaborating to establish the proposed center, with VT as the lead institution. The research plan includes developing new products and designs in the following areas: Energy Harvesting for Vibration Measurement, PiezoCell and Panels for Harvesting Wind Energy, VLSI Circuit Design, Materials for "Self-Powered" Position and Speed Sensors and Electrical Energy Storage, Micro-Scale Thermal to Electric Energy Conversion, Magnetic to Electric Energy Conversion in Ocean Environments, On-Chip Energy Source Using Indium Nitride Quantum Dot Solar Cells, Piezoelectric Cantilevers Based Energy Harvesters, and Roll-to-Roll Printing of Organic Energy Harvesters. VT, CU and UTD plan to use the NSF planning grant fund to hold a meeting with prospective industrial partners, and to develop an initial research agenda for CEHMS of sufficient commercial interest that attendees will be willing to invest in and sustain the Center. &lt;br/&gt;&lt;br/&gt;The proposed Center has the potential to improve sustainability and profitability of US manufacturing firms by developing new technologies that will reduce energy consumption and harvest energy that is normally wasted. Industrial members will benefit from the research conducted at the Center in areas of materials synthesis, thin-film deposition, energy conversion devices, micro/nano electronics, electrochemical storage systems, sensor development, system design, integrated hybrid architectures, computational and theoretical modeling, and nano-scale fabrication techniques. Students and faculty members of CEHMS will gain valuable experience by interaction with industry partners.]]></AbstractNarration>
+<MinAmdLetterDate>01/28/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>01/28/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0856046</AwardID>
+<Investigator>
+<FirstName>Rhett</FirstName>
+<LastName>Smith</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rhett C Smith</PI_FULL_NAME>
+<EmailAddress><![CDATA[rhett@clemson.edu]]></EmailAddress>
+<NSF_ID>000213184</NSF_ID>
+<StartDate>01/28/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Foulger</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stephen Foulger</PI_FULL_NAME>
+<EmailAddress><![CDATA[foulger@clemson.edu]]></EmailAddress>
+<NSF_ID>000453709</NSF_ID>
+<StartDate>01/28/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dennis</FirstName>
+<LastName>Smith</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME>Jr.</PI_SUFX_NAME>
+<PI_FULL_NAME>Dennis W Smith</PI_FULL_NAME>
+<EmailAddress><![CDATA[dwsmith@utdallas.edu]]></EmailAddress>
+<NSF_ID>000395544</NSF_ID>
+<StartDate>01/28/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Clemson University Research Foundation</Name>
+<CityName>CLEMSON</CityName>
+<ZipCode>296312933</ZipCode>
+<PhoneNumber>8646562424</PhoneNumber>
+<StreetAddress>391 COLLEGE AVE STE 401</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SC03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YS48K5AZDKQ6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CLEMSON UNIVERSITY RESEARCH FOUNDATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Clemson University]]></Name>
+<CityName>CLEMSON</CityName>
+<StateCode>SC</StateCode>
+<ZipCode>296340001</ZipCode>
+<StreetAddress><![CDATA[201 SIKES HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SC03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0400000</Code>
+<Name>Industry University - Co-op</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5761</Code>
+<Text>IUCRC-Indust-Univ Coop Res Ctr</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1049</Code>
+<Text>INDUSTRY-UNIV COOPERATIVE RSCH PROJECTS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>127E</Code>
+<Text>CENTERS: ENERGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~10000</FUND_OBLG>
+</Award>
+</rootTag>

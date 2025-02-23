@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Stability and Material Properties of Nanowires for Reliable Design of Nanoelectronics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>505529.00</AwardTotalIntnAmount>
+<AwardAmount>505529</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Khershed Cooper</SignBlockName>
+<PO_EMAI>khcooper@nsf.gov</PO_EMAI>
+<PO_PHON>7032927017</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5). &lt;br/&gt;The research objective of this Faculty Early Career Development (CAREER) project is to invent new procedures for producing stable nanowires, thousands of times smaller than the diameter of a human hair. Stable nanowires would promote next-generation technologies to improve US healthcare, new industry creation, and global competitiveness. However, nanowires with the required electrical stability are not yet available. This research will improve the useful lifetime of existing nanowires from a few weeks or months to as much as ten years, so that they can be safely integrated into microscale or nanoscale electronic systems. The research plan therefore calls for (1) empirical and theoretical modeling of nanowire electrical properties and (2) testing a material design approach of fabricating composite nanoscale material systems.&lt;br/&gt;Nanowires are a crucial enabling technology for virtually all of the envisioned future applications of nanotechnology, whether primarily electrical, electro-mechanical, or even electrical and organic, in areas from healthcare to improved computers.  The university research is closely coordinated with the development of grade 6-12 instructional strategies, tools, and materials that promote the desired student developmental progression in nanoscale science. Recruiting and mentoring of underrepresented minority students, in which the Principal Investigator is actively involved, will result in broadening participation in engineering and science. All participants in this program, whether at secondary or university level, will become aware of the need for US technological innovation. University level students will also be trained to enter the workforce in various areas of nanoscale science and engineering.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/06/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/11/2014</MaxAmdLetterDate>
+<ARRAAmount>505529</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0846814</AwardID>
+<Investigator>
+<FirstName>Carmen</FirstName>
+<LastName>Lilley</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carmen M Lilley</PI_FULL_NAME>
+<EmailAddress><![CDATA[clilley@uic.edu]]></EmailAddress>
+<NSF_ID>000301091</NSF_ID>
+<StartDate>07/06/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Chicago</Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606124305</ZipCode>
+<PhoneNumber>3129962862</PhoneNumber>
+<StreetAddress>809 S MARSHFIELD AVE M/C 551</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>W8XEAJDKMXH3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606124305</ZipCode>
+<StreetAddress><![CDATA[809 S MARSHFIELD AVE M/C 551]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1788</Code>
+<Text>NANOMANUFACTURING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>084E</Code>
+<Text>NANOMANUFACTURING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1187</Code>
+<Text>PECASE- eligible</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~505529</FUND_OBLG>
+</Award>
+</rootTag>

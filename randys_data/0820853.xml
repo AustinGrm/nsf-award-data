@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Acquisition of Equipment to Establish a Paleomagnetic and Rock Magnetic Laboratory at New Mexico Highlands University</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>159328.00</AwardTotalIntnAmount>
+<AwardAmount>159328</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Russell Kelz</SignBlockName>
+<PO_EMAI>rkelz@nsf.gov</PO_EMAI>
+<PO_PHON>7032924747</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>0820853&lt;br/&gt;Petronis&lt;br/&gt;&lt;br/&gt;Funds from this Major Research Instrumentation (MRI) Program grant will support acquisition of equipment for paleomagnetic and rock magnetic research and research training at New Mexico Highlands University (NMHU).   NMHU is a non-Ph.D. granting, Hispanic serving institution.    Specific equipment to be acquired includes: 1) a spinner magnetometer; 2) alternating field demagnetizer; 3) fluxgate magnetometer; and 5) Kappabridge (for the measurement of anisotropy of magnetic susceptibility).  The equipment will support a broad range of interesting research including study of emplacement mechanisms of igneous intrusives and mid-crustal metamorphic processes.  These research directions demonstrate a need for analysis of rock magnetic fabrics.  The equipment will facilitate student experience with state-of-the-art analytical techniques in rock and mineral magnetism.  &lt;br/&gt;&lt;br/&gt;***&lt;br/&gt;&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>08/22/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/22/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0820853</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Petronis</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael S Petronis</PI_FULL_NAME>
+<EmailAddress>mspetro@nmhu.edu</EmailAddress>
+<NSF_ID>000274751</NSF_ID>
+<StartDate>08/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Lindline</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jennifer Lindline</PI_FULL_NAME>
+<EmailAddress>lindlinej@nmhu.edu</EmailAddress>
+<NSF_ID>000206425</NSF_ID>
+<StartDate>08/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New Mexico Highlands University</Name>
+<CityName>Las Vegas</CityName>
+<ZipCode>877019000</ZipCode>
+<PhoneNumber>5054543571</PhoneNumber>
+<StreetAddress>University Avenue</StreetAddress>
+<StreetAddress2><![CDATA[P. O. Box 9000]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NM03</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>047134101</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>NEW MEXICO HIGHLANDS UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>047134101</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New Mexico Highlands University]]></Name>
+<CityName>Las Vegas</CityName>
+<StateCode>NM</StateCode>
+<ZipCode>877019000</ZipCode>
+<StreetAddress><![CDATA[University Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NM03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2008~159328</FUND_OBLG>
+</Award>
+</rootTag>

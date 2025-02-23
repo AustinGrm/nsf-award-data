@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[2009 CSHL Conference on Eukaryotic DNA Replication, September 1 - 5, 2009]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>7000.00</AwardTotalIntnAmount>
+<AwardAmount>7000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070100</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karen Cone</SignBlockName>
+<PO_EMAI>kccone@nsf.gov</PO_EMAI>
+<PO_PHON>7032924967</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Intellectual merit&lt;br/&gt;The 12th biennial meeting on Eukaryotic DNA Replication and Genome Maintenance will be held September 1-5, 2009.  The meeting is the only regularly occurring meeting exclusively focused on eukaryotic DNA replication. This year, the conference will be devoted to fundamental research topics related to chromosome duplication, structure and function, and will place emphasis on the central role of DNA replication in the DNA damage and replication stress response and the strategies used by cells to minimize the threats to genomic integrity arising from DNA replication. The intellectual merits of this conference include the opportunity for leading investigators at all stages of their scientific careers to share and discuss their latest results and concepts. The informal peer review in oral and poster sessions is invaluable in providing rapid feedback that will fruitfully steer and accelerate future research. This conference also provides ample opportunity for learning and building collaborations--no parallel sessions are planned and so all attendees share a common experience, while the secluded venue maximizes the likelihood of productive scientific exchange. &lt;br/&gt;&lt;br/&gt;Broader impacts&lt;br/&gt;Unique aspects of this conference that have particularly broad impact are the active participation of younger scientists who will particularly benefit from the opportunity to present their latest ideas. The meeting also reaches out to seek participation by scientists from underrepresented groups. The conference archive allows participants to share aspects of the conference with their colleagues who were unable to attend the meeting while protecting the rights of the presenting authors to present unpublished research.]]></AbstractNarration>
+<MinAmdLetterDate>09/18/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>09/18/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0844627</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Stewart</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David J Stewart</PI_FULL_NAME>
+<EmailAddress><![CDATA[stewart@cshl.edu]]></EmailAddress>
+<NSF_ID>000148864</NSF_ID>
+<StartDate>09/18/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cold Spring Harbor Laboratory</Name>
+<CityName>COLD SPRING HARBOR</CityName>
+<ZipCode>117242209</ZipCode>
+<PhoneNumber>5163678307</PhoneNumber>
+<StreetAddress>1 BUNGTOWN RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GV31TMFLPY88</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>COLD SPRING HARBOR LABORATORY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>GV31TMFLPY88</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cold Spring Harbor Laboratory]]></Name>
+<CityName>COLD SPRING HARBOR</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>117242209</ZipCode>
+<StreetAddress><![CDATA[1 BUNGTOWN RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1112</Code>
+<Text>Genetic Mechanisms</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1116</Code>
+<Text>EUKARYOTIC GENETICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~7000</FUND_OBLG>
+</Award>
+</rootTag>

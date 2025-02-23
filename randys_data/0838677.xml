@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SGER: Research Integrating Molecular and Environmental Science (R.I.M.E.S.)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>149998.00</AwardTotalIntnAmount>
+<AwardAmount>149998</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06000001</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jill L. Karsten</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[With this award, the Massachusetts Bay Community College Research Integrating Molecular and Environmental Science (RIMES) program will support ten undergraduate sudents from diverse backgrounds as they conduct mentored geoscience research during a summer 2008 field program at Souiffre Hills volcano, Montserrat. This SGER award will initiate an expansion of the successful RIMES program from its original focus - looking at the environmental and ecosystem responses to the most recent volcanic eruption - to more traditional geoscience research topics, including physical volcanology and radiogeochemistry.  The RIMES program addresses NSF and GEO's goal of broadening participation in the geosciences, and provides a model program for engaging minority scholars in this field.]]></AbstractNarration>
+<MinAmdLetterDate>06/23/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/23/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0838677</AwardID>
+<Investigator>
+<FirstName>Bruce</FirstName>
+<LastName>Jackson</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bruce A Jackson</PI_FULL_NAME>
+<EmailAddress><![CDATA[bjackson@massbay.edu]]></EmailAddress>
+<NSF_ID>000070821</NSF_ID>
+<StartDate>06/23/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Bay Community College</Name>
+<CityName>WELLESLEY HILLS</CityName>
+<ZipCode>024815307</ZipCode>
+<PhoneNumber>7812393123</PhoneNumber>
+<StreetAddress>50 OAKLAND ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HJWBSZRT1MA7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MASSACHUSETTS BAY COMMUNITY COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Bay Community College]]></Name>
+<CityName>WELLESLEY HILLS</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>024815307</ZipCode>
+<StreetAddress><![CDATA[50 OAKLAND ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1697</Code>
+<Text>OPPORT FOR ENHANCING DIVERSITY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9237</Code>
+<Text>SMALL GRANTS-EXPLORATORY RSRCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~149998</FUND_OBLG>
+</Award>
+</rootTag>

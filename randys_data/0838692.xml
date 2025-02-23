@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[A Sage/SciPy Developer Workshop: Special Functions and Computational Number Theory Meet Scientific Computing; Austin, TX]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>9000.00</AwardTotalIntnAmount>
+<AwardAmount>9000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Junping Wang</SignBlockName>
+<PO_EMAI>jwang@nsf.gov</PO_EMAI>
+<PO_PHON>7032924488</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This workshop is an instance of SAGE Days (number 11 to be precise), a&lt;br/&gt;periodic gathering where developers of the software package SAGE, a&lt;br/&gt;free and open software that supports research and teaching in algebra,&lt;br/&gt;geometry, number theory, cryptography, and related areas, address&lt;br/&gt;current issues of the software, program for very long hours, either&lt;br/&gt;improving existing code or adding new code, and plan the next steps to&lt;br/&gt;be taken. For example, this workshop includes working on adding to&lt;br/&gt;SAGE the capability to work with modular forms over function&lt;br/&gt;fields. In addition to the above standard features of such a meeting,&lt;br/&gt;this particular workshop includes a strong emphasis in the interaction&lt;br/&gt;betwen algebra and number theory (the area of the bulk of the SAGE&lt;br/&gt;developers and researchers in attendance) and computer science,&lt;br/&gt;supercomputing (from TACC, the Texas supercomputing center) and&lt;br/&gt;applied Mathematics (from ICES, the Institute for Computational&lt;br/&gt;Engineering and Sciences) at the University of Texas at Austin, as&lt;br/&gt;well as researchers working outside academia (from Entought, an Austin&lt;br/&gt;based company).&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The main goals of this workshop are: (i) to support the development of&lt;br/&gt;the free and open source software SAGE by gathering some of its&lt;br/&gt;developers as well as researchers that use it in their own research;&lt;br/&gt;(ii) to bring together the SAGE commnunity and various research&lt;br/&gt;groups at the host location, the University of Texas at Austin, that&lt;br/&gt;while might have very different research focus share many common&lt;br/&gt;computational problems and needs. To give just one example, being&lt;br/&gt;able to solve large linear algebra problems accurately and fast is a&lt;br/&gt;fundamental problem that underlies essentially any type of scientific&lt;br/&gt;computation imaginable. The availability of high level software is&lt;br/&gt;nowadays of crucial and increasing importance for research in&lt;br/&gt;Mathematics, both in applied and pure Mathematics. SAGE is an example&lt;br/&gt;of a be very powerful computer package that is at the cutting edge&lt;br/&gt;(in terms of the sophistication of its capabilities as well as its&lt;br/&gt;speed) of existing tools for research in Mathematics and its&lt;br/&gt;applications; particularly, in those areas related to algebra, number&lt;br/&gt;theory, geometry and cryptography. The workshop is planned with the&lt;br/&gt;SAGE development model in mind, distinguished by an emphasis on&lt;br/&gt;openness, community, cooperation, and collaboration.]]></AbstractNarration>
+<MinAmdLetterDate>02/02/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>02/02/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0838692</AwardID>
+<Investigator>
+<FirstName>Irene</FirstName>
+<LastName>Gamba</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Irene M Gamba</PI_FULL_NAME>
+<EmailAddress><![CDATA[gamba@math.utexas.edu]]></EmailAddress>
+<NSF_ID>000381736</NSF_ID>
+<StartDate>02/02/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Fernando</FirstName>
+<LastName>Rodriguez-Villegas</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Fernando Rodriguez-Villegas</PI_FULL_NAME>
+<EmailAddress><![CDATA[villegas@math.utexas.edu]]></EmailAddress>
+<NSF_ID>000279098</NSF_ID>
+<StartDate>02/02/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~9000</FUND_OBLG>
+</Award>
+</rootTag>

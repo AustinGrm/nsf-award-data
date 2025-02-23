@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NECO:   A Graph-Based Approach to Traffic Monitoring  and Application Classification]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joseph Lyles</SignBlockName>
+<PO_EMAI>jlyles@nsf.gov</PO_EMAI>
+<PO_PHON>7032922087</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[NECO: A Graph-Based Approach to Traffic Monitoring  and  Application Classification&lt;br/&gt;&lt;br/&gt;NETS NECO proposal 0832069&lt;br/&gt;&lt;br/&gt;Michalis Faloutsos  (UCR) &lt;br/&gt;&lt;br/&gt;The fundamental problem that motivates this work is the need to detect and classify emerging and undesired applications in a network, such as a large ISP, or an enterprise network. The undesired applications can refer to Peer-To-Peer (P2P) protocols, which can dominate network resources, but also include malware such as intrusions and worms.  This proposal addresses the following tightly related problems in this area of research: (a) monitoring and visualizing network traffic, (b) identifying applications, and (c) detecting anomalies.&lt;br/&gt;&lt;br/&gt;Monitoring the traffic and detecting unwanted applications is far from trivial. The authors of controversial applications often obfuscate their traffic to make them very hard to detect by using encryption or ever-changing behavior.  Thus, there is a need for an approach  that has the following properties:  (a) it  is easy to use with few and intuitive parameters, (b)  it can operate even when packet payload is unavailable,  and (c)  it does not rely on a priori knowledge of the application specification, such as port numbers. Despite the significant number of previous efforts, most previous work fails to meet one of these three constraints.&lt;br/&gt;&lt;br/&gt;The proposal follows a more fundamental behavioral approach, where the detector looks for behavior patterns of the application that are both intrinsic to the application and distinct from other traffic. By identifying intrinsic behaviors, it becomes difficult for application writers to disguise their applications without defeating the very purpose of the application. &lt;br/&gt;&lt;br/&gt;The key contribution of this proposal is that it demonstrates the power of a behavioral or graph-based approach to network monitoring. Specifically, the proposal fully explores the use of Traffic Dispersion Graphs or TDGs, which capture the communication pattern in a network, namely, who talks to whom. TDGs capture the ``social" interaction of the network as a whole, which leads to a directed graph; each node is an IP address, and each edge represents an interaction between two nodes. The proposal shows that there is a wealth of information embedded in a TDG, which the other monitoring and application classification methods simply cannot capture.&lt;br/&gt;&lt;br/&gt;Broader Impact: This proposal will make enterprise and ISP networks more reliable and safer by providing the basis for a new generation of monitoring and security tools.  Service disruptions and malware cost billions of dollars per year to any industry with significant IT infrastructure. At the same time, the Internet has become the battleground of multimillion dollar wars:  between industries (content providers versus ISPs on network neutrality) and between the entertainment industry and users (the peer-to-peer saga). The proposal will provide the tools (e.g. application classification) that will play an important role in deciding the future of the network. &lt;br/&gt;&lt;br/&gt;Educational Goals: The PI will develop a cross-disciplinary educational program by bringing together networking, security, graph-mining, and social networks research. In addition, the PIs will develop programs to:  (a) encourage the early involvement of both undergraduate and graduate students in research and teaching, and (b) increase the participation of minorities in higher education in engineering. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/21/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/21/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0832069</AwardID>
+<Investigator>
+<FirstName>Michalis</FirstName>
+<LastName>Faloutsos</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michalis Faloutsos</PI_FULL_NAME>
+<EmailAddress><![CDATA[michalis@cs.ucr.edu]]></EmailAddress>
+<NSF_ID>000487350</NSF_ID>
+<StartDate>08/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Riverside</Name>
+<CityName>RIVERSIDE</CityName>
+<ZipCode>925210001</ZipCode>
+<PhoneNumber>9518275535</PhoneNumber>
+<StreetAddress>200 UNIVERSTY OFC BUILDING</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>39</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA39</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MR5QC5FCAVH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Riverside]]></Name>
+<CityName>RIVERSIDE</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>925210001</ZipCode>
+<StreetAddress><![CDATA[200 UNIVERSTY OFC BUILDING]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>39</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA39</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7747</Code>
+<Text>NETWORK ECOSYSTEMS (NECO)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~231165</FUND_OBLG>
+</Award>
+</rootTag>

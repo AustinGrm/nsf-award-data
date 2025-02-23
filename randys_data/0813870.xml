@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Metamaterial and quantum dots enhanced radiation and trace chemical detection [54U08UAHguo]]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>119000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Spengler</SignBlockName>
+<PO_EMAI>sspengle@nsf.gov</PO_EMAI>
+<PO_PHON>7032927347</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Colloidal semiconductor nanocrystal quantum dots (NQDs) for novel&lt;br/&gt;radiation detectors will be investigated. The team draws upon their expertise in the synthesis of PbSe/PbS NQDs and their integration in optoelectronic devices to advance the technology of NQD-enhanced radiation detection. Nanostructure hererojunctions containing conductive polymers and PbSe NQDs will be investigated to develop gamma-ray PN-diode detectors. The proposed project will be groundbreaking as it will be the first time that the gamma-ray detection with PbSe QDs is investigated. The high-Z PbSe/PbS NQDs in the &amp;#947;-ray detector configuration will provide the ultimate solution to the desired sensitive, high resolution, and room-temperature detection of low-level radioactive signals.&lt;br/&gt;These meta-metal materials do not exist in nature.  Overcoming barriers to the growth of sensitive, room-temperature radiation sensor technology by employing colloidal compound QDs in the PN-diode device structure is a major step. A technical breakthrough such as low-level gamma ray detection will have a profound impact on national security and radioactivity-monitoring. The proposed studies will also provide focused research and learning experience to graduate and undergraduate students by involving them in experimental laboratory work, and bridge the fundamental nanoscience and engineering with the real-world applications.]]></AbstractNarration>
+<MinAmdLetterDate>06/23/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0813870</AwardID>
+<Investigator>
+<FirstName>Junpeng</FirstName>
+<LastName>Guo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Junpeng Guo</PI_FULL_NAME>
+<EmailAddress><![CDATA[guoj@uah.edu]]></EmailAddress>
+<NSF_ID>000317319</NSF_ID>
+<StartDate>06/23/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jian</FirstName>
+<LastName>Xu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jian Xu</PI_FULL_NAME>
+<EmailAddress><![CDATA[jianxu@engr.psu.edu]]></EmailAddress>
+<NSF_ID>000289030</NSF_ID>
+<StartDate>06/23/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Alabama in Huntsville</Name>
+<CityName>HUNTSVILLE</CityName>
+<ZipCode>358051911</ZipCode>
+<PhoneNumber>2568242657</PhoneNumber>
+<StreetAddress>301 SPARKMAN DR NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AL05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HB6KNGVNJRU1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF ALABAMA IN HUNTSVILLE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Alabama in Huntsville]]></Name>
+<CityName>HUNTSVILLE</CityName>
+<StateCode>AL</StateCode>
+<ZipCode>358051911</ZipCode>
+<StreetAddress><![CDATA[301 SPARKMAN DR NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AL05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>H188</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>7484</Code>
+<Text>IIS SPECIAL PROJECTS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9215</Code>
+<Text>HIGH PERFORMANCE COMPUTING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809RB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~119000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[FossilPlot: Data-Driven Web-Based Software and Teaching Modules for Undergraduate Education On the History of Life]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06000001</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jill L. Karsten</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Idaho State University is developing FossilPlot, a free-access, internet-based software tool and set of reusable teaching modules that aims to enhance active and quantitative learning of the fossil record at the undergraduate level. Founded on the Sepkoski Database, the program gives educators and their students the ability to compile any combination of 36,000 marine animal genera to create graphs illustrating faunal diversity and their geologic ranges over the Phanerozoic. Teaching modules are designed for specific teaching targets in Historical Geology and Introductory Paleontology courses, and are organized to complement teaching activities in the classroom, laboratory and field trip setting. The FossilPlot program and teaching modules are created by a team of faculty, Masters and Doctoral students with specialties in subject matter content, instructional design, and software engineering to ensure alignment between teaching targets and software content, and to produce a user-friendly interface that facilitates learning objectives. The FossilPlot program and teaching modules will be implemented and assessed by a focus group of professors and students at Idaho State University, the University of Utah, the College of Wooster (Ohio), the University of Witwatersrand (South Africa), and the Katholieke Universiteit Leuven (Belgium). Feedback from the assessments will inform modifications to the program and result in an updated version of FossilPlot by the completion of the project.]]></AbstractNarration>
+<MinAmdLetterDate>06/19/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>03/20/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0808112</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Ames</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel P Ames</PI_FULL_NAME>
+<EmailAddress><![CDATA[dan.ames@byu.edu]]></EmailAddress>
+<NSF_ID>000412472</NSF_ID>
+<StartDate>06/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Leif</FirstName>
+<LastName>Tapanila</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Leif M Tapanila</PI_FULL_NAME>
+<EmailAddress><![CDATA[tapaleif@isu.edu]]></EmailAddress>
+<NSF_ID>000493259</NSF_ID>
+<StartDate>06/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Idaho State University</Name>
+<CityName>POCATELLO</CityName>
+<ZipCode>832015377</ZipCode>
+<PhoneNumber>2082822592</PhoneNumber>
+<StreetAddress>921 S 8TH AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Idaho</StateName>
+<StateCode>ID</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>ID02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJC9GJJJL4M7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>IDAHO STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Idaho State University]]></Name>
+<CityName>POCATELLO</CityName>
+<StateCode>ID</StateCode>
+<ZipCode>832015377</ZipCode>
+<StreetAddress><![CDATA[921 S 8TH AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Idaho</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>ID02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1733</Code>
+<Text>GEOSCIENCE EDUCATION</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9150</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~84095</FUND_OBLG>
+<FUND_OBLG>2009~65905</FUND_OBLG>
+</Award>
+</rootTag>

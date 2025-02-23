@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RUI:  Particle theory in the LHC era]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>115400.00</AwardTotalIntnAmount>
+<AwardAmount>115400</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010500</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Keith Dienes</SignBlockName>
+<PO_EMAI>kdienes@nsf.gov</PO_EMAI>
+<PO_PHON>7032925314</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA["This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5)."&lt;br/&gt;&lt;br/&gt;Despite its remarkable successes, there are strong indications that the standard model of particle physics is incomplete. In the past decade, compelling evidence that neutrinos have mass, and that most of the energy density of the universe is divided between dark energy and dark matter, has altered our understanding of nature at the fundamental level. The coming years promise equally exciting developments, with the LHC scheduled to begin taking data soon. This and other experiments will shed light on some of the profound mysteries left unresolved by the standard model. This proposal details the PI's plan to investigate theoretical ideas for addressing some of these mysteries. In particular he is interested in verifying whether evidence of Supersymmetry which unifies integer spin particles with ½ integer spin particles into super-multiplets will be found at the LHC.  In particular the PI proposes to study (1) the possibility of using chargino cascades at the LHC to constrain superpartner masses, (2) LHC searches for the charged electroweak Kaluza-Klein states predicted in Randall-Sundrum theories with standard model fields propagating in the extra dimension, and (3) the phenomenology of supersymmetric theories with extended R symmetry. Models with extended R symmetry provide an interesting solution to the supersymmetric flavor problem. The PI proposes to study the phenomenology of these theories. This will include exploring a possible connection between neutrino mass and mixed-sneutrino dark matter, the collider signatures of the heavy gauginos and large flavor violation in soft masses expected in these theories, and the possibility of inelastic neutralino dark matter. The broader impact of this proposal is that undergraduate involvement is a central part of the PI's research program. Students will have the opportunity to engage in particle physics research, and through their work will learn important ideas, results, and methods relating to both particle phenomenology and theoretical physics in general.]]></AbstractNarration>
+<MinAmdLetterDate>05/28/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>05/28/2009</MaxAmdLetterDate>
+<ARRAAmount>115400</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0856522</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Tucker-Smith</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David R Tucker-Smith</PI_FULL_NAME>
+<EmailAddress><![CDATA[david.r.tuckersmith@williams.edu]]></EmailAddress>
+<NSF_ID>000298464</NSF_ID>
+<StartDate>05/28/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Williams College</Name>
+<CityName>WILLIAMSTOWN</CityName>
+<ZipCode>012672600</ZipCode>
+<PhoneNumber>4135974352</PhoneNumber>
+<StreetAddress>880 MAIN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JVZEJJ6N5EM8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PRESIDENT &amp; TRUSTEES OF WILLIAMS COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>JVZEJJ6N5EM8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Williams College]]></Name>
+<CityName>WILLIAMSTOWN</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>012672600</ZipCode>
+<StreetAddress><![CDATA[880 MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1286</Code>
+<Text>Elem. Particle Physics/Theory</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~115400</FUND_OBLG>
+</Award>
+</rootTag>

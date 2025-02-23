@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>OIG-Contract Administration fo the Independent Audit of the National Science Foundation's Financial Statements - Option Year 1, ARC (Clifton Gunderson)</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>904228</AwardAmount>
+<AwardInstrument>
+<Value>Contract Interagency Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>00020100</Code>
+<Directorate>
+<Abbreviation/>
+<LongName/>
+</Directorate>
+<Division>
+<Abbreviation>OIG</Abbreviation>
+<LongName>Office Of Inspector General</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marie Maguire</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration/>
+<MinAmdLetterDate>01/31/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/29/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM/>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0822444</AwardID>
+<Investigator>
+<FirstName>Martin</FirstName>
+<LastName>Davis</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Martin E Davis</PI_FULL_NAME>
+<EmailAddress>martin.davis@bpd.treas.gov</EmailAddress>
+<PI_PHON>3044807227</PI_PHON>
+<NSF_ID>000461700</NSF_ID>
+<StartDate>01/31/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Administrative Resource Center, Treasury Franchise Services</Name>
+<CityName>PARKERSBURG</CityName>
+<ZipCode>261065312</ZipCode>
+<PhoneNumber/>
+<StreetAddress>200 3RD ST AVERY BLDG</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>West Virginia</StateName>
+<StateCode>WV</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WV01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QCFYUC4AMFZ2</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TREASURY FRANCHISE FUND, US</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NW2RJN8TQQW1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Administrative Resource Center, Treasury Franchise Services]]></Name>
+<CityName>PARKERSBURG</CityName>
+<StateCode>WV</StateCode>
+<ZipCode>261065312</ZipCode>
+<StreetAddress><![CDATA[200 3RD ST AVERY BLDG]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>West Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WV01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>0627</Code>
+<Text/>
+</ProgramElement>
+<ProgramElement>
+<Code>5720</Code>
+<Text>OCEAN DRILLING PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~912738</FUND_OBLG>
+</Award>
+</rootTag>

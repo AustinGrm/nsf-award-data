@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CRC: Nanoscale Assembly of Biomolecular Complexes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>2925000.00</AwardTotalIntnAmount>
+<AwardAmount>2925000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Timothy Patten</SignBlockName>
+<PO_EMAI>tpatten@nsf.gov</PO_EMAI>
+<PO_PHON>7032927196</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Professors Martin F. Jarrold, Bogdan Dragnea, Stephen C. Jacobson, Peter J. Ortoleva, and James P. Reilly at Indiana University are supported by the Collaborative Research in Chemistry Program to address how supramolecular assemblies, such as viruses, are built from their component macromolecules as well as how structural transitions occur in the assembled complexes.  The self-assembly of supramolecular complexes spans time scales from nanoseconds to hundreds of seconds and length scales from nanometers to micrometers.  Intermediates in these processes will be monitored by interfacing current and new mass spectrometry techniques with microfluidic devices capable of reaction control and opto-electronic detection.  Experimental studies are integrated with a multi-scale theoretical approach. The new methodologies are being tested on simple icosahedral viruses. &lt;br/&gt;&lt;br/&gt;The highly collaborative approach taken in this program will provide graduate students and postdoctoral researchers with cross-disciplinary training, positioning them to make significant scientific and technical contributions.  Talented undergraduate students from Rose-Hulman Institute of Technology and Prairie View A&amp;M University work at Indiana University during the summer months and continue their projects at their home institutions with the assistance of collaborating faculty during the academic year. Tutorials on the use of multiscale simulation software will be produced and made available by the Indiana University Nanoscience Center.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>09/16/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/10/2011</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0832651</AwardID>
+<Investigator>
+<FirstName>Bogdan</FirstName>
+<LastName>Dragnea</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bogdan Dragnea</PI_FULL_NAME>
+<EmailAddress><![CDATA[dragnea@indiana.edu]]></EmailAddress>
+<NSF_ID>000493667</NSF_ID>
+<StartDate>09/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Martin</FirstName>
+<LastName>Jarrold</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Martin F Jarrold</PI_FULL_NAME>
+<EmailAddress><![CDATA[mfj@indiana.edu]]></EmailAddress>
+<NSF_ID>000440779</NSF_ID>
+<StartDate>09/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Reilly</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James P Reilly</PI_FULL_NAME>
+<EmailAddress><![CDATA[reilly@indiana.edu]]></EmailAddress>
+<NSF_ID>000150421</NSF_ID>
+<StartDate>09/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Ortoleva</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peter J Ortoleva</PI_FULL_NAME>
+<EmailAddress><![CDATA[ortoleva@indiana.edu]]></EmailAddress>
+<NSF_ID>000165424</NSF_ID>
+<StartDate>09/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Jacobson</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stephen C Jacobson</PI_FULL_NAME>
+<EmailAddress><![CDATA[jacobson@indiana.edu]]></EmailAddress>
+<NSF_ID>000348824</NSF_ID>
+<StartDate>09/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Indiana University</Name>
+<CityName>BLOOMINGTON</CityName>
+<ZipCode>474057000</ZipCode>
+<PhoneNumber>3172783473</PhoneNumber>
+<StreetAddress>107 S INDIANA AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YH86RTW2YVJ4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF INDIANA UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YH86RTW2YVJ4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Indiana University]]></Name>
+<CityName>BLOOMINGTON</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>474057000</ZipCode>
+<StreetAddress><![CDATA[107 S INDIANA AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1991</Code>
+<Text>CHEMISTRY PROJECTS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7298</Code>
+<Text>COLLABORATIVE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9161</Code>
+<Text>SINGLE DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>AMPP</Code>
+<Text>ADVANCED MATERIALS &amp; PROCESSING PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~964612</FUND_OBLG>
+<FUND_OBLG>2009~1960388</FUND_OBLG>
+</Award>
+</rootTag>

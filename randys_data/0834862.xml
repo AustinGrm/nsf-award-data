@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SGER: Synthesis and Properties of Edge-charged Molecules</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>120000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tingyu Li</SignBlockName>
+<PO_EMAI>tli@nsf.gov</PO_EMAI>
+<PO_PHON>7032924949</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project will test a hypothesis that planar molecules consisting of two or more linearly fused  gamma-pyrones or gamma-pyridones will exhibit charge delocalization that results in a high degree of charge along opposite edges of the molecule. Charge delocalization will result from increasing aromaticity associated with these molecular structures as the number of fused pyrones and pyridones increases. Two structural types can be envisioned; one has charges along each edge of the molecule of the same sign, i.e. one edge is positively charged and the opposite edge is negatively charged and the other array has alternating charges along each edge. Linearly fused gamma-pyrones and gamma-pyridones will be synthesized with up to four monomer units and the properties of each system will be studied. The studies will include (a) dipole moment measurements (one array type should have a very large dipole moment, the other essentially zero), (b) X-ray crystallographic analysis to assess the degree to which bond lengths change with increasing aromaticity of the system, (c) nuclear magnetic resonance measurements to evaluate diamagnetic anisotropy associated with this aromaticity, and (d) experiments designed to examine metal ion coordination along the charged edges of these structures. Macroscopic assemblages of these systems resulting from edge-to-edge electrostatic attraction, pi-stacking and other intermolecular forces will be studied, and solid state properties potentially useful for the development of new materials will be investigated.&lt;br/&gt; With this award, the Organic and Macromolecular Chemistry Program is supporting the research of Professor James D. White of the Department of Chemistry at Oregon State University. Professor White's research is directed towards the discovery of new synthetic methods and their application to the synthesis of novel structures including both natural and non-natural substances. These effort will have an impact on the development of new organic materials for use in a variety of settings such as the electronics and pharmaceutical industries.</AbstractNarration>
+<MinAmdLetterDate>08/04/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>12/02/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0834862</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>White</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James D White</PI_FULL_NAME>
+<EmailAddress>james.white@oregonstate.edu</EmailAddress>
+<NSF_ID>000099687</NSF_ID>
+<StartDate>08/04/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Oregon State University</Name>
+<CityName>Corvallis</CityName>
+<ZipCode>973318507</ZipCode>
+<PhoneNumber>5417374933</PhoneNumber>
+<StreetAddress>OREGON STATE UNIVERSITY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OR04</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>053599908</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>OREGON STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>053599908</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Oregon State University]]></Name>
+<CityName>Corvallis</CityName>
+<StateCode>OR</StateCode>
+<ZipCode>973318507</ZipCode>
+<StreetAddress><![CDATA[OREGON STATE UNIVERSITY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OR04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1950</Code>
+<Text>METHODOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9237</Code>
+<Text>SMALL GRANTS-EXPLORATORY RSRCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2008~120000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Dynamics of gene expression during vegetative phase change in maize]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>524654.00</AwardTotalIntnAmount>
+<AwardAmount>524654</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090100</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Amy Litt</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The life cycle of flowering plants features distinct, recognizable phases:  embryogenesis, seed dormancy, vegetative growth, and flowering, which gives rise to the next generation.  The transition from vegetative growth to flowering can only occur in plants that are adults:  plants in the earlier, juvenile phase are incapable of responding to flower-inducing signals.  The transition from juvenile to adult is important not only because it allows the plant to become reproductive, producing fruits and seeds, but also because in many species the leaves and other vegetative organs develop differently while the plant is a juvenile compared to those formed during the adult phase. In maize (or corn), a prominent difference between juvenile and adult leaves is in the levels of lignin, which can interfere with cellulosic ethanol production. This project will examine vegetative phase change in maize using a unique technology in which adult plants can be rejuvenated.  This technology will allow for the identification of genes that control phase-specific patterns of development, with the ultimate goal of understanding how developmental state is interpreted and expressed by differentiating cells.  Microarrays will be employed to compare patterns of gene expression in developing juvenile, transition, and adult maize leaves, each at several different developmental stages, to paint a complete picture of gene expression underlying phase-specific patterns of leaf differentiation. Subsequently,  patterns of expression of selected genes will be examined in normal plants and also in both phase change mutants and in rejuvenated plants to elucidate the genetic networks that regulate vegetative phase change in an important crop plant in the US.  The investigators will continue their efforts to include females and underrepresented minorities in research in plant developmental biology.]]></AbstractNarration>
+<MinAmdLetterDate>07/28/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/28/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0820562</AwardID>
+<Investigator>
+<FirstName>Erin</FirstName>
+<LastName>Irish</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Erin E Irish</PI_FULL_NAME>
+<EmailAddress><![CDATA[erin-irish@uiowa.edu]]></EmailAddress>
+<NSF_ID>000275214</NSF_ID>
+<StartDate>07/28/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chi-Lien</FirstName>
+<LastName>Cheng</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chi-Lien Cheng</PI_FULL_NAME>
+<EmailAddress><![CDATA[chi-lien-cheng@uiowa.edu]]></EmailAddress>
+<NSF_ID>000340190</NSF_ID>
+<StartDate>07/28/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jian</FirstName>
+<LastName>Huang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jian Huang</PI_FULL_NAME>
+<EmailAddress><![CDATA[jian-huang@uiowa.edu]]></EmailAddress>
+<NSF_ID>000428423</NSF_ID>
+<StartDate>07/28/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Iowa</Name>
+<CityName>IOWA CITY</CityName>
+<ZipCode>522421316</ZipCode>
+<PhoneNumber>3193352123</PhoneNumber>
+<StreetAddress>105 JESSUP HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Z1H9VJS8NG16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF IOWA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Iowa]]></Name>
+<CityName>IOWA CITY</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>522421316</ZipCode>
+<StreetAddress><![CDATA[105 JESSUP HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1329</Code>
+<Text>Plant Genome Research Project</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1329</Code>
+<Text>PLANT GENOME RESEARCH PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~524654</FUND_OBLG>
+</Award>
+</rootTag>

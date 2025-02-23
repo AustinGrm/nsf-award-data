@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Acquisition of Instrumentation for Integrated Circuit Design and Device Characterization]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>130000.00</AwardTotalIntnAmount>
+<AwardAmount>130000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Usha Varshney</SignBlockName>
+<PO_EMAI>uvarshne@nsf.gov</PO_EMAI>
+<PO_PHON>7032925385</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[MRI: Acquisition of Instrumentation for Integrated Circuit Design and Device Characterization&lt;br/&gt;&lt;br/&gt;Abstract&lt;br/&gt;The objective of this research is to improve reliability and performance of integrated circuits in high frequency, high energy and radiation environmental applications. The approach is to develop asynchronous digital circuits against particle radiation and ultra-wide band low power radio frequency integrated circuits, and to characterize wide-band gap semiconductor devices for high energy and high temperature applications using the requested instrumentation.&lt;br/&gt;&lt;br/&gt;As semiconductor devices are being scaled down, various new ideas for integrated circuit design from device level to circuit level are needed to deal with the challenges due to this shrink. The investigators request a waveform generator, a logic analyzer, a radio frequency probe system and its accessories to support the following research project: 1) asynchronous circuits against particle-induced soft error; 2) ultra-wide band, low power radio frequency integrated circuit design; 3) wide-band gap semiconductor devices; and 4) time domain semiconductor device characterization.&lt;br/&gt;&lt;br/&gt;The proposed instrumentation and research projects can directly advance and enhance integrated circuit technology and its application in defense, space and wireless communications. Students will be trained through the use of state-of the-art instrumentation through course work and their involvement in research projects. The research projects will expose students to cutting-edge microelectronics research and attract them to pursue advanced degrees, thus increasing the number of underrepresented people and women in science and engineering. Ten to twenty graduate students are expected to use the proposed instrumentation for thesis research within the next five years.]]></AbstractNarration>
+<MinAmdLetterDate>07/02/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0820381</AwardID>
+<Investigator>
+<FirstName>Heinrich</FirstName>
+<LastName>Foltz</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Heinrich D Foltz</PI_FULL_NAME>
+<EmailAddress><![CDATA[heinrich.foltz@utrgv.edu]]></EmailAddress>
+<NSF_ID>000369399</NSF_ID>
+<StartDate>07/02/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Edward</FirstName>
+<LastName>Banatoski</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME>Dr</PI_SUFX_NAME>
+<PI_FULL_NAME>Edward Banatoski</PI_FULL_NAME>
+<EmailAddress><![CDATA[banatoski@panam.edu]]></EmailAddress>
+<NSF_ID>000114472</NSF_ID>
+<StartDate>07/02/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Weidong</FirstName>
+<LastName>Kuang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Weidong Kuang</PI_FULL_NAME>
+<EmailAddress><![CDATA[weidong.kuang@utrgv.edu]]></EmailAddress>
+<NSF_ID>000483711</NSF_ID>
+<StartDate>07/02/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hasina</FirstName>
+<LastName>Huq</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hasina F Huq</PI_FULL_NAME>
+<EmailAddress><![CDATA[hasina.huq@utrgv.edu]]></EmailAddress>
+<NSF_ID>000245889</NSF_ID>
+<StartDate>07/02/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>The University of Texas Rio Grande Valley</Name>
+<CityName>EDINBURG</CityName>
+<ZipCode>785392909</ZipCode>
+<PhoneNumber>9566652889</PhoneNumber>
+<StreetAddress>1201 W UNIVERSITY DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX15</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>L3ATVUT2KNK7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF TEXAS RIO GRANDE VALLEY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The University of Texas Rio Grande Valley]]></Name>
+<CityName>EDINBURG</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>785392909</ZipCode>
+<StreetAddress><![CDATA[1201 W UNIVERSITY DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX15</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0206000</Code>
+<Name>Telecommunications</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>098E</Code>
+<Text>Antennas and Electromagnetics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~130000</FUND_OBLG>
+</Award>
+</rootTag>

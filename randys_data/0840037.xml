@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[U.S.-Switzerland Research:   A Study of the Heavy Quark Content of b-Jets]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>14948.00</AwardTotalIntnAmount>
+<AwardAmount>14948</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne Emig</SignBlockName>
+<PO_EMAI>aemig@nsf.gov</PO_EMAI>
+<PO_PHON>7032927241</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This dissertation research will investigate the heavy quark content of b-quark jets produced in the ATLAS detector at CERN.  The research will be conducted in collaboration with CERN Laboratory under the auspices of Dr. Maria Smizanska.  This study will probe the fragmentation properties of b-jets with reconstructed charmed hadrons in their most efficiently detected decay modes. The analysis will use data streams sensitive to events containing muon + jet and Z + jet which will be captured by unbiased ATLAS triggers based on muon + jet and dimuon patterns in the ATLAS subdetectors. This will be the first test of the fragmentation models encoded in Monte Carlo generators against data at the energy frontier of the Large Hadron Collider. It will allow ATLAS to calibrate its energy scale. The reconstructed charm particle decays can be useful in disentangling the contribution of g-&gt;b anti-b splitting processes from single-b contributions. The correct fragmentation model is essential to the description of b-jet spectra and is consequently crucial for a proper subtraction of backgrounds to searches for new physics including the Higgs. This proposal will support the international dissertation research for one graduate student.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>11/25/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>11/25/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.079</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0840037</AwardID>
+<Investigator>
+<FirstName>Igor</FirstName>
+<LastName>Gorelov</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Igor Gorelov</PI_FULL_NAME>
+<EmailAddress><![CDATA[gorelov@fnal.gov]]></EmailAddress>
+<NSF_ID>000505791</NSF_ID>
+<StartDate>11/25/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sally</FirstName>
+<LastName>Seidel</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sally C Seidel</PI_FULL_NAME>
+<EmailAddress><![CDATA[seidel@unm.edu]]></EmailAddress>
+<NSF_ID>000285435</NSF_ID>
+<StartDate>11/25/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of New Mexico</Name>
+<CityName>ALBUQUERQUE</CityName>
+<ZipCode>871063837</ZipCode>
+<PhoneNumber>5052774186</PhoneNumber>
+<StreetAddress>1700 LOMAS BLVD NE STE 2200</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NM01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F6XLTRUQJEN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NEW MEXICO, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>C16BGHA4MLJ6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of New Mexico]]></Name>
+<CityName>ALBUQUERQUE</CityName>
+<StateCode>NM</StateCode>
+<ZipCode>871063837</ZipCode>
+<StreetAddress><![CDATA[1700 LOMAS BLVD NE STE 2200]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NM01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7727</Code>
+<Text>IRES Track I: IRES Sites (IS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5950</Code>
+<Text>SWITZERLAND</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5979</Code>
+<Text>Europe and Eurasia</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7639</Code>
+<Text>IRES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~14948</FUND_OBLG>
+</Award>
+</rootTag>

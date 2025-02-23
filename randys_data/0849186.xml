@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[U.S.-Mauritius Doctoral Dissertation Enhancement Project:   Baker's Rule and Mating System Evolution in Madagascan Coffea (Rubiaceae)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>15000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>DeAndra Beck</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award supports a doctoral dissertation enhancement project that examines genetic variability in the molecular basis of self-incompatibility (i.e., the ability of plants to recognize and reject their own pollen) in the genus Coffea, the economically important genus of coffee trees. A second line of research will examine evolutionary transitions in self-incompatibility that are putatively associated with ancient island colonization by coffee trees endemic to Madagascar and the Mascarene Islands (Mauritius and Reunion).  The resulting data will be used to test whether Madagascan coffee was an exception to Baker's Rule (that self-incompatible taxa cannot colonize islands).&lt;br/&gt;&lt;br/&gt;This project will enable a U.S. graduate student to undertake a project jointly developed and conducted with international collaborators, including scientists and students in Madagascar and Mauritius, as well as in the United Kingdom. The project will involve field experiments and collections of coffee trees in Madagascar, Mauritius and Reunion, and in each country a resident student will gain experience in designing and executing field experiments and collecting plants for herbariums. The project will strengthen international collaborations between U.S. and African scientists and will provide opportunities to share molecular genetic and computational expertise with host countries.]]></AbstractNarration>
+<MinAmdLetterDate>12/19/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>03/02/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.079</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0849186</AwardID>
+<Investigator>
+<FirstName>Anne</FirstName>
+<LastName>Yoder</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anne D Yoder</PI_FULL_NAME>
+<EmailAddress><![CDATA[anne.yoder@duke.edu]]></EmailAddress>
+<NSF_ID>000241532</NSF_ID>
+<StartDate>12/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277054640</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W MAIN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TP7EK8DZV6N5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DUKE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277054640</ZipCode>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7727</Code>
+<Text>IRES Track I: IRES Sites (IS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1305</Code>
+<Text>ECOLOGICAL DIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5976</Code>
+<Text>AFRICA, NEAR EAST, &amp; SO ASIA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5992</Code>
+<Text>MADAGASCAR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7531</Code>
+<Text>MAURITIUS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~15000</FUND_OBLG>
+</Award>
+</rootTag>

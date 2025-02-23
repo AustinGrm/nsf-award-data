@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Research in Geometric Group Theory</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>162598.00</AwardTotalIntnAmount>
+<AwardAmount>162598</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christopher Stark</SignBlockName>
+<PO_EMAI>cstark@nsf.gov</PO_EMAI>
+<PO_PHON>7032924869</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Three projects are proposed in the area of geometric group theory. In the first, Mladen Bestvina and I propose to verify a conjecture of ours that lies at the interface of logic, geometry, and group theory. A by-product would be an answer to a forty-year-old question of Mal'cev who asks which subgroups of free groups are definable. Our techniques are inspired by Zlil Sela's geometric approach to the Tarski problem. The second project is with Michael Handel. We propose to build on our previous work in order to solve the conjugacy problem for outer automorphism groups of free groups. Finally, for the third project Bestvina and I propose to carry out a scheme we have for showing that outer automorphism groups of free groups don't contain any higher rank lattices.&lt;br/&gt;&lt;br/&gt;Geometric group theory is an exciting and relatively young area of mathematics. The general idea is to take a problem from an another area of mathematics (most often algebra), translate the problem into geometric terms, and then use the methods of geometry to solve it. An illustrative example of this process is how we teach addition to elementary school students. The set of numbers (an algebraic object) is interpreted as the set of points on a line (a geometric object) and addition by say two (an algebraic operation) is interpreted as a shift to the right by two units (a geometric transformation). We propose to carry out such a translation process for three well-known problems, one coming from logic and two from algebra. We have promising plans of attack for each of the resulting geometric problems.</AbstractNarration>
+<MinAmdLetterDate>05/08/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/08/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0805440</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Feighn</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark E Feighn</PI_FULL_NAME>
+<EmailAddress>feighn@newark.rutgers.edu</EmailAddress>
+<NSF_ID>000117683</NSF_ID>
+<StartDate>05/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rutgers University Newark</Name>
+<CityName>Newark</CityName>
+<ZipCode>071021896</ZipCode>
+<PhoneNumber>9739720283</PhoneNumber>
+<StreetAddress>Blumenthal Hall, Suite 206</StreetAddress>
+<StreetAddress2><![CDATA[249 University Avenue]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ10</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>130029205</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>001912864</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rutgers University Newark]]></Name>
+<CityName>Newark</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>071021896</ZipCode>
+<StreetAddress><![CDATA[Blumenthal Hall, Suite 206]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1267</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~162598</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[U.S.- China Bilateral Workshop on Future Collaborations in Radio Astronomy]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>47208</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>W. Y. B. Chang</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[ABSTRACT&lt;br/&gt;0819073  AUI/NRAO, LO, K.Y. &lt;br/&gt;&lt;br/&gt;U.S.-China Bilateral Workshop on Future Collaborations in Radio Astronomy&lt;br/&gt;&lt;br/&gt;This award is made to National Radio Astronomy Observatory (NRAO) under the direction of Dr. Fred K. Lo, to organize a bilateral workshop on radio astronomy April 21-25, 2008 in Beijing.  The goal of the workshop is to substantially strengthen the institutional and individual research ties in radio astronomy and engineering.  The counterpart organizers are Dr. ZHAO, Gan, Deputy Director of the National Astronomical Observatory of China (NAOC), and Dr. XUE, Suijian of the National Astronomical Observatories of the Chinese Academy of Sciences, both in Beijing, China.  Specific topics to be covered include star and galaxy formation, the epoch of re-ionization and first galaxies, pulsar observations, to test strong field General Relativity and to detect gravitational wave radiation, compact objects and high-energy astrophysics, as well as technical subjects relevant to future new telescopes.  The proposal includes two early-career scientists and one graduate student&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>03/26/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/30/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.079</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0819073</AwardID>
+<Investigator>
+<FirstName>K. Y.</FirstName>
+<LastName>Lo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>K. Y. Lo</PI_FULL_NAME>
+<EmailAddress><![CDATA[flo@nrao.edu]]></EmailAddress>
+<NSF_ID>000090597</NSF_ID>
+<StartDate>03/26/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Associated Universities, Inc.</Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>200362252</ZipCode>
+<PhoneNumber>2024621676</PhoneNumber>
+<StreetAddress>1400 16TH ST NW</StreetAddress>
+<StreetAddress2><![CDATA[STE 730]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NZBMKZMW68N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ASSOCIATED UNIVERSITIES INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Associated Universities, Inc.]]></Name>
+<CityName>WASHINGTON</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>200362252</ZipCode>
+<StreetAddress><![CDATA[1400 16TH ST NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7299</Code>
+<Text>Catalyzing New Intl Collab</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5978</Code>
+<Text>EAST ASIA AND PACIFIC PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9200</Code>
+<Text>US CHINA COOP IN BASIC SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~47208</FUND_OBLG>
+</Award>
+</rootTag>

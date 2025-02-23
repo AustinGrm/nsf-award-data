@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[nanoECO Workshop on Nanoparticles in the Environment: Implications and Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>10000.00</AwardTotalIntnAmount>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cynthia J. Ekstein</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[CBET-0802933, Wiesner&lt;br/&gt;&lt;br/&gt;This workshop is proposed to facilitate the interaction of U.S. and European researchers to:&lt;br/&gt;1) Review current data on nanoparticle reactivity, exposure and transformations in the environment,&lt;br/&gt;2) Review scope of efforts underway to evaluate the effects of these exposures on ecosystems,&lt;br/&gt;3) Identify critical data needs and the coverage of on-going studies with the goal of maximizing&lt;br/&gt;the impact of current and future studies and,&lt;br/&gt;4) Lay the foundations for continued, collaborative interactions that will take advantage&lt;br/&gt;of the resources available in Europe and the US while reducing a duplication of effort and enhancing opportunities for research and international experience for U.S. students.&lt;br/&gt;&lt;br/&gt;INTELLECTUAL MERIT&lt;br/&gt;Understanding the interactions between engineered nanomaterials, the relative occurrence of these materials in comparison with natural and incidental nano-scale materials as well as the interactions of these materials with organisms is important to ensure that nanotechnology improves material and social conditions without exceeding the ecological capabilities that support them. While the need for research in this area has been recognized in both the US and Europe, coordination between US and European efforts has been limited. Indeed, recent calls for proposals on the part of the NSF, the EPA and the EU have stressed the need for collaboration on this topic. Successful collaboration in this area will require the participation of more junior researchers who may have not yet had the opportunity to build trans-Atlantic collaborations. This workshop will offer both established and junior researchers the opportunity to build international collaborations. The proposed workshop will bring some of the most active researchers on this topic from the US in contact with European counterparts to share information and methods related to nanoparticle behavior in the environment. Co-organized by the EMPA, EAWAG, and the Swiss Nanoscience Institute, the current keynote invitees represent six European countries (UK, France, Switzerland, Austria, Germany, and the Netherlands) and six US universities.&lt;br/&gt;BROADER IMPACTS&lt;br/&gt;Impacts beyond the scientific merits of the workshop will include the establishment of personal contacts between researchers, an accelerated internationalization of US efforts in this area and the dissemination of information on environmental impacts of nanomaterials. Selection of US participants for the workshop will include a strong consideration of participant diversity and the potential for accelerating collaborations ties that might not otherwise develop.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>02/29/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>02/29/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0802933</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Wiesner</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark R Wiesner</PI_FULL_NAME>
+<EmailAddress><![CDATA[wiesner@duke.edu]]></EmailAddress>
+<NSF_ID>000406076</NSF_ID>
+<StartDate>02/29/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277054640</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W MAIN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TP7EK8DZV6N5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DUKE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277054640</ZipCode>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0118000</Code>
+<Name>Pollution Control</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1179</Code>
+<Text>Nanoscale Interactions Program</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>011E</Code>
+<Text>Nano environmental health &amp; safety</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9197</Code>
+<Text>ENVIRONMENTAL TECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~10000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CRIF:MU:  Acquisition of a Cyber Enabled 500 MHz Solid State NMR Spectrometer]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>512460.00</AwardTotalIntnAmount>
+<AwardAmount>512460</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090002</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos Murillo</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[With support from the Chemistry Research Instrumentation and Facilities: Multiuser program (CRIF:MU), the Department of Chemistry at the University of Iowa will acquire a cyber enabled 500 MHz solid state nuclear magnetic resonance (NMR) spectrometer.  The spectrometer will be used for research projects in the chemical sciences including: 1) synthesis and characterization of inorganic nanostructures and polymeric networks, 2) surface adsorption and surface reactions of environmental interfaces, 3) studies of nanostructured polymers using lyotropic liquid crystalline systems, 4) studies of zeolites and mesoporous silica materials, 5) characterization of fluorinated surfactants and polychlorinated environmental contaminants, and 6) monitoring solid state reactivity and self assembly using NMR-active nuclei (Si, F) as tags. &lt;br/&gt;&lt;br/&gt;Nuclear magnetic resonance (NMR) spectroscopy is the most broadly used tool available to chemists for the analysis of materials.  It is used to identify unknown substances and to provide information on the arrangement and connectivity of atoms in molecules and materials i.e. their structures.  Solid state NMR requires special instrumentation and techniques compared to the more widely used NMR of solutions.  It provides critical information on the chemical bonding, structure and atomic environment in both crystalline and non-crystalline materials, polymers and on surfaces.  This spectrometer will enhance many Iowa programs that promote teaching and learning of undergraduates and graduate students.  It will assist the research and teaching activities of users from other regional undergraduate campuses who will use this instrument on weekends through an outreach program that provides access to advanced instrumentation to promote cross institutional collaborations and encourage interest in graduate careers of students at these institutions including several with large numbers of underrepresented minorities.]]></AbstractNarration>
+<MinAmdLetterDate>01/05/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>01/05/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0840371</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Wiemer</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David F Wiemer</PI_FULL_NAME>
+<EmailAddress><![CDATA[david-wiemer@uiowa.edu]]></EmailAddress>
+<NSF_ID>000335795</NSF_ID>
+<StartDate>01/05/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sarah</FirstName>
+<LastName>Larsen</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sarah C Larsen</PI_FULL_NAME>
+<EmailAddress><![CDATA[sarah-larsen@uiowa.edu]]></EmailAddress>
+<NSF_ID>000087886</NSF_ID>
+<StartDate>01/05/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Santhana</FirstName>
+<LastName>Velupillai</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Santhana M Velupillai</PI_FULL_NAME>
+<EmailAddress><![CDATA[santhana-velupillai@uiowa.edu]]></EmailAddress>
+<NSF_ID>000490952</NSF_ID>
+<StartDate>01/05/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Iowa</Name>
+<CityName>IOWA CITY</CityName>
+<ZipCode>522421316</ZipCode>
+<PhoneNumber>3193352123</PhoneNumber>
+<StreetAddress>105 JESSUP HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Z1H9VJS8NG16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF IOWA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Iowa]]></Name>
+<CityName>IOWA CITY</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>522421316</ZipCode>
+<StreetAddress><![CDATA[105 JESSUP HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1938</Code>
+<Text>Chemical Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1108</Code>
+<Text>INSTRUMENTAT &amp; INSTRUMENT DEVP</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9161</Code>
+<Text>SINGLE DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~512460</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Building and Maintaining Simultaneous Dynamic Relationships in a Virtual Organization:   The Case of Virtual Intensive Care Units</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>399984.00</AwardTotalIntnAmount>
+<AwardAmount>399984</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Susan J. Winter</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Nurses in virtual Intensive Care Units (ICUs) function in virtual teams whose configuration and membership is fluid and rapidly changing. They face many challenges related to the development and management of simultaneous dynamic relationships. This study will examine the role trust across these various relationships, and the role of communication and technological support for communication that can affect trust and conflicts. An in-depth analysis of five cases of a virtual ICU will be conducted to understand the strategies and methods that virtual ICU nurses use in developing and managing dynamic interactions with multiple ICUs. Virtual ICUs evolved out of the need to provide around-the-clock care of ICU patients in the face of national shortages of both nurses and intensivists, a 250% increase in hospital ICU beds over the past 20 years, and pressure from external organizations. Understanding virtual ICU sociotechnical systems and their impact on the workers (e.g., virtual ICU nurses) and their performance is critical as this technology may be a solution for the shortage of practitioners, as well as a tool for providing access to healthcare services in remote rural areas. Anchored in the literatures on virtual teams, human factors engineering and sociotechnical systems, this research will identify solutions for improving performance and quality of working life of practioners involved in multiple virtual teams. The results will be broadly applicable beyond virtual ICU?s to other contexts, including academic science and engineering. Increasingly researchers are not only working in one but instead across many distributed teams, and understanding the role of trust, prioritization, and decision management in these new modalities of scientific practice is crucial to the success of science and engineering in the twenty-first century. Undergraduate and graduate students in industrial and systems engineering will be involved in the research and dissemination activities. Results from the project will be used disseminate findings of our research to a broad and public audience.</AbstractNarration>
+<MinAmdLetterDate>08/18/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/18/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0838513</AwardID>
+<Investigator>
+<FirstName>Kenneth</FirstName>
+<LastName>Wood</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kenneth E Wood</PI_FULL_NAME>
+<EmailAddress>KEW@MEDICINE.WISC.EDU</EmailAddress>
+<NSF_ID>000506464</NSF_ID>
+<StartDate>08/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Roger</FirstName>
+<LastName>Brown</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Roger Brown</PI_FULL_NAME>
+<EmailAddress>rlbrown3@facstaff.wisc.edu</EmailAddress>
+<NSF_ID>000506371</NSF_ID>
+<StartDate>08/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Douglas</FirstName>
+<LastName>Wiegmann</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Douglas Wiegmann</PI_FULL_NAME>
+<EmailAddress>dawiegmann@wisc.edu</EmailAddress>
+<NSF_ID>000506373</NSF_ID>
+<StartDate>08/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Pascale</FirstName>
+<LastName>Carayon</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Pascale Carayon</PI_FULL_NAME>
+<EmailAddress>carayon@engr.wisc.edu</EmailAddress>
+<NSF_ID>000337678</NSF_ID>
+<StartDate>08/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Hoonakker</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peter Hoonakker</PI_FULL_NAME>
+<EmailAddress>phoonakker@cqpi.engr.wisc.edu</EmailAddress>
+<NSF_ID>000506374</NSF_ID>
+<StartDate>08/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<StreetAddress2><![CDATA[Suite 6301]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI02</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>161202122</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>041188822</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>537151218</ZipCode>
+<StreetAddress><![CDATA[21 North Park Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5376</Code>
+<Text>INNOVATION &amp; ORG SCIENCES(IOS)</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7642</Code>
+<Text>VIRTUAL ORGANIZATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7642</Code>
+<Text>VIRTUAL ORGANIZATIONS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~399984</FUND_OBLG>
+</Award>
+</rootTag>

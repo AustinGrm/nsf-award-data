@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Photoelectrochemical Films for Solar H2 Production: A Combinatorial CVD Approach]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>324999.00</AwardTotalIntnAmount>
+<AwardAmount>324999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maria Burka</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[CBET-0828410&lt;br/&gt;Adomaitis &lt;br/&gt;&lt;br/&gt;Since the original demonstration of photo-assisted water electrolysis by Fujishima and Honda in 1972, tremendous effort has gone into developing photoelectrochemical (PEC) materials and systems. Numerous research programs have focused on improving the efficiency of these devices, and of those that have been successful, few have addressed the issue of whether such devices would be practical or environmentally desirable to manufacture on the scale necessary to impact the US's energy requirements.&lt;br/&gt;&lt;br/&gt;The PIs plan to develop new semiconductor materials and solar cell devices for the production of hydrogen by the PEC decomposition of water with a manufacturing and product lifecycle perspective. The PEC materials development program builds directly on the complementary skills of the project PIs: the Adomaitis group's combinatorial chemical vapor deposition (CVD) reactor designs for material property and manufacturability optimization, and the Ehrman group's expertise in developing nanostructured films of doped copper oxide for PEC applications by flame synthesis and other manufacturing techniques.&lt;br/&gt;&lt;br/&gt;Intellectual Merit:&lt;br/&gt;&lt;br/&gt;The intellectual merit is defined in terms of three specific technological challenges to be addressed. The first consists of an approach to semiconductor thin-film processing: the PIs plan to demonstrate model-based combinatorial CVD for rapid development of semiconductor materials of optimal efficiency for PEC applications. The second goal is to efficiently investigate, by single-substrate design-of-experiment procedures, the complete range of nanostructured CuO1 film performance, particularly as a function of film morphology. Finally, they will apply the validated process simulators developed in this experimental/computational proposal to investigate the feasibility of using current commercial CVD reactor systems as a means of shortening the path to commercialization of our PEC devices.&lt;br/&gt;&lt;br/&gt;Broader Impact:&lt;br/&gt;&lt;br/&gt;The outcomes of this research program have the potential to broadly impact green manufacturing and energy production technologies. The production of H2 from the solar-powered splitting of water constitutes a sustainable energy supply in that the solar devices are to be manufactured from abundant and benign precursors with virtually no manufacturing waste products. This solar hydrogen production approach will integrate naturally into solar energy systems that enable more efficient use of the full solar spectrum.&lt;br/&gt;&lt;br/&gt;The three educational initiatives will bring new technological and economic aspects of solar energy production into the classroom. A major capstone design project is planned where senior chemical engineering students will evaluate the economic potential of large-scale H2 production based on the semiconductor materials developed in the research.]]></AbstractNarration>
+<MinAmdLetterDate>06/30/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0828410</AwardID>
+<Investigator>
+<FirstName>Raymond</FirstName>
+<LastName>Adomaitis</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Raymond A Adomaitis</PI_FULL_NAME>
+<EmailAddress><![CDATA[adomaiti@umd.edu]]></EmailAddress>
+<NSF_ID>000313045</NSF_ID>
+<StartDate>06/30/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sheryl</FirstName>
+<LastName>Ehrman</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sheryl H Ehrman</PI_FULL_NAME>
+<EmailAddress><![CDATA[sheryl.ehrman@sjsu.edu]]></EmailAddress>
+<NSF_ID>000453215</NSF_ID>
+<StartDate>06/30/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland, College Park</Name>
+<CityName>College Park</CityName>
+<ZipCode>207420001</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 REGENTS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPU8ULVAAS23</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND, COLLEGE PARK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KMGEN62NKEM9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland, College Park]]></Name>
+<CityName>College Park</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>207420001</ZipCode>
+<StreetAddress><![CDATA[3112 LEE BLDG 7809 REGENTS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1403</Code>
+<Text>Proc Sys, Reac Eng &amp; Mol Therm</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>047E</Code>
+<Text>REACTION ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>050E</Code>
+<Text>CHEMICAL PROCESS DESIGN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7752</Code>
+<Text>CDI NON SOLICITED RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~324999</FUND_OBLG>
+</Award>
+</rootTag>

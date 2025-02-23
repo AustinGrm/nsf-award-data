@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Conference: Geometric and Asymptotic Group Theory with Applications, September 15-19, New York, NY]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>25000.00</AwardTotalIntnAmount>
+<AwardAmount>25000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040200</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yongwu  J. Rong</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The conference on "Geometric and Asymptotic Group Theory with Applications"  will be devoted to the study of a variety of topics&lt;br/&gt;in geometric and combinatorial group theory, with special emphasis on asymptotic and probabilistic methods and their applications.&lt;br/&gt;More specifically, the topics include:  group actions, quasi-isometries, isoperimetric functions, growth, asymptotic invariants, random&lt;br/&gt;walks, algorithmic problems, etc.  Applications will be emphasized, especially those concerning complexity theory and information security. Building a solid mathematical foundation for the use of infinite groups in cryptography will inevitably involve operating with various asymptotic and statistical aspects of infinite groups, and this is where modern group theory finds its important applications.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;What makes this conference stand out compared to other conferences on geometric and/or asymptotic group theory is the emphasis on&lt;br/&gt;applications to other areas of science and to real-life problems. More specifically, we are going to emphasize applications that&lt;br/&gt;concern complexity theory and information security, in particular cryptography.  Cryptography and cryptographic protocols have become&lt;br/&gt;a key element of information systems, protecting data and communications to ensure confidentiality, integrity and authenticity&lt;br/&gt;of data. While most symmetric key systems (block ciphers such as DES and AES and stream ciphers) have relatively modest mathematical requirements, asymmetric or public key systems, as well as cryptographic protocols, have become increasingly mathematically sophisticated, and, in particular, the emerging "non-commutative cryptography" exploits various properties of non-abelian infinite groups in very non-trivial ways.]]></AbstractNarration>
+<MinAmdLetterDate>06/20/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/20/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0805552</AwardID>
+<Investigator>
+<FirstName>Vladimir</FirstName>
+<LastName>Shpilrain</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vladimir Shpilrain</PI_FULL_NAME>
+<EmailAddress><![CDATA[shpilrain@yahoo.com]]></EmailAddress>
+<NSF_ID>000220150</NSF_ID>
+<StartDate>06/20/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Denis</FirstName>
+<LastName>Osin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Denis Osin</PI_FULL_NAME>
+<EmailAddress><![CDATA[denis.osin@gmail.com]]></EmailAddress>
+<NSF_ID>000349185</NSF_ID>
+<StartDate>06/20/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CUNY City College</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100319101</ZipCode>
+<PhoneNumber>2126505418</PhoneNumber>
+<StreetAddress>160 CONVENT AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>L952KGDMSLV5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U7WPB7AFN7M2</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[CUNY City College]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100319101</ZipCode>
+<StreetAddress><![CDATA[160 CONVENT AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1267</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~25000</FUND_OBLG>
+</Award>
+</rootTag>

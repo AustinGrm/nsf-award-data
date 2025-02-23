@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Physics REU Directors' Workshop]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>76364.00</AwardTotalIntnAmount>
+<AwardAmount>76358</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kathleen McCloud</SignBlockName>
+<PO_EMAI>kmccloud@nsf.gov</PO_EMAI>
+<PO_PHON>7032928236</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award supports a two-day workshop for NSF-Research Experiences for Undergraduates (REU) Physics Site grant principal investigators to discuss both effective practices in the current REU programs as well as to learn more about effective practices in programs outside of the NSF-REU Physics Sites.  In particular, the participants will learn about current results in assessment of&lt;br/&gt;undergraduate research experiences and programs that have increased the diversity in &lt;br/&gt;undergraduate research programs from other disciplines and discuss how to adapt/adopt these&lt;br/&gt;ideas for Physics REU sites.  Participants will discuss the current challenges and opportunities they face in their individual programs as well as challenges faced by the Physics REU-Site program as a whole and devise a plan for addressing these issues.  A task-force or leadership group will be identified to gather data, study the issues and report back to the community.  The task-force will be based on the successful model of the Chemistry Leadership group, which was formed in the early 2000s.  A website will be created specifically for Physics REU program directors and PIs in order to share information relevant to the programs (including the workshop report) as well as to facilitate future communications with undergraduate research program directors.  The website content will also be viewable by the public, thus anyone engaging in undergraduate research will benefit from the reports produced at this workshop.]]></AbstractNarration>
+<MinAmdLetterDate>04/29/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/04/2011</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0819023</AwardID>
+<Investigator>
+<FirstName>Theodore</FirstName>
+<LastName>Hodapp</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Theodore Hodapp</PI_FULL_NAME>
+<EmailAddress><![CDATA[hodapp@aps.org]]></EmailAddress>
+<NSF_ID>000386418</NSF_ID>
+<StartDate>04/29/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Catherine</FirstName>
+<LastName>Mader</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Catherine M Mader</PI_FULL_NAME>
+<EmailAddress><![CDATA[mader@hope.edu]]></EmailAddress>
+<NSF_ID>000419008</NSF_ID>
+<StartDate>04/29/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>American Physical Society</Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207403841</ZipCode>
+<PhoneNumber>3012093657</PhoneNumber>
+<StreetAddress>ONE PHYSICS ELLIPSE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CE5JV8E9K4S3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>AMERICAN PHYSICAL SOCIETY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[American Physical Society]]></Name>
+<CityName>COLLEGE PARK</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>207403841</ZipCode>
+<StreetAddress><![CDATA[ONE PHYSICS ELLIPSE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>9134</Code>
+<Text>Integrative Activities in Phys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9134</Code>
+<Text>PHYSICS EDUC &amp; INTERDISCIP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~76358</FUND_OBLG>
+</Award>
+</rootTag>

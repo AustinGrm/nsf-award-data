@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Tracing the Radiocarbon Signal of the Ocean's CO2 Release During the Last Deglaciation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>457981.00</AwardTotalIntnAmount>
+<AwardAmount>457981</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040200</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Candace Major</SignBlockName>
+<PO_EMAI>cmajor@nsf.gov</PO_EMAI>
+<PO_PHON>7032927597</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This research will test the overarching hypothesis that ventilation of the Southern Ocean caused low-D14C waters to spread northward via Antarctic Intermediate Water (AAIW) in two stages during the last deglaciation. The work follows on recent results from off the southern tip of Baja California that show dramatic drops in intermediate water D14C during each of the two deglacial atmospheric CO2 increases (atmospheric D14C decreases); such observations appear to require the injection of very old waters from a presumed abyssal reservoir.&lt;br/&gt;&lt;br/&gt;This work will provide crucial mechanistic evidence tying together established deglacial changes in ocean circulation, atmospheric CO2, and oceanic and atmospheric D14C. Studies are based on bottom- and surface- water D14C reconstructions in a depth transect of sediment cores from the continental margin off southern Baja California and from the southern Chilean Margin. D14C reconstructions are derived from benthic and planktic foraminiferal 14C measurements in sediments with independent climate-stratigraphic age control.&lt;br/&gt;&lt;br/&gt;This research adds to the mechanistic understanding of the ocean's role in glacial-interglacial atmospheric CO2 cycles and provides concrete targets for testing of ocean-atmosphere numerical models that are used to project future changes. The project also provides extensive training for a PhD student and a Geological Sciences undergraduate.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/19/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/19/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0851391</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Marchitto</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thomas M Marchitto</PI_FULL_NAME>
+<EmailAddress><![CDATA[tom.marchitto@colorado.edu]]></EmailAddress>
+<NSF_ID>000116533</NSF_ID>
+<StartDate>08/19/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Lehman</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Scott J Lehman</PI_FULL_NAME>
+<EmailAddress><![CDATA[scott.lehman@colorado.edu]]></EmailAddress>
+<NSF_ID>000163156</NSF_ID>
+<StartDate>08/19/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Boulder</Name>
+<CityName>BOULDER</CityName>
+<ZipCode>803090001</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress>3100 MARINE ST STE 481 572 UCB</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SPVKK1RC2MZ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF COLORADO, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>SPVKK1RC2MZ3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName>BOULDER</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803090001</ZipCode>
+<StreetAddress><![CDATA[3100 MARINE ST STE 481 572 UCB]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0204000</Code>
+<Name>Oceanography</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1620</Code>
+<Text>Marine Geology and Geophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1620</Code>
+<Text>MARINE GEOLOGY AND GEOPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~457981</FUND_OBLG>
+</Award>
+</rootTag>

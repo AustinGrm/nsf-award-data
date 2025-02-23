@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[II-NEW: The Utah Acquisition and Rapid Prototyping Laboratory]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>391200.00</AwardTotalIntnAmount>
+<AwardAmount>391200</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Spengler</SignBlockName>
+<PO_EMAI>sspengle@nsf.gov</PO_EMAI>
+<PO_PHON>7032927347</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA["This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5)."&lt;br/&gt;&lt;br/&gt;The real world inspires much of computer graphics and visualization research. In our work, we seek to acquire models directly from the real world and validate our synthetic models against real-world data. Our project establishes an Acquisition and Rapid Prototyping Laboratory in the School of Computing at the University of Utah. The lab includes a heterogeneous set of acquisition and rapid prototyping equipment, including laser range scanners, high-resolution and high frame rate cameras, and a 3D printer.  This lab enables a wide range of projects, including visual validation of physics-based simulations, the creation of a material library for physics-based simulations, quantifying reconstruction error through adversarial cases, and the creation of a carefully curated data repository of 3-D scans.  All of our collected data is available on the internet so that researchers at other institutions may also benefit from the laboratory.  In short, this infrastructure allows the real world to inspire, create and validate our computer models of the real world.&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/20/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/20/2009</MaxAmdLetterDate>
+<ARRAAmount>391200</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855167</AwardID>
+<Investigator>
+<FirstName>Elaine</FirstName>
+<LastName>Cohen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elaine Cohen</PI_FULL_NAME>
+<EmailAddress><![CDATA[cohen@cs.utah.edu]]></EmailAddress>
+<NSF_ID>000202066</NSF_ID>
+<StartDate>07/20/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Claudio</FirstName>
+<LastName>Silva</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Claudio T Silva</PI_FULL_NAME>
+<EmailAddress><![CDATA[csilva@nyu.edu]]></EmailAddress>
+<NSF_ID>000124941</NSF_ID>
+<StartDate>07/20/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Kirby</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME>II</PI_SUFX_NAME>
+<PI_FULL_NAME>Robert M Kirby</PI_FULL_NAME>
+<EmailAddress><![CDATA[kirby@cs.utah.edu]]></EmailAddress>
+<NSF_ID>000484303</NSF_ID>
+<StartDate>07/20/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Adam</FirstName>
+<LastName>Bargteil</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Adam Bargteil</PI_FULL_NAME>
+<EmailAddress><![CDATA[adamb@umbc.edu]]></EmailAddress>
+<NSF_ID>000513137</NSF_ID>
+<StartDate>07/20/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Utah</Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841129049</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress>201 PRESIDENTS CIR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LL8GLEVH6MG3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF UTAH</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Utah]]></Name>
+<CityName>SALT LAKE CITY</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>841129049</ZipCode>
+<StreetAddress><![CDATA[201 PRESIDENTS CIR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7359</Code>
+<Text>CCRI-CISE Cmnty Rsrch Infrstrc</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~391200</FUND_OBLG>
+</Award>
+</rootTag>

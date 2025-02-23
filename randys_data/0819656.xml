@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Symposium on Computational Approaches to Creativity in Science]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>18000.00</AwardTotalIntnAmount>
+<AwardAmount>18000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pamela L. Jennings</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This symposium explores the role of creativity in scientific discovery and how computational tools help us understand and increase scientific creativity. The symposium brings together researchers from a number of disciplines, who study science and creativity from different perspectives but who share a commitment to the computational metaphor. In addition to fostering interdisciplinary discussions, the participants in the symposium address the following questions at the intersection of creativity and scientific reasoning. &lt;br/&gt;- What role does creativity play in different facets of the scientific enterprise, and how can  computational tools help in each context? &lt;br/&gt;- When does scientific creativity manifest as a systematic search through a problem space and when does it involve altering the problem representation? &lt;br/&gt;- When does background knowledge aid creativity in science and when does it interfere with the discovery of creative solutions? &lt;br/&gt;- How should we structure computational discovery aids to encourage scientific creativity? &lt;br/&gt;- What is the appropriate tradeoff between constraints and flexibility in creativity-support tools? &lt;br/&gt;- When do interactions among scientists increase creativity and how can computational aids for interaction support this process? &lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>02/28/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>02/28/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0819656</AwardID>
+<Investigator>
+<FirstName>Pat</FirstName>
+<LastName>Langley</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Pat Langley</PI_FULL_NAME>
+<EmailAddress><![CDATA[pat.langley@sv.cmu.edu]]></EmailAddress>
+<NSF_ID>000377742</NSF_ID>
+<StartDate>02/28/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Will</FirstName>
+<LastName>Bridewell</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Will Bridewell</PI_FULL_NAME>
+<EmailAddress><![CDATA[willb@stanford.edu]]></EmailAddress>
+<NSF_ID>000343594</NSF_ID>
+<StartDate>02/28/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Institute for the Study of Learning and Expertise</Name>
+<CityName>PALO ALTO</CityName>
+<ZipCode>943061438</ZipCode>
+<PhoneNumber>6504943884</PhoneNumber>
+<StreetAddress>2164 STAUNTON CT</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MXN8QYHCFNK4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>INSTITUTE FOR THE STUDY OF LEARNING &amp; EXPERTISE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Institute for the Study of Learning and Expertise]]></Name>
+<CityName>PALO ALTO</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>943061438</ZipCode>
+<StreetAddress><![CDATA[2164 STAUNTON CT]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7788</Code>
+<Text>CreativeIT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7655</Code>
+<Text>ITR-CreativeIT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9215</Code>
+<Text>HIGH PERFORMANCE COMPUTING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~18000</FUND_OBLG>
+</Award>
+</rootTag>

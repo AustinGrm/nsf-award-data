@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research:  Enhancing the Geoscience Curriculum Using GeoBrowsers-based Learning Objects]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>99296.00</AwardTotalIntnAmount>
+<AwardAmount>99296</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Matty</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Geology (42)  The project is creating computer resources and associated lesson plans to aid undergraduate students in visualizing geology using Google Earth (TM) and will assess learning with real research data versus textbook simplifications. Students nationwide will be able to investigate concepts of vast geologic scale and deep geologic time via the familiar interface of Google Earth, and thereby gain a sense of technological empowerment.  Interactive models are being developed to show a variety of geologic features, such as mountains, tectonic faults, volcanoes, mineral deposits, and hydrocarbon traps,  that emerge from the sub-surface when students drag the mouse across their computer monitors. By studying paleogeographic restorations draped over the Google Earth surface in association with representative rock and mineral specimens, students have a unique affordance to understand the geological timescale. Logging of mouse and keyboard actions in test classes are being used to evaluate the systematicity of student learning.&lt;br/&gt;Focus groups of college professors in teaching-intensive 2- and 4-year colleges will attend workshops on lesson plan design suited to state and local needs. They will test the learning objects and serve as an advisory board. Two larger-scale studies are assessing matched cohorts (students in different classes who have the same professor and whose GPAs, etc., are roughly equivalent). Tests will identify student misconceptions and will include transfer-type questions in which students have to generalize wisely.&lt;br/&gt;Intellectual Merit: Learning objects from this project are promoting undergraduate comprehension of geology and geophysics and a more complete understanding of Planet Earth with the aid of 4-D interactive globes that hyperlink to research data. Mindful of research findings on how students learn via technology, it is predicted that the project will significantly improve the knowledge and skills of the next generation of geoscientists. &lt;br/&gt;Broader Impact: The development and use of innovative visualization materials in both introductory and upper-level geoscience courses are advancing discovery and understanding of the nature of science and scientific investigations among a wide and diverse population of students. The availability of these materials for free download will promote broad dissemination.]]></AbstractNarration>
+<MinAmdLetterDate>09/03/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/03/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0837040</AwardID>
+<Investigator>
+<FirstName>Declan</FirstName>
+<LastName>De Paor</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Declan G De Paor</PI_FULL_NAME>
+<EmailAddress><![CDATA[ddepaor@odu.edu]]></EmailAddress>
+<NSF_ID>000176880</NSF_ID>
+<StartDate>09/03/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Old Dominion University Research Foundation</Name>
+<CityName>NORFOLK</CityName>
+<ZipCode>235082561</ZipCode>
+<PhoneNumber>7576834293</PhoneNumber>
+<StreetAddress>4111 MONARCH WAY</StreetAddress>
+<StreetAddress2><![CDATA[STE 204]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DSLXBD7UWRV6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OLD DOMINION UNIVERSITY RESEARCH FOUNDATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X6KEFGLHSJX7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Old Dominion University]]></Name>
+<CityName>Norfolk</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>235290001</ZipCode>
+<StreetAddress><![CDATA[5115 Hampton Blvd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>1300CYXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~99296</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Flavor Physics and CP Violation 2009]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>8000.00</AwardTotalIntnAmount>
+<AwardAmount>8000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Joseph Reidy</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[PROPOSAL NUMBER: 0841178&lt;br/&gt;INSTITUTION: Syracuse University&lt;br/&gt;NSF PROGRAM: PHY ? ELEMENTARY PARTICLE ACCEL USER&lt;br/&gt;PRINCIPAL INVESTIGATOR: Stone, Sheldon&lt;br/&gt;&lt;br/&gt;TITLE: Flavor Physics and CP Violation 2009&lt;br/&gt;&lt;br/&gt;The Flavor Physics and CP Violation (FPCP) conference series has emerged as one of the leading meetings in the field. The first  meeting was in 2002 at the University of Pennsylvania and the conference has been held annually since then. The venue is rotated every three years between Asia, The Americas and Europe. The next meeting will be held May 27 - June 1 at Lake Placid, NY and will be hosted by the Experimental Elementary Particles group at Syracuse University. Funds are requested to help support the travel and participation of about 4 young scientists, mainly graduate students, who would participate in the meeting either by giving a talk or presenting a poster.  Additional funds are requested to aid in publishing the proceedings on-line for free public access.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>11/04/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>11/04/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0841178</AwardID>
+<Investigator>
+<FirstName>Sheldon</FirstName>
+<LastName>Stone</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sheldon Stone</PI_FULL_NAME>
+<EmailAddress><![CDATA[slstone@syr.edu]]></EmailAddress>
+<NSF_ID>000184035</NSF_ID>
+<StartDate>11/04/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Marina</FirstName>
+<LastName>Artuso</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marina Artuso</PI_FULL_NAME>
+<EmailAddress><![CDATA[martuso@syr.edu]]></EmailAddress>
+<NSF_ID>000238878</NSF_ID>
+<StartDate>11/04/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tomasz</FirstName>
+<LastName>Skwarnicki</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tomasz Skwarnicki</PI_FULL_NAME>
+<EmailAddress><![CDATA[tomasz@physics.syr.edu]]></EmailAddress>
+<NSF_ID>000183754</NSF_ID>
+<StartDate>11/04/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>Blusk</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Steven Blusk</PI_FULL_NAME>
+<EmailAddress><![CDATA[sblusk@phy.syr.edu]]></EmailAddress>
+<NSF_ID>000184866</NSF_ID>
+<StartDate>11/04/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Syracuse University</Name>
+<CityName>SYRACUSE</CityName>
+<ZipCode>132440001</ZipCode>
+<PhoneNumber>3154432807</PhoneNumber>
+<StreetAddress>900 S CROUSE AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>22</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY22</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>C4BXLBC11LC6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SYRACUSE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Syracuse University]]></Name>
+<CityName>SYRACUSE</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>132440001</ZipCode>
+<StreetAddress><![CDATA[900 S CROUSE AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>22</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY22</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1221</Code>
+<Text>HEP-High Energy Physics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1221</Code>
+<Text>ELEMENTARY PARTICLE ACCEL USER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~8000</FUND_OBLG>
+</Award>
+</rootTag>

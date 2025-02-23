@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Conference: Grounding Language in Perception and (Inter) Action]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>12000.00</AwardTotalIntnAmount>
+<AwardAmount>12000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Betty Tuller</SignBlockName>
+<PO_EMAI>btuller@nsf.gov</PO_EMAI>
+<PO_PHON>7032927238</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[While we have learned much about language as a formal system over the past 50 years, language is an inherently social, physical, and moral activity that has been treated as if it were an isolated cognitive skill, located in individual brains. This conference, to be held at Gordon College, Wenham, MA, June 4-6, 2009, will be the first meeting in the United States of the Distributed Language Group. It will bring together its array of interdisciplinary scholars with leading researchers on language in dynamical systems and ecological psychology. The conference will provide a rare opportunity for scholars dispersed by geography and discipline to develop a more integrated and comprehensive understanding of language as grounded in social perception and action. Such an approach to linguistic activities has broad implications for robotics, anthropology, philosophy, education, and rehabilitation, and it is expected that scholars from all of these areas will participate. The transfer of skills across domains (e.g., the use of nonlinear dynamics by linguists; the importance of culture for ecological researchers) will be considerable, and new interdisciplinary collaborations will likely be formed. A secondary audience will be selected students and teachers in undergraduate colleges interested in language theory and research.]]></AbstractNarration>
+<MinAmdLetterDate>01/30/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>01/30/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0843219</AwardID>
+<Investigator>
+<FirstName>Bert</FirstName>
+<LastName>Hodges</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bert H Hodges</PI_FULL_NAME>
+<EmailAddress><![CDATA[bert.hodges@uconn.edu]]></EmailAddress>
+<NSF_ID>000508922</NSF_ID>
+<StartDate>01/30/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Gordon College</Name>
+<CityName>WENHAM</CityName>
+<ZipCode>019841813</ZipCode>
+<PhoneNumber>9788674241</PhoneNumber>
+<StreetAddress>255 GRAPEVINE RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WC1GM4ABEXH4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GORDON COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>WC1GM4ABEXH4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Gordon College]]></Name>
+<CityName>WENHAM</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>019841813</ZipCode>
+<StreetAddress><![CDATA[255 GRAPEVINE RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7252</Code>
+<Text>Perception, Action &amp; Cognition</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~12000</FUND_OBLG>
+</Award>
+</rootTag>

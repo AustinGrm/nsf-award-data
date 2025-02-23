@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SC Graduate Steps to STEM]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>600000.00</AwardTotalIntnAmount>
+<AwardAmount>600000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karen Crosby</SignBlockName>
+<PO_EMAI>kcrosby@nsf.gov</PO_EMAI>
+<PO_PHON>7032922124</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The "SC Graduate Steps to STEM" project provides scholarships for new graduate students in STEM fields - Biology, Geology, Marine Sciences, Mathematics, Statistics and Physics and Astronomy - at the University of South Carolina (USC) as an enrollment incentive and to ease financial constraints while also providing support mechanisms to participating fellows.  Targeted students for these scholarships are graduates of the "SC STEPs to STEM" program, most of whom transferred to USC as juniors and are often non-traditional students, as well as undergraduates in South Carolina LSAMP and TRIO programs.  Ultimately, the goal of this project is that fellows graduate with a Master's degree in a STEM field to either enter the workforce with increased earning, knowledge and social contribution potential, or to continue doctoral studies in the STEM field of their choice.  &lt;br/&gt;&lt;br/&gt;The project is based on practices that have been shown to be effective in retaining students in science and mathematics graduate programs and leading them to doctoral programs, and include: &lt;br/&gt;     (a) correcting deficiencies in the fellows' undergraduate education through tutorials, appropriate coursework and teaching experience; &lt;br/&gt;     (b) helping fellows establish relationships among peers and faculty at USC and elsewhere in the research community so that the students have well-defined career goals and a support system that helps them achieve their goals; &lt;br/&gt;     (c) providing a smooth transition from undergraduate science programs at USC and other 4-year institutions to graduate programs in Science and Mathematics at USC; and &lt;br/&gt;     (d) participating in the USC Preparing Future Faculty program to further encourage and prepare fellows for academic careers that encompass teaching, research and service.]]></AbstractNarration>
+<MinAmdLetterDate>01/14/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>04/26/2012</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0850208</AwardID>
+<Investigator>
+<FirstName>Ronald</FirstName>
+<LastName>Benner</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ronald Benner</PI_FULL_NAME>
+<EmailAddress><![CDATA[BENNER@mailbox.sc.edu]]></EmailAddress>
+<NSF_ID>000266869</NSF_ID>
+<StartDate>01/14/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Vogt</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Richard G Vogt</PI_FULL_NAME>
+<EmailAddress><![CDATA[vogt@biol.sc.edu]]></EmailAddress>
+<NSF_ID>000394048</NSF_ID>
+<StartDate>01/14/2009</StartDate>
+<EndDate>04/02/2012</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Tedeschi</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David J Tedeschi</PI_FULL_NAME>
+<EmailAddress><![CDATA[tedeschi@sc.edu]]></EmailAddress>
+<NSF_ID>000191286</NSF_ID>
+<StartDate>01/14/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Briana</FirstName>
+<LastName>Timmerman</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Briana E Timmerman</PI_FULL_NAME>
+<EmailAddress><![CDATA[briana.timmerman@gmail.com]]></EmailAddress>
+<NSF_ID>000143660</NSF_ID>
+<StartDate>04/02/2012</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Raymond</FirstName>
+<LastName>Torres</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Raymond Torres</PI_FULL_NAME>
+<EmailAddress><![CDATA[torres@geol.sc.edu]]></EmailAddress>
+<NSF_ID>000444808</NSF_ID>
+<StartDate>01/14/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>Mousseau</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Timothy A Mousseau</PI_FULL_NAME>
+<EmailAddress><![CDATA[mousseau@sc.edu]]></EmailAddress>
+<NSF_ID>000569434</NSF_ID>
+<StartDate>01/14/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Schillaci</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael Schillaci</PI_FULL_NAME>
+<EmailAddress><![CDATA[schillaci_michael@roberts.edu]]></EmailAddress>
+<NSF_ID>000576343</NSF_ID>
+<StartDate>04/26/2012</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University South Carolina Research Foundation</Name>
+<CityName>COLUMBIA</CityName>
+<ZipCode>292084009</ZipCode>
+<PhoneNumber>8037777093</PhoneNumber>
+<StreetAddress>915 BULL ST</StreetAddress>
+<StreetAddress2><![CDATA[STE 202]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SC06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ELBVJ1KYX976</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SOUTH CAROLINA RESEARCH FOUNDATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of South Carolina at Columbia]]></Name>
+<CityName>COLUMBIA</CityName>
+<StateCode>SC</StateCode>
+<ZipCode>292083403</ZipCode>
+<StreetAddress><![CDATA[1600 HAMPTON ST # 414]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SC06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~82500</FUND_OBLG>
+<FUND_OBLG>2010~517500</FUND_OBLG>
+</Award>
+</rootTag>

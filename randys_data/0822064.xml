@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[R&amp;D: Diagnosing Teachers' Multiplicative Reasoning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>944163.00</AwardTotalIntnAmount>
+<AwardAmount>460562</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DRL</Abbreviation>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Elizabeth VanderPutten</SignBlockName>
+<PO_EMAI>evanderp@nsf.gov</PO_EMAI>
+<PO_PHON>7032925147</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Diagnosing Teachers' Multiplicative Reasoning (DTMR) addresses the assessment component of the DR-K12 Contextual Challenges strand. Investigating knowledge that teachers need to enable students' learning and developing assessments of that knowledge are central challenges for mathematics education. One approach emphasizes correlations between amounts of teachers' knowledge and students' achievement for accountability purposes. Another, grounded in research on mathematical thinking, often uses case studies to investigate teachers' capacities for identifying and building upon opportunities in students' problem-solving strategies. Tensions exist between these approaches because instruments convenient for assessing large numbers of teachers are insensitive to capacities for reasoning, while case study methods used to investigate teachers' reasoning are not practical with large samples. The DTMR project is building a demonstration instrument both suitable for use with large samples of teachers and informative about their capacities to reason about content in ways that support students' thinking. &lt;br/&gt;&lt;br/&gt;In particular, the DTMR project is developing and evaluating a test form that diagnoses teachers' capacities in two closely connected cases of reasoning about multiplicative relations among quantities. The first is on on measurement that often relies on multiplicatively nested levels of units when partitioning a given quantity. The second is on covariation that often relies on multiplicative relations between distinct quantities. The project is focusing on aspects of such reasoning that are interconnected and fundamental to addition and subtraction of quantities, multiplication of quantities, quotative and partitive division of quantities, and ratios of quantities. The project will consider fractions, decimals, and ratios. A main goal of the project is to address content and construct validity of the demonstration form in sufficient depth so that larger scale work and predictive validity studies may follow. &lt;br/&gt;&lt;br/&gt;The project is developing instruments using a new class of psychometric models called cognitive diagnosis models (CDMs). Using CDMs involves specifying components of reasoning in a particular domain and then constructing test questions (typically multiple-choice) systematically so that each choice corresponds to reasoning with a different combination of those components. Drawing on the research on students' and teachers' multiplicative reasoning, the project is developing one test form of 30 to 40 items. CDM simulation studies of estimation and equating methods are also an important component of the project.]]></AbstractNarration>
+<MinAmdLetterDate>09/16/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/16/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0822064</AwardID>
+<Investigator>
+<FirstName>Allan</FirstName>
+<LastName>Cohen</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Allan S Cohen</PI_FULL_NAME>
+<EmailAddress><![CDATA[acohen@uga.edu]]></EmailAddress>
+<NSF_ID>000391319</NSF_ID>
+<StartDate>09/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joanne</FirstName>
+<LastName>Lobato</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joanne E Lobato</PI_FULL_NAME>
+<EmailAddress><![CDATA[jlobato@mail.sdsu.edu]]></EmailAddress>
+<NSF_ID>000391592</NSF_ID>
+<StartDate>09/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chandra</FirstName>
+<LastName>Orrill</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chandra H Orrill</PI_FULL_NAME>
+<EmailAddress><![CDATA[corrill@umassd.edu]]></EmailAddress>
+<NSF_ID>000331384</NSF_ID>
+<StartDate>09/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Izsak</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrew Izsak</PI_FULL_NAME>
+<EmailAddress><![CDATA[Andrew.Izsak@tufts.edu]]></EmailAddress>
+<NSF_ID>000097480</NSF_ID>
+<StartDate>09/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Templin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jonathan Templin</PI_FULL_NAME>
+<EmailAddress><![CDATA[jonathan-templin@uiowa.edu]]></EmailAddress>
+<NSF_ID>000077659</NSF_ID>
+<StartDate>09/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Georgia Research Foundation Inc</Name>
+<CityName>ATHENS</CityName>
+<ZipCode>306021589</ZipCode>
+<PhoneNumber>7065425939</PhoneNumber>
+<StreetAddress>310 EAST CAMPUS RD TUCKER HALL R</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NMJHD63STRC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Georgia]]></Name>
+<CityName>ATHENS</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>306020001</ZipCode>
+<StreetAddress><![CDATA[310 E CAMPUS RD TUCKER HALL RM 4]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7645</Code>
+<Text>Discovery Research K-12</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9177</Code>
+<Text>ELEMENTARY/SECONDARY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~0</FUND_OBLG>
+</Award>
+</rootTag>

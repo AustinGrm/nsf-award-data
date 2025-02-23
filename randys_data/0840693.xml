@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Travel Grants for the American Physical Society Division of Fluid Dynamics Annual Meeting 2008</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>20000.00</AwardTotalIntnAmount>
+<AwardAmount>20000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Horst Henning Winter</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>CBET-0840693&lt;br/&gt;Plesniak&lt;br/&gt;&lt;br/&gt;This grant will facilitate participant travel to the American Physical Society, Division of Fluid Dynamics, 61st Annual DFD Meeting, San Antonio, Texas, November 23-25, 2008. This is one of the largest international annual meetings of fluid dynamicists in the world, with 1500 anticipated attendees, successfully run for over sixty years. The intellectual merit is the exchange of scientific ideas, presentations of cutting edge research and exposure to a richly diverse array of topics is in virtually every sub-discipline of fluid dynamics. Broader impacts include increased participation of students and young scientists will be possible for those who would not otherwise be able to afford to travel to the meeting and pay associated costs. Preference is given: (i) to those presenting talks at the meeting, (ii) to students, (iii) to applicants from other than US, Canada, Western Europe, Japan, Russia, (iv) to those who have not received such an award in the past two years, and (v) to no more than one applicant from a given research advisor. Since the awards are meant to supplement participant travel funds, not to cover these entirely, the committee takes into account the travel budget as stated on the application. Special effort is made to achieve diverse participation from underrepresented groups in engineering, including women and members of minority groups. The application and selection process is conducted under the auspices of the DFD External Affairs Committee, Prof. Kimberly Hill, Chair (University of Minnesota) and Prof. Michael Plesniak, Vice Chair (Purdue University).</AbstractNarration>
+<MinAmdLetterDate>08/12/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/12/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0840693</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Plesniak</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael W Plesniak</PI_FULL_NAME>
+<EmailAddress>plesniak@gwu.edu</EmailAddress>
+<NSF_ID>000308687</NSF_ID>
+<StartDate>08/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>West Lafayette</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>2550 Northwestern Ave.</StreetAddress>
+<StreetAddress2><![CDATA[Suite 1900]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>072051394</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>072051394</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>West Lafayette</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479061332</ZipCode>
+<StreetAddress><![CDATA[2550 Northwestern Ave.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1443</Code>
+<Text>FD-Fluid Dynamics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>057E</Code>
+<Text>Thermodynamics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>060E</Code>
+<Text>BIO-TRANSPORT &amp; FLUID MECH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~20000</FUND_OBLG>
+</Award>
+</rootTag>

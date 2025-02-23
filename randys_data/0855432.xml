@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Radio telescopes and gravitational-wave observatories: Two windows on the same Universe</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>80000.00</AwardTotalIntnAmount>
+<AwardAmount>80000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Marronetti</SignBlockName>
+<PO_EMAI>pmarrone@nsf.gov</PO_EMAI>
+<PO_PHON>7032927372</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).  Over the past few decades, radio astronomy has replaced our serene, optical view of stars and galaxies with a more dynamic one of exotic objects and violent phenomena. Today we are on the verge of another revolution in astronomy, as a new generation of observatories prepare to make the first detections of an entirely new spectrum of radiation: gravitational waves. This project will advance the fields of both radio and gravitational-wave astronomy through a series of coordinated observations between the world's largest radio observatories (the Arecibo and Green Bank radio telescopes), and the most sensitive gravitational-wave observatories (the LIGO and Virgo detectors).  One component of the project is to perform detailed radio measurements of exotic compact rapidly-spinning stars known as radio pulsars.  A second component would be to perform rapid radio follow-up observations of any detected bursts of gravitational radiation, such as might accompany the collisions of compact stars and black holes.&lt;br/&gt;&lt;br/&gt;By obtaining precise data on known radio sources that may also be gravitational sources, one can dramatically increase the sensitivity of gravitational-wave searches targeting these objects.  Meanwhile, if a putative gravitational-wave burst is accompanied by radio emissions, this will significantly improve confidence in the reality of these early gravitational-wave detections.  Both types of observation will hasten the advent of gravitational-wave astronomy, giving complementary views of some of the strangest phenomena in the Universe. These observations will be performed by a specially-trained cadre of student observers recruited from the Lower Rio Grande Valley, providing unprecedented educational and technical opportunities to the academically underrepresented and economically disadvantaged community of this region.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>08/26/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/26/2009</MaxAmdLetterDate>
+<ARRAAmount>80000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855432</AwardID>
+<Investigator>
+<FirstName>Teviet</FirstName>
+<LastName>Creighton</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Teviet Creighton</PI_FULL_NAME>
+<EmailAddress>teviet.creighton@utrgv.edu</EmailAddress>
+<NSF_ID>000077803</NSF_ID>
+<StartDate>08/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>The University of Texas at Brownsville</Name>
+<CityName>Brownsville</CityName>
+<ZipCode>785204956</ZipCode>
+<PhoneNumber>9568827849</PhoneNumber>
+<StreetAddress>One West University Blvd</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>34</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX34</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>800187965</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT BROWNSVILLE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>042000273</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The University of Texas at Brownsville]]></Name>
+<CityName>Brownsville</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>785204956</ZipCode>
+<StreetAddress><![CDATA[One West University Blvd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>34</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX34</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1252</Code>
+<Text>LIGO RESEARCH SUPPORT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7483</Code>
+<Text>PHYSICS OF THE UNIVERSE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~80000</FUND_OBLG>
+</Award>
+</rootTag>

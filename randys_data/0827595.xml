@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Dynamics of Layering in Biological Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>750000.00</AwardTotalIntnAmount>
+<AwardAmount>750000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08040000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EF</Abbreviation>
+<LongName>Emerging Frontiers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Saran Twombly</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Many important biological systems are layered. Examples include microbial biofilms, epithelial tissues, developing embryos, intertidal populations, and temperate forests. A challenge for theoretical biology is to develop models for these complex systems. This project proposes a three-pronged approach to meet this challenge. First, complex three-dimensional computer models are used to simulate the dynamics of a layered system. Second, mathematical probes are derived to help understand and predict dynamics in different portions of the system. Third, an 'equation-free' modeling technique is used that infers the dynamics of macroscopic variables from the behavior of complex models. These alternative approaches will be tested by applying them to the population dynamics of marine mussel beds. To broaden these results into a general theory, the investigators plan two symposia on the dynamics of layered biological systems. Experts from diverse fields such as microbial biology, developmental biology, cell biology and ecosystem science will scrutinize similarities and differences among disparate layered, biological systems with the goal of advancing theoretical biology by developing models for complex biological systems in which layering evolves through the dynamics of self organization. &lt;br/&gt;&lt;br/&gt;New theory resulting from this project will aid in our understanding of phenomena as diverse as microbial fouling, the healing of wounds, and the propagation of forest fires. The project's investigators have established a highly successful partnership between California State University at Los Angeles and California Institute of Technology to increase the numbers of minorities entering careers in engineering and science. As a continuation of this partnership, and a broader impact of the current project, three graduate students and a postdoctoral associate, likely from underrepresented groups, will receive interdisciplinary training in applied mathematical biology. These students will also participate in a new interdisciplinary environmental science Masters Program designed and implemented by the Cal State - Caltech partnership.]]></AbstractNarration>
+<MinAmdLetterDate>08/12/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/12/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0827595</AwardID>
+<Investigator>
+<FirstName>Carlos</FirstName>
+<LastName>Robles</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carlos D Robles</PI_FULL_NAME>
+<EmailAddress><![CDATA[crobles@calstatela.edu]]></EmailAddress>
+<NSF_ID>000444646</NSF_ID>
+<StartDate>08/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Desharnais</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert A Desharnais</PI_FULL_NAME>
+<EmailAddress><![CDATA[rdeshar@calstatela.edu]]></EmailAddress>
+<NSF_ID>000103740</NSF_ID>
+<StartDate>08/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Murray</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Richard M Murray</PI_FULL_NAME>
+<EmailAddress><![CDATA[murray@caltech.edu]]></EmailAddress>
+<NSF_ID>000369755</NSF_ID>
+<StartDate>08/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California State L A University Auxiliary Services Inc.</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900324226</ZipCode>
+<PhoneNumber>3233433648</PhoneNumber>
+<StreetAddress>5151 STATE UNIVERSITY DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>34</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA34</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>C1ABLRAQTB48</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CAL STATE LA UNIVERSITY AUXILIARY SERVICES INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[California State University-Los Angeles]]></Name>
+<CityName>Los Angeles</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900324221</ZipCode>
+<StreetAddress><![CDATA[5151 State University Dr]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>34</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA34</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7664</Code>
+<Text>THEORETICAL BIOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7664</Code>
+<Text>THEORETICAL BIOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~750000</FUND_OBLG>
+</Award>
+</rootTag>

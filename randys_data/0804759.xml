@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[North American Meeting of Researchers in Statistics and Probability, Summer 2008, Boulder, CO]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>21300.00</AwardTotalIntnAmount>
+<AwardAmount>21300</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040200</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yazhen Wang</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The investigator and her colleagues are organizing and hosting a conference aimed specifically at new researchers in statistics and probability. The conference constitutes a unique venue and opportunity for junior researchers to interact with their peers in an informal setting. During the conference, the participants will present their research ideas in a series of talks and poster sessions. The investigator and her colleagues have invited several senior researchers to the conference. The senior participants will host panel session where the junior researchers can learn about funding opportunities, how to mentor students, and how to publish their research in professional journals. The primary goals of the conferences are professional education of new researchers and to help create a network among these junior researchers, both vital parts of professional growth. Women, minorities, and the disabled are explicitly encouraged to attend. &lt;br/&gt;&lt;br/&gt;The investigator plans to organize and host the Eleventh Meeting of New Researchers in Statistics and Probability. The primary objective is to provide a venue for interaction among new researchers. The proposed conference will take place July 29 - August 2, 2008 at the University of Colorado, Boulder, and the National Center for Atmospheric Research (NCAR), to immediately precede the annual Joint Statistical Meetings (JSM) in Denver. Participants will be statisticians and probabilists that have received their Ph.D. within the past five years or are expecting to receive their degree within the next year. Each participant will present a talk or poster. Topics will range across a variety of areas in statistical research from theory and methods to applications. Senior speakers will discuss topics of particular interest to new researchers. Panel discussions during the conference will cover the topics of journal publications, opportunities in statistics laboratories and industry, funding, and mentoring.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>02/25/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>02/25/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0804759</AwardID>
+<Investigator>
+<FirstName>Rebecka</FirstName>
+<LastName>Jornsten</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rebecka Jornsten</PI_FULL_NAME>
+<EmailAddress><![CDATA[rebecka@stat.rutgers.edu]]></EmailAddress>
+<NSF_ID>000486840</NSF_ID>
+<StartDate>02/25/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rutgers University New Brunswick</Name>
+<CityName>NEW BRUNSWICK</CityName>
+<ZipCode>089018559</ZipCode>
+<PhoneNumber>8489320150</PhoneNumber>
+<StreetAddress>3 RUTGERS PLZA</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M1LVPE5GLSD9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M1LVPE5GLSD9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rutgers University New Brunswick]]></Name>
+<CityName>NEW BRUNSWICK</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>089018559</ZipCode>
+<StreetAddress><![CDATA[3 RUTGERS PLZA]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1263</Code>
+<Text>PROBABILITY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~21300</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Geometric Arrangements and their Algorithmic Applications</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>399997.00</AwardTotalIntnAmount>
+<AwardAmount>399997</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dmitri Maslov</SignBlockName>
+<PO_EMAI>dmaslov@nsf.gov</PO_EMAI>
+<PO_PHON>7032928910</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Project Abstract&lt;br/&gt;The algorithmic complexity (efficiency) of many geometric algorithms depends mainly on the size&lt;br/&gt;(combinatorial complexity) of the structure to be computed. The Principal Investigators study a&lt;br/&gt;variety of problems originating in robotics, computer graphics, cellular networking, bioinformatics,&lt;br/&gt;etc., that belong to this category. To bound the complexity of the corresponding structures, they&lt;br/&gt;often need sophisticated techniques drawn from several branches of mathematics and theoretical&lt;br/&gt;computer science. In most cases, the bulk of the work is devoted to the study of arrangements of&lt;br/&gt;curves and surfaces in Euclidean spaces, which lies at the heart of the field. During the process,&lt;br/&gt;they develop important new results in several classical mathematical disciplines ranging from Helly&lt;br/&gt;theory to Tur´an- and Ramsey-type extremal graph theory. Specifically, the PIs are studying:&lt;br/&gt;(1) Combinatorial, topological and algorithmic problems related to structures in arrangements&lt;br/&gt;(lower envelopes and cells, levels, vertical decompositions, incidences with points, etc.) of surfaces&lt;br/&gt;in higher dimensions.&lt;br/&gt;(2) Applications of these results to geometric optimization and range searching, to various visi-&lt;br/&gt;bility and intersection problems in computer graphics, to generalized Voronoi diagrams in higher&lt;br/&gt;dimensions, to motion planning in robotics, and to many other geometric problems at large.&lt;br/&gt;(3) Combinatorial, topological, and algorithmic problems involving planar arrangements of seg-&lt;br/&gt;ments or curves, including graph drawings.&lt;br/&gt;1</AbstractNarration>
+<MinAmdLetterDate>08/01/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/01/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0830272</AwardID>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Pollack</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Richard Pollack</PI_FULL_NAME>
+<EmailAddress>pollack@cims.nyu.edu</EmailAddress>
+<PI_PHON>2129983167</PI_PHON>
+<NSF_ID>000174674</NSF_ID>
+<StartDate>08/01/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Micha</FirstName>
+<LastName>Sharir</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Micha Sharir</PI_FULL_NAME>
+<EmailAddress>sharir@cims.nyu.edu</EmailAddress>
+<PI_PHON>2129983118</PI_PHON>
+<NSF_ID>000124073</NSF_ID>
+<StartDate>08/01/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Janos</FirstName>
+<LastName>Pach</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Janos Pach</PI_FULL_NAME>
+<EmailAddress>pach@cims.nyu.edu</EmailAddress>
+<PI_PHON>2123878663</PI_PHON>
+<NSF_ID>000171636</NSF_ID>
+<StartDate>08/01/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQ S</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NX9PXMKW5KW8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW YORK UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NX9PXMKW5KW8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Courant Institute of Math Sciences]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100121092</ZipCode>
+<StreetAddress><![CDATA[New York University]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>2865</Code>
+<Text>NUMERIC, SYMBOLIC &amp; GEO COMPUT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~399997</FUND_OBLG>
+</Award>
+</rootTag>

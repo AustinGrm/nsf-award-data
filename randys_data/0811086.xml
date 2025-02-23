@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Accurate digital representation and recovery for redundant frames]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>123108.00</AwardTotalIntnAmount>
+<AwardAmount>123108</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leland Jameson</SignBlockName>
+<PO_EMAI>ljameson@nsf.gov</PO_EMAI>
+<PO_PHON>7032924883</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Redundant frame representations play a central role in signal processing applications.  By using overcomplete systems to represent signals, frames offer increased design flexibility and are thereby able to provide robustness against noise and data loss in many settings.  The investigator studies the mathematics of digitally representing redundant finite frame expansions, with an emphasis on two key steps:  coefficient quantization and signal reconstruction.  The work on quantization (the encoding step) focuses on the class of Sigma-Delta algorithms and studies rigorous approximation error bounds, dual frame methods for boosting performance, and the design of new algorithms for multiple description coding and orthogonal frequency division multiplexing.  Sigma-Delta algorithms are well suited for utilizing the correlations inherent in redundant collections of frame coefficients, and are desirable in practice since they can be robustly implemented using very coarse, for example one bit, scalar quantizers.  In the work on signal recovery (the decoding step), the investigator studies new nonlinear consistent reconstruction algorithms for analog-to-digital conversion in the settings of Pulse Code Modulation and Sigma-Delta quantization.  The investigator also studies how to extend noise-shaping and consistent reconstruction methods to distributed processing applications based on fusion frames.&lt;br/&gt;&lt;br/&gt;Digital data is ubiquitous in modern technology.  The project addresses the general problem of how to accurately process, transmit, and recover digital signals in noisy environments.  The massive size of many digital data sets drives a need for new mathematical techniques that are capable of providing efficient and robust data processing algorithms.  The work on quantization of fusion frames applies to scenarios where a dense collection of low resolution sensors is deployed in a remote environment; the project studies methods for optimally communicating and extracting digital information through the sensor network.  The work on quantization of finite frame expansions is applicable to communication over erasure channels where physical constraints or other interference result in a loss of transmitted information; the project studies procedures for mitigating the effect of data erasures.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>06/30/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0811086</AwardID>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Powell</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexander M Powell</PI_FULL_NAME>
+<EmailAddress><![CDATA[alexander.m.powell@vanderbilt.edu]]></EmailAddress>
+<NSF_ID>000202438</NSF_ID>
+<StartDate>06/30/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Vanderbilt University</Name>
+<CityName>NASHVILLE</CityName>
+<ZipCode>372032416</ZipCode>
+<PhoneNumber>6153222631</PhoneNumber>
+<StreetAddress>110 21ST AVE S</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GTNBNWXJ12D5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VANDERBILT UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Vanderbilt University]]></Name>
+<CityName>NASHVILLE</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>372032416</ZipCode>
+<StreetAddress><![CDATA[110 21ST AVE S]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~123108</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NUE: NanoCORE (Nanotechnology Concepts, Opportunities, Research and Education) at the FAMU-FSU College of Engineering]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>199874.00</AwardTotalIntnAmount>
+<AwardAmount>199874</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EEC</Abbreviation>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mary Poats</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This Nanotechnology Undergraduate Education (NUE) in Engineering program entitled "NUE: NanoCORE (Nanotechnology Concepts, Opportunities, Research and Education)at the Florida A&amp;M University (FAMU)-Florida State University (FSU) College of Engineering", under the direction of Dr. Ongi Englander, is designed to introduce aspects of nanoscale science and engineering into the core undergraduate curriculum beginning in the freshman year.  The NanoCORE program will infuse and integrate nanoscale science and engineering (NSE) as a permanent component of the undergraduate curriculum, present multiple opportunities for undergraduate learning of concepts in NSE and create opportunities for undergraduates to pursue nanotechnology related research activities.]]></AbstractNarration>
+<MinAmdLetterDate>08/13/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/13/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0836585</AwardID>
+<Investigator>
+<FirstName>Ongi</FirstName>
+<LastName>Englander</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ongi Englander</PI_FULL_NAME>
+<EmailAddress><![CDATA[englander@eng.fsu.edu]]></EmailAddress>
+<NSF_ID>000230778</NSF_ID>
+<StartDate>08/13/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rufina</FirstName>
+<LastName>Alamo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rufina Alamo</PI_FULL_NAME>
+<EmailAddress><![CDATA[alamo@eng.fsu.edu]]></EmailAddress>
+<NSF_ID>000482736</NSF_ID>
+<StartDate>08/13/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Petru</FirstName>
+<LastName>Andrei</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Petru Andrei</PI_FULL_NAME>
+<EmailAddress><![CDATA[pandrei@eng.fsu.edu]]></EmailAddress>
+<NSF_ID>000234522</NSF_ID>
+<StartDate>08/13/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mei</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mei Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[mzhang@eng.fsu.edu]]></EmailAddress>
+<NSF_ID>000492335</NSF_ID>
+<StartDate>08/13/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Amy</FirstName>
+<LastName>Chan Hilton</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Amy B Chan Hilton</PI_FULL_NAME>
+<EmailAddress><![CDATA[abchan@eng.fsu.edu]]></EmailAddress>
+<NSF_ID>000265085</NSF_ID>
+<StartDate>08/13/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida State University</Name>
+<CityName>TALLAHASSEE</CityName>
+<ZipCode>323060001</ZipCode>
+<PhoneNumber>8506445260</PhoneNumber>
+<StreetAddress>874 TRADITIONS WAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JF2BLNN4PJC3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D4GCCCMXR1H3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida State University]]></Name>
+<CityName>TALLAHASSEE</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>323060001</ZipCode>
+<StreetAddress><![CDATA[874 TRADITIONS WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1385</Code>
+<Text>SSA-Special Studies &amp; Analysis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>113E</Code>
+<Text>ENG CURRICULUMN DEVELOPMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7219</Code>
+<Text>NANOTECHNOLOGY UNDERGRAD EDUCA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~199874</FUND_OBLG>
+</Award>
+</rootTag>

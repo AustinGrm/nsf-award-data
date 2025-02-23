@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[A study of Multiplicity in Small Solar System Bodies]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>394270.00</AwardTotalIntnAmount>
+<AwardAmount>394270</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Thomas S. Statler</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[AST-0807468&lt;br/&gt;Marchis&lt;br/&gt;&lt;br/&gt;New observational data, which rely greatly on very successful adaptive optics (AO) systems, have proven the existence of satellites of asteroids.  These discoveries provide powerful constraints on theories of the origin of our solar system.  This project will use AO systems, which correct the blurring effect of atmospheric turbulence, on several eight-to-ten-meter class telescopes to continue and extend the hunt for asteroid satellites.  The work will also characterize the orbits of both the newly found and the already known binary systems, to infer the internal structure of the asteroids and their formation mechanisms, such as capture, fission, disruption, and mass shedding.  This will constrain the condition and the composition of the proto-planetary environment.  This interdisciplinary study links modern observational techniques and data processing to interior structure studies, and will make complex orbital ephemeris calculations possible.&lt;br/&gt;&lt;br/&gt;Adaptive optics is a recently developed field, expected to make rapid progress through technologies such as laser guide star systems, wavefront sensors, and deformable mirrors.  This project provides a valuable opportunity for undergraduate students to become involved with AO.  The team expects to continue past successful outreach efforts, which have made available striking AO images and animations for both education and public interest.]]></AbstractNarration>
+<MinAmdLetterDate>08/29/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/29/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0807468</AwardID>
+<Investigator>
+<FirstName>Franck</FirstName>
+<LastName>Marchis</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Franck Marchis</PI_FULL_NAME>
+<EmailAddress><![CDATA[fmarchis@seti.org]]></EmailAddress>
+<NSF_ID>000490692</NSF_ID>
+<StartDate>08/29/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SETI Institute</Name>
+<CityName>MOUNTAIN VIEW</CityName>
+<ZipCode>940435232</ZipCode>
+<PhoneNumber>6509616633</PhoneNumber>
+<StreetAddress>339 BERNARDO AVE</StreetAddress>
+<StreetAddress2><![CDATA[STE 200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WKAUE7NHR4L1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SETI INSTITUTE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SETI Institute]]></Name>
+<CityName>MOUNTAIN VIEW</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>940435232</ZipCode>
+<StreetAddress><![CDATA[339 BERNARDO AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1214</Code>
+<Text>PLANETARY ASTRONOMY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~394270</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Manufacturing Deformable Energy Storage Devices from Carbon Nanotube Macro-Films]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>208167.00</AwardTotalIntnAmount>
+<AwardAmount>208167</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mary Toney</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This research project aims at investigating a new concept of manufacturing carbon nanotube macro-film-based deformable supercapacitors, versatile energy storage devices that are light-weight, deformable and at the same time exhibit very high energy and power density. Fundamentals on fabrication of the free-standing carbon nanotube macro-films with controllable alignment and on mechanical-electrical-electrochemical coupling of the two-dimensional carbon nanotube macro-films are expectedly understood. Mechanical buckling processes will be employed to make buckled carbon nanotube macro-films as supercapacitor electrodes which will have extreme deformability and high electronic conductivity that may allow the elimination of current collectors in a supercapacitor, therefore greatly reducing the cell weight and hence improving the energy density. The buckled carbon nanotube macro-films will be utilized to assemble deformable supercapacitors which will be thoroughly investigated. The combined approach of experimental and theoretical studies will enable an improved understanding of the manufacturing-structure-property-function of the deformable carbon nanotube supercapacitors and a general understanding of principles of materials processing engineering. &lt;br/&gt;&lt;br/&gt;The proposed project will provide a new methodology and technique for the design and fabrication of carbon nanotube macro-film on compliant substrates, as well as lead to breakthroughs in state-of-the-art processing and fabrication of supercapacitor with extremely high deformability. Integrated, interactive and collaborative research and educational programs in two research institutions (Univ. Delaware and Arizona State Univ.) will be established. The graduate and undergraduate students involved in the proposed research will be trained through a multidisciplinary and multi-university environment. The research achievement will be used to develop/enhance both undergraduate and graduate courses. An innovative ?Stretchable Library? will be established to reach out to K-16 students.]]></AbstractNarration>
+<MinAmdLetterDate>07/03/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/03/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0824787</AwardID>
+<Investigator>
+<FirstName>Hanqing</FirstName>
+<LastName>Jiang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hanqing Jiang</PI_FULL_NAME>
+<EmailAddress><![CDATA[hanqing.jiang@asu.edu]]></EmailAddress>
+<NSF_ID>000306832</NSF_ID>
+<StartDate>07/03/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Arizona State University</Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852813670</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress>660 S MILL AVENUE STE 204</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NTLHJXM55KZ6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ARIZONA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>TEMPE</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>852813670</ZipCode>
+<StreetAddress><![CDATA[660 S MILL AVENUE STE 204]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1467</Code>
+<Text>MATERIALS PROCESSING AND MANFG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>080E</Code>
+<Text>DEFORMATION PROCESSES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~208167</FUND_OBLG>
+</Award>
+</rootTag>

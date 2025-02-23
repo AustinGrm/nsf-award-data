@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Coating Health Monitors for Smart Infrastructure]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2008</AwardExpirationDate>
+<AwardTotalIntnAmount>99619.00</AwardTotalIntnAmount>
+<AwardAmount>99619</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This Small Business Innovation Research Phase I research project involves development of a coating health monitoring system based on wireless electrochemical impedance sensors to identify, track, and predict corrosion damage on bridges, pipelines, and other metal structures. By making use of Electrochemical Impedance Spectroscopy, Coating Health Monitors (CHM's) identify the degradation of coatings and paints, providing an early warning of corrosion of the underlying metal. It can detect paint coating degradation well before any irreversible corrosion damage occurs. &lt;br/&gt;&lt;br/&gt;The broader impact of this is the early detection of paint and coating health that will be greatly beneficial to public safety. When the CHM's are used to monitor large structures such as bridges, a detection of failing protective coating can mean the difference between life and death. It will prompt the need to recoat before failure of the steel. Application of CHM's in difficult to inspect locations will enhance the safety of inspection personnel. Using wireless technology and a network of CHM's, coating health information can be gathered remotely versus hands-on inspection.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>04/29/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/29/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0810367</AwardID>
+<Investigator>
+<FirstName>Guy</FirstName>
+<LastName>Davis</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Guy D Davis</PI_FULL_NAME>
+<EmailAddress><![CDATA[davis@electrawatch.com]]></EmailAddress>
+<NSF_ID>000241189</NSF_ID>
+<StartDate>04/29/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Electrawatch, Inc.</Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<ZipCode>229117902</ZipCode>
+<PhoneNumber>5183122443</PhoneNumber>
+<StreetAddress>660 HUNTERS PL</StreetAddress>
+<StreetAddress2><![CDATA[STE 102]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ELUNF1A1GUB5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ELECTRAWATCH AN AUSTAL USA CO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Electrawatch, Inc.]]></Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>229117902</ZipCode>
+<StreetAddress><![CDATA[660 HUNTERS PL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1185</Code>
+<Text>SENSORY SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9139</Code>
+<Text>INFORMATION INFRASTRUCTURE &amp; TECH APPL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~99619</FUND_OBLG>
+</Award>
+</rootTag>

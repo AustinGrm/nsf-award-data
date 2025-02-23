@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Acquisition of a Scanning Electron Microscope/Scanning Transmission Electron Microscope]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>526097.00</AwardTotalIntnAmount>
+<AwardAmount>526097</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos Murillo</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The Department of Chemistry at the University of Texas at Austin will acquire a field emission scanning electron microscope/scanning transmission electron microscope (FE-SEM/STEM) for the central Texas academic science and engineering community.  This instrument will significantly impact several areas of research ranging from soft tissue applications in drug delivery systems, on through catalysis, to probing the cell walls of diatoms and cement-based materials and analyzing the nanostructure of fuel cell materials. Furthermore it will fill a crucial gap in characterizing materials with nanoscopic dimensions using a work-horse, user friendly instrument that draws strong demand across engineering, materials science and natural science disciplines.&lt;br/&gt;&lt;br/&gt;A scanning electron microscope/scanning transmission electron microscope is a powerful tool for imaging a wide range of materials ranging from nanoparticles to polymers and films.  The instrument provides topological and compositional information of these materials.  It is an essential analytical tool in research on the properties and behavior of such materials.  This is a consortium award that involves 11 research groups as major users and 46 research groups as minor users at UT-Austin from 14 different departments affiliated with the Texas Materials Institute (TMI) and the Center for Nano and Molecular Science and Technology (CNM), as well as, outside users at the Texas Memorial Museum, and the UT Health Science Center at Houston.  UT-Austin will also enable access to smaller Texas universities in the nearby area.  The instrument will be used by BS, MS, PhD and post doctoral students in their research training, thus preparing them for careers in science and engineering with state of the art technology.]]></AbstractNarration>
+<MinAmdLetterDate>07/15/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0821312</AwardID>
+<Investigator>
+<FirstName>Keith</FirstName>
+<LastName>Stevenson</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Keith J Stevenson</PI_FULL_NAME>
+<EmailAddress><![CDATA[stevenson@mail.cm.utexas.edu]]></EmailAddress>
+<NSF_ID>000433238</NSF_ID>
+<StartDate>07/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Paulo</FirstName>
+<LastName>Ferreira</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Paulo Ferreira</PI_FULL_NAME>
+<EmailAddress><![CDATA[ferreira@mail.utexas.edu]]></EmailAddress>
+<NSF_ID>000304909</NSF_ID>
+<StartDate>07/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Maria</FirstName>
+<LastName>Juenger</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Maria G Juenger</PI_FULL_NAME>
+<EmailAddress><![CDATA[mjuenger@mail.utexas.edu]]></EmailAddress>
+<NSF_ID>000249831</NSF_ID>
+<StartDate>07/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7644</Code>
+<Text>ENERGY FOR SUSTAINABILITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9161</Code>
+<Text>SINGLE DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>AMPP</Code>
+<Text>ADVANCED MATERIALS &amp; PROCESSING PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~526097</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>ARI-MA: Graphene based sensors for detecting special nuclear materials</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>380000.00</AwardTotalIntnAmount>
+<AwardAmount>380000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lawrence Goldberg</SignBlockName>
+<PO_EMAI>lgoldber@nsf.gov</PO_EMAI>
+<PO_PHON>7032928339</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>ARI-MA: Graphene Based Sensors for Detecting Special Nuclear Materials&lt;br/&gt; &lt;br/&gt;The research objective of this project is to develop novel radiation sensors and detector architectures based on graphene, an electronic material with unique properties. The approach is to utilize a sharp change in the electrical conductivity of graphene produced by a transient electrostatic potential resulting from the interaction of ionizing radiation with absorber materials. Such graphene-based radiation sensors have the potential to significantly outperform existing sensors for detecting special nuclear materials and help establish a new paradigm in radiation detection.&lt;br/&gt;The intellectual merit of this research is its innovativeness in several key areas. The unique properties of a novel material, graphene, are harnessed to develop the next-generation high performance radiation sensors. A previously unexplored approach, based on the field effect (sensitivity of conductivity to local electrostatic potential), is utilized to detect ionizing radiation. This relaxes many stringent material requirements characteristic of conventional charge collection-based detectors, and offers a unique opportunity to deploy narrow-bandgap absorber materials for high energy resolution. Finally, the detector architecture is expected to be scalable and low-cost.&lt;br/&gt;The broader impacts of this work could realized through revolutionary advances in radiation detection by combining high sensitivity, high spatial and energy resolution, high speed, and unparalleled flexibility, with broad impact and benefits to the welfare and security of the nation and society. Both investigators are committed to mentor students at all levels and integrate this research into their educational and outreach programs. They will also leverage the program support to actively promote the diversity and public understanding of science and engineering.</AbstractNarration>
+<MinAmdLetterDate>09/03/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/03/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0833689</AwardID>
+<Investigator>
+<FirstName>Yong</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yong P Chen</PI_FULL_NAME>
+<EmailAddress>yongchen@purdue.edu</EmailAddress>
+<PI_PHON>7654940947</PI_PHON>
+<NSF_ID>000105727</NSF_ID>
+<StartDate>09/03/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Igor</FirstName>
+<LastName>Jovanovic</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Igor Jovanovic</PI_FULL_NAME>
+<EmailAddress>ijov@umich.edu</EmailAddress>
+<PI_PHON>5107011625</PI_PHON>
+<NSF_ID>000497193</NSF_ID>
+<StartDate>09/03/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>WEST LAFAYETTE</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>2550 NORTHWESTERN AVE STE 1900</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YRXVL4JYCEF5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YRXVL4JYCEF5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479061332</ZipCode>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE STE 1900]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0200000</Code>
+<Name>Interagency</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>H218</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7707</Code>
+<Text>NSF/DHS ACADEMIC RES INITIAT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809RB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~380000</FUND_OBLG>
+</Award>
+</rootTag>

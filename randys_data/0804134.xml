@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[U.S.-Brazil Collaboration:  Investigation of Subsurface Contaminant Mass Flows]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>19800.00</AwardTotalIntnAmount>
+<AwardAmount>19800</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Harold Stolberg</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Hatfield&lt;br/&gt;0804134&lt;br/&gt;&lt;br/&gt;This US-Brazil collaboration includes US scientists Kirk Hatfield, Michael Annable and Clayton Clark form the University of Florida, Department of Civil Engineering. Brazilian counterparts include scientists Joana Luz, Olivar Lima and Eduardo Savio. The proposed collaboration will bring an exchange of knowledge to solve groundwater contamination which is a growing problem in Salvador, Brazil.&lt;br/&gt;&lt;br/&gt;This collaborative research project focuses on developing a new methodology for quantifying subsurface contaminant mass flows and associated estimation uncertainties. Research will be conducted in Brazil through a collaborative effort based on annual mutual planning visits, where the US team will assist in the expansion of preliminary flux meter related experiments already conducted at the Bahia Federal University. Two US students will be involved in laboratory and field work in Brazil for a semester each year and two US faculty members will also travel to Brazil for two weeks each year.  The US team will test new laboratory methods with Brazilian colleagues at the Universidade Federal da Bahia (UFBA).  There is complementary expertise of the participating investigators on both sides, which include the familiarity with tropical contaminant and hydrogeological conditions as well as the geophysical expertise of the Brazilian team and the detailed knolwedge about the fluxmeter methodology and development of the US team.  This award is being jointly supported by the Division of Civil, Mechanical and Manufacturing Innovation in the Engineering Directorate and the Office of International Science and Engineering (OISE).]]></AbstractNarration>
+<MinAmdLetterDate>08/27/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/27/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.079</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0804134</AwardID>
+<Investigator>
+<FirstName>Kirk</FirstName>
+<LastName>Hatfield</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kirk Hatfield</PI_FULL_NAME>
+<EmailAddress><![CDATA[kirk.hatfield@essie.ufl.edu]]></EmailAddress>
+<NSF_ID>000408557</NSF_ID>
+<StartDate>08/27/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Clayton</FirstName>
+<LastName>Clark</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME>II</PI_SUFX_NAME>
+<PI_FULL_NAME>Clayton J Clark</PI_FULL_NAME>
+<EmailAddress><![CDATA[cjclarkii@ncat.edu]]></EmailAddress>
+<NSF_ID>000482504</NSF_ID>
+<StartDate>08/27/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Annable</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael D Annable</PI_FULL_NAME>
+<EmailAddress><![CDATA[annable@ufl.edu]]></EmailAddress>
+<NSF_ID>000331325</NSF_ID>
+<StartDate>08/27/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326111941</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1523 UNION RD RM 207</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NNFQH1JAPEP3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF FLORIDA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D4GCCCMXR1H3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Florida]]></Name>
+<CityName>GAINESVILLE</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>326111941</ZipCode>
+<StreetAddress><![CDATA[1523 UNION RD RM 207]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1636</Code>
+<Text>Geotechnical Engineering and M</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7298</Code>
+<Text>International Research Collab</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5913</Code>
+<Text>BRAZIL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5977</Code>
+<Text>AMERICAS PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9198</Code>
+<Text>OTHER ENVIRONMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<FUND_OBLG>2008~19800</FUND_OBLG>
+</Award>
+</rootTag>

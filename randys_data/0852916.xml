@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Prying Open the Black Box: Does Microbial Community Composition Regulate Respiration in Tropical Rain Forest Soil?]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>433806.00</AwardTotalIntnAmount>
+<AwardAmount>433806</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010209</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry L. Gholz</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Bacteria, fungi and a suite of other microorganisms are the engines that drive many essential soil processes. They recycle the nutrients that all plants depend upon, they decompose organic materials that would otherwise accumulate, and they convert soil organic matter to carbon dioxide (CO2). Thus, though invisible to the naked eye, soil microbes can influence a suite of global processes, including atmospheric composition and global climate. While the importance of microbial processes is clear, much less is known about the types or numbers of organisms that are responsible for carrying out within-soil processes. This is particularly true for tropical rain forests, the most diverse biomes on land. In this project, a suite of techniques, observations and experiments will be applied to examine the factors that regulate soil microbial community composition, and to determine how seasonal changes in tropical rain forest ecosystems are related to changes in soil microbial communities.  &lt;br/&gt;&lt;br/&gt;An improved understanding of decomposition and CO2 fluxes in tropical forests is relevant to a variety of societal issues, as they play a major role in regulating global carbon and nutrient cycles, atmospheric chemistry, and climate. This proposal will provide critical support for two junior scientists early in their careers, as well as graduate and undergraduate students. It also will advance collaborations with Costa Rican scientists and contribute to outreach, conservation and management goals in southwestern Costa Rica via established partnerships with a local nongovernmental organization and a National Park stakeholder organization.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>09/24/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/21/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0852916</AwardID>
+<Investigator>
+<FirstName>Cory</FirstName>
+<LastName>Cleveland</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Cory C Cleveland</PI_FULL_NAME>
+<EmailAddress><![CDATA[cory.cleveland@umontana.edu]]></EmailAddress>
+<NSF_ID>000419065</NSF_ID>
+<StartDate>09/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Montana</Name>
+<CityName>MISSOULA</CityName>
+<ZipCode>598120003</ZipCode>
+<PhoneNumber>4062436670</PhoneNumber>
+<StreetAddress>32 CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<StateCode>MT</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MT00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DAY7Z8ZD48Q3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MONTANA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Montana]]></Name>
+<CityName>MISSOULA</CityName>
+<StateCode>MT</StateCode>
+<ZipCode>598120003</ZipCode>
+<StreetAddress><![CDATA[32 CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MT00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1181</Code>
+<Text>ECOSYSTEM STUDIES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1181</Code>
+<Text>ECOSYSTEM STUDIES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2007~99281</FUND_OBLG>
+<FUND_OBLG>2008~184168</FUND_OBLG>
+<FUND_OBLG>2009~150357</FUND_OBLG>
+</Award>
+</rootTag>

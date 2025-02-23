@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Opportunities for Nanostructured Polymeric Materials for Device Fabrication: A Multidisciplinary Workshop,  Amherst, MA</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2008</AwardExpirationDate>
+<AwardTotalIntnAmount>3000.00</AwardTotalIntnAmount>
+<AwardAmount>3000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070012</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Lovinger</SignBlockName>
+<PO_EMAI>alovinge@nsf.gov</PO_EMAI>
+<PO_PHON>7032924933</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Intellectual Merit. The goal of the project is the workshop, "Opportunities for Nanostructured Polymeric Materials for Device Fabrication". The workshop is concerned with the exciting area of nanostructured polymers that have increasingly important implications in enabling advanced device fabrication. New polymeric materials and devices fabricated from these new materials are demonstrating potential for dramatic improvements in areas such as polymers for advanced lithography, low dielectric insulators, block copolymer self assembly for hierarchical patterning, opto-electronics, photonic bandgap phenomena, energy conversion and biotechnology. For example, the demand for improved information technology - broadly encompassing computing, storage, information display and collection - is increasing at an explosive rate and creation and use of this technology is rapidly becoming a dominant component of the world economy. Similarly, advanced nanostructured polymers are key components in energy conversion and storage devices. One critical aspect underlying new advancements is new materials, devices and understanding of the underlying physics of device operation. The importance of the subject matter of this workshop is evident by the number of high impact publications in the area, with high impact general science articles covering advanced nanostructured polymers for emerging needs. The workshop will provide a forum for the exchange of expertise between these important areas of research, and that through such exchange, directions for future developments and entirely new directions will be generated.&lt;br/&gt;Broader Impact. Society, in general, has realized the importance of advanced polymeric materials and the impact that developments in the field will have in ensuring US competitiveness and world-wide quality of life issues. It is important for researchers in this area to share their results and determine future issues for the development of new materials and devices. The workshop organizers have successfully recruited 15 world-class experts in the field to give lectures on their latest work. There will also be a contributed poster session to allow for other attendees, including students and younger scientists, to present their latest results. An important goal of this workshop is to provide an opportunity for students and younger scientist to engage in scientific discussions with some of the top experts in this field. The organizers are committed to ensuring that we attracting and engage a diverse set of attendees with a significant number of women and underrepresented minorities represented.</AbstractNarration>
+<MinAmdLetterDate>12/10/2007</MinAmdLetterDate>
+<MaxAmdLetterDate>12/10/2007</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0804188</AwardID>
+<Investigator>
+<FirstName>Kenneth</FirstName>
+<LastName>Carter</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kenneth R Carter</PI_FULL_NAME>
+<EmailAddress>krcarter@polysci.umass.edu</EmailAddress>
+<NSF_ID>000169139</NSF_ID>
+<StartDate>12/10/2007</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Massachusetts Amherst</Name>
+<CityName>Hadley</CityName>
+<ZipCode>010359450</ZipCode>
+<PhoneNumber>4135450698</PhoneNumber>
+<StreetAddress>Research Administration Building</StreetAddress>
+<StreetAddress2><![CDATA[100 Venture Way, Suite 201]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA02</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>153926712</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MASSACHUSETTS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>079520631</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Massachusetts Amherst]]></Name>
+<CityName>Hadley</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>010359450</ZipCode>
+<StreetAddress><![CDATA[Research Administration Building]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0106000</Code>
+<Name>Materials Research</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1773</Code>
+<Text>POLYMERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9161</Code>
+<Text>SINGLE DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>AMPP</Code>
+<Text>ADVANCED MATERIALS &amp; PROCESSING PROGRAM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~3000</FUND_OBLG>
+</Award>
+</rootTag>

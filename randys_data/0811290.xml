@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CPA-CSA: Verification-Aware Microarchitecture]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>220000.00</AwardTotalIntnAmount>
+<AwardAmount>220000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Hong Jiang</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Microprocessor verification is a critical challenge for the computing industry. A design bug in a shipped processor chip can lead to failures and data corruptions, which can be catastrophic in many applications, such as medical equipment, avionics, and automotive control. Microprocessor design bugs can also be financially disastrous; the recall of Intel's Pentium, due to its notorious division bug, cost Intel approximately 420 million dollars. Society relies upon microprocessors, and thus the possibility of a flawed&lt;br/&gt;microprocessor is an enormous concern. Unfortunately, verifying a complex, modern microprocessor is extremely difficult. Due to both its difficulty and importance, verification consumes a large fraction (60-70%) of the resources--engineers, time, and money--devoted to the creation of a new microprocessor. Despite this effort, the most recent processors from Intel, AMD, and IBM have been shipped with dozens of documented design bugs.&lt;br/&gt;&lt;br/&gt;This research project addresses both society's need for correct microprocessor designs and industry's desire to improve product quality and shorten the design cycle, both of which can be achieved through a reduction in verification effort. The project's goal is to design microprocessors such that they can be more easily verified.  To achieve this goal, this project will pursue three complementary research thrusts.  The first thrust will analyze existing designs to identify features that require more verification effort than is merited by their benefits.  The second thrust will re-design the ways&lt;br/&gt;in which microprocessor components interact, in order to reduce design complexity.  The third thrust will develop sets of invariants that facilitate verification; there are often many ways to specify the correctness of a system, some of which are far easier to verify than others.  The benefits of the proposed research are broader than its technical results, because of the importance of the verification problem to national infrastructure and industry.  This project will also support training of undergraduate and minority students.]]></AbstractNarration>
+<MinAmdLetterDate>08/30/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/30/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0811290</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Sorin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel Sorin</PI_FULL_NAME>
+<EmailAddress><![CDATA[sorin@ee.duke.edu]]></EmailAddress>
+<NSF_ID>000280417</NSF_ID>
+<StartDate>08/30/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277054640</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W MAIN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TP7EK8DZV6N5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DUKE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277054640</ZipCode>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>4715</Code>
+<Text>COMPUTER SYSTEMS ARCHITECTURE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~220000</FUND_OBLG>
+</Award>
+</rootTag>

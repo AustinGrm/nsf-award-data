@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[ASSETS Scholarship Program]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>552000.00</AwardTotalIntnAmount>
+<AwardAmount>552000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Tymann</SignBlockName>
+<PO_EMAI>ptymann@nsf.gov</PO_EMAI>
+<PO_PHON>7032922832</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This S-STEM scholars program awards scholarships to students seeking associates degrees in areas related to information technology, nanoscience technology and civil engineering technology.   The project establishes the Advancing Student Success in Engineering, Technology and Science (ASSETS) program at Dakota County Technical College and builds on the success of prior NSF funded projects.  The program targets academically talented, first generation students from underrepresented groups with a special emphasis on the increasing African and Latin American immigrant population in the local community.    Students selected to be ASSETS Scholars are eligible for comprehensive support services including faculty mentoring, tutoring and financial and career planning.  Upon completion of their associates degrees, students receive extensive job placement assistance or may continue their education at a four-year institution through several articulation agreements.  Approximately 60 scholarships will be provided during the life of this project.]]></AbstractNarration>
+<MinAmdLetterDate>03/26/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/26/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0850129</AwardID>
+<Investigator>
+<FirstName>Betty</FirstName>
+<LastName>Krueger</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Betty M Krueger</PI_FULL_NAME>
+<EmailAddress><![CDATA[betty.krueger@dctc.edu]]></EmailAddress>
+<NSF_ID>000298192</NSF_ID>
+<StartDate>03/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nancy</FirstName>
+<LastName>Bailey</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME>Ms</PI_SUFX_NAME>
+<PI_FULL_NAME>Nancy Bailey</PI_FULL_NAME>
+<EmailAddress><![CDATA[nancy.bailey@dctc.edu]]></EmailAddress>
+<NSF_ID>000390806</NSF_ID>
+<StartDate>03/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Dakota County Technical College</Name>
+<CityName>ROSEMOUNT</CityName>
+<ZipCode>550682932</ZipCode>
+<PhoneNumber>6514238319</PhoneNumber>
+<StreetAddress>1300 145TH ST E</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EEL3JSNNSUL6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MINNESOTA STATE COLLEGES AND UNIVERSITIES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DJUBETXVGYD6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Dakota County Technical College]]></Name>
+<CityName>ROSEMOUNT</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>550682932</ZipCode>
+<StreetAddress><![CDATA[1300 145TH ST E]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~552000</FUND_OBLG>
+</Award>
+</rootTag>

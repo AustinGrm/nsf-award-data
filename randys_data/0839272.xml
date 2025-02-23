@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I: Atmospheric Pressure Deep Etch for MEMS Manufacturing and Integration</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Juan E. Figueroa</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research (SBIR) Phase I project will develop a novel approach to through-wafer via formation in silicon. Vertical stacking of MEMS and CMOS devices is becoming increasingly popular for increasing functional density, and for combining specialized microelectromechanical systems (MEMS) with standard silicon integrated circuits. Vertical stacking generally requires that via holes for contacts be formed through a wafer using anisotropic etching, but current low-pressure techniques for performing this step are slow and expensive. This project will apply the company?s unique Linear Inductive Plasmatron technology to silicon etching using both the current multistep (etch/passivation) approach and single-step etching. The increased species densities at atmospheric pressure should enable passivation and etching of high-aspect-ratio features without etch-stop behavior observed at low pressure, and low electron temperatures ensure minimal plasma damage.&lt;br/&gt;&lt;br/&gt;If successful such a tool will greatly reduce the cost of via fabrication and enable 3D stacking of circuitry in applications where it would otherwise be prohibitively expensive. The unique characteristics of an atmospheric-pressure plasma etch process allow design of a processing tool that combines low cost, high throughput, and high performance. Because gas flows can be used to define reaction regions, wafers can be exposed to multiple process steps at high rates in batches using a carousel-type architecture. Once proven as a semiconductor manufacturing tool, the Linear Inductive Plasmatron is likely to find other applications in high-rate, low-cost processing for semiconductor fabrication, photovoltaic fabrication, and other manufacturing dependent on thin film deposition and etch processes.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>11/05/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>11/05/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839272</AwardID>
+<Investigator>
+<FirstName>Simon</FirstName>
+<LastName>Selitser</LastName>
+<PI_MID_INIT>I</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Simon I Selitser</PI_FULL_NAME>
+<EmailAddress>simon_s@timedomaincvd.com</EmailAddress>
+<PI_PHON>5109791000</PI_PHON>
+<NSF_ID>000488697</NSF_ID>
+<StartDate>11/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>TimeDomain CVD Incorporated</Name>
+<CityName>Fremont</CityName>
+<ZipCode>945386331</ZipCode>
+<PhoneNumber>5109791000</PhoneNumber>
+<StreetAddress>4432 Enterprise St. Ste. I</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA17</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[TimeDomain CVD Incorporated]]></Name>
+<CityName>Fremont</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>945386331</ZipCode>
+<StreetAddress><![CDATA[4432 Enterprise St. Ste. I]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; DEVICE TEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7257</Code>
+<Text>APPLICATS OF ADVANCED TECHNOLS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9139</Code>
+<Text>INFORMATION INFRASTRUCTURE &amp; TECH APPL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~100000</FUND_OBLG>
+</Award>
+</rootTag>

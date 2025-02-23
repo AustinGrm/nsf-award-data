@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative: VOSS:  Understanding and enabling network dynamics in virtual communities]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>299269.00</AwardTotalIntnAmount>
+<AwardAmount>299269</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mark Suchman</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[To solve the most critical intellectual and social problems, teams need to be made up of the best possible people, linked to the best possible resources. While there is growing awareness of the socio-economic consequences of team collaborations, there is little socio-technical understanding of how teams are assembled or how a given mode of assembly impacts its effectiveness. &lt;br/&gt;&lt;br/&gt;This project seeks to address this limitation by developing a theoretical framework to understand the socio-technical dynamics shaping the assembly of teams in virtual communities. These multidimensional networks include a variety of links that exist not only among individuals, but also with documents, datasets, workflows, analytic tools, and concepts. With these new configurations in mind, this project addresses two main research questions: First, what are the socio-technical motivations that explain the assembly of teams in virtual communities? Second, to what extent do the assembly mechanisms of teams influence their effectiveness? Empirically testing such models poses formidable data collection challenges. However, this project has access to six major initiatives serving diverse scientific virtual communities including nanoscience, environmental engineering, earthquake engineering, chemical sciences, media research and tobacco research.&lt;br/&gt;&lt;br/&gt;Intellectual merit: This effort is uniquely positioned to usher a new generation of theories and methods focused on explaining an important precursor to all collaborations - the socio-technical assembly mechanisms used to generate effective teams in virtual communities. Methodologically, this project will significantly extend network analytic techniques for statistically modeling high-dimensionality multimodal networks. &lt;br/&gt;&lt;br/&gt;Broader impacts: The proposed research will have broad impacts on three stakeholder communities.  First, individual researchers, especially students and those not in elite institutions will learn strategies to assemble effective teams in virtual communities. Second, leaders of virtual communities will gain a dashboard to assess and steer strategies within their initiatives. Third, funding agencies will get new insights in assessing their portfolios and directing science policy.]]></AbstractNarration>
+<MinAmdLetterDate>09/12/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/12/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0838564</AwardID>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Uzzi</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brian D Uzzi</PI_FULL_NAME>
+<EmailAddress><![CDATA[uzzi@kellogg.northwestern.edu]]></EmailAddress>
+<NSF_ID>000184250</NSF_ID>
+<StartDate>09/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Luis</FirstName>
+<LastName>Amaral</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Luis N Amaral</PI_FULL_NAME>
+<EmailAddress><![CDATA[amaral@northwestern.edu]]></EmailAddress>
+<NSF_ID>000108015</NSF_ID>
+<StartDate>09/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Noshir</FirstName>
+<LastName>Contractor</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Noshir S Contractor</PI_FULL_NAME>
+<EmailAddress><![CDATA[nosh@northwestern.edu]]></EmailAddress>
+<NSF_ID>000470079</NSF_ID>
+<StartDate>09/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northwestern University</Name>
+<CityName>EVANSTON</CityName>
+<ZipCode>602080001</ZipCode>
+<PhoneNumber>3125037955</PhoneNumber>
+<StreetAddress>633 CLARK STREET</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EXZVPWZBLUE8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHWESTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>EVANSTON</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>602080001</ZipCode>
+<StreetAddress><![CDATA[633 CLARK STREET]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5376</Code>
+<Text>INNOVATION &amp; ORG SCIENCES(IOS)</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7367</Code>
+<Text>HCC-Human-Centered Computing</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7642</Code>
+<Text>VIRTUAL ORGANIZATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9215</Code>
+<Text>HIGH PERFORMANCE COMPUTING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~299269</FUND_OBLG>
+</Award>
+</rootTag>

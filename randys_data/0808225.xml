@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Dissertation Research: The Community And Ecosystem Consequences Of Plant Genotypic Diversity]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>9310.00</AwardTotalIntnAmount>
+<AwardAmount>9310</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010208</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alan Tessier</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Global declines in biodiversity have spurred research into whether biodiversity is important for the functioning of ecosystems. To date, much of this research has focused on how the loss of species affects associated communities and ecosystems. Only recently have ecologists realized that loss of genetic diversity within a species is as much a concern as loss of species diversity. The research in this proposal aims at understanding the consequences of reductions in genetic diversity within a dominant plant, Solidago altissima (tall goldenrod), for associated insect and plant communities and for ecosystem processes of primary production and nutrient cycling.  Tall goldenrod is one of the most common plants in the eastern United States and likely plays a critical role in many ecosystems.  The goal of this work is to match previous and ongoing experiments that manipulate genetic diversity with observations in natural populations of plants. Specifically, the investigators will ask if the diversity of associated insect communities is positively correlated with genotypic diversity in natural plant patches, as has been observed in manipulative experiments.  This work has broad appeal in that it will fill several gaps in our current understanding of the importance of biodiversity within species for terrestrial ecosystems. This is a doctoral dissertation improvement award that supports the research of a graduate student and the dissemination of their research results.]]></AbstractNarration>
+<MinAmdLetterDate>09/05/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/05/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0808225</AwardID>
+<Investigator>
+<FirstName>Nathan</FirstName>
+<LastName>Sanders</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nathan J Sanders</PI_FULL_NAME>
+<EmailAddress><![CDATA[njsander@umich.edu]]></EmailAddress>
+<NSF_ID>000437844</NSF_ID>
+<StartDate>09/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gregory</FirstName>
+<LastName>Crutsinger</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gregory M Crutsinger</PI_FULL_NAME>
+<EmailAddress><![CDATA[gcrutsin@utk.edu]]></EmailAddress>
+<NSF_ID>000269189</NSF_ID>
+<StartDate>09/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Tennessee Knoxville</Name>
+<CityName>Knoxville</CityName>
+<ZipCode>379163801</ZipCode>
+<PhoneNumber>8659743466</PhoneNumber>
+<StreetAddress>1331 CIR PARK DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FN2YCS2YAUW3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TENNESSEE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FN2YCS2YAUW3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Tennessee Knoxville]]></Name>
+<CityName>Knoxville</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>379163801</ZipCode>
+<StreetAddress><![CDATA[1331 CIR PARK DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1182</Code>
+<Text>POP &amp; COMMUNITY ECOL PROG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1182</Code>
+<Text>POP &amp; COMMUNITY ECOL PROG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~9310</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Pacific Northwest Geometry Seminar]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>45200.00</AwardTotalIntnAmount>
+<AwardAmount>45200</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christopher Stark</SignBlockName>
+<PO_EMAI>cstark@nsf.gov</PO_EMAI>
+<PO_PHON>7032924869</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Abstract&lt;br/&gt;&lt;br/&gt;Award:  DMS-0852734&lt;br/&gt;Principal Investigator:  James A. Isenberg, Boris I. Botvinnik&lt;br/&gt;&lt;br/&gt;This award provides partial support for meetings of the Pacific&lt;br/&gt;Northwest Geometry Seminar (PNGS) to be held during 2009--2012 at&lt;br/&gt;the University of British Columbia, Oregon State University,&lt;br/&gt;University of Oregon, University of Utah, University of&lt;br/&gt;Washington, Portland State University, and Stanford&lt;br/&gt;University. Invited research talks by leading experts in&lt;br/&gt;differential geometry and algebraic geometry are complemented by&lt;br/&gt;discussion sessions in which the speakers and participants assess&lt;br/&gt;the state of various areas in geometry, and highlight open&lt;br/&gt;problems in these areas.&lt;br/&gt;&lt;br/&gt;There are a number of very active researchers in geometry&lt;br/&gt;scattered throughout the various universities which are involved&lt;br/&gt;in the Pacific Northwest Geometry Seminar. These periodic&lt;br/&gt;meetings bring these researchers together for consultation,&lt;br/&gt;collaboration, and stimulation of new ideas. A significant number&lt;br/&gt;of research programs have been initiated as a result of&lt;br/&gt;interactions at these meetings. The PNGS is especially valuable&lt;br/&gt;for graduate students in geometry at the various participating&lt;br/&gt;universities which have small geometry groups. The PNGS meetings&lt;br/&gt;give these students an excellent opportunity to see the broader&lt;br/&gt;picture of research in geometry. The meetings are also very&lt;br/&gt;valuable for the growing number of geometers working at some of&lt;br/&gt;the smaller universities in the region, such as Pacific&lt;br/&gt;University, Lewis and Clark, Seattle University, and Idaho&lt;br/&gt;State. More information can be found on the conference website&lt;br/&gt;located at www.math.washington.edu/~lee/PNGS&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>12/15/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>11/03/2011</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0852734</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Isenberg</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James A Isenberg</PI_FULL_NAME>
+<EmailAddress><![CDATA[isenberg@uoregon.edu]]></EmailAddress>
+<NSF_ID>000211357</NSF_ID>
+<StartDate>12/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Boris</FirstName>
+<LastName>Botvinnik</LastName>
+<PI_MID_INIT>I</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Boris I Botvinnik</PI_FULL_NAME>
+<EmailAddress><![CDATA[botvinn@math.uoregon.edu]]></EmailAddress>
+<NSF_ID>000098527</NSF_ID>
+<StartDate>12/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Oregon Eugene</Name>
+<CityName>EUGENE</CityName>
+<ZipCode>974031657</ZipCode>
+<PhoneNumber>5413465131</PhoneNumber>
+<StreetAddress>1585 E 13TH AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OR04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Z3FGN9MF92U2</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF OREGON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>L17DBQFXJVJ6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Oregon Eugene]]></Name>
+<CityName>EUGENE</CityName>
+<StateCode>OR</StateCode>
+<ZipCode>974031657</ZipCode>
+<StreetAddress><![CDATA[1585 E 13TH AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OR04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1265</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~45200</FUND_OBLG>
+</Award>
+</rootTag>

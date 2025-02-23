@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Micro-Compliant-Interconnect-Mechanisms (MCIMs)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2008</AwardExpirationDate>
+<AwardTotalIntnAmount>99969.00</AwardTotalIntnAmount>
+<AwardAmount>99969</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+<PO_EMAI>mnair@nsf.gov</PO_EMAI>
+<PO_PHON>7032927059</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This Small Business Innovation Research Phase I research project investigates the feasibility of using Micro-Compliant-Interconnect-Mechanisms (MCIMs) to provide chip level communication to Micro-Electro-Mechanical-Systems (MEMS) devices. MCIMs are microscopic spring connectors fabricated directly on silicon wafers which provide an alternative to soldered flip chip technology for interconnecting individual dies in multi chip modules. Evolving MEMS designs have led to increasingly high-density devices. Providing reliable inter-die electrical interconnections to high density MEMS represents a substantial portion of the overall complexity of these devices. The MCIM connection technology described in this project offers to dramatically reduce the cost of packaged MEMS devices making them available to a much broader market. &lt;br/&gt;&lt;br/&gt;The broader impact of this technology is that MCIMs represent a novel solution to the challenge of providing high density inter-die electrical connections in devices utilizing multi-chip module architectures. The higher yields and lower production costs provided by MCIMs will lead to new market opportunities for MEMS based laser light modulators. The high costs and relatively low per wafer yields of these devices restrict their use to high end markets. Other applications of MCIMs include the development of micro-probes for use in semiconductor testing. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>04/30/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/30/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0810548</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Bloom</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David Bloom</PI_FULL_NAME>
+<EmailAddress><![CDATA[dbloom@alcestech.com]]></EmailAddress>
+<NSF_ID>000080596</NSF_ID>
+<StartDate>04/30/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>ALCES TECHNOLOGY, INC.</Name>
+<CityName>JACKSON</CityName>
+<ZipCode>830019472</ZipCode>
+<PhoneNumber>3077321994</PhoneNumber>
+<StreetAddress>650 West Elk Ave #8</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Wyoming</StateName>
+<StateCode>WY</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WY00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[ALCES TECHNOLOGY, INC.]]></Name>
+<CityName>JACKSON</CityName>
+<StateCode>WY</StateCode>
+<ZipCode>830019472</ZipCode>
+<StreetAddress><![CDATA[650 West Elk Ave #8]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wyoming</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WY00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1586</Code>
+<Text>HIGH PER COMPUTING AND COMMUNI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9139</Code>
+<Text>INFORMATION INFRASTRUCTURE &amp; TECH APPL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~99969</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Search for Tau Neutrinos in IceCube Data]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>516000.00</AwardTotalIntnAmount>
+<AwardAmount>516000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jonathan Whitmore</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).  The partially completed IceCube neutrino observatory, located near the geographic South Pole, is already collecting physics data in the largest instrumented volume of any neutrino detector. In the next three years, IceCube will complete construction and arrive at its final goal of instrumenting a full cubic kilometer of ice, the volume which many theorists believe is necessary to detect neutrinos from some of the most powerful known astrophysical objects such as active galactic nuclei and gamma ray bursts (GRBs). The next three years should see the beginning of neutrino astrophysics in IceCube, with a rich dataset to exploit.&lt;br/&gt;&lt;br/&gt;This award will fund a new IceCube group that will explore the tau neutrino channel, which is free of atmospheric neutrino background, making tau neutrino detection a "smoking gun" for an astrophysical source. The group will focus on lower-energy tau neutrinos (down to 100 TeV). Using the unique waveforms produced by tau neutrinos, the group will search for coincidences between tau neutrino signals and optical observations, coincidences between tau neutrinos and GRBs and point sources of tau neutrinos.&lt;br/&gt;&lt;br/&gt;The broader impact of the program includes the PI's contribution to the Department of Physics and Astronomy's existing outreach programs; in particular, the outreach program of the Materials for Information Science (MINT) center, which has a partnership with the Tuscaloosa Children's Hands On Museum (CHOM). The MINT outreach program seeks to expand from materials-science based outreach to general physics.]]></AbstractNarration>
+<MinAmdLetterDate>08/11/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/11/2009</MaxAmdLetterDate>
+<ARRAAmount>516000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855398</AwardID>
+<Investigator>
+<FirstName>Dawn</FirstName>
+<LastName>Williams</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dawn Williams</PI_FULL_NAME>
+<EmailAddress><![CDATA[drwilliams3@ua.edu]]></EmailAddress>
+<NSF_ID>000506621</NSF_ID>
+<StartDate>08/11/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Alabama Tuscaloosa</Name>
+<CityName>TUSCALOOSA</CityName>
+<ZipCode>354870001</ZipCode>
+<PhoneNumber>2053485152</PhoneNumber>
+<StreetAddress>301 ROSE ADMIN BLDG</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AL07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RCNJEHZ83EV6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ALABAMA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>TWJWHYEM8T63</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Alabama Tuscaloosa]]></Name>
+<CityName>TUSCALOOSA</CityName>
+<StateCode>AL</StateCode>
+<ZipCode>354870001</ZipCode>
+<StreetAddress><![CDATA[301 ROSE ADMIN BLDG]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1643</Code>
+<Text>Particle Astrophysics/Cosmic P</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5115</Code>
+<Text>ANT Astrophys &amp; Geospace Sci</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7483</Code>
+<Text>PHYSICS OF THE UNIVERSE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~516000</FUND_OBLG>
+</Award>
+</rootTag>

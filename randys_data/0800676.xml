@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Designing and Controlling Processing Networks with Parameter Uncertainty]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>380000.00</AwardTotalIntnAmount>
+<AwardAmount>380000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sheldon Jacobson</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This grant provides funding to examine models which combine queueing network&lt;br/&gt;dynamics and a stochastic programming decision framework. The study of both queueing networks and models with parameter uncertainty have a long history in operations research and related areas, but there has been relatively little work on systematically analyzing models which contain both features.  In the first part of the research, a fluid processing network is analyzed in which the fluid arrival rates, processing rates, and initial inventory are not known with complete certainty. The controller is interested in minimizing expected inventory costs, given that certain structural operating decisions must be made before the aforementioned random elements are revealed. This fluid model will then be used to develop design and control policies for stochastic processing&lt;br/&gt;networks, with discrete jobs, in which there is parameter uncertainty. In the final phase of the research the control policies will be tested in full-scale, detailed simulation models of semiconductor wafer fabrication facilities. The simulation models will be developed in collaboration with International SEMATECH. As part of the pedagogical contribution of this work, the research results will be disseminated on the Stochastic Programming Community Homepage via a tutorial on stochastic programming and stochastic processing networks.&lt;br/&gt;&lt;br/&gt;If successful, this project will make contributions to the queueing theory, stochastic programming, and manufacturing research communities. In the queueing community the historical focus has usually been on performance analysis and control, under either the assumption that all system parameters are known or that a controller can instantaneously adapt to changing parameters. At present, there is little research which takes a systematic approach to incorporating parameter uncertainty into these models. In many stochastic programming models, the goal is to make tactical-  or strategic-level decisions with the guidance of a coarse-grain submodel of more detailed operations. The queueing networks studied in this project are ideal candidates for such submodels. In the industry setting, the research will allow network designers and controllers in the manufacturing sector, and beyond, to make better decisions in the face of uncertainty. Since this project includes in-depth involvement with the semiconductor industry, the research will have the most immediate impact in this sector. However, there is strong potential for broad impact in many sectors, such as telecommunications and traffic management, where stochastic network control is necessary. &lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>05/12/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/12/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0800676</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Morton</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David P Morton</PI_FULL_NAME>
+<EmailAddress><![CDATA[david.morton@northwestern.edu]]></EmailAddress>
+<NSF_ID>000283991</NSF_ID>
+<StartDate>05/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Hasenbein</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John Hasenbein</PI_FULL_NAME>
+<EmailAddress><![CDATA[jhas@mail.utexas.edu]]></EmailAddress>
+<NSF_ID>000337655</NSF_ID>
+<StartDate>05/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5514</Code>
+<Text>OPERATIONS RESEARCH</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>073E</Code>
+<Text>OPTIMIZATION &amp; DECISION MAKING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9147</Code>
+<Text>GENERIC TECHNOL FOR MANUFACTURING CELLS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~380000</FUND_OBLG>
+</Award>
+</rootTag>

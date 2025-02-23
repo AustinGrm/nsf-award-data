@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Soft Scattering, Integrability and Confinement in QCD</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>211127.00</AwardTotalIntnAmount>
+<AwardAmount>211127</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bogdan Mihaila</SignBlockName>
+<PO_EMAI>bmihaila@nsf.gov</PO_EMAI>
+<PO_PHON>7032928235</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;One of the four known basic forces of nature is the strong interaction. A theory of this interaction, called quantum chromodynamics or QCD, is well known and has successfully accounted for certain experiments. This theory describes particles called quarks and gluons. Unfortunately, the mathematical understanding of QCD is not good enough to account for many other phenomena. In particular particle and nuclear physicists would like to know what the theory predicts when particles and nuclei collide at very high energies. Such collisions will be produced by the Large Hadron Collider near Geneva. Another unsolved problem in the theory is to explain why quarks are evidently trapped inside strongly-interacting particles - a phenomenon known as quark confinement. Three new ideas for using QCD to understand aspects of particle and nuclear physics are discussed in this proposal. The first is an attempt to understanding high-energy scattering. The second is to gain insight by studying the theory in two spacial dimensions (instead of the real world of three spacial dimensions). The third idea is an approach toward solving the problem of quark confinement,&lt;br/&gt;&lt;br/&gt;The Bernard M. Baruch College of the City University of New York has one of the most ethnically-diverse undergraduate populations in the United States. The PI would involve an undergraduate in some computer studies and several Ph.D. students in other aspects of this work. With the help of new faculty in the department, the funding of this proposal will help to facilitate more mentoring and an improved curriculum for undergraduate students.</AbstractNarration>
+<MinAmdLetterDate>06/18/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2009</MaxAmdLetterDate>
+<ARRAAmount>211127</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855387</AwardID>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Orland</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peter Orland</PI_FULL_NAME>
+<EmailAddress>orland@nbi.dk</EmailAddress>
+<NSF_ID>000461615</NSF_ID>
+<StartDate>06/18/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CUNY Baruch College</Name>
+<CityName>New York</CityName>
+<ZipCode>100105526</ZipCode>
+<PhoneNumber>6463122211</PhoneNumber>
+<StreetAddress>One Bernard Baruch Way</StreetAddress>
+<StreetAddress2><![CDATA[Box J-1010]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY12</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>620127493</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>073268849</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[CUNY Baruch College]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100105526</ZipCode>
+<StreetAddress><![CDATA[One Bernard Baruch Way]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1285</Code>
+<Text>NUCLEAR THEORY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1286</Code>
+<Text>Elem. Particle Physics/Theory</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~211127</FUND_OBLG>
+</Award>
+</rootTag>

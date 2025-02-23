@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Novel Low-Cost Electric Motors for Variable Speed Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>96567.00</AwardTotalIntnAmount>
+<AwardAmount>96567</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+<PO_EMAI>mnair@nsf.gov</PO_EMAI>
+<PO_PHON>7032927059</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This SBIR Phase I research proposal will analyze, develop, and demonstrate a novel, optimized, high power density and high efficiency electric motor technology capable of operating at high speeds using Parallel Magnetic Circuit (PMC) technology. PMC technology is a breakthrough magnetic force control technology that is applicable to any electromagnetic device. Unlike ?conventional? electro-magnetic motors and actuators, which use series magnetic circuits limited by the force of the most powerful single magnet element, PMC moves flux from multiple permanent magnets and field coils into a coherent and additive geometry - dramatically increasing both efficiency and power density. &lt;br/&gt; &lt;br/&gt;The proposed motor will have efficiency greater than 90 percent over a broad range of operating speeds with peak efficiency greater than 97 percent, operate at speeds in excess of 20,000 rpm, cost less than comparable existing permanent magnet motors, and require no active liquid cooling when operating within the designed parameters. These power generators have significant quantitative and qualitative advantages over the incumbent motors being used in the current variable speed applications. Their smaller size and ability to operate more efficiently over a wider range of operating speeds, as well as their ease of integration, installation, and projected reliability, would greatly increase electric motor viability in the commercial market. This would significantly increase the viability of electric drive trains and speed the adoption of efficient and environmentally sustainable electric vehicles.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>11/07/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>11/07/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839592</AwardID>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Flynn</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Charles J Flynn</PI_FULL_NAME>
+<EmailAddress><![CDATA[jflynn@QMPower.com]]></EmailAddress>
+<NSF_ID>000083770</NSF_ID>
+<StartDate>11/07/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>QM Power, Inc</Name>
+<CityName>Kansas City</CityName>
+<ZipCode>641371284</ZipCode>
+<PhoneNumber>8162464200</PhoneNumber>
+<StreetAddress>9680 Marion Ridge</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[QM Power, Inc]]></Name>
+<CityName>Kansas City</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>641371284</ZipCode>
+<StreetAddress><![CDATA[9680 Marion Ridge]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4080</Code>
+<Text>ADVANCED COMP RESEARCH PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9139</Code>
+<Text>INFORMATION INFRASTRUCTURE &amp; TECH APPL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~96567</FUND_OBLG>
+</Award>
+</rootTag>

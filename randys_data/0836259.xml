@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshop on The Question Generation Shared Task and Evaluation Challenge</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>25345</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tatiana Korelsky</SignBlockName>
+<PO_EMAI>tkorelsk@nsf.gov</PO_EMAI>
+<PO_PHON>7032928729</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The Workshop on the Question Generation Shared Task and Evaluation Challenge aims at establishing a community consensus with respect to various issues related to offering a shared task on Question Generation, including a clear definition of the main task and subtasks, data collection and annotation processes, data annotation schema, type of evaluation and evaluation metrics. The Natural Language Generation community has currently identified shared tasks as a potential venue to provide a focus of research in the field and increase the visibility of Natural Language Generation research in the wider Natural Language Processing/Computational Linguistics community. This award contributes to this effort by defining a novel shared task, the Question Generation task. The workshop organization is guided by the Desiderata for Evaluation of Natural Language Generation outlined at the recent NSF/SIGGEN Workshop on Shared Tasks and Comparative Evaluation in NLG held in 2007. The goal of a representative group of researchers from various areas of research (Natural Language Generation, Intelligent Tutoring Systems, Artificial Intelligence in Education) participating in the workshop discussions is to produce a to-do list for preparing and offering a Question Generation task at Generation Challenges 2010. A post-workshop report will outline the discussions and decisions of the workshop and will be made available to the research community. Due to the importance of Question Generation in learning technologies such as Intelligent Tutoring Systems, the workshop will have broader impact on improving the teaching and learning of STEM disciplines through improved educational software applications.</AbstractNarration>
+<MinAmdLetterDate>06/06/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/10/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0836259</AwardID>
+<Investigator>
+<FirstName>Vasile</FirstName>
+<LastName>Rus</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vasile Rus</PI_FULL_NAME>
+<EmailAddress>vrus@memphis.edu</EmailAddress>
+<NSF_ID>000492309</NSF_ID>
+<StartDate>06/06/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Arthur</FirstName>
+<LastName>Graesser</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Arthur C Graesser</PI_FULL_NAME>
+<EmailAddress>a-graesser@memphis.edu</EmailAddress>
+<NSF_ID>000264236</NSF_ID>
+<StartDate>06/06/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Memphis</Name>
+<CityName>Memphis</CityName>
+<ZipCode>381523370</ZipCode>
+<PhoneNumber>9016783251</PhoneNumber>
+<StreetAddress>Administration 315</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN09</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>055688857</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MEMPHIS, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>878135631</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Memphis]]></Name>
+<CityName>Memphis</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>381523370</ZipCode>
+<StreetAddress><![CDATA[Administration 315]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>Robust Intelligence</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2008~25345</FUND_OBLG>
+</Award>
+</rootTag>

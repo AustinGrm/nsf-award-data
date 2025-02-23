@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Interdisciplinary Mentoring Program in Analysis, Computation, and Theory (IMPACT)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Warchall</SignBlockName>
+<PO_EMAI>hwarchal@nsf.gov</PO_EMAI>
+<PO_PHON>7032924861</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;This work focuses on the stability theory of nonlinear waves and coherent structures, with an emphasis on front propagation arising in the continuum and kinetic theories of compressible flow. This class of problems models key real-world phenomena such as shock layers in a viscous gas or plasma, detonations in a reactive gas, and the propagation of phase boundaries in a viscous fluid.  During this project, we will explore long-standing open questions about the stability of many-variable and multi-dimensional dissipative traveling waves, in particular those of compressible fluid flow.  Our technical approach centers around Evans function computation and related spectral techniques, energy estimates, and asymptotic ordinary differential equation techniques including the gap, tracking, and conjugation lemmata, blow-up methods, and geometric singular perturbation theory; also included are techniques in bifurcation theory, spectral theory of linear operators, and nonlinear partial differential equations.&lt;br/&gt;&lt;br/&gt;Nonlinear waves and coherent structures are ubiquitous in nature and occur in many scientific disciplines including ecology, oceanography, fluid dynamics, combustion, plasma physics, optics, neuroscience, and material science.  The mathematical models of these phenomena are very complex and will require a wide range of new and emerging analytical and computational techniques for their exploration.  Our primary goal is to understand the nature of these waves and structures in the presence of disturbances.  The overarching question is: will a given wave or structure persist when it is disturbed, or will it instead bifurcate into something else?  Our aim is to develop quantitative mathematical tools to aid in the exploration of these phenomena, particularly methods that will be of practical use in engineering, physics, biology, chemistry, and manufacturing.  The majority of the direct costs in this program go to funding graduate student research as part of a larger vertically integrated interdisciplinary mentoring program seeded by NSF Grant No. 0639328.  Under the investigator's supervision, graduate students conduct their own research, while also assisting in the mentoring of undergraduate researchers in our program.  This gives the undergraduates more opportunities for help and guidance, while also giving the graduate students a chance to reinforce their understanding by teaching, and also to develop leadership skills.  The goal of this model is to produce a strong and vibrant pipeline of young scholars in the mathematical sciences who will be well equipped to meet the challenges of a globally competitive scientific workforce.]]></AbstractNarration>
+<MinAmdLetterDate>06/14/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/14/2014</MaxAmdLetterDate>
+<ARRAAmount>400000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0847074</AwardID>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Humpherys</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeffrey Humpherys</PI_FULL_NAME>
+<EmailAddress><![CDATA[jhumpherys@gmail.com]]></EmailAddress>
+<NSF_ID>000412423</NSF_ID>
+<StartDate>06/14/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Brigham Young University</Name>
+<CityName>PROVO</CityName>
+<ZipCode>846021128</ZipCode>
+<PhoneNumber>8014223360</PhoneNumber>
+<StreetAddress>A-153 ASB</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JWSYC7RUMJD1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BRIGHAM YOUNG UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Brigham Young University]]></Name>
+<CityName>PROVO</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>846021128</ZipCode>
+<StreetAddress><![CDATA[A-153 ASB]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1187</Code>
+<Text>PECASE- eligible</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~400000</FUND_OBLG>
+</Award>
+</rootTag>

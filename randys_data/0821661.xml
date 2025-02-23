@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Acquisition of a High Resolution LC-MS/MS System]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>479590.00</AwardTotalIntnAmount>
+<AwardAmount>479590</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vicki Martin</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[A grant has been awarded to Indiana University and Purdue University Indianapolis (IUPUI) to acquire a liquid chromatograph-tandem quadrupole mass spectrometer (LC-MS/MS) system to support the research of 12 primary users with interests in bioorganic, bioanalytical, biological, and analytical chemistry. The diverse research projects of these investigators from the Department of Chemistry &amp; Chemical Biology (CCB) and other collaborating departments include the unraveling of biochemical pathways in fungi, plants, and moths, functional proteomics and bioanalysis, dissecting the biosynthesis and interaction of components of cellular membranes and ion transport, understanding immune and plant environmental stress responses, and the development of new biomedical imaging agents.  The requested state-of-the-art LC-MS/MS system is capable of sensitive and high resolution multi-dimensional analyses of complex lipid, protein, and metabolite samples, which are important to the research programs of all of the current investigators, and will be central to expanding IUPUI?s research and graduate training in science. &lt;br/&gt;&lt;br/&gt;Interdisciplinary activities and the creation of new collaborations with neighboring departments have fueled CCB?s rapid growth.  More than 60 percent of its graduates, from a chemistry student body containing a high proportion of female (50%) and underrepresented (16%) students, are employed in the nine-county region surrounding Indianapolis, which is the center of Indiana?s growing life sciences initiative involving pharmaceutical, agrochemical, medical diagnostic, and related industries. The proposed instrument will be showcased in several advanced biology and chemistry courses that allow direct student instrument training and foster the integration of modern biological research and education.]]></AbstractNarration>
+<MinAmdLetterDate>08/24/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/24/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0821661</AwardID>
+<Investigator>
+<FirstName>Sapna</FirstName>
+<LastName>Deo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sapna Deo</PI_FULL_NAME>
+<EmailAddress><![CDATA[sdeo@med.miami.edu]]></EmailAddress>
+<NSF_ID>000345068</NSF_ID>
+<StartDate>08/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Randall</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stephen K Randall</PI_FULL_NAME>
+<EmailAddress><![CDATA[srandal@iupui.edu]]></EmailAddress>
+<NSF_ID>000113837</NSF_ID>
+<StartDate>08/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Minto</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert E Minto</PI_FULL_NAME>
+<EmailAddress><![CDATA[rminto@iupui.edu]]></EmailAddress>
+<NSF_ID>000487395</NSF_ID>
+<StartDate>08/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Frank</FirstName>
+<LastName>Witzmann</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Frank Witzmann</PI_FULL_NAME>
+<EmailAddress><![CDATA[fwitzman@iupui.edu]]></EmailAddress>
+<NSF_ID>000276790</NSF_ID>
+<StartDate>08/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stephanie</FirstName>
+<LastName>Sen</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stephanie E Sen</PI_FULL_NAME>
+<EmailAddress><![CDATA[sen@chem.iupui.edu]]></EmailAddress>
+<NSF_ID>000172137</NSF_ID>
+<StartDate>08/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Indiana University</Name>
+<CityName>BLOOMINGTON</CityName>
+<ZipCode>474057000</ZipCode>
+<PhoneNumber>3172783473</PhoneNumber>
+<StreetAddress>107 S INDIANA AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YH86RTW2YVJ4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF INDIANA UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YH86RTW2YVJ4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Indiana University-Purdue University at Indianapolis]]></Name>
+<CityName>BLOOMINGTON</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>474057000</ZipCode>
+<StreetAddress><![CDATA[107 S INDIANA AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9184</Code>
+<Text>BIOTECHNOLOGY - INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~479590</FUND_OBLG>
+</Award>
+</rootTag>

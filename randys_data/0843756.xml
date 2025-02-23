@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SGER:  Modeling Ionic Polymer Metal Composite Actuators and Sensors for Microgripper Applications</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>59773</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jie Yang</SignBlockName>
+<PO_EMAI>jyang@nsf.gov</PO_EMAI>
+<PO_PHON>7032924768</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Ionic polymer metal composite (IPMC) materials represent a very different approach to building microgripper fingers, in contrast with the standard micromachining approach, where semiconductor fabrication tools are used to create fingers out of polysilicon and related materials. Although there has been substantial activity in modeling IPMCs, both as actuators and sensors, there is a significant gap in the knowledge of this fascinating material. There is no model that predicts the deformation and potential force that the material can produce when it is cut into an arbitrary shape. This is a significant gap in knowledge because it forces applications that use this material to simply guess a ?good? shape for the microgripper fingers. With a model, the design of finger shapes becomes an optimization problem, i.e., more scientific, less ad hoc. As a consequence, the modeling results feed into a robust intelligence concept of a microgripper finger that can perform micromanipulation while it senses its environment in an effective and intelligent fashion. This work will develop a model that computes the shape of an arbitrarily shaped IPMC microfinger given an excitation voltage placed at any location on the finger. This will eventually lead to microfinger designs that produce desired forces and deflections for specific applications.</AbstractNarration>
+<MinAmdLetterDate>08/18/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0843756</AwardID>
+<Investigator>
+<FirstName>Ron</FirstName>
+<LastName>Lumia</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ron Lumia</PI_FULL_NAME>
+<EmailAddress>lumia@unm.edu</EmailAddress>
+<NSF_ID>000188724</NSF_ID>
+<StartDate>08/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of New Mexico</Name>
+<CityName>Albuquerque</CityName>
+<ZipCode>871310001</ZipCode>
+<PhoneNumber>5052774186</PhoneNumber>
+<StreetAddress>1700 Lomas Blvd. NE, Suite 2200</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NM01</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>868853094</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NEW MEXICO, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>784121725</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of New Mexico]]></Name>
+<CityName>Albuquerque</CityName>
+<StateCode>NM</StateCode>
+<ZipCode>871310001</ZipCode>
+<StreetAddress><![CDATA[1700 Lomas Blvd. NE, Suite 2200]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NM01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>Robust Intelligence</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9215</Code>
+<Text>HIGH PERFORMANCE COMPUTING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9237</Code>
+<Text>SMALL GRANTS-EXPLORATORY RSRCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2008~50000</FUND_OBLG>
+<FUND_OBLG>2009~9773</FUND_OBLG>
+</Award>
+</rootTag>

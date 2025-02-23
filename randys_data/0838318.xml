@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I: Large Diameter CdS Single Crystal Substrates for II-VI-based Light Emitters and Displays]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Juan E. Figueroa</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This Small Business Innovation Research (SBIR) Phase I project will demonstrate a novel crystal growth technique for volume production of large diameter, high quality cadmium sulfide (CdS) single crystals suitable as lattice-matched substrates for fabricating II-VI-based light emitters, particularly ZnCdMgSe quantum-well light emitting devices and high resolution full-color displays. One challenge in the development of high-performance ZnCdMgSe quantum-well light emitting devices is the overcoming of manufacturing hurdles of lattice-matched, large-diameter and high-quality CdS single crystal substrates. The proposed effort will investigate a unique growth technique for producing large-diameter, high-quality CdS single crystals in an efficient manner, so that large diameter CdS single crystal substrates may be manufactured at a competitive price. &lt;br/&gt;&lt;br/&gt;If the proposed growth technology is successfully adopted in volume production, large-diameter, high-quality CdS single crystal substrates will become widely available commercially at an affordable price, which will greatly accelerate development and commercialization of high-performance II-VI-based light emitters and LED-based full-color displays for varieties of defense, industrial and commercial applications. The company's advantage over the competitors is the experience in producing large diameter single crystals and development of an efficient manufacturing process.]]></AbstractNarration>
+<MinAmdLetterDate>11/14/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>11/14/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0838318</AwardID>
+<Investigator>
+<FirstName>Shaoping</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shaoping Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[swang@fairfieldcrystal.com]]></EmailAddress>
+<NSF_ID>000181974</NSF_ID>
+<StartDate>11/14/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Fairfield Crystal Technology, LLC</Name>
+<CityName>NEW MILFORD</CityName>
+<ZipCode>067764200</ZipCode>
+<PhoneNumber>8603542111</PhoneNumber>
+<StreetAddress>8 S END PLZ</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>L8NGYMXQN9H6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FAIRFIELD CRYSTAL TECHNOLOGY, LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Fairfield Crystal Technology, LLC]]></Name>
+<CityName>NEW MILFORD</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>067764200</ZipCode>
+<StreetAddress><![CDATA[8 S END PLZ]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; DEVICE TEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7257</Code>
+<Text>APPLICATS OF ADVANCED TECHNOLS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9139</Code>
+<Text>INFORMATION INFRASTRUCTURE &amp; TECH APPL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~100000</FUND_OBLG>
+</Award>
+</rootTag>

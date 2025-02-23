@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Computer Science for the Liberal Arts: Reaching an Untapped Pool of Students]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>134807.00</AwardTotalIntnAmount>
+<AwardAmount>134807</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Victor Piotrowski</SignBlockName>
+<PO_EMAI>vpiotrow@nsf.gov</PO_EMAI>
+<PO_PHON>7032925141</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Computer Science (31) &lt;br/&gt;&lt;br/&gt;This project addresses the problem of the decline in the number of computer science (CS) majors by creating a computer science course for non-majors designed to satisfy the college mathematics general education requirement and to increase students' appreciation of computer science and its relevance in today's society.&lt;br/&gt;&lt;br/&gt;Efforts to reverse the decline in enrollment in computer science are numerous and target different student populations but these programs tend to be long-term or dependent on students enrolling in CS courses in the first place. The new course is an attractive option for students to satisfy their mathematics general education requirement. It gives an opportunity to the computer science faculty to present the computing field as essential to the students' lives and to society. Materials are developed to integrate the mathematics and the computer science concepts and to incorporate significant computer applications that impact students' lives and the society at large.&lt;br/&gt;&lt;br/&gt;The course designed initially for Columbia College, a liberal arts women's college with a large minority representation of mostly African-American students allows testing the course material on two under-represented groups in computer science. However, the designed course is appropriate as well for most liberal arts colleges with little adaptation. In addition to core units, additional units vary between the different offerings of the course during the project duration to provide more choices to departments adapting the course. The project includes significant dissemination activities to increase the impact of this project well beyond Columbia College.]]></AbstractNarration>
+<MinAmdLetterDate>06/01/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/01/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0836877</AwardID>
+<Investigator>
+<FirstName>Madeleine</FirstName>
+<LastName>Schep</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Madeleine Schep</PI_FULL_NAME>
+<EmailAddress><![CDATA[mschep@columbiasc.edu]]></EmailAddress>
+<NSF_ID>000256648</NSF_ID>
+<StartDate>06/01/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nieves</FirstName>
+<LastName>McNulty</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nieves A McNulty</PI_FULL_NAME>
+<EmailAddress><![CDATA[nmcnulty@columbiasc.edu]]></EmailAddress>
+<NSF_ID>000255960</NSF_ID>
+<StartDate>06/01/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia College</Name>
+<CityName>COLUMBIA</CityName>
+<ZipCode>292035949</ZipCode>
+<PhoneNumber>8037863551</PhoneNumber>
+<StreetAddress>1301 COLUMBIA COLLEGE DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SC06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>K5EBY26GSFJ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>COLUMBIA COLLEGE, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>K5EBY26GSFJ7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia College]]></Name>
+<CityName>COLUMBIA</CityName>
+<StateCode>SC</StateCode>
+<ZipCode>292035949</ZipCode>
+<StreetAddress><![CDATA[1301 COLUMBIA COLLEGE DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SC06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0409</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000910DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~134807</FUND_OBLG>
+</Award>
+</rootTag>

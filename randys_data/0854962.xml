@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[AHSS:  Development of a High Strength, High Toughness Ausferritic Steel]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>303461.00</AwardTotalIntnAmount>
+<AwardAmount>303461</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mary Toney</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The objective of this research award is to advance fundamental understanding of the synthesis of a high strength, high toughness bainitic steel with extremely fine scale microstructure consisting of ferrite and carbon stabilized austenite. This novel steel will be synthesized using the concept of austempered ductile cast iron technology and by applying a novel concept of adiabatic deformation together with a two-step austempering process in a medium carbon low alloy steel with high silicon content. This novel process will result in extremely fine bainitic ferrite and carbon stabilized austenite which will in turn provide simultaneous high yield strength, fracture toughness, impact strength and fatigue strength. Currently such combination of unique properties can not be obtained in conventional low alloy steels.&lt;br/&gt;&lt;br/&gt;If successful, the results of this research will pioneer a novel technology for creation of a series of Ausferritic Steels with excellent combination of mechanical properties. It will establish whether a combination of adiabatic deformation and two-step austempering will lead to large super cooling and carbon partitioning, and thus lead to an extremely fine scale bainitic ferrite and carbon stabilized austenite. Moreover it will validate whether such a microstructure will impart the desired combination of mechanical properties i.e. simultaneous high yield strength, fatigue strength, fracture toughness and impact strength. The creation of Ausferritic steel will be totally new and a novel concept. The concept of Ausferritic steel will make a valuable contribution to the theory of phase transformation in ferrous alloys. In addition to this, we have also developed a thermodynamic model and the assumptions made in derivation of this thermodynamic model will also be examined. Thus this proposed research will advance the state of knowledge in the ferrous physical metallurgy as well as basic thermodynamics and kinetics of phase transformation. This novel steel will make the structural components lighter, more energy efficient and consequently improve fuel economy and reduce pollution. This novel process will also lead to a near net shape production technology for steels. The austempering process is a more energy efficient heat treatment process since no post heat treatment after quenching is required. Therefore, this process will lead to significant energy savings.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>05/26/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/27/2013</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0854962</AwardID>
+<Investigator>
+<FirstName>Susil</FirstName>
+<LastName>Putatunda</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Susil K Putatunda</PI_FULL_NAME>
+<EmailAddress><![CDATA[sputa@eng.wayne.edu]]></EmailAddress>
+<NSF_ID>000303235</NSF_ID>
+<StartDate>05/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Wayne State University</Name>
+<CityName>DETROIT</CityName>
+<ZipCode>482023692</ZipCode>
+<PhoneNumber>3135772424</PhoneNumber>
+<StreetAddress>5700 CASS AVE STE 4900</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M6K6NTJ2MNE5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WAYNE STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Wayne State University]]></Name>
+<CityName>DETROIT</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>482023692</ZipCode>
+<StreetAddress><![CDATA[5700 CASS AVE STE 4900]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1467</Code>
+<Text>MATERIALS PROCESSING AND MANFG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>083E</Code>
+<Text>MATERIAL TRANSFORMATION PROC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9147</Code>
+<Text>GENERIC TECHNOL FOR MANUFACTURING CELLS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~303461</FUND_OBLG>
+</Award>
+</rootTag>

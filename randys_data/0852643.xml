@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Acquisition of a Physical Properties Measurement System]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>327030.00</AwardTotalIntnAmount>
+<AwardAmount>327030</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070006</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Guebre Tessema</SignBlockName>
+<PO_EMAI>gtessema@nsf.gov</PO_EMAI>
+<PO_PHON>7032924935</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Technical Abstract&lt;br/&gt;The purpose of this proposal is to obtain funding to purchase a Quantum Design Physical Properties Measurement System (PPMS) to be operated as a user facility at the Indiana University of Pennsylvania (IUP).  This device offers a myriad of experiments allowing for characterization of physical properties of materials including thermodynamic properties and transport properties.  This type of basic information is vital for characterizing materials being produced and or studied, in a number of different fields, at IUP.  At IUP, users from the Physics, Chemistry and Geology Departments have shown strong interest in using this device in their research projects. Specific research projects include investigations of the following types of effects and materials:&lt;br/&gt;1) Thermodynamic properties of complex nonequilibrium magnetic materials&lt;br/&gt;2) Finite size effects in thin and multilayer films&lt;br/&gt;3) Magnetic properties of nanoparticles and nanoparticles arrays&lt;br/&gt;4) Spin related phenomena in dilute magnetic semiconductors&lt;br/&gt;5) Polymorphism in organic crystals and its potential impact on pharmaceuticals&lt;br/&gt;6) Properties of new optical materials&lt;br/&gt;7) Geophysical magnetic correlation methods&lt;br/&gt;As a primarily undergraduate institution the faculty and staff at IUP are focused on undergraduate and M.S. training. All of envisioned research projects, within this proposal, are structured to provide student training. We are also intending to use this device to develop a dual level experimental materials science course for seniors and M.S. students. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Non-Technical Abstract&lt;br/&gt;The purpose of this proposal is to obtain funding to purchase a Quantum Design Physical Properties Measurement System (PPMS) to be operated as a user facility at the Indiana University of Pennsylvania (IUP). This device would allow users to measure many of the properties of materials necessary for understanding both the type of material and internal workings of the material. At IUP, users from the Physics, Chemistry and Geology Departments have shown strong interest in using this device in their research projects. Projects include work on magnetic materials, man-made materials, semiconductors, characterization of geological materials, optical materials and organic materials. As a primarily undergraduate institution the faculty and staff at IUP are focused on undergraduate and M.S. training. All of envisioned research projects, within this proposal, are structured to provide student training. We are also intending to use this device to develop a dual level experimental materials science course for senior and M.S. students. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>10/30/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>10/30/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0852643</AwardID>
+<Investigator>
+<FirstName>Gregory</FirstName>
+<LastName>Kenning</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gregory G Kenning</PI_FULL_NAME>
+<EmailAddress><![CDATA[gregory.kenning@iup.edu]]></EmailAddress>
+<NSF_ID>000328611</NSF_ID>
+<StartDate>10/30/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Indiana University of Pennsylvania Research Institute</Name>
+<CityName>INDIANA</CityName>
+<ZipCode>157012898</ZipCode>
+<PhoneNumber>7243572223</PhoneNumber>
+<StreetAddress>1179 GRANT ST</StreetAddress>
+<StreetAddress2><![CDATA[STE 1]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA15</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UGHXHKJB8LL6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>IUP RESEARCH INSTITUTE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Indiana University of Pennsylvania Research Institute]]></Name>
+<CityName>INDIANA</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>157012898</ZipCode>
+<StreetAddress><![CDATA[1179 GRANT ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA15</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0106000</Code>
+<Name>Materials Research</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9161</Code>
+<Text>SINGLE DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>AMPP</Code>
+<Text>ADVANCED MATERIALS &amp; PROCESSING PROGRAM</Text>
+</ProgramReference>
+<FUND_OBLG>2007~327030</FUND_OBLG>
+</Award>
+</rootTag>

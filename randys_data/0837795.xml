@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Infusing Advanced Sensor Network Research into Cross-disciplinary Undergraduate Education]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>199882.00</AwardTotalIntnAmount>
+<AwardAmount>199882</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Zhanjing Yu</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Engineering - Engineering Technology (58)&lt;br/&gt;&lt;br/&gt;The project is integrating current technological advances of smart sensor networks into the undergraduate engineering and technology curriculum. It is developing instructional materials and project-oriented laboratories to provide students with extensive hands-on experiences on smart sensor networks in order to enhance their knowledge and understanding of the design principles in next generation data acquisition systems using off-the-shelf components, modern testing equipment, and software tools.   This project-driven curriculum is guiding students through the process of designing, implementing, evaluating, and maintaining sensor networks while applying this process to real world problems.   The materials are being used in several different schools ranging from a research university to a community college and they are being used in K-12 through several existing efforts.   Evaluation efforts, under the direction of two expert evaluators, are using an analysis of student products, observations, and the Student Assessment of Learning Gains (SALG) survey to monitor progress.  Instructional materials and evaluation results are being disseminated through website postings, conference papers, journal articles, and workshops with National Instruments and with the Instrument Society of America.  Broader impacts include the dissemination of the material, the outreach to K-12, and the collaboration of three very different schools.]]></AbstractNarration>
+<MinAmdLetterDate>04/14/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>04/14/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0837795</AwardID>
+<Investigator>
+<FirstName>Heidar</FirstName>
+<LastName>Malki</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Heidar A Malki</PI_FULL_NAME>
+<EmailAddress><![CDATA[malki@uh.edu]]></EmailAddress>
+<NSF_ID>000337624</NSF_ID>
+<StartDate>04/14/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gangbing</FirstName>
+<LastName>Song</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gangbing Song</PI_FULL_NAME>
+<EmailAddress><![CDATA[gsong@uh.edu]]></EmailAddress>
+<NSF_ID>000150659</NSF_ID>
+<StartDate>04/14/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xiaojing</FirstName>
+<LastName>Yuan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiaojing Yuan</PI_FULL_NAME>
+<EmailAddress><![CDATA[xyuan@uh.edu]]></EmailAddress>
+<NSF_ID>000360422</NSF_ID>
+<StartDate>04/14/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hao</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hao Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[hli@unt.edu]]></EmailAddress>
+<NSF_ID>000483720</NSF_ID>
+<StartDate>04/14/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xiaohui</FirstName>
+<LastName>Yuan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiaohui Yuan</PI_FULL_NAME>
+<EmailAddress><![CDATA[xiaohui.yuan@unt.edu]]></EmailAddress>
+<NSF_ID>000360455</NSF_ID>
+<StartDate>04/14/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Houston</Name>
+<CityName>HOUSTON</CityName>
+<ZipCode>772043067</ZipCode>
+<PhoneNumber>7137435773</PhoneNumber>
+<StreetAddress>4300 MARTIN LUTHER KING BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QKWEF8XLMTT3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF HOUSTON SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Houston]]></Name>
+<CityName>HOUSTON</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>772043067</ZipCode>
+<StreetAddress><![CDATA[4300 MARTIN LUTHER KING BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0409</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000910DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>1300CYXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~199882</FUND_OBLG>
+</Award>
+</rootTag>

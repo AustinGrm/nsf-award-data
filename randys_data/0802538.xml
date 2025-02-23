@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Articulated Project for the Preparation of Instrumentation and Control Technicians]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>144958.00</AwardTotalIntnAmount>
+<AwardAmount>144958</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040100</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Herbert H. Richtol</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project is developing a curriculum in Instrumentation and Control Engineering Technology (ICET) within the existing ABET accredited Electronics and Computer Engineering Technology (ECET) program. This effort engages Savannah Technical College (STC) and Savannah State University (SSU), a Historically Black University, in an articulated partnership, which provides new and prospective student pathways either to associate degrees or four year programs. The partnership also includes industry representatives who provide critical input to promote improvement in the education of engineering technicians. The project develops and implements an ICET curriculum that ensures and sustains the enrollment and graduation of underrepresented students knowledgeable in instrumentation and control engineering technology for rapidly emerging industrial applications in the Savannah coastal region and beyond. The ICET curriculum consists of formal course work, laboratory work, and internships in industry. The project's recruitment activities with underrepresented population contributes to increased enrollment and graduation rates of engineering technicians to meet workforce demands by improving technician skills and meeting student needs by improving their STEM preparation. The curriculum meets the national standards as affirmed by ABET accreditation. The project also has broad range impact on the regional and national economy and disseminates the ICET curriculum and other activities through web based materials.]]></AbstractNarration>
+<MinAmdLetterDate>07/07/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/07/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0802538</AwardID>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Beall</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Charles Beall</PI_FULL_NAME>
+<EmailAddress><![CDATA[cbeall@savannahtech.edu]]></EmailAddress>
+<NSF_ID>000074735</NSF_ID>
+<StartDate>07/07/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Muniyappa</FirstName>
+<LastName>Venkatesha</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Muniyappa Venkatesha</PI_FULL_NAME>
+<EmailAddress><![CDATA[mvenkatesha@savannahtech.edu]]></EmailAddress>
+<NSF_ID>000075396</NSF_ID>
+<StartDate>07/07/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Franklin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joseph Franklin</PI_FULL_NAME>
+<EmailAddress><![CDATA[jfranklin@savannahtech.edu]]></EmailAddress>
+<NSF_ID>000075398</NSF_ID>
+<StartDate>07/07/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Asad</FirstName>
+<LastName>Yousuf</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Asad Yousuf</PI_FULL_NAME>
+<EmailAddress><![CDATA[yousufa@savstate.edu]]></EmailAddress>
+<NSF_ID>000075408</NSF_ID>
+<StartDate>07/07/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Savannah Technical College</Name>
+<CityName>SAVANNAH</CityName>
+<ZipCode>314055521</ZipCode>
+<PhoneNumber>9124433024</PhoneNumber>
+<StreetAddress>5717 WHITE BLUFF RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GZKVE2KJVHM9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SAVANNAH TECHNICAL COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Savannah Technical College]]></Name>
+<CityName>SAVANNAH</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>314055521</ZipCode>
+<StreetAddress><![CDATA[5717 WHITE BLUFF RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7412</Code>
+<Text>Advanced Tech Education Prog</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1032</Code>
+<Text>ADVANCED TECHNOLOGY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~144958</FUND_OBLG>
+</Award>
+</rootTag>

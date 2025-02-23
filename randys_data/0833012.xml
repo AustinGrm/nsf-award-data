@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[The University of Washington Noyce Scholars Program]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>749881.00</AwardTotalIntnAmount>
+<AwardAmount>749881</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040100</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Terry S. Woodin</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project capitalizes on a recently introduced revision of the University of Washington's teacher preparation program, "Teachers for  New Era", and is benefiting from existing collaborations among science and mathematics departments in the Colleges of Arts and Sciences and of Education, and three of the largest school districts in Washington: Seattle, Highline, and Renton. Thirty-six scholarships are being awarded, 9 each year over 4 years, balanced between mathematics and science majors. The maximum amount of yearly scholarship support is $15,000, to cover tuition and stipends for four quarters of full-time graduate study leading to certification at the secondary level for either mathematics or science. Participants may continue for an additional quarter to receive a Master's in Teaching degree. The program offers one year of subject-specific induction following graduation.&lt;br/&gt;&lt;br/&gt;Intellectual Merit: The Noyce Scholars Program is serving as a national model for attracting, preparing, and retaining outstanding STEM major as teachers in high-needs schools. The program benefits from years of intensive and broad based data collection about the education, support, and retention of teachers. The extended support for the Noyce Scholars after graduation is designed to offer a set of induction experiences that helps ensure that these teachers remain in the profession, refine their practices, and foster high levels of achievement in a cadre of young students over time. &lt;br/&gt;&lt;br/&gt;Broader Impact: The four cohorts of secondary science and mathematics teachers trained by this project will be placed in high-needs schools giving students from largely underrepresented groups access to excellent instruction. Because of the continued involvement of faculty in collecting data on the effectiveness of a range of features of teacher training (e.g., selection of candidates, methods of instruction, analysis of pupil data, induction support) this project is contributing substantially to what is known about the design of preparation experiences and induction experiences. Insights gleaned from this project are being shared with colleges of education across the nation. Models for preparation and induction support are being widely disseminated across a spectrum of national audiences, educators, researchers, and policymakers.]]></AbstractNarration>
+<MinAmdLetterDate>09/05/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/05/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0833012</AwardID>
+<Investigator>
+<FirstName>Loyce</FirstName>
+<LastName>Adams</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Loyce M Adams</PI_FULL_NAME>
+<EmailAddress><![CDATA[adams@amath.washington.edu]]></EmailAddress>
+<NSF_ID>000248839</NSF_ID>
+<StartDate>09/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Windschitl</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark Windschitl</PI_FULL_NAME>
+<EmailAddress><![CDATA[mwind@u.washington.edu]]></EmailAddress>
+<NSF_ID>000390878</NSF_ID>
+<StartDate>09/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>J. Michael</FirstName>
+<LastName>Brown</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>J. Michael Brown</PI_FULL_NAME>
+<EmailAddress><![CDATA[brown@ess.washington.edu]]></EmailAddress>
+<NSF_ID>000433206</NSF_ID>
+<StartDate>09/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Washington</Name>
+<CityName>Seattle</CityName>
+<ZipCode>981950001</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress>4333 Brooklyn Ave NE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HD1WMN6945W6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WASHINGTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NFJ3CMQ4B418</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Washington]]></Name>
+<CityName>Seattle</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>981950001</ZipCode>
+<StreetAddress><![CDATA[4333 Brooklyn Ave NE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1795</Code>
+<Text>Robert Noyce Scholarship Pgm</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~749881</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Developing Undergraduate Researchers in Chemistry and Biochemistry]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>222300.00</AwardTotalIntnAmount>
+<AwardAmount>222300</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090007</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Charles Pibel</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This Research Experiences for Undergraduates site in the Department of Chemistry and Biochemistry at the University of Southern Mississippi will provide a diverse range of undergraduate research experiences ranging from nanomaterials to organometallic chemistry to the biochemistry of carbon fixation. Recruitment efforts will be both within the state of Mississippi and adjoining states with special emphasis on attracting minority students. During the summer there will be weekly research presentations and discussions of ethics in science, graduate school and GRE preparation. Some professional development and social activities will be shared with students from the NSF Alliance for Graduate Education in Mississippi (AGEM) summer program for African-American undergraduates. The final week in the summer will include submission of a formal report and a mini symposium. A reunion of participants and mentors will be held the following spring.]]></AbstractNarration>
+<MinAmdLetterDate>08/06/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>12/02/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0851907</AwardID>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Evans</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeffrey A Evans</PI_FULL_NAME>
+<EmailAddress><![CDATA[jeffrey.evans@usm.edu]]></EmailAddress>
+<NSF_ID>000392225</NSF_ID>
+<StartDate>08/06/2009</StartDate>
+<EndDate>10/15/2010</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Bateman</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME>Jr</PI_SUFX_NAME>
+<PI_FULL_NAME>Robert C Bateman</PI_FULL_NAME>
+<EmailAddress><![CDATA[rbateman@wmcarey.edu]]></EmailAddress>
+<NSF_ID>000357851</NSF_ID>
+<StartDate>08/06/2009</StartDate>
+<EndDate>12/02/2010</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Vijay</FirstName>
+<LastName>Rangachari</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vijay Rangachari</PI_FULL_NAME>
+<EmailAddress><![CDATA[vijay.rangachari@usm.edu]]></EmailAddress>
+<NSF_ID>000522017</NSF_ID>
+<StartDate>12/02/2010</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Southern Mississippi</Name>
+<CityName>HATTIESBURG</CityName>
+<ZipCode>394060001</ZipCode>
+<PhoneNumber>6012664119</PhoneNumber>
+<StreetAddress>118 COLLEGE DRIVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<StateCode>MS</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MS04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M1K8LJAET5R1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF SOUTHERN MISSISSIPPI</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Southern Mississippi]]></Name>
+<CityName>HATTIESBURG</CityName>
+<StateCode>MS</StateCode>
+<ZipCode>394060001</ZipCode>
+<StreetAddress><![CDATA[118 COLLEGE DRIVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MS04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1139</Code>
+<Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1986</Code>
+<Text>UNDERGRADUATE PROGRAMS IN CHEM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9150</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~222300</FUND_OBLG>
+</Award>
+</rootTag>

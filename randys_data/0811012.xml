@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CPA-CSA:   Photonic Interconnection Networks for Chip-Multiprocessor Computing Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Hong Jiang</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The impact of communication on the performance of computer systems continues to&lt;br/&gt;grow both at the macro-level for blade servers and clusters of computers, and&lt;br/&gt;at the micro-level in multi-core processors. Meanwhile the tight on-chip power&lt;br/&gt;dissipation constraints have forced practically all major semiconductor&lt;br/&gt;companies to move to multi-core or chip multiprocessor (CMP) architectures. &lt;br/&gt;The emergence of CMPs has in turn placed increased challenges on the&lt;br/&gt;communications infrastructure as the growing number of processing cores&lt;br/&gt;integrated on each chip exacerbates the bandwidth requirements for both&lt;br/&gt;intra-chip and inter-chip communication. &lt;br/&gt;&lt;br/&gt;This research aims to harness the recent extraordinary advances in&lt;br/&gt;nanoscale silicon photonic technologies for developing optical interconnection &lt;br/&gt;networks that address the critical bandwidth and power challenges of future&lt;br/&gt;CMP-based system. The insertion of photonic interconnection networks essentially changes the power scaling rules: once a photonic path is established, the data are transmitted end-to-end without the need for repeating, regeneration or buffering. This means that the energy for generating and receiving the data is only expended once per communication transaction anywhere across the computing system. The PIs will investigate the complete cohesive design of an on-chip optical interconnection network that employs nanoscale CMOS photonic devices and enables seamless off-chip communications to other CMP computing nodes and to external memory. System-wide optical interconnection network architectures will be specifically studied in the context of stream processing models of computation. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>06/16/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/19/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0811012</AwardID>
+<Investigator>
+<FirstName>Luca</FirstName>
+<LastName>Carloni</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Luca Carloni</PI_FULL_NAME>
+<EmailAddress><![CDATA[luca@cs.columbia.edu]]></EmailAddress>
+<NSF_ID>000490797</NSF_ID>
+<StartDate>06/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Keren</FirstName>
+<LastName>Bergman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Keren Bergman</PI_FULL_NAME>
+<EmailAddress><![CDATA[bergman@ee.columbia.edu]]></EmailAddress>
+<NSF_ID>000176311</NSF_ID>
+<StartDate>06/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>10027</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>202 LOW LIBRARY 535 W 116 ST MC</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F4N1QNPB95M4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>F4N1QNPB95M4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>10027</ZipCode>
+<StreetAddress><![CDATA[202 LOW LIBRARY 535 W 116 ST MC]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1640</Code>
+<Text>Information Technology Researc</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>2878</Code>
+<Text>Special Projects - CCF</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>4715</Code>
+<Text>COMPUTER SYSTEMS ARCHITECTURE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~261541</FUND_OBLG>
+<FUND_OBLG>2009~138459</FUND_OBLG>
+</Award>
+</rootTag>

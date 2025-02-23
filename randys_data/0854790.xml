@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RUI: Parameter Estimation, Data Analysis, and Detector Characterization for LIGO</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>186504.00</AwardTotalIntnAmount>
+<AwardAmount>186504</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Marronetti</SignBlockName>
+<PO_EMAI>pmarrone@nsf.gov</PO_EMAI>
+<PO_PHON>7032927372</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Through this award the group at Carleton College will continue its work on finding, describing and characterizing the noise in the LIGO detectors. We will help those searching for gravitational wave signals by identifying problematic noise sources that inevitably find their way into the experiment. We will also continue our statistical work whereby we will extract the astrophysical information from the gravitational wave signal.&lt;br/&gt;&lt;br/&gt;This work has important scientific benefits, and many broader aspects. Noise characterization is a necessary task for any experiment, and this is a job that the Carleton undergraduates are able to accomplish. Once LIGO detects gravitational waves its next task will be to become an astronomical observatory; our statistical work will help to derive the important astrophysical information from the signals. Finally, our work serves as a means to create the next generation of scientists in the United States. Carleton College is a leader in producing scientists; this project gives real scientific opportunity and responsibility to young scientists, and serves as a tremendous incentive for pursuing a career in science.</AbstractNarration>
+<MinAmdLetterDate>07/26/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/26/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0854790</AwardID>
+<Investigator>
+<FirstName>Nelson</FirstName>
+<LastName>Christensen</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nelson L Christensen</PI_FULL_NAME>
+<EmailAddress>nchriste@carleton.edu</EmailAddress>
+<NSF_ID>000474165</NSF_ID>
+<StartDate>07/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carleton College</Name>
+<CityName>Northfield</CityName>
+<ZipCode>550574001</ZipCode>
+<PhoneNumber>5072224303</PhoneNumber>
+<StreetAddress>One North College Street</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN02</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>068184449</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>CARLETON COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>068184449</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Carleton College]]></Name>
+<CityName>Northfield</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>550574001</ZipCode>
+<StreetAddress><![CDATA[One North College Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1252</Code>
+<Text>LIGO RESEARCH SUPPORT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7483</Code>
+<Text>PHYSICS OF THE UNIVERSE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~186504</FUND_OBLG>
+</Award>
+</rootTag>

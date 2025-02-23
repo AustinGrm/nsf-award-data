@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase II:  High-Efficiency Nanocomposite Photovoltaics and Solar Cells]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>492740</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Juan E. Figueroa</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This Small Business Innovation Research (SBIR) Phase II project is focused on development of an innovative technology for fabrication of high-efficiency thin film nanocomposite photovoltaic materials and solar cells taking advantage of the recently discovered effect of carrier multiplication in semiconductor nanocrystals. The proposed concept employs smart design of the solar cells providing fast and effective spatial separation of electrons and holes photo-generated in the nanocrystals. The proposed reach nanotechnology platform solves the challenging problem of electrical communications with nanoscale objects, such as nanocrystals, nanorods, nanowires, nanotubes, etc. It can be employed for development of many other nanocomposite optoelectronic devices having numerous commercial and military applications. &lt;br/&gt;&lt;br/&gt;If successful the development of new generation of high-efficiency photovoltaic materials and solar cells based on the demonstrated technology will have broad impact on the entire solar energy industry resulting in considerable energy savings and environmental protection. The technology has great commercialization potential and niche market. The proposed all-inorganic, high-efficiency, thin film, flexible nanostructured photovoltaic materials and solar cells, which can operate in extreme environment conditions and offer significant mass and volume savings, are ideally suitable for numerous applications, including power generating residential rooftops, power supplies for utility grid, emergency signals and telephones, water pumps, activate switches, battery chargers, residential and commercial lighting, etc. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/21/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/21/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0822652</AwardID>
+<Investigator>
+<FirstName>Valery</FirstName>
+<LastName>Rupasov</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Valery Rupasov</PI_FULL_NAME>
+<EmailAddress><![CDATA[anteosinc@aol.com]]></EmailAddress>
+<NSF_ID>000072505</NSF_ID>
+<StartDate>07/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>ANTEOS, Inc.</Name>
+<CityName>SHREWSBURY</CityName>
+<ZipCode>015454819</ZipCode>
+<PhoneNumber>5088455349</PhoneNumber>
+<StreetAddress>1 CHARTWELL CIR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V1JBZKGYH3M5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SERGEI KRIVOSHLYKOV</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[ANTEOS, Inc.]]></Name>
+<CityName>SHREWSBURY</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>015454819</ZipCode>
+<StreetAddress><![CDATA[1 CHARTWELL CIR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; DEVICE TEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7257</Code>
+<Text>APPLICATS OF ADVANCED TECHNOLS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9139</Code>
+<Text>INFORMATION INFRASTRUCTURE &amp; TECH APPL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~492740</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Print HEPAP P5 Report]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2008</AwardExpirationDate>
+<AwardTotalIntnAmount>20305.00</AwardTotalIntnAmount>
+<AwardAmount>20305</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Joseph Reidy</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[In November 2007, at the request of the Office of High Energy Physics of the Department of Energy and the National Science Foundation, the High Energy Physics Advisory Panel reconstituted the Particle Physics Project Prioritization Panel for the purpose of developing a plan for US particle physics for the coming decade under a variety of budget assumptions. The P5 panel presented its report, ?US Particle Physics: Scientific Opportunities, A Strategic Plan for the Next Ten Years?, to the HEPAP on May 29, 2008 and HEPAP gave the report its unanimous approval. The DOE Office of High Energy Physics and NSF Physics Division have agreed to share the cost of printing 5,000 copies of the final report for distribution to funding agencies, policy makers, universities, the national and international scientific community and the interested public&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/11/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/11/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839918</AwardID>
+<Investigator>
+<FirstName>Judith</FirstName>
+<LastName>Jackson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Judith Jackson</PI_FULL_NAME>
+<EmailAddress><![CDATA[jjackson@fnal.gov]]></EmailAddress>
+<NSF_ID>000507344</NSF_ID>
+<StartDate>08/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Fermi Research Alliance, LLC</Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606375418</ZipCode>
+<PhoneNumber>6308404302</PhoneNumber>
+<StreetAddress>5801 S ELLIS AVE</StreetAddress>
+<StreetAddress2><![CDATA[SUITE 619]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E1EUJL3KLKX5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FERMI RESEARCH ALLIANCE, LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Fermi Research Alliance, LLC]]></Name>
+<CityName>CHICAGO</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606375418</ZipCode>
+<StreetAddress><![CDATA[5801 S ELLIS AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1221</Code>
+<Text>HEP-High Energy Physics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1221</Code>
+<Text>ELEMENTARY PARTICLE ACCEL USER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~20305</FUND_OBLG>
+</Award>
+</rootTag>

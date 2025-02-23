@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Intelligent Tool Wear Monitoring</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>137500</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Errol Arkilic</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovative Research Phase 1 project will investigate the confluence of process verification and tool wear technologies. Process verification - physics-based analysis and optimization of the machining process and sequel to purely geometric NC verification - can significantly improve the reliability and productivity of 21st Century manufacturing. Physics-based systems are based on tool force modeling and depend critically on input process model parameters called cutting energies. As the tool wears, these cutting energies and associated tool forces can double or triple, invalidating recommended cutting conditions based on sharp tool parameters, leading to broken tooling and disruptions in manufacture. This project will monitor spindle power to determine the cutting energies in situ, providing accurate updated model parameters and tool forces. Most importantly, in addition to providing reliable tool forces, the updated cutting energies may provide valuable tool wear information. In contrast to current commercial tool monitoring systems, the proposed system does not require laborious user-directed learning experiments. Following on some preliminary experiments, this effort will investigate whether the absolute value and time dependence of the cutting energies can be used to inform the user of the dominant wear mechanism, the extent of the tool wear and the expected remaining tool life. &lt;br/&gt;&lt;br/&gt;NC verification (virtual machining validating the part geometry) has become an ubiquitous technology. Process verification, based on tool force modeling, in principal can provide valuable guidance in setting optimal machining conditions. In practice, very few such systems have been sold, for three reasons. 1 The available systems focus on tool forces and few, if any, machinists know how to choose optimal force profiles. 2 Those tool forces, if based on sharp tool model parameters, are not reliable as the tool inevitably wears. 3 The primary market competitors have a small direct sales force, reaching only a limited market. In contrast, 1 the proposed process verification system will interface with machinist-friendly terms such as CNC performance limits and desired surface accuracy. 2 The technical solutions developed under this project will integrate with existing software-only process verification products to include reliable, updated tool forces as the tool wears. The integrated products will assist the machinist in selecting cutting conditions where more desirable wear mechanisms (flank wear) dominate and, if the technical program is successful, provide valuable estimates of the remaining tool life.  If successful, this project could have a significant commercial impact on global 21st century manufacturing operations.</AbstractNarration>
+<MinAmdLetterDate>05/08/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>02/23/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0810434</AwardID>
+<Investigator>
+<FirstName>Donald</FirstName>
+<LastName>Esterling</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Donald M Esterling</PI_FULL_NAME>
+<EmailAddress>don@veritascnc.com</EmailAddress>
+<PI_PHON>9199422757</PI_PHON>
+<NSF_ID>000083934</NSF_ID>
+<StartDate>05/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>VeritasCNC, Inc.</Name>
+<CityName>Carrboro</CityName>
+<ZipCode>275104144</ZipCode>
+<PhoneNumber>9199422757</PhoneNumber>
+<StreetAddress>201 Stable Road</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[VeritasCNC, Inc.]]></Name>
+<CityName>Carrboro</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>275104144</ZipCode>
+<StreetAddress><![CDATA[201 Stable Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1786</Code>
+<Text>MANFG ENTERPRISE SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9139</Code>
+<Text>INFORMATION INFRASTRUCTURE &amp; TECH APPL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~100000</FUND_OBLG>
+<FUND_OBLG>2009~37500</FUND_OBLG>
+</Award>
+</rootTag>

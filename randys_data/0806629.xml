@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Materials World Network: Nearly Two Dimensional 3He- A New Model Quantum System]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>540000.00</AwardTotalIntnAmount>
+<AwardAmount>540000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070003</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daniele Finotello</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Technical Abstract&lt;br/&gt;This Materials World Network award by the Division of Materials Research supports a three-year experimental program to investigate how reducing the dimensionality of 3He leads to novel p-wave order parameters when this unconventionally paired superfluid is confined to a length comparable to the coherence length. In contrast to metallic systems, 3He has a spherical Fermi surface; yet anisotropic paired states emerge from the isotropic normal liquid. Confinement of 3He in small geometries is expected to modify this behavior. It has been theoretically predicted that confined superfluid 3He will exhibit broken translational symmetry en route to the destruction of superfluidity. Dimensional constraints might also promote the stability of competing phases that are not manifest in the bulk. The technology to fabricate confining geometries with well characterized surfaces that can be patterned to achieve specified roughness has been developed at Cornell University. The roughness will affect the resulting phases via their stability and response to disorder ? an important feature that has implications for the broader relevance of this work to Condensed Matter Physics. Patterning to introduce periodicity and test the robustness of emerging phases of confined 3He against periodicity is also planned.  We will also construct and use high precision flow cells to examine flow of 4He, 3He doped 4He films and eventually superfluid 3He in nanoporous media. These demanding experiments, which require development of new techniques, provide a challenging environment where graduate and undergraduate students acquire skills (the ability to innovate, initiate, design and carry out) as well as become familiar with analytic and display tools to prepare them for careers in the Nation's scientific and technological infrastructure. The research program will be integrated with partner programs at Royal Holloway University of London and Manchester University. Graduate students will have the opportunity to work with their counterparts by spending a semester in the UK and by hosting counterparts at Cornell. The research program will also incorporate an undergraduate student throughout the award period.&lt;br/&gt;&lt;br/&gt;Non-Technical Abstract&lt;br/&gt;Helium (unlike all other elements) is inherently quantum-mechanical and does not solidify (unless compressed) even down to absolute zero temperature. It is one of the purest materials that can be prepared by any means, since at these temperatures, impurities simply freeze out during the procedures required to obtain the liquid state. Eventually 3He attains a highly ordered state: superfluidity, which is different from that attained in most superconductors and its sister isotope 4He. The magnetism of the superfluid atoms means that the atoms pair up together and undergo orbital motion exhibiting different phases. These behaviors are affected by confining 3He within precisely characterized geometries that effectively alter the dimensionality of the 3He. By carrying out precise measurements on these systems the research will add to our understanding of the role of confinement under less extreme conditions. The program will also prepare graduate students for an increasingly international scientific and technological environment by embedding them in (and allowing them to host students from) counterpart laboratories that use different techniques to probe the same systems. Besides adding to the understanding of quantum systems, this research provides a demanding experimental environment that educates and trains graduate and undergraduate students for successful careers in the Nation's scientific and technological infrastructure. In addition, this research program will also create a positive impact on future science and technology workforce by involving a science teacher in this research during summer.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>06/23/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/20/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0806629</AwardID>
+<Investigator>
+<FirstName>Jeevak</FirstName>
+<LastName>Parpia</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeevak M Parpia</PI_FULL_NAME>
+<EmailAddress><![CDATA[jmp9@cornell.edu]]></EmailAddress>
+<NSF_ID>000312023</NSF_ID>
+<StartDate>06/23/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Davis</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James C Davis</PI_FULL_NAME>
+<EmailAddress><![CDATA[jcdavis@ccmr.cornell.edu]]></EmailAddress>
+<NSF_ID>000112664</NSF_ID>
+<StartDate>06/23/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>ITHACA</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>341 PINE TREE RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G56PUALJ3KT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CORNELL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>ITHACA</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>148502820</ZipCode>
+<StreetAddress><![CDATA[341 PINE TREE RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0106000</Code>
+<Name>Materials Research</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1710</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7488</Code>
+<Text>MATERIALS WORLD NETWORK</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9161</Code>
+<Text>SINGLE DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>AMPP</Code>
+<Text>ADVANCED MATERIALS &amp; PROCESSING PROGRAM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0110</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001011DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~180000</FUND_OBLG>
+<FUND_OBLG>2009~180000</FUND_OBLG>
+<FUND_OBLG>2010~180000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The project advanced the state of the art in several important areas. In the technology arena, we conceived of, designed and actualized precise high-aspect-ratio cavities fabricated using a special bonded silicon-glass composite design. We also designed and started to implement an all-silicon design. These cells create pristine, well characterized environments for the study of superfluid 3He, a demanding requirement on account of extreme pressures, temperatures and leak integrity. The challenges that we faced will likely impact technology development for designs encountering harsh environments such as space. A second technology development was in the area of sensing using superconducting detectors that were used to extract signals using magnetic resonance techniques and implement displacement sensing. The use of this technology can find numerous applications from medical imaging to the study of flow.</p> <p>Our scientific activities were broad. At Cornell, experiments conducted in one of the PIs labs (Parpia) showed that if the surfaces are sufficiently smooth in a small cavity, this leads to the frictionless flow of the fluid in contact with the surface, an unexpected result. We then modeled this flow behavior and examined it in the context of experiments conducted in the UK. The result is that we can now predict how rough surfaces have to be in order to introduce enough friction so as to couple the fluid to the surface. These ideas will be tested shortly in ongoing experiments. The paper detailing the model also describes an outcome in which roughness at the walls leads to (in effect) disorder introduced into the thin liquid film. In experiments using the Cornell fabricated cavities, and with the participation of the PI, the researchers funded by the counterpart proposal in the UK found that the delicate balance between two phases of the superfluid was significantly altered and new and unexpected magnetic signatures were also observed. These results are also being prepared for publication. The results have significance since there is no other system in which such a high degree of control can be applied (in superfluids the application of pressure allows us to significantly alter the density of the liquid). At Cornell, the Parpia group also carried out experiments on 3He confined in a very open aerogel &ndash; a low density highly porous glass which serves as a means to introduce disorder into an otherwise pristine superfluid. The glass was compressed in one direction to provide a preferential axis for the fluid. This compression allowed the phase diagram of the so-called &ldquo;dirty&rdquo; 3He to be significantly modified from the bulk behavior, and our project is the first to map out this change in the phase diagram with high precision over a wide range in pressure and temperature. Co-PI Davis&rsquo;s group carried out two significant investigations of the so-called supersolidity of 4He, and identified and mapped out important time dependences and excess dissipation that have been not observed in any prior experiment. These results are highly significant since they identify the presence of glassy excitations and behavior which are generally at odds with the interpretation of supersolidity. &nbsp;&nbsp;</p> <p>The broader impacts of the research were considerable. We advanced the state of the art significantly in terms of small signal magnetic detection, displacement detection, large aspect ratio devices and surface preparation. Our students have benefited from international collaborations and have taken up positions in industry (Intel), national laboratories (NIST) and university research. The PIs participated and led projects to work with teachers in RET activities to develop new physics demonstrations for high schools, mentored REU students and Cornell undergraduates, as well as developed presentations to propagate the concepts of order-of-magnitude estimation to encourage students to carry out simple estimations using basic scientific principles &ndash; thus thinking creatively to examine and solve complex problems that they may encounter in all spheres of activity.</p> <p>Ph.D. dissertations submitted as part of the project are listed below:</p> <p><em>Torsional oscillator for the study of helium three in confined geometries</em> S.G. Dimov, Ph.D. Thesis, Cornell University, May 2009.</p> <p><em>NMR studies of superfluid <sup>3</sup>He confined to a single 635 nm slab</em> R.G. Bennett Ph.D. Thesis, Royal Holloway, University of London, Sept 2009</p> <p><em>Experimental Studies of the Superfluid Phases of Confined Helium-3</em>. Lev Levitin, Ph.D. Thesis, Royal Holloway, University of London, Oct. 2010<strong></strong></p> <p>As yet unpublished results are listed below</p> <p><em>Profound effect of confinement on the phase diagram of superfluid <sup>3</sup>He in a regular nanoslab</em>, R.G Bennett, L.V. Levitin, A. Casey, J. Parpia, and J. Saunders, in prep for submission.<em></em></p> <p><em>Determining the gap suppression in confined superfluid <sup>3</sup>He</em>, L.V Levitin, R.G Bennett, A. Casey, J. Parpia, and J.Saunders, in prep for submission.</p> <p><em>Anomalous superfluid response of a <sup>4</sup>He monolayer on a 2D lattice potential</em>, J Nyeki, A Phillis, B Cowan, J Parpia and J Saunders, to be submitted.</p><br> <p>            Last Modified: 08/31/2011<br>      Modified by: Jeevak&nbsp;M&nbsp;Parpia</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The project advanced the state of the art in several important areas. In the technology arena, we conceived of, designed and actualized precise high-aspect-ratio cavities fabricated using a special bonded silicon-glass composite design. We also designed and started to implement an all-silicon design. These cells create pristine, well characterized environments for the study of superfluid 3He, a demanding requirement on account of extreme pressures, temperatures and leak integrity. The challenges that we faced will likely impact technology development for designs encountering harsh environments such as space. A second technology development was in the area of sensing using superconducting detectors that were used to extract signals using magnetic resonance techniques and implement displacement sensing. The use of this technology can find numerous applications from medical imaging to the study of flow.  Our scientific activities were broad. At Cornell, experiments conducted in one of the PIs labs (Parpia) showed that if the surfaces are sufficiently smooth in a small cavity, this leads to the frictionless flow of the fluid in contact with the surface, an unexpected result. We then modeled this flow behavior and examined it in the context of experiments conducted in the UK. The result is that we can now predict how rough surfaces have to be in order to introduce enough friction so as to couple the fluid to the surface. These ideas will be tested shortly in ongoing experiments. The paper detailing the model also describes an outcome in which roughness at the walls leads to (in effect) disorder introduced into the thin liquid film. In experiments using the Cornell fabricated cavities, and with the participation of the PI, the researchers funded by the counterpart proposal in the UK found that the delicate balance between two phases of the superfluid was significantly altered and new and unexpected magnetic signatures were also observed. These results are also being prepared for publication. The results have significance since there is no other system in which such a high degree of control can be applied (in superfluids the application of pressure allows us to significantly alter the density of the liquid). At Cornell, the Parpia group also carried out experiments on 3He confined in a very open aerogel &ndash; a low density highly porous glass which serves as a means to introduce disorder into an otherwise pristine superfluid. The glass was compressed in one direction to provide a preferential axis for the fluid. This compression allowed the phase diagram of the so-called "dirty" 3He to be significantly modified from the bulk behavior, and our project is the first to map out this change in the phase diagram with high precision over a wide range in pressure and temperature. Co-PI Davis’s group carried out two significant investigations of the so-called supersolidity of 4He, and identified and mapped out important time dependences and excess dissipation that have been not observed in any prior experiment. These results are highly significant since they identify the presence of glassy excitations and behavior which are generally at odds with the interpretation of supersolidity.     The broader impacts of the research were considerable. We advanced the state of the art significantly in terms of small signal magnetic detection, displacement detection, large aspect ratio devices and surface preparation. Our students have benefited from international collaborations and have taken up positions in industry (Intel), national laboratories (NIST) and university research. The PIs participated and led projects to work with teachers in RET activities to develop new physics demonstrations for high schools, mentored REU students and Cornell undergraduates, as well as developed presentations to propagate the concepts of order-of-magnitude estimation to encourage students to carry out simple estimations using basic scientific principles &ndash; thus thinking creatively to examine and solve complex problems that they may encounter in all spheres of activity.  Ph.D. dissertations submitted as part of the project are listed below:  Torsional oscillator for the study of helium three in confined geometries S.G. Dimov, Ph.D. Thesis, Cornell University, May 2009.  NMR studies of superfluid 3He confined to a single 635 nm slab R.G. Bennett Ph.D. Thesis, Royal Holloway, University of London, Sept 2009  Experimental Studies of the Superfluid Phases of Confined Helium-3. Lev Levitin, Ph.D. Thesis, Royal Holloway, University of London, Oct. 2010  As yet unpublished results are listed below  Profound effect of confinement on the phase diagram of superfluid 3He in a regular nanoslab, R.G Bennett, L.V. Levitin, A. Casey, J. Parpia, and J. Saunders, in prep for submission.  Determining the gap suppression in confined superfluid 3He, L.V Levitin, R.G Bennett, A. Casey, J. Parpia, and J.Saunders, in prep for submission.  Anomalous superfluid response of a 4He monolayer on a 2D lattice potential, J Nyeki, A Phillis, B Cowan, J Parpia and J Saunders, to be submitted.       Last Modified: 08/31/2011       Submitted by: Jeevak M Parpia]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

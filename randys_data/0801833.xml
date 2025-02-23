@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Development and Evaluation of Reflective THz Medical Imaging for Skin Burns]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>213987.00</AwardTotalIntnAmount>
+<AwardAmount>213987</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jenshan Lin</SignBlockName>
+<PO_EMAI>jenlin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927360</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[&lt;br/&gt;Objective&lt;br/&gt;The objective of this work is to develop a medical imaging system for skin burns. Preliminary results indicate that a reflective terahertz (THz) imaging system can be used to image burns on porcine skin with high resolution and high tissue-condition contrast. &lt;br/&gt;&lt;br/&gt;Intellectual Merit&lt;br/&gt;The proposed system approach is based on conventional radar technology and significantly simplifies the system components and enables near real-time THz imaging.  A pulsed photoconductive switch is used as the broadband, free-space-coupled THz transmitter, and an antenna-coupled, zero-bias Schottky diode rectifier is used in the front-end of a time-gated receiver. Both in-vitro data and in-vivo data taken over the course of the proposed work will establish the capabilities of THz imaging of skin burns, and provide a large set of imagery data for future work and for dissemination to the scientific community. &lt;br/&gt;&lt;br/&gt;Broader Impact&lt;br/&gt;In addition to the direct engineering and medical benefits, the proposed research will also promote student learning and teaching by creating a variety of opportunities, such as intercampus seminars, for meaningful interaction between faculty, clinicians, postdoctoral researchers, graduate students, and undergraduate students on both campuses.  For example, a new course on THz Science and Technology will be offered on the UCSB campus Fall of 2008 and will bring in students from Electrical Engineering, Physics, Chemistry, and Biology to a truly interdisciplinary learning environment.&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/31/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/25/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0801833</AwardID>
+<Investigator>
+<FirstName>Hua</FirstName>
+<LastName>Lee</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hua Lee</PI_FULL_NAME>
+<EmailAddress><![CDATA[hualee@ece.ucsb.edu]]></EmailAddress>
+<NSF_ID>000440304</NSF_ID>
+<StartDate>06/26/2010</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Elliott</FirstName>
+<LastName>Brown</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elliott Brown</PI_FULL_NAME>
+<EmailAddress><![CDATA[erbrown@ece.ucsb.edu]]></EmailAddress>
+<NSF_ID>000470180</NSF_ID>
+<StartDate>07/31/2008</StartDate>
+<EndDate>06/25/2010</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rahul</FirstName>
+<LastName>Singh</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rahul S Singh</PI_FULL_NAME>
+<EmailAddress><![CDATA[rssingh@farusllc.com]]></EmailAddress>
+<NSF_ID>000548303</NSF_ID>
+<StartDate>07/31/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Barbara</Name>
+<CityName>SANTA BARBARA</CityName>
+<ZipCode>931060001</ZipCode>
+<PhoneNumber>8058934188</PhoneNumber>
+<StreetAddress>3227 CHEADLE HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G9QBQDH39DF4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SANTA BARBARA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Santa Barbara]]></Name>
+<CityName>SANTA BARBARA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>931060001</ZipCode>
+<StreetAddress><![CDATA[3227 CHEADLE HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA24</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0206000</Code>
+<Name>Telecommunications</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7564</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>109E</Code>
+<Text>Sys theory in biology &amp; medicine</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~213987</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Symbolic Inference for Very Large Datasets</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gabor Szekely</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Datasets that are complex with the data themselves "complex", and/or with structures that impose complications) are becoming more and more routine with the impact of contemporary computer capacity. What is not routine is how to analyse these data. Indeed, the data "collection" is fast outpacing the ability to analyse them. It is evident that, even in those situations where in theory available methodology might seem to apply, routine use of such statistical techniques is often inappropriate. Some methods (e.g. squashing) take representative "`samples"' and then use standard procedures on the sampled data. Others seek sub/patterns (e.g., data mining) and then try to focus on the data behind those patterns. Others aggregate the data in some meaningful way. One such aggregation method produces so-called symbolic data (such as lists, intervals, distributions, etc.). An advantage of symbolic data is that unlike those in sampled sets, a symbolic-value retains all the original data, while simultaneously reducing the size of the dataset. Further while the massive datasets encountered today are one source of symbolic data, there are many data that are naturally symbolic (be these small or large datasets). All are better analysed by methods developed for symbolic data. The investigator addresses three major areas. One area is classification trees. Here, distances measures for interval and histogram-valued data are developed; and then they are used in new algorithms which extend the classical CART methodolgy to symbolic data. Secondly, regression methods, in particular, logistic regression and Cox's proportional hazard models, are adapted to symbolic data. Finally, factor analysis and principal component methodoly is developed for symbolic data. &lt;br/&gt;&lt;br/&gt;With the impact of contemporary computer capacity, datasets that are complex with the data themselves "complex" are becoming more ubiquitous. Yet those same computers often lack the capacity to analyse these massive datasets. Therefore, new ways to handle them must be developed. One way is to aggregate the data in a scientifically meaningful way (with the actual aggregation being dictated by the question at hand). Such aggregation will necessarily produce data that form lists, intervals, histograms, etc. The investigator develops new methodologies for interval data in three major areas, classification trees after rst nding distance measures for intervals and histograms, regression methods especially logistic regression, and factor analysis. The results are applied to data. A synergism is achieved by the integration of mathematical/ statistical/computational arenas in addressing real issues encountered by contemporary datasets. The outcomes cannot be achieved by the tools of just one of these disciplines but needs all three. The new methodologies will have wide applicability to those datasets generated in, e.g., meteorology, environmental science, social sciences, health-care programs, industry, and the like, well beyond those motivating the work. This will have enormous impact on US science. Further since doctoral students will be engaged as collaborators and since international researchers will be active participants, the research helps in the internationalization of the next and future generation of US scientists.</AbstractNarration>
+<MinAmdLetterDate>08/01/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/01/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0805245</AwardID>
+<Investigator>
+<FirstName>Lynne</FirstName>
+<LastName>Billard</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lynne Billard</PI_FULL_NAME>
+<EmailAddress>lynne@stat.uga.edu</EmailAddress>
+<PI_PHON>7065423281</PI_PHON>
+<NSF_ID>000163735</NSF_ID>
+<StartDate>08/01/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Georgia Research Foundation Inc</Name>
+<CityName>ATHENS</CityName>
+<ZipCode>306021589</ZipCode>
+<PhoneNumber>7065425939</PhoneNumber>
+<StreetAddress>310 EAST CAMPUS RD TUCKER HALL R</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NMJHD63STRC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Georgia]]></Name>
+<CityName>ATHENS</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>306020001</ZipCode>
+<StreetAddress><![CDATA[310 E CAMPUS RD TUCKER HALL RM 4]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~150000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Simulation and Game Development Immersion Program: A Computer Programming Program through Second Life]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>449912.00</AwardTotalIntnAmount>
+<AwardAmount>449912</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040100</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Victor Piotrowski</SignBlockName>
+<PO_EMAI>vpiotrow@nsf.gov</PO_EMAI>
+<PO_PHON>7032925141</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project involves the porting of a simulation and game development immersion (SGDI) program to Second Life. The SGDI program focuses on the local and national need to attract more students, especially women, to computer science-related fields, including computer programming. The project leverages a number of different local partners. Second Life is a 3D, massive multiplayer, web-based virtual world, where residents create identities, objects, and environments for social interaction, business, education, and enjoyment. By moving the entire program into Second Life, students across the country are able to access SGDI through a social interactive gaming-type environment. Project activities focus on expanding enrollment; transitioning the existing program to Second Life; and promoting the project, especially through the League for Innovation.  The primary audience is twofold: high school students and community college students. This project also includes an emphasis on attracting women to the STEM-related discipline of computer programming.]]></AbstractNarration>
+<MinAmdLetterDate>08/21/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/10/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0802580</AwardID>
+<Investigator>
+<FirstName>Jim</FirstName>
+<LastName>Bailey</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jim Bailey</PI_FULL_NAME>
+<EmailAddress><![CDATA[baileyj@lanecc.edu]]></EmailAddress>
+<NSF_ID>000370700</NSF_ID>
+<StartDate>08/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jonathon</FirstName>
+<LastName>Richter</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jonathon J Richter</PI_FULL_NAME>
+<EmailAddress><![CDATA[jonathon_richter@skc.edu]]></EmailAddress>
+<NSF_ID>000505935</NSF_ID>
+<StartDate>06/10/2010</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Lane Community College</Name>
+<CityName>EUGENE</CityName>
+<ZipCode>974050640</ZipCode>
+<PhoneNumber>5414635853</PhoneNumber>
+<StreetAddress>4000 E 30TH AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OR04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LL3YSZYX2EU3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>LANE COMMUNITY COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Lane Community College]]></Name>
+<CityName>EUGENE</CityName>
+<StateCode>OR</StateCode>
+<ZipCode>974050640</ZipCode>
+<StreetAddress><![CDATA[4000 E 30TH AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OR04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7412</Code>
+<Text>Advanced Tech Education Prog</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1032</Code>
+<Text>ADVANCED TECHNOLOGY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~449912</FUND_OBLG>
+</Award>
+</rootTag>

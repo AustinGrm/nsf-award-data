@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Ion implantation-free SiC device fabrication technology based on low-temperature selective epitaxial growth</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>99996.00</AwardTotalIntnAmount>
+<AwardAmount>99996</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>William Haines</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovative Research Phase I project aims at developing new semiconductor device processing technology for SiC electronics.  The new method is based on low-temperature selective epitaxial growth of SiC (LTSEG) of SiC. The technology promises high values of doping, especially for p-type doping that is problematic in SiC. Another advantage is the development of a self-aligned fabrication technique for the emerging market of SiC power integrated circuits.&lt;br/&gt;&lt;br/&gt;Self-aligned device fabrication for SiC is in the embryonic stage. Efforts to develop new fabrication technologies in Japan and Europe are growing, which may put the U.S. SiC industry significantly behind in developing cost-efficient SiC electronics. In this respect, the novel device fabrication method offers a possibility of strong competitive advantage.</AbstractNarration>
+<MinAmdLetterDate>11/13/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>11/13/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839748</AwardID>
+<Investigator>
+<FirstName>Galyna</FirstName>
+<LastName>Melnychuk</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Galyna Melnychuk</PI_FULL_NAME>
+<EmailAddress>galyna@barsicsemi.com</EmailAddress>
+<PI_PHON>6623255878</PI_PHON>
+<NSF_ID>000483646</NSF_ID>
+<StartDate>11/13/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>BarSiC Semiconductors, LLC</Name>
+<CityName>Starkville</CityName>
+<ZipCode>397594359</ZipCode>
+<PhoneNumber>6623239854</PhoneNumber>
+<StreetAddress>209 Brook Ave</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<StateCode>MS</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MS03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H3JSL1MVGLV5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[BarSiC Semiconductors, LLC]]></Name>
+<CityName>Starkville</CityName>
+<StateCode>MS</StateCode>
+<ZipCode>397594359</ZipCode>
+<StreetAddress><![CDATA[209 Brook Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MS03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; DEVICE TEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9139</Code>
+<Text>INFORMATION INFRASTRUCTURE &amp; TECH APPL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~99996</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Educational Data Mining Approaches for Digital Libraries]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>74935.00</AwardTotalIntnAmount>
+<AwardAmount>74935</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Elizabeth VanderPutten</SignBlockName>
+<PO_EMAI>evanderp@nsf.gov</PO_EMAI>
+<PO_PHON>7032925147</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This collaborative research project between the Exploratorium and Utah State's Department of Instructional Technology and Learning Sciences investigates online evaluation approaches and the application of educational data mining to educational digital libraries and services. Much work over the past decades has focused on developing algorithms and methods for discovering patterns in large datasets, known as Knowledge Discovery from Data (KDD). Webmetrics, the application of KDD to web usage mining, is growing rapidly in areas such as e-commerce. Educational Data Mining (EDM) is just beginning to emerge as a tool to analyze the massive, longitudinal user data that are captured in online learning environments and educational digital libraries.&lt;br/&gt;&lt;br/&gt;This project uses EDM to examine data from the Exploratorium's Learning Resources Collection and the Instructional Architect at Utah State University. The results are combined with more traditional evaluation data (e.g., surveys, interviews) as part of a comprehensive strategy to understand science teachers' behaviors, motivations, and learning experiences with digital library resources &lt;br/&gt;&lt;br/&gt;The outcomes of this targeted research promise to contribute new knowledge regarding Knowledge Discovery from Data and the application of Educational Data Mining to digital libraries. The project informs improvements in the design of the user experience, as well as tailored teacher professional development, contributing to a growing body of research on teacher learning by using cyber-enabled approaches.]]></AbstractNarration>
+<MinAmdLetterDate>09/15/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/15/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0840745</AwardID>
+<Investigator>
+<FirstName>Mimi</FirstName>
+<LastName>Recker</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mimi M Recker</PI_FULL_NAME>
+<EmailAddress><![CDATA[mimi.recker@usu.edu]]></EmailAddress>
+<NSF_ID>000117732</NSF_ID>
+<StartDate>09/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Utah State University</Name>
+<CityName>LOGAN</CityName>
+<ZipCode>843221000</ZipCode>
+<PhoneNumber>4357971226</PhoneNumber>
+<StreetAddress>1000 OLD MAIN HILL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SPE2YDWHDYU4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UTAH STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>SPE2YDWHDYU4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Utah State University]]></Name>
+<CityName>LOGAN</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>843221000</ZipCode>
+<StreetAddress><![CDATA[1000 OLD MAIN HILL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7444</Code>
+<Text>NATIONAL SMETE DIGITAL LIBRARY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~74935</FUND_OBLG>
+</Award>
+</rootTag>

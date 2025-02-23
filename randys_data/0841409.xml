@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Acquisition of an Advanced Detector for Synchrotron-Based X-Ray Absorption Spectroscopy in Earth Sciences]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2010</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>319855.00</AwardTotalIntnAmount>
+<AwardAmount>319855</AwardAmount>
+<AwardInstrument>
+<Value>Interagency Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030202</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Lambert</SignBlockName>
+<PO_EMAI>dlambert@nsf.gov</PO_EMAI>
+<PO_PHON>7032924736</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration/>
+<MinAmdLetterDate>08/04/2010</MinAmdLetterDate>
+<MaxAmdLetterDate>09/06/2012</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0841409</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Bargar</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John R Bargar</PI_FULL_NAME>
+<EmailAddress><![CDATA[bargar@slac.stanford.edu]]></EmailAddress>
+<NSF_ID>000271477</NSF_ID>
+<StartDate>08/04/2010</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gordon</FirstName>
+<LastName>Brown</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME>Jr.</PI_SUFX_NAME>
+<PI_FULL_NAME>Gordon E Brown</PI_FULL_NAME>
+<EmailAddress><![CDATA[gordon.brown@stanford.edu]]></EmailAddress>
+<NSF_ID>000354509</NSF_ID>
+<StartDate>08/04/2010</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>U.S. Department of Energy, SLAC Site Office</Name>
+<CityName>Menlo Park</CityName>
+<ZipCode>940257015</ZipCode>
+<PhoneNumber/>
+<StreetAddress>2575 Sand Hill Road</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SLAC National Accelerator Laboratory]]></Name>
+<CityName>Menlo Park</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>940257015</ZipCode>
+<StreetAddress><![CDATA[2575 Sand Hill Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1580</Code>
+<Text>Instrumentation &amp; Facilities</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0110</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001011DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2010~319855</FUND_OBLG>
+</Award>
+</rootTag>

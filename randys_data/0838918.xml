@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshop on Synthesizing Transient Climate Evolution of the Last 21,000 Years (SynTraCE-21000); Madison, Wisconsin; August 11-13, 2008</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>24995.00</AwardTotalIntnAmount>
+<AwardAmount>24995</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020108</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Verardo</SignBlockName>
+<PO_EMAI>dverardo@nsf.gov</PO_EMAI>
+<PO_PHON>7032924695</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award helps to support a synthesis of multi-proxy evidence for the transient evolution of the climate system over the last 21,000 years. This synthesis, which will be accomplished through a workshop and the development of a database of the relevant climate records, serves two purposes. First, it will help produce a comprehensive  database of multi-proxy records of the last 21,000 years. Secondly, it will help provide a unique benchmark for testing state-of-art climate models on climate sensitivity and abrupt climate change because the last 21,000 years of climate history contains a comprehensive record of climate variability under extreme climate forcing.  &lt;br/&gt;&lt;br/&gt;Specifically, the award helps provide partial participant support for scientists to attend a workshop in Madison, WI from August 11-13, 2008. Participants at the workshop will have expertise in paleoclimatology and related aspects of climate research and will discuss the pros and cons of specific simulations of past time periods. The participants will include seasoned researchers, new investigators, and students.  In this manner, an open and lively exchange of views on the science will be enabled.&lt;br/&gt; &lt;br/&gt;The workshop has two key objectives: 1) to identify relevant paleoclimate data which will synthesize the major features of deglacial climate evolution, meltwater forcing, global monsoon evolution, and abrupt changes in ocean and terrestrial ecosystem; and 2) develop priorities in both data collection and model development aimed at more realistic transient simulations.</AbstractNarration>
+<MinAmdLetterDate>06/20/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/20/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0838918</AwardID>
+<Investigator>
+<FirstName>Zhengyu</FirstName>
+<LastName>Liu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zhengyu Liu</PI_FULL_NAME>
+<EmailAddress>liu.7022@osu.edu</EmailAddress>
+<NSF_ID>000104760</NSF_ID>
+<StartDate>06/20/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<StreetAddress2><![CDATA[Suite 6301]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI02</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>161202122</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>041188822</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>537151218</ZipCode>
+<StreetAddress><![CDATA[21 North Park Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1530</Code>
+<Text>Paleoclimate</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~24995</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: FeCycle I I- Natural variability in plankton iron quotas during an unamended Lagrangian experiment]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>181090.00</AwardTotalIntnAmount>
+<AwardAmount>181090</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040302</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Donald L. Rice</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[In this project, researchers at the University of Southern California, University of Tennessee Knoxville and the Bigelow Laboratory for Ocean Sciences will study oceanic micronutrient dynamics as part of the September 2008 FeCycle II project sponsored by NIWA New Zealand.  The international team will investigate the natural cycling of the micronutrient iron (Fe) and other trace elements in relation to carbon and nutrient biogeochemistry. FeCycle II is a unique concept, since it is a Langrangian study that will follow an SF6-labeled patch without added Fe.  The U.S. team will join this effort in order to compare and contrast the quotas of Fe and other trace elements in plankton using parallel techniques that include high-speed sorting flow cytometry and ultrafiltration coupled to ICP-MS, Fe and C radiotracers, and synchrotron x-ray fluorescence. Together, these will provide multiple independent assessments of the geochemical plasticity of Fe quotas. Building on the highly successful FeCycle I study, this work should improve our understanding of the linkages between the biogeochemistry and large-scale distribution of Fe and the global carbon cycle, within the context of this interdisciplinary international effort.&lt;br/&gt;&lt;br/&gt;The broader impacts of this study include a strong commitment to the training of a new generation of ocean biogeochemists, support of a new female PI at the University of Southern California, and the facilitation of outreach and diversification at all three institutions, including EPSCoR organizations in Tennessee and Maine. At least one post-doc, 2 graduate and 5 undergraduate students will be supported by this study, and information will be directly incorporated into courses, public outreach events and web dissemination at the peer institutions. A unique partnership with the UT School of Journalism will provide a novel public and K-12 educational component. The PIs will continue their well-established history of recruitment of underrepresented groups and participation in methods-oriented special courses. The proposed work will provide essential information on the variability in group-specific quotas for Fe and other trace elements to the FeCycle II study, and help to build and strengthen U.S. collaborative links to the international marine science community. The unique Fe quota information and methods comparison that our study will provide is critically needed for all models of global carbon cycling and climate change that depend on ocean biological productivity estimates.   &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/08/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/08/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0825379</AwardID>
+<Investigator>
+<FirstName>Benjamin</FirstName>
+<LastName>Twining</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Benjamin S Twining</PI_FULL_NAME>
+<EmailAddress><![CDATA[btwining@bigelow.org]]></EmailAddress>
+<NSF_ID>000090799</NSF_ID>
+<StartDate>08/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Bigelow Laboratory for Ocean Sciences</Name>
+<CityName>EAST BOOTHBAY</CityName>
+<ZipCode>045445700</ZipCode>
+<PhoneNumber>2073152567</PhoneNumber>
+<StreetAddress>60 BIGELOW DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<StateCode>ME</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>ME01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DRTAEZWWJHM8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BIGELOW LABORATORY FOR OCEAN SCIENCES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Bigelow Laboratory for Ocean Sciences]]></Name>
+<CityName>EAST BOOTHBAY</CityName>
+<StateCode>ME</StateCode>
+<ZipCode>045445700</ZipCode>
+<StreetAddress><![CDATA[60 BIGELOW DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>ME01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0204000</Code>
+<Name>Oceanography</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1670</Code>
+<Text>Chemical Oceanography</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1389</Code>
+<Text>CARBON CYCLE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~181090</FUND_OBLG>
+</Award>
+</rootTag>

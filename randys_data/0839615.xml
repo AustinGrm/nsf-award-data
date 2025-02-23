@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Quantitative Analysis for Trace Levels of Toxic Elements in Consumer Products Using High Definition X-ray Fluorescence</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>141477</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gregory T. Baxter</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research Phase I project proposes to demonstrate the feasibility of rapidly and quantitatively detecting ten different toxic elements found in consumer products with a portable high definition x-ray fluorescence (HDXRF) analyzer. The objective is to develop a new innovative analyzer with a new small spot x-ray source, tri-chromatic beam, and energy dispersive XRF detection that will provide a definitive pass-fail for products tested on the factory floor. In Phase I, the team will demonstrate the feasibility of measuring these toxic elements in a benchtop setup. The analyzer will have detection limits at sub parts per million levels.&lt;br/&gt;&lt;br/&gt;The broader impacts of this research are that American manufacturers, distributors, and retailers will be able to preserve their competitive position by becoming compliant in a cost-effective way to the new regulations such as the Consumer Product Safety Improvement Act regulating lead and other toxic elements in consumer products. Currently, there is no measurement technique available outside the laboratory with sufficient accuracy, spatial resolution, and speed to use as a definitive pass-fail method on the factory floor. There is a major public health benefit. The public can be certain the products they buy are safe and free from toxic element contaminations that have been linked to serious health issues such a neurological disorders and kidney damage.</AbstractNarration>
+<MinAmdLetterDate>11/21/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/11/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839615</AwardID>
+<Investigator>
+<FirstName>Zewu</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zewu Chen</PI_FULL_NAME>
+<EmailAddress>zchen@xos.com</EmailAddress>
+<PI_PHON>5188801500</PI_PHON>
+<NSF_ID>000218791</NSF_ID>
+<StartDate>11/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>X-RAY OPTICAL SYSTEMS, INC.</Name>
+<CityName>EAST GREENBUSH</CityName>
+<ZipCode>120614141</ZipCode>
+<PhoneNumber>5188801500</PhoneNumber>
+<StreetAddress>15 TECH VLY DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY20</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RZ1NGJXKHM23</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>X-RAY OPTICAL SYSTEMS, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MBFSJ8M4RQB6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[X-RAY OPTICAL SYSTEMS, INC.]]></Name>
+<CityName>EAST GREENBUSH</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>120614141</ZipCode>
+<StreetAddress><![CDATA[15 TECH VLY DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY20</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; DEVICE TEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9267</Code>
+<Text>INSTRUMENTATION &amp; LAB IMPROVE.</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~141477</FUND_OBLG>
+</Award>
+</rootTag>

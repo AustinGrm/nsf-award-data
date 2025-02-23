@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Advanced Electrospray Atomization and Space Charge Modeling for Electrohydrodynamic Wind Energy Conversion]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>147793</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+<PO_EMAI>mnair@nsf.gov</PO_EMAI>
+<PO_PHON>7032927059</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This Small Business Innovation Research Phase I research project will support development of a commercially viable electro-hydrodynamic wind energy conversion system by developing the science base for design of a high-efficiency charged droplet generator. Electro-hydrodynamic wind energy conversion (EHD-WEC) is a non-turbine based means of producing electricity from wind employing charged particles driven against a voltage gradient. A minimum of moving parts and fundamental simplicity gives EHD-WEC the potential to be disruptively lighter and cheaper than its mechanical counterparts. The opportunity exists to apply recently developed efficient droplet generation means, such as advanced electrospray and MEMS-based microfabrication of electrospray nozzles, as well as real-time system controls, to craft a system with significantly positive net energy balance. &lt;br/&gt;&lt;br/&gt;Renewable, non-fossil fuel based approaches to electrical generation are of interest worldwide. Demand for electricity is projected to rise steadily due to population growth and development in emerging economies. Simultaneously the price of oil and other fossil fuels is projected to rise as pressure is put on existing supplies. In addition, there is widespread interest in carbon neutral energy sources. If EHD-WEC's potential to significantly lower the cost of generating electricity from wind can be realized, the broader impacts will be global in nature; providing the world with a renewable source of energy, and creating many new ?green? jobs in the US, as well as reducing national dependence on foreign fossil fuel providers. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>11/12/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/07/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839332</AwardID>
+<Investigator>
+<FirstName>Dawn</FirstName>
+<LastName>White</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dawn R White</PI_FULL_NAME>
+<EmailAddress><![CDATA[dwhite@accioenergy.com]]></EmailAddress>
+<NSF_ID>000083674</NSF_ID>
+<StartDate>11/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Accio Energy, Inc.</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481083606</ZipCode>
+<PhoneNumber>7342603483</PhoneNumber>
+<StreetAddress>704 Airport Blvd</StreetAddress>
+<StreetAddress2><![CDATA[Suite 6]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Accio Energy, Inc.]]></Name>
+<CityName>Ann Arbor</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481083606</ZipCode>
+<StreetAddress><![CDATA[704 Airport Blvd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4080</Code>
+<Text>ADVANCED COMP RESEARCH PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9139</Code>
+<Text>INFORMATION INFRASTRUCTURE &amp; TECH APPL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~147793</FUND_OBLG>
+</Award>
+</rootTag>

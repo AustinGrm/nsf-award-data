@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Symposium: Biomaterials: properties, variation and evolution- Winter, 2009 in Boston, MA]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>10982.00</AwardTotalIntnAmount>
+<AwardAmount>10982</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090300</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mark R. Brodl</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The materials from which organisms are built (i.e. biomaterials) intrigue engineers as well as biologists, but often for different reasons. Whereas biologists are interested in how these structures vary, evolve and ultimately influence performance and ecology, engineers typically seek to comprehend and exploit the impressive properties of these materials. Indeed, biomaterials have unmatched strength, toughness, resilience, and capacity for self-repair that, if harnessed, might inform the development of new high performance man-made materials. Despite having similar research interests, there is often a lack of communication between biologists and engineers. This symposium, "Biomaterials: properties, variation and evolution", will be held at the Annual Meeting of the Society of Integrative and Comparative Biology with the goal of facilitating the exchange of ideas among researchers who study a broad range of biomaterials using a variety of perspectives and techniques. The symposium participants constitute a diverse group of speakers in terms of gender, geographic origin, as well as career stages, and include members of underrepresented groups in science and engineering. The symposium will culminate in a collected volume of the presented work in the journal, Integrative and Comparative Biology.]]></AbstractNarration>
+<MinAmdLetterDate>01/23/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>01/23/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0854910</AwardID>
+<Investigator>
+<FirstName>Brook</FirstName>
+<LastName>Swanson</LastName>
+<PI_MID_INIT>O</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brook O Swanson</PI_FULL_NAME>
+<EmailAddress><![CDATA[swansonb@gonzaga.edu]]></EmailAddress>
+<NSF_ID>000433491</NSF_ID>
+<StartDate>01/23/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mason</FirstName>
+<LastName>Dean</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mason N Dean</PI_FULL_NAME>
+<EmailAddress><![CDATA[mason.dean@mpikg.mpg.de]]></EmailAddress>
+<NSF_ID>000089492</NSF_ID>
+<StartDate>01/23/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Gonzaga University</Name>
+<CityName>SPOKANE</CityName>
+<ZipCode>992581774</ZipCode>
+<PhoneNumber>5093136102</PhoneNumber>
+<StreetAddress>E 502 BOONE AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y14CPR31B6C3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE CORPORATION OF GONZAGA UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>Y14CPR31B6C3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Gonzaga University]]></Name>
+<CityName>SPOKANE</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>992581774</ZipCode>
+<StreetAddress><![CDATA[E 502 BOONE AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7623</Code>
+<Text>BIOMATERIALS PROGRAM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7658</Code>
+<Text>Physiol Mechs &amp; Biomechanics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7623</Code>
+<Text>BIOMATERIALS PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~10982</FUND_OBLG>
+</Award>
+</rootTag>

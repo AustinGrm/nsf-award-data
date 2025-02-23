@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EMPOWER: Enrichment and Mentoring to Provide our Workforce with Enhanced Resources]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>593673.00</AwardTotalIntnAmount>
+<AwardAmount>593673</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yvette Weatherton</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project is awarding scholarships to academically talented and financially needy students and is supporting the scholars through a variety of structures and programs. Women and students from underrepresented groups are being especially targeted for support. Student scholars are enrolled in engineering programs and the need for professionals who have expertise in these fields is vital to the region's growing high tech industry. The project is improving retention and graduation through implementation of the Academic Resource Center that provides mentoring, tutoring, and supplemental instruction services for the scholars. Scholars are also participating in a mathematics bridge program just prior to their first-year at the university.]]></AbstractNarration>
+<MinAmdLetterDate>07/08/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/08/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0806812</AwardID>
+<Investigator>
+<FirstName>Diana</FirstName>
+<LastName>Bell</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Diana C Bell</PI_FULL_NAME>
+<EmailAddress><![CDATA[belldc@uah.edu]]></EmailAddress>
+<NSF_ID>000271454</NSF_ID>
+<StartDate>07/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rhonda</FirstName>
+<LastName>Gaede</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rhonda K Gaede</PI_FULL_NAME>
+<EmailAddress><![CDATA[gaeder@uah.edu]]></EmailAddress>
+<NSF_ID>000376433</NSF_ID>
+<StartDate>07/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sherri</FirstName>
+<LastName>Messimer</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sherri L Messimer</PI_FULL_NAME>
+<EmailAddress><![CDATA[messimer@ise.uah.edu]]></EmailAddress>
+<NSF_ID>000369295</NSF_ID>
+<StartDate>07/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>English</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jennifer English</PI_FULL_NAME>
+<EmailAddress><![CDATA[english@ece.uah.edu]]></EmailAddress>
+<NSF_ID>000239685</NSF_ID>
+<StartDate>07/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Alabama in Huntsville</Name>
+<CityName>HUNTSVILLE</CityName>
+<ZipCode>358051911</ZipCode>
+<PhoneNumber>2568242657</PhoneNumber>
+<StreetAddress>301 SPARKMAN DR NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AL05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HB6KNGVNJRU1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF ALABAMA IN HUNTSVILLE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Alabama in Huntsville]]></Name>
+<CityName>HUNTSVILLE</CityName>
+<StateCode>AL</StateCode>
+<ZipCode>358051911</ZipCode>
+<StreetAddress><![CDATA[301 SPARKMAN DR NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AL05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~593673</FUND_OBLG>
+</Award>
+</rootTag>

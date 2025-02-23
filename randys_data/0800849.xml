@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Fundamental Understanding of Enhanced Thermal Transport at Aligned Carbon Nanotube/Substrate Interfaces</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mary Toney</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>The PI proposes to use a novel CNT transfer process, which features separated steps of in-situ open-ended CNT synthesis and low-temperature CNT assembly by solder reflow and/or chemical covalent bonding to engineer well-aligned open-ended CNT architectures for microelectronic thermal management. The fundamental mechanisms of the adhesion via the chemical covalent bonding and the water-assisted selective etching used to open the CNT ends in-situ during growth will be studied. In addition, the PI will systematically study the thermal transport properties of the CNT internal walls which are accessible due to the unique open-ended structure of the CNTs. Moreover, the CNT-metal and CNT-silicon junctions will be studied to learn how to reduce the interface thermal resistance. The low-temperature transfer processing conditions will be optimized for the application of well-aligned open-ended CNTs in the device thermal management. &lt;br/&gt;The results of this research will enable us to control the aligned CNT structures and properties. The optimization of the low-temperature transfer process is a critical step toward taking advantage of the CNTs in actual device level applications. The results will contribute to the development of CNTs as electrical interconnects as well. The CNT transfer technology and thermal transport mechanisms at CNT-metal and CNT-silicon interfaces can be readily transferred to microelectronics industry. This will certainly speed up the advancement of high performance and high power electronic devices, and retain numerous high tech jobs in the US. The broader impacts also include the recruiting and advising of students at pre-college, undergraduate and graduate levels, especially those from the underrepresented groups in the research and education activities. The PI will continue his practice of providing resources to the metropolitan Atlanta area with an emphasis on underrepresented groups. &lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>05/30/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/30/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0800849</AwardID>
+<Investigator>
+<FirstName>C.</FirstName>
+<LastName>Wong</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>C. P Wong</PI_FULL_NAME>
+<EmailAddress>cp.wong@mse.gatech.edu</EmailAddress>
+<PI_PHON>4048948391</PI_PHON>
+<NSF_ID>000430957</NSF_ID>
+<StartDate>05/30/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 NORTH AVE NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0106000</Code>
+<Name>Materials Research</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1633</Code>
+<Text>MATERIALS AND SURFACE ENG</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>024E</Code>
+<Text>MATERIALS DESIGN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1444</Code>
+<Text>SURFACE ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1633</Code>
+<Text>MATERIALS AND SURFACE ENG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~250000</FUND_OBLG>
+</Award>
+</rootTag>

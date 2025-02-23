@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I: Semi-Autonomous Adaptive Neural and Genetic Segmentation of Medical Images</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ian M. Bennett</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovative Research (SBIR) Phase I project will implement a physician-assisted, real-time adaptive system for the segmentation of anatomical structures in 3D medical image data. Medical image segmentation seeks to change the representation of an anatomical structure, making it more  easily analyzed. Because of the extreme variability of these structures in biological systems, current idiosyncratic manual methods currently in use are tedious, time consuming, and error prone. Image segmentation cannot in general be programmatically solved. The proposed system is a Neural Network (NN) based adaptation of the individual data using parallel Graphics Processing Units (GPUs) and coupled with a Genetic Algorithm (GA) based adaptation across GPU cores. The system will build a diagnostically useful segmentation of the anatomical feature within seconds from an area of interest outlined by a physician using a Computed Tomography (CT) or Magnetic Resonance Imaging (MRI) scan.&lt;br/&gt;&lt;br/&gt;Fast growth in medical imaging overwhelms available diagnosticians. An intuitive and inexpensive system to quickly and accurately deliver diagnostic relevant segmentation of medical images offers tremendous commercial value. Currently, each scan requires approximately 50 minutes of manual preparation. The diagnosis and treatment of an estimated 20 percent of diseases benefit from medical imaging. Newer scanning technologies have increased in resolution, but such techniques have not made segmenting easier or faster. The proposed method will enable more diagnostics to be done with the quality controlled directly by physicians.</AbstractNarration>
+<MinAmdLetterDate>12/02/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/30/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839335</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>McInerney</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME>PhD</PI_SUFX_NAME>
+<PI_FULL_NAME>John McInerney</PI_FULL_NAME>
+<EmailAddress>jmcinerney6@gmail.com</EmailAddress>
+<PI_PHON>6196305626</PI_PHON>
+<NSF_ID>000506876</NSF_ID>
+<StartDate>12/02/2008</StartDate>
+<EndDate>08/30/2009</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kovalan</FirstName>
+<LastName>Muniandy</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME>Mr</PI_SUFX_NAME>
+<PI_FULL_NAME>Kovalan Muniandy</PI_FULL_NAME>
+<EmailAddress>kovalan.muniandy@kjaya.com</EmailAddress>
+<PI_PHON>2032521414</PI_PHON>
+<NSF_ID>000280996</NSF_ID>
+<StartDate>08/30/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>KJAYA, LLC</Name>
+<CityName>Stamford</CityName>
+<ZipCode>069062236</ZipCode>
+<PhoneNumber>2032521414</PhoneNumber>
+<StreetAddress>35 Maple Tree Avenue #6</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[KJAYA, LLC]]></Name>
+<CityName>Stamford</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>069062236</ZipCode>
+<StreetAddress><![CDATA[35 Maple Tree Avenue #6]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1658</Code>
+<Text>SOFTWARE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~150000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: REACTIONS OF ELECTROPHILIC METAL CENTERS WITH AROMATIC HETEROCYCLES</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>590000.00</AwardTotalIntnAmount>
+<AwardAmount>590000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Timothy Patten</SignBlockName>
+<PO_EMAI>tpatten@nsf.gov</PO_EMAI>
+<PO_PHON>7032927196</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5). This CAREER Research award in the Inorganic, Bioinorganic and Organometallic Chemistry program supports work by Professor Paula Diaconescu at the University of California, Los Angeles, to carry out fundamental/basic studies on the activation and functionalization of inert molecules.  The scientific areas targeted are: (1) ring-opening and (2) functionalization of aromatic heterocycles.  The activation of C-N bonds in heterocycles is important in the context of hydrodenitrogenation processes. The functionalization of heterocycles is relevant to organic synthesis.  To achieve these goals, electrophilic metal centers supported by chelating ferrocene-based ligands are designed in order to develop transformations under mild conditions. &lt;br/&gt;  &lt;br/&gt;Educationally, the present project is structured around using research as a tool to teach students at all levels about some of the energy problems that are confronting the environment and showing them how chemistry can be useful in understanding and solving those problems.  In an attempt to reach a wide group of high school students, an effective strategy to update teachers on research conducted towards solving energy problems is considered.  To this end a series of workshops on how to teach environmental issues in the high school classrooms is proposed.  In this way it prepares future scientists to work on problems important to society.&lt;br/&gt;&lt;br/&gt;Understanding the C-N bond breaking processes in the presence of transition metals is significant in establishing heterogeneous mechanisms and assessing whether mild conditions are viable for hydrodenitrogenation, one of the processes that will contribute to alleviating some of the energy problems faced by society.</AbstractNarration>
+<MinAmdLetterDate>08/02/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/14/2014</MaxAmdLetterDate>
+<ARRAAmount>590000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0847735</AwardID>
+<Investigator>
+<FirstName>Paula</FirstName>
+<LastName>Diaconescu</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Paula L Diaconescu</PI_FULL_NAME>
+<EmailAddress>pld@chem.ucla.edu</EmailAddress>
+<NSF_ID>000072079</NSF_ID>
+<StartDate>08/02/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Los Angeles</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900951406</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress>10889 Wilshire Boulevard</StreetAddress>
+<StreetAddress2><![CDATA[Suite 700]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>33</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA33</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>092530369</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, LOS ANGELES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>071549000</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Los Angeles]]></Name>
+<CityName>LOS ANGELES</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900951406</ZipCode>
+<StreetAddress><![CDATA[10889 Wilshire Boulevard]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>33</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA33</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1966</Code>
+<Text>SYNTHETIC INORGANIC</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1187</Code>
+<Text>PECASE- eligible</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~590000</FUND_OBLG>
+</Award>
+</rootTag>

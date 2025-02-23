@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RUI: Detection of Dark Matter with Moderately Superheated Liquids]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>420000.00</AwardTotalIntnAmount>
+<AwardAmount>420000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jonathan Whitmore</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5). &lt;br/&gt;&lt;br/&gt;One of the most enduring mysteries in astrophysics is the explanation for the compelling evidence that, on virtually all scales above the size of a star, far more gravitating material exists in an invisible form than that which can be detected by all known types of radiation. This "dark matter" is detected dynamically, through its effects on the structuring of galaxies, clusters of galaxies and larger scale structures in the universe. Generic extensions of the standard model of subatomic particles predict the existence of Weakly Interacting Massive Particles which are excellent candidates for the dark matter. These are expected to interact with ordinary matter as rarely as neutrinos and thus be extremely difficult to detect.&lt;br/&gt;&lt;br/&gt;The COUPP and PICASSO groups have undertaken the development of new large dark matter detectors derived from the well known bubble chamber technique. Charged particles traversing the superheated fluid in bubble chambers deposit heat which creates small bubbles of gas. These bubbles expand explosively unless the chamber is quickly pressurized. The bubbles can be photographed before pressurization revealing the paths of these particles, so the chamber is an excellent amplifier of tiny particle signals. Both approaches have made the superheated state long lived enough to search for dark matter. This award will enable this group to continue its participation in these efforts. The sound sensors already produced by IUSB have recently proven to be useful for discarding cosmic ray induced events and distinguishing the only radioactive signal of concern for moderately superheated fluids (alpha particles). &lt;br/&gt;&lt;br/&gt;The broader impacts of the program include enhancing the education of undergraduates. They participate in the design, construction and characterization of acoustic transducers, measurement of radioactivity and other projects for the experiments. The PI has started to work with one local high school to provide high school students with science experiment experiences.]]></AbstractNarration>
+<MinAmdLetterDate>07/26/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/26/2009</MaxAmdLetterDate>
+<ARRAAmount>420000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0856273</AwardID>
+<Investigator>
+<FirstName>Ilan</FirstName>
+<LastName>Levine</LastName>
+<PI_MID_INIT>Y</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ilan Y Levine</PI_FULL_NAME>
+<EmailAddress><![CDATA[ilevine@iusb.edu]]></EmailAddress>
+<NSF_ID>000113310</NSF_ID>
+<StartDate>07/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Indiana University</Name>
+<CityName>BLOOMINGTON</CityName>
+<ZipCode>474057000</ZipCode>
+<PhoneNumber>3172783473</PhoneNumber>
+<StreetAddress>107 S INDIANA AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YH86RTW2YVJ4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF INDIANA UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YH86RTW2YVJ4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Indiana University at South Bend]]></Name>
+<CityName>SOUTH BEND</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>466151408</ZipCode>
+<StreetAddress><![CDATA[1700 MISHAWAKA AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7235</Code>
+<Text>Particle Astrophysics/Undergro</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7483</Code>
+<Text>PHYSICS OF THE UNIVERSE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~420000</FUND_OBLG>
+</Award>
+</rootTag>

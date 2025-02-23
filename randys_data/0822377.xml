@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Computational Methods for Multi-Product Stochastic Inventory Control]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/13/2007</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>98178</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cerry M. Klein</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This grant provides funding for the development of efficient computational methods to determine optimal ordering policies for inventory control problems with multiple products and correlated demands. While the problem is fairly easy and well solved for the single product case, methods to tract the multiple product case face a significant challenge due to the dimensionality of the problem. To avoid the curse of dimensionality, this work proposes on developing a method based on the moving boundary approach. Under a moving boundary framework, one begins with an initial guess for the optimal policy and an estimate of the value of using that policy. If one can then come up with a boundary update procedure that is akin to policy improvement, is monotone and guarantees convergence, then one can to a large extent simplify the complexity involved in solving multi-dimensional problems. An inventory control game is also proposed alongside the development of the research where participants try controlling multi-product inventory levels in the presence of stochastic demand, competing not only against each other but also against the optimal policy.&lt;br/&gt;&lt;br/&gt;Success in this work would have an impact in two areas. In the area of inventory control, this would be the first computational method that can solve problems that are of the real-world size, with a large number of product types. Second, the proposed method in general develops a moving boundary approach to solving impulse control problems. Impulse control problems arise in a variety of areas that include finance, economics and queuing theory. Hence researchers would potentially be able to extend or adapt the method for their purposes in these other areas. The stochastic control game can provide a direct feel for the challenges in decision making under uncertainty and enrich the learning experience of students taking courses that cover inventory control.]]></AbstractNarration>
+<MinAmdLetterDate>02/05/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>12/11/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0822377</AwardID>
+<Investigator>
+<FirstName>Kumar</FirstName>
+<LastName>Muthuraman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kumar Muthuraman</PI_FULL_NAME>
+<EmailAddress><![CDATA[kumar@mail.utexas.edu]]></EmailAddress>
+<NSF_ID>000487333</NSF_ID>
+<StartDate>02/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1786</Code>
+<Text>MANFG ENTERPRISE SYSTEMS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>071E</Code>
+<Text>MFG ENTERPRISE OPERATIONS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>078E</Code>
+<Text>ENTERPRISE DESIGN &amp; LOGISTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9147</Code>
+<Text>GENERIC TECHNOL FOR MANUFACTURING CELLS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<FUND_OBLG>2006~83178</FUND_OBLG>
+<FUND_OBLG>2007~15000</FUND_OBLG>
+</Award>
+</rootTag>

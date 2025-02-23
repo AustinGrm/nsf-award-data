@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: A Plate Boundary Observatory on the Nicoya Peninsula, Costa Rica]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>199743.00</AwardTotalIntnAmount>
+<AwardAmount>199743</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040200</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard L. Carlson</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Intellectual Merit&lt;br/&gt;The work proposed is to augment, upgrade and extend the monitoring period of an existing network of GPS and seismic instrumentation on the Nicoya Peninsula, Costa Rica. The questions to be addressed by the data collected include: 1) What is the relationship between slow slip, tremor, strain accumulation and interplate earthquakes. 2) What is the role of temperature and fluids in tremor and slip generation? 3) Is the occurrence of fast and slow slip tremor spatially and/or temporally separated? The answers to these questions have important implications for understanding seismic processes at subduction zones.&lt;br/&gt;&lt;br/&gt;Broader Impacts&lt;br/&gt;This project includes the training of several Ph.D. students. It also includes technology and science transfer to Costa Rica to improve their monitoring of earthquakes. The PIs propose to travel to 2 minority institutions to recruit students.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>03/25/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/25/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0841091</AwardID>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>Dixon</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Timothy Dixon</PI_FULL_NAME>
+<EmailAddress><![CDATA[thd@usf.edu]]></EmailAddress>
+<NSF_ID>000594040</NSF_ID>
+<StartDate>03/25/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Miami</Name>
+<CityName>CORAL GABLES</CityName>
+<ZipCode>331462509</ZipCode>
+<PhoneNumber>3054214089</PhoneNumber>
+<StreetAddress>1251 MEMORIAL DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>27</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL27</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KXN7HGCF6K91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MIAMI</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VNZZYCJ55TC4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Miami]]></Name>
+<CityName>CORAL GABLES</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>331462509</ZipCode>
+<StreetAddress><![CDATA[1251 MEMORIAL DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>27</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL27</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0204000</Code>
+<Name>Oceanography</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1620</Code>
+<Text>Marine Geology and Geophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1620</Code>
+<Text>MARINE GEOLOGY AND GEOPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5720</Code>
+<Text>OCEAN DRILLING PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~99504</FUND_OBLG>
+</Award>
+</rootTag>

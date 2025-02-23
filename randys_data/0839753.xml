@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Demonsration of a Prototype Solid Oxide Fuel Cell For Co-Generation of Electricity and Syngas from Natural Gas</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maria Josephine Yuen</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research Phase I project will utilize direct-methane SOFCs to produce syngas by reacting methane with oxygen using electrochemical partial oxidation (EPOx). Syngas is a precursor for hydrogen and synthetic liquid chemicals/fuels including methanol and various hydrocarbons. Advantages are similar to ceramic membrane reactors: syngas without nitrogen dilution and reduced cost due to process intensification by combining the oxygen separation and partial oxidation steps. SOFCs have an added advantage - dual products: syngas and electricity - that can significantly improve economics. FCT recently demonstrated high-rate production of syngas (30 sccm/cm2) and high electrical power density (0.9 W/cm2) at 750°C using conventional Ni-YSZ anode-supported SOFCs. Stable SOFC electrical output was reported for up to 300 hours. This project will develop alternate support materials for SOFCs that facilitate direct stable operation in fuels such as natural gas and in the presence of sulfur. FCT proposes to implement its expertise in segmented in series SOFC design into for scaling up EPOx for commercial applications. A scale-up of EPOx generation to a small stack of approximately 100W and 4L/min of syngas will be performed.&lt;br/&gt;&lt;br/&gt;This project demonstrates a new technology with potentially major impact in the fuel cell and alternative fuels areas. It is well known that cost is the main barrier to commercial introduction of fuel cells and the acceptance of fuels such as hydrogen. By co-producing syngas/hydrogen and electricity, the method demonstrated here has the potential to decrease the cost of both. This will not be an incremental decrease in cost, as might be expected for an improvement of a technology, but a substantial decrease as a result of a completely new approach. This new technology has the potential to significantly impact commercialization of these technologies.</AbstractNarration>
+<MinAmdLetterDate>11/04/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/19/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839753</AwardID>
+<Investigator>
+<FirstName>Ilwon</FirstName>
+<LastName>Kim</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ilwon Kim</PI_FULL_NAME>
+<EmailAddress>ikim@fctnet.com</EmailAddress>
+<PI_PHON>8474675376</PI_PHON>
+<NSF_ID>000297970</NSF_ID>
+<StartDate>04/19/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Manoj</FirstName>
+<LastName>Pillai</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Manoj R Pillai</PI_FULL_NAME>
+<EmailAddress>mpillai@fctnet.com</EmailAddress>
+<PI_PHON>8476879270</PI_PHON>
+<NSF_ID>000304921</NSF_ID>
+<StartDate>11/04/2008</StartDate>
+<EndDate>04/19/2009</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Functional Coating Technology, LLC</Name>
+<CityName>Evanston</CityName>
+<ZipCode>602013135</ZipCode>
+<PhoneNumber>8474675377</PhoneNumber>
+<StreetAddress>1801 MAPLE AVE STE 5320</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Functional Coating Technology, LLC]]></Name>
+<CityName>Evanston</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>602013135</ZipCode>
+<StreetAddress><![CDATA[1801 MAPLE AVE STE 5320]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1972</Code>
+<Text>ELECTROCHEMISTRY &amp; SURFACE CHE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9163</Code>
+<Text>SINGLE DIVISION/UNIVERSITY - INDUSTRY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>AMPP</Code>
+<Text>ADVANCED MATERIALS &amp; PROCESSING PROGRAM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~100000</FUND_OBLG>
+</Award>
+</rootTag>

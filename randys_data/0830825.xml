@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Community-Wide Ecological Displacement and Community Assembly]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>202262</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010208</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Elizabeth Blood</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The competitive exclusion principle states that species with similar ecological requirements will compete for limiting resources, and are unlikely to locally co-exist.  However, different abilities to exploit resources (e.g., different morphologies) may foster coexistence and enhance local diversity.  Differences among species may pre-exist or may arise in contact with ecologi-cally similar species.  The latter phenomenon, character displacement (CD), is a logical out-growth of competitive exclusion.  Because of its potential for altering existing biological forms and generating new biological forms, CD is the most important and least understood ecologi-cal/evolutionary consequence of competition.  In particular, its potential for structuring ecologi-cal communities and for enhancing local and regional biodiversity has not been thoroughly ex-plored. The research evaluates the role of CD in species coexistence and local species diversity  arcoss heterogeneous landscapes.  Focus of the project on mechanisms maintaining and generating species diversity is timely given society's vested interest in the maintenance of species diversity and its role in ecosystem function.  Extensive field sampling and detailed mechanistic experiments are combined to examine CD in salamander species groups differing in numbers of species and spe-cies identity at local and regional scales across the S. Appalachians.  Project involves a substan-tial team including post-docs, undergraduates and graduate students, who get first-hand training in quantitative ecological methods including quantitative field sampling and analysis, conceptu-ally-based hypothesis testing, experimental approaches to questions in evolutionary ecology, de-sign and use of experimental habitats, use of computers in data acquisition and analysis, and ex-posure to all phases of the scientific process from conceptualization to publication.]]></AbstractNarration>
+<MinAmdLetterDate>07/14/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/02/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0830825</AwardID>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Resetarits</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME>Jr.</PI_SUFX_NAME>
+<PI_FULL_NAME>William J Resetarits</PI_FULL_NAME>
+<EmailAddress><![CDATA[wresetar@olemiss.edu]]></EmailAddress>
+<NSF_ID>000400210</NSF_ID>
+<StartDate>09/02/2010</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Resetarits</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME>Jr.</PI_SUFX_NAME>
+<PI_FULL_NAME>William J Resetarits</PI_FULL_NAME>
+<EmailAddress><![CDATA[wresetar@olemiss.edu]]></EmailAddress>
+<NSF_ID>000400210</NSF_ID>
+<StartDate>07/14/2008</StartDate>
+<EndDate>09/02/2010</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Morin</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peter J Morin</PI_FULL_NAME>
+<EmailAddress><![CDATA[pjmorin@rci.rutgers.edu]]></EmailAddress>
+<NSF_ID>000118554</NSF_ID>
+<StartDate>07/14/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rutgers University New Brunswick</Name>
+<CityName>NEW BRUNSWICK</CityName>
+<ZipCode>089018559</ZipCode>
+<PhoneNumber>8489320150</PhoneNumber>
+<StreetAddress>3 RUTGERS PLZA</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M1LVPE5GLSD9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M1LVPE5GLSD9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rutgers University New Brunswick]]></Name>
+<CityName>NEW BRUNSWICK</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>089018559</ZipCode>
+<StreetAddress><![CDATA[3 RUTGERS PLZA]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7377</Code>
+<Text>EVOLUTIONARY ECOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2007~92262</FUND_OBLG>
+<FUND_OBLG>2008~19225</FUND_OBLG>
+</Award>
+</rootTag>

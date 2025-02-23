@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[A Multi-Layered  Finite Element Application and Runtime System for  Scalable High-End Computer Architectures]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>270000.00</AwardTotalIntnAmount>
+<AwardAmount>270000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Almadena Chtchelkanova</SignBlockName>
+<PO_EMAI>achtchel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927498</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The  goal  of  this  research involves the study of high-end  parallel  finite element mesh generation software capable to deliver and sustain concurrency  which will fully utilize  current  Teraflop   and  next  generation  Petaflop  high-end architectures.  Other than the direct impact to supercomputing this research will have a broader impact to many (bio-) engineering applications that can benefit from scalable field solvers and Teraflop/ Petaflop supercomputers.  Such software can also provide challenging and realistic benchmarks which can help to understand the behavior of end-to-end dynamic  applications on multi-layered architectures, and thus will be invaluable for the performance evaluation community and design of new supercomputers.&lt;br/&gt;&lt;br/&gt;The expected outcome of this research is  an  effective   and  efficient implementation  of   adaptive  finite  element   mesh  generation  and refinement on high-end parallel architectures.  However, parallel mesh generation belongs to the broader class of  adaptive and irregular applications which are challenging and labor  intensive to develop and maintain. As a result, parallel mesh generation is one of the last applications to be installed on parallel architectures. This research will  remedy  this problem for high-end architectures by   focusing on the following objectives. Develop a runtime  system  for multi-layered  parallel  adaptive and  irregular applications that can efficiently orchestrate intra-  and inter-layer data movement and load balancing. Use the runtime system to design an evolutionary  approach  for  developing  multi-layered  parallel  mesh generation software  capable of exposing concurrency from the very beginning of the execution and sustaining up to one quadrillion concurrent work units.]]></AbstractNarration>
+<MinAmdLetterDate>08/16/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/16/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0833081</AwardID>
+<Investigator>
+<FirstName>Nikos</FirstName>
+<LastName>Chrisochoides</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nikos P Chrisochoides</PI_FULL_NAME>
+<EmailAddress><![CDATA[nchrisoc@odu.edu]]></EmailAddress>
+<NSF_ID>000294842</NSF_ID>
+<StartDate>08/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>College of William and Mary</Name>
+<CityName>WILLIAMSBURG</CityName>
+<ZipCode>231852817</ZipCode>
+<PhoneNumber>7572213965</PhoneNumber>
+<StreetAddress>1314 S MOUNT VERNON AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EVWJPCY6AD97</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>COLLEGE OF WILLIAM AND MARY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[College of William and Mary]]></Name>
+<CityName>WILLIAMSBURG</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>231852817</ZipCode>
+<StreetAddress><![CDATA[1314 S MOUNT VERNON AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>4080</Code>
+<Text>ADVANCED COMP RESEARCH PROGRAM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7583</Code>
+<Text>ITR-HECURA</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<FUND_OBLG>2008~174254</FUND_OBLG>
+</Award>
+</rootTag>

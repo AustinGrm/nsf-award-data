@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Constraints on the last Ross Ice Sheet from Glacial Deposits in the Southern Transantarctic Mountains]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>273136.00</AwardTotalIntnAmount>
+<AwardAmount>273136</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090300</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OPP</Abbreviation>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Julie Palais</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Stone/0838818 &lt;br/&gt;&lt;br/&gt;This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5). &lt;br/&gt;&lt;br/&gt;This award supports a project to study the former thickness and retreat history of Shackleton and Beardmore Glaciers which flow through the Transantarctic Mountains (TAMs) into the southern Ross Sea. Lateral moraine deposits along the lower reaches of these major outlet glaciers will be mapped and dated and the results will help to date the LGM and constrain the thickness of ice where it left the Transantarctic Mountains and flowed into the Ross Sea. The intellectual merit of the project is that the results will allow scientists to distinguish between models of ice retreat, which have important implications for former ice configuration and dynamics, and to constrain the contribution from Ross Sea deglaciation to global sea level through the late Holocene. In addition, this will make a significant contribution to a better understanding of the magnitude and timing of postglacial sea-level change and the potential contribution of Antarctica to sea-level rise in future. The broader impacts of the project are that the work will help quantify changes in grounded ice volume since the LGM, improve understanding of the ice dynamics responsible, and examine their implications for future sea level change. The project will train future scientists through participation of two graduate students and undergraduates who will develop self-contained research projects. As in previous Antarctic projects, there will be interaction with K-12 students through classroom visits, web-based expedition journals, letters from the field, and discussions with teachers and will allow the project to be shared with a wide audience. This award has field work in Antarctica.]]></AbstractNarration>
+<MinAmdLetterDate>08/10/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>02/06/2012</MaxAmdLetterDate>
+<ARRAAmount>273136</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0838615</AwardID>
+<Investigator>
+<FirstName>Brenda</FirstName>
+<LastName>Hall</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brenda L Hall</PI_FULL_NAME>
+<EmailAddress><![CDATA[Brendah@Maine.edu]]></EmailAddress>
+<NSF_ID>000087239</NSF_ID>
+<StartDate>08/10/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maine</Name>
+<CityName>ORONO</CityName>
+<ZipCode>044695717</ZipCode>
+<PhoneNumber>2075811484</PhoneNumber>
+<StreetAddress>5717 CORBETT HALL RM 422</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<StateCode>ME</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>ME02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>PB3AJE5ZEJ59</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MAINE SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>JHKKHVC7EPL3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maine]]></Name>
+<CityName>ORONO</CityName>
+<StateCode>ME</StateCode>
+<ZipCode>044695717</ZipCode>
+<StreetAddress><![CDATA[5717 CORBETT HALL RM 422]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>ME02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0311000</Code>
+<Name>Polar Programs-Related</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1647</Code>
+<Text>ANT Instrum &amp; Facilities</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~273136</FUND_OBLG>
+</Award>
+</rootTag>

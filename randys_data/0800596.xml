@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: A Biomimetic Concept Generator for Engineering Design]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>164427</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christina L. Bloebaum</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Collaborative Research: A Biomimetic Concept Generator for Engineering Design&lt;br/&gt;Daniel A. McAdams&lt;br/&gt;The research objective of this award is to explore and develop tools that will expand the use of biological analogies in engineering design. The results of this research will enable design engineers to access the wealth of elegant and ingenious approaches to problem solving that are found naturally present in biological systems. There are several challenges that prevent designers from taking full advantage of the biological knowledge domain. The first and most significant obstacle is that most engineers do not have sufficient knowledge of biology to identify an analogy from which to develop an engineered solution. To address this challenge, this research has two main thrusts. The first is the creation of a thesaurus that translates the terminology of function as used in engineering to the terminology of function as used in biology. The second is the use of novel, new computational search tools to access repositories of biological knowledge in an effort to data mine biological systems for functional analogies Thus, as engineers move a design from function to form, they can search nature for form solutions. &lt;br/&gt;&lt;br/&gt;If successful, this proposed research makes fundamental contributions to engineering design through creation of a biomimetic design repository and associated concept generator. Key contributions include better cross-domain search strategies on natural-language knowledge to identify novel biological analogies, and better mechanisms to enable understanding of biological phenomena so they can be more successfully applied to solve engineering problems. The biomimetic solutions will be immediately available to both academia and practicing engineering designers as the research is performed through integration in an NSF supported Engineering Virtual Organization. Curriculum development will provide a testbed for using this biomimetic repository for concept generation.]]></AbstractNarration>
+<MinAmdLetterDate>04/25/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/16/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0800596</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Stone</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert B Stone</PI_FULL_NAME>
+<EmailAddress><![CDATA[rob.stone@oregonstate.edu]]></EmailAddress>
+<NSF_ID>000356102</NSF_ID>
+<StartDate>04/25/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Missouri University of Science and Technology</Name>
+<CityName>ROLLA</CityName>
+<ZipCode>654096506</ZipCode>
+<PhoneNumber>5733414134</PhoneNumber>
+<StreetAddress>300 W 12TH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y6MGH342N169</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MISSOURI SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>LBFJB8N7LME3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Missouri University of Science and Technology]]></Name>
+<CityName>ROLLA</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>654096506</ZipCode>
+<StreetAddress><![CDATA[300 W 12TH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1464</Code>
+<Text>ESD-Eng &amp; Systems Design</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>067E</Code>
+<Text>DESIGN TOOLS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>068E</Code>
+<Text>DESIGN THEORY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9148</Code>
+<Text>TOOLS &amp; TECHNOL FOR MANUFACTURING DESIGN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9231</Code>
+<Text>SUPPL FOR UNDERGRAD RES ASSIST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~94848</FUND_OBLG>
+<FUND_OBLG>2009~0</FUND_OBLG>
+</Award>
+</rootTag>

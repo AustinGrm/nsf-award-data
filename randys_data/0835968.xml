@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Exploratory Project: Graduating ENgineers In the U.S. (GENIUS) Summer Program]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>99336.00</AwardTotalIntnAmount>
+<AwardAmount>99336</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EEC</Abbreviation>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alan Cheville</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This exploratory effort will address the challenge of increasing the number of African-American high school graduates prepared to matriculate in engineering and computer science university programs, by implementing the GENIUS Summer program. The month-long summer camp targets rising juniors in high schools located in the DC metropolitan area. The program will prepare students for academic success in university-based STEM programs and provide students and their families with additional insight on the college application process. The GENIUS program will address two critical inquiries that impact the rate of students applying to, matriculating in, and graduating from accredited STEM programs. To what extent can innovative and emerging ideas in technical entrepreneurship motivate students to embrace engineering? To what extent does exposure to university personnel and culture impact students? views of attending college? As the US population becomes more diverse, the minority population will become an increasing segment of the technology workforce and recruitment and retention rates must be improved.&lt;br/&gt;&lt;br/&gt;The changing demographics of the American society make it imperative to develop effective strategies for graduating African-American engineers, a group that traditionally underperforms its national and international peers in math and science. The GENIUS Program addresses this issue by developing a program targeting rising high school juniors at schools that are predominately African-American and struggle with low graduation rates and lower than average performance on standardized exams. The program will marshal existing university services and strategic University partnerships for support.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/21/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/21/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0835968</AwardID>
+<Investigator>
+<FirstName>Legand</FirstName>
+<LastName>Burge</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Legand L Burge</PI_FULL_NAME>
+<EmailAddress><![CDATA[blegand@scs.howard.edu]]></EmailAddress>
+<NSF_ID>000454593</NSF_ID>
+<StartDate>08/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Grant</FirstName>
+<LastName>Warner</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Grant M Warner</PI_FULL_NAME>
+<EmailAddress><![CDATA[g_warner@howard.edu]]></EmailAddress>
+<NSF_ID>000124033</NSF_ID>
+<StartDate>08/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alicia</FirstName>
+<LastName>Washington</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alicia N Washington</PI_FULL_NAME>
+<EmailAddress><![CDATA[a_n_washington@howard.edu]]></EmailAddress>
+<NSF_ID>000072246</NSF_ID>
+<StartDate>08/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Howard University</Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>20059</ZipCode>
+<PhoneNumber>2028064759</PhoneNumber>
+<StreetAddress>2400 6TH ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DYZNJGLTHMR9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>HOWARD UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Howard University]]></Name>
+<CityName>WASHINGTON</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>20059</ZipCode>
+<StreetAddress><![CDATA[2400 6TH ST NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1340</Code>
+<Text>EngEd-Engineering Education</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>110E</Code>
+<Text>EDUCATION RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~99336</FUND_OBLG>
+</Award>
+</rootTag>

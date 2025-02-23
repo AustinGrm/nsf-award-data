@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER:  Structural Helicity in Ultra-Thin Alloy Nanowires]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dennis Robert Carter</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The research objective of this Faculty Early Career Development (CAREER) project is to investigate the interplay between size, structure and composition for alloy nanowires with diameters of several nanometers and below. Nanowires can exhibit high mechanical strength and ballistic conductance, which makes them appealing as connectors in nanoscale circuits or as elements in nano-electromechanical devices. Practical use in nanodevices requires a rational control of the structural, electronic, and mechanical properties of the nanowires. Alloying and doping are direct means to exert such control. This research will employ genetic algorithms and molecular dynamics simulations to study the structure and properties of alloy nanowires, and in particular to examine the parameter regimes in which these wires exhibit structural helicity. Deliverables include conditions of stability for various size and composition regimes, simulations of electron microscopy signatures for comparison with experiments, studies of mechanical properties of nanowires especially those associated with helical structures, and conductance signatures of the nanowire alloys. &lt;br/&gt;&lt;br/&gt;If successful, this research will help determine the limits in which alloying persists in specific nanowire systems, and will give insight into the opportunities offered by alloying to improve material properties at nanoscale. The results can be useful in the design of various nano-electromechanical systems that exploit the helical structure to improve their sensitivity and functionality. Graduate student training will be provided during this project, and research results will be incorporate into graduate classes taught by the PI. In addition, opportunities for undergraduate research will be created. One new course will be developed in which students will become familiar with advanced numerical and simulation techniques in nanomechanics and materials science. The PI will participate in several international collaborations, and in ample activities of training and outreach with the Society of Women Engineers and the Minority Engineering Program at Colorado School of Mines.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>01/14/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>01/14/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0846858</AwardID>
+<Investigator>
+<FirstName>Cristian</FirstName>
+<LastName>Ciobanu</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Cristian V Ciobanu</PI_FULL_NAME>
+<EmailAddress><![CDATA[cciobanu@mines.edu]]></EmailAddress>
+<NSF_ID>000274430</NSF_ID>
+<StartDate>01/14/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Colorado School of Mines</Name>
+<CityName>GOLDEN</CityName>
+<ZipCode>804011887</ZipCode>
+<PhoneNumber>3032733000</PhoneNumber>
+<StreetAddress>1500 ILLINOIS ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JW2NGMP4NMA3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF THE COLORADO SCHOOL OF MINES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>JW2NGMP4NMA3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Colorado School of Mines]]></Name>
+<CityName>GOLDEN</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>804011887</ZipCode>
+<StreetAddress><![CDATA[1500 ILLINOIS ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7479</Code>
+<Text>BMMB-Biomech &amp; Mechanobiology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>028E</Code>
+<Text>BIOMECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1187</Code>
+<Text>PECASE- eligible</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~400000</FUND_OBLG>
+</Award>
+</rootTag>

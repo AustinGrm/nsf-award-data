@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Integrated Inspection for Precision Surface Finishing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+<PO_EMAI>mnair@nsf.gov</PO_EMAI>
+<PO_PHON>7032927059</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This Small Business Innovation Research Phase I project will investigate automated inspection and finishing of variable, free-form parts. In turbine blade manufacture, part geometry and finishing work requirements vary part-to-part, so blades must be visually inspected and shaped and polished by hand. The broader research objective is to automate this rigorous and painstaking work by integrating non-contact sensing and a compliant finishing robot in a closed loop configuration. It will analyze part requirements, autonomously generate work plans, remove material with high precision by combining sensory data, and verify work results. &lt;br/&gt;&lt;br/&gt;Turbine blade manufacture is an essential component of the $34B market in the U.S. for aircraft engines and gas turbine generators, and automated finishing will produce considerable cost savings, quality improvements, and improved worker safety. The current polish-inspect-shape-inspect process cycle will be combined into a single operation, reducing production time plus hardware, footprint, maintenance, and energy requirements. The primary cause of scrap, human error, will be avoided for these valuable, nearly finished parts. Workers will not be tasked with a job that is difficult, dirty, and known to inflict high rates of repetitive stress injuries.]]></AbstractNarration>
+<MinAmdLetterDate>11/05/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/14/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839657</AwardID>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>Somes</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Steven D Somes</PI_FULL_NAME>
+<EmailAddress><![CDATA[ssomes@adelphia.net]]></EmailAddress>
+<NSF_ID>000270049</NSF_ID>
+<StartDate>11/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Western Robotics Co</Name>
+<CityName>Willoughby</CityName>
+<ZipCode>440949325</ZipCode>
+<PhoneNumber>4402562004</PhoneNumber>
+<StreetAddress>8840 Eagle Road</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>14</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH14</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Western Robotics Co]]></Name>
+<CityName>Willoughby</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>440949325</ZipCode>
+<StreetAddress><![CDATA[8840 Eagle Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>14</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH14</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6840</Code>
+<Text>ROBOTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9139</Code>
+<Text>INFORMATION INFRASTRUCTURE &amp; TECH APPL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~100000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[REU Site:  Cellular, Molecular and Genetic Approaches to Biological Problems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>273322.00</AwardTotalIntnAmount>
+<AwardAmount>273322</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080300</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sally O'Connor</SignBlockName>
+<PO_EMAI>soconnor@nsf.gov</PO_EMAI>
+<PO_PHON>7032924552</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The University of Missouri-Columbia (MU) REU Site will provide a program for undergraduates during the summers of 2009-2012. Eight students will be selected to participate in a 9-week research program in cellular, molecular and genetic approaches to biological problems. Undergraduates from partner institutions, including the Univ. of Arkansas-Pine Bluff, Barry Univ. (FL), Florida A&amp;M Univ., Grinnell College (IA), Jackson State Univ. (MS), Medgar Evers College (NY), Missouri State Univ., Prairie View A&amp;M Univ. (TX), College of St. Elizabeth (NJ), Truman State Univ. (MO), and Xavier Univ. (LA), will be recruited to the program. The program has been designed to stimulate interest in graduate study. The research programs of faculty mentors use methodologies ranging from recombinant DNA technology and molecular cytology, to sophisticated population genetics. The research experience is the heart of the summer program. Participants also develop communication skills through brown-bag lunches, lab group meetings, and an end-of-program Summer Undergraduate Research Science Symposium and poster session. Students are involved in activities such as seminars, panel discussions on preparation for graduate school and career options, and a science ethics workshop. Students are strongly encouraged to present their research at regional and national scientific meetings. More information is available at http://lsurop.missouri.edu/summerOther/nsf-reuBiologyBiochemistry.htm, or by contacting Dr. Linda Blockus (573-882-5979; blockusl@missouri.edu) or the Program Director, Dr. John David (davidj@missouri.edu; 573-882-0120).]]></AbstractNarration>
+<MinAmdLetterDate>03/03/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/03/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0850689</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>David</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John D David</PI_FULL_NAME>
+<EmailAddress><![CDATA[DavidJ@missouri.edu]]></EmailAddress>
+<NSF_ID>000294548</NSF_ID>
+<StartDate>03/03/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Linda</FirstName>
+<LastName>Blockus</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Linda Blockus</PI_FULL_NAME>
+<EmailAddress><![CDATA[BlockusL@missouri.edu]]></EmailAddress>
+<NSF_ID>000274342</NSF_ID>
+<StartDate>03/03/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Missouri-Columbia</Name>
+<CityName>COLUMBIA</CityName>
+<ZipCode>652113020</ZipCode>
+<PhoneNumber>5738827560</PhoneNumber>
+<StreetAddress>121 UNIVERSITY HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SZPJL5ZRCLF4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MISSOURI SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Missouri-Columbia]]></Name>
+<CityName>COLUMBIA</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>652113020</ZipCode>
+<StreetAddress><![CDATA[121 UNIVERSITY HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1139</Code>
+<Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~273322</FUND_OBLG>
+</Award>
+</rootTag>

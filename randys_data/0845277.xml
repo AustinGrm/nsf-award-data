@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[National Research Experiences for Undergraduates]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>425692.00</AwardTotalIntnAmount>
+<AwardAmount>425692</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jennifer Pearl</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The need for increased participation in the mathematical sciences requires that we identify and nurture students from underrepresented groups, both to serve as professional mathematicians and to serve as role models and mentors for future generations. NREUP supports the participation of mathematics undergraduates from underrepresented groups in focused and challenging research experiences. With combined funding from the National Science Foundation and the National Security Agency, approximately 35 students per year will participate, at a minimum of eight sites.&lt;br/&gt;&lt;br/&gt;NREUP reaches students at the transition point between lower and upper division studies and provides key components to encourage students to pursue graduate studies and careers in mathematics--enriching and rewarding mathematical experiences, mentoring by active researchers, and both intellectual and social networking with peers. Moreover, by supporting faculty at a diverse group of institutions to direct summer research programs, this project simultaneously supports the development of a community of skilled faculty mentors who are expected to provide ever-increasing opportunities for undergraduate research.]]></AbstractNarration>
+<MinAmdLetterDate>03/09/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/26/2011</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0845277</AwardID>
+<Investigator>
+<FirstName>William Anthony</FirstName>
+<LastName>Hawkins</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>William Anthony Hawkins</PI_FULL_NAME>
+<EmailAddress><![CDATA[whawkins@udc.edu]]></EmailAddress>
+<NSF_ID>000477590</NSF_ID>
+<StartDate>03/09/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>J Michael</FirstName>
+<LastName>Pearson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>J Michael Pearson</PI_FULL_NAME>
+<EmailAddress><![CDATA[pearson@maa.org]]></EmailAddress>
+<NSF_ID>000481659</NSF_ID>
+<StartDate>03/09/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Megginson</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert E Megginson</PI_FULL_NAME>
+<EmailAddress><![CDATA[meggin@umich.edu]]></EmailAddress>
+<NSF_ID>000309671</NSF_ID>
+<StartDate>03/09/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Vallin</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert W Vallin</PI_FULL_NAME>
+<EmailAddress><![CDATA[rvallin@maa.org]]></EmailAddress>
+<NSF_ID>000477975</NSF_ID>
+<StartDate>03/09/2009</StartDate>
+<EndDate>04/20/2011</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Mathematical Association of America</Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>200361206</ZipCode>
+<PhoneNumber>2023875200</PhoneNumber>
+<StreetAddress>11 DUPONT CIRCLE NW</StreetAddress>
+<StreetAddress2><![CDATA[STE 200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TY44D55D6B65</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE MATHEMATICAL ASSOCIATION OF AMERICA (INCORPORATED)</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Mathematical Association of America]]></Name>
+<CityName>WASHINGTON</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>200361206</ZipCode>
+<StreetAddress><![CDATA[11 DUPONT CIRCLE NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7335</Code>
+<Text>WORKFORCE IN THE MATHEMAT SCI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~425692</FUND_OBLG>
+</Award>
+</rootTag>

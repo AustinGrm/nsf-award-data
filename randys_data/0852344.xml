@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Bacteriophages in Endosymbiotic Bacteria]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/02/2008</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>411410.00</AwardTotalIntnAmount>
+<AwardAmount>411410</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090300</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michael Mishkind</SignBlockName>
+<PO_EMAI>mmishkin@nsf.gov</PO_EMAI>
+<PO_PHON>7032928413</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Seth Bordenstein&lt;br/&gt;IOS-0749783&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Bacteriophages, viruses of bacteria, are the most abundant biological entity on the planet. By exchanging genes and inserting themselves into the genomes of bacteria, bacteriophages profoundly influence the ecology and evolution of bacterial communities in open environments.  The relevance of bacteriophages to intracellular communities of symbiotic bacteria is less considered, but potentially important based on increasing discoveries of bacteriophages in bacteria that only replicate inside host cells. However, little is known about whether the environment of a host cell constrains phage genome evolution and function. This research is the first comprehensive study of the genome sequences and functions of bacteriophage in the model intracellular bacterium Wolbachia pipientis. These maternally-inherited bacteria replicate exclusively inside the cells of at least 20% of all arthropod species, making them one of the most common intracellular infections on the planet. This study will test if W. pipientis bacteriophage chromosomes evolve by the classic exchange of blocks of unrelated DNA with other bacteriophages or by new kinds of bacteriophage gene transfer between  divergent strains of W. pipientis that coinfect the same host cells and tissues. In addition to the genomics and transmissibility of phages, this study will test if bacteriophages contribute directly to killing intracellular bacteria and thereby cause changes in bacterial functions dependent on titers. Broader impacts include applications to human health and agriculture through applied symbiosis strategies, extensions of this research to K-12 curriculum development and community outreach, and a greater understanding of the symbiotic associations between three different entities of Life - bacteriophages, bacteria, and eukaryotes. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>09/10/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/10/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0852344</AwardID>
+<Investigator>
+<FirstName>Seth</FirstName>
+<LastName>Bordenstein</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Seth R Bordenstein</PI_FULL_NAME>
+<EmailAddress><![CDATA[seth.bordenstein@vanderbilt.edu]]></EmailAddress>
+<NSF_ID>000107235</NSF_ID>
+<StartDate>09/10/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Vanderbilt University</Name>
+<CityName>NASHVILLE</CityName>
+<ZipCode>372032416</ZipCode>
+<PhoneNumber>6153222631</PhoneNumber>
+<StreetAddress>110 21ST AVE S</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GTNBNWXJ12D5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VANDERBILT UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Vanderbilt University]]></Name>
+<CityName>NASHVILLE</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>372032416</ZipCode>
+<StreetAddress><![CDATA[110 21ST AVE S]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7187</Code>
+<Text>MICROBIAL GENOME SEQUENCING</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7656</Code>
+<Text>Symbiosis Infection &amp; Immunity</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1089</Code>
+<Text>MICRO OBS &amp; MICRO INTER &amp; PRO</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~411409</FUND_OBLG>
+</Award>
+</rootTag>

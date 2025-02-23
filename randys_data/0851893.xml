@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[REU Site: Interdisciplinary research in water resources at the University of Florida]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>305132.00</AwardTotalIntnAmount>
+<AwardAmount>305132</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030203</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lina Patino</SignBlockName>
+<PO_EMAI>lpatino@nsf.gov</PO_EMAI>
+<PO_PHON>7032925047</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5). &lt;br/&gt;&lt;br/&gt;The goal of the REU site is to provide eight undergraduate students in science and engineering with eight weeks of research experiences, focused on sustaining water resources using interdisciplinary approaches. Specifically, the research experiences will involve students in quantifying different components of the water and energy balance of various land uses in Florida. The students will learn the significance of this quantification and how it impacts management practices and decisions, through extension activities. The projects, conducted at three locations in Florida, will involve combination of field and laboratory experiments, theory, and computer modeling. The projects will utilize the intricate UF/IFAS infrastructure through their Research and Education Centers. Recent advances in Information and Cyber-technologies will be used heavily to facilitate frequent communication among the students and ensure a positive cohort experience.&lt;br/&gt;&lt;br/&gt;The proposed REU project has broader impacts for water quantity and quality management, crop-yield forecasting, irrigation scheduling, and ecosystem sustainability. In addition to the broader impacts of the research, the education and mentoring activities will also provide significant impact. The model of providing research experiences in hydrology where all the REU participants are not physically located at the same place can be extended to other disciplines. The students will be trained in a broad-based interdisciplinary field, with opportunities for professional development. The students will present their research and interact with other researchers in water resources during professional meetings.]]></AbstractNarration>
+<MinAmdLetterDate>08/31/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/31/2009</MaxAmdLetterDate>
+<ARRAAmount>305132</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0851893</AwardID>
+<Investigator>
+<FirstName>Jasmeet</FirstName>
+<LastName>Judge</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jasmeet Judge</PI_FULL_NAME>
+<EmailAddress><![CDATA[jasmeet@ufl.edu]]></EmailAddress>
+<NSF_ID>000351209</NSF_ID>
+<StartDate>08/31/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kati</FirstName>
+<LastName>Migliaccio</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kati W Migliaccio</PI_FULL_NAME>
+<EmailAddress><![CDATA[klwhite@ufl.edu]]></EmailAddress>
+<NSF_ID>000356126</NSF_ID>
+<StartDate>08/31/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326111941</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1523 UNION RD RM 207</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NNFQH1JAPEP3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF FLORIDA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D4GCCCMXR1H3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Florida]]></Name>
+<CityName>GAINESVILLE</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>326111941</ZipCode>
+<StreetAddress><![CDATA[1523 UNION RD RM 207]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1575</Code>
+<Text>EDUCATION AND HUMAN RESOURCES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~305132</FUND_OBLG>
+</Award>
+</rootTag>

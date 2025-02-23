@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: BRAM: Balanced RAnk Modulation for data storage in next generation flash memories]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>94506.00</AwardTotalIntnAmount>
+<AwardAmount>94506</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Radhakisan Baheti</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Integrative, Hybrid and Complex Systems&lt;br/&gt;Anxiao Jiang, Texas Engineering Experiment Station&lt;br/&gt;Jehoshua Bruck, California Institute of Technology&lt;br/&gt;Paul E. Hasler, GA Tech Research Corporation - GA Institute of Technology&lt;br/&gt;Christopher M. Twigg, SUNY at Binghamton&lt;br/&gt;Collaborative Research:  BRAM:  Balanced RAnk Modulation for Data Storage in Next Generation Flash Memories&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The objective of this research is to develop a new data storage technology for next-generation flash memories with substantially improved longevity, reliability and efficiency.  The approach is to use the ranks of flash-cell levels to represent data, instead of using the absolute values of the cell levels.  Novel techniques are studied, including elimination of cell over-programming, reduction or even elimination of block erasures, data modification, load balancing, and error correction.  The research closely combines new information-theoretical methods and hardware design.&lt;br/&gt;&lt;br/&gt;Intellectual Merit:  The intellectual merit of this research includes laying the theoretical foundation for a new data-storage technology and designing a new hardware architecture for flash memories.  The rank-modulation scheme eliminates the risk of charge over-injection and reduces block erasures, which are two major barriers to advances in flash memories.  The theoretical analysis and the code designs have the potential to advance information theory.  The study of hardware, including novel circuit components and testing techniques, has the potential to advance memory design.&lt;br/&gt;&lt;br/&gt;Broader Impacts:  Electronic memories are a widely used storage media, along with magnetic and optical media.  Flash memories account for 90 percent of the non-volatile electronic memory market.  Techniques that enable next-generation flash memory have the potential to make significant societal and economic impacts, with the possibility of benefiting industrial production, scientific research, and the large population of flash-memory users.  This research integrates research and education by developing new courses, engaging students in advanced research, including students from under-represented groups, and disseminating new knowledge.&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>04/11/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/11/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0801658</AwardID>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Hasler</LastName>
+<PI_MID_INIT>O</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jennifer O Hasler</PI_FULL_NAME>
+<EmailAddress><![CDATA[jennifer.hasler@ece.gatech.edu]]></EmailAddress>
+<NSF_ID>000485169</NSF_ID>
+<StartDate>04/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>ATLANTA</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320001</ZipCode>
+<StreetAddress><![CDATA[225 NORTH AVE NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0510403</Code>
+<Name>Engineering &amp; Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7564</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7423</Code>
+<Text>Energy collection &amp; storage</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~94506</FUND_OBLG>
+</Award>
+</rootTag>

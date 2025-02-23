@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[GSE/DIF:SciGirls en Espanol]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>349988.00</AwardTotalIntnAmount>
+<AwardAmount>349988</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11060000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EES</Abbreviation>
+<LongName>Div. of Equity for Excellence in STEM</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jolene Jesse</SignBlockName>
+<PO_EMAI>jjesse@nsf.gov</PO_EMAI>
+<PO_PHON>7032927303</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Intellectual Merit: SciGirls is a national outreach program of DragonflyTV supported by a grant from the National Science Foundation's Research on Gender in Science and Engineering Program. SciGirls empowers PBS outreach professionals and science museum educators, in partnership with local youth organizations, educators and parents, to deliver hands-on science encouragement and career guidance to girls in their communities. To meet the dramatic changes in U.S. demographics and the need for more women scientists and engineers, this project will expand SciGirls programming into Latino communities across the nation. SciGirls en Español will provide Spanish-language print and video resources, leader training, and grants to existing Latina-serving organizations to help encourage a greater engagement in STEM. The project is a collaboration among Twin Cities Public Television, The Self Reliance Foundation of Washington, D.C., and KLCS TV/DT, a PBS member station licensed to the Los Angeles Unified School District.&lt;br/&gt; &lt;br/&gt;SciGirls stresses the most current research into what strategies most effectively engage girls in STEM activities: extended communication and collaboration; finding real-life contexts for science; promoting open-ended investigations; and placing value on diverse ways of knowing, viewing and describing the world. With a focus on inquiry, SciGirls resources can easily be used by after-school educators, regardless of their science backgrounds, to create successful STEM experiences for girls. &lt;br/&gt;&lt;br/&gt;Broader Impacts: SciGirls en Español materials will be delivered to after-school programs across the country as well as to the Los Angeles United School District's "Beyond the Bell" initiative, via the district's station, KLCS TV/DT. Project PIs will also distribute copies of the materials to other organizations (NSTA, ASTC, and PBS stations) and make the entire set of resources (streaming videos and Activity Guides) available on DragonflyTV's Web site at www.pbskids.org/dragonflytv. The results of the evaluation will be shared with the informal science education research community and reported at the National AfterSchool Association annual conference and the NSF Joint Annual Meeting.]]></AbstractNarration>
+<MinAmdLetterDate>09/02/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/02/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0833073</AwardID>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Hudson</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Richard C Hudson</PI_FULL_NAME>
+<EmailAddress><![CDATA[rhudson@tpt.org]]></EmailAddress>
+<NSF_ID>000383696</NSF_ID>
+<StartDate>09/02/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alicia</FirstName>
+<LastName>Santiago</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME>Dr.</PI_SUFX_NAME>
+<PI_FULL_NAME>Alicia Santiago</PI_FULL_NAME>
+<EmailAddress><![CDATA[santiago554@gmail.com]]></EmailAddress>
+<NSF_ID>000487468</NSF_ID>
+<StartDate>09/02/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Twin Cities Public Television</Name>
+<CityName>SAINT PAUL</CityName>
+<ZipCode>551011492</ZipCode>
+<PhoneNumber>6512291347</PhoneNumber>
+<StreetAddress>172 E 4TH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>PWSSQNG9W2C7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TWIN CITIES PUBLIC TELEVISION, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Twin Cities Public Television]]></Name>
+<CityName>SAINT PAUL</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>551011492</ZipCode>
+<StreetAddress><![CDATA[172 E 4TH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1544</Code>
+<Text>RES ON GENDER IN SCI &amp; ENGINE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<FUND_OBLG>2008~349988</FUND_OBLG>
+</Award>
+</rootTag>

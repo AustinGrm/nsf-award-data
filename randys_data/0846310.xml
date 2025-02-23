@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Quantitative Characterization of Noncovalent Interactions by Mass Spectrometry - A Systematic Approach]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>550000.00</AwardTotalIntnAmount>
+<AwardAmount>550000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090006</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Charles Pibel</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;The Analytical and Surface Chemistry Program supports this CAREER award to Professor Kevin Schug of the University of Texas - Arlington, to devise means of quantitatively assessing noncovalent binding interactions by electrospray ionization mass spectrometry (ESI-MS). Host-guest and target-receptor type binding is studied, providing a potentially powerful tool for applications such as rapid drug discovery.  The approach will be extended to the discovery of new chemical entities (NCEs) incorporating functionalized nanoparticles as affinity probes to identify new antimicrobial agents from coral, algae, and sponges.  Analyses involving complex matrices include the consideration of matrix effects during ESI-MS; controlled band-dispersion methods will be used to probe the concentration dependence of matrix effects with unprecedented speed and efficiency.&lt;br/&gt;&lt;br/&gt;Given the routine use of ESI-MS for quantitative and qualitative analysis in the life sciences, the proposed research has a broad technical impact, generating a better understanding of the analytical capabilities of ESI-MS.  The impact of the work is enhanced by Prof. Schug's involvement with a general and highly visible outreach program for K-12 education (Diversity in Science in the United States (DISCUS)), targeting but not limited to students of limited English proficiency (LEP).  The DISCUS program is designed to: 1) increase awareness in K-12 students, teachers, and parents of the need for more scientists in the U.S.; 2) develop and apply pedagogical tools to increase knowledge retention in K-12 science education; and 3) communicate available opportunities and routes to higher education for underrepresented minority groups and LEP students. Visibility of the program is maximized through course instruction, web presence, and participation in state and national fairs and conferences.  Students and researchers involved in this work gain expertise in important analytical methods (a highly desirable background in industry) and learn to apply these methods in an interdisciplinary fashion.]]></AbstractNarration>
+<MinAmdLetterDate>07/15/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/07/2014</MaxAmdLetterDate>
+<ARRAAmount>550000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0846310</AwardID>
+<Investigator>
+<FirstName>Kevin</FirstName>
+<LastName>Schug</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kevin A Schug</PI_FULL_NAME>
+<EmailAddress><![CDATA[kschug@uta.edu]]></EmailAddress>
+<NSF_ID>000240646</NSF_ID>
+<StartDate>07/15/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Arlington</Name>
+<CityName>ARLINGTON</CityName>
+<ZipCode>760199800</ZipCode>
+<PhoneNumber>8172722105</PhoneNumber>
+<StreetAddress>701 S. NEDDERMAN DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LMLUKUPJJ9N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF TEXAS AT ARLINGTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Arlington]]></Name>
+<CityName>ARLINGTON</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>760199800</ZipCode>
+<StreetAddress><![CDATA[701 S. NEDDERMAN DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1974</Code>
+<Text>ANALYTICAL SEPARATIONS &amp; MEAS.</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1187</Code>
+<Text>PECASE- eligible</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1974</Code>
+<Text>ANALYTICAL SEPARATIONS &amp; MEAS.</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~550000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[A partnership approach to improving biology and chemistry undergraduate education in Eastern Iowa]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>600000.00</AwardTotalIntnAmount>
+<AwardAmount>600000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nicole Bennett</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project is jointly initiating an S-STEM program to increase enrollment and graduation rates in undergraduate biology and chemistry programs at both the University and the community colleges in the Eastern Iowa Community College District. Using a cohort model, S-STEM students are engaged in similar learning activities to improve retention and student success. The project is increasing enrollments in biology and chemistry through (1) multiple matriculation pathways into biology and chemistry programs; (2) marketing biology and chemistry careers and programs to potential students; and (3) providing financial and academic support. Specific recruitment strategies are targeting underrepresented populations (minorities and women). Retention strategies are helping 80-90% of S-STEM students complete their degree. In four years, this project aims to graduate 27 biologists and chemists qualified for local industry or advanced education with 10 more to graduate after the grant concludes.]]></AbstractNarration>
+<MinAmdLetterDate>07/21/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/21/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0806496</AwardID>
+<Investigator>
+<FirstName>Angela</FirstName>
+<LastName>Ghrist</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Angela Ghrist</PI_FULL_NAME>
+<EmailAddress><![CDATA[aghrist@eicc.edu]]></EmailAddress>
+<NSF_ID>000390314</NSF_ID>
+<StartDate>07/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Axup</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrew W Axup</PI_FULL_NAME>
+<EmailAddress><![CDATA[AxupAndrewW@sau.edu]]></EmailAddress>
+<NSF_ID>000302109</NSF_ID>
+<StartDate>07/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Halfhill</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthew D Halfhill</PI_FULL_NAME>
+<EmailAddress><![CDATA[HalfhillMatthewD@sau.edu]]></EmailAddress>
+<NSF_ID>000294199</NSF_ID>
+<StartDate>07/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Saint Ambrose University</Name>
+<CityName>DAVENPORT</CityName>
+<ZipCode>528032829</ZipCode>
+<PhoneNumber>5633336345</PhoneNumber>
+<StreetAddress>518 W LOCUST ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F6LJRCDFCVT7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ST. AMBROSE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Saint Ambrose University]]></Name>
+<CityName>DAVENPORT</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>528032829</ZipCode>
+<StreetAddress><![CDATA[518 W LOCUST ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~600000</FUND_OBLG>
+</Award>
+</rootTag>

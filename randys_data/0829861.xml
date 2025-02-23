@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EMT/MISC: Collaborative Research: Harnessing Statistical Physics for Computing and Communication</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>182000.00</AwardTotalIntnAmount>
+<AwardAmount>182000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dmitri Maslov</SignBlockName>
+<PO_EMAI>dmaslov@nsf.gov</PO_EMAI>
+<PO_PHON>7032928910</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project exploits methods from statistical physics to provide fundamental advances in computing and communication systems. The intersection of computer science, information theory and statistical physics has seen a recent explosion of activity, resulting in new algorithms and new methods of analysis. Discrete computational challenges including constraint satisfaction, error correction and control of massive networks have benefited from techniques and insights offered by statistical physics. Physics, at the same time, has been significantly enriched by approaches from discrete computation, such as message-passing algorithms. &lt;br/&gt;&lt;br/&gt;The investigators study two complementary approaches for addressing algorithmic challenges: 1) treating problem instances as members of a random ensemble that can be analyzed as a physical model, and 2) identifying specific classes of instances amenable to physical analysis. The first suggests a fundamental connection between algorithmic performance and an underlying physical phase structure, and has already led to significant new algorithms for unstructured random graphs or networks. The challenge is to generalize it to structured cases. The second uses techniques such as renormalization group and multiscale decomposition, and is proving to be a powerful new approach in probabilistic inference. &lt;br/&gt; &lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>09/04/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/04/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0829861</AwardID>
+<Investigator>
+<FirstName>Bart</FirstName>
+<LastName>Selman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bart Selman</PI_FULL_NAME>
+<EmailAddress>selman@cs.cornell.edu</EmailAddress>
+<NSF_ID>000191386</NSF_ID>
+<StartDate>09/04/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>Ithaca</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>373 Pine Tree Road</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>23</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY23</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>872612445</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>CORNELL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>002254837</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>Ithaca</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>148502820</ZipCode>
+<StreetAddress><![CDATA[373 Pine Tree Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>23</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY23</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7353</Code>
+<Text>EMERGING MODELS &amp; TECHNOLOGIES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2008~182000</FUND_OBLG>
+</Award>
+</rootTag>

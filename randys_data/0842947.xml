@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[ARRA: CONTEXTUAL CONTRIBUTION IN BRAIN AND COGNITION]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>649196.00</AwardTotalIntnAmount>
+<AwardAmount>649196</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Akaysha Tang</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;Objects, people and events around us tend to occur in typical contexts.  Ovens appear in kitchens, traffic lights tend to appear in streets, and a beach-umbrella appears next to a beach-chair and a towel. Contextual relations that are typical in our everyday lives are used by the brain to generate predictions and provide a universal element in the operation of the human brain. Context-based predictions enable us to recognize scenes, objects, people, and emotional and social cues in complex images with great efficiency. With funding from the National Science Foundation, Dr. Moshe Bar and colleagues at the Massachusetts General Hospital  are combining methods from cognitive psychology and human brain imaging to investigate the neural basis of contextual processing. This research program is focused on three goals: to define empirically different associative relations between objects, to use this knowledge to characterize how these relations are clustered and represented in the brain, and to specify the cognitive and neural mechanisms that use context to generate the predictions that help us understand our environment so effectively.&lt;br/&gt;&lt;br/&gt;The characterization of the underlying neural mechanisms of contextual processing is expected to add to our knowlege of the specific cortical dynamics underlying real-world vision and the general dynamics of large-scale brain networks. A clear understanding of how contextual processing guides perception (and subsequently decision-making and action) will have a profound impact on how cognitive, social and clinical psychologists, neurologists, and computer scientists approach visual cognition. Understanding how context is used in the brain to facilitate behavior may inform our understanding of how object recognition is impacted by brain injury, how to improve assistive devices, and how to design more efficient algorithms and hardware for machine vision. This research program involves the training of several post-doctoral fellows. &lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/25/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/25/2009</MaxAmdLetterDate>
+<ARRAAmount>649196</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0842947</AwardID>
+<Investigator>
+<FirstName>Moshe</FirstName>
+<LastName>Bar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Moshe Bar</PI_FULL_NAME>
+<EmailAddress><![CDATA[bar@nmr.mgh.harvard.edu]]></EmailAddress>
+<NSF_ID>000490592</NSF_ID>
+<StartDate>08/25/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts General Hospital</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>021142621</ZipCode>
+<PhoneNumber>8572821670</PhoneNumber>
+<StreetAddress>55 FRUIT ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FLJ7DQKLL226</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE GENERAL HOSPITAL CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts General Hospital]]></Name>
+<CityName>BOSTON</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021142621</ZipCode>
+<StreetAddress><![CDATA[55 FRUIT ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1699</Code>
+<Text>Cognitive Neuroscience</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1699</Code>
+<Text>COGNEURO</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~649196</FUND_OBLG>
+</Award>
+</rootTag>

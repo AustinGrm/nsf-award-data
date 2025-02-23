@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>A New Real-Space Finite Element Method to Solve the Kohn-Sham Equations of Density Functional Theory</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>48000.00</AwardTotalIntnAmount>
+<AwardAmount>48000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Junping Wang</SignBlockName>
+<PO_EMAI>jwang@nsf.gov</PO_EMAI>
+<PO_PHON>7032924488</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>First principles (ab initio) quantum mechanical simulations based on Kohn-Sham density functional theory (DFT) are a vital component of modern materials research.  The parameter free, quantum mechanical nature of the theory facilitates both fundamental understanding and robust predictions across the gamut of materials systems, from metallic actinides to insulating organics.&lt;br/&gt;However, the solution of the equations of DFT (coupled Schrodinger and Poisson&lt;br/&gt;equations) is a formidable task and this has severely limited the range of materials systems that can be investigated by such rigorous, quantum mechanical means. Current state-of-the-art approaches for DFT calculations extend to more complex problems by adding more grid points (finite-difference methods) or basis functions (planewave and finite-element methods) without regard to the nature of the complexity, leading to substantial inefficiencies in the treatment of highly inhomogeneous systems such as those involving first-row, transition-metal or actinide atoms. This project will overcome this basic limitation of current approaches by employing partition-of-unity techniques in finite-element analysis to build the known atomic physics into the solution process, thus substantially reducing the degrees of freedom required and increasing the size of problems that can be addressed.&lt;br/&gt;&lt;br/&gt;The electronic structure and fundamental properties (mechanical, electrical, magnetic, and optical) of materials are obtained via efficient and accurate solutions of the equations of density functional theory. By virtue of its generality, the proposed partition-of-unity finite element method for electronic-structure calculations has the potential to change the way the largest, most complex quantum mechanical calculations are done, thereby paving the way for new applications in metallic, biological, and nanostructural materials that were not possible before. The external collaboration with Dr. John Pask at LLNL will lead to the development of an optimized, fully self-consistent implementation, well-suited to large-scale parallel computational platforms. This collaboration greatly strengthens the likelihood of maximum impact with the realization of faster computational times on complex simulations, such as melting of d- and f-electron systems, equation of state studies, and structure and energetics of defects in new materials.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>09/16/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/16/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0811025</AwardID>
+<Investigator>
+<FirstName>Natarajan</FirstName>
+<LastName>Sukumar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Natarajan Sukumar</PI_FULL_NAME>
+<EmailAddress>nsukumar@ucdavis.edu</EmailAddress>
+<NSF_ID>000433721</NSF_ID>
+<StartDate>09/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Davis</Name>
+<CityName>Davis</CityName>
+<ZipCode>956186134</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress>OR/Sponsored Programs</StreetAddress>
+<StreetAddress2><![CDATA[1850 Research Park Dr., Ste 300]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA03</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>047120084</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, DAVIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>071549000</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Davis]]></Name>
+<CityName>Davis</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>956186134</ZipCode>
+<StreetAddress><![CDATA[OR/Sponsored Programs]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~48000</FUND_OBLG>
+</Award>
+</rootTag>

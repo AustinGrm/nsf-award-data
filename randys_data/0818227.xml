@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Relating stimulus space geometry and topology to neural network activity and connectivity]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>124937.00</AwardTotalIntnAmount>
+<AwardAmount>124937</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040100</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mary Ann Horn</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project seeks to deepen our understanding of how the brain creates representations of stimulus spaces by studying how relationships between external stimuli can be inferred from the neural activity (spikes) and connectivity of a recurrent network. In doing so, this research will bring together two complementary perspectives on what controls neural activity in sensory systems: receptive fields and neural network dynamics.  In joint work with Carina Curto, we have developed a novel theoretical approach that enables building stimulus spaces directly from neural activity, thus circumventing knowledge of network connectivity and of receptive fields that may be difficult to communicate from one area of the brain to another.  This is achieved using some elegant ideas from algebraic topology and algebraic geometry that are largely unknown to neuroscientists, and opens up a new avenue for the analysis of the structure and function of recurrent neural networks.  By investigating compatibility conditions between patterns of activity emerging from recurrent neural networks and experimentally observed receptive fields, this project will find constraints on recurrent network connectivity, ultimately generating experimentally testable predictions.  The theoretical framework will also be translated into novel data analysis tools that will be useful for in analyzing large-scale electrophysiological recordings. &lt;br/&gt;&lt;br/&gt;A central question in neuroscience is to understand how the brain creates representations of the external world.  Although a great deal of experimental work has uncovered correlations between neural activity and sensory stimuli, there is very little understanding of how the brain encodes relationships between distinct stimuli of similar type.  This research develops a novel theoretical framework to investigate this question by studying the interplay between stimulus encoding and the structure of recurrent neural circuits, typical of mammalian brain areas such as neocortex and hippocampus.  The findings will yield new insight into the role of neural circuits in learning and memory, and of how the brain organizes knowledge.  Progress in the basic understanding of neural circuits is essential for improving our understanding of learning disabilities and diseases (such as epilepsy and schizophrenia) that are believed to be related to the malfunction of neural circuits.]]></AbstractNarration>
+<MinAmdLetterDate>08/07/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/07/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0818227</AwardID>
+<Investigator>
+<FirstName>Vladimir</FirstName>
+<LastName>Itskov</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vladimir Itskov</PI_FULL_NAME>
+<EmailAddress><![CDATA[vladimir.itskov@psu.edu]]></EmailAddress>
+<NSF_ID>000496685</NSF_ID>
+<StartDate>08/07/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>10027</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>202 LOW LIBRARY 535 W 116 ST MC</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F4N1QNPB95M4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>F4N1QNPB95M4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>10027</ZipCode>
+<StreetAddress><![CDATA[202 LOW LIBRARY 535 W 116 ST MC]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7334</Code>
+<Text>MATHEMATICAL BIOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~36032</FUND_OBLG>
+</Award>
+</rootTag>

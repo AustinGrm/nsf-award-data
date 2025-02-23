@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Remote Operation of a Synchrotron Radiation Beam Dynamics Laboratory]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>203192.00</AwardTotalIntnAmount>
+<AwardAmount>203192</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Joseph Reidy</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The overall objective of this CAREER proposal is to integrate beam physics research at Cornell University's Laboratory of Elementary Particle Physics (LEPP) with undergraduate research, education, and outreach in the Physics Department at Alfred University.  The research objective is to expand our knowledge of the interrelationship between accelerator beam dynamics and the performance of storage rings, specifically the Cornell Electron-Positron Storage Ring (CESR).  This novel approach to accelerator research will encompass remote operation of sophisticated beam diagnostic equipment to measure the beam dynamics and correlate with important accelerator parameters.   &lt;br/&gt;&lt;br/&gt;The objectives of the outreach and educational components of this project are to:  i) provide undergraduate students with the opportunity to work on a research project at a large user facility with sophisticated state-of-the-art equipment that will provide them with valuable research skills in experimental physics and reinforce their knowledge of classical and modern physics; ii) develop a laboratory for light optics and fast imaging systems whose equipment can be used at Cornell, Alfred or potentially  at  other  universities;  and  iii)  provide  a  location  for  high  school  students  to  learn  about accelerators as an outreach to the local community and a recruiting tool for prospective physics majors at Alfred  University.]]></AbstractNarration>
+<MinAmdLetterDate>11/28/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>11/28/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0852698</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Holtzapple</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert L Holtzapple</PI_FULL_NAME>
+<EmailAddress><![CDATA[rholtzap@calpoly.edu]]></EmailAddress>
+<NSF_ID>000455619</NSF_ID>
+<StartDate>11/28/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California Polytechnic State University Foundation</Name>
+<CityName>SAN LUIS OBISPO</CityName>
+<ZipCode>934079000</ZipCode>
+<PhoneNumber>8057562982</PhoneNumber>
+<StreetAddress>1 GRAND AVE BLDG 15</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MC4RJJM9XLT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CAL POLY CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[California Polytechnic State University]]></Name>
+<CityName>SAN LUIS OBISPO</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>934079000</ZipCode>
+<StreetAddress><![CDATA[1 GRAND AVE BLDG 15]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA24</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1221</Code>
+<Text>HEP-High Energy Physics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7282</Code>
+<Text>Midscale Physics Projects</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1187</Code>
+<Text>PECASE- eligible</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7282</Code>
+<Text>ACC PHYSICS &amp; PHYSICS INSTRUM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2006~58832</FUND_OBLG>
+<FUND_OBLG>2007~78541</FUND_OBLG>
+<FUND_OBLG>2008~65819</FUND_OBLG>
+</Award>
+</rootTag>

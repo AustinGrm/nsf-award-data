@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Seismic Slip in Oceanic Lithosphere]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2015</AwardExpirationDate>
+<AwardTotalIntnAmount>393950.00</AwardTotalIntnAmount>
+<AwardAmount>393950</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040200</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Candace Major</SignBlockName>
+<PO_EMAI>cmajor@nsf.gov</PO_EMAI>
+<PO_PHON>7032927597</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Many earthquakes occur on a class of faults known as "strike-slip" or "transform" faults, of which the San Andreas Fault, which runs from the Gulf of California to Northern California, is the best known. Understanding the processes by which earthquakes occur on these faults is vital to mitigating the effects of earthquakes in places like California, but these processes are poorly understood, in part because most faults of this type are found in the sea floor. Two field studies, one on the East Pacific Rise, and the other on the Blanco Fracture Zone off the coast of California are underway, but there remains a global catalog of events elsewhere that have not been studied. This study of earthquakes on sea floor transform faults recorded since the advent of the global broadband seismic network in 1990 will establish new models of fault motions, slip distributions and stress drops to help define rupture dynamics and the factors that control seismicity on these strike-slip faults. Among the broader impacts of this study are its obvious relevance to understanding and mitigating earthquake hazards, and the fact that it supports a female scientist, and the training of a much-needed new earthquake seismologist.]]></AbstractNarration>
+<MinAmdLetterDate>01/27/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>01/14/2014</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0850503</AwardID>
+<Investigator>
+<FirstName>Rachel</FirstName>
+<LastName>Abercrombie</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rachel E Abercrombie</PI_FULL_NAME>
+<EmailAddress><![CDATA[rea@bu.edu]]></EmailAddress>
+<NSF_ID>000488263</NSF_ID>
+<StartDate>01/27/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Trustees of Boston University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>022151703</ZipCode>
+<PhoneNumber>6173534365</PhoneNumber>
+<StreetAddress>1 SILBER WAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>THL6A6JLE1S7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF BOSTON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Trustees of Boston University]]></Name>
+<CityName>BOSTON</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>022151703</ZipCode>
+<StreetAddress><![CDATA[1 SILBER WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0204000</Code>
+<Name>Oceanography</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1620</Code>
+<Text>Marine Geology and Geophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1620</Code>
+<Text>MARINE GEOLOGY AND GEOPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~393950</FUND_OBLG>
+</Award>
+</rootTag>

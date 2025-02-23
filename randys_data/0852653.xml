@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>New Theortical Approaches in Nuclear Reactions and Application for Nuclear Astrophysics</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>196127.00</AwardTotalIntnAmount>
+<AwardAmount>196127</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bogdan Mihaila</SignBlockName>
+<PO_EMAI>bmihaila@nsf.gov</PO_EMAI>
+<PO_PHON>7032928235</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;One of the greatest physicists Vladimir Gamow compared our universe with a giant reactor or cauldron, in which all elements are cooked up via nuclear reactions.  The process itself is called "nucleosynthesis." We are all made of the products of this nucleosynthesis.  Studying how the nuclear reactions proceed inside stars is one of the main objects of  contemporary nuclear physics and of this project.   The question is how we scientists can get a look inside a star.  Physicists use different observational methods to get information about nuclear reactions in the stellar interior, but mostly the sources of the information are located on the star's surface.  Often physicists are trying to mimic nuclear reactions inside stars in the laboratory using accelerators.  However, nuclei have electrical charges of the same sign and they repeal each other making it very difficult or often impossible to measure nuclear reactions in the laboratory at stellar (very low) energies. &lt;br/&gt; &lt;br/&gt;The purpose of this project is to develop reliable indirect probes of nuclear reactions occurring inside stars, which allow us to study astrophysical nuclear reactions in laboratories.  One such technique is a very neat implementation in physics of Homer's Odyssey, namely, the siege of Troy, and Ulysses' scheme to hide his warriors inside a giant wooden horse presented to the Trojans as a peace offering.  Once inside the gates, the warriors waited until nightfall, then emerged, and conquered the unsuspecting city.  This idea has been implemented in Trojan Horse-like nuclear reactions. To overcome the barrier of electric repulsion in the nuclear reaction one of the interacting nuclei is hiding inside the so-called Trojan Horse nucleus, which is accelerated to energies sufficient to overcome the electrical repulsive forces. After the Trojan Horse nucleus penetrates through the electrical repulsive barrier, it breaks down leaving the hiding nucleus inside the target nucleus while the second constituent nucleus of the Trojan Horse leaves as a spectator carrying away all the excessive energy.  Theoretical background for analysis of such reactions will be developed in this project.&lt;br/&gt;&lt;br/&gt;The project will be directly integrated into the education of students at the graduate and undergraduate levels.</AbstractNarration>
+<MinAmdLetterDate>07/14/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/14/2009</MaxAmdLetterDate>
+<ARRAAmount>196127</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0852653</AwardID>
+<Investigator>
+<FirstName>Akram</FirstName>
+<LastName>Zhanov</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Akram Zhanov</PI_FULL_NAME>
+<EmailAddress>akram.pole@gmail.com</EmailAddress>
+<NSF_ID>000492400</NSF_ID>
+<StartDate>07/14/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M Research Foundation</Name>
+<CityName>College Station</CityName>
+<ZipCode>778454375</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress>400 Harvey Mitchell Parkway, S</StreetAddress>
+<StreetAddress2><![CDATA[Suite 300]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX17</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>078592789</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A &amp; M RESEARCH FOUNDATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>078592789</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&amp;M University]]></Name>
+<CityName>College Station</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>778454375</ZipCode>
+<StreetAddress><![CDATA[400 Harvey Mitchell Pkwy South]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1285</Code>
+<Text>NUCLEAR THEORY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7483</Code>
+<Text>PHYSICS OF THE UNIVERSE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~196127</FUND_OBLG>
+</Award>
+</rootTag>

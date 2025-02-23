@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Empirical and Theoretical Integration of Geochemical and Morphologic Evolution of Soil-Covered Hillslopes: Responses to Channel Incision]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>333257</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030206</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Cutler</SignBlockName>
+<PO_EMAI>pcutler@nsf.gov</PO_EMAI>
+<PO_PHON>7032924961</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[River incision drives hillslope topography and this topography affects the chemical properties of the soil catena. However, the linkages between these two fundamental landscape properties as they evolve in response to basal channel incision, have not yet been quantitatively studied. This project integrates  hillslope geomorphology based onsediment budgets with the spatial varioation in the geochemistry of soil. Modeling, field, and laboratory approaches are used to examine two key hypotheses. The first hypothesis states that at a given hillslope position, the rate of soil chemical weathering is limited by the rates of mineral supplies via soil transport and soil production.  The second hypothesis states that the rate of soil chemical weathering is determined by the mean age and age distribution of minerals in the soil.  Two independent models of hillslope soil mass balance and mineral grain tracking will be developed and combined with toposequence measurements of soil and bedrock elemental chemistry and soil production rates and Airborne Laser Swath Mapping. The study will be conducted at three hillslopes with increasing rates of basal channel incision within a tributary basin to the Feather River in the western Sierra Nevada, California. The outcomes from this study will include the temporal and spatial dynamics of soil chemical weathering rates within hillslopes experiencing different history and rates of basal channel incision rates. &lt;br/&gt;&lt;br/&gt;Landscapes are often characterized as repeating units of stream channels and hillslopes. This study will investigate the complex coupling between the formation of stream channels and soils. Both of these processes are relevant to managing land use effectively, maintianing sound agricultural practices, and evaluating how soils and landscapes change in response to a variety of natural and human-induced influences. The processes will be investigated in the field as well as in the laboratory and through the development of a sophisticated numerical model. The project will include science teachers in a local middle school and bring soil-stream interactions plus real-world scientific research into these classrooms.]]></AbstractNarration>
+<MinAmdLetterDate>08/15/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/09/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0819064</AwardID>
+<Investigator>
+<FirstName>Kyungsoo</FirstName>
+<LastName>Yoo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kyungsoo Yoo</PI_FULL_NAME>
+<EmailAddress><![CDATA[kyoo@umn.edu]]></EmailAddress>
+<NSF_ID>000487944</NSF_ID>
+<StartDate>08/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Delaware</Name>
+<CityName>NEWARK</CityName>
+<ZipCode>197160099</ZipCode>
+<PhoneNumber>3028312136</PhoneNumber>
+<StreetAddress>220 HULLIHEN HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<StateCode>DE</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DE00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>T72NHKM259N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF DELAWARE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>T72NHKM259N3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Delaware]]></Name>
+<CityName>NEWARK</CityName>
+<StateCode>DE</StateCode>
+<ZipCode>197160099</ZipCode>
+<StreetAddress><![CDATA[220 HULLIHEN HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DE00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7458</Code>
+<Text>Geomorphology &amp; Land-use Dynam</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9150</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0110</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001011DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~123473</FUND_OBLG>
+<FUND_OBLG>2009~0</FUND_OBLG>
+<FUND_OBLG>2010~0</FUND_OBLG>
+</Award>
+</rootTag>

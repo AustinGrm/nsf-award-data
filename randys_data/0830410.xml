@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Regularization Methods for Online Learning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>299965.00</AwardTotalIntnAmount>
+<AwardAmount>299965</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Balasubramanian Kalyanasundaram</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[There are many sequential decision problems which can be appropriately modeled as a repeated game, in which the decision-maker is competing with an adversary. For instance, in the problem of virus detection in a computer network, the aim is to label incoming packets as either clean or infected, while a hacker aims to design infected packets that escape detection.  Similar problems arise in other areas of computer security (including spam filtering and detection of denial-of service attacks), in internet search (such as deciding if a highly-linked web page is genuinely authoritative and should have high page rank), and in financial applications (such as portfolio optimization).  In these problems, the decision-maker aims to perform almost as well as the best element of some comparison class.  Even for decision problems that are not inherently adversarial, it is often appealing to model them in this way, since the assumptions are sufficiently weak that effective learning algorithms for these adversarial settings are very widely applicable. Many of the key algorithmic approaches to online learning problems can be viewed as methods involving regularization, an idea that has its origins in the solution of ill-posed problems, such as statistical estimation problems. This project aims to exploit this regularization viewpoint in the analysis and design of methods for complex online learning problems.  In particular, its aims are (1) To develop techniques for decision problems with limited feedback.  (2) To develop techniques for decision problems with complex losses that cannot be simply decomposed into a sum across trials.  (3) To develop efficient learning algorithms that can simultaneously compete effectively with a variety of rich comparison classes and a variety of constraints on the adversary.  (4) To improve our understanding of the relationships between online decision problems (in adversarial settings) and statistical decision problems (in probabilistic settings). Successful research outcomes of this project are likely to increase our understanding of complex sequential decision problems and to provide design methodologies for effective learning algorithms for these problems, and hence have a significant potential for practical impact in many application areas, including computer security and computational finance.]]></AbstractNarration>
+<MinAmdLetterDate>08/04/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0830410</AwardID>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Bartlett</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peter Bartlett</PI_FULL_NAME>
+<EmailAddress><![CDATA[bartlett@stat.berkeley.edu]]></EmailAddress>
+<NSF_ID>000489454</NSF_ID>
+<StartDate>08/04/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress>1608 4TH ST STE 201</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GS3YEVSS12N6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>BERKELEY</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947101749</ZipCode>
+<StreetAddress><![CDATA[1608 4TH ST STE 201]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>2860</Code>
+<Text>THEORY OF COMPUTING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~299965</FUND_OBLG>
+</Award>
+</rootTag>

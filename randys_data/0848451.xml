@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Biophysics of the bacterial nucleoid: Structure, replication, and segregation of the E. coli chromosome</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>600000.00</AwardTotalIntnAmount>
+<AwardAmount>600000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Krastan Blagoev</SignBlockName>
+<PO_EMAI>kblagoev@nsf.gov</PO_EMAI>
+<PO_PHON>7032924666</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;In this project the PI proposes to measure, analyze, and model chromosome conformation based on the imaging of an extensive collection of fluorescently-labeled strains in prokaryotic cells. The PI will also introduce the co-variance matrix for loci displacement technique and use it to characterize and quantitatively measure the structural and mechanical properties of the nucleoid and its cellular tethering. The mechanism of nucleoid organization and segregation by quantitatively characterizing and modeling the effect of partitioning mutants and drugs on nucleoid structure using locus-distribution-function, covariance-matrix, and time-lapse-based techniques will be studied as well. Graduate students, visiting students, and postdocs working with the PI at the Whitehead Institute for Biomedical Research and the co-PI at the Department of Physics at Brandeis University on the problems outlined in this proposal will work in an interdisciplinary environment and will learn how to combine cell-biology and genetic, and bioinformatic techniques with single-molecule, theoretical and computational biophysics. The proposed research will be tightly coupled to the further development of courses for the undergraduate Biological Physics major and the graduate Quantitative Biology program at Brandeis, initiated by the co-PI, as well as working on the second edition of the textbook Physical Biology of the Cell.</AbstractNarration>
+<MinAmdLetterDate>07/26/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/13/2009</MaxAmdLetterDate>
+<ARRAAmount>600000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0848451</AwardID>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Wiggins</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Paul A Wiggins</PI_FULL_NAME>
+<EmailAddress>pwiggins@uw.edu</EmailAddress>
+<PI_PHON>6264373761</PI_PHON>
+<NSF_ID>000509323</NSF_ID>
+<StartDate>07/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Whitehead Institute for Biomedical Research</Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021421025</ZipCode>
+<PhoneNumber>6172585000</PhoneNumber>
+<StreetAddress>455 MAIN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>C186U32QSBR9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WHITEHEAD INSTITUTE FOR BIOMEDICAL RESEARCH</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Whitehead Institute for Biomedical Research]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021421025</ZipCode>
+<StreetAddress><![CDATA[455 MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7246</Code>
+<Text>PHYSICS OF LIVING SYSTEMS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~600000</FUND_OBLG>
+</Award>
+</rootTag>

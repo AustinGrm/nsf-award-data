@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Fracture Mechanics of Nanowires and Nanostructures]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2007</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>199389.00</AwardTotalIntnAmount>
+<AwardAmount>199389</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Glaucio H. Paulino</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The strength of an ideal crystal has long been of interest but 'real' materials have lower strengths because they have defects. Nanostructures can fail differently from larger structures, so studies of how nanostructures will break (fracture) provide an opportunity to connect the 'real' to the 'ideal'. This study of fracture in nanowires having novel structures that are important due to their electrical, thermal, and mechanical properties includes collaborators in the United States, Sweden, and South Korea who will provide nanowires for mechanical testing. A new microelectromechanical ('MEMS-based') mechanical loading stage that can operate inside a transmission electron microscope with sub-nanometer resolution will be used along with other tiny testing devices to find out what makes nanowires break. &lt;br/&gt;&lt;br/&gt;Nanowires may be used in nanoelectronics (as logic and memory and interconnect elements), as chemical sensing elements due to their high surface to volume ratio and exceptional sensitivity to surface interactions, in nanoelectromechanical systems (NEMS; as mechanical components, electromechanical components, actuators, strain gauges, flow sensors, others), and in structural composites where the crystalline perfection of nanowires is expected to confer exceptional stiffness, strength, and toughness. It is thus important to understand the detailed mechanics of single crystal nanowires so a base of knowledge can be available for their subsequent use in diverse applications where mechanical stress will be present. This effort includes research programs for graduate students and postdoctoral fellows, summer research training for undergraduate students and high school teachers, and other educational activities.]]></AbstractNarration>
+<MinAmdLetterDate>12/21/2007</MinAmdLetterDate>
+<MaxAmdLetterDate>12/21/2007</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0802247</AwardID>
+<Investigator>
+<FirstName>Rodney</FirstName>
+<LastName>Ruoff</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rodney S Ruoff</PI_FULL_NAME>
+<EmailAddress><![CDATA[r.ruoff@mail.utexas.edu]]></EmailAddress>
+<NSF_ID>000166763</NSF_ID>
+<StartDate>12/21/2007</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1675</Code>
+<Text>NANOSCALE: SCIENCE &amp; ENGIN CTR</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7479</Code>
+<Text>BMMB-Biomech &amp; Mechanobiology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>027E</Code>
+<Text>NANOMECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>AMPP</Code>
+<Text>ADVANCED MATERIALS &amp; PROCESSING PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<FUND_OBLG>2006~199388</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>DISSERTATION RESEARCH: Enemy release and nutrient enrichment: Population- and community-level effects in experimental wetland plant communities</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>11662.00</AwardTotalIntnAmount>
+<AwardAmount>11662</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010208</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alan Tessier</SignBlockName>
+<PO_EMAI>atessier@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Invasive species can have detrimental effects on native species and ecosystems.  It has been argued that exotic species are problematic because they have left behind the pathogens, predators, or herbivores (enemies) that suppressed them in their native range.  However, many exotic plants seem to become invasive only when essential resources such as soil nitrogen are abundant.  This work will test the hypothesis that an invasive wetland plant species, which escaped from its enemies, will gain a progressively larger competitive advantage and have a progressively greater suppressive effect on native species as soil nitrogen becomes more abundant.  The broader implications of this research are twofold. Terrestrial ecosystems are experiencing increased nitrogen enrichment, but the implication of this to plant species invasions are poorly known.  An understanding of the interaction of enrichment and enemy release is necessary for effective management of invasive species  Second, specialized pathogens or herbivores are often introduced to control the worst invaders (i.e., biological control), but the effectiveness of such programs has been sporadic. If a biological control is inherently dependent on soil fertility then land managers can better prioritize release sites for biological control agents and increase the likelihood of success for those programs.  Additional broader impacts of this project include training undergraduates in field ecology, and conducting community education programs through partner organizations.  This project also will support the thesis research of a doctoral student.</AbstractNarration>
+<MinAmdLetterDate>06/25/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/25/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0807817</AwardID>
+<Investigator>
+<FirstName>Chris</FirstName>
+<LastName>Peterson</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chris J Peterson</PI_FULL_NAME>
+<EmailAddress>chris@plantbio.uga.edu</EmailAddress>
+<PI_PHON>7065423754</PI_PHON>
+<NSF_ID>000329103</NSF_ID>
+<StartDate>06/25/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Walter</FirstName>
+<LastName>Carson</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Walter P Carson</PI_FULL_NAME>
+<EmailAddress>walt@pitt.edu</EmailAddress>
+<PI_PHON>4126245496</PI_PHON>
+<NSF_ID>000276361</NSF_ID>
+<StartDate>06/25/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Hovick</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stephen M Hovick</PI_FULL_NAME>
+<EmailAddress>hovick.2@osu.edu</EmailAddress>
+<PI_PHON>7063384031</PI_PHON>
+<NSF_ID>000082395</NSF_ID>
+<StartDate>06/25/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Georgia Research Foundation Inc</Name>
+<CityName>ATHENS</CityName>
+<ZipCode>306021589</ZipCode>
+<PhoneNumber>7065425939</PhoneNumber>
+<StreetAddress>310 EAST CAMPUS RD TUCKER HALL R</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NMJHD63STRC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Georgia]]></Name>
+<CityName>ATHENS</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>306020001</ZipCode>
+<StreetAddress><![CDATA[310 E CAMPUS RD TUCKER HALL RM 4]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1182</Code>
+<Text>POP &amp; COMMUNITY ECOL PROG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1182</Code>
+<Text>POP &amp; COMMUNITY ECOL PROG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~11662</FUND_OBLG>
+</Award>
+</rootTag>

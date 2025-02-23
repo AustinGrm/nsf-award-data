@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Process Monitoring, Identification, and Diagnosis Using Image and Functional Data]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>343058.00</AwardTotalIntnAmount>
+<AwardAmount>343058</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Edwin Romeijn</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This CAREER project will build an education and research program in methodology for process monitoring, fault identification, and fault diagnosis using high-dimensional functional data or image sensor signals.  Due to the massive amount and high dimensionality of image and functional data, the analysis and manipulation required to obtain timely synthesized information for quality improvement becomes complicated and resource intensive. The proposed methods will integrate wavelet-based signal-processing techniques and system-modeling procedures oriented to data mining to develop an in-process (or in-situ) control tool for manufacturing processes. The proposed methodology includes the following:  (1) an adaptive multi-scale monitoring model for functional data or image sensor signals to overcome the problem of the low fault detection probability present in existing techniques; (2) a kernel-based fault identification index measure and a variable selection algorithm to identify contributing process variables to improve diagnostic performance; (3) a nonlinear fault diagnosis model to determine an assignable cause for a fault and to effectively handle ill-posed autocorrelated functional data or image sensor signals.&lt;br/&gt;&lt;br/&gt;The results of this research will provide manufacturers with new tools for handling high-dimensional functional data or image sensor signals for quality improvement of their manufacturing processes. The strength of the proposed methodology is that it is generic and can be adapted to other research and application areas, such as in the monitoring of nonlinear profiles, the problem of large-scale sensor failure detection, and variable selection problems of spectrum data, or in the development of new research issues related to nonlinear multivariate SPC in bioprocesses, semiconductor and automobile manufacturing, and other manufacturing processes.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>09/25/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/25/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0853894</AwardID>
+<Investigator>
+<FirstName>Myong Kee</FirstName>
+<LastName>Jeong</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Myong Kee Jeong</PI_FULL_NAME>
+<EmailAddress><![CDATA[mjeong@rutgers.edu]]></EmailAddress>
+<NSF_ID>000494141</NSF_ID>
+<StartDate>09/25/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rutgers University New Brunswick</Name>
+<CityName>NEW BRUNSWICK</CityName>
+<ZipCode>089018559</ZipCode>
+<PhoneNumber>8489320150</PhoneNumber>
+<StreetAddress>3 RUTGERS PLZA</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M1LVPE5GLSD9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M1LVPE5GLSD9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rutgers University New Brunswick]]></Name>
+<CityName>NEW BRUNSWICK</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>089018559</ZipCode>
+<StreetAddress><![CDATA[3 RUTGERS PLZA]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1786</Code>
+<Text>MANFG ENTERPRISE SYSTEMS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9150</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>071E</Code>
+<Text>MFG ENTERPRISE OPERATIONS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9147</Code>
+<Text>GENERIC TECHNOL FOR MANUFACTURING CELLS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0107</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>490100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0407</Code>
+<Name>NSF,Education &amp; Human Resource</Name>
+<APP_SYMB_ID>490106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>0100999999</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>0400999999</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2007~343057</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Exploring the Structures and Materials Applications of Lanthanide Cyanometallates]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2015</AwardExpirationDate>
+<AwardTotalIntnAmount>625000.00</AwardTotalIntnAmount>
+<AwardAmount>625000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Timothy Patten</SignBlockName>
+<PO_EMAI>tpatten@nsf.gov</PO_EMAI>
+<PO_PHON>7032927196</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The Inorganic, Bioinorganic, and Organometallic Chemistry Program supports the work of Professor Richard E. Sykora of the University of South Alabama focusing on the synthesis, structure, spectroscopy, and catalytic properties of new classes of heterobimetallic lanthanide cyanometallate complexes.  Ancillary ligands will be used to direct the formation of low dimensional M-M and M-Ln (M=Ag or Au, and Ln = lanthanide) interactions.  This research builds upon fundamental knowledge in the area of bimetallic catalysts and lays the framework for future studies leading towards alternative energy sources (fuel cells). &lt;br/&gt;&lt;br/&gt;New teaching tools for high school teachers, regular teaching workshops and school visits have been enabled through this CAREER award.  Undergraduate students at this primarily undergraduate institution receive training on a new CCD-based x-ray diffractometer system and are involved in collaborative research efforts at Oak Ridge National Laboratory over the summer months.  The results of their research on f-element chemistry is incorporated into the chemistry curriculum at the University of South Alabama and at other institutions nationally.]]></AbstractNarration>
+<MinAmdLetterDate>01/30/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>01/30/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0846680</AwardID>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Sykora</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Richard E Sykora</PI_FULL_NAME>
+<EmailAddress><![CDATA[rsykora@southalabama.edu]]></EmailAddress>
+<NSF_ID>000084925</NSF_ID>
+<StartDate>01/30/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of South Alabama</Name>
+<CityName>MOBILE</CityName>
+<ZipCode>366883053</ZipCode>
+<PhoneNumber>2514606333</PhoneNumber>
+<StreetAddress>307 UNIVERISTY BLVD</StreetAddress>
+<StreetAddress2><![CDATA[360 Administration Bldg]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AL01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QB12VPNQQFE8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTH ALABAMA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QB12VPNQQFE8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of South Alabama]]></Name>
+<CityName>MOBILE</CityName>
+<StateCode>AL</StateCode>
+<ZipCode>366883053</ZipCode>
+<StreetAddress><![CDATA[307 UNIVERISTY BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AL01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1966</Code>
+<Text>SYNTHETIC INORGANIC</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1187</Code>
+<Text>PECASE- eligible</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9164</Code>
+<Text>SINGLE DIVISION/UNIVERSITY - GOVT LAB</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>AMPP</Code>
+<Text>ADVANCED MATERIALS &amp; PROCESSING PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~625000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Geomorphic influence of beaver on fluvial systems in the greater Yellowstone ecosystem</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>184986.00</AwardTotalIntnAmount>
+<AwardAmount>184986</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030206</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Cutler</SignBlockName>
+<PO_EMAI>pcutler@nsf.gov</PO_EMAI>
+<PO_PHON>7032924961</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;It has been assumed that when beavers build their dams across small stream systems it causes long-term filling of valleys with sediment and creates broad, flat "beaver meadows".  Thus beaver activity is thought to promote both a persistent reduction in sediment flux and greater groundwater storage capacity in the accumulated deposits.  By reducing flow velocities, individual beaver ponds clearly trap sediment, but the depth and spatial distribution of sediment deposition caused by beaver dams have never been quantified over timescales longer than the lifetime of a single beaver pond.  The goal of this project is to document the effects of beaver dams in floodplains of small streams in the greater Yellowstone area, in deposits dating from the present back to the end of the last glaciation about 12,000 years ago (the Holocene epoch).  By detailing the texture, mineral and organic composition, chemistry, and sedimentary structures of modern beaver-pond deposits and their associated landforms, this work will define diagnostic characteristics essential to identifying these deposits in older floodplain sequences and abandoned channels.  Radiocarbon dating will put the timing of beaver-pond deposits in the context of long-term environmental change in the Yellowstone region.  &lt;br/&gt;&lt;br/&gt;Knowledge gained in this study about the long-term effects of beaver damming is of significance in understanding the long-term evolution of stream valleys.  It also has relevance to improving the overall health of small stream systems, such as those where a decline in beaver populations has caused a notable increase in channel incision.  It will thus help to focus available resources for restoring and protecting stream habitat and water quality on those waterways that are most in need.  Such information is particularly relevant to management in northern Yellowstone National Park, where a lack of beaver damming is thought to have caused downcutting of many streams, with consequent lowering of water tables and reduction of wetlands habitat.  The study will involve independent research projects and advanced scientific training for two graduate students.  In addition, undergraduate students from the predominantly Native American population at the UNM-Gallup campus will be involved in both field and laboratory research that will assist in movement of these students into scientific degree programs and careers.</AbstractNarration>
+<MinAmdLetterDate>06/21/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/21/2009</MaxAmdLetterDate>
+<ARRAAmount>184986</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0844293</AwardID>
+<Investigator>
+<FirstName>Grant</FirstName>
+<LastName>Meyer</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Grant A Meyer</PI_FULL_NAME>
+<EmailAddress>gmeyer@unm.edu</EmailAddress>
+<NSF_ID>000205805</NSF_ID>
+<StartDate>06/21/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of New Mexico</Name>
+<CityName>Albuquerque</CityName>
+<ZipCode>871310001</ZipCode>
+<PhoneNumber>5052774186</PhoneNumber>
+<StreetAddress>1700 Lomas Blvd. NE, Suite 2200</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NM01</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>868853094</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NEW MEXICO, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>784121725</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of New Mexico]]></Name>
+<CityName>Albuquerque</CityName>
+<StateCode>NM</StateCode>
+<ZipCode>871310001</ZipCode>
+<StreetAddress><![CDATA[1700 Lomas Blvd. NE, Suite 2200]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NM01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7458</Code>
+<Text>Geomorphology &amp; Land-use Dynam</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2009~184986</FUND_OBLG>
+</Award>
+</rootTag>

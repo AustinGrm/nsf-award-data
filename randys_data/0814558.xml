@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Bringing Out the Dead: Distribution and microbial decomposition of copepod carcasses in the marine environment]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>266754.00</AwardTotalIntnAmount>
+<AwardAmount>266754</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040301</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Garrison</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[A basic need in zooplankton research is accurate assessment of zooplankton population abundance in nature. Traditionally researchers collect, preserve and enumerate zooplankton disregarding the live/dead status of the zooplankton. However, recent studies have shown that zooplankton can suffer significant level of non-consumptive (non-predatory) mortality and their carcasses can be abundant at times in the marine environments. Without distinguishing between live and dead zooplankton in natural samples scientists would misunderstand many fundamental pelagic processes. Because zooplankton carcasses are also rich substrate sources for bacteria and other microbes, their presence in the ocean also potentially affects microbial processes and composition in the water column. A vital stain method recently refined and tested by the PI allows them to easily separate live and dead zooplankton, especially copepods, in natural samples. The method is simple, inexpensive, and compatible with common routine sampling protocols. &lt;br/&gt;&lt;br/&gt;Field studies in the Chesapeake Bay found a substantial portion of the copepod populations dead in the summers of 2005 and 2006. Laboratory experiments further showed that copepod carcasses were 'microbial hotspots' that favor the activity and growth of specific bacterial phylotoypes, and contribute new bacteria to the surrounding water. These observations pointed to the need for further study of the live/dead composition of natural copepod populations, and their contribution to ambient microbial activities and composition. This project will expand the application of the vital stain method to different copepod developmental stages and different zooplankton groups. Year-long routine samplings will be conducted in different parts of the Chesapeake Bay. Multivariate analysis will be used to explore predictive relationships between live/dead copepod composition and various hydrographic parameters. Laboratory experiments will quantify the loss rates of carcasses due to sinking and microbial decomposition. Modern molecular techniques will be used to investigate the shift in bacterial community composition during the decomposition process. Field and lab data will then be combined in a modeling effort to estimate species- and stage-specific non-consumptive mortality. The PI will coordinate with researchers from around the world to study live/dead zooplankton abundance and distribution in vastly different marine ecosystems, taking an important step toward understanding non-consumptive zooplankton mortality on the global scale. &lt;br/&gt;&lt;br/&gt;Results of this project will fundamentally change our understanding of zooplankton ecology and secondary production in the marine environment, and help improve marine monitoring programs and existing copepod population dynamic models. The PI will lead a global concerted effort with several international research groups in the application of the staining method, and produce unprecedented scientific information on the live/dead copepod composition in different parts of the world. &lt;br/&gt;&lt;br/&gt;Student education is an integral part of the project. A Ph.D. student will work closely with many international research groups in the project. Undergraduate interns will be recruited through the existing DREAMS and REU programs at VIMS. Besides the obvious scientific benefits, this international collaboration also allows researchers from very different cultural backgrounds to interact and learn from each other, stimulate future collaborations among them, and help advance oceanographic research in the participating countries. The PI will actively engage faculty and students in the partner institutions through seminars, workshops, special courses and conferences, aiming to broaden the educational impacts of the project.]]></AbstractNarration>
+<MinAmdLetterDate>07/03/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/03/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0814558</AwardID>
+<Investigator>
+<FirstName>Kam</FirstName>
+<LastName>Tang</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kam W Tang</PI_FULL_NAME>
+<EmailAddress><![CDATA[kamtang@vims.edu]]></EmailAddress>
+<NSF_ID>000117389</NSF_ID>
+<StartDate>07/03/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>College of William &amp; Mary Virginia Institute of Marine Science</Name>
+<CityName>GLOUCESTER POINT</CityName>
+<ZipCode>230622026</ZipCode>
+<PhoneNumber>8046847000</PhoneNumber>
+<StreetAddress>1375 GREATE RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>XGE9T6KCMSR4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIRGINIA INSTITUTE OF MARINE SCIENCE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[College of William &amp; Mary Virginia Institute of Marine Scien]]></Name>
+<CityName>GLOUCESTER POINT</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>230622026</ZipCode>
+<StreetAddress><![CDATA[1375 GREATE RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0204000</Code>
+<Name>Oceanography</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1650</Code>
+<Text>BIOLOGICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~266754</FUND_OBLG>
+</Award>
+</rootTag>

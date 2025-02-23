@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Granting Access to Math and Science (GRAMS)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2016</AwardExpirationDate>
+<AwardTotalIntnAmount>599864.00</AwardTotalIntnAmount>
+<AwardAmount>599864</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karen Crosby</SignBlockName>
+<PO_EMAI>kcrosby@nsf.gov</PO_EMAI>
+<PO_PHON>7032922124</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Bowling Green State University and Owens and Terra Community Colleges are collaborating on a scholarship program designed to increase the number of highly qualified and capable students who are able to attend college. &lt;br/&gt;&lt;br/&gt;Intellectual Merit: Each year approximately 20 need-based scholarships are being provided to students who are selected by class rank, performance in math courses, successful participation in science and math activities, leadership experiences, and community service. This project is increasing the persistence and graduation rate of these students by combining this scholarship program with an NSF STEP grant, "Science, Engineering, and Technology Gateway Ohio" (SETGO).  These programs include a 5-week summer bridge program for entering students to prepare them for the rigors of college science and math courses; a tiered system of mentoring by peers and faculty; learning communities with monthly events that draw students and faculty together by merging academics and social networking; and summer research opportunities. The strategies have been proven in the institution's "Academic Investment in Mathematics and Science" (AIMS) program to increase student persistence and success, particularly of under-represented minority students majoring in science and math disciplines and are based on research that has identified the factors that most account for student attrition from these disciplines. &lt;br/&gt;&lt;br/&gt;Broader Impacts: This project is demonstrating how providing need-based scholarships to students who have demonstrated ability and promise, and a support system that is based on rigorous, scientifically based research, can greatly increase the graduation rate in mathematics and science of economically disadvantaged students, and in particular, under-represented minorities including women.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>02/13/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>11/29/2011</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0850026</AwardID>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Midden</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>William R Midden</PI_FULL_NAME>
+<EmailAddress><![CDATA[midden@bgsu.edu]]></EmailAddress>
+<NSF_ID>000309723</NSF_ID>
+<StartDate>02/13/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Gilmer</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME>Jr.</PI_SUFX_NAME>
+<PI_FULL_NAME>Thomas C Gilmer</PI_FULL_NAME>
+<EmailAddress><![CDATA[cgilmer@bgnet.bgsu.edu]]></EmailAddress>
+<NSF_ID>000311816</NSF_ID>
+<StartDate>02/13/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Moira</FirstName>
+<LastName>van Staaden</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Moira J van Staaden</PI_FULL_NAME>
+<EmailAddress><![CDATA[mvs.bgsu@gmail.com]]></EmailAddress>
+<NSF_ID>000373954</NSF_ID>
+<StartDate>02/13/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Bowling Green State University</Name>
+<CityName>BOWLING GREEN</CityName>
+<ZipCode>434034401</ZipCode>
+<PhoneNumber>4193722481</PhoneNumber>
+<StreetAddress>1851 N RESEARCH DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SLT3EB6G3FA9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BOWLING GREEN STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Bowling Green State University]]></Name>
+<CityName>BOWLING GREEN</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>434034401</ZipCode>
+<StreetAddress><![CDATA[1851 N RESEARCH DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~599864</FUND_OBLG>
+</Award>
+</rootTag>

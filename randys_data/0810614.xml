@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STTR Phase I:  Portable Ultrasound Devices for Noninvasively Monitoring Intracranial Pressure</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>149959.00</AwardTotalIntnAmount>
+<AwardAmount>149959</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gregory T. Baxter</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Technology Transfer (STTR) Phase I project develops a portable ultrasound device for non-invasively monitoring intracranial pressure (ICP). The key issues for developing such a kind of device are sensitivity, accuracy, repeatability, and portability. Boston Applied Technologies, Incorporated (BATi)and the University of Florida (UF) will develop such an instrument with a novel ultrasound measurement technique. With the improved measurement approach, better sensitivity can be achieved comparing to those measuring of acoustic velocity only, and higher accuracy will be expected than the time-of-flight method. This unique method is also independent to any changes in the pulser voltage, instrument self-calibration is thus inherently feasible. Together with the design and implementation of an efficient electronic driving circuit for ultrasound transducers, the developed non-invasive ICP measurement instrument will be sensitive, accurate, reliable, and portable.&lt;br/&gt;&lt;br/&gt;The broader impacts of this research are to greatly benefit victims of trauma to the head by improved means of measurement ICP. The potential for this apparatus in commercial clinical practice is enormous. Early non-invasive measurements of ICP can help reduce both the mortality and morbidity associated with head trauma. A severe blow to the head, as may result from a car or motorcycle accident, may cause swelling of the brain and increased intracranial pressure. The device can also be used in civilian and military emergency departments/forward surgical team/combat support hospitals, and with military and civilian medical first responders.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>04/29/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/29/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0810614</AwardID>
+<Investigator>
+<FirstName>Hongzhi</FirstName>
+<LastName>Zhao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hongzhi Zhao</PI_FULL_NAME>
+<EmailAddress>hzhao@bostonati.com</EmailAddress>
+<PI_PHON>7819352800</PI_PHON>
+<NSF_ID>000492689</NSF_ID>
+<StartDate>04/29/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Boston Applied Technologies, Incorporated</Name>
+<CityName>WOBURN</CityName>
+<ZipCode>018011721</ZipCode>
+<PhoneNumber>7819352800</PhoneNumber>
+<StreetAddress>6F GILL ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KK63F8EFKJW7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BOSTON APPLIED TECHNOLOGIES, INCORPORATED</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Florida]]></Name>
+<CityName>GAINESVILLE</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>326111941</ZipCode>
+<StreetAddress><![CDATA[1523 UNION RD RM 207]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9184</Code>
+<Text>BIOTECHNOLOGY - INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9267</Code>
+<Text>INSTRUMENTATION &amp; LAB IMPROVE.</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~149959</FUND_OBLG>
+</Award>
+</rootTag>

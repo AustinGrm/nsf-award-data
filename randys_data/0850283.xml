@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Undergraduate Student Scholarships for Participation in Interdisciplinary Computational Science and Engineering Research]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2015</AwardExpirationDate>
+<AwardTotalIntnAmount>599982.00</AwardTotalIntnAmount>
+<AwardAmount>599982</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joyce B. Evans</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The Computational Science Research Center (CSRC) at San Diego State University (SDSU) is to provide talented disadvantaged engineering, mathematics and computer science students with scholarships.  CSRC provides the infrastructure for collaborative research efforts between applied mathematics and other science and engineering disciplines.  The program is to match each student with a faculty and/or industrial mentor who will participate actively in academic and professional development of the student as they train the student in their research.  Each student's progress is to be tracked to ensure timely graduation.  The project will serve 60 unique students over a 5 year period.  Participating students will gain the necessary skills and expertise for success in professional careers and/or graduate course work.]]></AbstractNarration>
+<MinAmdLetterDate>03/03/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>12/16/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0850283</AwardID>
+<Investigator>
+<FirstName>Satchi</FirstName>
+<LastName>Venkataraman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Satchi Venkataraman</PI_FULL_NAME>
+<EmailAddress><![CDATA[satchi@mail.sdsu.edu]]></EmailAddress>
+<NSF_ID>000255803</NSF_ID>
+<StartDate>03/03/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jose</FirstName>
+<LastName>Castillo</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jose E Castillo</PI_FULL_NAME>
+<EmailAddress><![CDATA[jcastillo@sdsu.edu]]></EmailAddress>
+<NSF_ID>000378963</NSF_ID>
+<StartDate>03/03/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Paolini</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Paul J Paolini</PI_FULL_NAME>
+<EmailAddress><![CDATA[ppaolini@sunstroke.sdsu.edu]]></EmailAddress>
+<NSF_ID>000156751</NSF_ID>
+<StartDate>03/03/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>San Diego State University Foundation</Name>
+<CityName>SAN DIEGO</CityName>
+<ZipCode>921821901</ZipCode>
+<PhoneNumber>6195945731</PhoneNumber>
+<StreetAddress>5250 CAMPANILE DR MC1947</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>53</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA53</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H59JKGFZKHL7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SAN DIEGO STATE UNIVERSITY FOUNDATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[San Diego State University]]></Name>
+<CityName>San Diego</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>921151338</ZipCode>
+<StreetAddress><![CDATA[5300 Campanile Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>53</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA53</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EHR, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~6973</FUND_OBLG>
+<FUND_OBLG>2010~593009</FUND_OBLG>
+</Award>
+</rootTag>

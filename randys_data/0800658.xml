@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Tip Directed-Assembly of Nanoparticles via Surface-Plasmon Excitation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>506000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Khershed Cooper</SignBlockName>
+<PO_EMAI>khcooper@nsf.gov</PO_EMAI>
+<PO_PHON>7032927017</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The overall objective of this effort is to establish the theoretical and experimental foundation for tip-directed nanoparticle assembly using surface-plasmon excitation.  Specific research objectives include expanding understanding of (1) optical excitation, heating, and cooling of nanoparticle/nanoprobe systems; (2) melting, fusion, and evaporation of nanoparticles; and (3) factors involved in scaling up directed nano-assembly for manufacturing.  The research approach exploits the unique optical and thermal properties of metallic nanoparticles.  Specifically, certain metal nanoparticles can be selectively heated using optical excitation at their surface plasmon resonance wavelength.  The presence of a sharp, nanoscale tip, under control of an atomic force microscope in this case, spatially localizes the excitation.  Finally, nanoparticles melt at temperatures significantly below their bulk melting temperatures allowing fusion of the particles into desired structures and ultimately into active nanoscale devices.   Both multi-physics simulations and tip-based assembly experiments will be conducted to determine the conditions required for optimal resolution, throughput, and reproducibility of the assembly process.&lt;br/&gt;The investigation of tip directed nanoparticle assembly will have a far reaching impact on the understanding of nanoscale electromagnetics and thermal transport.  This new nano-manufacturing technique will have broad societal impact by enabling the production of active devices, with applications in fields such as computing, communications, and medicine, from nanoscale building blocks.  In addition, this relatively simple and low-cost nano-assembly approach will make nano-manufacturing technology more widely accessible.  In order to establish a highly-trained nanotechnology workforce, participants will receive extensive interdisciplinary training in nanoscale optics, thermal sciences, fabrication, microscopy, metrology, and modeling.  Outstanding undergraduate participants will be drawn from the University of Kentucky?s Nanoscale Engineering Certificate Program (NECP) and the Honors Program on Nanotechnology.  In addition, the project provides a foundation for nanotechnology and optics related outreach efforts to high schools students in both urban and Appalachian regions of Kentucky.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>04/11/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/17/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0800658</AwardID>
+<Investigator>
+<FirstName>M. Pinar</FirstName>
+<LastName>Menguc</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>M. Pinar Menguc</PI_FULL_NAME>
+<EmailAddress><![CDATA[menguc@engr.uky.edu]]></EmailAddress>
+<NSF_ID>000287853</NSF_ID>
+<StartDate>04/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Hastings</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeffrey T Hastings</PI_FULL_NAME>
+<EmailAddress><![CDATA[todd.hastings@uky.edu]]></EmailAddress>
+<NSF_ID>000341865</NSF_ID>
+<StartDate>04/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Kentucky Research Foundation</Name>
+<CityName>LEXINGTON</CityName>
+<ZipCode>405260001</ZipCode>
+<PhoneNumber>8592579420</PhoneNumber>
+<StreetAddress>500 S LIMESTONE 109 KINKEAD HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<StateCode>KY</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KY06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H1HYA8Z1NTM5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF KENTUCKY RESEARCH FOUNDATION, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QUKNKLZ4N889</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Kentucky]]></Name>
+<CityName>LEXINGTON</CityName>
+<StateCode>KY</StateCode>
+<ZipCode>405260001</ZipCode>
+<StreetAddress><![CDATA[500 S LIMESTONE 109 KINKEAD HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KY06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1788</Code>
+<Text>NANOMANUFACTURING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>084E</Code>
+<Text>NANOMANUFACTURING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9231</Code>
+<Text>SUPPL FOR UNDERGRAD RES ASSIST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~500000</FUND_OBLG>
+<FUND_OBLG>2009~6000</FUND_OBLG>
+</Award>
+</rootTag>

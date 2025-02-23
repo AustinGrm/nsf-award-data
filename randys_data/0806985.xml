@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Engineering, Engineering Technology and Computer Science Recruitment and Retention Program]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>586458.00</AwardTotalIntnAmount>
+<AwardAmount>586458</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nicole Bennett</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The Engineering, Engineering Technology, and Computer Science Recruitment and Retention Program addresses issues of both financial need and marginalization of underrepresented students which can lead to high attrition. Three cohorts of nine incoming students each in the Department of Engineering, Engineering Technology and Computer Science, are provided two years of S-STEM scholarship support up to $10,000/year; a three-week college-credit summer program prior to the start of the Freshman year; monthly cohort meetings with guest speakers and hands-on projects; and mentoring by college advisory board members. The summer program is modeled after the successful Pre-College Minority Engineering Program funded by NASA grants at the College from 1992-2006. The objective is to provide a supportive environment that encourages student bonding and good study skills. After students reach the milestone third year, the College provides continuing financial support for the remaining two years, internship opportunities and career-planning assistance.]]></AbstractNarration>
+<MinAmdLetterDate>08/18/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/18/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0806985</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Weiler</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert Weiler</PI_FULL_NAME>
+<EmailAddress><![CDATA[rweiler@capitol-college.edu]]></EmailAddress>
+<NSF_ID>000082115</NSF_ID>
+<StartDate>08/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Melinda</FirstName>
+<LastName>Bunnell-Rhyne</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Melinda A Bunnell-Rhyne</PI_FULL_NAME>
+<EmailAddress><![CDATA[mabunnell-rhyne@CapTechU.edu]]></EmailAddress>
+<NSF_ID>000082589</NSF_ID>
+<StartDate>08/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Capitol College</Name>
+<CityName>LAUREL</CityName>
+<ZipCode>207089758</ZipCode>
+<PhoneNumber>3013692800</PhoneNumber>
+<StreetAddress>11301 SPRINGFIELD RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YPJCAUX4L6X1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CAPITOL TECHNOLOGY UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Capitol College]]></Name>
+<CityName>LAUREL</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>207089758</ZipCode>
+<StreetAddress><![CDATA[11301 SPRINGFIELD RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EHR, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~586458</FUND_OBLG>
+</Award>
+</rootTag>

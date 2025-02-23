@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Acquisition of an Inductively Coupled Plasma (ICP) Etcher for Nano/Micro Device Fabrication]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>190000.00</AwardTotalIntnAmount>
+<AwardAmount>190000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Usha Varshney</SignBlockName>
+<PO_EMAI>uvarshne@nsf.gov</PO_EMAI>
+<PO_PHON>7032925385</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[&lt;br/&gt;The objective of this project is to achieve uniform and highly selective anisotropic etching capabilities for research and training in fabrication of micro/nanoscale sensors, actuators and devices at Stevens. To achieve this objective we request funding for the acquisition of a state-of-the-art Inductively Coupled Plasma (ICP) etching system. &lt;br/&gt;Intellectual Merit. The requested ICP etching system will greatly augment existing micro/nano fabrication capabilities within the MicroDevices Laboratory at Stevens. Current research projects directly benefiting from the requested system include: 1). Nano and micro devices for sensing, communications and medicine; 2) Single-electron carbon nanotube memory devics; 3) Nanoengineered surfaces for microfluidic and nanobioscience applications; and 4) Bottom-up prototyping of microchemical systems. Further, this ICP Etcher will promote and foster a multidisciplinary research-intense learning environment in microsystems and nanotechnology at Stevens.&lt;br/&gt;Broader Impact. This ICP etcher is essential to complete the fabrication process chain for micro/nano fabrication capabilities at Stevens. Its capability will greatly impact research projects in a number of multidisciplinary areas, many of which have significant broader impact, including: new methods for thrombus retrieval from stroke patients, novel memory and waveguide devices, biomolecular sensing, and nerve regeneration and wound healing. This instrumentation request will also support two educational initiatives underway at Stevens: a new cross-disciplinary PhD program in Nanotechnology and an NSF Nanotechnology Undergraduate Education grant, by increasing the number of students exposed to the proposed ICP Etcher and the research projects leveraging its capabilities. Research results will also be made available to K-12 students through the outreach program.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>06/24/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/24/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0821606</AwardID>
+<Investigator>
+<FirstName>Frank</FirstName>
+<LastName>Fisher</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Frank T Fisher</PI_FULL_NAME>
+<EmailAddress><![CDATA[ffisher@stevens.edu]]></EmailAddress>
+<NSF_ID>000205059</NSF_ID>
+<StartDate>06/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yong</FirstName>
+<LastName>Shi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yong Shi</PI_FULL_NAME>
+<EmailAddress><![CDATA[yshi2@stevens.edu]]></EmailAddress>
+<NSF_ID>000220476</NSF_ID>
+<StartDate>06/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Eui-Hyeok</FirstName>
+<LastName>Yang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eui-Hyeok Yang</PI_FULL_NAME>
+<EmailAddress><![CDATA[eui-hyeok.yang@stevens.edu]]></EmailAddress>
+<NSF_ID>000071689</NSF_ID>
+<StartDate>06/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chang-Hwan</FirstName>
+<LastName>Choi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chang-Hwan Choi</PI_FULL_NAME>
+<EmailAddress><![CDATA[cchoi@stevens.edu]]></EmailAddress>
+<NSF_ID>000073797</NSF_ID>
+<StartDate>06/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stefan</FirstName>
+<LastName>Strauf</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stefan Strauf</PI_FULL_NAME>
+<EmailAddress><![CDATA[strauf@stevens.edu]]></EmailAddress>
+<NSF_ID>000074096</NSF_ID>
+<StartDate>06/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stevens Institute of Technology</Name>
+<CityName>HOBOKEN</CityName>
+<ZipCode>07030</ZipCode>
+<PhoneNumber>2012168762</PhoneNumber>
+<StreetAddress>1 CASTLEPOINT ON HUDSON</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJ6CN5Y5A2R5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF THE STEVENS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Stevens Institute of Technology]]></Name>
+<CityName>HOBOKEN</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>07030</ZipCode>
+<StreetAddress><![CDATA[1 CASTLEPOINT ON HUDSON]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0206000</Code>
+<Name>Telecommunications</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>101E</Code>
+<Text>Printed and flexible electronics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~190000</FUND_OBLG>
+</Award>
+</rootTag>

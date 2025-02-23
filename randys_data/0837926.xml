@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Storm-Time Magnetospheric Dynamic Processes: Periodic Substorms, Sawtooth Oscillations, and Steady Magnetospheric Convection]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>144544.00</AwardTotalIntnAmount>
+<AwardAmount>144544</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020202</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>kile baker</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project will examine the state of the magnetosphere during periods when quasi-periodic substorms, sawtooth events and steady magnetospheric convection are occurring.  The project will examine four specific questions.  The first topic is to generate a statistical study that will determine the magnetospheric state that leads to substorms, including periodic substorms and sawtooth events, that occur within major magnetic storms.  The state of the magnetosphere will be defined in terms of the lobe magnetic field and the plasma sheet pressure.  The second topic is to establish a quantitative relationship between the solar wind state and the onset of magnetospheric substorms.  The third topic will use data from a variety of satellites, especially the Geotail satellite, to relate the solar wind state to the magnetospheric state during periods of steady magnetospheric convection.  The fourth topic will be to determine whether or not steady magnetospheric convection represents a smooth transition from substorms when the solar wind driver becomes weak.]]></AbstractNarration>
+<MinAmdLetterDate>06/25/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>12/09/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0837926</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Foster</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John C Foster</PI_FULL_NAME>
+<EmailAddress><![CDATA[jfoster@haystack.mit.edu]]></EmailAddress>
+<NSF_ID>000123164</NSF_ID>
+<StartDate>06/25/2008</StartDate>
+<EndDate>09/08/2008</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chaosong</FirstName>
+<LastName>Huang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chaosong Huang</PI_FULL_NAME>
+<EmailAddress><![CDATA[chaosong.huang.1@bc.edu]]></EmailAddress>
+<NSF_ID>000508919</NSF_ID>
+<StartDate>09/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Boston College</Name>
+<CityName>CHESTNUT HILL</CityName>
+<ZipCode>024673800</ZipCode>
+<PhoneNumber>6175528000</PhoneNumber>
+<StreetAddress>140 COMMONWEALTH AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MJ3JH8CRJBZ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF BOSTON COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Boston College]]></Name>
+<CityName>CHESTNUT HILL</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>024673800</ZipCode>
+<StreetAddress><![CDATA[140 COMMONWEALTH AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0205000</Code>
+<Name>Space</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5750</Code>
+<Text>MAGNETOSPHERIC PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~58389</FUND_OBLG>
+<FUND_OBLG>2009~86155</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: PENGUIn - A High-Latitude Window to Geospace Dynamics</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>73671.00</AwardTotalIntnAmount>
+<AwardAmount>73671</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090300</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OPP</Abbreviation>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vladimir Papitashvili</SignBlockName>
+<PO_EMAI>vpapita@nsf.gov</PO_EMAI>
+<PO_PHON>7032927425</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5). &lt;br/&gt;The PENGUIn team will continue investigating in depth a multi-scale electrodynamic system that comprises space environment of Planet Earth (geospace). Several science topics important to the space physics and aeronomy are outlines in this proposal that can be broadly categorized as the following objectives: (a) to study reconnection and waves in the southern cusp region; (b) to investigate unraveling global geomagnetic substorm signatures; (c) to understand the dayside wave-particle interactions; and (d) to observe and investigate various polar cap phenomena and neutral atmosphere dynamics. Cutting-edge science on these critical topics will be accomplished by acquiring multi-instrument data from a distributed network of autonomous observatories in Antarctica, built and deployed with the matured technological achievements. In the last several years, advances in power supply systems and Iridium data transmission for the Automatic Geophysical Observatories (AGOs) have proven effective for providing real-time geophysical data reliably. Five AGOs that span from the auroral zone to deep in the polar cap will be maintained providing a wealth of data for science analyses. Additional instrumentation as GPS-based receivers measuring total electron content in the ionosphere will be deployed at AGOs. These scientific investigations will be enriched by complementary measurements from manned stations in the Antarctic, from magnetically conjugate regions in the Arctic, and from a fleet of magnetospheric and ionospheric spacecraft. Continued reliance on students provides a broader impact to this proposed research and firmly grounds this effort in its educational mission.</AbstractNarration>
+<MinAmdLetterDate>08/20/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/20/2009</MaxAmdLetterDate>
+<ARRAAmount>73671</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.078</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0840133</AwardID>
+<Investigator>
+<FirstName>Viacheslav</FirstName>
+<LastName>Pilipenko</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Viacheslav A Pilipenko</PI_FULL_NAME>
+<EmailAddress>pilipenk@augsburg.edu</EmailAddress>
+<NSF_ID>000164854</NSF_ID>
+<StartDate>08/20/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Noel</FirstName>
+<LastName>Petit</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Noel J Petit</PI_FULL_NAME>
+<EmailAddress>petit@augsburg.edu</EmailAddress>
+<NSF_ID>000384447</NSF_ID>
+<StartDate>08/20/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Engebretson</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark J Engebretson</PI_FULL_NAME>
+<EmailAddress>engebret@augsburg.edu</EmailAddress>
+<NSF_ID>000380464</NSF_ID>
+<StartDate>08/20/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Augsburg University</Name>
+<CityName>Minneapolis</CityName>
+<ZipCode>554541338</ZipCode>
+<PhoneNumber>6123301184</PhoneNumber>
+<StreetAddress>2211 Riverside Avenue</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN05</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>078679347</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>AUGSBURG UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>078679347</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Augsburg University]]></Name>
+<CityName>Minneapolis</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>554541338</ZipCode>
+<StreetAddress><![CDATA[2211 Riverside Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0311000</Code>
+<Name>Polar Programs-Related</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5115</Code>
+<Text>ANT Astrophys &amp; Geospace Sci</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2009~73671</FUND_OBLG>
+</Award>
+</rootTag>

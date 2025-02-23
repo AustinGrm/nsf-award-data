@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: A Fundamental Investigation of the Mechanics of Micro-Transfer  Printing Processes for Manufacturing Multifunctional Microsystems</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>430000.00</AwardTotalIntnAmount>
+<AwardAmount>430000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mary Toney</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5). &lt;br/&gt;&lt;br/&gt;The research objective of this Faculty Early Career Development (CAREER) project is to advance the capabilities of micro-transfer printing through a fundamental investigation of the process mechanics that combines experimental characterization and computational modeling.  Micro-transfer printing is process where a soft elastomer stamp is used to transfer micro- and nano-structures to a broad range of substrates in order to create devices such as flexible electronics, complex micromechanical structures, and solar cells.  While micro-transfer printing has been demonstrated numerous times and is beginning to be implemented commercially, there remains significant empiricism in the design of the processes due to a lack of knowledge of the underlying mechanics.  In this work, a new method to experimentally investigate the adhesion and separation behavior of interfaces in micro-transfer printing will be developed and used to characterize a series of interfaces important in transfer printing.  A computational model that describes the measured behavior of the interfaces will be developed and subsequently integrated into a simulation tool for designing micro-transfer printing processes.  The simulation tool, which will be experimentally validated, will be used to develop guidelines for developing robust, manufacturable printing processes.&lt;br/&gt;&lt;br/&gt;If successful, the results of this research will firmly establish an understanding of the underlying mechanics of microtransfer printing and will lead to improved strategies for designing effective manufacturing processes.  Improvements in the robustness, yield, and control of micro-transfer printing processes will result in increased use and capability, ultimately leading to the manufacturing of new types of microscale devices that cannot be realized using existing techniques.  The education plan that is tightly integrated with the research effort will: (1) inspire students at all levels to pursue careers in engineering and (2) educate students and practicing engineers in the areas of micro- and nano-manufacturing and interface mechanics.</AbstractNarration>
+<MinAmdLetterDate>07/20/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/07/2014</MaxAmdLetterDate>
+<ARRAAmount>430000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0845294</AwardID>
+<Investigator>
+<FirstName>Kevin</FirstName>
+<LastName>Turner</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kevin T Turner</PI_FULL_NAME>
+<EmailAddress>kturner@engr.wisc.edu</EmailAddress>
+<NSF_ID>000193216</NSF_ID>
+<StartDate>07/20/2009</StartDate>
+<EndDate>10/17/2011</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Roxann</FirstName>
+<LastName>Engelstad</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Roxann L Engelstad</PI_FULL_NAME>
+<EmailAddress>engelsta@engr.wisc.edu</EmailAddress>
+<NSF_ID>000338867</NSF_ID>
+<StartDate>10/17/2011</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<StreetAddress2><![CDATA[Suite 6301]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI02</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>161202122</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>041188822</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>537151218</ZipCode>
+<StreetAddress><![CDATA[21 North Park Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1467</Code>
+<Text>MATERIALS PROCESSING AND MANFG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>083E</Code>
+<Text>MATERIAL TRANSFORMATION PROC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1187</Code>
+<Text>PECASE- eligible</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9147</Code>
+<Text>GENERIC TECHNOL FOR MANUFACTURING CELLS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~430000</FUND_OBLG>
+</Award>
+</rootTag>

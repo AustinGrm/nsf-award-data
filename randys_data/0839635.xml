@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Surveyor Endonuclease Adaptor-Ligated Libraries for Genomic Mutation Analysis</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>99353.00</AwardTotalIntnAmount>
+<AwardAmount>99353</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gregory T. Baxter</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research (SBIR) Phase I project develops a novel process allowing rapid and cost-effective analysis of genetic variation between test and known, control genomes. The method, known as SEAL, will allow researchers to construct DNA libraries containing only these variations. This would be a breakthrough in technology as whole genome sequencing produces vast amounts of redundant data representing the test genome?s regions that are identical to the control genome. Using current sequencing technologies this redundant data imposes high generation and analysis costs without contributing any new information. This project will demonstrate the method?s feasibility by developing robust bacterial genome analysis applications. Each step of the multi-staged method will be tested to find optimal conditions. Phase II aims will be developing more complex human genomic applications.&lt;br/&gt;&lt;br/&gt;The broader impacts of this research are on how DNA sequencing is performed and DNA variation is assessed. Research areas impacted include: pharmacogenomic assessment for personalized medicine diagnostics, notably in cancer treatment; simpler, less data-intensive methods to collect the genetic variation information required for understanding complex diseases, such as diabetes and cardiovascular disease, and tools for discovery of new antibiotics for drug-resistant pathogens. The commercial value will be a dramatic decrease in the cost and time of genome sequencing, identification of biomarkers associated with appropriate treatments and decreased requirements for very high cost sequencing equipment.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>11/13/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>11/13/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839635</AwardID>
+<Investigator>
+<FirstName>Gary</FirstName>
+<LastName>Gerard</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME>Dr.</PI_SUFX_NAME>
+<PI_FULL_NAME>Gary F Gerard</PI_FULL_NAME>
+<EmailAddress>ggerard@transgenomic.com</EmailAddress>
+<PI_PHON>2406312001</PI_PHON>
+<NSF_ID>000506412</NSF_ID>
+<StartDate>11/13/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Transgenomic, Inc.</Name>
+<CityName>Omaha</CityName>
+<ZipCode>681644268</ZipCode>
+<PhoneNumber>4024525400</PhoneNumber>
+<StreetAddress>12325 Emmet Street</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<StateCode>NE</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NE02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Transgenomic, Inc.]]></Name>
+<CityName>Omaha</CityName>
+<StateCode>NE</StateCode>
+<ZipCode>681644268</ZipCode>
+<StreetAddress><![CDATA[12325 Emmet Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NE02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1167</Code>
+<Text>MULTIDISCIPLINARY BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9107</Code>
+<Text>BIOELECTRONICS AND BIONETWORKS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~99353</FUND_OBLG>
+</Award>
+</rootTag>

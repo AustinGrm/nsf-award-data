@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Experiments on Gravity- and Wind-Driven Droplet Stability and Motion on Rough Surfaces]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>166000.00</AwardTotalIntnAmount>
+<AwardAmount>166000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Horst Henning Winter</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[CBET - 0828469  &lt;br/&gt;White, Edward B.  &lt;br/&gt;&lt;br/&gt;Liquid droplets on solid surfaces can remain fixed to the surface, run down the surface due to gravity or run along the surface due to external air flow. Models exist for droplet stability to gravity forcing as do some low-Reynolds-number simulations of stability to wind forcing. These models have received little experimental validation due to the difficulty of measurements needed for model validation and contact angle variation, particularly on rough surfaces. To address this shortcoming, a new measurement technique has been developed that reveals a droplet's interface shape and contact angles by tracking the refraction of a laser speckle pattern across the liquid/gas interface from top-view images. This technique will determine how contact angles are affected by roughness amplitudes and distributions on common engineering metals. It will also determine the accuracy of existing models of droplets' static stability to gravity forcing and how it differs from wind-driven droplets. These questions are being addressed through a systematic program of measurements of distilled-water droplets on rough metal surfaces, droplets on inclined surfaces and measurements of wind-driven droplets on inclined surfaces just below critical inclination angles. Wetting and shedding of liquids from surfaces affect numerous areas of technology from manufacturing processes to aircraft icing. Beyond its broad technological impacts, the work will provide ample opportunities for undergraduate research participation.]]></AbstractNarration>
+<MinAmdLetterDate>07/20/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/20/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0828469</AwardID>
+<Investigator>
+<FirstName>Edward</FirstName>
+<LastName>White</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Edward B White</PI_FULL_NAME>
+<EmailAddress><![CDATA[ebw@tamu.edu]]></EmailAddress>
+<NSF_ID>000269560</NSF_ID>
+<StartDate>07/20/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M Engineering Experiment Station</Name>
+<CityName>COLLEGE STATION</CityName>
+<ZipCode>778433124</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress>3124 TAMU</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX17</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QD1MX6N5YTN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A&amp;M ENGINEERING EXPERIMENT STATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QD1MX6N5YTN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&amp;M Engineering Experiment Station]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>778433124</ZipCode>
+<StreetAddress><![CDATA[3124 TAMU]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1443</Code>
+<Text>FD-Fluid Dynamics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>051E</Code>
+<Text>Interfacial trans &amp; thermodynamic</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~166000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CCLI: First course in nanoelectronics for engineers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>149981.00</AwardTotalIntnAmount>
+<AwardAmount>149981</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Susan Finger</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Engineering - Electrical (55)&lt;br/&gt;&lt;br/&gt;This project is developing new course materials to teach quantum mechanics to junior engineering students.   The course materials include course lectures, laboratory experiments and a textbook.   The materials are being developed using a bottom-up approach that begins with the analysis of quantum dots and then moves on to two-dimensional and three-dimensional quantum objects.   The new course utilizes some educational materials in nanoscience and nanoelectronics developed under the NSF Nanotechnology Undergraduate Education program.   The new course is designed such that it could replace the third physics course that is common in electrical engineering curricula.   The course also serves as a gateway to senior level elective courses in nanoelectronics and related areas.  The project includes a detailed formative and summative evaluation plan led by an independent evaluator.    The evaluation plan is designed to assess the quality of the materials being developed and their impact on student learning.    The course and lab materials are being disseminated through conferences and a web site.   The project includes outreach to high schools through an established summer workshops for high school students program.]]></AbstractNarration>
+<MinAmdLetterDate>05/05/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>05/05/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0837670</AwardID>
+<Investigator>
+<FirstName>Athos</FirstName>
+<LastName>Petrou</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Athos Petrou</PI_FULL_NAME>
+<EmailAddress><![CDATA[petrou@buffalo.edu]]></EmailAddress>
+<NSF_ID>000290102</NSF_ID>
+<StartDate>05/05/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Vladimir</FirstName>
+<LastName>Mitin</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vladimir V Mitin</PI_FULL_NAME>
+<EmailAddress><![CDATA[vmitin@buffalo.edu]]></EmailAddress>
+<NSF_ID>000327485</NSF_ID>
+<StartDate>05/05/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xiufeng</FirstName>
+<LastName>Liu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiufeng Liu</PI_FULL_NAME>
+<EmailAddress><![CDATA[xliu5@buffalo.edu]]></EmailAddress>
+<NSF_ID>000154005</NSF_ID>
+<StartDate>05/05/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gottfried</FirstName>
+<LastName>Strasser</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gottfried Strasser</PI_FULL_NAME>
+<EmailAddress><![CDATA[gs48@buffalo.edu]]></EmailAddress>
+<NSF_ID>000496895</NSF_ID>
+<StartDate>05/05/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY at Buffalo</Name>
+<CityName>AMHERST</CityName>
+<ZipCode>142282577</ZipCode>
+<PhoneNumber>7166452634</PhoneNumber>
+<StreetAddress>520 LEE ENTRANCE STE 211</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY26</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LMCJKRFW5R81</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>GMZUKXFDJMA9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SUNY at Buffalo]]></Name>
+<CityName>AMHERST</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>142282577</ZipCode>
+<StreetAddress><![CDATA[520 LEE ENTRANCE STE 211]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY26</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0409</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000910DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>1300CYXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~149981</FUND_OBLG>
+</Award>
+</rootTag>

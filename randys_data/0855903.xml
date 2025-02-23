@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Nonlinear Stability and Instability of Fluid and Plasma Equilibria</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/18/2008</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>26414.00</AwardTotalIntnAmount>
+<AwardAmount>26414</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michael Steuerwalt</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>     The investigator studies the stability and instability of&lt;br/&gt;equilibria in fluids and plasmas, focusing on the two-dimensional&lt;br/&gt;Euler equation in fluids and on Vlasov systems in plasma physics&lt;br/&gt;and stellar dynamics.  He aims to develop general methods of&lt;br/&gt;finding linearly growing modes (especially for asymmetric modes&lt;br/&gt;and boundary modes), to investigate nonlinear stability under&lt;br/&gt;sharp linear stability criteria and for non-monotonic equilibria&lt;br/&gt;that cannot be handled by the usual energy-Casimir method, and to&lt;br/&gt;establish nonlinear instability from linear instability when the&lt;br/&gt;particle trajectory is non-integrable. &lt;br/&gt;&lt;br/&gt;     A plasma is a gas composed of particles, each carrying a&lt;br/&gt;positive or negative electrical charge, with approximately equal&lt;br/&gt;concentrations of each charge.  Most of the universe is plasma;&lt;br/&gt;examples include the solar wind, the ionosphere, galactic nebulae,&lt;br/&gt;and comet tails.  Plasmas also arise in physics and engineering,&lt;br/&gt;for instance in nuclear fusion.  The investigator studies the&lt;br/&gt;stability and instability of equilibria in fluids and plasmas. &lt;br/&gt;Mathematical advances here enhance our understanding of the&lt;br/&gt;physical mechanisms that govern stability and instability, and so&lt;br/&gt;can lead to better numerical methods for simulations of these&lt;br/&gt;complex phenomena.  Fluid stability is important in understanding&lt;br/&gt;the mechanisms of ocean waves and the movements of the atmosphere&lt;br/&gt;as well as in engineering applications.  Questions of plasma&lt;br/&gt;stability arise in areas as diverse as sunspots, fundamental&lt;br/&gt;plasma physics, the design of fusion machines, and plasma display&lt;br/&gt;devices.</AbstractNarration>
+<MinAmdLetterDate>09/30/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/30/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855903</AwardID>
+<Investigator>
+<FirstName>Zhiwu</FirstName>
+<LastName>Lin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zhiwu Lin</PI_FULL_NAME>
+<EmailAddress>zlin@math.gatech.edu</EmailAddress>
+<PI_PHON>4048949232</PI_PHON>
+<NSF_ID>000111066</NSF_ID>
+<StartDate>09/30/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 NORTH AVE NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<FUND_OBLG>2005~26414</FUND_OBLG>
+</Award>
+</rootTag>

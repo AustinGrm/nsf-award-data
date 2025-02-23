@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: A Diagnostic and Modeling Investigation of Pulsed PECVD]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>226697.00</AwardTotalIntnAmount>
+<AwardAmount>226697</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Arvind Atreyae Atreya</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[CBET-0829003&lt;br/&gt;Raja&lt;br/&gt;&lt;br/&gt;The goal of this collaborative research project is to develop a fundamental understanding of pulsed plasma-enhanced chemical vapor deposition (PECVD) through a synergistic combination of advanced diagnostics and high-performance computer simulations.  Low-frequency modulation of plasma power is critical to processes such as pulsed PECVD and plasma-enhanced atomic layer deposition (PE-ALD). These advanced deposition techniques impart nm-level control over thickness and composition that is critical to advancing nanotechnology. In particular, pulsed PECVD is being applied to oxide structures that have numerous applications as high-performance dielectrics, optical components, and diffusion barriers. However, process development is completely empirical at present. &lt;br/&gt;Time-resolved Langmuir probe, impedance spectroscopy, and emission spectroscopy will be coupled to state-of-the-art modeling in order to provide fundamental insights into the dynamics controlling the plasma chemistry in these systems. In pulsed PECVD the role of both neutrals (fluid flow, transport phenomena, gas- and surface chemistry) and activated species (ion, electrons, metastables) are of comparable importance. Coupled to the transient nature of the process, this challenging problem will require the development of novel techniques to both ensure high-fidelity measurements and to design tractable computational models.  &lt;br/&gt;The modeling challenges will be addressed through transformative approaches to accelerate computations for plasma simulations with large number of species and chemical reactions. A shared-memory, data-parallel computing approach will be used to address plasma-simulation problems that typically have moderate-sized meshes but large degrees of freedom resulting from the large number of species and reactions. The systematic approach used to address this complex problem posed by pulsed PECVD will provide fundamental insight into both PE-ALD and conventional PECVD. &lt;br/&gt;The broader impacts of this work will also include the training of two PhD candidates and the engagement of undergraduate researchers in areas of great technological importance in a unique interdisciplinary environment.  One student will focus on plasma modeling and simulation, while the second develops expertise in plasma diagnostics and deposition. These students, along with undergraduate REU participants, will work together in developing an integrated platform for the analysis of pulsed PECVD. The co-PIs will participate in established faculty outreach programs directed at underrepresented groups at the University of Texas Austin and Colorado School of Mines, working together to develop K-12 educational modules. They will also collaborate to develop and improve a graduate elective course on plasma processing.]]></AbstractNarration>
+<MinAmdLetterDate>07/09/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0829003</AwardID>
+<Investigator>
+<FirstName>Laxminarayan</FirstName>
+<LastName>Raja</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Laxminarayan L Raja</PI_FULL_NAME>
+<EmailAddress><![CDATA[lraja@mail.utexas.edu]]></EmailAddress>
+<NSF_ID>000492472</NSF_ID>
+<StartDate>07/09/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1407</Code>
+<Text>CFS-Combustion &amp; Fire Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>062E</Code>
+<Text>Plasma-assisted combustion</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7752</Code>
+<Text>CDI NON SOLICITED RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~226697</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SGER: Accessing climate- and lake-monitoring equipment, southern Alaska]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>13986.00</AwardTotalIntnAmount>
+<AwardAmount>13986</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Filmer</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This small grant will provide urgently needed access to remote climate- and lake-monitoring equipment currently installed in southern Alaska in order to maintain a continuous stream of data and samples for climate-change research. The stations were installed as part of previous NSF-sponsored research. &lt;br/&gt;&lt;br/&gt;This grant will allow continued collection of time-series data from a set of three remote Alaskan lakes. Sediment trap, temperature logger, and precipitation records will be collected from stations already in place, and annual photographs of glacier retreat will be updated. The lakes exhibit annual layering in varves which can be accurately correlated with meteorological records - this opportunity is extremely rare in Alaska, and would be compromised if the data collection were interrupted. Constraining how known weather is recorded in young lake sediments will allow a more accurate interpretation of deep layers of older sediments, and allow better reconstructions of older climate conditions.&lt;br/&gt;&lt;br/&gt;Intellectual merit: A primary goal of paleoclimate research is to reduce the uncertainties in reconstructing quantitative paleoclimate records based on lake-sediment proxies by combining limnological/meteorological time series with paleolimnological time series. Access to three climate- and lake-monitoring sites in summer 2008 is critically needed to extend the time series to improve understanding of the rapid environmental changes occurring in the region today. As the time-series grows, so does the potential of a transformative advance in using lacustrine sedimentary records to reconstruct past climatic changes.&lt;br/&gt;&lt;br/&gt;Broader impacts: All of the data obtained through this study will be made available on the "Climatic Records from Alaska in Southern Alaska" website (http://jan.ucc.nau.edu/~dsk5/S_AK/).]]></AbstractNarration>
+<MinAmdLetterDate>04/01/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/01/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0820363</AwardID>
+<Investigator>
+<FirstName>Darrell</FirstName>
+<LastName>Kaufman</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Darrell S Kaufman</PI_FULL_NAME>
+<EmailAddress><![CDATA[Darrell.Kaufman@nau.edu]]></EmailAddress>
+<NSF_ID>000464202</NSF_ID>
+<StartDate>04/01/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northern Arizona University</Name>
+<CityName>Flagstaff</CityName>
+<ZipCode>860117034</ZipCode>
+<PhoneNumber>9285230886</PhoneNumber>
+<StreetAddress>601 S KNOLES DR</StreetAddress>
+<StreetAddress2><![CDATA[ROOM 220]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MXHAS3AKPRN1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHERN ARIZONA UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northern Arizona University]]></Name>
+<CityName>Flagstaff</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>860117034</ZipCode>
+<StreetAddress><![CDATA[601 S KNOLES DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1577</Code>
+<Text>GLOBAL CHANGE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1304</Code>
+<Text>EARTH SYSTEM HISTORY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9237</Code>
+<Text>SMALL GRANTS-EXPLORATORY RSRCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~13986</FUND_OBLG>
+</Award>
+</rootTag>

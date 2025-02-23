@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STTR Phase I:  RF-System and Integrated Electronics for Low-Cost Smart Antenna Arrays</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>149973.00</AwardTotalIntnAmount>
+<AwardAmount>149973</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Juan E. Figueroa</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Technology Transfer Phase I project explores the possibility of designing beam steering base-station quality smart antennas using low-cost cell-phone quality electronics. The team is proposing a unique system approach leveraging the latest advances in radio-frequency integrated circuits and signal synchronization technology. If validated, the proposed method will enable the introduction of performance levels previously available only to expensive military systems to cost sensitive commercial wireless networks. This includes increased capacity for almost any standard, longer communication range, lower power dissipation, and better reliability. Applied to antenna arrays with a large number of elements, the proposed solution is suitable for low-cost high-quality beam-steering systems required in space-division multiplexing. Another advanced application is in conformal antenna arrays, useful in concealing the ever-growing wireless infrastructure. The phase I work of this proposal will answer essential feasibility questions such as system partitioning and key integrated circuit functionality. In addition, it will carry out the preparatory calculations and design for building a low-cost beam-steering antenna demonstration using a future experimental integrated circuit. &lt;br/&gt;&lt;br/&gt;If proposed effort is successful a de facto platform technology for low cost ubiquitous beam-steering antenna arrays will emerge. This will open a new large market for specialized integrated circuits serving this new application. In addition to communication and military systems, active arrays are useful in medical and industrial imaging. The availability of a low-cost beam steering system solution will affect these areas significantly. For example, portable scanning equipment may become affordable and more prevalent. Phased array technology is largely an understood topic outside a small group of specialists, yet this old concept has a great potential in modern applications.</AbstractNarration>
+<MinAmdLetterDate>05/01/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/01/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0810423</AwardID>
+<Investigator>
+<FirstName>Mihai</FirstName>
+<LastName>Banu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME>Dr.</PI_SUFX_NAME>
+<PI_FULL_NAME>Mihai Banu</PI_FULL_NAME>
+<EmailAddress>mihaibanu@ieee.org</EmailAddress>
+<PI_PHON>9084646893</PI_PHON>
+<NSF_ID>000148740</NSF_ID>
+<StartDate>05/01/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>MHI Consulting LLC</Name>
+<CityName>New Providence</CityName>
+<ZipCode>079741227</ZipCode>
+<PhoneNumber>9084646893</PhoneNumber>
+<StreetAddress>22 Sulfrian Road</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>10027</ZipCode>
+<StreetAddress><![CDATA[202 LOW LIBRARY 535 W 116 ST MC]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY15</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; DEVICE TEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7257</Code>
+<Text>APPLICATS OF ADVANCED TECHNOLS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9139</Code>
+<Text>INFORMATION INFRASTRUCTURE &amp; TECH APPL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~149973</FUND_OBLG>
+</Award>
+</rootTag>

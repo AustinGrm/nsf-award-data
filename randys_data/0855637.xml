@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[High Energy Physics Research at CMS and D-Zero Collider Experiments]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>910000.00</AwardTotalIntnAmount>
+<AwardAmount>910000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Saul Gonzalez</SignBlockName>
+<PO_EMAI>sgonzale@nsf.gov</PO_EMAI>
+<PO_PHON>7032922093</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[ABSTRACT&lt;br/&gt;&lt;br/&gt;This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5). It will fund the research work of the High Energy Group at the State University of New York at Buffalo. The group main research activities are on the D0 experiment at the Tevatron, the CMS experiment at LHC, and the outreach program through QuarkNet.&lt;br/&gt;The research program plans to initially investigate the production of Standard Model processes and than to search for the Higgs particles at the CMS experiment. The background processes are important to themselves as they provide crucial test of the Standard Model in areas least explored so far. The group will continue its participation in the Forward Pixel Detector project. This participation should allow postdocs and graduate students to acquire a balanced education by combining activities of data analyses and detector commissioning and operation. &lt;br/&gt;The D0 detector has recorded in excess of 4fb-1 of data to date and is expected to substantially increase the integrated luminosity in the coming years. The goal of the proposed research program with D0 is to study Z decay to bbar and ZZ production processes.  These analyses will greatly benefit from the increased dataset and well calibrated and understood detector.&lt;br/&gt;&lt;br/&gt;As for broader impact the research program will be fostering collaboration between the State University of New York at Buffalo group members, high school teachers and their students. They open up possibilities for these non-traditional participants to come in close contact with fundamental research at the frontiers of science.]]></AbstractNarration>
+<MinAmdLetterDate>06/05/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/05/2009</MaxAmdLetterDate>
+<ARRAAmount>910000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855637</AwardID>
+<Investigator>
+<FirstName>Ia</FirstName>
+<LastName>Iashvili</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ia Iashvili</PI_FULL_NAME>
+<EmailAddress><![CDATA[iashvili@buffalo.edu]]></EmailAddress>
+<NSF_ID>000314319</NSF_ID>
+<StartDate>06/05/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Avtandyl</FirstName>
+<LastName>Kharchilava</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Avtandyl Kharchilava</PI_FULL_NAME>
+<EmailAddress><![CDATA[avto@buffalo.edu]]></EmailAddress>
+<NSF_ID>000307879</NSF_ID>
+<StartDate>06/05/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY at Buffalo</Name>
+<CityName>AMHERST</CityName>
+<ZipCode>142282577</ZipCode>
+<PhoneNumber>7166452634</PhoneNumber>
+<StreetAddress>520 LEE ENTRANCE STE 211</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY26</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LMCJKRFW5R81</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>GMZUKXFDJMA9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SUNY at Buffalo]]></Name>
+<CityName>AMHERST</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>142282577</ZipCode>
+<StreetAddress><![CDATA[520 LEE ENTRANCE STE 211]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY26</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1221</Code>
+<Text>HEP-High Energy Physics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~910000</FUND_OBLG>
+</Award>
+</rootTag>

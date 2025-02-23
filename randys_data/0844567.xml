@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Facile routes to multinuclear metal phosphonates and phosphinates: New materials with diverse functions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>345000.00</AwardTotalIntnAmount>
+<AwardAmount>345000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090005</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Timothy Patten</SignBlockName>
+<PO_EMAI>tpatten@nsf.gov</PO_EMAI>
+<PO_PHON>7032927196</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).  The Inorganic, Bioinorganic and Organometallic Chemistry Program supports the research of Professor Anne Richards of Texas Christian University for the study of novel, functionalized phosphonic and phosphinic acids.  These new compounds are employed in the systematic exploration of oligo- and polymeric main group metal phosphonates, bimetallic phosphonates and related phosphinates.  Professor Richards' graduate and undergraduate students work to understand the role of the metal phosphinates, arsonates and heterometallic materials in a large range of applications from single molecule magnets to catalysts, gas absorbers, and photoluminescent materials.  Collaborations with scientists at Georgetown University and Monash University in Australia aid in the characterization of the new materials.  Professor Richards also mentors a high school chemistry teacher and is a faculty advisor to the TCU Chemistry Club, which has an outreach program to high school seniors.]]></AbstractNarration>
+<MinAmdLetterDate>07/23/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>04/06/2010</MaxAmdLetterDate>
+<ARRAAmount>345000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0844567</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Neilson</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert H Neilson</PI_FULL_NAME>
+<EmailAddress><![CDATA[R.Neilson@tcu.edu]]></EmailAddress>
+<NSF_ID>000215690</NSF_ID>
+<StartDate>04/06/2010</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anne</FirstName>
+<LastName>Richards</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anne Richards</PI_FULL_NAME>
+<EmailAddress><![CDATA[a.richards@tcu.edu]]></EmailAddress>
+<NSF_ID>000486340</NSF_ID>
+<StartDate>07/23/2009</StartDate>
+<EndDate>04/06/2010</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas Christian University</Name>
+<CityName>FORT WORTH</CityName>
+<ZipCode>761290001</ZipCode>
+<PhoneNumber>8172577516</PhoneNumber>
+<StreetAddress>3101 BELLAIRE DRIVE NORTH</StreetAddress>
+<StreetAddress2><![CDATA[SUITE 3200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MJCLFGKGULP5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS CHRISTIAN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas Christian University]]></Name>
+<CityName>FORT WORTH</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>761290001</ZipCode>
+<StreetAddress><![CDATA[3101 BELLAIRE DRIVE NORTH]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1966</Code>
+<Text>SYNTHETIC INORGANIC</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>AMPP</Code>
+<Text>ADVANCED MATERIALS &amp; PROCESSING PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~345000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EMT/NANO: Computing with Protein Based Associative Memory Processors]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>749999.00</AwardTotalIntnAmount>
+<AwardAmount>749999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mitra Basu</SignBlockName>
+<PO_EMAI>mbasu@nsf.gov</PO_EMAI>
+<PO_PHON>7032928649</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[EMT jNANO: Computing with Protein-Based Associative Memory Processors&lt;br/&gt;&lt;br/&gt;Abstract: The promise of new architectures and more cost-effective miniaturization has prompted interest in molecular computing. One such architecture is based on the development of associative memory processors using appropriate proteins. Prototypes of this architecture are currently in use for applications such as fingerprinting and image matching. The.commercial success and future development of protein-based associative memory processors (PBAMPs) hinges, to a large part, on expanding the realm of successful applications. No systematic study of the capabilities and limitations of these processors has been conducted especially in relation to the digital computers. In this project the investigators take up this study.&lt;br/&gt;Present day computational algorithms are limited in part by the lack of optimal memory architectures. While serial memories have been highly optimized, memories which provide associative access are both expensive and provide only modest data storage capacity. Protein¬based memory architectures provide for both large scale (three-dimensional) storage as well as associative processing. The bacteriorhodopsin protein with its unique light-activated photocycle, nanoscale size, and natural resistance to harsh environmental conditions, provides for protein-based memories that have a comparative advantage over magnetic and optical data storage devices. Protein based memory matrices are reusable and eco-friendly. In addition, the bacteriorhodopsin protein exhibits increased thermal, chemical and photochromic stability. Protein storage devices are capable of storing large amounts of data (1011_1013 bits) in a small volume of the memory medium. Bacteriorhodopsin-based storage media are portable, radiation-hardened, waterproof, and EMP-resistant. In this project advances will be made in optimizing protein based memories as well.]]></AbstractNarration>
+<MinAmdLetterDate>09/11/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/11/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0829916</AwardID>
+<Investigator>
+<FirstName>Vipin</FirstName>
+<LastName>Kumar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vipin Kumar</PI_FULL_NAME>
+<EmailAddress><![CDATA[kumar001@umn.edu]]></EmailAddress>
+<NSF_ID>000359967</NSF_ID>
+<StartDate>09/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sartaj</FirstName>
+<LastName>Sahni</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sartaj K Sahni</PI_FULL_NAME>
+<EmailAddress><![CDATA[sahni@cise.ufl.edu]]></EmailAddress>
+<NSF_ID>000126089</NSF_ID>
+<StartDate>09/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Birge</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert R Birge</PI_FULL_NAME>
+<EmailAddress><![CDATA[rbirge@uconn.edu]]></EmailAddress>
+<NSF_ID>000154923</NSF_ID>
+<StartDate>09/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sanguthevar</FirstName>
+<LastName>Rajasekaran</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sanguthevar Rajasekaran</PI_FULL_NAME>
+<EmailAddress><![CDATA[rajasek@engr.uconn.edu]]></EmailAddress>
+<NSF_ID>000096825</NSF_ID>
+<StartDate>09/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Connecticut</Name>
+<CityName>STORRS</CityName>
+<ZipCode>062691133</ZipCode>
+<PhoneNumber>8604863622</PhoneNumber>
+<StreetAddress>438 WHITNEY RD EXTENSION UNIT 11</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WNTPS995QBM7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CONNECTICUT</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D9SNFDRCW3W7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Connecticut]]></Name>
+<CityName>STORRS</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>062691133</ZipCode>
+<StreetAddress><![CDATA[438 WHITNEY RD EXTENSION UNIT 11]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1640</Code>
+<Text>Information Technology Researc</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7353</Code>
+<Text>EMERGING MODELS &amp; TECHNOLOGIES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~749999</FUND_OBLG>
+</Award>
+</rootTag>

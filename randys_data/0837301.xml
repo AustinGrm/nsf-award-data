@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Paradigms in Physics: Creating and Testing Materials to Facilitate Dissemination of the Energy and Entropy Module</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>33299.00</AwardTotalIntnAmount>
+<AwardAmount>33299</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard W. Peterson</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>&lt;br/&gt;Physics(13) &lt;br/&gt;&lt;br/&gt;Topics in statistical and thermal physics have long been problematic in the undergraduate curriculum.   To many students, the subject matter is abstract and theoretical and often requires mathematical tools they lack.  This project addresses the challenge of teaching upper-division thermal and statistical mechanics by building on the Energy and Entropy (E&amp;E) paradigm developed through the Paradigms in Physics Project at Oregon State University and a physics education research project at the University of Maine.  E&amp;E takes a radically different approach to statistical mechanics, incorporating the issues of quantum mechanics and measurement at its core and focusing on entropy as the Principle of Least Bias.  In the approach, thermodynamic systems are treated as large, i.e. macroscopic, quantum systems that are not perfectly isolated from the remainder of the universe.  This external interaction has enormous consequences that when taken into account clarifies thermodynamics' substance, with thermal variables now understood as macroscopic quantum averages and thermal probabilities as macroscopic quantum probabilities.  An entropy postulate then plays the ultimate and crucial role of match maker in this marriage.  As part of the current project, E&amp;E curricular materials are being further refined and the materials are being field tested at Oregon State University and at collaborator sites at Ithaca College and Pacific University, a detailed instructor's manual is being prepared, and an education research project is being conducted to examine the efficacy of the approach and materials in supporting student learning of these concepts in advanced courses.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>02/11/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>02/11/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0837301</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Rogers</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael Rogers</PI_FULL_NAME>
+<EmailAddress>michael.b.rogers@ucdenver.edu</EmailAddress>
+<PI_PHON>3033157392</PI_PHON>
+<NSF_ID>000050248</NSF_ID>
+<StartDate>02/11/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Ithaca College</Name>
+<CityName>ITHACA</CityName>
+<ZipCode>148507000</ZipCode>
+<PhoneNumber>6072741206</PhoneNumber>
+<StreetAddress>953 DANBY RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>23</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY23</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M8XYTNN1REF1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ITHACA COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M8XYTNN1REF1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Ithaca College]]></Name>
+<CityName>ITHACA</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>148507000</ZipCode>
+<StreetAddress><![CDATA[953 DANBY RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>23</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY23</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0409</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000910DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>1300CYXXDB</Code>
+<Name><![CDATA[H-1B FUND, EHR, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~33299</FUND_OBLG>
+</Award>
+</rootTag>

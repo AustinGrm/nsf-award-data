@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SGER: Exploratory Research: Integration of Multiscale Nanowire Devices and their Thermoelectrical Characterization]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>59856</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Charalabos C. Doumanidis</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The main goal of this project is to realize the fabrication of multiscale electric devices based on conducting nanowires and their characterization by using nanomanufacturing principles such as self-assembly, dielectrophoresis, and focused ion beam nanolithography. The objectives include the following tasks:&lt;br/&gt;(a) hierarchical integration of nanowires into multiscale electric devices, and&lt;br/&gt;(b) characterization of individual nanowires in terms of Seebeck coefficient and thermal conductivity.&lt;br/&gt;The self-assembly technique and dielectrophoresis will be combined to control individual nanowires and attract them into desired pairs of microelectrodes. Fountain pen-based metal nanoink soldering or electron-beam metal deposition techniques will be adapted to enhance the conductivity between metal electrodes and nanowires. Focused ion beam will be used to define a nanostructure such as nanoheater/nanothermometer for aiding the characterization of individual nanowires. &lt;br/&gt;&lt;br/&gt;The importance of the of the proposed work lies in the fact that the investigation of thermal and electric properties of nanowires will provide a fundamental database for thermoelectric devices, which in turn contributes to developing alternative energy sources. The proposed integration method will provide a practical means for nanomanufacturing massive and multiscale nanowire-based thermoelectric devices. The proposed work yields significant information on the Seebeck and Peltier coefficients of one-dimensional nanostructures. The research outcomes of nanomanufacturing and properties of nanomaterials investigated in the project will contribute to establishing a new research and education program in the recently established Mechanical and Energy Engineering Department at the University of North Texas. A systematic effort will be made to recruit minorities to this research project through the Texas Academy of Mathematics and Science program. Talented undergraduate students with a high degree of financial need in this program are ensured of success as they are engaged in the various research experiences proposed herein. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/20/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>10/05/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0841265</AwardID>
+<Investigator>
+<FirstName>Tae-Youl</FirstName>
+<LastName>Choi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tae-Youl Choi</PI_FULL_NAME>
+<EmailAddress><![CDATA[tae-youl.choi@unt.edu]]></EmailAddress>
+<NSF_ID>000490432</NSF_ID>
+<StartDate>08/20/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Texas</Name>
+<CityName>DENTON</CityName>
+<ZipCode>762035017</ZipCode>
+<PhoneNumber>9405653940</PhoneNumber>
+<StreetAddress>1155 UNION CIR #305250</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX26</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G47WN1XZNWX9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NORTH TEXAS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>WXELJHR4N3S6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of North Texas]]></Name>
+<CityName>DENTON</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>762035017</ZipCode>
+<StreetAddress><![CDATA[1155 UNION CIR #305250]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX26</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1788</Code>
+<Text>NANOMANUFACTURING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>084E</Code>
+<Text>NANOMANUFACTURING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~59856</FUND_OBLG>
+</Award>
+</rootTag>

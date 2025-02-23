@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Dynamic Device for the Treatment of Stress Urinary Incontinence</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>99366</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research Phase I project is devoted to the development and testing of a novel biomedical implant to better treat stress urinary incontinence (SUI) - the most common type of incontinence affecting more than 12 million Americans. SUI is a complex and multifactorial disease that has a major impact on a person's physiological and psychological wellness. The objective of this Phase I plan is to demonstrate technical feasibility of Cûrant's DRD (Dynamic Response Device) by performing pre-clinical testing, advancing DRD-prototype designs, and completing a risk-reduced design specification. The DRD is a novel treatment for SUI that will be the first product to offer a universal, and more effective, solution to this multifactorial problem. In addition, development of the DRD will lead to a broader acceptance and understanding of the complexity of SUI in both men and women. Cûrant is led by a balanced team of engineers and physicians with outstanding access to industry expertise throughout the bay area's med-tech community. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research Phase I project will address a major deficiency in the understanding, acceptance and treatment of urinary incontinence - the involuntary leakage of urine. Urinary incontinence is one of the most common chronic ailments facing Americans. According to the National Association for Continence (NAFC), over 25 million people are affected by some form of urinary incontinence. Not surprisingly, this condition is one of the leading causes of individuals losing the ability to live independently and having to enter care facilities. Accordingly, the extended yearly cost of urinary incontinence is estimated at $19.5 billion each year in the United States. The novel biomedical device being developed in this Phase I project - the DRD (Dynamic Response Device) represents a dramatic advance in the understanding of, and approach to, treating the complex, multifactorial, condition of stress urinary incontinence, (the most common type of urinary incontinence). The DRD's ability to simply and mechanically provide a dynamic, therapeutic response more closely resembles natural physiology than any other incontinence device currently available. The implications of this extend beyond urinary incontinence and dynamic technology may eventually be used to address many other complex medical conditions such as glaucoma or gastroesophageal reflux disease.</AbstractNarration>
+<MinAmdLetterDate>04/30/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>11/17/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0810826</AwardID>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Vecchiotti</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Richard G Vecchiotti</PI_FULL_NAME>
+<EmailAddress>info@curant-medical.com</EmailAddress>
+<PI_PHON>4085411730</PI_PHON>
+<NSF_ID>000168439</NSF_ID>
+<StartDate>04/30/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Curant, Inc.</Name>
+<CityName>Sunnyvale</CityName>
+<ZipCode>940891005</ZipCode>
+<PhoneNumber>4085411730</PhoneNumber>
+<StreetAddress>1366 Bordeaux Drive</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA17</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Curant, Inc.]]></Name>
+<CityName>Sunnyvale</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>940891005</ZipCode>
+<StreetAddress><![CDATA[1366 Bordeaux Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1167</Code>
+<Text>MULTIDISCIPLINARY BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1491</Code>
+<Text>BIOTECH, BIOCHEM &amp; BIOMASS ENG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; DEVICE TEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~99366</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Parallel-on-Demand  --- A Broad Purpose 3D-Integrated Performance Acceleration Layer for General Purpose Processors</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>255000.00</AwardTotalIntnAmount>
+<AwardAmount>255000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Hong Jiang</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>With the continuing trend of shrinking feature size and advances in process technology, it would be feasible to integrate 10 to 100 billion transistors on a chip in near future. Nevertheless, one fundamental physical limit, power consumption, must be addressed to enable such trend. Power is no longer a desirable feature but an actual design constraint in making future many-core processor systems practical.  On the other hand, emerging process technologies such as 3D die stacking enables a new dimension of integration and provides new opportunities for improving bandwidth, latency, and power.  Given such design constraints and new opportunities, the current symmetric, homogeneous multi-core processors integrated in a MIMD manner will be inappropriate as a scalable solution from power- and area-efficiency standpoints despite their reduced implementation effort. In particular, for applications with inherently high data-level parallelism, it is possible to design new architectures that exploit the 3D stacking. &lt;br/&gt; &lt;br/&gt;In this research, a new many-core architecture, called Parallel-On-Demand (POD), will be investigated to exploit the maximum performance for a given die area and energy budget. Instead of using conventional, special-purpose ASIC accelerators, POD integrates a performance acceleration layer (PAL), which is tightly coupled as a separate die layer using 3D die stacking. PAL leverages many ideas learned from massively parallel processors but focuses on modern multi-faceted challenges such as power and area efficiency, on-chip wire delay issues, on-chip interconnects, integration with out-of-order cores, backward/forward compatibility, virtualized resource mapping, and extensibility. A 3D-integrated performance acceleration layer applied as a snap-on feature also makes the entire system flexible, reducing non-recurring engineering cost for different target markets. Moreover, new programming models will be investigated to simplify the interaction between programmers and POD, overall hardware complexity and its ensuing power implications. The success of such 3D on-die many-core architecture will provide a foundation to enable highly scalable computation with substantial energy efficiency, paving the road to Peta-FLOPS computing with minimal resources.</AbstractNarration>
+<MinAmdLetterDate>07/18/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/24/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0811738</AwardID>
+<Investigator>
+<FirstName>Hsien-Hsin</FirstName>
+<LastName>Lee</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hsien-Hsin S Lee</PI_FULL_NAME>
+<EmailAddress>leehs@gatech.edu</EmailAddress>
+<PI_PHON>4048949483</PI_PHON>
+<NSF_ID>000319030</NSF_ID>
+<StartDate>07/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 NORTH AVE NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1640</Code>
+<Text>Information Technology Researc</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>2878</Code>
+<Text>Special Projects - CCF</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7352</Code>
+<Text>COMPUTING PROCESSES &amp; ARTIFACT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~199624</FUND_OBLG>
+<FUND_OBLG>2009~55376</FUND_OBLG>
+</Award>
+</rootTag>

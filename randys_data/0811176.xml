@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MARGINS-SEIZE Workshop - The next decade of the Seismogenic Zone Experiment</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>99977.00</AwardTotalIntnAmount>
+<AwardAmount>99977</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040200</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bilal U. Haq</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This award will fund a workshop in September, 2008, at Timberline Lodge on Mt. Hood, Oregon to assemble a broad range of scientists to examine recent accomplishments of the MARGINS SEIZE program and to assess the way into the next phase of SEIZE. It is nearly 10 years since the initial SEIZE meeting in Hawaii in 1997, and almost 5 years since the last SEIZE meeting at Snowbird, UT in 2003. The MARGINS program approach has been to address key topics at specific reference sites by conducting focused observational, experimental, and theoretical studies and to increase communication and cooperation to advance SEIZE beyond the scope of individual investigations. Workshops play a key role in communicating the results and developing strategies to advance the SEIZE Initiative. This workshop is timely because of the upcoming reassessment of the MARGINS program as part of the MARGINS program renewal process at the end of its first decade.  It is also timely because of recent accomplishments of the SEIZE Initiative. The NanTroSEIZE program has now moved from the drilling program planning phase, into an exciting drilling phase and obtaining the long-awaited results. The Costa Rica margin has now been well characterized through detailed seismicity studies, geodetic studies, fluid flow modeling, and more. &lt;br/&gt;&lt;br/&gt;The workshop will fund approximately 68 US scientists, including students and post-docs, and also for 7 critical keynote speakers from foreign countries (such as Costa Rica and Japan). It is hoped that the workshop will also draw other self-funded participants from foreign countries, many of whom could come from Canada given the close proximity of our meeting to western Canada, and attract participants from other similar programs such as SCEC and SAFOD and enable important cross-fertilization with SEIZE. &lt;br/&gt;&lt;br/&gt;Broader Impacts. Subduction zone settings generate the world?s largest and most devastating earthquakes and tsunamis and the SEIZE program is a major effort to understanding these hazards. The results of SEIZE will have a significant societal impact on assessment of geohazards at the focus sites specifically, and to a general understanding of these hazards around the globe. MARGINS-SEIZE program research has an excellent record of contributing to educate the next generation of Earth Scientists. MARGINS uses results from SEIZE research efforts for course curriculum, and web-based undergraduate teaching modules, through the CCLIfunded Mini-Lesson program. Presentations from this workshop will be an excellent source of educational materials. Part of the workshop will include summaries of SEIZErelated educational efforts, and breakout sessions devoted to developing new Mini-Lessons from SEIZE research results. Another  outcome of the workshop will be a special publication highlighting the first decade of SEIZE results, which will be broadly available.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>03/21/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>03/21/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0811176</AwardID>
+<Investigator>
+<FirstName>Geoffrey</FirstName>
+<LastName>Abers</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Geoffrey A Abers</PI_FULL_NAME>
+<EmailAddress>abers@cornell.edu</EmailAddress>
+<PI_PHON>6072553879</PI_PHON>
+<NSF_ID>000439189</NSF_ID>
+<StartDate>03/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>10027</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>202 LOW LIBRARY 535 W 116 ST MC</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F4N1QNPB95M4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>F4N1QNPB95M4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia University Lamont Doherty Earth Observatory]]></Name>
+<CityName>Palisades</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>10964</ZipCode>
+<StreetAddress><![CDATA[Rt 9W]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0204000</Code>
+<Name>Oceanography</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1620</Code>
+<Text>Marine Geology and Geophysics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5720</Code>
+<Text>OCEAN DRILLING PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~99977</FUND_OBLG>
+</Award>
+</rootTag>

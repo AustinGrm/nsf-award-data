@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I: Do-It-Yourself database-driven web applications from high level specifications</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>128986</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Errol Arkilic</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research (SBIR) Phase I project will lead to a Do-It-Yourself hosted database-driven web application platform that will enable non-programmer business process owners to rapidly build simple custom structured data exchange and workflow applications for their business processes. If successful, the project will lead to the development of a web application specification method and a corresponding system that is: (i) high level, i.e. business process owners only choose options and specify aspects of the application they can easily understand from a business point of view and (ii) sufficiently expressive to allow the specification of the applications needed by the organizations. The project combines the following innovations to achieve (i) and (ii): First, a page-driven/workflow-driven specification method, where the owner specifies only easily understood aspects of the pages of workflow applications. Inference algorithms inspect the evolving application, propose to the user semantically meaningful options and automatically create database schema, queries and pages. &lt;br/&gt;&lt;br/&gt;The applications thus enabled by the effort would afford developers the opportunity to quickly and inexpensively develop a host of applications for the small-to-medium sized businesses that otherwise would be unable to afford custom web-enabled applications.  If successful, a significant market opportunity exists. &lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>12/04/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/01/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839817</AwardID>
+<Investigator>
+<FirstName>Mary</FirstName>
+<LastName>Zoeller</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mary Zoeller</PI_FULL_NAME>
+<EmailAddress>mzoeller@gmail.com</EmailAddress>
+<PI_PHON>8587527167</PI_PHON>
+<NSF_ID>000518556</NSF_ID>
+<StartDate>01/06/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yannis</FirstName>
+<LastName>Papakonstantinou</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yannis G Papakonstantinou</PI_FULL_NAME>
+<EmailAddress>yannis@cs.ucsd.edu</EmailAddress>
+<PI_PHON>8587527167</PI_PHON>
+<NSF_ID>000506741</NSF_ID>
+<StartDate>12/04/2008</StartDate>
+<EndDate>01/06/2009</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>app2you</Name>
+<CityName>San Diego</CityName>
+<ZipCode>921928014</ZipCode>
+<PhoneNumber>8588767656</PhoneNumber>
+<StreetAddress>PO Box 928014</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>52</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA52</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[app2you]]></Name>
+<CityName>San Diego</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>921928014</ZipCode>
+<StreetAddress><![CDATA[PO Box 928014]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>52</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA52</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6850</Code>
+<Text>DIGITAL SOCIETY&amp;TECHNOLOGIES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9139</Code>
+<Text>INFORMATION INFRASTRUCTURE &amp; TECH APPL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~128986</FUND_OBLG>
+</Award>
+</rootTag>

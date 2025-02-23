@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Cosmological evolution and very high energy astrophysics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>40000.00</AwardTotalIntnAmount>
+<AwardAmount>40000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Keith Dienes</SignBlockName>
+<PO_EMAI>kdienes@nsf.gov</PO_EMAI>
+<PO_PHON>7032925314</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5). &lt;br/&gt;&lt;br/&gt;The work on this project will be dedicated to studies of the cosmological evolution of the cosmic ray sources and of the extragalactic light background. It is currently far from obvious which is the best proxy for the cosmological evolution of the UHECR sources since we are not certain what the sources are. The PI will thus attempt to combine the information from different ultra high and very high energy experiments, including (hopefully) the future detection of very high energy neutrinos, and reach conclusions related to cosmological evolution. The PI proposes theoretical work and data analysis that will lead to a better understanding of the cosmological evolution of different types of powerful extragalactic sources and to identification of the sources of ultrahigh energy cosmic rays (UHECR) - the highest energy nuclei in the Universe.  Special attention will be paid to the cosmological evolution of different types of possible sources.  The resolution of this evolution dominates the production of secondary  fluxes of cosmogenic gamma rays and neutrinos from ultra high energy cosmic rays interactions in the universal photon fields. These include the microwave background and the extragalactic background light (EBL) in infrared, optical and UV ranges. EBL plays important role in the production of the cosmogenic fluxes and in the absorption of TeV gamma rays - both cosmogenic ones as well as of those coming from different extragalactic sources. The comparison of the absorption of the gamma rays coming from different sources may reveal the cosmological evolution of EBL that is now being disputed.&lt;br/&gt;The results of the proposed work will yield information about a much wider range of global astrophysical and cosmological parameters which underscores the broader impact of this work. The PI is Co-Director of the Erice International School for Cosmic Rays Astrophysics (ISCRA) and gives lectures there to young scientists. The School meets every two years and has on the average 60 students (graduate students and postdocs) and 12 lecturers.]]></AbstractNarration>
+<MinAmdLetterDate>06/30/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2009</MaxAmdLetterDate>
+<ARRAAmount>40000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855345</AwardID>
+<Investigator>
+<FirstName>Todor</FirstName>
+<LastName>Stanev</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Todor S Stanev</PI_FULL_NAME>
+<EmailAddress><![CDATA[stanev@bartol.udel.edu]]></EmailAddress>
+<NSF_ID>000238594</NSF_ID>
+<StartDate>06/30/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Delaware</Name>
+<CityName>NEWARK</CityName>
+<ZipCode>197160099</ZipCode>
+<PhoneNumber>3028312136</PhoneNumber>
+<StreetAddress>220 HULLIHEN HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<StateCode>DE</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DE00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>T72NHKM259N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF DELAWARE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>T72NHKM259N3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Delaware]]></Name>
+<CityName>NEWARK</CityName>
+<StateCode>DE</StateCode>
+<ZipCode>197160099</ZipCode>
+<StreetAddress><![CDATA[220 HULLIHEN HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DE00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1288</Code>
+<Text>Particle Astrophysics &amp; Cosmol</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~40000</FUND_OBLG>
+</Award>
+</rootTag>

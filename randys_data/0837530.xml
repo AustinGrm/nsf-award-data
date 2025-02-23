@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Infrastructure at the Forefront: Development and Assessment of Two Pilot Courses]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>149979.00</AwardTotalIntnAmount>
+<AwardAmount>149979</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gul Kremer</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Engineering - Civil (54)&lt;br/&gt;&lt;br/&gt;The infrastructure in the United States is aging and in some cases is exceeding its original design capacity. Revitalizing and rebuilding infrastructure will be a significant endeavor in the coming years, yet resources for this work are not unlimited. Knowledge in multi-disciplinary aspects of infrastructure management and the collateral impacts of infrastructure choices will be required for practicing engineers. Through this project two new courses are being developed and rigorously assessed. The first course is aimed at civil engineering undergraduates to help students develop a broad understanding of the issues with regards to improving the infrastructure. The second course is aimed at non-engineering majors to promote understanding of infrastructure needs to the general public. Students enrolled in both courses will work jointly on a project on infrastructure evaluation as part of a service learning component. In addition, an annotated bibliography is being developed with a focus on infrastructure topics including technical aspects, public policy, socio-economic impact, and global competitiveness. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>01/16/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>12/17/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0837530</AwardID>
+<Investigator>
+<FirstName>Philip</FirstName>
+<LastName>Parker</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Philip J Parker</PI_FULL_NAME>
+<EmailAddress><![CDATA[parkerp@uwplatt.edu]]></EmailAddress>
+<NSF_ID>000122892</NSF_ID>
+<StartDate>01/16/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Roberts</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthew W Roberts</PI_FULL_NAME>
+<EmailAddress><![CDATA[mwroberts@suu.edu]]></EmailAddress>
+<NSF_ID>000417949</NSF_ID>
+<StartDate>01/16/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Thompson</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael K Thompson</PI_FULL_NAME>
+<EmailAddress><![CDATA[thompsmi@uwplatt.edu]]></EmailAddress>
+<NSF_ID>000505468</NSF_ID>
+<StartDate>01/16/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Platteville</Name>
+<CityName>PLATTEVILLE</CityName>
+<ZipCode>538183001</ZipCode>
+<PhoneNumber>6083421261</PhoneNumber>
+<StreetAddress>1 UNIVERSITY PLAZA</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EARPJJ6CMFG7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Platteville]]></Name>
+<CityName>PLATTEVILLE</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>538183001</ZipCode>
+<StreetAddress><![CDATA[1 UNIVERSITY PLAZA]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0409</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000910DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~149979</FUND_OBLG>
+</Award>
+</rootTag>

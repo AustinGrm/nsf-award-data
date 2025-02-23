@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Acquisition of a Carbon-Hydrogen-Nitrogen (CHN) Elemental Analyzer for Ecosystem Carbon and Nitrogen Dynamic Research and Training at University of Illinois at Springfield]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>106475.00</AwardTotalIntnAmount>
+<AwardAmount>106475</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Fleischmann</SignBlockName>
+<PO_EMAI>rfleisch@nsf.gov</PO_EMAI>
+<PO_PHON>7032927191</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The National Science Foundation is awarding the University of Illinois at Springfield funds to acquire a Carbon-Hydrogen-Nitrogen (CHN) Elemental Analyzer that will be used for ?hands-on? teaching by Biology, Chemistry and Environmental Science departments on the campus of the University of Illinois at Springfield to generate carbon and nitrogen datasets.  In addition, the instrumentation will facilitate currently funded research projects and research being developed at the University?s Emiquon Field Station located at one of our country?s largest river floodplain restoration sites.  A common element of all projects is determining the carbon and/or nitrogen content in these ecosystems and how it relates to questions of climate change.  Reaching our goal of measuring carbon and nitrogen content will be accomplished using the CHN Elemental Analyzer.&lt;br/&gt;&lt;br/&gt;Student training on instrumentation acquired through this funding will help develop an appreciation of nutrient cycling, as well as develop much needed skills in advanced environmental instrumentation analysis.  In addition, training and research will help provide insights into topics of the effects of global warming and species change on ecosystem carbon and nitrogen dynamics.  Open house events will allow education of the public to the details of how advanced analysis can be connected to pertinent topics of public concern like climate change, restoration ecology and problems with access nutrient (i.e., nitrogen) in our rivers.&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/24/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/24/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0821649</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Lemke</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael J Lemke</PI_FULL_NAME>
+<EmailAddress><![CDATA[lemke.michael@uis.edu]]></EmailAddress>
+<NSF_ID>000333793</NSF_ID>
+<StartDate>08/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hua</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hua Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[hchen40@uis.edu]]></EmailAddress>
+<NSF_ID>000435268</NSF_ID>
+<StartDate>08/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Springfield</Name>
+<CityName>SPRINGFIELD</CityName>
+<ZipCode>627035497</ZipCode>
+<PhoneNumber>2172067409</PhoneNumber>
+<StreetAddress>1 UNIVERSITY PLZ RM 100</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LMKAF2LNJGP6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>Y8CWNJRCNN91</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Springfield]]></Name>
+<CityName>SPRINGFIELD</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>627035497</ZipCode>
+<StreetAddress><![CDATA[1 UNIVERSITY PLZ RM 100]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9184</Code>
+<Text>BIOTECHNOLOGY - INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~106475</FUND_OBLG>
+</Award>
+</rootTag>

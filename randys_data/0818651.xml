@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RIG: Characterization of acd6-1 SUPPRESSOR 3 (SUP3), a Negative Regulator of Arabidopsis Defense]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>175000.00</AwardTotalIntnAmount>
+<AwardAmount>175000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090300</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michael Mishkind</SignBlockName>
+<PO_EMAI>mmishkin@nsf.gov</PO_EMAI>
+<PO_PHON>7032928413</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Plant diseases caused by pathogens are among the greatest deterrents in agriculture worldwide. A network of plant genes perceives and transduces defense signals in response to pathogen infection. However, it remains challenging to identify genes regulating defense and to understand their mechanisms of action. The Arabidopsis mutant acd6-1 is a tiny plant whose size is in reverse proportion to the level of defense. Taking advantage of this unique feature of acd6-1, the investigators developed a facile genetic screen to isolate acd6-1 suppressors (sups) that may have mutations in novel defense genes. Among the genes identified is SUP3, encoding an uncharacterized putative sodium-dependent phosphate transporter widely conserved in plants and animals. The project will focus on investigating the function of SUP3, using genetic and molecular biology-related tools. The expected results will elucidate how SUP3 regulates plant disease resistance and mediates defense signal transduction. Such information will add to the knowledge on the regulatory network of plant defense and provide a potential target to improve disease resistance traits in crop plants. The project will also contribute to broaden the participation of under-represented groups in Biological Sciences. Minority undergraduate and graduate students will be trained in Plant Biology by being directly involved in the proposed research activities. In addition, K-12 science teachers from low performing public schools in the Baltimore area that have high enrollments of minority students will be invited to work in the principal investigator's laboratory in the summer. Such experience will not only enhance the teachers' knowledge of Biological Sciences but also help them to develop more effective science curricula for their students.]]></AbstractNarration>
+<MinAmdLetterDate>07/27/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0818651</AwardID>
+<Investigator>
+<FirstName>Hua</FirstName>
+<LastName>Lu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hua Lu</PI_FULL_NAME>
+<EmailAddress><![CDATA[hualu@umbc.edu]]></EmailAddress>
+<NSF_ID>000492005</NSF_ID>
+<StartDate>07/27/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland Baltimore County</Name>
+<CityName>BALTIMORE</CityName>
+<ZipCode>212500001</ZipCode>
+<PhoneNumber>4104553140</PhoneNumber>
+<StreetAddress>1000 HILLTOP CIR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RNKYWXURFRL5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND BALTIMORE COUNTY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KMGEN62NKEM9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland Baltimore County]]></Name>
+<CityName>BALTIMORE</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212500001</ZipCode>
+<StreetAddress><![CDATA[1000 HILLTOP CIR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7487</Code>
+<Text>BROADENING PARTICIPATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7692</Code>
+<Text>RIG/CAA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~175000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Cutting, Selecting, and Transfer-Printing Technology for Graphene-on-Demand over Entire Wafers and FET Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>280000.00</AwardTotalIntnAmount>
+<AwardAmount>280000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Khershed Cooper</SignBlockName>
+<PO_EMAI>khcooper@nsf.gov</PO_EMAI>
+<PO_PHON>7032927017</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The goals of this research are to (a) develop new ways of placing high-quality few-layer graphene on entire device active areas over a large wafer, by a graphene-on-demand approach that precisely cuts, selects and transfer-prints (GCST) high-quality graphene from graphite onto the wafer, and (b) as a test bed for GCST, scale and develop new graphene FET structures, materials, and fabrication technologies for IC integration. The research is based on the Principal Investigator groups recent successful demonstration of the most critical steps of Principal Investigator groups GCST approach: precisely cutting, exfoliating and transfer-printing (with a stamp) of 3-6 monolayer thick graphene from bulk graphite to device active areas of another substrate; and successful fabrication of high performance FETs using GCST-printed graphene that have FET mobility and on drive current that are among the highest demonstrated. The research also relies on Principal Investigator groups previous extensive work in nanopatterning (including nanoimprinting and transfer-patterning) and nanoscale Si MOSFETs. The research is to further develop these successes and make other innovations that are necessary to achieve the goals.  &lt;br/&gt;&lt;br/&gt;The research will generate new cutting-edge knowledge in new nanofabrication technologies, new materials, and graphene FETs, and will have broad applications in future nanomanufacturing and next generation electronics. Thus, the success of the research will benefit U.S.'s competitiveness in nanotechnology, aid U.S. industry, and will potentially have significant economic impact. The research will train graduate and undergraduate students in the new technology area of nanofabrication and nanoelectronics.]]></AbstractNarration>
+<MinAmdLetterDate>07/11/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0826131</AwardID>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Chou</LastName>
+<PI_MID_INIT>Y</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stephen Y Chou</PI_FULL_NAME>
+<EmailAddress><![CDATA[chou@ee.princeton.edu]]></EmailAddress>
+<NSF_ID>000162043</NSF_ID>
+<StartDate>07/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Princeton University</Name>
+<CityName>PRINCETON</CityName>
+<ZipCode>085442001</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress>1 NASSAU HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NJ1YPQXQG7U5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF PRINCETON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName>PRINCETON</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>085442001</ZipCode>
+<StreetAddress><![CDATA[1 NASSAU HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1788</Code>
+<Text>NANOMANUFACTURING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>084E</Code>
+<Text>NANOMANUFACTURING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~280000</FUND_OBLG>
+</Award>
+</rootTag>

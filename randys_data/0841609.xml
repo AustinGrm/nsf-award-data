@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Resistance and tolerance of aspen to mammalian herbivores:   Costs, benefits and selection in ontogenetic context</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>537701.00</AwardTotalIntnAmount>
+<AwardAmount>537701</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010208</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Saran Twombly</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;Interactions between browsing mammals and trees play key roles in shaping North American forest ecosystems. The nature of these interactions is likely governed by plant defense traits, such as chemical resistance, tolerance, and escape. Although the roles of these integrated defense syndromes have been extensively documented for herbivorous insects, relatively little comparable work has addressed impacts of browsing mammals. Developmental constraints on the efficacy of various defense traits likely differ between insects and mammals. Recent work with aspen (Populus tremuloides) has demonstrated strong developmental variation in resistance, and implicated mammals as instrumental in shaping the expression of defense in this foundation tree species. &lt;br/&gt;This project will investigate the costs, benefits, developmental constraints, and ecological and evolutionary consequences of multivariate defense systems (resistance, tolerance and escape) in aspen against browsing mammals. This work will employ a set of diverse aspen genotypes, grown in common garden studies and subjected to artificial and natural browsing, to determine the degree to which specific chemical compounds confer defense against browsing mammals, assess the costs and benefits of, and potential tradeoffs among, resistance, tolerance and escape in multiple environments, and evaluate the selective impact of browsing on the genetic structure of defense traits in an experimental population. &lt;br/&gt;Aspen is a widely distributed and economically important species in North America. This work should provide new insights and tools relevant to land managers and agencies working to maintain aspen in environments of decline throughout the Intermountain West. This research will also contribute to the training of undergraduate, graduate and postdoctoral students.</AbstractNarration>
+<MinAmdLetterDate>08/18/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/11/2014</MaxAmdLetterDate>
+<ARRAAmount>537701</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0841609</AwardID>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Lindroth</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Richard L Lindroth</PI_FULL_NAME>
+<EmailAddress>richard.lindroth@wisc.edu</EmailAddress>
+<NSF_ID>000395014</NSF_ID>
+<StartDate>08/18/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Kruger</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eric L Kruger</PI_FULL_NAME>
+<EmailAddress>elkruger@facstaff.wisc.edu</EmailAddress>
+<NSF_ID>000386462</NSF_ID>
+<StartDate>08/18/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<StreetAddress2><![CDATA[Suite 6301]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI02</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>161202122</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>041188822</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>537151218</ZipCode>
+<StreetAddress><![CDATA[21 North Park Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1182</Code>
+<Text>POP &amp; COMMUNITY ECOL PROG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1128</Code>
+<Text>POP &amp; COMMUNITY ECOL CLUSTER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~537701</FUND_OBLG>
+</Award>
+</rootTag>

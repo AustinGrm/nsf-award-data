@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research:  Adaptive Maintenance Planning Based on Evolving Residual Life Distributions</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>174468.00</AwardTotalIntnAmount>
+<AwardAmount>174468</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Edwin Romeijn</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This grant provides funding for the development of broadly applicable analytical and statistical tools that determine adaptive maintenance policies for complex systems that deteriorate over time.  In contrast to existing techniques, these new mathematical models will link low-level, sensor-based condition data with high-level maintenance decision making.  In particular, the techniques will determine how often condition-based data should be collected, when repairs or replacements of critical components should take place, and when spare parts should be acquired in anticipation of impending failures.  The resulting policies will be adaptive in nature, meaning that they will revise the timing of maintenance actions based on observed data.  For individual components, Bayesian statistical techniques will be developed to model degradation patterns and the evolving residual life distribution of the component.  At the system level, environmental data will be used to develop versatile stochastic failure models to estimate the system's residual life distribution.  For both cases, Markov decision process models that effectively convert these residual life distributions into cost-optimal, adaptive maintenance policies will be analyzed. Laboratory experiments will be performed to assess the applicability of the techniques to real problems and to validate the models. &lt;br/&gt;&lt;br/&gt;If successful, this research will improve the way that firms translate vast quantities of condition monitoring data into maintenance decisions.  Determining the optimal timing of data collection, repairs and replacements, and spare parts ordering is vital to the maintenance of engineering systems including manufacturing systems, aging infrastructure, aviation systems, and many others.  Performing the right type of maintenance activity at the right time will reduce maintenance costs while improving safety.&lt;br/&gt;&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>08/05/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/05/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0856192</AwardID>
+<Investigator>
+<FirstName>Nagi</FirstName>
+<LastName>Gebraeel</LastName>
+<PI_MID_INIT>Z</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nagi Z Gebraeel</PI_FULL_NAME>
+<EmailAddress>nagi@isye.gatech.edu</EmailAddress>
+<PI_PHON>4048940054</PI_PHON>
+<NSF_ID>000289063</NSF_ID>
+<StartDate>08/05/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 NORTH AVE NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1786</Code>
+<Text>MANFG ENTERPRISE SYSTEMS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>071E</Code>
+<Text>MFG ENTERPRISE OPERATIONS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>078E</Code>
+<Text>ENTERPRISE DESIGN &amp; LOGISTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9148</Code>
+<Text>TOOLS &amp; TECHNOL FOR MANUFACTURING DESIGN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~174468</FUND_OBLG>
+</Award>
+</rootTag>

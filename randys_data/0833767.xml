@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SGER:  Collaborative Research in Volcano Monitoring, CSU Chico and Universidad Nacional/ OVISCORI, Costa Rica]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>17741</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030203</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lina Patino</SignBlockName>
+<PO_EMAI>lpatino@nsf.gov</PO_EMAI>
+<PO_PHON>7032925047</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award will support scientists and undergraduate students from USC-Chico while they install a continuous temperature monitoring system for hydrothermal systems associated with Costa Rican volcanoes. The basis for using water temperature data to connect hydrothermal activity with magmatic activity has been established for volcanoes in other regions, but it has not been done in a systematic way for Costa Rican volcanoes. Recent volcanic activity at Turrialba volcano, along with long standing volcanic activity at Poás, Rincon de la Vieja, Irazú, and Arenal volcanoes help establish grounds for an interesting experiment and test of methods that can be used to monitor magmatic activity. In the course of this investigation, researchers will address the following questions: Is hydrothermal activity at Costa Rican volcanoes linked to known magmatic events and to seismic data, and can those relationships be used to better understand volcanic activity and improve eruption forecasting? and How do the hydrothermal and magmatic systems of Costa Rica compare to Lassen Volcanic Center, CA where the data loggers have been tested? The students involved in this project have participated in developing research methods at Lassen Volcanic Center so their ability to participate in installation at Costa Rican field sites is an important application of their efforts in an active magmatic environment. Lastly, the project will strengthen research ties between an US academic institution and a counter part in Costa Rica.&lt;br/&gt;&lt;br/&gt;This project is co-funded by the following NSF programs: Office of International Science and Engineering; Petrology and Geochemistry Program, and the Education &amp; Human Resources Program in the Division of Earth Sciences.]]></AbstractNarration>
+<MinAmdLetterDate>06/19/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>11/17/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0833767</AwardID>
+<Investigator>
+<FirstName>Rachel</FirstName>
+<LastName>Teasdale</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rachel Teasdale</PI_FULL_NAME>
+<EmailAddress><![CDATA[rteasdale@csuchico.edu]]></EmailAddress>
+<NSF_ID>000443421</NSF_ID>
+<StartDate>06/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Brown</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David L Brown</PI_FULL_NAME>
+<EmailAddress><![CDATA[dlbrown@csuchico.edu]]></EmailAddress>
+<NSF_ID>000440034</NSF_ID>
+<StartDate>06/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Chico State Enterprises</Name>
+<CityName>CHICO</CityName>
+<ZipCode>959285388</ZipCode>
+<PhoneNumber>5308986811</PhoneNumber>
+<StreetAddress>25 MAIN ST UNIT 203</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>C4VMQLSU1LF4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CHICO STATE ENTERPRISES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Chico State Enterprises]]></Name>
+<CityName>CHICO</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>959285388</ZipCode>
+<StreetAddress><![CDATA[25 MAIN ST UNIT 203]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1573</Code>
+<Text>Petrology and Geochemistry</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1575</Code>
+<Text>EDUCATION AND HUMAN RESOURCES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7298</Code>
+<Text>International Research Collab</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5926</Code>
+<Text>LATIN AMERICA, SDC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5977</Code>
+<Text>AMERICAS PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9237</Code>
+<Text>SMALL GRANTS-EXPLORATORY RSRCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~17741</FUND_OBLG>
+</Award>
+</rootTag>

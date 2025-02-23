@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a Computer Cluster for Bioinformatics Research at UGA</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>796822.00</AwardTotalIntnAmount>
+<AwardAmount>796822</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vicki Martin</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>A grant has been awarded to the University of Georgia through its Institute of Bioinformatics to acquire a high powered multiprocessor computer and a corresponding large disk storage capacity. This proposed acquisition will contribute to, and substantially improve, the computing power available to UGA's biologists, computational and experimental. It will facilitate research at the interface of computational, physical and biological sciences which falls into five areas: (a) analysis and modeling of non-coding RNA genes, (b) analysis and modeling of protein and carbohydrate structures, (c) mining of eukaryotic and prokaryotic genomes, (d) gene expression data analysis, and (e) modeling of metabolic pathways and regulatory networks.&lt;br/&gt;&lt;br/&gt;The acquisition will enrich the research and educational experience of bioinformatics and computational biology students on campus, including 75 graduate students and 52 postdocs in the 18 participating laboratories. The investigators will partner with UGA?s Center for Undergraduate Research Opportunities and the NSF-funded Peach State Louis Stokes Minority&lt;br/&gt;Program, to engage undergraduates, particularly underrepresented minorities, in bioinformatics research, so that they will be drawn into research that makes use of this acquisition. At the secondary education level, the Institute will work with the Mathematics and Science Education Department in to offer summer workshops for A.P. Biology teachers. The idea of using web services and web tools to study bioinformatics should be a natural way to get these students,&lt;br/&gt;who have grown up with the Internet, interested in biology and science research.</AbstractNarration>
+<MinAmdLetterDate>08/17/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/17/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0821263</AwardID>
+<Investigator>
+<FirstName>Russell</FirstName>
+<LastName>Malmberg</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Russell L Malmberg</PI_FULL_NAME>
+<EmailAddress>malmberg@uga.edu</EmailAddress>
+<PI_PHON>7065421850</PI_PHON>
+<NSF_ID>000225432</NSF_ID>
+<StartDate>08/17/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Heinz-Bernd</FirstName>
+<LastName>Schuttler</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Heinz-Bernd Schuttler</PI_FULL_NAME>
+<EmailAddress>hbs@physast.uga.edu</EmailAddress>
+<PI_PHON>7065423886</PI_PHON>
+<NSF_ID>000295835</NSF_ID>
+<StartDate>08/17/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jessica</FirstName>
+<LastName>Kissinger</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jessica C Kissinger</PI_FULL_NAME>
+<EmailAddress>jkissing@uga.edu</EmailAddress>
+<PI_PHON>7065426562</PI_PHON>
+<NSF_ID>000300493</NSF_ID>
+<StartDate>08/17/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Liming</FirstName>
+<LastName>Cai</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Liming Cai</PI_FULL_NAME>
+<EmailAddress>cai@cs.uga.edu</EmailAddress>
+<PI_PHON>7065426081</PI_PHON>
+<NSF_ID>000491289</NSF_ID>
+<StartDate>08/17/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ying</FirstName>
+<LastName>Xu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ying Xu</PI_FULL_NAME>
+<EmailAddress>xyn@bmb.uga.edu</EmailAddress>
+<PI_PHON>7065429779</PI_PHON>
+<NSF_ID>000704165</NSF_ID>
+<StartDate>08/17/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Georgia Research Foundation Inc</Name>
+<CityName>ATHENS</CityName>
+<ZipCode>306021589</ZipCode>
+<PhoneNumber>7065425939</PhoneNumber>
+<StreetAddress>310 EAST CAMPUS RD TUCKER HALL R</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NMJHD63STRC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Georgia]]></Name>
+<CityName>ATHENS</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>306020001</ZipCode>
+<StreetAddress><![CDATA[310 E CAMPUS RD TUCKER HALL RM 4]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9184</Code>
+<Text>BIOTECHNOLOGY - INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~796822</FUND_OBLG>
+</Award>
+</rootTag>

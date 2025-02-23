@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[An Innovative Optimal Integration of Wind and Solar Resources for Reliable and Sustainable Power Generation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>293185.00</AwardTotalIntnAmount>
+<AwardAmount>293185</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Radhakisan Baheti</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[OBJECTIVE:&lt;br/&gt;&lt;br/&gt;The fundamental goal of this project is to develop a procedural tool that will facilitate the augmentation of fossil fuel based generation with the integration of utility scale solar-wind hybrid plants. The scope of this work addresses the development of optimal planning and operation procedures for scheduling generation from wind, solar, and stored thermal energy facilities. Historical solar irradiance and wind energy density information will be analyzed to provide suitable hybrid locations.  Models will be developed for wind, solar, and storage technologies for power system simulation studies.  Metrological data will be used to determine the optimal requirements of thermal, wind, and storage units.  Power system stability shall be evaluated iteratively through system fault studies and contingency analysis. Finally, using forecasting techniques a strategy will be developed for optimal scheduling of generation and storage.&lt;br/&gt;&lt;br/&gt;INTELLECTUAL MERIT:&lt;br/&gt;The completion of the proposed work will result in a methodology for calculating suitable hybrid plant locations and an optimized plant sizing and energy storage control strategy.  The objective of the control strategy will allow for reliable power injection and storage that is capable of meeting the demand of a variable load. The project will lead to: &lt;br/&gt;- The identification of grid connectable locations within the United States for the placement of solar-wind hybrid plants.&lt;br/&gt;- The development of optimal plant size and energy storage methodology for reliable grid interconnection of hybrid plants. &lt;br/&gt;- An optimal control strategy to maximize the reliability of the hybrid plant to meet variable load and renewable input power patterns.&lt;br/&gt;&lt;br/&gt;BROADER IMPACTS:&lt;br/&gt;The proposed technique is sufficiently versatile such that it can be extended to any emerging hybrid energy production and storage technologies.  This combines higher efficiency with greater reliability as compared to other conventional renewable generation. From an economic standpoint hybrid facilities will not only reduce generation costs, but will prove to be schedulable on demand which decrease customer costs thereby maximizing social welfare. This energy production strategy will help stimulate investment in renewable energy through competitive advantages over stand alone renewables. Additionally, an interdisciplinary renewable energy course will be introduced at Iowa State University based on the project work.]]></AbstractNarration>
+<MinAmdLetterDate>07/18/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/18/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0829025</AwardID>
+<Investigator>
+<FirstName>Venkataramana</FirstName>
+<LastName>Ajjarapu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Venkataramana Ajjarapu</PI_FULL_NAME>
+<EmailAddress><![CDATA[vajjarap@iastate.edu]]></EmailAddress>
+<NSF_ID>000391867</NSF_ID>
+<StartDate>07/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Iowa State University</Name>
+<CityName>AMES</CityName>
+<ZipCode>500112105</ZipCode>
+<PhoneNumber>5152945225</PhoneNumber>
+<StreetAddress>515 MORRILL RD, 1350 BEARDSHEAR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DQDBM7FGJPC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DQDBM7FGJPC5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Iowa State University]]></Name>
+<CityName>AMES</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>500112105</ZipCode>
+<StreetAddress><![CDATA[515 MORRILL RD, 1350 BEARDSHEAR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0306000</Code>
+<Name>Energy Research &amp; Resources</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7607</Code>
+<Text>EPCN-Energy-Power-Ctrl-Netwrks</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>090E</Code>
+<Text>Chem/Bio and Physical Diagnostics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>093E</Code>
+<Text>System fab/packaging &amp; assembly</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~293185</FUND_OBLG>
+</Award>
+</rootTag>

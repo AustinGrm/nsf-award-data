@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[DISSERTATION RESEARCH: The influence of parasite load on glucocorticoid hormone levels: An experimental assessment in a natural setting]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>11490.00</AwardTotalIntnAmount>
+<AwardAmount>11490</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010208</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard S. Inouye</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Stress hormones (glucocorticoids) are of great interest to ecologists because they impact animal fitness and survival and provide a direct, quantifiable index of sublethal stress. Baseline glucocorticoid levels are known to be correlated with age, sex, and social rank of vertebrates. However, few causal relationships have been established between glucocorticoid levels and factors intrinsic to free-ranging animals and their environment. Interactions between stress hormones and parasites are predicted to exist because glucocorticoids can enhance or depress the immune system. This study will determine the nature of the relationship between macroparasites and stress, using glucocorticoid levels as an indicator of stress, in a common, free-ranging mammal. Objectives of this research are to quantify baseline fecal glucocorticoid levels and correlate those with animal characteristics (e.g., age, sex) and parasite burden, experimentally reduce ectoparasites and helminths to test causal relationships between glucocorticoid levels and parasite burden, and determine if glucocorticoid levels of parasite-reduced individuals influence subsequent parasite acquisition. Glucocorticoid concentrations in animals are increasingly being used to evaluate wildlife health, responses to their environment, and influence management decisions. For such decisions to be most effective it is imperative that we identify factors important to baseline stress values. This study will determine the influence of common parasites on the endocrine system and if baseline glucocorticoid levels predispose individuals to infection. Evaluating such interactions in an experimental context will enhance our ability to understand animal stress and make informed management decisions when disease and stress are issues of concern. Broader impacts include the training and education of students. All elements of this project will be incorporated into a wildlife disease ecology course for undergraduates. Students will participate in experiential learning exercises that involve them in all aspects of the project during lab and field sessions.]]></AbstractNarration>
+<MinAmdLetterDate>06/25/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/25/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0806707</AwardID>
+<Investigator>
+<FirstName>Ryan</FirstName>
+<LastName>Monello</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ryan J Monello</PI_FULL_NAME>
+<EmailAddress><![CDATA[RyanMonello@mizzou.edu]]></EmailAddress>
+<NSF_ID>000415042</NSF_ID>
+<StartDate>06/25/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Gompper</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthew E Gompper</PI_FULL_NAME>
+<EmailAddress><![CDATA[gompperm@nmsu.edu]]></EmailAddress>
+<NSF_ID>000180173</NSF_ID>
+<StartDate>06/25/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Missouri-Columbia</Name>
+<CityName>COLUMBIA</CityName>
+<ZipCode>652113020</ZipCode>
+<PhoneNumber>5738827560</PhoneNumber>
+<StreetAddress>121 UNIVERSITY HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SZPJL5ZRCLF4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MISSOURI SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Missouri-Columbia]]></Name>
+<CityName>COLUMBIA</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>652113020</ZipCode>
+<StreetAddress><![CDATA[121 UNIVERSITY HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1182</Code>
+<Text>POP &amp; COMMUNITY ECOL PROG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~11490</FUND_OBLG>
+</Award>
+</rootTag>

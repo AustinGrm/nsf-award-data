@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Doctoral Dissertation Improvement:  Functional Analysis of Primate Semicircular Canal Morphology in Relation to Locomotor Head Accelerations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>14945.00</AwardTotalIntnAmount>
+<AwardAmount>14945</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John Yellen</SignBlockName>
+<PO_EMAI>jyellen@nsf.gov</PO_EMAI>
+<PO_PHON>7032928759</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Reconstructing locomotor patterns from fossils is crucial for understanding the origins of primates and important transitions in various clades.  Recent studies suggest that the structure of the semicircular canals of the inner ear provides evidence about locomotion.  The canals sense rotational head accelerations and drive reflexes essential for normal movement.  Canal radius of curvature, which can be measured in osteologic specimens and fossils, predicts canal sensitivity.  Variation in canal morphology in living and, by inference, extinct primates has been attributed to interspecific differences in locomotor behavior.  However, the manner in which movement selects for canal morphology is debated.  While some argue that large sensitive canals are adaptive for detecting slow head accelerations (the "slow-sensitive hypothesis"), others contend that large sensitive canals are adaptive for detecting fast head accelerations (the "fast-sensitive hypothesis").  Paleontologists seeking to reconstruct locomotor preferences have extrapolated from both hypotheses to arrive at opposing conclusions about overall agility and patterns of directional head movement in life.  Alternative scenarios cannot be tested because there are no actual data about rotational head accelerations in primates.  To refine proposed links between canal morphology and locomotor function, and to resolve conflicting functional interpretations, this study will examine rotational head accelerations in strepsirhine primates exhibiting diverse locomotor behaviors.  Head accelerations during locomotion will be characterized using 3-dimensional kinematic analyses.  Cranial CT scans will be used to measure canal radii of curvature and to model canal sensitivity to rotations in different directions.  Direct measurements of locomotor head accelerations will then be compared to morphologic determinants of sensitivity to test predictions of the slow-sensitive and fast-sensitive hypotheses.&lt;br/&gt;&lt;br/&gt;Semicircular canal morphology may offer clues about locomotion in extinct taxa that are separate and distinct from the information provided by postcranial remains.  Understanding how behavior selects for canal morphology is critical for making accurate inferences of this nature.  This project will supply the first characterization of locomotor head accelerations in primates.  These data will be used to evaluate competing hypotheses about the adaptive link between semicircular canal morphology and locomotor head accelerations.  It will advance understanding of locomotor adaptation in extinct primates and will help to define the limits of fossil-canal-based locomotor reconstruction. Moreover, the use of strepsirhines may advantage inferences about the locomotor adaptations and evolutionary shifts associated with primate origins.]]></AbstractNarration>
+<MinAmdLetterDate>08/08/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/08/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0824546</AwardID>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Kay</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Richard Kay</PI_FULL_NAME>
+<EmailAddress><![CDATA[rfkay@duke.edu]]></EmailAddress>
+<NSF_ID>000203410</NSF_ID>
+<StartDate>08/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Malinzak</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael D Malinzak</PI_FULL_NAME>
+<EmailAddress><![CDATA[michael.malinzak@duke.edu]]></EmailAddress>
+<NSF_ID>000498235</NSF_ID>
+<StartDate>08/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277054640</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W MAIN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TP7EK8DZV6N5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DUKE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277054640</ZipCode>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1392</Code>
+<Text>Biological Anthropology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1392</Code>
+<Text>Biological Anthropology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~14945</FUND_OBLG>
+</Award>
+</rootTag>

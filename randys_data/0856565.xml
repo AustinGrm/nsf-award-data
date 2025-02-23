@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Multiscale, Beamlet-Based Data Processing for the Solution of Shortest-Path Problems with Applications to Embedded Vehicle Autonomy]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>185000.00</AwardTotalIntnAmount>
+<AwardAmount>185000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>George Chiu</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The research objective of this award is to apply multiresolution analysis ideas for path- and motion planning of autonomous vehicles.  Special basis functions are used to efficiently encode all possible paths inside the environment the vehicle operates in. The key idea behind the approach is the fact that paths have lower dimensionality than the ambient space, and hence, a more efficient encoding of the problem data than standard 2D and 3D cell decompositions is possible. The main mathematical tool used is beamlets, whose unique properties capture directionality, in addition to scale and locality. The result is reduced computational complexity algorithms for embedded control systems. Deliverables include new software to encode obstacles in the environment, demonstration and validation of the approach via numerical simulations, documentation of research results in peer-reviewed publications and via presentations at national and international conference, and engineering student education.&lt;br/&gt;&lt;br/&gt;If successful, the results will allow the reduction of current dynamic-programming based search algorithms by an order of magnitude, thus allowing increased levels of intelligence for a large class of small-scale vehicles and systems encountered in aerospace, military, and industrial application, which must operate at the limits of their performance envelope (e.g., unmanned aerial vehicles, high-speed autonomous wheeled vehicles, robots, etc), and which have limited on-board computational resources. The proposed line encoding scheme may lead to new sensors with built-in capability of automatic image edge detection, promoting the state-of-the-art in image processing technology. By leveraging established partnerships with local industry, the results will be transitioned to commercial autonomous (primarily aerial) vehicles.  Graduate and undergraduate students will benefit from the results of this research through classroom instruction and through their involvement in the proposed research activities.&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/04/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0856565</AwardID>
+<Investigator>
+<FirstName>Panagiotis</FirstName>
+<LastName>Tsiotras</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Panagiotis Tsiotras</PI_FULL_NAME>
+<EmailAddress><![CDATA[p.tsiotras@ae.gatech.edu]]></EmailAddress>
+<NSF_ID>000240738</NSF_ID>
+<StartDate>08/04/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xiaoming</FirstName>
+<LastName>Huo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiaoming Huo</PI_FULL_NAME>
+<EmailAddress><![CDATA[xiaoming@isye.gatech.edu]]></EmailAddress>
+<NSF_ID>000276730</NSF_ID>
+<StartDate>08/04/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>ATLANTA</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320001</ZipCode>
+<StreetAddress><![CDATA[225 NORTH AVE NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1632</Code>
+<Text>CONTROL SYSTEMS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>030E</Code>
+<Text>CONTROL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~185000</FUND_OBLG>
+</Award>
+</rootTag>

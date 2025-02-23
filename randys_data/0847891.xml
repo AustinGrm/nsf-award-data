@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Improvements to the Botanical and Entomological Collections at the Towson University Biodiversity Center]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>273214.00</AwardTotalIntnAmount>
+<AwardAmount>273214</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne Maglia</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;The two largest and oldest natural history collections at Towson University (TU) are the botanical and entomological collections.  These collections are unique as they represent an extensive compilation of specimens from the mid-Atlantic region beginning as early as 1864.  These collections are important as they are used in assessing both the present and historical ranges of species, especially in light of urbanization and global climate change.  They are widely used by both undergraduate and graduate students.  Preservation of the collections will allow TU to distinguish itself as a place where students can still receive training that grounds them in a solid understanding of organismal biology.&lt;br/&gt;&lt;br/&gt;Funding from this project will allow for better space utilization and the purchase of new cabinets for specimen preservation.  Imaging and data basing will also increase the accessibility of the collections to a broader range of users through a designated website.  Students at TU will be trained in specimen preservation, database management and the interpretation of natural history data.  In addition, large numbers of K-12 students in Maryland and, more specifically, the Baltimore metropolitan area, will be impacted through the various outreach programs undertaken with the Hackerman Academy and the Cherry Hill Project&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/25/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/25/2009</MaxAmdLetterDate>
+<ARRAAmount>273214</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0847891</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>LaPolla</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John S LaPolla</PI_FULL_NAME>
+<EmailAddress><![CDATA[jlapolla@towson.edu]]></EmailAddress>
+<NSF_ID>000222855</NSF_ID>
+<StartDate>08/25/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Roland</FirstName>
+<LastName>Roberts</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Roland P Roberts</PI_FULL_NAME>
+<EmailAddress><![CDATA[rroberts@towson.edu]]></EmailAddress>
+<NSF_ID>000379425</NSF_ID>
+<StartDate>08/25/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Towson University</Name>
+<CityName>TOWSON</CityName>
+<ZipCode>212520001</ZipCode>
+<PhoneNumber>4107042236</PhoneNumber>
+<StreetAddress>8000 YORK RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LC3SFMP2L798</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TOWSON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Towson University]]></Name>
+<CityName>TOWSON</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212520001</ZipCode>
+<StreetAddress><![CDATA[8000 YORK RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7226</Code>
+<Text>HUMAN RESOURCES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1197</Code>
+<Text>BIOLOGICAL RESEARCH COLLECTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6895</Code>
+<Text>DIGITIZATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9184</Code>
+<Text>BIOTECHNOLOGY - INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~273214</FUND_OBLG>
+</Award>
+</rootTag>

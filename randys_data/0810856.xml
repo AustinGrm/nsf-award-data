@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Workshop:  Zebrafish - a Model System for Exchange of Ideas, Integration of Knowledge, &amp; Collaboration between Developmental Biologists &amp; Comparative Endocrinologists (see]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>9520.00</AwardTotalIntnAmount>
+<AwardAmount>9520</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090300</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>mary chamberlin</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This workshop titled "Zebrafish- a Model System for Exchange of Ideas, Integration of Knowledge and Collaboration between Developmental Biologists and Comparative Endocrinologists" will be held as a special event coordinated with the 6th International Symposium on Fish Endocrinology in Calgary, Alberta, Canada. The workshop will mainly focus on the functions and molecular mechanisms of hormones and their receptors and will be divided into three sessions: 1) Zebrafish-A Model for Comparative Endocrinology Session; 2) Zebrafish-A Model for Developmental Endocrinology Session; and 3) General Discussion. The goals of this workshop are to promote the exchange of information and international collaborations between developmental biologists and comparative endocrinologists, inform investigators about the genomic and molecular tools available in the zebrafish model, and ultimately facilitate the growth of the field of "developmental endocrinology". Scientists of different nationalities, genders, and career stages will participate in the workshop. Travel awards for graduate students, especially those from underrepresented groups, will be provided.  It is anticipated that this workshop will advance discoveries, not only in the basic sciences, but also help develop applications in related fields such as biotechnology and aquaculture.]]></AbstractNarration>
+<MinAmdLetterDate>02/28/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>02/28/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0810856</AwardID>
+<Investigator>
+<FirstName>Cunming</FirstName>
+<LastName>Duan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Cunming Duan</PI_FULL_NAME>
+<EmailAddress><![CDATA[cduan@umich.edu]]></EmailAddress>
+<NSF_ID>000430581</NSF_ID>
+<StartDate>02/28/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yong</FirstName>
+<LastName>Zhu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yong Zhu</PI_FULL_NAME>
+<EmailAddress><![CDATA[zhuy@ecu.edu]]></EmailAddress>
+<NSF_ID>000103638</NSF_ID>
+<StartDate>02/28/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>East Carolina University</Name>
+<CityName>GREENVILLE</CityName>
+<ZipCode>278582502</ZipCode>
+<PhoneNumber>2523289530</PhoneNumber>
+<StreetAddress>1000 E 5TH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HWPEKM8VFTJ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>EAST CAROLINA UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>N8DMK1K4C2K5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[East Carolina University]]></Name>
+<CityName>GREENVILLE</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>278582502</ZipCode>
+<StreetAddress><![CDATA[1000 E 5TH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7658</Code>
+<Text>Physiol Mechs &amp; Biomechanics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~9520</FUND_OBLG>
+</Award>
+</rootTag>

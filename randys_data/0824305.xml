@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER:  Catalytic Aldimine Coupling:  A Versatile Carbon-Carbon Bond Forming Reaction</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2007</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>437232.00</AwardTotalIntnAmount>
+<AwardAmount>437232</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tingyu Li</SignBlockName>
+<PO_EMAI>tli@nsf.gov</PO_EMAI>
+<PO_PHON>7032924949</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This research project addresses the development of a cyanide-catalyzed aldimine coupling reaction, targeting a number of molecular structures, including carbocycles, heterocycles, macrocycles, dimers, ligands, oligomers, and conjugated as well as non-conjugated polymers. The potential replacement of cyanide by alternate catalysts will be explored, providing a link to the sustainability (green chemistry) focus of the environmental and molecular chemistry modules and courses planned for development.&lt;br/&gt;&lt;br/&gt;With the support of this CAREER award from the Organic and Macromolecular Chemistry Program, Professor Stephen A. Miller, of the Department of Chemistry at Texas A&amp;M University, is exploring a unique set of reactions catalyzed by cyanide. This reaction chemistry offers promise for the generation of many novel organic products, with potential applications including the areas of pharmaceuticals, organic dyes, and homogeneous catalysis. In the context of efficiency and catalysis, the simple, two-atom cyanide anion is remarkable, especially when compared to highly engineered and expensive precious metal catalysts. The concepts of efficiency and catalysis are also integral to the educational activities of Professor Miller. Through a course on a Molecular View of the Environment, high school teachers and students across the state of Texas are exposed to environmental chemistry topics, including the principles, ramifications, and ubiquity of catalysis, one of the 12 Principles of Green Chemistry. A writing course on Environmental Chemistry provides additional experience for students in the interdisciplinary nature of science and sustainability.</AbstractNarration>
+<MinAmdLetterDate>02/27/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>02/27/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0824305</AwardID>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Miller</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stephen A Miller</PI_FULL_NAME>
+<EmailAddress>miller@chem.ufl.edu</EmailAddress>
+<NSF_ID>000290152</NSF_ID>
+<StartDate>02/27/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326112002</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1 UNIVERSITY OF FLORIDA</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL03</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>969663814</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF FLORIDA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>159621697</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Florida]]></Name>
+<CityName>GAINESVILLE</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>326112002</ZipCode>
+<StreetAddress><![CDATA[1 UNIVERSITY OF FLORIDA]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1950</Code>
+<Text>METHODOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1187</Code>
+<Text>PECASE- eligible</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0106</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>490100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2006~137232</FUND_OBLG>
+<FUND_OBLG>2008~300000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II:  Low Dielectric Fiber for High Frequency Circuit Board Applications</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>425000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Benaiah Schrag</SignBlockName>
+<PO_EMAI>bschrag@nsf.gov</PO_EMAI>
+<PO_PHON>7032928323</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research (SBIR) Phase II project aims to develop the production and application of low dielectric fibers for use in high frequency circuit board applications. As the frequency of digital communications approaches the frequency at which microwave ovens work, the importance of the dielectric properties of the substrate material on which digital circuits are formed is becoming of critical importance. This project will use material and processing strategies to increase the physical properties and reduce the cost of fibers based on cyclic olefin copolymers. These fibers will be woven into fabrics and made into prototype circuit board materials to show their utility. The anticipated results of the project is a fully developed fiber which is ready to be commercialized which can be combined with glass fiber to reduce the dielectric constant and dielectric loss of high frequency circuit board substrate materials, but in all other ways is compatible with processes and materials used to manufacture these circuits. &lt;br/&gt;&lt;br/&gt;The broader impact/commercial potential will be the achievement of processing blends of amorphous and semi-crystalline polymers in fiber extrusion at speeds approaching 2 kilometers per minute. If successful, this project will introduce a low cost material that enables further advances in digital data processing and communication, with all the incumbent benefits, doing so with reduced energy dissipation in the circuit board materials. The materials are also lighter weight than their glass fiber predecessors, and therefore reduce the weight of mobile electronic and communication devices.</AbstractNarration>
+<MinAmdLetterDate>07/16/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>11/30/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0823014</AwardID>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Morin</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brian G Morin</PI_FULL_NAME>
+<EmailAddress>brian.morin@innegrity.com</EmailAddress>
+<PI_PHON>8643737070</PI_PHON>
+<NSF_ID>000231452</NSF_ID>
+<StartDate>07/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Innegrity LLC</Name>
+<CityName>Greenville</CityName>
+<ZipCode>296075959</ZipCode>
+<PhoneNumber>8649084763</PhoneNumber>
+<StreetAddress>2131 Woodruff Rd.</StreetAddress>
+<StreetAddress2><![CDATA[Ste 2100-162]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Innegrity LLC]]></Name>
+<CityName>Greenville</CityName>
+<StateCode>SC</StateCode>
+<ZipCode>296075959</ZipCode>
+<StreetAddress><![CDATA[2131 Woodruff Rd.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1984</Code>
+<Text>MATERIALS SYNTHESIS &amp; PROCESSN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9163</Code>
+<Text>SINGLE DIVISION/UNIVERSITY - INDUSTRY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>AMPP</Code>
+<Text>ADVANCED MATERIALS &amp; PROCESSING PROGRAM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~575000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: MOD: Modeling Productive Climates for Virtual Research Collaborations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>199427.00</AwardTotalIntnAmount>
+<AwardAmount>199427</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04000000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Julia I. Lane</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[An important kind of virtual research organization is the project-based research collaboration involving researchers from different institutions. The project provides a scientific grounding for managing, evaluating, and predicting success in distributed research collaborations. Collaborative success depends on whether investigators have a productive climate: a social and technical context that supports performance and innovation. In a productive climate, collaborators perceive they have resources to collaborate effectively; they see a link between their achievements and rewards they receive; they experience their group as flexible and welcoming of innovative approaches; and they note minimal conflict between the collaboration and their career and their institution's values. &lt;br/&gt;&lt;br/&gt;The research defines and measures a productive climate of distributed research collaborations and focuses on a key antecedent of a productive climate: the institutional environment of the collaboration. One example of this kind of environment is whether the institutions that employ the investigators see exceptional value in interdisciplinary research and have developed practices that support this kind of research.&lt;br/&gt;&lt;br/&gt;The investigators study the institutional environments of a sample of projects that were supported by the National Science Foundation. The intellectual contribution of this work includes documenting the importance of a productive climate for distributed research collaboration, and tracing the linkages among productive climate and the institutional environments of these collaborations. This analysis led to better metrics for measuring and predicting performance and innovation in collaborations. Identifying the institutional factors that predict the productive climate and outcomes of research collaborations also permit the development of models to predict which collaborations are likely to be successful. &lt;br/&gt;&lt;br/&gt;The broader impacts of this project are to inform university, agency, and regulatory practices and policies for science and new forms of interdisciplinary, distributed research collaboration.]]></AbstractNarration>
+<MinAmdLetterDate>09/25/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/25/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0830254</AwardID>
+<Investigator>
+<FirstName>Jonathon</FirstName>
+<LastName>Cummings</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jonathon Cummings</PI_FULL_NAME>
+<EmailAddress><![CDATA[jonathon.cummings@duke.edu]]></EmailAddress>
+<NSF_ID>000483837</NSF_ID>
+<StartDate>09/25/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277054640</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W MAIN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TP7EK8DZV6N5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DUKE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277054640</ZipCode>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7626</Code>
+<Text>SciSIP-Sci of Sci Innov Policy</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7725</Code>
+<Text>CDI-VIRTUAL ORGANIZATIONS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7752</Code>
+<Text>CDI NON SOLICITED RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~199427</FUND_OBLG>
+</Award>
+</rootTag>

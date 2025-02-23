@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: What is the Fate of a Silent Forest? The Importance of Avian Seed Dispersal and Herbivore Control for Tropical Forest Community Structure</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>101819.00</AwardTotalIntnAmount>
+<AwardAmount>101819</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010208</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alan Tessier</SignBlockName>
+<PO_EMAI>atessier@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Birds in forests eat insects and fruit, and move seeds throughout the forest (seed dispersal), but how important are these actions for forest structure?  The research addresses this question on the island of Guam (where birds are absent because the non-native brown tree snake has eliminated them) and the nearby islands of Rota, Tinian and Saipan (with native birds remaining).  The research uses experiments and observations to determine the importance of birds for seed dispersal and pest control (i.e. reduction of plant-eating insects) for ten common tree species that vary in characteristics such as seed size, manner in which seeds are dispersed, and growth rate.  &lt;br/&gt;&lt;br/&gt;The research addresses basic ecological questions, including whether seed dispersal is important for tree species diversity and whether birds control forest insect populations.  If birds are critical to the functioning of a healthy forest, then the current global decline in birds may lead to the breakdown of forests worldwide.  This research is additionally important because insects are the largest pests to working forests, which provide billions of dollars to the global economy each year.  Thus, the results from this work will inform management from local to global scales. Finally, several educational programs will target local Pacific Islander high school and college students.</AbstractNarration>
+<MinAmdLetterDate>08/02/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/02/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0816372</AwardID>
+<Investigator>
+<FirstName>Ross</FirstName>
+<LastName>Miller</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ross Miller</PI_FULL_NAME>
+<EmailAddress>lotsofbugs@gmail.com</EmailAddress>
+<NSF_ID>000497163</NSF_ID>
+<StartDate>08/02/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Guam</Name>
+<CityName>Mangilao</CityName>
+<ZipCode>969131800</ZipCode>
+<PhoneNumber>6717352994</PhoneNumber>
+<StreetAddress>UOG Station</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Guam</StateName>
+<StateCode>GU</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GU00</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>779908151</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF GUAM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>779908151</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Guam]]></Name>
+<CityName>Mangilao</CityName>
+<StateCode>GU</StateCode>
+<ZipCode>969131800</ZipCode>
+<StreetAddress><![CDATA[UOG Station]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Guam</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GU00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1182</Code>
+<Text>POP &amp; COMMUNITY ECOL PROG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1182</Code>
+<Text>POP &amp; COMMUNITY ECOL PROG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~101819</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Integrating Service-Oriented Paradigm Into Introductory Information Technology Curricula</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>151500.00</AwardTotalIntnAmount>
+<AwardAmount>151500</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jane Prey</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Computer Science (31)&lt;br/&gt;&lt;br/&gt;Web services can be integrated into the introductory programming sequence to make it more interesting and more importantly, make the students better prepared for upper division classes and for the IT industry upon graduation. This not only fascinates the students with its interesting collection of activities, thus addressing the issue of retention, but also inspires and prepares them for real-world software development solutions using the service-oriented paradigm. This project overhauls the approach currently used in the introductory programming sequence by incorporating a modern and novel approach that integrates service-oriented paradigm via Web services technology. The objectives of this project are: (1) Increase interest in introductory programming courses through the use of Service-Oriented Architecture (SOA)/Web services as a method of exposing students to real world programming scenarios. (2) Increase performance in introductory programming courses through the use of SOA/Web services as a framework for engaging students in the study of basic core programming concepts. (3) Create a series of SOA/Web service-centered introductory programming courses considered beneficial and relevant to employers in information technology fields. &lt;br/&gt;&lt;br/&gt;Intellectual Merit: Research findings of the treatment group experiment provide valuable information on the effectiveness of using service-oriented paradigm for introductory program sequence. Research findings from the instructors participating in the project provide insight on how service-oriented paradigm may be incorporated into the introductory programming sequence of computing curricula. The series of courses developed expose students to a new pedagogical model that allows them to experience what the IT industry is practicing.  &lt;br/&gt;&lt;br/&gt;Broader Impacts: The deliverables of this project are situated in a repository for ease of exploration by instructors and students. Live Web services are hosted in the repository for educators to incorporate into their classrooms. The service-oriented paradigm is highly adaptable for various groups. A faculty workshop is conducted to transfer, further disseminate, and provide feedback for the course materials.</AbstractNarration>
+<MinAmdLetterDate>12/11/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>12/11/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0837056</AwardID>
+<Investigator>
+<FirstName>Billy</FirstName>
+<LastName>Lim</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Billy Lim</PI_FULL_NAME>
+<EmailAddress>bllim@ilstu.edu</EmailAddress>
+<NSF_ID>000358249</NSF_ID>
+<StartDate>12/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bryan</FirstName>
+<LastName>Hosack</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bryan J Hosack</PI_FULL_NAME>
+<EmailAddress>bhosack@ilstu.edu</EmailAddress>
+<NSF_ID>000502388</NSF_ID>
+<StartDate>12/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Board of Trustees of Illinois State University</Name>
+<CityName>Normal</CityName>
+<ZipCode>617603040</ZipCode>
+<PhoneNumber>3094382528</PhoneNumber>
+<StreetAddress>100 S Fell Ave</StreetAddress>
+<StreetAddress2><![CDATA[Campus Box 3040]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_ORG/>
+<ORG_DUNS_NUM>001898142</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>BOARD OF TRUSTEES OF ILLINOIS STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>001898142</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Board of Trustees of Illinois State University]]></Name>
+<CityName>Normal</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>617603040</ZipCode>
+<StreetAddress><![CDATA[100 S Fell Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_PERF/>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0409</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000910DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EHR, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~151500</FUND_OBLG>
+</Award>
+</rootTag>

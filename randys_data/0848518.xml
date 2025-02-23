@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RUI: Observations and Modeling of Solar Total and Spectral Variability</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>258767.00</AwardTotalIntnAmount>
+<AwardAmount>258767</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020203</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ilia Roussev</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>CSUN (California State University-Northridge) operates the San Fernando Observatory (SFO), which has produced an extensive data set of photometric full-disk solar images covering more than twenty-two years. These images allow precise measurement of the relative brightness of a variety of solar features, such as sunspots and faculae. The Principal Investigator (PI) will utilize this SFO data, as well as photometric images from other sources, to address open scientific questions about solar variability. &lt;br/&gt;&lt;br/&gt;The PI plans to investigate many issues, including whether observed solar magnetic features are sufficient to explain short and long term variations in total and spectral solar irradiance, and what the relative contributions of various solar features might be to changes in those irradiances. The research will analyze the statistical properties of solar active regions, to discover whether these vary over a solar cycle, or from one cycle to the next. It expects to determine whether the solar irradiance changes in a systematic way at solar minimum, and whether measurements of solar features can be used to reconstruct current and historical values of total solar irradiance (TSI) and spectral solar irradiance (SSI).  &lt;br/&gt;&lt;br/&gt;The PI pledges that these photometric images, precision information on solar active regions, and secondary data (such as total and spectral solar irradiance models) will be made available to the wider research community. This research will also improve our understanding of solar variability and any effect it might have on the Earth's climate and weather, and therefore have broad impact on society. The PI also emphasizes that CSUN serves a significant minority population, and that this project will thus increase the participation of under-represented groups in science. Finally, the PI will give public talks in the CSUN planetarium about his research results, in order to inform and educate a wider audience.&lt;br/&gt;&lt;br/&gt;This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).</AbstractNarration>
+<MinAmdLetterDate>06/09/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/09/2009</MaxAmdLetterDate>
+<ARRAAmount>258767</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0848518</AwardID>
+<Investigator>
+<FirstName>Gary</FirstName>
+<LastName>Chapman</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gary A Chapman</PI_FULL_NAME>
+<EmailAddress>gary.chapman@csun.edu</EmailAddress>
+<PI_PHON>8186772775</PI_PHON>
+<NSF_ID>000421390</NSF_ID>
+<StartDate>06/09/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>The University Corporation, Northridge</Name>
+<CityName>NORTHRIDGE</CityName>
+<ZipCode>913300001</ZipCode>
+<PhoneNumber>8186771403</PhoneNumber>
+<StreetAddress>18111 NORDHOFF ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>30</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA30</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LAGNHMC58DF3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY CORPORATION, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>LAGNHMC58DF3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[California State University-Northridge]]></Name>
+<CityName>NORTHRIDGE</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>913300001</ZipCode>
+<StreetAddress><![CDATA[18111 NORDHOFF ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>30</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA30</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0205000</Code>
+<Name>Space</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1523</Code>
+<Text>SOLAR-TERRESTRIAL</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5740</Code>
+<Text>Climate &amp; Large-Scale Dynamics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~258767</FUND_OBLG>
+</Award>
+</rootTag>

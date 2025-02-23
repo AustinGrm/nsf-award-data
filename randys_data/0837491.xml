@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Teaching Physics Students to Innovate]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gary White</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Physics(13) The Department of Physics at Lawrence University, recognizing a need for greater innovation in the American workplace to arrest the current slippage in U.S. competitiveness worldwide, is investigating how to teach innovation as part of the undergraduate physics curriculum.  A four-step methodology is being developed that will be implemented in two learning settings:  summer research participation and two academic-year, laboratory-rich courses.  The instructional steps include:  1) introducing students to innovation, 2) choosing targets for innovation, 3) moving ideas into action, and 4) testing and revising.  With the expertise and equipment currently available at Lawrence, innovative work is focusing on the areas of optics and plasma physics. As the project progresses, course materials, laboratory instruction sets, selected observations and possible videos are to be developed and disseminated.]]></AbstractNarration>
+<MinAmdLetterDate>12/02/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>12/02/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0837491</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Brandenberger</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John R Brandenberger</PI_FULL_NAME>
+<EmailAddress><![CDATA[brandenj@lawrence.edu]]></EmailAddress>
+<NSF_ID>000297141</NSF_ID>
+<StartDate>12/02/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Stoneking</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthew Stoneking</PI_FULL_NAME>
+<EmailAddress><![CDATA[matthew.r.stoneking@lawrence.edu]]></EmailAddress>
+<NSF_ID>000334541</NSF_ID>
+<StartDate>12/02/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Skinner</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>William F Skinner</PI_FULL_NAME>
+<EmailAddress><![CDATA[william.f.skinner@lawrence.edu]]></EmailAddress>
+<NSF_ID>000505734</NSF_ID>
+<StartDate>12/02/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>LAWRENCE UNIVERSITY OF WISCONSIN</Name>
+<CityName>APPLETON</CityName>
+<ZipCode>549115690</ZipCode>
+<PhoneNumber>9208326816</PhoneNumber>
+<StreetAddress>711 E BOLDT WAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E1BLWNK1NDX7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>LAWRENCE UNIVERSITY OF WISCONSIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[LAWRENCE UNIVERSITY OF WISCONSIN]]></Name>
+<CityName>APPLETON</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>549115690</ZipCode>
+<StreetAddress><![CDATA[711 E BOLDT WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0409</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000910DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>1300CYXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~150000</FUND_OBLG>
+</Award>
+</rootTag>

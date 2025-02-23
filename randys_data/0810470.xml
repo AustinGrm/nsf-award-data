@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I: GABA-Mediated Nitrogen Efficiency]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2008</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gregory T. Baxter</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This Small Business Innovation Research Phase I research aims to increase the efficiency in which plants use nitrogen (N) and to enhance their tolerance to water stress. The proposed project will introduce into oilseed plants a novel pathway that will increase production of the amino acid, gamma-amino butyric acid (GABA). GABA has been implicated in both N uptake and stress tolerance. Research objectives include testing how the novel pathway affects plant size and yield, as well as effects on seed viability and quality under limited N and water stress conditions.&lt;br/&gt;&lt;br/&gt;      The broader impacts of this research are economic growth and environmental relief. Crop yield is directly related to N use.  However, of the N fertilizer applied to the fields, plants use only a portion. Unutilized N runs off into rivers, lakes, and streams.   N-based fertilizers are a major cost in crop production. Thus plants that can achieve high yield with significantly less N (i.e., increased N-use efficiency; NUE) could significantly reduce crop-production costs and help protect the environment while accommodating the growing demand for food, feed, fiber, and biofuel. A 20% (modest) increase in NUE is estimated to have a global annual savings of nearly $5 billion in cereal production alone. Weather changes also affect crop-production costs and yield. Droughts have incurred global annual crop losses of 5% to 30%. Plants with increased tolerance to drought could help sustain agricultural production. The proposed technology has great commercial potential in a market that is actively seeking crops with increased NUE and value-added traits.&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>03/26/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>03/26/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0810470</AwardID>
+<Investigator>
+<FirstName>Frank</FirstName>
+<LastName>Turano</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Frank Turano</PI_FULL_NAME>
+<EmailAddress><![CDATA[fturano@nataur.com]]></EmailAddress>
+<NSF_ID>000083516</NSF_ID>
+<StartDate>03/26/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Plant Sensory Systems, LLC.</Name>
+<CityName>BALTIMORE</CityName>
+<ZipCode>212273869</ZipCode>
+<PhoneNumber>4106275070</PhoneNumber>
+<StreetAddress>1450 SOUTH ROLLING RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E29TDJVM2P31</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PLANT SENSORY SYSTEMS, LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Plant Sensory Systems, LLC.]]></Name>
+<CityName>BALTIMORE</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212273869</ZipCode>
+<StreetAddress><![CDATA[1450 SOUTH ROLLING RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1491</Code>
+<Text>BIOTECH, BIOCHEM &amp; BIOMASS ENG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5345</Code>
+<Text>BIOMEDICAL ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9109</Code>
+<Text>AGRICULTURAL BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~100000</FUND_OBLG>
+</Award>
+</rootTag>

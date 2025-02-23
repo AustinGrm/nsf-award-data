@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Macrostratigraphy and macroevolution in North America: a test of the common cause hypothesis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>145095.00</AwardTotalIntnAmount>
+<AwardAmount>145095</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030207</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>H. Richard Lane</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Macrostratigraphy and macroevolution in North America: a test of the common cause hypothesis&lt;br/&gt;&lt;br/&gt;Shanan E. Peters&lt;br/&gt;University of Wisconsin; EAR-0819931&lt;br/&gt;&lt;br/&gt;ABSTRACT&lt;br/&gt;The rock record contains numerous natural resources and is the primary source of information for much of geoscience and evolutionary biology.  However, it is also a complex spatio-temporal mosaic that has been influenced by a diverse array of tectonic, climatic, and biological processes.  Understanding and quantifying the architecture of the rock record is important for two primary reasons.  First, doing so will reveal important information about how earth systems processes, such as tectonics and climate, have changed over geologic time.  Second, quantifying the distribution and character of rocks will permit the possible biasing effects of discontinuous and non-random preservation of earth?s history to be overcome. &lt;br/&gt;This research will compile and make widely available a large amount of under-utilized geological data, resulting in the most comprehensive database available on the distribution and character of rocks in North America.  Although several important geologic and paleobiologic hypotheses can and will be addressed with these data, the two principal scientific objectives are to: 1) document the quantitative intersection of the rock record of environments and the fossil record of life, and 2) test the relative importance of preservation biases vs. shared forcing mechanisms in driving the mutual correlations that have been documented between geologic and biologic data.  To do this, data for over 20,000 named rock units in North America will be combined with tens of thousands of taxonomic occurrence data currently residing in the Paleobiology Database (http://paleodb.org).  This will yield the first data-set ever capable of quantifying the large-scale intersection of the history of life and physical environmental change.  Because this work will aggregate important field-based geologic data into a web-accessible database with a powerful graphic user interface, the broader impacts of this research will include educational benefits at the secondary through graduate levels, increased accessibility of geological knowledge to the general public, and possible economic benefits related to mineral and petroleum resource exploration.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/14/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/18/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0819931</AwardID>
+<Investigator>
+<FirstName>Shanan</FirstName>
+<LastName>Peters</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shanan E Peters</PI_FULL_NAME>
+<EmailAddress><![CDATA[peters@geology.wisc.edu]]></EmailAddress>
+<NSF_ID>000270093</NSF_ID>
+<StartDate>08/14/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 N PARK ST STE 6301</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LCLSJAGTNZQ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QAFKGG7YY396</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>537151218</ZipCode>
+<StreetAddress><![CDATA[21 N PARK ST STE 6301]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7459</Code>
+<Text>Sedimentary Geo &amp; Paleobiology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~75279</FUND_OBLG>
+<FUND_OBLG>2009~69816</FUND_OBLG>
+</Award>
+</rootTag>

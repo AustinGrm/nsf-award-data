@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Analytical and Experimental Investigations of Feedback Control Designs for Bipedal Walkers and Runners]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>460000.00</AwardTotalIntnAmount>
+<AwardAmount>460000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Radhakisan Baheti</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Objective: The objective of this research program is to develop systematic, model-based feedback design procedures for a class of bipedal robots that take advantage of compliance in order to enhance locomotion efficiency and robustness when running on smooth terrain and walking on rough terrain.&lt;br/&gt;&lt;br/&gt; Intellectual Merit: It is estimated that 70% of the earth's landmass is inaccessible to wheeled or tracked vehicles. With legs, robots can step over obstacles or use sparse footholds. Bipedal robots are complex, hybrid systems. The associated feedback control algorithms that realize and stabilize these motions must be hybrid as well. This research thus contributes very concretely to the general theory of hybrid systems. The ability of the theory to tolerate model imperfections will be evaluated in the laboratory on an bipedal robot named MABEL. The successful operation of this innovative machine requires equally innovative feedback control theory that works in concert with the natural dynamics of the system to achieve stability and robustness of the implemented behaviors.&lt;br/&gt;&lt;br/&gt;This project has the potential to transform our ability to design, build and control robots that are capable of realizing locomotion behaviors that are more agile and human-like than ever before. &lt;br/&gt;&lt;br/&gt;Broader Impacts: Research on bipedal robotic locomotion can improve prosthesis design and lower-limb rehabilitation robotics. The anthropomorphic nature of bipedal robots makes them a wonderful vehicle for motivating very challenging problems in engineering, without having to assume familiarity with advanced mathematics or physics. Professor Grizzle gives presentations on his research results to lay groups, including high schools, junior high and grade school science camps, civic organizations, retirees and the like, and organizes field trips to see feedback control in action on his bipedal robot, MABEL. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/12/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/12/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0856213</AwardID>
+<Investigator>
+<FirstName>Jessy</FirstName>
+<LastName>Grizzle</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jessy W Grizzle</PI_FULL_NAME>
+<EmailAddress><![CDATA[grizzle@umich.edu]]></EmailAddress>
+<NSF_ID>000396941</NSF_ID>
+<StartDate>08/12/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Michigan - Ann Arbor</Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>1109 GEDDES AVE, SUITE 3300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091079</ZipCode>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0112000</Code>
+<Name>System Theory</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7607</Code>
+<Text>EPCN-Energy-Power-Ctrl-Netwrks</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>093E</Code>
+<Text>System fab/packaging &amp; assembly</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~460000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Oxide-supported Bimetallic Au-Pt Clusters as Catalysts for Epoxidation and Oxidation Reactions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>452510.00</AwardTotalIntnAmount>
+<AwardAmount>452510</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090006</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Zeev Rosenzweig</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The Analytical and Surface Chemistry Program at the National Science Foundation will support the research of Professor Donna Chen of the University of South Carolina. Prof. Chen and her students will develop new Titania-supported gold-platinum cluster model catalysts for the direct conversion of propylene to propylene oxide.  The structural and chemical properties of the catalysts will be characterized at the atomic scale using scanning tunneling microscopy and low energy ion scattering and X-ray photoelectron spectroscopies.  In collaboration with Prof. Monnier, Prof. Chen and her students will construct a catalytic reactor to enable studying the mechanism and kinetics of the propylene oxidation reaction under real world conditions. The study will provide training opportunities to graduate and undergraduate students in the areas of surface science and catalysis. In addition, Prof. Chen will participate in USC run programs aiming to increase public awareness and understanding of nanoscience and nanotechnology research, including nanocatalysis.]]></AbstractNarration>
+<MinAmdLetterDate>01/08/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>01/08/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0845788</AwardID>
+<Investigator>
+<FirstName>Donna</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Donna A Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[dachen@sc.edu]]></EmailAddress>
+<NSF_ID>000126209</NSF_ID>
+<StartDate>01/08/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University South Carolina Research Foundation</Name>
+<CityName>COLUMBIA</CityName>
+<ZipCode>292084009</ZipCode>
+<PhoneNumber>8037777093</PhoneNumber>
+<StreetAddress>915 BULL ST</StreetAddress>
+<StreetAddress2><![CDATA[STE 202]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SC06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ELBVJ1KYX976</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SOUTH CAROLINA RESEARCH FOUNDATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of South Carolina at Columbia]]></Name>
+<CityName>COLUMBIA</CityName>
+<StateCode>SC</StateCode>
+<ZipCode>292083403</ZipCode>
+<StreetAddress><![CDATA[1600 HAMPTON ST # 414]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SC06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1972</Code>
+<Text>ELECTROCHEMISTRY &amp; SURFACE CHE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1401</Code>
+<Text>CATALYSIS AND BIOCATALYSIS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9162</Code>
+<Text>MULTI DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~452510</FUND_OBLG>
+</Award>
+</rootTag>

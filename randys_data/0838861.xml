@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Polar Experimantal Network for Geospace Upper-atmosphere Investigations (PENGUIn): Interhemispheric Investigations along the 40 Degree Magnetic Meridian]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>811897.00</AwardTotalIntnAmount>
+<AwardAmount>811897</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090300</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OPP</Abbreviation>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vladimir Papitashvili</SignBlockName>
+<PO_EMAI>vpapita@nsf.gov</PO_EMAI>
+<PO_PHON>7032927425</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA["This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5)."&lt;br/&gt;&lt;br/&gt;The solar wind - magnetosphere - ionosphere system and the space weather phenomena it controls is a complex and dynamic environment that has increasing recognition of potentially impacting critical human technological infrastructure. To be able to forecast, and thus adapt to, the impact space weather events may have on infrastructure as diverse as satellite communications and power grids, it is necessary to develop accurate geomagnetic models of the Sun-Earth environment. Due to the dipole nature of the planet's magnetic field, the Earth's outer magnetosphere maps to relatively small regions in the polar and auroral latitudes in both hemispheres. The northern hemisphere is relatively well instrumented. However, lack of sufficient observations particularly notable in the Southern hemisphere lessens our ability to validate global models of the geospace environment. The main magnetic dipole is offset and tilted, resulting in a weaker polar field in the southern hemisphere.  Seasonal ionospheric electrodynamic asymetries similarly result. The magnitudes of both these effects need to be measured and more fully understood to build reliable Space Weather models.&lt;br/&gt;&lt;br/&gt;This project seeks continued development and deployment of a chain of magnetometers located along the southern high latitude 40 degree magnetic meridian to provide conjugate inter-hemispheric measurements complementing the data from the existing dense Greenland west coast magnetometer array. Such measurements open the promise of simultaneous data from northern and southern hemispheres to enable the investigation of inter-hemispheric electrodynamic coupling throughout the entire outer magnetosphere.&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/18/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>02/06/2012</MaxAmdLetterDate>
+<ARRAAmount>811897</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0838861</AwardID>
+<Investigator>
+<FirstName>Aaron</FirstName>
+<LastName>Ridley</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Aaron J Ridley</PI_FULL_NAME>
+<EmailAddress><![CDATA[ridley@umich.edu]]></EmailAddress>
+<NSF_ID>000330122</NSF_ID>
+<StartDate>08/18/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Michigan - Ann Arbor</Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>1109 GEDDES AVE, SUITE 3300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091079</ZipCode>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0311000</Code>
+<Name>Polar Programs-Related</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5115</Code>
+<Text>ANT Astrophys &amp; Geospace Sci</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~811897</FUND_OBLG>
+</Award>
+</rootTag>

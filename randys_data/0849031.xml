@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SuperDARN Radar Investigations of Global Processes in the High-Latitude Ionosphere: Infrastructure, Community Support, and Science]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/31/2008</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>1006234.00</AwardTotalIntnAmount>
+<AwardAmount>1058750</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020204</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert M. Robinson</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award supports the operation and scientific use of the Super Dual Auroral Radar Network (SuperDARN). SuperDARN is a global network of HF radars that provide continuous measurements of the high-latitude ionosphere in both the northern (9 radars) and southern (6 radars) hemispheres. It provides the meso- and global-scale views of the structure and dynamics of ionospheric plasma convection and electric fields that are needed to study the processes that couple mass and energy from the solar wind into the magnetosphere-ionosphere-atmosphere system. Other valuable measurements from the radars include the velocity of the neutral winds near the mesopause, proxies for the projection of magnetospheric boundaries into the ionosphere, and the characteristics of small-scale ionization irregularities. SuperDARN is an international collaboration involving the funding agencies of ten countries. The U. S. responsibility includes the operation of the SuperDARN radars at Goose Bay, Labrador and Kapuskasing, Ontario, as well as the data processing and distribution for the entire SuperDARN network. The U.S. research community gains access to the entire dataset through association with SuperDARN researchers at the awardee institution, Johns Hopkins University Applied Physics Laboratory (JHU/APL). As the founding institution of SuperDARN, JHU/APL provides oversight and management for the entire collaboration. The JHU/APL team is responsible for the development and distribution of the core operating software for the SuperDARN radars and for much of the analysis software. JHU/APL is also responsible for assembling data from the northern and Australian radars for subsequent DVD production. The activities at JHU/APL in support of the SuperDARN facility include both community support and research functions. The wider community is supported in its use of SuperDARN data by a variety of means, including distribution from a dedicated web site and the personal involvement of JHU/APL staff. The research programs of the JHU/APL team include the response of ionospheric convection to IMF variations, the realization of a space weather capability for ionospheric electric fields, and the magnetic conjugacy of convection between the ionosphere and magnetosphere. Other topics to be studied include global determination of atmospheric Joule heating, characterization of planetary waves in the mesosphere, and collaborative research with the NSF Advanced Modular Incoherent Scatter Radar (AMISR). The planned construction of additional SuperDARN radars, which will both augment the existing high-latitude chains and extend coverage into the polar cap and mid-latitude regions, promises a significant boost in the supply of data for resolving critical problems in Sun-Earth connections research.]]></AbstractNarration>
+<MinAmdLetterDate>09/12/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>10/20/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0849031</AwardID>
+<Investigator>
+<FirstName>J. Michael</FirstName>
+<LastName>Ruohoniemi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>J. Michael Ruohoniemi</PI_FULL_NAME>
+<EmailAddress><![CDATA[mikeruo@vt.edu]]></EmailAddress>
+<NSF_ID>000227443</NSF_ID>
+<StartDate>09/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240603359</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>300 TURNER ST NW</StreetAddress>
+<StreetAddress2><![CDATA[STE 4200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QDE5UHE5XD16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIRGINIA POLYTECHNIC INSTITUTE &amp; STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M515A1DKXAN8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Virginia Polytechnic Institute and State University]]></Name>
+<CityName>BLACKSBURG</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>240603359</ZipCode>
+<StreetAddress><![CDATA[300 TURNER ST NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0205000</Code>
+<Name>Space</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1521</Code>
+<Text>AERONOMY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>4202</Code>
+<Text>Upper Atmospheric Facilities</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5115</Code>
+<Text>ANT Astrophys &amp; Geospace Sci</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5205</Code>
+<Text>ARC Rsch Support &amp; Logistics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5750</Code>
+<Text>MAGNETOSPHERIC PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1323</Code>
+<Text>SOLAR INFLUENCES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>02XX</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>0100CYXXDB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~409347</FUND_OBLG>
+<FUND_OBLG>2009~649400</FUND_OBLG>
+</Award>
+</rootTag>

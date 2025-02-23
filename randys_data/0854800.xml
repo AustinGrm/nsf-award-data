@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[US - Latin America Workshop:  ICFA 2010 Workshop on Instrumentation in Particle Physics; Bariloche, Argentina, January 11-22, 2010.]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>29300.00</AwardTotalIntnAmount>
+<AwardAmount>29300</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne-Marie Schmoltner</SignBlockName>
+<PO_EMAI>aschmolt@nsf.gov</PO_EMAI>
+<PO_PHON>7032924716</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Marleigh Sheaff, University of Wisconsin-Madison&lt;br/&gt;OISE-0854800&lt;br/&gt;&lt;br/&gt;This U.S-Argentina award will support a workshop on Instrumentation in Elementary Particle Physics that will be held in January 2010 at the Instituto Balseiro in Argentina.  Co-organized with Dr. Xavier Bertou from the Institute Balseiros Center for Atomic Physics, the award will support ten students and junior researchers from the U.S. and will partially support ten students from developing countries in Latin America.  Additionally, the workshop could help U.S. researchers cultivate collaborations with Latin American researchers currently developing high-altitude arrays in Venezuela and Bolivia.  Connections with these facilities would be beneficial for future research and educational collaborations between the U.S. and Latin America.  Interactions at the workshop could facilitate the development of international research collaborations in high energy physics.&lt;br/&gt;&lt;br/&gt;The workshop will involve laboratory experiments designed to demonstrate workshop material and to promote further interaction among students and junior researchers.  Laboratories will discuss applications of silicon detectors and ring imaging Cerenkov Detectors.  Top researchers from Latin America and the U.S. will lead the workshop sessions and will discuss areas for future research collaboration.]]></AbstractNarration>
+<MinAmdLetterDate>03/25/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/25/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.079</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0854800</AwardID>
+<Investigator>
+<FirstName>Marleigh</FirstName>
+<LastName>Sheaff</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marleigh Sheaff</PI_FULL_NAME>
+<EmailAddress><![CDATA[sheaff@fnal.gov]]></EmailAddress>
+<NSF_ID>000152756</NSF_ID>
+<StartDate>03/25/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 N PARK ST STE 6301</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LCLSJAGTNZQ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QAFKGG7YY396</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>537151218</ZipCode>
+<StreetAddress><![CDATA[21 N PARK ST STE 6301]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7299</Code>
+<Text>Catalyzing New Intl Collab</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5911</Code>
+<Text>ARGENTINA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5977</Code>
+<Text>AMERICAS PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~29300</FUND_OBLG>
+</Award>
+</rootTag>

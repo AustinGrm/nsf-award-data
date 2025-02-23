@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[2008 LSAMP Biodesigned and Sustainable Bridges to the Doctorate Cohort VI]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>987000.00</AwardTotalIntnAmount>
+<AwardAmount>987000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11060000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EES</Abbreviation>
+<LongName>Div. of Equity for Excellence in STEM</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>A.  Hicks</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The Louis Stokes Alliance for Minority Participation Western Alliance to Expand Student Opportunities (WAESO) Bridge to the Doctorate (BD) Program, under the leadership of Arizona State University, incorporates a sequence of supervised program activities in which selected fellows will participate under the unifying themes of Biodesigned and Sustainable Bridges to the Doctorate.  The activities involve, in addition to traditional departments, the interdisciplinary Biodesign Institute, the Mathematical and Theoretical Biology Institute (MTBI) and the urbanization research effort within the Global Institute of Sustainability (GIS).  Program activities are designed to assist students in progressing forward in their research and in obtaining an early realization of the many benefits that materialize after obtaining the doctorate.  There will also be a program emphasis in mentoring these students to apply for Sloan, Ford, NASA and NSF Graduate Fellowships for support as they continue in their studies. &lt;br/&gt;&lt;br/&gt;The goal of the program is to bridge the number of underrepresented minority students pursuing doctoral degrees in STEM disciplines.  This two-year fellowship-research program involves a cohort of 12 selected students from all STEM disciplines.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>06/16/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/16/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0832977</AwardID>
+<Investigator>
+<FirstName>Gary</FirstName>
+<LastName>Keller</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gary D Keller</PI_FULL_NAME>
+<EmailAddress><![CDATA[gary.keller@asu.edu]]></EmailAddress>
+<NSF_ID>000470784</NSF_ID>
+<StartDate>06/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Albert</FirstName>
+<LastName>McHenry</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Albert L McHenry</PI_FULL_NAME>
+<EmailAddress><![CDATA[albert.mchenry@asu.edu]]></EmailAddress>
+<NSF_ID>000358970</NSF_ID>
+<StartDate>06/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Antonio</FirstName>
+<LastName>Garcia</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Antonio A Garcia</PI_FULL_NAME>
+<EmailAddress><![CDATA[garcia81@nmsu.edu]]></EmailAddress>
+<NSF_ID>000201037</NSF_ID>
+<StartDate>06/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Arizona State University</Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852813670</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress>660 S MILL AVENUE STE 204</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NTLHJXM55KZ6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ARIZONA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>TEMPE</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>852813670</ZipCode>
+<StreetAddress><![CDATA[660 S MILL AVENUE STE 204]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>9133</Code>
+<Text>Alliances-Minority Participat.</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~987000</FUND_OBLG>
+</Award>
+</rootTag>

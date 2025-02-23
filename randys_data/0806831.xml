@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Science, Technology, Engineering and Math Scholarship Program</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>575000.00</AwardTotalIntnAmount>
+<AwardAmount>575000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ron Buckmire</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>The Scholarships in Science, Technology, Engineering, and Mathematics (S-STEM) Program provides educational opportunities for financially needy but academically talented STEM students. Services and activities: 1) improve the undergraduate educational experiences; 2) increase the number of students completing the first stage of baccalaureate study, and those receiving degrees; and 3) increase the likelihood that a Scholar will be employed or enrolled in a graduate program. Initially, twenty-eighty students are being chosen: ten freshman and eighteen junior students enrolled in Engineering, Engineering Technology, or Mathematics. Additional students are being added as Scholars graduate or leave. Scholars are paired with faculty mentors, who serve as advocates for scholars academic and career success. Activities include tutorial and writing assistance, undergraduate research opportunities, visitations to research laboratories and graduate schools, attendance and/or participation in research conferences, professional career counseling, and work experiences.</AbstractNarration>
+<MinAmdLetterDate>07/08/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/21/2013</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0806831</AwardID>
+<Investigator>
+<FirstName>Edward</FirstName>
+<LastName>Pierson</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Edward S Pierson</PI_FULL_NAME>
+<EmailAddress>pierson@calumet.purdue.edu</EmailAddress>
+<NSF_ID>000179237</NSF_ID>
+<StartDate>07/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Roy</FirstName>
+<LastName>Hamilton</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Roy Hamilton</PI_FULL_NAME>
+<EmailAddress>hamilton@purduecal.edu</EmailAddress>
+<NSF_ID>000361746</NSF_ID>
+<StartDate>07/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Harvey</FirstName>
+<LastName>Abramowitz</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Harvey Abramowitz</PI_FULL_NAME>
+<EmailAddress>harveya@pnw.edu</EmailAddress>
+<NSF_ID>000180030</NSF_ID>
+<StartDate>07/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>West Lafayette</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>2550 Northwestern Ave.</StreetAddress>
+<StreetAddress2><![CDATA[Suite 1900]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>072051394</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>072051394</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University Calumet]]></Name>
+<CityName>Hammond</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>463232051</ZipCode>
+<StreetAddress><![CDATA[2233 171st Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EHR, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~575000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EMT: MISC: Expanding the Computing Domain with Self-assembled Nanophotonics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mitra Basu</SignBlockName>
+<PO_EMAI>mbasu@nsf.gov</PO_EMAI>
+<PO_PHON>7032928649</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The development of high density, integrated circuit (IC) technology in the late 1970s has been a fundamental enabler for today?s computation and communication infrastructure. Despite their many advantages, silicon ICs are difficult, if not impossible, to fully utilize at the molecular scale for applications in biological science. The challenge arises from the need for environmental compatibility and single molecule sensing. Therefore, to date, silicon ICs have been limited to computational domains at the macro scale with few exceptions. Unfortunately, this prevents biological scientists from fully leveraging computing as a way to improve and accelerate their daily experiments.&lt;br/&gt;Intellectual Merit? The proposed vision is to expand the computing domain by developing a fused sensor-compute node that is compatible with cells and is functional in aqueous fluids. This represents progress in two areas identified by the recent NSF Workshop on Nanoelectronics as important for the development of the EMT program: DNA-Based Electronics (EMT: BSSE) and Nanoarchitecture (EMT: NANO)[1]. To meet the challenges of this new domain this proposal explores resonance energy transfer (RET) logic on DNA nanostructures as a technology for biologically compatible fused sensor-compute nodes. The primary research component of this proposal is the fabrication and characterization of simple RET circuits and sensing modes on DNA grids.&lt;br/&gt;The proposed research is highly interdisciplinary and requires that theoretical research (i.e., circuit and architecture design and evaluation) occur simultaneously with experimental research (i.e., fabrication and characterization). The previous collaborative research by the PIs on DNA nanostructures, nanoscale devices, circuits and architectures demonstrates the expertise necessary to successfully perform the research outlined in this proposal.&lt;br/&gt;Broader Impacts? These research activities will involve undergraduate students in development roles through independent studies and summer research positions. Attention will be focused on engaging students from underrepresented groups. Recently, an African-American undergraduate student  was involved with the PIs? other projects through an NSF-REU program run jointly by UNC and Duke. A graduating Ph.D. materials science student with a CS BSc was recruited through this same program and with continued support will take on a postdoctoral position working on DNA self-assembly and electrochemistry at Duke. Currently, three undergraduates are working in the group on research projects. This proposal will expand these efforts by working with the nationally recognized outreach programs at Duke run by Ms. Martha Absher.&lt;br/&gt;Potential for Transformative Change? The integration of sensing and computation at the molecular scale expands the computing domain and enables the new paradigm of diffusion limited computation. This new paradigm has a wide variety of potential applications from querying the status of a cell to accelerating the progress of biomarker assays. This represents a fundamentally new way to apply computing to common problems in the biological sciences.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>09/12/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/12/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0829911</AwardID>
+<Investigator>
+<FirstName>Alvin</FirstName>
+<LastName>Lebeck</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alvin R Lebeck</PI_FULL_NAME>
+<EmailAddress><![CDATA[alvy@cs.duke.edu]]></EmailAddress>
+<NSF_ID>000335353</NSF_ID>
+<StartDate>09/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chris</FirstName>
+<LastName>Dwyer</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chris L Dwyer</PI_FULL_NAME>
+<EmailAddress><![CDATA[dwyer@ece.duke.edu]]></EmailAddress>
+<NSF_ID>000205069</NSF_ID>
+<StartDate>09/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277054640</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W MAIN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TP7EK8DZV6N5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DUKE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277054640</ZipCode>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1705</Code>
+<Text>BIOLOGY &amp; INFORMATION TECHNOLO</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~100000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[GDBase:  An Engine for Scalable offline Debugging]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>302142.00</AwardTotalIntnAmount>
+<AwardAmount>302142</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jennifer Schopf</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Debugging at large scale is a constant challenge in the operation of leadership class systems. While there has been substantial attention paid to parallel debugging in general in both the research and commercial arenas, most parallel debuggers rely on a visual motif for conveying information about program execution and communication. These approaches tend to be invaluable for understanding and debugging program function at tens of tasks, but are simply not suitable for finding elusive problems that occur at tens of thousands of tasks. Even if the interfaces were useable at that scale (and licenses were available), current iterations of many commercial debuggers fail to function properly beyond 2,048 cores. The challenge of debugging at large scale is exacerbated by the normal mode of operation of very large systems. These systems tend to run 24x7 in a batch mode intended to maximize system utilization and throughput. Negotiating the large blocks of time to operate a substantial fraction of the system in an interactive mode is difficult at best, and cost-prohibitive at worst.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;In this project investigators will lay out the design for the GDBase debugging framework. GDBase is designed to attack three of the key problems of debugging on the largest systems.&lt;br/&gt;1.) Lack of Scalability - most commercial debuggers are too heavyweight to launch or provide a useable interface at many thousands of cores. GDBase has been tested to 12k cores. In our testing, the commercial DDT debugger fails after about 2k.&lt;br/&gt;2.) High Cost of use - GDBase runs jobs through the production batch systems with no need for long periods tying up large fractions of the machine for interactive debugging runs and no need to lower utilization through fixed time reservations that prevent other jobs from running.&lt;br/&gt;3.) Information overload - Rather than a graphical interface that fails to scale, or gigabytes of printf text, all debugging information is stored in a relational database that can be mined later by a number of analysis tools.&lt;br/&gt;&lt;br/&gt;The intellectual merit of this proposal lies in the novel approach taken to tackle scalable debugging. GDBase incorporates a lightweight, offline architecture for data collection inspired by performance analysis tools, a database repository for vast quantities of debugging information and cross-run analysis, and an API to create new agents for providing a variety of interface and analysis tools. The broader impacts of this proposal are the ability to lift productivity across all domains that develop applications for large scale cyberinfrastructure. GDBase will also make large scale debugging more widely available, and will be incorporated in a range of training and education activities.]]></AbstractNarration>
+<MinAmdLetterDate>03/02/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/02/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0850853</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Stanzione</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME>Jr</PI_SUFX_NAME>
+<PI_FULL_NAME>Daniel Stanzione</PI_FULL_NAME>
+<EmailAddress><![CDATA[dan@tacc.utexas.edu]]></EmailAddress>
+<NSF_ID>000193108</NSF_ID>
+<StartDate>03/02/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Arizona State University</Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852813670</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress>660 S MILL AVENUE STE 204</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NTLHJXM55KZ6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ARIZONA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>TEMPE</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>852813670</ZipCode>
+<StreetAddress><![CDATA[660 S MILL AVENUE STE 204]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7684</Code>
+<Text>CESER-Cyberinfrastructure for</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7684</Code>
+<Text>STRATEGIC TECHNOLOGIES FOR CI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~0</FUND_OBLG>
+</Award>
+</rootTag>

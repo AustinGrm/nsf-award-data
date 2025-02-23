@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Topological Characterization and Optimization of Mixing</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Warchall</SignBlockName>
+<PO_EMAI>hwarchal@nsf.gov</PO_EMAI>
+<PO_PHON>7032924861</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Many industrial applications require the mixing or blending of ingredients and reagents, often at great energetic costs. Examples include food processing, polymer processing, and microfluidics.&lt;br/&gt;Stirring and mixing are also crucial ingredients for quantifying climate change. Most approaches to these problems involve direct solution of the underlying differential equations. In this proposal we advocate a complementary viewpoint that focuses on the topology of stirring. For the case of stirring with rods, topology refers to the orbits that the rods follow, and how these orbits interlock. Our two broad aims are the characterization and optimization of stirring devices from a topological viewpoint. To characterize means to describe existing devices or stirring configurations using a topological approach, in order to learn as much as possible about the device without necessarily solving the full governing fluid equations. A thorough characterization allows us to then optimize devices to maximize their topological mixing characteristics. Our research applies a powerful body of existing mathematics -- the Thurston-Nielsen theory of surface transformations -- to fluid-dynamical problems. This theory has not yet been fully exploited in practical situations. Since the topological approach does not use differential equations directly, many of the results are independent of the specific fluid involved. One example of the type of optimization made possible is a class of rod-stirring devices we call the silver mixers: their "topological entropy" is a multiple of the silver ratio, the golden ratio's lesser-known cousin.  Silver mixers are optimal in the sense that there is no motion of rods that can "stretch" so-called material lines at a faster rate.&lt;br/&gt;&lt;br/&gt;Many industrial applications require the mixing or blending of ingredients and reagents, often at great energetic costs. Examples include food processing, polymer processing, and microfluidics -- the emerging science of manipulating fluids at microscopic and nanoscales. Stirring and mixing are also crucial ingredients for quantifying climate change, for example to estimate the rate of absorption of greenhouse gases by the ocean. In all cases, it is important to understand the nature of the mixing process in order to improve it, thereby increasing quality or yield. Most approaches to these problems involve direct solution of the underlying equations, a formidable task even with today's computers. We advocate a complementary viewpoint that focuses on geometrical features of stirring -- or "topological" in mathematical language. For the case of stirring with rods, topology refers to the orbits that the rods follow, and how these orbits interlock.  Recent developments in mathematics provide us with novel tools to study this problem. Our two broad aims are the characterization and optimization of stirring devices from a topological viewpoint. To characterize means to describe existing devices or stirring configurations using a topological approach, in order to learn as much as possible about the device without necessarily solving the full equations. A thorough characterization allows us to then optimize devices to maximize their topological mixing characteristics. For example, given a small number of rods constrained to move on gears, a typical situation in the food industry, we have devised a device that leads to optimal mixing merely by tweaking the trajectory of individual rods.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>07/31/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/18/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0806821</AwardID>
+<Investigator>
+<FirstName>Jean-Luc</FirstName>
+<LastName>Thiffeault</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jean-Luc Thiffeault</PI_FULL_NAME>
+<EmailAddress>jeanluc@math.wisc.edu</EmailAddress>
+<NSF_ID>000492503</NSF_ID>
+<StartDate>07/31/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<StreetAddress2><![CDATA[Suite 6301]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI02</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>161202122</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>041188822</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>537151218</ZipCode>
+<StreetAddress><![CDATA[21 North Park Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1443</Code>
+<Text>FD-Fluid Dynamics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7215</Code>
+<Text>OPPORTUNITIES FOR RESEARCH CMG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7215</Code>
+<Text>OPPORTUNITIES FOR RESEARCH CMG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7303</Code>
+<Text>MATH SCI PRIORITY AREA: INTERDISCIPLINAR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~200000</FUND_OBLG>
+</Award>
+</rootTag>

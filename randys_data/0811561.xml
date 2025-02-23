@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>The Advanced Robotics Center (ARC)</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>149400.00</AwardTotalIntnAmount>
+<AwardAmount>149400</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11060000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>HRD</Abbreviation>
+<LongName>Division Of Human Resource Development</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Claudia Rankins</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>[HRD 0811561]  Lawson State Community College?s HBCU-UP Targeted Infusion Project supports the addition of advanced robotics technology to the College?s programs in electrical/electronics engineering and industrial electronics/systems. The Advanced Robotics Center (ARC) creates a new concentration for these programs of study. It also provides real-time learning for a broad spectrum of underrepresented students interested in technology and engineering careers. &lt;br/&gt;&lt;br/&gt;Alabama manufacturers are seeking a diverse workforce with the skills required to configure, upgrade, utilize, and maintain the hundreds of robotic arms on their production lines. These jobs require technicians and engineers who have hands-on experience with industry standard robots. Lawson State Community College is uniquely qualified to recruit and educate a diverse workforce due to its historical mission and because it is located in the Birmingham metropolitan area. Students in the program can easily move to the workforce with an associate degree, or continue at a four-year institution to earn a baccalaureate degree. The College is purchasing two robots with training systems, and five specialized robotic simulation software cells to initiate establishing the Advanced Robotics Center.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>09/09/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/09/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0811561</AwardID>
+<Investigator>
+<FirstName>Nancy</FirstName>
+<LastName>Wilson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nancy Wilson</PI_FULL_NAME>
+<EmailAddress>nwilson@lawsonstate.edu</EmailAddress>
+<NSF_ID>000351547</NSF_ID>
+<StartDate>09/09/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Murray</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Charles Murray</PI_FULL_NAME>
+<EmailAddress>cmurray@lawsonstate.edu</EmailAddress>
+<NSF_ID>000362471</NSF_ID>
+<StartDate>09/09/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Lawson State Community College</Name>
+<CityName>Birmingham</CityName>
+<ZipCode>352211717</ZipCode>
+<PhoneNumber>2059251666</PhoneNumber>
+<StreetAddress>3060 Wilson Road S W</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AL07</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>067109926</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>LAWSON STATE COMMUNITY COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>067109926</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Lawson State Community College]]></Name>
+<CityName>Birmingham</CityName>
+<StateCode>AL</StateCode>
+<ZipCode>352211717</ZipCode>
+<StreetAddress><![CDATA[3060 Wilson Road S W]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1594</Code>
+<Text>Hist Black Colleges and Univ</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7412</Code>
+<Text>Advanced Tech Education Prog</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9150</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1594</Code>
+<Text>HIST BLACK COLLEGES AND UNIV</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~149400</FUND_OBLG>
+</Award>
+</rootTag>

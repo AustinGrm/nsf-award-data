@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Harmonic Analysis and Faithful Data Representations. Multiscale Analysis and Diffusion Processes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>85841.00</AwardTotalIntnAmount>
+<AwardAmount>85841</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040100</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Assen Lubomirov Dontchev</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Many real life applications yield a data set which manifests itself as a collection of points in some metric space.  In some cases one may take this metric space as a high dimensional Euclidean space, and in some cases even this is too restrictive an assumption.  A standard task or challenge which one faces is finding a faithful representation of this collection  of points  (or a big portion of it) as a subset of a low dimensional Euclidean space. The meaning of the words faithful, big, and low is clearly context dependent, and it is often the case that winning a little more in one of these three categories yields a loss in the other two.  In many cases it   makes sense to assume something about the geometry of the data set.  This task has thus far yielded much attention from computer scientists and applied mathematicians using  a wide range of approaches. The PI proposes to use and develop  harmonic analysis and geometric measure theory techniques to attack these problems. In particular, the theory of quantitative rectifiability (a quantitative approach to geometric measure theory stemming from  harmonic analysis)  and diffusion geometry (the study of geometry through diffusion processes, heat kernels eigenfunctions etc.) will be used. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;We are at an age where one has the ability to collect large amounts of data in a reasonable time, but in many cases we do not have the ability to make full use of this data since the mathematical tools are not sufficiently well developed. The research we propose involves the development of new mathematical techniques for extracting information from large data sets and representing it in simpler form, thus making it easier to work with and understand.   Applications include the study of databases of images and documents, and the modeling of complex dynamical systems (e.g. transaction data, weather patterns, molecular dynamics).]]></AbstractNarration>
+<MinAmdLetterDate>07/09/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0800837</AwardID>
+<Investigator>
+<FirstName>Raanan</FirstName>
+<LastName>Schul</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Raanan Schul</PI_FULL_NAME>
+<EmailAddress><![CDATA[schul@math.sunysb.edu]]></EmailAddress>
+<NSF_ID>000007561</NSF_ID>
+<StartDate>07/09/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Los Angeles</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900244201</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress>10889 WILSHIRE BLVD STE 700</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA37</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RN64EPNH8JC6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, LOS ANGELES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Los Angeles]]></Name>
+<CityName>LOS ANGELES</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900244201</ZipCode>
+<StreetAddress><![CDATA[10889 WILSHIRE BLVD STE 700]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~23624</FUND_OBLG>
+</Award>
+</rootTag>

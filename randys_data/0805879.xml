@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Statistical Methodology and Applications to Genetics, Engineering and Economics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>587375.00</AwardTotalIntnAmount>
+<AwardAmount>587375</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gabor Szekely</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Searching a parameter set for the location of one or more signals in a noisy background arises in gene mapping, brain mapping, bioinformatics and astronomy. An important part of the solution of these problems involves the probability that a random field exceeds a high threshold. The proposed research develops a unified analytic approach to evaluate these boundary crossing probabilities, and importance sampling and sequential Monte Carlo methods to supplement the analytic approximations. A closely related area of research is estimation and forecasting problems in time series models and stochastic dynamical systems whose parameters  may change with time. Although  in practice  abrupt parameter changes typically occur very infrequently, the unknown times of their occurrence have led to prohibitive complexity of the Bayes estimators and predictors in the literature. By using parallel recursive algorithms and combining some new ideas in change-point detection with empirical Bayes methodology, the proposed research develops asymptotically efficient estimation and prediction schemes with manageable complexity.&lt;br/&gt;Bayesian models of parameter changes in Markovian systems are special cases of hidden Markov models. A goal of the proposed research is to develop a comprehensive theory of efficient parameter estimation, filtering and smoothing in hidden Markov models on general state spaces. Another related direction of research is econometric time series and stochastic optimization problems in financial economics.&lt;br/&gt;&lt;br/&gt;Important  objectives of the proposed research  are to develop statistical methods for gene mapping, signal processing, adaptive control of engineering systems, and decision and pricing problems in financial markets. The broader implications of the research include (i) direct applications in engineering, finance, and genetics where mapping can be the first step towards better diagnostics or treatment of a disease or towards improving plant or animal stock, and (ii) training the next generation of scientists by  involving graduate students in all phases of the research.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>05/20/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0805879</AwardID>
+<Investigator>
+<FirstName>Tze</FirstName>
+<LastName>Lai</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tze L Lai</PI_FULL_NAME>
+<EmailAddress><![CDATA[lait@stanford.edu]]></EmailAddress>
+<NSF_ID>000179452</NSF_ID>
+<StartDate>05/20/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Siegmund</LastName>
+<PI_MID_INIT>O</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David O Siegmund</PI_FULL_NAME>
+<EmailAddress><![CDATA[dos@stat.stanford.edu]]></EmailAddress>
+<NSF_ID>000395785</NSF_ID>
+<StartDate>05/20/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stanford University</Name>
+<CityName>STANFORD</CityName>
+<ZipCode>943052004</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress>450 JANE STANFORD WAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HJD6G4D6TJY5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE LELAND STANFORD JUNIOR UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Stanford University]]></Name>
+<CityName>STANFORD</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>943052004</ZipCode>
+<StreetAddress><![CDATA[450 JANE STANFORD WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~587375</FUND_OBLG>
+</Award>
+</rootTag>

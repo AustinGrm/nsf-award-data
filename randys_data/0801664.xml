@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Fifth International Conference on High Dimensional Probability</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>15000.00</AwardTotalIntnAmount>
+<AwardAmount>15000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040200</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomek Bartoszynski</SignBlockName>
+<PO_EMAI>tbartosz@nsf.gov</PO_EMAI>
+<PO_PHON>7032924885</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The conference, High Dimensional Probability V (HDPV), will include such topics as Limit Theorems, Empirical Processes and their Applications, Probability Inequalities, Infinitely Divisibility (in several contexts), Small Deviations, Statistical Learning theory, Spin/Glass Methods, Convex Geometry and Applications as well as Random Matrices and Additive Combinatorics. The meeting will consist of a mix of formal and informal discussions and presentations. It is not only intended to present the current state of the art in the field, but also to point out important open problems and to set new directions for the field. The conference will bring together mathematicians and statisticians from several countries (US, France, Germany, Poland, Russia,&lt;br/&gt;etc) facilitating their scientific exchanges and collaboration. Traditionally, there has been strong participation in HDP conferences of junior faculty, post docs and graduate students as well as women and minorities. This trend will continue at this meeting. &lt;br/&gt;&lt;br/&gt;The locations of the previous conferences have alternated between European and US sites in three years intervals. The 2005 meeting took place in Santa Fe, New Mexico. The 2008 meeting will be held at the Centre International de Rencontres Mathematiques (CIRM), Luminy, France. This is a very well equipped conference center that will provide us the opportunity to accommodate a large number of participants.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>01/23/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>01/23/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0801664</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Mason</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David M Mason</PI_FULL_NAME>
+<EmailAddress>davidm@udel.edu</EmailAddress>
+<PI_PHON>3028311188</PI_PHON>
+<NSF_ID>000427302</NSF_ID>
+<StartDate>01/23/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christian</FirstName>
+<LastName>Houdre</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christian Houdre</PI_FULL_NAME>
+<EmailAddress>houdre@math.gatech.edu</EmailAddress>
+<PI_PHON>4048944398</PI_PHON>
+<NSF_ID>000253745</NSF_ID>
+<StartDate>01/23/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Vladimir</FirstName>
+<LastName>Koltchinskii</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vladimir Koltchinskii</PI_FULL_NAME>
+<EmailAddress>vlad@math.gatech.edu</EmailAddress>
+<PI_PHON>4048942718</PI_PHON>
+<NSF_ID>000118109</NSF_ID>
+<StartDate>01/23/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Magda</FirstName>
+<LastName>Peligrad</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Magda Peligrad</PI_FULL_NAME>
+<EmailAddress>peligrm@ucmail.uc.edu</EmailAddress>
+<PI_PHON>5135564066</PI_PHON>
+<NSF_ID>000186642</NSF_ID>
+<StartDate>01/23/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 NORTH AVE NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1263</Code>
+<Text>PROBABILITY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~15000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Dynamics of Coupled Cell Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>196353.00</AwardTotalIntnAmount>
+<AwardAmount>196353</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Warchall</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The project aims to advance the understanding of the dynamics of networks of interacting differential equations and maps. The project focuses in particular on the ways oscillatory and other complex dynamical behavior, such as heteroclinic cycles and chaotic dynamics, can be forced by the network architecture. Many physical, electrical and biological systems can be modeled by networks of interacting differential equations and maps. Models of this type, which can involve a mix of continuous and discrete dynamical systems, possibly with time delays and filters, are called hybrid systems. A high priority of the project is the development of a mathematical theory of hybrid systems, with a special focus on engineering and computer applications. The project will use mathematical techniques originally developed for the study of symmetric dynamical systems, work on statistical and stochastic properties of dynamical systems, and develop new methods for the construction of relatively simple dynamical systems (modules) which satisfy specified dynamical and structural properties.&lt;br/&gt;&lt;br/&gt;Systems of coupled differential equations are used as models in a wide range of physical applications such as neuronal networks, speciation, gene dynamics, arrays of Josephson junctions, and mechanical, electrical and computer systems. The project aims to develop an improved mathematical understanding of the dynamics of these systems. It is a natural development and continuation of past research undertaken, notably in an NSF-sponsored project on "Synchrony and Structure in Coupled Cell Systems.? Part of the research will be undertaken in collaboration with groups in the United Kingdom (Manchester and Exeter) and Portugal (Porto). The Manchester group has a strong focus on applications in the areas of electrical and computer systems and biology, and these applications will help give a framework for the development of the theoretical aspects of networks. At least two graduate students will be directly supported by the grant. More generally, the research will directly impact the mathematical education of graduate and undergraduate students at the University of Houston through seminars, the development of graduate course in the area of differential equations, and undergraduate research projects in the area of networks. The investigator has shown a long-term commitment to the development of outreach programs for the professional development of mathematics and science teachers, notably through the Houston Teachers Institute and the Yale National Initiative. The proposed research will impact the development and content of these programs. The investigator will continue to work towards improving the understanding of mathematics and its applications among the general population by means of public lectures, educational publications, and popular scientific writings.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>06/20/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/20/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0806321</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Field</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael J Field</PI_FULL_NAME>
+<EmailAddress><![CDATA[mikefield@gmail.com]]></EmailAddress>
+<NSF_ID>000383199</NSF_ID>
+<StartDate>06/20/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Houston</Name>
+<CityName>HOUSTON</CityName>
+<ZipCode>772043067</ZipCode>
+<PhoneNumber>7137435773</PhoneNumber>
+<StreetAddress>4300 MARTIN LUTHER KING BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QKWEF8XLMTT3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF HOUSTON SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Houston]]></Name>
+<CityName>HOUSTON</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>772043067</ZipCode>
+<StreetAddress><![CDATA[4300 MARTIN LUTHER KING BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~52680</FUND_OBLG>
+<FUND_OBLG>2009~143673</FUND_OBLG>
+</Award>
+</rootTag>

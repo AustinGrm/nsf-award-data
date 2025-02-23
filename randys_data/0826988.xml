@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: DHB: Identifying the Biological Influences on Political Temperaments</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>84732.00</AwardTotalIntnAmount>
+<AwardAmount>84732</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Amber L. Story</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Humans live in large social units and often care deeply about the rules governing life in those units (politics) even if those rules are unlikely to affect them personally. In fact, they sometimes care so deeply that differences of opinion over politics can be the cause of small-scale arguments and large-scale violence. This project examines the multiple influences on people's political preferences, using a wide range of techniques across different samples. Traditionally, it has been assumed that environmental factors, like parental socialization, lead some people to adopt positions associated with the left and others to adopt positions associated with the right (while still others refrain from adopting any political positions at all). The field of behavioral genetics, however, modifies this assumption in an important way by providing empirical evidence, mostly from twin studies, showing that genetics also plays a role in shaping political orientations. This research extends this work by using multiple levels of analyses including genotyping, brain imaging, physiological tests, surveys, and hormonal assays, applied to large samples of people in the United States and in Australia. Not only does identifying the specific genes, biological systems, and cognitive processing biases relevant to various political temperaments make the gene-political temperament link more convincing, it elucidates the nature and sources of political orientations. This project will also provide interdisciplinary training opportunities to undergraduate and graduate students.</AbstractNarration>
+<MinAmdLetterDate>08/12/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/12/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0826988</AwardID>
+<Investigator>
+<FirstName>Terry</FirstName>
+<LastName>Lohrenz</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Terry Lohrenz</PI_FULL_NAME>
+<EmailAddress>lohrenz@math.rice.edu</EmailAddress>
+<PI_PHON>7135274829</PI_PHON>
+<NSF_ID>000365629</NSF_ID>
+<StartDate>08/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>P. Read</FirstName>
+<LastName>Montague</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>P. Read Montague</PI_FULL_NAME>
+<EmailAddress>read@vtc.vt.edu</EmailAddress>
+<PI_PHON>5405262022</PI_PHON>
+<NSF_ID>000258926</NSF_ID>
+<StartDate>08/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Baylor College of Medicine</Name>
+<CityName>HOUSTON</CityName>
+<ZipCode>770303411</ZipCode>
+<PhoneNumber>7137981297</PhoneNumber>
+<StreetAddress>1 BAYLOR PLZ</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FXKMA43NTV21</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BAYLOR COLLEGE OF MEDICINE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FXKMA43NTV21</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Baylor College of Medicine]]></Name>
+<CityName>HOUSTON</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>770303411</ZipCode>
+<StreetAddress><![CDATA[1 BAYLOR PLZ]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7319</Code>
+<Text>HSD - DYNAMICS OF HUMAN BEHAVI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~84732</FUND_OBLG>
+</Award>
+</rootTag>

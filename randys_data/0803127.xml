@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[International Conference: Mathematical tools for multi-scale biological processes, June 2008. Bozeman, MT]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>16000.00</AwardTotalIntnAmount>
+<AwardAmount>16000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040100</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mary Ann Horn</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[In the past twenty years biology has greatly benefited from insights gathered from mathematical models of biological processes. The unprecedented growth of molecular and systems biology in last 10 years challenges mathematicians to develop modeling techniques appropriate for the intricate biology on a cellular and sub-cellular level.  It is increasingly clear that the processes in a living cell cannot be captured by static descriptions, but must be modeled as dynamical processes. This leads to descriptions by sets of differential equations, often with a stochastic component and including spatial dependencies.  The conference will bring together mathematical biologists working on systems ranging from individual molecular processes to entire ecosystems. The aim of the conference is to facilitate the discovery of similarities between systems at these widely different scales.&lt;br/&gt;&lt;br/&gt;The revolution in genetic and molecular biology of the past decade promises a great advancement in medical science in the near future. The progress on many human diseases like cancer, Alzheimer's disease and genetic diseases is tied to our understanding of molecular mechanisms causing them.  Every second of every day hundreds of chemical reactions in each cell sustain our lives. While we increasingly know who the players in these reactions are, we do not understand how they are controlled and regulated.  Mathematical models can guide the necessary experiments that are needed to untangle this clockwork of interconnected processes. The conference will bring together the leading scientists in mathematical systems biology to exchange the ideas and establish new collaborations in order to help molecular biology to deliver on its medical promise.  The conference participants constitute a diverse group of speakers in terms of gender, geographic origin, as well as career stages, and include members of underrepresented groups in science.]]></AbstractNarration>
+<MinAmdLetterDate>04/15/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/15/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0803127</AwardID>
+<Investigator>
+<FirstName>Tomas</FirstName>
+<LastName>Gedeon</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tomas Gedeon</PI_FULL_NAME>
+<EmailAddress><![CDATA[gedeon@math.montana.edu]]></EmailAddress>
+<NSF_ID>000129413</NSF_ID>
+<StartDate>04/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Patrick</FirstName>
+<LastName>De Leenheer</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Patrick De Leenheer</PI_FULL_NAME>
+<EmailAddress><![CDATA[deleenhp@math.oregonstate.edu]]></EmailAddress>
+<NSF_ID>000494988</NSF_ID>
+<StartDate>04/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Montana State University</Name>
+<CityName>BOZEMAN</CityName>
+<ZipCode>59717</ZipCode>
+<PhoneNumber>4069942381</PhoneNumber>
+<StreetAddress>216 MONTANA HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<StateCode>MT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EJ3UF7TK8RT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MONTANA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>HD5YDTPGA865</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Montana State University]]></Name>
+<CityName>BOZEMAN</CityName>
+<StateCode>MT</StateCode>
+<ZipCode>59717</ZipCode>
+<StreetAddress><![CDATA[216 MONTANA HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7334</Code>
+<Text>MATHEMATICAL BIOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~16000</FUND_OBLG>
+</Award>
+</rootTag>

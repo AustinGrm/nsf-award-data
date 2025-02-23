@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Learning and processing of electrosensory patterns in mormyrid electric fish]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>700000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kenneth Whang</SignBlockName>
+<PO_EMAI>kwhang@nsf.gov</PO_EMAI>
+<PO_PHON>7032925149</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[A key challenge in computational neuroscience is to understand how the central nervous system processes and stores sensory information. Sensory systems process information by means of a complex neural circuitry. One of the major problems these systems must solve is how to identify 3-dimensional objects when sensory information about these objects is 2-dimensional, such as visual information from the retina. This research project investigates a special sensory processing system that is particularly suitable for answering questions about how complex objects are interpreted by a 2-dimensional sensory processing sheet. The system of interest is the electrosensory system of mormyrid weakly electric fish, in particular the lateral line lobe (ELL) in the hindbrain. Mormyrid fish employ an alternative sensory system during their nocturnal activity phase: active electrolocation. This allows the fish to detect and recognize 3-D objects in the absence of light.&lt;br/&gt;&lt;br/&gt;This project will develop a stimulus apparatus that will provide the means to experimentally test the predictions of models that simulate neural activity in the 2-dimensional ELL. The stimulus apparatus will enable the exploration of new experimental questions of interactions between different locations on the skin serface. The model will extend previous studies of single cell activity to include interactions across the 2-dimensional sheet of neurons in the ELL. This modeling and engineering work will improve the coupling between theory, physiological experiment, and behavioral phenomenology.&lt;br/&gt;&lt;br/&gt;The computational aim of this project is to model the spatiotemporal activity patterns in ELL that result from electrical images on the skin. Previous models of ELL will be extended to represent a sheet of interconnected neurons. The model will incorporate presently known anatomy and physiology of the system such as spike-timing dependent plasticity. This modeling project will advance understanding of how homeostatic synaptic learning can be controlled by the changing state of the sensory system.&lt;br/&gt;&lt;br/&gt;The engineering aim of this project is to develop and distribute to the labs of collaborating experimenters a stimulus environment that will be able to present precisely-controlled spatial-temporal electrical images to the mormyrid electric fish. This electrosensory stimulus apparatus will overcome the limitations of current experimental paradigms, and thus help verify and challenge sensory processing models. The algorithms embedded in those models are basic to many sensory systems, and modeling the electrosensory system in mormyrids will refine the understanding of their implementation and function.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>09/15/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2012</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0827722</AwardID>
+<Investigator>
+<FirstName>Todd</FirstName>
+<LastName>Leen</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Todd K Leen</PI_FULL_NAME>
+<EmailAddress><![CDATA[tkl13@georgetown.edu]]></EmailAddress>
+<NSF_ID>000200985</NSF_ID>
+<StartDate>09/15/2008</StartDate>
+<EndDate>07/27/2012</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Patrick</FirstName>
+<LastName>Roberts</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Patrick D Roberts</PI_FULL_NAME>
+<EmailAddress><![CDATA[robertpa@ohsu.edu]]></EmailAddress>
+<NSF_ID>000464204</NSF_ID>
+<StartDate>09/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nathaniel</FirstName>
+<LastName>Sawtell</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nathaniel B Sawtell</PI_FULL_NAME>
+<EmailAddress><![CDATA[ns2635@columbia.edu]]></EmailAddress>
+<NSF_ID>000286131</NSF_ID>
+<StartDate>09/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Oregon Health &amp; Science University</Name>
+<CityName>PORTLAND</CityName>
+<ZipCode>972393011</ZipCode>
+<PhoneNumber>5034947784</PhoneNumber>
+<StreetAddress>3181 SW SAM JACKSON PARK RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OR03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPSNT86JKN51</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OREGON HEALTH &amp; SCIENCE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Oregon Health &amp; Science University, West Campus]]></Name>
+<CityName>Beaverton</CityName>
+<StateCode>OR</StateCode>
+<ZipCode>970068921</ZipCode>
+<StreetAddress><![CDATA[20000 N.W. Walker Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OR01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7327</Code>
+<Text>CRCNS-Computation Neuroscience</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7495</Code>
+<Text>Robust Intelligence</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7327</Code>
+<Text>CRCNS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9215</Code>
+<Text>HIGH PERFORMANCE COMPUTING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~700000</FUND_OBLG>
+</Award>
+</rootTag>

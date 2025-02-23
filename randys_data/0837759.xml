@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Design Based Spiral Learning Curriculum]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Don Millard</SignBlockName>
+<PO_EMAI>dmillard@nsf.gov</PO_EMAI>
+<PO_PHON>7032924620</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Engineering Mechanical - (56)&lt;br/&gt;&lt;br/&gt;This project implements and evaluates a unique approach to teaching four core courses in the mechanical engineering lower division curriculum. Specifically, the use of active, co-operative, and design-project based learning approaches are integrated to replace the lecture method frequently used in many required courses. Such courses traditionally involve memorizing the many entries from menus of manufacturing techniques, machine elements, instrumentation devices, numerical methods and programming commands, with significantly reduced emphasis on how to apply the material in a practical context. This project utilizes an overriding "design as knowledge" teaching philosophy that presents the course materials through an emphasis on model-based design and product realization in a Student-driven Pedagogy of Integrated, Reinforced, Active Learning (SPIRAL) approach. Thus, this approach distributes the teaching of such menu items through multiple courses, and integrates their teaching throughout the curriculum via repetitive exposure in multiple courses. Each new course involves a primary computational and secondary physics emphasis and a related model-based design project, sequentially: 1) Spreadsheet tools and Cartesian particle dynamics, Faraday's laws, and elasticity; 2) MATLAB® and rotational systems; 3) C++ and fluid dynamics; and 4) numerical methods and thermal sciences. Each design project requires the characterization and application of multiple hardware and software tools in end-of-semester, customer-evaluated competitions. In addition to their primary and secondary emphases, these courses help to teach and emphasize the importance of professional concerns and skills (e.g., communications, sustainability, and ethics) in the context of the engineering design decision-making process.]]></AbstractNarration>
+<MinAmdLetterDate>03/03/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/03/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0837759</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Roemer</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert B Roemer</PI_FULL_NAME>
+<EmailAddress><![CDATA[roemer@me.mech.utah.edu]]></EmailAddress>
+<NSF_ID>000415438</NSF_ID>
+<StartDate>03/03/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Adams</LastName>
+<PI_MID_INIT>O</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel O Adams</PI_FULL_NAME>
+<EmailAddress><![CDATA[adams@mech.utah.edu]]></EmailAddress>
+<NSF_ID>000414657</NSF_ID>
+<StartDate>03/03/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>Ameel</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Timothy A Ameel</PI_FULL_NAME>
+<EmailAddress><![CDATA[ameel@mech.utah.edu]]></EmailAddress>
+<NSF_ID>000324311</NSF_ID>
+<StartDate>03/03/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stacy</FirstName>
+<LastName>Bamberg</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stacy J Bamberg</PI_FULL_NAME>
+<EmailAddress><![CDATA[sjm.bamberg@mac.com]]></EmailAddress>
+<NSF_ID>000384951</NSF_ID>
+<StartDate>03/03/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Borgmeier</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Paul Borgmeier</PI_FULL_NAME>
+<EmailAddress><![CDATA[borgmeie@mech.utah.edu]]></EmailAddress>
+<NSF_ID>000425986</NSF_ID>
+<StartDate>03/03/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Utah</Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841129049</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress>201 PRESIDENTS CIR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LL8GLEVH6MG3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF UTAH</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Utah]]></Name>
+<CityName>SALT LAKE CITY</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>841129049</ZipCode>
+<StreetAddress><![CDATA[201 PRESIDENTS CIR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0409</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000910DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>1300CYXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~200000</FUND_OBLG>
+</Award>
+</rootTag>

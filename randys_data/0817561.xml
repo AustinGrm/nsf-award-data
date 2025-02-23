@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CCLI: Educational Materials to Enhance Chemical Engineering Curricula with Applications in Biological Engineering]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>253266.00</AwardTotalIntnAmount>
+<AwardAmount>253266</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Don Millard</SignBlockName>
+<PO_EMAI>dmillard@nsf.gov</PO_EMAI>
+<PO_PHON>7032924620</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Engineering Chemical - (53)&lt;br/&gt;&lt;br/&gt;Chemical engineering education (ChE) requires a paradigm shift to address the needs of a modern industry that is utilizing biotechnological approaches to create new products. For example, biocatalysis and bioprocessing are increasingly finding application in the chemical industry, requiring a familiarity with such concepts of entry-level chemical engineers. Simply adding biology courses to the portfolio of ChE undergraduate instruction is a compartmentalized approach that does not address this deficiency because it does not present content within an engineering context. Integrating appropriate educational materials throughout the ChE core curriculum would help students acquire and reinforce the skills necessary to apply engineering principles to biological, biochemical, or other bio-based (bioX) processes. Such a transformation is currently hindered by the lack of texts and other educational materials for integrating bioX into the curriculum. The goal of this project is to create, collect, disseminate, and evaluate such materials for the entire ChE curriculum. Specifically, the project creates new learning materials and teaching strategies, develops faculty expertise, implements educational innovations and assesses student achievement. The results of this project will serve as a paradigm for other modern, interdisciplinary applications to be integrated into a variety of engineering fields. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/07/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/07/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0817561</AwardID>
+<Investigator>
+<FirstName>Claire</FirstName>
+<LastName>Komives</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Claire F Komives</PI_FULL_NAME>
+<EmailAddress><![CDATA[claire.komives@sjsu.edu]]></EmailAddress>
+<NSF_ID>000322413</NSF_ID>
+<StartDate>08/07/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>San Jose State University Foundation</Name>
+<CityName>SAN JOSE</CityName>
+<ZipCode>951125569</ZipCode>
+<PhoneNumber>4089241400</PhoneNumber>
+<StreetAddress>210 4TH ST 3RD FL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LJBXV5VF2BT9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SAN JOSE STATE UNIVERSITY RESEARCH FOUNDATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>LJBXV5VF2BT9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[San Jose State University]]></Name>
+<CityName>SAN JOSE</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>951921000</ZipCode>
+<StreetAddress><![CDATA[1 WASHINGTON SQ]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7492</Code>
+<Text>CCLI-Type 2 (Expansion)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~253266</FUND_OBLG>
+</Award>
+</rootTag>

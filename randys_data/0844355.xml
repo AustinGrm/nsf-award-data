@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research:  Understanding the basis of interactions between adaptive mutations and their environment]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>411050.00</AwardTotalIntnAmount>
+<AwardAmount>411050</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010207</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samuel Scheiner</SignBlockName>
+<PO_EMAI>sscheine@nsf.gov</PO_EMAI>
+<PO_PHON>7032927175</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The fitness effects of genetic mutations can differ depending on the external and genetic environments in which they occur. These interactions of mutations with the external and genetic environments determine the generality with which a potentially adaptive mutation will actually confer a benefit. This research will study experimentally how the effects of adaptive mutations are influenced by the external environment, which will be manipulated by altering the identity of the growth-limiting resource, and the genetic environment, which will be manipulated by introducing identical mutations into distinct genetic backgrounds, here, different strains of a single bacterial species. Results will integrate ecological, genetic, and biochemical data to determine the influence of the two types of environmental conditions on the effect of new beneficial mutations. &lt;br/&gt;Interactions between mutations and their environment influence the spread of ecologically and medically important traits, such as the ability of bacteria to degrade synthetic compounds or cause disease. An understanding of the factors underlying these interactions is essential to predict the spread of mutations to new species and across different environments; these interactions are fundamental to the vulnerability or robustness of adaptation in a world of changing climate. This project will provide interdisciplinary research-based training for students from the high school to post-doctoral levels, including those from groups traditionally underrepresented in science. The project also will promote transfer of experimental science to undergraduate and high school curricula.  &lt;br/&gt;This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>06/04/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/04/2009</MaxAmdLetterDate>
+<ARRAAmount>411050</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0844355</AwardID>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>Cooper</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME>PhD</PI_SUFX_NAME>
+<PI_FULL_NAME>Timothy F Cooper</PI_FULL_NAME>
+<EmailAddress><![CDATA[tfcooper@uh.edu]]></EmailAddress>
+<NSF_ID>000322804</NSF_ID>
+<StartDate>06/04/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Houston</Name>
+<CityName>HOUSTON</CityName>
+<ZipCode>772043067</ZipCode>
+<PhoneNumber>7137435773</PhoneNumber>
+<StreetAddress>4300 MARTIN LUTHER KING BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QKWEF8XLMTT3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF HOUSTON SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Houston]]></Name>
+<CityName>HOUSTON</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>772043067</ZipCode>
+<StreetAddress><![CDATA[4300 MARTIN LUTHER KING BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7378</Code>
+<Text>EVOLUTIONARY GENETICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7378</Code>
+<Text>EVOLUTIONARY GENETICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~411050</FUND_OBLG>
+</Award>
+</rootTag>

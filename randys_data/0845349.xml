@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Mobile Application Management]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marilyn McClure</SignBlockName>
+<PO_EMAI>mmcclure@nsf.gov</PO_EMAI>
+<PO_PHON>7032925197</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;While mobile applications offer users an opportunity for on-the-go Internet connectivity, deploying, monitoring, and maintaining distributed mobile applications introduces new challenges for software developers.  Seemingly trivial tasks--such as configuring devices, starting executions, and tracking errors--are complicated by the unique characteristics of mobile environments.  Historically, application management frameworks have helped developers cope with the complexities of managing applications; however, no existing frameworks address the challenges presented by mobile networks.  To this end, this proposal has the following goals: 1) investigate mechanisms for the delay tolerant control of mobile applications that enable distributed application management despite network disruptions; 2) develop and evaluate algorithms for partially predictable resource scheduling that leverage the predictable patterns of human interaction to fairly arbitrate access to mobile devices in shared testbeds; 3) develop a software toolkit for mobile application management that simplifies application deployment and visualization.  The framework will implement a set of unified abstractions that shield developers from the complexities of managing applications on mobile computing devices.  The results of the work will benefit a range of students, researchers, and developers by advancing the state-of-the-art for mobile application management and enabling easier access to experimentation on mobile testbeds.  By integrating the framework with shared mobile testbeds, undergraduates at small colleges with little prior exposure to systems development, including women and underrepresented groups, will experience the technological richness of large research institutions and gain hands-on experience with developing real distributed systems.]]></AbstractNarration>
+<MinAmdLetterDate>07/25/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/19/2014</MaxAmdLetterDate>
+<ARRAAmount>400000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0845349</AwardID>
+<Investigator>
+<FirstName>Jeannie</FirstName>
+<LastName>Albrecht</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeannie R Albrecht</PI_FULL_NAME>
+<EmailAddress><![CDATA[Jeannie.R.Albrecht@williams.edu]]></EmailAddress>
+<NSF_ID>000508816</NSF_ID>
+<StartDate>07/25/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Williams College</Name>
+<CityName>WILLIAMSTOWN</CityName>
+<ZipCode>012672600</ZipCode>
+<PhoneNumber>4135974352</PhoneNumber>
+<StreetAddress>880 MAIN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JVZEJJ6N5EM8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PRESIDENT &amp; TRUSTEES OF WILLIAMS COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>JVZEJJ6N5EM8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Williams College]]></Name>
+<CityName>WILLIAMSTOWN</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>012672600</ZipCode>
+<StreetAddress><![CDATA[880 MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7354</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1187</Code>
+<Text>PECASE- eligible</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~400000</FUND_OBLG>
+</Award>
+</rootTag>

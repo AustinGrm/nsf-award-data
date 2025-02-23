@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Oceanographic Instrumentation for the RV Endeavor: 2008</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>42896.00</AwardTotalIntnAmount>
+<AwardAmount>42896</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040101</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Holik</SignBlockName>
+<PO_EMAI>jholik@nsf.gov</PO_EMAI>
+<PO_PHON>7032927711</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This proposal requests funds for shipboard scientific equipment and instrumentation for the RV Endeavor. Funds are requested to purchase five items: (1) Dell computers, (2) 10-L Niskin water bottles, (3) an ISUS nitrate sensor, (4) laboratory refrigerators, and (5) a Magellan ADU5 GPS receiver system. The integration of this equipment into RV Endeavor?s scientific inventory will expand the sampling ability of researchers using the ship and will become part of the shared-use equipment pool. The RV Endeavor is owned by the National Science Foundation and operated by the University of Rhode Island under a cooperative agreement.&lt;br/&gt;&lt;br/&gt;Broader Impacts:&lt;br/&gt;The equipment and instrumentation that are requested will enhance the scientific infrastructure of the University of Rhode Island and the scientific capabilities of the RV Endeavor. Investments in the scientific infrastructure of the ship benefit the science community and enhance the sea-going education and research of undergraduate and graduate students and interns. The shared-use equipment pool provides a cost-effective resource for researchers to access specialized pieces of equipment that would otherwise be prohibitively expensive to include in individual research proposals..&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>08/04/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0804036</AwardID>
+<Investigator>
+<FirstName>Mary-Lynn</FirstName>
+<LastName>Dickson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mary-Lynn Dickson</PI_FULL_NAME>
+<EmailAddress>marylynndickson@me.com</EmailAddress>
+<NSF_ID>000370476</NSF_ID>
+<StartDate>08/04/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Rhode Island</Name>
+<CityName>KINGSTON</CityName>
+<ZipCode>028811967</ZipCode>
+<PhoneNumber>4018742635</PhoneNumber>
+<StreetAddress>RESEARCH OFFICE</StreetAddress>
+<StreetAddress2><![CDATA[70 LOWER COLLEGE ROAD]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>RI02</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>144017188</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF RHODE ISLAND</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>075705780</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Rhode Island]]></Name>
+<CityName>KINGSTON</CityName>
+<StateCode>RI</StateCode>
+<ZipCode>028811967</ZipCode>
+<StreetAddress><![CDATA[RESEARCH OFFICE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>RI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0204000</Code>
+<Name>Oceanography</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5413</Code>
+<Text>OCEANOGRAPHIC INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2008~42896</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RIG: Role of Bec-1 Mediated Autophagy in Aging and Fat Metabolism]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>174999.00</AwardTotalIntnAmount>
+<AwardAmount>174999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090300</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Ellis</SignBlockName>
+<PO_EMAI>stellis@nsf.gov</PO_EMAI>
+<PO_PHON>7032927876</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Autophagy, which is literally "self-cannibalism at the cellular level," is the major mechanism by which cells eliminate organelles and long-lived proteins. Autophagy allows cells to recycle their resources as well as degrade proteins or organelles that may be harmful to them. Previous work on the model organism, C. elegans, has shown that disruption of autophagy affects a variety of functions such as longevity, fat storage, and reproductive development. The goal of this research is to uncover mechanisms that connect autophagy with aging and fat storage in C. elegans. Using genetic and molecular biology approaches, the role of autophagy genes in regulating fatty acid biosynthesis, storage, or breakdown will be determined. In addition, studies will be undertaken to determine which cells require autophagy gene function for lifespan extension and changes in fat metabolism. Since the biological processes involved in these phenomena are highly conserved between humans and C. elegans, this research may help identify therapeutic targets to combat diseases related to aging and fat metabolism. This research will also support the research training of high school, undergraduate, and graduate students from ethnically and culturally diverse backgrounds.]]></AbstractNarration>
+<MinAmdLetterDate>07/19/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0818802</AwardID>
+<Investigator>
+<FirstName>Alicia</FirstName>
+<LastName>Melendez</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alicia Melendez</PI_FULL_NAME>
+<EmailAddress><![CDATA[Alicia.Melendez@qc.cuny.edu]]></EmailAddress>
+<NSF_ID>000478483</NSF_ID>
+<StartDate>07/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CUNY Queens College</Name>
+<CityName>FLUSHING</CityName>
+<ZipCode>113671575</ZipCode>
+<PhoneNumber>7189975400</PhoneNumber>
+<StreetAddress>65-30 KISSENA BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EJABWGUJM228</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U7WPB7AFN7M2</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[CUNY Queens College]]></Name>
+<CityName>FLUSHING</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>113671575</ZipCode>
+<StreetAddress><![CDATA[65-30 KISSENA BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7487</Code>
+<Text>BROADENING PARTICIPATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1228</Code>
+<Text>MINORITY INVOLVEMENT -- BIO</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~174999</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Academic-Industrial Workshop on Complex and Evolving Multiphase Flows</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>30000.00</AwardTotalIntnAmount>
+<AwardAmount>30000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Horst Henning Winter</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>0847271  &lt;br/&gt;Morris, Jeffrey &lt;br/&gt;&lt;br/&gt;This workshop grant is for an Academic-Industrial Workshop on Complex and Evolving Multiphase Flows. &lt;br/&gt;&lt;br/&gt;The intellectual merit of the effort lies in establishing a stronger understanding of the topic of complex systems research, specifically in evolving mixture flows. Intellectual partnerships are expected to develop directly from the workshop. The need to bring talents together to attack a range of problems, maintaining a focus on deep fundamental understanding while addressing a group objective, is expected to result in development of approaches to classify and organize understanding of the hierarchy of issues involved in complex systems. &lt;br/&gt;&lt;br/&gt;Broader impacts from the effort include a reorientation of research philosophy toward team environments for complex systems research. Demonstration of the importance of complex systems issues of major societal impact, in which fundamentals of science and engineering play a central role, is expected to promote better direction and retention of highly motivated students. The interaction of industrial and academica researchers in this effort will expand the opportunities for student exploration of topics early in their careers.</AbstractNarration>
+<MinAmdLetterDate>11/13/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>12/03/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0847271</AwardID>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Morris</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeffrey F Morris</PI_FULL_NAME>
+<EmailAddress>morris@ccny.cuny.edu</EmailAddress>
+<PI_PHON>2126506844</PI_PHON>
+<NSF_ID>000252343</NSF_ID>
+<StartDate>11/13/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CUNY City College</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100319101</ZipCode>
+<PhoneNumber>2126505418</PhoneNumber>
+<StreetAddress>160 CONVENT AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>L952KGDMSLV5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U7WPB7AFN7M2</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[CUNY City College]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100319101</ZipCode>
+<StreetAddress><![CDATA[160 CONVENT AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1415</Code>
+<Text>PMP-Particul&amp;MultiphaseProcess</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1443</Code>
+<Text>FD-Fluid Dynamics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>058E</Code>
+<Text>Newtonian fluids</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>059E</Code>
+<Text>Complex fluids</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~30000</FUND_OBLG>
+</Award>
+</rootTag>

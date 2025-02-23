@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Liquid Composite Molding]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>272618.00</AwardTotalIntnAmount>
+<AwardAmount>272618</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mary Toney</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The research objective of this award is to further the manufacturing science of three dimensional (3D) composites fabricated using Liquid Composite Molding (LCM) processes. In LCM, a fiber preform consisting of many layers of two dimensional fabrics or one or two layers of 3D fabric is placed in a closed mold and resin is impregnated by vacuum or/and by positive pressure to cover all the empty spaces between the fibers of the preform. Any voids in the composite can be detrimental to its properties. Under this award (i) models and measurement techniques for permeability characterization of 3D preforms  will be developed and  used in a simulation software developed at the University of Delaware to describe resin flow in net shape and complex structures in Liquid Composite Molding (ii) Our modeling and simulation efforts will be validated with flow visualization experiments and (iii) A methodology to inverse the simulation process will be formulated so instead of simulating the flow for known preform properties, a permeability map to ensure robust filling without voids will be developed. This permeability map can then be used to design the 3D perform which is insensitive to processing parameters as well as provide the desired mechanical properties. Deliverables will include a characterization method for permeability of 3D preforms, analysis tools to simulate flow in 3D complex composite structures, inverse simulation methodology for creating permeability maps, documentation of research results, engineering student education, and engineering research experiences for high school teachers.&lt;br/&gt;&lt;br/&gt;If successful, the results of this research will allow the process designer to apply the existing flow simulation tools to three dimensional preforms. Secondly, this research will create methodologies for the inversion of the simulation to formulate the permeability property map which can be translated into preform architectures that can be manufactured and used in fabrication of composites structures thus providing a new paradigm that preform design should not only focus on performance but also on ease of manufacturing. Once the properties of 3D preforms are well understood they will be accepted into general use, fulfilling their potential in range of application from transmission housings to infrastructure applications such as bridges and beams. Use of 3D preform will also lead to reduction in hand labor for ply layup in LCM, where instead of placing hundreds if not thousands of individual layers of fabric, only a few pieces of advanced 3-D preform material is sufficient. Further still, as these preforms are near-net shape, the touch labor associated with cutting, darting, draping, and otherwise manipulating fabric placement is almost eliminated, ensuring reliability and repeatability. The results and the technology will be transferred to industries that work with the Center for Composite Materials at the University of Delaware to allow the creation of improved 3D preforms that have tailored properties for the desired application with reduced cost, reduced prototype development time, and improved reliability. Graduate and undergraduate engineering students will benefit through classroom instruction and involvement in the research. High School students and teachers will be engaged to provide them with research experience.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>05/05/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>05/05/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0856399</AwardID>
+<Investigator>
+<FirstName>Suresh</FirstName>
+<LastName>Advani</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Suresh G Advani</PI_FULL_NAME>
+<EmailAddress><![CDATA[advani@udel.edu]]></EmailAddress>
+<NSF_ID>000403164</NSF_ID>
+<StartDate>05/05/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Pavel</FirstName>
+<LastName>Simacek</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Pavel Simacek</PI_FULL_NAME>
+<EmailAddress><![CDATA[simacek@ccm.udel.edu]]></EmailAddress>
+<NSF_ID>000196984</NSF_ID>
+<StartDate>05/05/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Delaware</Name>
+<CityName>NEWARK</CityName>
+<ZipCode>197160099</ZipCode>
+<PhoneNumber>3028312136</PhoneNumber>
+<StreetAddress>220 HULLIHEN HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<StateCode>DE</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DE00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>T72NHKM259N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF DELAWARE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>T72NHKM259N3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Delaware]]></Name>
+<CityName>NEWARK</CityName>
+<StateCode>DE</StateCode>
+<ZipCode>197160099</ZipCode>
+<StreetAddress><![CDATA[220 HULLIHEN HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DE00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1467</Code>
+<Text>MATERIALS PROCESSING AND MANFG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>083E</Code>
+<Text>MATERIAL TRANSFORMATION PROC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9147</Code>
+<Text>GENERIC TECHNOL FOR MANUFACTURING CELLS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~272618</FUND_OBLG>
+</Award>
+</rootTag>

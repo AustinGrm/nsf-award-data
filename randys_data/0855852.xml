@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Major: Transactive Narrative:  An Inclusive Game-Based Programming Context]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>798339.00</AwardTotalIntnAmount>
+<AwardAmount>798339</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>William Bainbridge</SignBlockName>
+<PO_EMAI>wbainbri@nsf.gov</PO_EMAI>
+<PO_PHON>7032927470</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This research will develop and study a narrative-based programming environment for Quest Atlantis (QA) to enhance technological fluency and creativity in schools and after-school centers across the globe.  QA is a highly successful multiuser virtual environment being used by teachers with over 20,000 children worldwide to support meaningful content learning.  Following a systems approach to creativity, this project will develop  a narrative-based programming environment from which students can develop original transactive stories for peers. Using the design toolkit to develop personalized projects, students will learn fundamental computer science programming concepts and skills as they develop story-algorithms while pursuing creative and open-ended aims such as designing virtual space narratives. Supporting students in structuring interactive narratives with innovative programming tools represents a substantial contribution to computer science education. &lt;br/&gt; &lt;br/&gt;The research will lead to the development of new technologies to support human creativity.  Elementary and middle school children age 10-15 will learn fundamental computer science programming concepts and skills, such as control structures, variables, functions, and debugging as they develop story-algorithms while pursuing creative and open-ended aims such as designing a virtual space with narratives of their own choosing. Many of the mechanisms for creating these interactive stories, the user base to support wide-scale impact, and the multi-user virtual engine already exist.  This research will develop the narrative scaffolding, the pedagogical resources, and the user interface to place these tools in the hands of the user. &lt;br/&gt; &lt;br/&gt;The new Quest Atlantis Programming Narrative Toolkit will be made available to all current QA users and will be promoted to the fast growing user-base to maximize public distribution. In addition, the research will contribute to wider awareness in the research community of two important principles.  First, employing narrative to stimulate creative work is a valuable and broadly applicable method.  Second, creativity is best framed within an active social network.  This project characterizes the children's activity in terms uniquely suited to the new millennium: collaborative, distributed, negotiated, and critical. Indeed, the social dimension involves not simply the presentation or publication of the interactive products, but the critical reception and discussion around the work, contributing to the legitimacy and caliber of the work and, in turn, to the community and their engagement in practices relating to computer programming and interactive narrative composition.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>06/25/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>09/02/2011</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855852</AwardID>
+<Investigator>
+<FirstName>Kylie</FirstName>
+<LastName>Peppler</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kylie A Peppler</PI_FULL_NAME>
+<EmailAddress><![CDATA[kpeppler@uci.edu]]></EmailAddress>
+<NSF_ID>000079645</NSF_ID>
+<StartDate>09/02/2011</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kylie</FirstName>
+<LastName>Peppler</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kylie A Peppler</PI_FULL_NAME>
+<EmailAddress><![CDATA[kpeppler@uci.edu]]></EmailAddress>
+<NSF_ID>000079645</NSF_ID>
+<StartDate>06/25/2009</StartDate>
+<EndDate>07/18/2011</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sasha</FirstName>
+<LastName>Barab</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sasha A Barab</PI_FULL_NAME>
+<EmailAddress><![CDATA[sbarab@indiana.edu]]></EmailAddress>
+<NSF_ID>000118725</NSF_ID>
+<StartDate>09/02/2011</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sasha</FirstName>
+<LastName>Barab</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sasha A Barab</PI_FULL_NAME>
+<EmailAddress><![CDATA[sbarab@indiana.edu]]></EmailAddress>
+<NSF_ID>000118725</NSF_ID>
+<StartDate>06/25/2009</StartDate>
+<EndDate>07/18/2011</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Klopfer</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eric Klopfer</PI_FULL_NAME>
+<EmailAddress><![CDATA[klopfer@mit.edu]]></EmailAddress>
+<NSF_ID>000174971</NSF_ID>
+<StartDate>06/25/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Indiana University</Name>
+<CityName>BLOOMINGTON</CityName>
+<ZipCode>474057000</ZipCode>
+<PhoneNumber>3172783473</PhoneNumber>
+<StreetAddress>107 S INDIANA AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YH86RTW2YVJ4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF INDIANA UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YH86RTW2YVJ4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Indiana University]]></Name>
+<CityName>BLOOMINGTON</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>474057000</ZipCode>
+<StreetAddress><![CDATA[107 S INDIANA AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7367</Code>
+<Text>HCC-Human-Centered Computing</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7655</Code>
+<Text>ITR-CreativeIT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7655</Code>
+<Text>ITR-CreativeIT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9215</Code>
+<Text>HIGH PERFORMANCE COMPUTING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~798339</FUND_OBLG>
+</Award>
+</rootTag>

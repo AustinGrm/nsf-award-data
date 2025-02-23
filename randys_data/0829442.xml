@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[FSML: Improving the Research and Education Infrastructure at the Palo Verde Biological Station]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>181670.00</AwardTotalIntnAmount>
+<AwardAmount>181670</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter McCartney</SignBlockName>
+<PO_EMAI>pmccartn@nsf.gov</PO_EMAI>
+<PO_PHON>7032928470</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The Organization for Tropical Studies, (OTS) a non-profit consortium of more than 60 colleges, universities and research institutions based at Duke University is awarded a grant to improve the research and education infrastructure at the Palo Verde Biological Station in Costa Rica.  With this grant, OTS will improve station facilities by 1) constructing a freshwater and wetland research laboratory to foster and support research and education on freshwater and wetland ecology; 2) building a new education center to handle a growing number of student groups visiting the station; 3) upgrading cyberinfrastructure and connectivity? and, in particular, increasing bandwidth and wireless coverage, installing IP telephones; and 4) upgrading equipment associated with the meteorological station. The proposed changes will foster opportunities for expanding spatial and temporal scales of research and education and facilitate regional and global comparisons among biological ecosystems. Collaborations among scientists across disciplines and different locations will encourage sharing and access of databases, providing new directions for scientific questions and challenges. OTS anticipates more than 50 educational courses and 45 young researchers each year will be directly affected by the proposed improvements.  Upgrading laboratory and classroom facilities will ease congestion and provide for a more enriching research and educational experience for diverse groups of scientists and students visiting the station.&lt;br/&gt;&lt;br/&gt;The Palo Verde Biological Station is owned and operated by OTS. It is situated in the heart of Palo Verde National Park that is managed as part of the Tempisque Conservation Area by the Ministry of Environment of Costa Rica. More than 30,000 ha of wildlands lie within 20 km of the field station and form a rich complex of seasonal lowland habitats that cover much of the lower basin of the Rio Tempisque. Palo Verde?s salt and fresh wetlands interdigitate with the marine and estuarine ecosystems of the Gulf of Nicoya.  It was declared a Ramsar Site in 1991 and hosts on a regular basis a population of over 20,000 waterfowl.]]></AbstractNarration>
+<MinAmdLetterDate>12/02/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>12/02/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0829442</AwardID>
+<Investigator>
+<FirstName>Elizabeth</FirstName>
+<LastName>Losos</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elizabeth Losos</PI_FULL_NAME>
+<EmailAddress><![CDATA[elizabeth.losos@duke.edu]]></EmailAddress>
+<NSF_ID>000397266</NSF_ID>
+<StartDate>12/02/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277054640</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W MAIN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TP7EK8DZV6N5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DUKE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277054640</ZipCode>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1104</Code>
+<Text>FIELD STATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1104</Code>
+<Text>FIELD STATIONS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~181670</FUND_OBLG>
+</Award>
+</rootTag>

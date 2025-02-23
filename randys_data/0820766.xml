@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CRIF:ID- Development of Instrumentation for the Study of the Spectroscopy and Chemistry of Isolated Biological Ions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>559719.00</AwardTotalIntnAmount>
+<AwardAmount>559719</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090002</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos Murillo</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This instrument development award from the CRIF-ID program to Timothy S. Zweir and Scott A. McLuckey in the Department of Chemistry at Purdue University will enable them to construct an instrument for the study of ions in the gas phase.  Specifically, the instrument will enable tandem mass spectrometry experiments involving ion/ion reactions, ion/molecule reactions, and collisional activation at room temperature.  This will be followed by conformation-specific IR and UV spectroscopies in a temperature-controlled ion trap. This instrument promises to allow for new insights into the structures, dynamics, and chemical reactivities of gaseous bio-ions with unique capabilities for examining the role of ion preparation conditions and methodologies. By incorporating or using existing aromatic amino acid residues in the polypeptide, single-conformation IR and UV spectra can be obtained, thereby interrogating the H-bonding architectures of individual conformational isomers and probing their UV spectroscopy and conformation specific fragmentation patterns. The dynamics of conformational isomerization between specific reactant-product conformer pairs can also be probed by selective infrared excitation followed by re-cooling with helium prior to interrogation with a probe UV laser. &lt;br/&gt;&lt;br/&gt;This collaborative instrument development project combines in a unique way the powerful tools of biological tandem mass spectrometry and optical spectroscopy. The new information generated will likely prove relevant to future progress in molecular biology research via new structural and dynamical insights on gaseous bio-ions. Graduate students will be involved in the project developing skill in the construction and design of state of the art instrumentation.]]></AbstractNarration>
+<MinAmdLetterDate>08/01/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/01/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0820766</AwardID>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>Zwier</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Timothy S Zwier</PI_FULL_NAME>
+<EmailAddress><![CDATA[zwier@purdue.edu]]></EmailAddress>
+<NSF_ID>000289385</NSF_ID>
+<StartDate>08/01/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>McLuckey</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Scott A McLuckey</PI_FULL_NAME>
+<EmailAddress><![CDATA[mcluckey@purdue.edu]]></EmailAddress>
+<NSF_ID>000191755</NSF_ID>
+<StartDate>08/01/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>WEST LAFAYETTE</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>2550 NORTHWESTERN AVE STE 1900</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YRXVL4JYCEF5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YRXVL4JYCEF5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479061332</ZipCode>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE STE 1900]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1938</Code>
+<Text>Chemical Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~559719</FUND_OBLG>
+</Award>
+</rootTag>

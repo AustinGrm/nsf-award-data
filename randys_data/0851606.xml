@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[REU Site: Aquatic Chemical Ecology at Georgia Tech]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>397151.00</AwardTotalIntnAmount>
+<AwardAmount>397151</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Elizabeth Rom</SignBlockName>
+<PO_EMAI>elrom@nsf.gov</PO_EMAI>
+<PO_PHON>7032927709</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award provides renewed funding for a Research Experience for Undergraduates (REU) program at Georgia Institute of Technology. The program will support nine students per year during a ten week summer research program. Students will conduct independent research projects on aquatic chemical ecology. Chemical cues mediate a variety of critical ecological processes, including inter- and intraspecific competition, predator-prey, host-parasite, and mutualistic interactions. These cues are used by organisms to locate food, evade predators, select mates, form aggregations, launch cooperative behaviors, construct social hierarchies, and choose suitable environments. Chemical signaling appears to be especially important in aquatic environments, where visual and auditory transmission of signals is often impeded. Chemically-mediated interactions have ecological and evolutionary consequences at the individual, population, community, and ecosystem levels.  The program will stress interdisciplinary research as a tool to solve complex problems and promote an appreciation for the importance of chemically-mediated processes in basic and applied research.  Recruiting will focus on students from non-PhD granting institutions and minority students.]]></AbstractNarration>
+<MinAmdLetterDate>03/05/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/30/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0851606</AwardID>
+<Investigator>
+<FirstName>Marc</FirstName>
+<LastName>Weissburg</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marc J Weissburg</PI_FULL_NAME>
+<EmailAddress><![CDATA[marc.weissburg@biology.gatech.edu]]></EmailAddress>
+<NSF_ID>000453272</NSF_ID>
+<StartDate>03/05/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Julia</FirstName>
+<LastName>Kubanek</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Julia Kubanek</PI_FULL_NAME>
+<EmailAddress><![CDATA[julia.kubanek@biology.gatech.edu]]></EmailAddress>
+<NSF_ID>000194254</NSF_ID>
+<StartDate>03/05/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 NORTH AVE NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0204000</Code>
+<Name>Oceanography</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1690</Code>
+<Text>EDUCATION/HUMAN RESOURCES,OCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1690</Code>
+<Text>EDUCATION/HUMAN RESOURCES,OCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~397151</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Preparation of the Quantum Ground of a Mechanical Resonator]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>480000.00</AwardTotalIntnAmount>
+<AwardAmount>360000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070003</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daniele Finotello</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[****NON-TECHNICAL ABSTRACT****&lt;br/&gt;The fundamental theory which describes the behavior of the microscopic world of atoms, electrons, and photons is called quantum mechanics. Quantum mechanics has shown itself to be correct in laboratory experiments and tests, with no known exceptions. In spite of this, there are conceptual problems with applying quantum mechanics to larger objects and length scales. For instance, quantum mechanics says that the energy of vibrating mechanical system should quantized, with only discreet values of the energy possible. Furthermore, the theory requires that position measurements will necessarily perturb the motion of the mechanical structure, called the Heisenberg Uncertainty Principle. Both of these predictions are far outside our normal experience of classical reality. This project will pursue experiments to probe these subtle and bizarre effects in small mechanical structures formed by billions of atoms. This will be accomplished by employing the most advance tools of experimental science: nanofabrication, ultra-low temperature physics, and quantum computing electronic devices. This project will support the education of a PhD student in these advanced technologies, which has historically shown itself to be excellent training for many scientific careers from academia to our most advanced technology industries. This project will either succeed to show quantum mechanics is true at bizarrely large length scales, or we will fail and possibly find new features to quantum mechanics which are not yet known. Both possibilities would change our understanding of quantum mechanics and our view of the physical world.&lt;br/&gt;&lt;br/&gt;****TECHNICAL ABSTRACT****&lt;br/&gt;This project will pursue experiments to probe quantum measurement limits in mechanical structures. The techniques are in hand to produce and measure the quantum ground state of a small, radio frequency mechanical structure formed by 10 billion atoms. This will be accomplished using a nanomechanical structure coupled to a very low loss, superconducting microwave resonator. Furthermore, using these techniques, it appears possible to produce detection with avoids the backaction required by the Heisenberg Uncertainty Principle (HUP) for continuous measurement, and to produce squeezed states, where the uncertainties periodically dip below the HUP. By careful study of the decay of these squeezed states, it is expected to be able to provide a quantitative test of environmental decoherence mechanisms for a somewhat macroscopic body. These experiments are now only very recently possible due to the latest advances in nano-electro-mechanical devices, superconducting electronics technology. This project will support the education of a PhD student in these advanced technologies, which has historically shown itself to be excellent training for many scientific careers from academia to our most advanced technology industries. These experiments are expected to be of general interest to the scientific community and to provide ultra-sensitive readout techniques especially for the community pursing sensitive detection at the nano-scale.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/10/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/29/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0804567</AwardID>
+<Investigator>
+<FirstName>Keith</FirstName>
+<LastName>Schwab</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Keith Schwab</PI_FULL_NAME>
+<EmailAddress><![CDATA[schwab@caltech.edu]]></EmailAddress>
+<NSF_ID>000395132</NSF_ID>
+<StartDate>07/10/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>ITHACA</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>341 PINE TREE RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G56PUALJ3KT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CORNELL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>ITHACA</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>148502820</ZipCode>
+<StreetAddress><![CDATA[341 PINE TREE RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0106000</Code>
+<Name>Materials Research</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1710</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9161</Code>
+<Text>SINGLE DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>AMPP</Code>
+<Text>ADVANCED MATERIALS &amp; PROCESSING PROGRAM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0110</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001011DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~120000</FUND_OBLG>
+<FUND_OBLG>2009~119979</FUND_OBLG>
+<FUND_OBLG>2010~0</FUND_OBLG>
+</Award>
+</rootTag>

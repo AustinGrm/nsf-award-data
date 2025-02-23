@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[II-NEW: An Infrastructure for Researching Wireless Link Signatures]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>224326.00</AwardTotalIntnAmount>
+<AwardAmount>224326</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Spengler</SignBlockName>
+<PO_EMAI>sspengle@nsf.gov</PO_EMAI>
+<PO_PHON>7032927347</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The objective of this project is to acquire and set up a wireless measurement infrastructure and use it to research new wireless link signatures and their applications. The signature of a wireless link between a wireless transmitter and a receiver represents the wireless link's unique physical characteristics. Wireless link signature applications include secret key establishment between a wireless transmitter and a receiver without ever communicating the secret key, and location distinction which is the ability to detect at one or more receivers when a transmitter changes its location.&lt;br/&gt;&lt;br/&gt;The intellectual merit of this research includes (i) extensive measurements of wireless link characteristics under (a) heterogeneous indoor and outdoor settings, (b) a variety of wireless standards with different types of transmitters, and (c) different frequency bands with the help of highly capable spectrum analyzers, (ii) development of novel methodologies for different wireless link signature applications including location distinction, and secret key establishment, using these measurements, and (iii) evaluation of the methodologies through implementation.&lt;br/&gt;&lt;br/&gt;This research impacts the development and deployment of wireless link signature-based applications. It also contributes a vast amount of measurement data that is useful for understanding unique wireless link characteristics, and also traditional wireless link performance modeling and evaluation. This research activity is integrated in the education curriculum through new measurement and inference projects in the networking and security classes. Furthermore, this research is used in conjunction with an existing NSF STEP project for high school outreach.]]></AbstractNarration>
+<MinAmdLetterDate>08/06/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/06/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855261</AwardID>
+<Investigator>
+<FirstName>Sneha</FirstName>
+<LastName>Kasera</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sneha K Kasera</PI_FULL_NAME>
+<EmailAddress><![CDATA[kasera@cs.utah.edu]]></EmailAddress>
+<NSF_ID>000096139</NSF_ID>
+<StartDate>08/06/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Neal</FirstName>
+<LastName>Patwari</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Neal K Patwari</PI_FULL_NAME>
+<EmailAddress><![CDATA[neal.patwari@gmail.com]]></EmailAddress>
+<NSF_ID>000282953</NSF_ID>
+<StartDate>08/06/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Utah</Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841129049</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress>201 PRESIDENTS CIR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LL8GLEVH6MG3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF UTAH</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Utah]]></Name>
+<CityName>SALT LAKE CITY</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>841129049</ZipCode>
+<StreetAddress><![CDATA[201 PRESIDENTS CIR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7359</Code>
+<Text>CCRI-CISE Cmnty Rsrch Infrstrc</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~224326</FUND_OBLG>
+</Award>
+</rootTag>

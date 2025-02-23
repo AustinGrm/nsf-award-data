@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[GSE/DIF Girls in Science:  Key Research Findings on Gender Equity in Science, Technology, Engineering, and Mathematics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>249136.00</AwardTotalIntnAmount>
+<AwardAmount>249136</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11060000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EES</Abbreviation>
+<LongName>Div. of Equity for Excellence in STEM</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jolene Jesse</SignBlockName>
+<PO_EMAI>jjesse@nsf.gov</PO_EMAI>
+<PO_PHON>7032927303</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Intellectual Merit: The American Association of University Women (AAUW) proposes to produce and widely distribute a report highlighting key findings from research on gender in science, technology, engineering and mathematics (STEM).  AAUW will work closely with researchers to translate key findings into simple, compelling prose that will spark the attention of the public and media outlets. The resulting publication will feature key findings in an accessible format that seeks to reach a general audience broader than is typically reached by academic and national policy reports. Focusing on top findings, rather than comprehensive overview, the AAUW report will highlight themes across disciplines and across educational levels. Each chapter of the report will focus on topics such as gender differences in spatial skills, stereotype threat, girls' interest in science and engineering, or college recruitment and retention. Case studies and personal stories will be used to illustrate common themes across STEM disciplines and across stages of education and work-life progression. Throughout, reasons behind the persistent gender inequity in STEM will be explored. &lt;br/&gt;&lt;br/&gt;Broader Impacts. Building on its extensive membership network and its reputation with national and state media outlets, AAUW will distribute the report in a variety of formats, including electronic and traditional paper reports as well as additional web-based formats. In addition, through a partnership with the National Girls Collaborative Project, the report will be made widely available to practitioners in girl-serving organizations across the country. The report will raise scientific literacy by communicating recent new knowledge on gender and STEM education. The work of researchers and educators will be more widely promoted, further enhancing the societal benefits of their academic work and research investments. Since the field of study is characteristically interdisciplinary and cross-cutting, the report will also help the community of researchers and educators understand the breadth and depth of the field.]]></AbstractNarration>
+<MinAmdLetterDate>08/29/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/29/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0832982</AwardID>
+<Investigator>
+<FirstName>Catherine</FirstName>
+<LastName>Hill</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME>Dr.</PI_SUFX_NAME>
+<PI_FULL_NAME>Catherine Hill</PI_FULL_NAME>
+<EmailAddress><![CDATA[hillc@aauw.org]]></EmailAddress>
+<NSF_ID>000057909</NSF_ID>
+<StartDate>08/29/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christianne</FirstName>
+<LastName>Corbett</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christianne Corbett</PI_FULL_NAME>
+<EmailAddress><![CDATA[corbettc@aauw.org]]></EmailAddress>
+<NSF_ID>000078195</NSF_ID>
+<StartDate>08/29/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>American Association of University Women</Name>
+<CityName>Washington</CityName>
+<ZipCode>200364809</ZipCode>
+<PhoneNumber>2027857700</PhoneNumber>
+<StreetAddress>1111 Sixteenth Street, NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[American Association of University Women]]></Name>
+<CityName>Washington</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>200364809</ZipCode>
+<StreetAddress><![CDATA[1111 Sixteenth Street, NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1544</Code>
+<Text>RES ON GENDER IN SCI &amp; ENGINE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<FUND_OBLG>2008~249136</FUND_OBLG>
+</Award>
+</rootTag>

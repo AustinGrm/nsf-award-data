@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PASI:  Pan-American Sensors for Environmental Observatories - An Interdisciplinary PASI; Bahia Blanca, Argentina, January 2009]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>108889</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Harold Stolberg</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This Pan-American Advanced Studies Institutes (PASI) award, jointly supported by the NSF and the Department of Energy (DOE), will take place January 2009 at the Instituto Argentino de Oceanografía in Bahía Blanca, Argentina. Organized by Dr. Thomas C. Harmon of the University of California - Merced, the goal of this PASI is to deliver an interdisciplinary collaborative training experience to participants in applications of sensor system technology to environmental observational science.&lt;br/&gt;&lt;br/&gt;The activity will provide a diverse group of 30-40 graduate students, postdocs, and junior faculty with backgrounds ranging from lab-on-a-chip sensor development to field exploration in limnology with a series of hands-on experiments, which will expand their practical experience in the field of sensor system technology.  The proposed PASI short course will be transformative by creating a cadre of scientists and engineers who are trained in the state-of-technology for environmental observations and primed for embarking on international collaborative research in both technology development and environmental research domains applying environmental sensor systems. The project will also help develop training materials that can be reused in other contexts through U.S. and international research organizations.  Results will be disseminated through the PASEO web site at https://eng.ucmerced.edu/paseo.]]></AbstractNarration>
+<MinAmdLetterDate>07/29/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>11/20/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.079</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0819276</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Harmon</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thomas C Harmon</PI_FULL_NAME>
+<EmailAddress><![CDATA[tharmon@ucmerced.edu]]></EmailAddress>
+<NSF_ID>000316718</NSF_ID>
+<StartDate>07/29/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California - Merced</Name>
+<CityName>MERCED</CityName>
+<ZipCode>953435001</ZipCode>
+<PhoneNumber>2092012039</PhoneNumber>
+<StreetAddress>5200 N LAKE RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FFM7VPAG8P92</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, MERCED FOUNDATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California - Merced]]></Name>
+<CityName>MERCED</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>953435001</ZipCode>
+<StreetAddress><![CDATA[5200 N LAKE RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1385</Code>
+<Text>SSA-Special Studies &amp; Analysis</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7226</Code>
+<Text>HUMAN RESOURCES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7298</Code>
+<Text>International Research Collab</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>T935</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1325</Code>
+<Text>WATER &amp; ENERGY: ATMO, VEG, EARTH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5911</Code>
+<Text>ARGENTINA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5977</Code>
+<Text>AMERICAS PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7728</Code>
+<Text>PASI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0110</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809RB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001011DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~97185</FUND_OBLG>
+<FUND_OBLG>2010~11704</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I: Fast Two-Color Heterodyne Non-Contact Scanning System for Mapping Optical Parameters of Human Eye]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2008</AwardExpirationDate>
+<AwardTotalIntnAmount>99932.00</AwardTotalIntnAmount>
+<AwardAmount>99932</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gregory T. Baxter</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This Small Business Innovation Research Phase I project develops a high speed and high sensitivity system for measuring optical dimensions of human eye, such as the total axial length, corneal thickness and the location and thickness of the crystalline lens, in a non-contact manner using infrared light, invisible to the eye. This task is accomplished by improving the existing technique of time domain low-coherence interferometry. In the case of a live patient, which in general cannot be immobilized for steady measurements, speed and sensitivity of the measurements are especially important to achieve high accuracy and precision. &lt;br/&gt;&lt;br/&gt;The broader impacts of this research will benefit a large part of the population that suffers from cataract and other vision problems. The U.S. population of over 65 years old is expected to increase to over 70 million in 2030. Therefore, there is a dramatic need for tools to treat the wave of eye diseases and problems inherent to such population. Information on the structure of the eye is required in eye surgeries, including those that deal with replacing the crystalline lenses affected by  cataract. The proposed research will result in an array of critical tools aimed at mapping out the eye, for medical research and for more successful treatment of eye diseases. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>05/06/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/06/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0810475</AwardID>
+<Investigator>
+<FirstName>Filipp</FirstName>
+<LastName>Ignatovich</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Filipp Ignatovich</PI_FULL_NAME>
+<EmailAddress><![CDATA[fignatovich@lumetrics.com]]></EmailAddress>
+<NSF_ID>000082588</NSF_ID>
+<StartDate>05/06/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Lumetrics, Inc</Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>146233190</ZipCode>
+<PhoneNumber>5852142455</PhoneNumber>
+<StreetAddress>1565 JEFFERSON RD</StreetAddress>
+<StreetAddress2><![CDATA[STE 420]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>L5L3UMW24HK3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>LUMETRICS, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>L5L3UMW24HK3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Lumetrics, Inc]]></Name>
+<CityName>ROCHESTER</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>146233190</ZipCode>
+<StreetAddress><![CDATA[1565 JEFFERSON RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9184</Code>
+<Text>BIOTECHNOLOGY - INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9267</Code>
+<Text>INSTRUMENTATION &amp; LAB IMPROVE.</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~99932</FUND_OBLG>
+</Award>
+</rootTag>

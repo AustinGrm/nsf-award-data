@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STTR Phase II:  High Resolution, High Brightness Display for Virtual Reality</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>492628</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Glenn H. Larsen</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Technology Transfer (STTR) Phase II research project focuses on new GaAs-based, low voltage technology for high definition head mounted displays (HMDs), suitable for advanced applications in immersive virtual reality and 3-D imaging. Applications for this technology include battery powered augmented reality HMDs, full color, high resolution HMDs with 3-D imaging potential, and low cost, low voltage indicators and backlights for battery powered electronics. Displays derived from this GaAs technology have superior color gamut, high brightness, resolution and efficiency compared to other approaches. The results obtained from the STTR Phase I project indicate that low cost HMD-based optical systems can be designed using these high resolution microdisplay chips at supply voltages as low as 1.5 volts. Compared to display systems based on GaN LED and OLED technology which require voltages of up to 4 volts, this technology presents a path for continued advancement to 3-D imaging systems that could reach the resolution of the human eye.&lt;br/&gt;&lt;br/&gt;This technology should impact low cost HMDs displaying low-information content data such as maps, text or line graphics that require long battery life for markets that include first responders, factory and inventory workers, and consumer appliances. The technology can be advanced to much higher resolution microdisplays and improved optics for the high-information content marketplace such as immersive virtual reality for education, medical imaging and surgery, games and videos. Commercial emphasis will be placed on the low voltage operation for battery compatibility, a key advantage for augmented reality HMDs; and one which may lead to fundamental changes in battery powered electronics having indicator lights and/or displays.</AbstractNarration>
+<MinAmdLetterDate>08/21/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/21/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0822965</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Bass</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael Bass</PI_FULL_NAME>
+<EmailAddress>bass2703@gmail.com</EmailAddress>
+<PI_PHON>4077182843</PI_PHON>
+<NSF_ID>000174719</NSF_ID>
+<StartDate>08/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>bdDisplays, LLC</Name>
+<CityName>Orlando</CityName>
+<ZipCode>328289177</ZipCode>
+<PhoneNumber>4077182843</PhoneNumber>
+<StreetAddress>905 Sykes Court</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The University of Central Florida Board of Trustees]]></Name>
+<CityName>ORLANDO</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>328168005</ZipCode>
+<StreetAddress><![CDATA[4000 CENTRAL FLORIDA BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1591</Code>
+<Text>STTR Phase II</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1654</Code>
+<Text>HUMAN COMPUTER INTERFACE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9215</Code>
+<Text>HIGH PERFORMANCE COMPUTING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~492628</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Multi-Exciton Dissociation in Quantum Dots by Ultrafast Charge Transfer to  Adsorbates]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>408070.00</AwardTotalIntnAmount>
+<AwardAmount>408070</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090004</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Colby Foss</SignBlockName>
+<PO_EMAI>cfoss@nsf.gov</PO_EMAI>
+<PO_PHON>7032925327</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;In this award, funded by the Experimental Physical Chemistry Program of the Chemistry Division, Prof. Tianquan Lian of Emory University and research group will employ transient absorption and photoluminescence spectroscopies to explore ultrafast electron transfer from quantum dots. The goal of these experiments is to develop a better understanding of the multiple exciton (electron-hole pair) dissociation as well as the multiple exciton generation processes that are proposed to occur in certain nanoscale semiconductor structures.&lt;br/&gt;&lt;br/&gt;This research is relevant to many potential applications for nanoparticles, including solar energy conversion, photocatalysis, nanoscale sensors, and molecular electronics. In addition to the broader scientific impact of the proposed research, Prof. Lian will work with undergraduates from the southeast region to become involved in science. His efforts will include providing summer research positions, seminar visits, collaborative research projects, and regional conferences.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/22/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2009</MaxAmdLetterDate>
+<ARRAAmount>408070</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0848556</AwardID>
+<Investigator>
+<FirstName>Tianquan</FirstName>
+<LastName>Lian</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tianquan Lian</PI_FULL_NAME>
+<EmailAddress><![CDATA[tlian@emory.edu]]></EmailAddress>
+<NSF_ID>000204669</NSF_ID>
+<StartDate>07/22/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Emory University</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303221007</ZipCode>
+<PhoneNumber>4047272503</PhoneNumber>
+<StreetAddress>201 DOWMAN DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>S352L5PJLMP8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>EMORY UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>S352L5PJLMP8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Emory University]]></Name>
+<CityName>ATLANTA</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303221007</ZipCode>
+<StreetAddress><![CDATA[201 DOWMAN DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1960</Code>
+<Text>STRUCTURE AND REACTIVITY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~408070</FUND_OBLG>
+</Award>
+</rootTag>

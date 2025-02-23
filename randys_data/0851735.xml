@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[REU Site:  Undergraduate Research Experiences in Cellular and Molecular Biosciences]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>415263.00</AwardTotalIntnAmount>
+<AwardAmount>415263</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080300</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sally O'Connor</SignBlockName>
+<PO_EMAI>soconnor@nsf.gov</PO_EMAI>
+<PO_PHON>7032924552</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5). The Carnegie Mellon University REU Site for Undergraduate Research Experiences in Cellular and Molecular Biosciences will provide a research program for undergraduates during the summers of 2009-2012. Ten students will be selected each year to participate in an intensive 10-week research program in the areas of molecular biology and genetics, cell and developmental biology, biochemistry, biophysics, structural biology, and computational biology and bioinformatics. Students targeted for participation include rising juniors or seniors from small colleges and universities that do not have extensive research programs, and students from groups underrepresented in the sciences.  The core of the program is the opportunity to carry out an individual research project, tailored to students' interest.  The program includes faculty research talks, presentations and discussions by students of articles from the scientific literature, presentations on career options and scientific ethics, and a concluding symposium in which all students give formal talks about their research. Students are encouraged to consider careers in biological research, and are taught experimental, communication, ethical, and critical thinking skills needed for success.  Mellon Institute and other university facilities provide all necessary resources for conducting research, and an abundance of professional and social events immerse REU participants into the Carnegie Mellon experience. REU students are provided with a stipend, housing, a meal allowance, and funds for travel to and from Carnegie Mellon University.  Additional information can be found at http://www.cmu.edu/bio/undergraduate/research/SURP/reu.shtml, or by contacting Emily Stark at vestark@andrew.cmu.edu (412-268-6181) or the Program Director, David Hackney, at ddh@andrew.cmu.edu (412-268-3244).]]></AbstractNarration>
+<MinAmdLetterDate>05/28/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>02/22/2012</MaxAmdLetterDate>
+<ARRAAmount>415263</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0851735</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Hackney</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David D Hackney</PI_FULL_NAME>
+<EmailAddress><![CDATA[ddh@andrew.cmu.edu]]></EmailAddress>
+<NSF_ID>000359645</NSF_ID>
+<StartDate>05/28/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Brooke</FirstName>
+<LastName>McCartney</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brooke McCartney</PI_FULL_NAME>
+<EmailAddress><![CDATA[bmccartney@cmu.edu]]></EmailAddress>
+<NSF_ID>000528714</NSF_ID>
+<StartDate>05/28/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 FORBES AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NKNFLNQ613</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARNEGIE MELLON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NKNFLNQ613</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>PITTSBURGH</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152133815</ZipCode>
+<StreetAddress><![CDATA[5000 FORBES AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1139</Code>
+<Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5977</Code>
+<Text>AMERICAS PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~415263</FUND_OBLG>
+</Award>
+</rootTag>

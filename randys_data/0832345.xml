@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Fourth Northeast Control Workshop, held on April 26-27, 2008 at The University of Maryland, College Park.]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>12320.00</AwardTotalIntnAmount>
+<AwardAmount>12320</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Radhakisan Baheti</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This proposal requests funds to support the fourth Northeast StudentWorkshop&lt;br/&gt;on Systems and Control, to be held at The University of Maryland, College&lt;br/&gt;Park, from Saturday, April 26, through Sunday April 27, 2008. The goal of the&lt;br/&gt;workshop is to offer educational opportunities to graduate students, postdoctoral scholars, and junior researchers to learn about the latest developments in control systems research, particularly in emerging application areas; to present their research results; and to share and discuss ideas with their peers, as well as with faculty members from other universities. The proximity of the universities in the Northeast provides an excellent opportunity to realize this goal with minimal travel cost. In contrast to previous editions, this year the Northeast Student Workshop on Systems and Control will include panels on careers in industry and on funding opportunities. The former will give students and postdoctoral scholars the opportunity to interact with industry representatives and learn about research careers in industry. The panel on funding opportunities will give postdoctoral scholars and junior researchers a unique perspective on the funding opportunities at various funding agencies. &lt;br/&gt;&lt;br/&gt;The intellectual merit of the proposed activity is that it will provide a stimulus for sustained research in control systems theory, as well as increased number of applications in other fields of science and engineering. &lt;br/&gt;&lt;br/&gt;The broad impact resulting from the proposed workshop will be the encouragement of a broader and more diverse group of students (than those who are already able to attend major conferences in the field) to pursue research careers. A directed effort has been made to attract faculty and students from Historically Black Colleges and Universities to attend this workshop.&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>05/06/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/06/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0832345</AwardID>
+<Investigator>
+<FirstName>Nuno Miguel</FirstName>
+<LastName>Martins</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nuno Miguel L Martins</PI_FULL_NAME>
+<EmailAddress><![CDATA[nmartins@isr.umd.edu]]></EmailAddress>
+<NSF_ID>000104878</NSF_ID>
+<StartDate>05/06/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland, College Park</Name>
+<CityName>College Park</CityName>
+<ZipCode>207420001</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 REGENTS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPU8ULVAAS23</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND, COLLEGE PARK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KMGEN62NKEM9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland, College Park]]></Name>
+<CityName>College Park</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>207420001</ZipCode>
+<StreetAddress><![CDATA[3112 LEE BLDG 7809 REGENTS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0112000</Code>
+<Name>System Theory</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7607</Code>
+<Text>EPCN-Energy-Power-Ctrl-Netwrks</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>093E</Code>
+<Text>System fab/packaging &amp; assembly</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~12320</FUND_OBLG>
+</Award>
+</rootTag>

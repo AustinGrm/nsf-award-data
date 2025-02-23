@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[STTR Phase I:  Designing Complex Internal Structures for Solid Freeform Fabrication]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>149890.00</AwardTotalIntnAmount>
+<AwardAmount>149890</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Errol Arkilic</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This Small Business Technology Transfer (STTR) Phase I project will demonstrate the feasibility of developing an internal structure design software system for solid freeform fabrication (SFF) processes. The software system, if successful, will serve as a simple and effective design tool to help designers to achieve better design performance over a wide range of applications. SFF is a direct manufacturing process that can fabricate complicated geometries cost-effectively. Therefore, it provides designers with design freedom including complex internal structures. However, designing a computer-aided design (CAD) model with such internal structures is beyond the capability of current CAD software. The project will address significant open research questions that stand in the path of incorporating internal structures in our everyday products.  The primary innovation of the proposed research is (1) a general and effective design method based on 3D texture mapping for various design requirements, (2) an efficient computational approach based on hybrid geometrical representations and calculations, and (3) a SLS fabrication feasibility study which will provide important insights on the relations between process parameters and internal structures material properties. If successful, this project will result in an internal structure design method that is general and effective for a wide variety of applications. &lt;br/&gt;&lt;br/&gt;This STTR project, if successful, will give rise to a commercial software product which will enable designers to use materials more efficiently in their designs. This will positively impact a host of industries, such as aerospace, defense, and medical industries, where using materials efficiently is critical. The internal structure design software system will also help rapid prototyping and manufacturing companies to reduce their material usages in the SFF processes. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>04/29/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/29/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0810637</AwardID>
+<Investigator>
+<FirstName>Xiaoshu</FirstName>
+<LastName>Xu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiaoshu Xu</PI_FULL_NAME>
+<EmailAddress><![CDATA[xiaoshu@solidconcepts.com]]></EmailAddress>
+<NSF_ID>000081024</NSF_ID>
+<StartDate>04/29/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Solid Concepts Inc</Name>
+<CityName>VALENCIA</CityName>
+<ZipCode>913551251</ZipCode>
+<PhoneNumber>6612954447</PhoneNumber>
+<StreetAddress>28309 AVENUE CROCKER</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>27</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA27</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>S2NPBAL8EK39</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>STRATASYS DIRECT, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FDZJC8UNLAC1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>LOS ANGELES</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900894304</ZipCode>
+<StreetAddress><![CDATA[3720 S FLOWER ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1786</Code>
+<Text>MANFG ENTERPRISE SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9139</Code>
+<Text>INFORMATION INFRASTRUCTURE &amp; TECH APPL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~149890</FUND_OBLG>
+</Award>
+</rootTag>

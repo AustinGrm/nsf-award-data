@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CreativeIT Pilot Project : Collaborative Undergraduate Computing Studios Facilitating Decentralized Participation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>293057.00</AwardTotalIntnAmount>
+<AwardAmount>293057</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ephraim Glinert</SignBlockName>
+<PO_EMAI>eglinert@nsf.gov</PO_EMAI>
+<PO_PHON>7032924341</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This Pilot CreativeIT Project provides innovative approach to promote creativity in computationally intensive distributed undergraduate design studios. This is accomplished through regulated modifications of team structure, workflow, and student use of awareness technology in three successive studio courses. Using these techniques, the student participants develop skills as well as a more profound understanding of specific influences on technical and visual creativity. This work addresses a project management issue faced by major companies in the visual effects, animation, and electronic game industries where high levels of technical and visual creativity are required from a global workforce. The objectives are to define conditions in which information technology promotes creativity in a decentralized studio environment and establish a sound basis for conducting a multi-institutional education.&lt;br/&gt;&lt;br/&gt;Student participants in the studio portion of this project are located on three campuses, one overseas, and one high school. They join together in small teams that span the different locations to work collaboratively on projects requiring both visual and technical problem solving. The studios are assessed for success of learning environments by a professional evaluator, and after completion the projects are rated on a Likert Scale for technical and visual creativity. The results are be analyzed in terms of the perceived benefits of awareness tools and their impact on the quality of the outcome. An advisory board for the project is composed of industry professionals, studio instructors, and the evaluator. The board plans, monitors, and conducts the studio courses; and assesses the results.&lt;br/&gt;&lt;br/&gt;Intellectual Merit&lt;br/&gt;The proposed project promotes the CreativeIT vision of developing innovative approaches to education in computationally intensive environments. This is accomplished in three ways: 1) by increasing our understanding of how technology, team composition, and workflow affect creativity; 2) by developing skill-sets among students working with distant collaborators, and 3) by helping define the curriculum objectives and infrastructure required to extend participation beyond major university settings.&lt;br/&gt;&lt;br/&gt;Broader Impacts&lt;br/&gt;Information technology enables collaboration among world-wide project participants.&lt;br/&gt;This project brings together academia and industry to address the issue of how creativity is promoted among separated team members. Industry participants including Lucasfilm Ltd., DreamWorks Animation, SKG, ReelFX Creative Studios, Digital Domain, and Adobe Systems are interested in this project because it directly addresses issues that they face. Today, educators and administrators must extend the reach of creativity enhancing and technically challenging curricula outside the brick-and-mortar classroom.&lt;br/&gt;If broadened as a Major Project this Pilot Project has the potential to use the&lt;br/&gt;cyberinfrastructure to promote multi-institutional transformative changes in industry and in education.]]></AbstractNarration>
+<MinAmdLetterDate>07/10/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855908</AwardID>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>McLaughlin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Timothy McLaughlin</PI_FULL_NAME>
+<EmailAddress><![CDATA[timm@viz.tamu.edu]]></EmailAddress>
+<NSF_ID>000502118</NSF_ID>
+<StartDate>07/10/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M Research Foundation</Name>
+<CityName>COLLEGE STATION</CityName>
+<ZipCode>778454375</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress>400 HARVEY MITCHELL PKWY STE 300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX17</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EQH8NQ4AXFT7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A &amp; M RESEARCH FOUNDATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EQH8NQ4AXFT7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&amp;M University]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>778454375</ZipCode>
+<StreetAddress><![CDATA[400 HARVEY MITCHELL PKY S STE 30]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1714</Code>
+<Text>Special Projects - CNS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7655</Code>
+<Text>ITR-CreativeIT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9215</Code>
+<Text>HIGH PERFORMANCE COMPUTING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~293057</FUND_OBLG>
+</Award>
+</rootTag>

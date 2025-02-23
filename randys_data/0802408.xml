@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Geospatial Technology (GST) Program at Southwestern College</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>273703.00</AwardTotalIntnAmount>
+<AwardAmount>273703</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040100</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David B. Campbell</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Over a three-year period, Southwestern College (SWC) is developing and establishing a comprehensive program in Geospatial Technology (GST). GST is the specialized set of information technologies (such as aerial photography, remote sensing, surveying, and global positioning systems) that supports a wide variety of uses, including data acquisition, data storage and manipulation, image analysis, and geovisualization display and output. Because San Diego County is home to a large number of companies that utilize GST, a significant need exists within the workforce of San Diego County for personnel trained in the theory and use of geospatial technology software and hardware, particularly for spatial analysis and geovisualization applications. The Earth Science and Physical Science Departments at SWC, along with faculty from disciplinary divisions across the entire campus, are increasing the professional opportunities for residents of the SWC District while supplying the local science and industry sectors with highly qualified geospatial technicians.&lt;br/&gt;&lt;br/&gt;The core of the GST program is the implementation of three new courses emphasizing hands-on experience with the hardware, software, and techniques employed in science, industry, and academia and the incorporation of GST learning modules into other existing courses. Other valuable services of the program are: 1) professional development for college and high school faculty in GST theory and applications; 2) placement of community college students into baccalaureate programs and undergraduate GST research projects; and 3) placement of students into professional, paid internships. The GST program is promoting the intellectual development of a community of learners who are underserved and in need. With the college's student enrollment of greater than 80% ethnic minorities, not only is the Southwestern College GST program providing quality technicians to a regional workforce in need, it is also increasing the number of technical employees from underrepresented groups.</AbstractNarration>
+<MinAmdLetterDate>05/01/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/01/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0802408</AwardID>
+<Investigator>
+<FirstName>Ken</FirstName>
+<LastName>Yanow</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ken Yanow</PI_FULL_NAME>
+<EmailAddress>kyanow@swccd.edu</EmailAddress>
+<NSF_ID>000452554</NSF_ID>
+<StartDate>05/01/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Veal</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeffrey M Veal</PI_FULL_NAME>
+<EmailAddress>jveal@swccd.edu</EmailAddress>
+<NSF_ID>000451605</NSF_ID>
+<StartDate>05/01/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Southwestern College</Name>
+<CityName>Chula Vista</CityName>
+<ZipCode>919107223</ZipCode>
+<PhoneNumber>6194826344</PhoneNumber>
+<StreetAddress>900 Otay Lakes Road</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>53</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA53</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>078752888</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>SOUTHWESTERN COMMUNITY COLLEGE DISTRICT</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>078752888</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Southwestern College]]></Name>
+<CityName>Chula Vista</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>919107223</ZipCode>
+<StreetAddress><![CDATA[900 Otay Lakes Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>53</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA53</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7412</Code>
+<Text>Advanced Tech Education Prog</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1032</Code>
+<Text>ADVANCED TECHNOLOGY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2008~273703</FUND_OBLG>
+</Award>
+</rootTag>

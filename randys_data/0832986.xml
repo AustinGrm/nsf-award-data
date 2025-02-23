@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[ARI-MA: Collaborative Research: High Z Materials for Nuclear Detection: Synergy of Growth, Characterization and Defect Physics for Room Temperature Devices]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>323000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajinder P. Khosla</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[ARI-MA: Collaborative Research: High Z Materials for Nuclear Detection: Synergy of Growth, Characterization and Defect Physics for Room Temperature Devices&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The objective of this research is to develop novel high density thin films for application as room temperature nuclear detection devices and to understand the basic charge collection mechanisms that would govern their performance.  The approach is a synergistic coupling of crystal growth, materials characterization and device physics.   The goal is to combine expertise in materials science, physics and engineering for potential breakthroughs in the application of complex oxides with high stopping power to achieve cost-effective nuclear detection capability.&lt;br/&gt;The intellectual merit of the work will be the development of a fundamental framework for the identification of new candidate materials, coupled with development of the characterization tools and miniaturized electronics required for next generation devices.  The work will leverage significant recent breakthroughs in the field of complex functional oxide materials with tunable electronic properties.&lt;br/&gt;The broader impact will be in the contribution to national infrastructure for nuclear scanning capability and in the development of human capital.  Graduate and undergraduate students will be educated in this highly interdisciplinary field and student recruitment will leverage existing programs to enhance diversity at UC Berkeley and the Naval Postgraduate School (NPS). An outreach component is also included in collaboration with the NPS Center for Homeland Defense and Security.  This will provide high-quality materials to educate local and state officials, and other first responders, on the availability, limitations and potential impact of current and future technologies for nuclear threat detection.]]></AbstractNarration>
+<MinAmdLetterDate>09/04/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>03/12/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0832986</AwardID>
+<Investigator>
+<FirstName>Eugene</FirstName>
+<LastName>Haller</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eugene E Haller</PI_FULL_NAME>
+<EmailAddress><![CDATA[eehaller@lbl.gov]]></EmailAddress>
+<NSF_ID>000459113</NSF_ID>
+<StartDate>09/04/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bernhard</FirstName>
+<LastName>Boser</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bernhard E Boser</PI_FULL_NAME>
+<EmailAddress><![CDATA[boser@eecs.berkeley.edu]]></EmailAddress>
+<NSF_ID>000443420</NSF_ID>
+<StartDate>09/04/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ramamoorthy</FirstName>
+<LastName>Ramesh</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ramamoorthy Ramesh</PI_FULL_NAME>
+<EmailAddress><![CDATA[rr73@rice.edu]]></EmailAddress>
+<NSF_ID>000442091</NSF_ID>
+<StartDate>09/04/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress>1608 4TH ST STE 201</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GS3YEVSS12N6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>BERKELEY</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947101749</ZipCode>
+<StreetAddress><![CDATA[1608 4TH ST STE 201]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0200000</Code>
+<Name>Interagency</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>H159</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7707</Code>
+<Text>NSF/DHS ACADEMIC RES INITIAT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809RB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~323000</FUND_OBLG>
+</Award>
+</rootTag>

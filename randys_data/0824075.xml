@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Semiconductor spintronics devices and circuits]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>449826.00</AwardTotalIntnAmount>
+<AwardAmount>455826</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Werbos</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Proposal Number:  ECCS-0824075&lt;br/&gt;Proposal Title:          Semiconductor spintronics devices and circuits&lt;br/&gt;PI Name:          Dery, Hanan&lt;br/&gt;PI Institution:          University of Rochester&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Semiconductor spintronics devices and circuits&lt;br/&gt;&lt;br/&gt;H. Dery, M. Huang, &amp; R. Sobolewski&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The objective of this research is to study properties of the electron?s quantum mechanical spin that can be used in the design of logic circuitry in the future. This study will explore innovative high-performance computer architectures that capitalize on the electrical and magnetic control of lateral spin-based devices. The approach is to design, fabricate, characterize, and model hybrid semiconductor/ferromagnet lateral devices that are based on spin-accumulation. The use of advanced, ultrafast magneto-optical spectroscopy techniques will be used to characterize the spin transport and to probe the physics in these devices. &lt;br/&gt;&lt;br/&gt;Intellectual Merit &lt;br/&gt;Virtually all of today's digital electronics use voltage levels to process data. This choice of information coding has provided tremendous scaling and growth in the semiconductor industry. Voltage, however, is not the only representation available. Commercial storage devices encode information using the electron's quantum mechanical spin. The proposed research studies the tradeoffs between advanced digital devices that rely on the charge of electrons and devices that rely on the quantum mechanical spin of electrons.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Broader impacts&lt;br/&gt;The proposed program holds the potential to improve the architecture of high-performance computers. It may affect a variety of everyday applications by allowing lower power consumption and additional programmability of electronic circuits. The educational activities in this program involve (I) training of both undergraduate and graduate students, (II) encourage students from under-represented groups to join our team by using the on-going McNair program, and (III) the establishment of a new course about spin-based electronics.]]></AbstractNarration>
+<MinAmdLetterDate>07/18/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/06/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0824075</AwardID>
+<Investigator>
+<FirstName>Hanan</FirstName>
+<LastName>Dery</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hanan Dery</PI_FULL_NAME>
+<EmailAddress><![CDATA[hanan.dery@rochester.edu]]></EmailAddress>
+<NSF_ID>000491184</NSF_ID>
+<StartDate>07/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Huang</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael C Huang</PI_FULL_NAME>
+<EmailAddress><![CDATA[michael.huang@rochester.edu]]></EmailAddress>
+<NSF_ID>000300067</NSF_ID>
+<StartDate>07/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Roman</FirstName>
+<LastName>Sobolewski</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Roman Sobolewski</PI_FULL_NAME>
+<EmailAddress><![CDATA[roman.sobolewski@rochester.edu]]></EmailAddress>
+<NSF_ID>000178479</NSF_ID>
+<StartDate>07/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Rochester</Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>146113847</ZipCode>
+<PhoneNumber>5852754031</PhoneNumber>
+<StreetAddress>910 GENESEE ST</StreetAddress>
+<StreetAddress2><![CDATA[STE 200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F27KDXZMF9Y8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ROCHESTER</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Rochester]]></Name>
+<CityName>ROCHESTER</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>146113847</ZipCode>
+<StreetAddress><![CDATA[910 GENESEE ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0510403</Code>
+<Name>Engineering &amp; Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7607</Code>
+<Text>EPCN-Energy-Power-Ctrl-Netwrks</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>101E</Code>
+<Text>Printed and flexible electronics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>107E</Code>
+<Text>Magnetics and spin electronics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7219</Code>
+<Text>NANOTECHNOLOGY UNDERGRAD EDUCA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~449826</FUND_OBLG>
+<FUND_OBLG>2009~6000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Development of Complex Stochastic Models of Carcinogenesis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040200</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gabor Szekely</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The investigators propose to develop new innovative approaches for&lt;br/&gt;modeling and analyzing carcinogenesis models involving multiple&lt;br/&gt;pathways with each pathway being a stochastic multi-stage model and&lt;br/&gt;with intermediate initiated cells subjecting to stochastic&lt;br/&gt;proliferation and differentiation and genetic and epigenetic&lt;br/&gt;changes. The investigators also propose to apply these new&lt;br/&gt;innovative approaches to develop carcinogenesis models for some&lt;br/&gt;human cancers for assessing risk factors and to develop predictive&lt;br/&gt;procedures for these cancers. Specifically, the investigators will&lt;br/&gt;apply the methods to develop new stochastic models for human liver&lt;br/&gt;cancer because of the importance of this cancer and because of the&lt;br/&gt;availability of some precious data for this type of cancer. The&lt;br/&gt;investigators note that the similar methododology can be applied to&lt;br/&gt;other human cancers as well, which will be investigators' future&lt;br/&gt;research.&lt;br/&gt;&lt;br/&gt;The investigators study some cancer models for human liver cancer&lt;br/&gt;based on the existing data already collected. Such models are&lt;br/&gt;considered to follow EPA proposed cancer guidelines (Federal&lt;br/&gt;Register 51(85), 33992-34003, 1996).  The use of such model is&lt;br/&gt;possible because sufficient biological information on the human&lt;br/&gt;liver cancer is available. The end result of this research should be&lt;br/&gt;useful for cancer prevention and cancer control. The investigators&lt;br/&gt;believe that this along with other advances will render many current&lt;br/&gt;practices in experimental biology, including many steps of drug&lt;br/&gt;development, unnecessary. This will in turn make the drug&lt;br/&gt;development process become more productive and efficient.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/19/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/19/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0805829</AwardID>
+<Investigator>
+<FirstName>King-Thom</FirstName>
+<LastName>Chung</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>King-Thom Chung</PI_FULL_NAME>
+<EmailAddress><![CDATA[kchung@memphis.edu]]></EmailAddress>
+<NSF_ID>000463816</NSF_ID>
+<StartDate>08/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Wai-Yuan</FirstName>
+<LastName>Tan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wai-Yuan Tan</PI_FULL_NAME>
+<EmailAddress><![CDATA[waitan@memphis.edu]]></EmailAddress>
+<NSF_ID>000333606</NSF_ID>
+<StartDate>08/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lih-Yuan</FirstName>
+<LastName>Deng</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lih-Yuan Deng</PI_FULL_NAME>
+<EmailAddress><![CDATA[lihdeng@memphis.edu]]></EmailAddress>
+<NSF_ID>000292469</NSF_ID>
+<StartDate>08/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Memphis</Name>
+<CityName>MEMPHIS</CityName>
+<ZipCode>381523520</ZipCode>
+<PhoneNumber>9016783251</PhoneNumber>
+<StreetAddress>101 WILDER TOWER</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F2VSMAKDH8Z7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MEMPHIS, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>JBG7T7RXQ2B7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Memphis]]></Name>
+<CityName>MEMPHIS</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>381523520</ZipCode>
+<StreetAddress><![CDATA[101 WILDER TOWER]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~50000</FUND_OBLG>
+</Award>
+</rootTag>

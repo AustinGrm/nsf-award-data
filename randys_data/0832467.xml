@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[COLLABORATIVE PROPOSAL: I/UCRC: Center for Grid-Connected Advanced Power Electronic Systems (GRAPES)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>9999.00</AwardTotalIntnAmount>
+<AwardAmount>9999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EEC</Abbreviation>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rathindra DasGupta</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Planning Grant for an I/UCRC in Grid-connected Advanced Power Electronic Systems (GRAPES) &lt;br/&gt;&lt;br/&gt;0832538 University of Arkansas (lead institution); Homer Mantooth &lt;br/&gt;0832467 University of South Carolina; Roger Dougal &lt;br/&gt;     &lt;br/&gt;The University of Arkansas and University of South Carolina propose a planning grant for a collaborative center "Center for Grid-Connected Advanced Power Electronic Systems (GRAPES)."  Advanced grid control is a critical issue facing the US power grid today, especially with the increase in renewable power generation.   The main objectives of the proposed center are the following: to develop new advanced power electronic systems, to develop the analysis tools for predicting and controlling the system behavior, and to educate and train the qualified manpower who understand the system benefits derived from the emerging technologies.  The University of Arkansas has recently developed a major test facility, which will be critical to a number of the proposed projects.  &lt;br/&gt; &lt;br/&gt;The proposed center will develop leading-edge industry relevant research that will provide the basis for effective development of the 21st century Future Grid.  Continuing education of working power and utility engineers will be an important part of the GRAPES plan. The center will address the shortage of power engineers that is forecasted to emerge by 2010 by educating graduates for power management industries.  Preliminary plans to add other universities to the proposed center, including universities in other countries, will be finalized during the planning period.  Both the University of Arkansas and University of South Carolina have important initiatives that will serve to broaden representation of all people groups in this field.  The center research theme will inherently have a major impact on society. &lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/05/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/05/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0832467</AwardID>
+<Investigator>
+<FirstName>Roger</FirstName>
+<LastName>Dougal</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Roger A Dougal</PI_FULL_NAME>
+<EmailAddress><![CDATA[dougal@cec.sc.edu]]></EmailAddress>
+<NSF_ID>000373482</NSF_ID>
+<StartDate>08/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Enrico</FirstName>
+<LastName>Santi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Enrico Santi</PI_FULL_NAME>
+<EmailAddress><![CDATA[santi@engr.sc.edu]]></EmailAddress>
+<NSF_ID>000488018</NSF_ID>
+<StartDate>08/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Antonello</FirstName>
+<LastName>Monti</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Antonello Monti</PI_FULL_NAME>
+<EmailAddress><![CDATA[monti@engr.sc.edu]]></EmailAddress>
+<NSF_ID>000493883</NSF_ID>
+<StartDate>08/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ferdinanda</FirstName>
+<LastName>Ponci</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ferdinanda Ponci</PI_FULL_NAME>
+<EmailAddress><![CDATA[ponci@engr.sc.edu]]></EmailAddress>
+<NSF_ID>000493878</NSF_ID>
+<StartDate>08/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University South Carolina Research Foundation</Name>
+<CityName>COLUMBIA</CityName>
+<ZipCode>292084009</ZipCode>
+<PhoneNumber>8037777093</PhoneNumber>
+<StreetAddress>915 BULL ST</StreetAddress>
+<StreetAddress2><![CDATA[STE 202]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SC06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ELBVJ1KYX976</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SOUTH CAROLINA RESEARCH FOUNDATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of South Carolina at Columbia]]></Name>
+<CityName>COLUMBIA</CityName>
+<StateCode>SC</StateCode>
+<ZipCode>292083403</ZipCode>
+<StreetAddress><![CDATA[1600 HAMPTON ST # 414]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SC06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0400000</Code>
+<Name>Industry University - Co-op</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5761</Code>
+<Text>IUCRC-Indust-Univ Coop Res Ctr</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1049</Code>
+<Text>INDUSTRY-UNIV COOPERATIVE RSCH PROJECTS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>122E</Code>
+<Text>CENTERS: OTHER INDUSTRY-UNIV</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~9999</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Multiscale Chemistry of U, Np, and Pu Under Acidic and Basic Conditions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090005</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Timothy Patten</SignBlockName>
+<PO_EMAI>tpatten@nsf.gov</PO_EMAI>
+<PO_PHON>7032927196</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5). The Inorganic, Bioinorganic, and Organometallic Chemistry Program supports the efforts of Dr. Aurora E. Clark of Washington State University for the rational design of separation and waste storage strategies of uranium, neptunium, and plutonium complexes using multi-scale computational chemistry methodologies. &lt;br/&gt; &lt;br/&gt;The storage and separations of nuclear fission products is an overarching problem with implications for environmental remediation, US defense, and domestic energy technologies.  The safe and effective treatment of fission products mandates a detailed understanding of their chemical behavior under a variety of environmental conditions (e.g. pH).  In particular, an understanding of the behavior of actinides in the III-VII oxidation states across multiple length and time scales is needed.  Characterization of this multiscale behavior requires major advancements in experimental capabilities thus, rigorous theoretical descriptions, whose predictive capability can guide future studies and system design, are of great value.  Currently, there is little information regarding the hierarchical condensed phase order of actinide solutions and this hinders new technologies within the nuclear fuel cycle that can capitalize upon their reactivity under various pH regimes. &lt;br/&gt; &lt;br/&gt;This project utilizes a combination of state-of-the-art density functional theory, classical simulations, and ab-initio molecular dynamics to examine actinides (uranium, neptunium and plutonium ) under extreme pH conditions.   This data provides insights into acid/base ligation, counter ions effects, solvation properties, and reactivities of these actinides.  To streamline computational efforts in actinide chemistry and to enhance the University's infrastructure, Professor Clark has established the WSU Computational Actinide and Nuclear Science database, a repository for the data and new computational tools developed within her group.  The impact of this work will be further enhanced through the training of post-graduate, undergraduate and high school students in nuclear science where there is large demand and need for US expertise.  Professor Clark also works with collaborators at Moscow High School in Idaho to extend nuclear science education and computational chemistry experiments to high school students.]]></AbstractNarration>
+<MinAmdLetterDate>07/15/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2009</MaxAmdLetterDate>
+<ARRAAmount>200000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0848346</AwardID>
+<Investigator>
+<FirstName>Aurora</FirstName>
+<LastName>Clark</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Aurora E Clark</PI_FULL_NAME>
+<EmailAddress><![CDATA[auclark@wsu.edu]]></EmailAddress>
+<NSF_ID>000457028</NSF_ID>
+<StartDate>07/15/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Washington State University</Name>
+<CityName>PULLMAN</CityName>
+<ZipCode>991640001</ZipCode>
+<PhoneNumber>5093359661</PhoneNumber>
+<StreetAddress>240 FRENCH ADMINISTRATION BLDG</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>XRJSGX384TD6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WASHINGTON STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>XRJSGX384TD6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Washington State University]]></Name>
+<CityName>PULLMAN</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>991640001</ZipCode>
+<StreetAddress><![CDATA[240 FRENCH ADMINISTRATION BLDG]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1966</Code>
+<Text>SYNTHETIC INORGANIC</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7644</Code>
+<Text>ENERGY FOR SUSTAINABILITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9139</Code>
+<Text>INFORMATION INFRASTRUCTURE &amp; TECH APPL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9197</Code>
+<Text>ENVIRONMENTAL TECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~200000</FUND_OBLG>
+</Award>
+</rootTag>

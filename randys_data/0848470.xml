@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Mass Spectrometry and Computational Studies of Deprotonated Peptides and Amino Acid Amides]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>470000.00</AwardTotalIntnAmount>
+<AwardAmount>470000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090006</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Zeev Rosenzweig</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;The Analytical and Surface Chemistry Program in the Division of Chemistry supports work by Professors Carolyn Cassady and David Dixon at the University of Alabama - Tuscaloosa aimed at enhanced understanding of the gas-phase chemistry of deprotonated amino acid amides and peptides, in order ultimately to provide new approaches to mass spectrometric structure elucidation supporting proteomics and related studies.  Combined experimental and computational efforts will provide insight into fragmentation and thermodynamic properties.  &lt;br/&gt;&lt;br/&gt;The work exposes a diverse group of both graduate and undergraduate students to important interdisciplinary research areas, providing them with tools that will prepare them to contribute to a wide range of chemical biology challenges.  Both PIs have also been actively engaged in outreach activities, exposing large numbers of students to the powerful computational and analytical tools utilized in their laboratories.]]></AbstractNarration>
+<MinAmdLetterDate>06/19/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/19/2009</MaxAmdLetterDate>
+<ARRAAmount>470000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0848470</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Dixon</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David A Dixon</PI_FULL_NAME>
+<EmailAddress><![CDATA[dadixon@ua.edu]]></EmailAddress>
+<NSF_ID>000117633</NSF_ID>
+<StartDate>06/19/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Carolyn</FirstName>
+<LastName>Cassady</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carolyn J Cassady</PI_FULL_NAME>
+<EmailAddress><![CDATA[cassadcj@ua.edu]]></EmailAddress>
+<NSF_ID>000252711</NSF_ID>
+<StartDate>06/19/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Alabama Tuscaloosa</Name>
+<CityName>TUSCALOOSA</CityName>
+<ZipCode>354870001</ZipCode>
+<PhoneNumber>2053485152</PhoneNumber>
+<StreetAddress>301 ROSE ADMIN BLDG</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AL07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RCNJEHZ83EV6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ALABAMA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>TWJWHYEM8T63</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Alabama Tuscaloosa]]></Name>
+<CityName>TUSCALOOSA</CityName>
+<StateCode>AL</StateCode>
+<ZipCode>354870001</ZipCode>
+<StreetAddress><![CDATA[301 ROSE ADMIN BLDG]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1960</Code>
+<Text>STRUCTURE AND REACTIVITY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1974</Code>
+<Text>ANALYTICAL SEPARATIONS &amp; MEAS.</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1108</Code>
+<Text>INSTRUMENTAT &amp; INSTRUMENT DEVP</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1960</Code>
+<Text>STRUCTURE AND REACTIVITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1974</Code>
+<Text>ANALYTICAL SEPARATIONS &amp; MEAS.</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1982</Code>
+<Text>BIOLOGICAL CHEMISTRY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7752</Code>
+<Text>CDI NON SOLICITED RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9161</Code>
+<Text>SINGLE DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~470000</FUND_OBLG>
+</Award>
+</rootTag>

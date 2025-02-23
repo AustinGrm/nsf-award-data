@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[REU: The Los Alamos Summer School in Physics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>65225.00</AwardTotalIntnAmount>
+<AwardAmount>65225</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kathleen McCloud</SignBlockName>
+<PO_EMAI>kmccloud@nsf.gov</PO_EMAI>
+<PO_PHON>7032928236</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).  This award supports the Los Alamos Summer School, a ten week summer program for undergraduate physics students held in Los Alamos, New Mexico. The school exposes the students to frontier research and provides training and encouragement for them to pursue careers in physics and related areas. Experts from UNM and LANL and distinguished visitors give 8 lectures per week. The students' remaining time is spent on individual research projects with mentors from the senior scientific staff of LANL. The students have access to LANL and UNM library, computational, and experimental resources. Final reports by the students are published by LANL as a LA-UR Report. Often student projects lead to publications in refereed journals. Most of the students present their results in LANL's annual Undergraduate Research Symposium, and many additionally present at external national meetings.]]></AbstractNarration>
+<MinAmdLetterDate>05/22/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>05/22/2009</MaxAmdLetterDate>
+<ARRAAmount>65225</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0840397</AwardID>
+<Investigator>
+<FirstName>Sally</FirstName>
+<LastName>Seidel</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sally C Seidel</PI_FULL_NAME>
+<EmailAddress><![CDATA[seidel@unm.edu]]></EmailAddress>
+<NSF_ID>000285435</NSF_ID>
+<StartDate>05/22/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>Thomas</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Timothy L Thomas</PI_FULL_NAME>
+<EmailAddress><![CDATA[thomas@phys.unm.edu]]></EmailAddress>
+<NSF_ID>000170233</NSF_ID>
+<StartDate>05/22/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of New Mexico</Name>
+<CityName>ALBUQUERQUE</CityName>
+<ZipCode>871063837</ZipCode>
+<PhoneNumber>5052774186</PhoneNumber>
+<StreetAddress>1700 LOMAS BLVD NE STE 2200</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NM01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F6XLTRUQJEN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NEW MEXICO, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>C16BGHA4MLJ6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of New Mexico]]></Name>
+<CityName>ALBUQUERQUE</CityName>
+<StateCode>NM</StateCode>
+<ZipCode>871063837</ZipCode>
+<StreetAddress><![CDATA[1700 LOMAS BLVD NE STE 2200]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NM01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>9134</Code>
+<Text>Integrative Activities in Phys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~65225</FUND_OBLG>
+</Award>
+</rootTag>

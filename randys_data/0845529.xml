@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER:  Generative Models for Character Animation and Gesture in the New Age of Art and Electronic Interaction]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>581276.00</AwardTotalIntnAmount>
+<AwardAmount>581276</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ephraim Glinert</SignBlockName>
+<PO_EMAI>eglinert@nsf.gov</PO_EMAI>
+<PO_PHON>7032924341</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5). &lt;br/&gt;&lt;br/&gt;The motivating problem of this research is to determine how to build computational models of expressive human movement for use in character animation applications.  Satisfactory solutions to this problem must allow a high degree of control so that character movement can be customized for any context.  This work will unify traditionally separate knowledge-driven and data-driven approaches to character animation, building on the control inherent in knowledge-driven techniques and the realism of motion capture data.  A feature-based approach will be used to develop generative models.  In this approach, a key-feature set will be determined in consultation with movement professionals, and professional performers working in a motion capture studio will provide data sampling the range of these features.  Computational models of each feature will be developed from this data using a combination of procedural and learning techniques.  The end goal is style-definition, in which explicit aspects of movement style can be represented computationally.  This will support both movement analysis and movement generation through a software framework that allows each of these features to be combined and expressed.  Key applications include models for conversational agents and a range of animation tools.&lt;br/&gt;&lt;br/&gt;This work benefits society through the development of new computational models of expressive movement and by providing deeper insights into the nature of human motion.  Computational models of movement that offer meaningful, fine-grained control are essential for a range of applications, including virtual worlds like Second Life, conversational agents, remote collaboration systems, training environments, games and other interactive, character based media.  These models will be developed by combining two main trends in computer animation research, one that builds models based on explicit representations of existing knowledge and one that mines movement data to create models.  The research will integrate computer scientists, digital artists and movement professionals, bringing a broad set of insights to technology development and providing cross-fertilization between these normally disparate groups.  Research results will be published broadly and lead to new computational tools that can be used in a range of applications.]]></AbstractNarration>
+<MinAmdLetterDate>06/22/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/22/2009</MaxAmdLetterDate>
+<ARRAAmount>581276</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0845529</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Neff</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael Neff</PI_FULL_NAME>
+<EmailAddress><![CDATA[mpneff@ucdavis.edu]]></EmailAddress>
+<NSF_ID>000488920</NSF_ID>
+<StartDate>06/22/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Davis</Name>
+<CityName>DAVIS</CityName>
+<ZipCode>956186153</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress>1850 RESEARCH PARK DR, STE 300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TX2DAGQPENZ5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, DAVIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Davis]]></Name>
+<CityName>DAVIS</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>956186153</ZipCode>
+<StreetAddress><![CDATA[1850 RESEARCH PARK DR, STE 300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7367</Code>
+<Text>HCC-Human-Centered Computing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9215</Code>
+<Text>HIGH PERFORMANCE COMPUTING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~581276</FUND_OBLG>
+</Award>
+</rootTag>

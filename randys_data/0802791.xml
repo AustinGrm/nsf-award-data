@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Oceanographic Instrumentation, R/V Blue Heron 2008]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>15316.00</AwardTotalIntnAmount>
+<AwardAmount>15316</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040101</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Holik</SignBlockName>
+<PO_EMAI>jholik@nsf.gov</PO_EMAI>
+<PO_PHON>7032927711</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Proposal is to set up an underway sea surface data system with thermistor, fluorometer and transmissometer to be operated on all cruises aboard the R/V Blue Heron.  The vessel is operated by the University of Minnesota and managed by Doug Ricketts as part of the University-National Oceanographic Laboratory System (UNOLS) research fleet.  The item requested is an: &lt;br/&gt;&lt;br/&gt;Underway Sea Surface Data System&lt;br/&gt;&lt;br/&gt;Broader impacts:&lt;br/&gt; In the present proposal, the item recommended for support provides an important infrastructure capability for basic instrumentation that is cost-effective, and will significantly improve capabilities for users of R/V Blue Heron, which services a diverse group of investigators from around the U.S.  The University of Minnesota technical support groups have the expertise to operate and support the recommended systems on the vessel.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/04/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0802791</AwardID>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Ricketts</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Richard D Ricketts</PI_FULL_NAME>
+<EmailAddress><![CDATA[ricketts@d.umn.edu]]></EmailAddress>
+<NSF_ID>000282492</NSF_ID>
+<StartDate>08/04/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Minnesota Duluth</Name>
+<CityName>DULUTH</CityName>
+<ZipCode>558123031</ZipCode>
+<PhoneNumber>2187267582</PhoneNumber>
+<StreetAddress>1035 UNIVERSITY DR RM 133</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LPCTM8BS8NF3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MINNESOTA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>CB47L9C9MDX1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Minnesota Duluth]]></Name>
+<CityName>DULUTH</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>558123031</ZipCode>
+<StreetAddress><![CDATA[1035 UNIVERSITY DR RM 133]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0204000</Code>
+<Name>Oceanography</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5413</Code>
+<Text>OCEANOGRAPHIC INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~15316</FUND_OBLG>
+</Award>
+</rootTag>

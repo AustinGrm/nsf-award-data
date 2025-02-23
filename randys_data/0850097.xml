@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Attracting a New Generation of Students to Computing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2015</AwardExpirationDate>
+<AwardTotalIntnAmount>597781.00</AwardTotalIntnAmount>
+<AwardAmount>597781</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Tymann</SignBlockName>
+<PO_EMAI>ptymann@nsf.gov</PO_EMAI>
+<PO_PHON>7032922832</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The primary objective of the proposed project is to increase enrollment in computing by attracting additional new students to the computer engineering department, thus increasing the supply of graduates entering the workforce or graduate programs in computing. &lt;br/&gt;&lt;br/&gt;Intellectual Merit: The long-term strategy of this department includes three primary components: (1) working with middle school and high school teachers to increase student interest in computing, (2) revising academic programs to make them more attractive to prospective students, and (3) providing scholarships as incentives and to make education at the university more financially feasible. The scholarship component is coupled with the introduction of a new BS degree program in Web Design and Engineering, created in response to changing student interests, while continuing to provide a strong education in computers, software, and networks. Scholars receive strong academic support, comprehensive and focused advising, upper-division departmental mentors, tutoring, community-building social activities, and opportunities for discipline-specific co-op and career employment. &lt;br/&gt;&lt;br/&gt;Broader Impact: The new BS in Web Design and Engineering is designed to attract a new kind of student who would otherwise not have chosen an engineering program in computing - one who sees the Web as a medium for artistic expression and social interaction, and who wants to better understand its technical capabilities and limitations. This new degree program is designed to attract more female and other under-represented students.]]></AbstractNarration>
+<MinAmdLetterDate>01/14/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>12/16/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0850097</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Lewis</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel W Lewis</PI_FULL_NAME>
+<EmailAddress><![CDATA[dlewis@scu.edu]]></EmailAddress>
+<NSF_ID>000260732</NSF_ID>
+<StartDate>01/14/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Santa Clara University</Name>
+<CityName>SANTA CLARA</CityName>
+<ZipCode>950504776</ZipCode>
+<PhoneNumber>4085544764</PhoneNumber>
+<StreetAddress>500 EL CAMINO REAL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA17</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YE8LRJWSY3K9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PRESIDENT AND BOARD OF TRUSTEES OF SANTA CLARA COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Santa Clara University]]></Name>
+<CityName>SANTA CLARA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>950504776</ZipCode>
+<StreetAddress><![CDATA[500 EL CAMINO REAL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~71883</FUND_OBLG>
+<FUND_OBLG>2010~525898</FUND_OBLG>
+</Award>
+</rootTag>

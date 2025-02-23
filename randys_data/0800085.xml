@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RUI: Combinatorics and Repesentations of Diagram Algebras]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>120540.00</AwardTotalIntnAmount>
+<AwardAmount>120540</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomek Bartoszynski</SignBlockName>
+<PO_EMAI>tbartosz@nsf.gov</PO_EMAI>
+<PO_PHON>7032924885</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This proposal is to study the combinatorial representation theory of a class of algebraic structures known as diagram algebras.  These algebras have bases given by collections of diagrams and multiplication described combinatorially by diagram concatenation.  Examples of diagram algebras arising in this project include partition algebras, Temperley-Lieb algebras, braid group and symmetric group algebras, complex reflection group algebras, Hecke algebras, and many generalizations.  Often these diagram algebras arise as centralizer algebras of Lie theoretic objects, and this duality, classically known as Schur-Weyl duality, is a central theme in this research. The main goals of this project are (1) to give a combinatorial construction and analysis of the q-partition algebra, (2) to study diagram algebras related to the McKay correspondence, (3) to combinatorially construct multiplicity-free model representations of diagram algebras, (4) to analyze canonical bases for diagram algebras.  This research uses both combinatorial and algebraic tools, and the relation is symbiotic: combinatorics are used to model and describe algebraic structures and algebra is used to find combinatorial relationships.&lt;br/&gt;&lt;br/&gt;The algebraic structures under investigation represent the symmetries in highly complicated systems such as models of energy transfer in statistical mechanics, the AdS/CFT correspondence in string theory, principal components in large sets of data, and quantum symmetries in integrable lattice models. These algebras are enormous, complex structures which are best understood through their representations as matrices operating on vector spaces.  The goal of combinatorial representation theory (and this proposal) is to find concrete elementary models which allow us to understand and obtain explicit information about the detailed structure of these matrix representations and especially of their irreducible components.  An important feature of this project is to engage undergraduate researchers as collaborative assistants in all of the aspects of this work.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>09/16/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/16/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0800085</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Halverson</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thomas M Halverson</PI_FULL_NAME>
+<EmailAddress><![CDATA[halverson@macalester.edu]]></EmailAddress>
+<NSF_ID>000341070</NSF_ID>
+<StartDate>09/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Macalester College</Name>
+<CityName>SAINT PAUL</CityName>
+<ZipCode>551051801</ZipCode>
+<PhoneNumber>6516966062</PhoneNumber>
+<StreetAddress>1600 GRAND AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MNFCECSHS166</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MACALESTER COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Macalester College]]></Name>
+<CityName>SAINT PAUL</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>551051801</ZipCode>
+<StreetAddress><![CDATA[1600 GRAND AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~120540</FUND_OBLG>
+</Award>
+</rootTag>

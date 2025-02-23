@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Comparative Exoplanetology: Ground-Based Observations of the Atmospheres of Transiting Exoplanets]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>316789.00</AwardTotalIntnAmount>
+<AwardAmount>223838</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020400</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Donald M. Terndrup</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[As the number of detected extrasolar planets continues to rise, a particular subset provides unique opportunities for detailed investigations into the properties of the extrasolar planets themselves. The transmission spectrum of a transiting exoplanet, obtained by the comparison of observations taken in-transit with those taken out-of-transit, can be used to directly measure the effective radius of the exoplanet and its atmosphere or exosphere. Such measurements in strong optical transitions (e.g., Na I, K I) can be used to measure the atmospheric metallicity, rainout of condensates, distribution of stellar flux, and photoionization of atmospheric constituents. &lt;br/&gt;&lt;br/&gt;Here, Dr. Redfield and his team will build upon their success in detecting the first atmosphere of a transiting exoplanet via transmission spectra. A recently granted large block of survey time on the 9.2-m Hobby Eberly telescope at the McDonald Observatory of the University of Texas at Austin will be used to expand their program to several other bright transiting exoplanets.  This large-scale observational program is a major undertaking, and will require a nontrivial commitment to data reduction and analysis. Important issues that must be addressed include the removal of the telluric spectrum, a model of the contribution of differential stellar limb-darkening between the continuum and the cores of stellar lines, and an assessment of the contribution of systematic errors.&lt;br/&gt;&lt;br/&gt;The main objective of this project is to measure the full optical transmission spectrum for several transiting exoplanets, and enable the first comparative study of exoplanetary atmospheric properties derived from transmission spectra. The resulting observational database will be very rich and will lead to several auxiliary research programs other than transmission spectroscopy, including stellar variability monitoring, reflected light searches, and stellar metallicity measurements.&lt;br/&gt;&lt;br/&gt;To aid in the dissemination of the results, the McDonald Observatory Education and Public Outreach Office will work with Dr. Redfield to create a series of annual workshops. These workshops will be designed for fifteen secondary school teachers selected from a nationwide applicant pool, and will introduce them to the scientific issues related to extrasolar planets, their atmospheres, and the high spectral resolution observations used to study them. An extensive post-workshop evaluation will also take place in order to assess the effectiveness of the translation of activities developed in the workshop to the classroom.]]></AbstractNarration>
+<MinAmdLetterDate>07/09/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0807992</AwardID>
+<Investigator>
+<FirstName>Seth</FirstName>
+<LastName>Redfield</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Seth Redfield</PI_FULL_NAME>
+<EmailAddress><![CDATA[sredfield@wesleyan.edu]]></EmailAddress>
+<NSF_ID>000404780</NSF_ID>
+<StartDate>07/09/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1215</Code>
+<Text>STELLAR ASTRONOMY &amp; ASTROPHYSC</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~0</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SGER: Distribution of terrigenous dissolved organic carbon in the Arctic Ocean: The importance of surface water circulation patterns and retention times]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>47984.00</AwardTotalIntnAmount>
+<AwardAmount>47984</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OPP</Abbreviation>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>William J. Wiseman, Jr.</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Funds are provided to allow the PI to participate in the 2008 cruise of the R/V Polarstern to the Russian arctic shelf and slope waters.  Prior studies in the Beaufort Gyre resulted in the hypothesis that the dissolved organic carbon (DOC) concentrations found in the polar surface layer (PSL) of the Arctic Ocean are largely controlled by the time since the water last resided on the shelf.  Access to the Russian arctic shelf and slope waters is limited for US scientists.  The samples to be collected during the 2008 Polarstern cruise will provide a high-resolution distribution of both 228Ra/226Ra ratios and DOC concentrations across the upper eastern Arctic Ocean, allowing the evaluation of the residence time and degradation of terrestrial DOC in the PSL waters of that region, where he believes residence times will be much shorter than in the Beaufort Gyre.  &lt;br/&gt;&lt;br/&gt;Arctic soils contain a disproportionate load of the global soil organic carbon stock, and its mobilization is possible as those soils thaw and drain in response to climate change. Useful predictions on the effect of these changes on carbon dynamics depends on the collection and interpretation of high quality data, such as proposed, to characterize the present day carbon dynamics of the Arctic. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>02/21/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>02/21/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.078</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0822429</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Kadko</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David C Kadko</PI_FULL_NAME>
+<EmailAddress><![CDATA[dkadko@fiu.edu]]></EmailAddress>
+<NSF_ID>000173052</NSF_ID>
+<StartDate>02/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dennis</FirstName>
+<LastName>Hansell</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dennis A Hansell</PI_FULL_NAME>
+<EmailAddress><![CDATA[dhansell@rsmas.miami.edu]]></EmailAddress>
+<NSF_ID>000438803</NSF_ID>
+<StartDate>02/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Miami</Name>
+<CityName>CORAL GABLES</CityName>
+<ZipCode>331462509</ZipCode>
+<PhoneNumber>3054214089</PhoneNumber>
+<StreetAddress>1251 MEMORIAL DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>27</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL27</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KXN7HGCF6K91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MIAMI</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VNZZYCJ55TC4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Miami]]></Name>
+<CityName>CORAL GABLES</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>331462509</ZipCode>
+<StreetAddress><![CDATA[1251 MEMORIAL DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>27</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL27</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5280</Code>
+<Text>ANS-Arctic Natural Sciences</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1079</Code>
+<Text>ARCTIC RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9237</Code>
+<Text>SMALL GRANTS-EXPLORATORY RSRCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>02XX</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>0100CYXXDB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~47984</FUND_OBLG>
+</Award>
+</rootTag>

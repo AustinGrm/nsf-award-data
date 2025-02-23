@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[The Fifth U.S.-Korea Forum on Nanotechnology:   Nano-Biotechnology]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>49540.00</AwardTotalIntnAmount>
+<AwardAmount>49540</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jong-on Hahm</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[OISE-0814083 (Jhon, M. S.  Carnegie-Mellon University)&lt;br/&gt;The Fifth U.S.-Korea Forum on Nanotechnology: Nanobiotechnology&lt;br/&gt;&lt;br/&gt;This award supports a U.S.  Korea workshop on nanobiotechnology.  The workshop will focus on synthesis, characterization, and structural control of nano-biomaterials; relevant instrumentation technologies; and environmental, health and safety issues.  The workshop will bring together approximately 35 U.S. and Korean researchers.  One-third of the U.S. scientist and engineers will be early career.  The key Korean collaborator is Dr. Jo-Won Lee, Director, The National Program for Tera-level Nanodevices, Seoul, Korea.  Korean participants come from the Korea Advanced Institute of Science and Technology (KAIST), the Korea Institute of Science and Technology (KIST), the Korea Institute of Science and Technology Information (KISTI), the Korea Nano Technology Research Society (KNTRS), the Korea Research Institute of Standards and Science (KRISS), the Korea University (KU), the Pohang University of Science and Technology (POSTECH), the Seoul National University (SNU), and the Yonsei University.  This workshop is jointly funded by the Office of International Science and Engineering (OISE) and the Directorate for Engineering (ENG).]]></AbstractNarration>
+<MinAmdLetterDate>02/26/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>02/26/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.079</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0814083</AwardID>
+<Investigator>
+<FirstName>Myung</FirstName>
+<LastName>Jhon</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Myung S Jhon</PI_FULL_NAME>
+<EmailAddress><![CDATA[mj3a@andrew.cmu.edu]]></EmailAddress>
+<NSF_ID>000424524</NSF_ID>
+<StartDate>02/26/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 FORBES AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NKNFLNQ613</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARNEGIE MELLON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NKNFLNQ613</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>PITTSBURGH</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152133815</ZipCode>
+<StreetAddress><![CDATA[5000 FORBES AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0510403</Code>
+<Name>Engineering &amp; Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7299</Code>
+<Text>Catalyzing New Intl Collab</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7681</Code>
+<Text>ENG NNI Special Studies</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>014E</Code>
+<Text>NANOBIOTECH AND NANOTOXICOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5942</Code>
+<Text>KOREA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5978</Code>
+<Text>EAST ASIA AND PACIFIC PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7299</Code>
+<Text>INTERNATIONAL PLAN &amp; WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~49540</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Petascale Research in Earthquake System Science on Blue Waters (PressOnBlueWaters)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>40000.00</AwardTotalIntnAmount>
+<AwardAmount>40000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Thomas F. Russell</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award facilitates scientific research using the large new computational resource named Blue Waters being developed by IBM and scheduled to be deployed at the University of Illinois in 2011.  It provides travel funds to support technical coordination between the principal investigators, the Blue Waters project team and vendor technical team and a provisional allocation of supercomputing time on the system.&lt;br/&gt;&lt;br/&gt;The project involves the preparation, by the research team, of three seismic and engineering modeling codes.  These model fault rupture, propagate seismic energy through a detailed structural model of Southern California, predict ground motion, and model building response to broadband ground motions.  The goal is to combine the use of these codes to understand building damage likely to result from realistic, strong earthquakes.  The researchers will attempt to predict likely damage from major earthquakes in the Greater Los Angeles Basin (GLAB) as follows.  For a given fault rupture scenario, a regional earthquake simulation will be performed.  The GLAB will be divided into sub-regions.  In each sub-region, a simulation will be made of ground motion and the resulting deformation of structures such as buildings and bridges, including the nonlinear effects of different types of soils and feedback in the interactions between ground motions and built structures.  The potential for structural damage will be determined from calculations of inter-story drift and local deformation in buildings, and the damage potential for buried pipelines will be determined from predictions of soil deformation, lateral spreading and liquefaction along pipelines.&lt;br/&gt;&lt;br/&gt;Improved simulation of earthquakes, the associated ground motion, and its impact on buildings will provide better seismic hazard assessment and inform the design of safer building codes.  &lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>09/15/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/13/2013</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070, 47.080</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0832698</AwardID>
+<Investigator>
+<FirstName>Jacobo</FirstName>
+<LastName>Bielak</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jacobo Bielak</PI_FULL_NAME>
+<EmailAddress><![CDATA[jbielak@cmu.edu]]></EmailAddress>
+<NSF_ID>000366260</NSF_ID>
+<StartDate>09/15/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Jordan</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thomas H Jordan</PI_FULL_NAME>
+<EmailAddress><![CDATA[tjordan@usc.edu]]></EmailAddress>
+<NSF_ID>000266023</NSF_ID>
+<StartDate>09/15/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Southern California</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900894304</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress>3720 S FLOWER ST</StreetAddress>
+<StreetAddress2><![CDATA[FL 3]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA37</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G88KLJR3KYT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTHERN CALIFORNIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>LOS ANGELES</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900894304</ZipCode>
+<StreetAddress><![CDATA[3720 S FLOWER ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7781</Code>
+<Text>Leadership-Class Computing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7781</Code>
+<Text>PETASCALE - TRACK 1</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9215</Code>
+<Text>HIGH PERFORMANCE COMPUTING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~40000</FUND_OBLG>
+</Award>
+</rootTag>

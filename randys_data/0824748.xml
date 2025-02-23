@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Assessing Bridge Performance to Extreme Winds with Consideration of Non-Gaussian Features and System Uncertainties]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>149934.00</AwardTotalIntnAmount>
+<AwardAmount>149934</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joy Pauschke</SignBlockName>
+<PO_EMAI>jpauschk@nsf.gov</PO_EMAI>
+<PO_PHON>7032927024</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The research objective of this project is to develop advanced methods for performance assessment and reliability-based risk consistent designs of long span bridges subjected to damaging winds. The research will define improved wind force models, which reduce the complexity of current linear force model but adequately describe the nonlinear unsteady force characteristics. The modeling and simulations of stochastic non-Gaussian wind loads that associated with complex urban and mountainous terrains will be considered to examine their effects on bridge structures. To validate and refine the proposed analysis frameworks, wind tunnel testing data and full-scale monitoring of bridge responses to strong winds will be utilized. The field data will be provided by international collaborators. The project deliverables include a new wind load effects model, approach for modeling of parameter uncertainties, a methodology for assessing uncertainty of bridge response, analysis tools for the design of wind-excited bridges, documentation and dissemination of research results, and engineering student education and training. &lt;br/&gt; &lt;br/&gt;This project will have broad impacts on the design of flexible bridge structures against damaging winds.  The research findings will contribute to narrowing the gap between predictions and actual bridge response, and enhance our ability to design safe and economical bridges against damaging winds. The project will greatly help in synthesizing wind load criteria to develop national wind resistant design guidelines for the design of flexible bridge structures.  It will involve under represented groups of students, enrich the wind engineering education at both graduate and undergraduate levels, and further strengthen the newly established multidisciplinary wind science and engineering Ph. D program at Texas Tech University. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/16/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/16/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0824748</AwardID>
+<Investigator>
+<FirstName>Xinzhong</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xinzhong Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[xinzhong.chen@ttu.edu]]></EmailAddress>
+<NSF_ID>000293826</NSF_ID>
+<StartDate>07/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas Tech University</Name>
+<CityName>LUBBOCK</CityName>
+<ZipCode>79409</ZipCode>
+<PhoneNumber>8067423884</PhoneNumber>
+<StreetAddress>2500 BROADWAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EGLKRQ5JBCZ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS TECH UNIVERSITY SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas Tech University]]></Name>
+<CityName>LUBBOCK</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>79409</ZipCode>
+<StreetAddress><![CDATA[2500 BROADWAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1637</Code>
+<Text>Structural and Architectural E</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>039E</Code>
+<Text>STRUCTURAL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>040E</Code>
+<Text>Haz mitigation of structural sys</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~149934</FUND_OBLG>
+</Award>
+</rootTag>

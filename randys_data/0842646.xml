@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Building a Technology Research Agenda:    An Early Career Symposium]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>31712.00</AwardTotalIntnAmount>
+<AwardAmount>31712</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ephraim Glinert</SignBlockName>
+<PO_EMAI>eglinert@nsf.gov</PO_EMAI>
+<PO_PHON>7032924341</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This is funding to support a research colloquium for early career researchers at the annual AECT (Association for Educational Communication &amp; Technology) conference to be held in Orlando, Florida in October 2008. The funding will provide stipends for junior faculty and advanced graduate students to participate in the research consortium.  A goal of the Association for Educational Communications and Technology (AECT) is to facilitate humane learning through the systematic development, utilization, and management of learning resources, which include media in educational settings. Yet, despite research initiatives underway among its members, most are employed within programs where external funding has not been a priority historically (e.g., in Colleges of Education) and the prospects for advancing research collaborations among most junior faculty and graduate students is inherently constrained. The purpose of this colloquium is to provide a forum during which successful NSF-funded scholars personally mentor junior scholars and graduate students in the nuances of developing a systematic program of inquiry, successful grant proposals, and disseminating research across a range of technology R&amp;D problems and issues. &lt;br/&gt;&lt;br/&gt;Bringing young and creative researchers to AECT 08 will help advance an important and socially valuable research field. NSF funding will significantly impact the careers of the next generation of researchers by enabling a number of them to take part in both the conference as well as the research colloquium. The students and junior faculty will have an opportunity to gain wider exposure in the community for their innovative work, and to obtain feedback and guidance from senior members of the research community. Participation will also help foster a sense of community among these young researchers, by allowing them to create a social network both among themselves and with senior researchers at a critical stage in their professional development. The PI has indicated that she will act to assure participation by members of traditionally under-represented institutions, and will pay close attention to inclusion of minorities and women.]]></AbstractNarration>
+<MinAmdLetterDate>08/01/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/01/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0842646</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Hannafin</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael J Hannafin</PI_FULL_NAME>
+<EmailAddress><![CDATA[hannafin@uga.edu]]></EmailAddress>
+<NSF_ID>000178332</NSF_ID>
+<StartDate>08/01/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chandra</FirstName>
+<LastName>Orrill</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chandra H Orrill</PI_FULL_NAME>
+<EmailAddress><![CDATA[corrill@umassd.edu]]></EmailAddress>
+<NSF_ID>000331384</NSF_ID>
+<StartDate>08/01/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Georgia Research Foundation Inc</Name>
+<CityName>ATHENS</CityName>
+<ZipCode>306021589</ZipCode>
+<PhoneNumber>7065425939</PhoneNumber>
+<StreetAddress>310 EAST CAMPUS RD TUCKER HALL R</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NMJHD63STRC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Georgia]]></Name>
+<CityName>ATHENS</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>306020001</ZipCode>
+<StreetAddress><![CDATA[310 E CAMPUS RD TUCKER HALL RM 4]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7367</Code>
+<Text>HCC-Human-Centered Computing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9215</Code>
+<Text>HIGH PERFORMANCE COMPUTING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~31712</FUND_OBLG>
+</Award>
+</rootTag>

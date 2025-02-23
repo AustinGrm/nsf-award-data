@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER:  Multiphysics Development of Novel Self-Powered, Controlled and  Reconfigurable Bio-Inspired Micro Liquid Cooling Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>424840.00</AwardTotalIntnAmount>
+<AwardAmount>273350</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sumanta Acharya</SignBlockName>
+<PO_EMAI>sacharya@nsf.gov</PO_EMAI>
+<PO_PHON>7032924509</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[&lt;br/&gt;0846318&lt;br/&gt;da Silva&lt;br/&gt;&lt;br/&gt;This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;This research seeks to develop a new class of bio-inspired, single phase liquid cooling systems for application in three-dimensional integrated circuitry. The novel features of the research are twofold: (i) use of coolant flow channel patterns commonly found in natural systems, coupled with (ii) real-time self-adjusting complexity of the bio-inspired coolant flow path. The latter feature is enabled by the use of temperature sensitive shape memory shape alloys to construct micro regulators within the flow channels that adjust to local temperatures and redistribute the coolant. &lt;br/&gt;&lt;br/&gt;Intellectual Merit: Bio-inspired flow paths, which will have hydraulic diameters on the order of 500 microns, will be etched into a silicon wafer. Various microfabrication steps will be used to ultimately embed nickel-titanium flow regulators into the silicon substrate. These small regulators will open or close in response to local temperatures and dynamically control the flow path of the coolant through the flow channel matrix. Measurements, conducted with a unique experimental apparatus, will be made in order to determine the ability of the temperature sensitive gates to respond to and control local temperatures. The experimental study will be complemented by a numerical investigation including simulation of the coupled dynamic response of the flow regulators to varying temperature and coolant flow distributions.&lt;br/&gt;&lt;br/&gt;Broader Impacts: The proposed approach may enable new approaches to efficiently cool integrated circuitry to allow operation over a wider range of conditions while minimizing coolant pumping power requirements. Outreach activities will include underrepresented students from K-12, K-14, K-16 and K-20 levels on project related tasks. The Adopt a Mentee Program (AMP) developed by the PI facilitates partnering students at a given educational level with students at advanced levels who become their mentors. The AMP will be administered by the PI with support provided by the Equal Opportunity in Engineering program of School of Engineering at The University of Texas at Austin. Recruitment of students for AMP will be through a new seminar-based program, You Can Too, where underrepresented students can meet and interact with undergraduate and graduate student role models who had to overcome major obstacles to pursue their engineering education. A new course entitled Bio-Inspired Transport Phenomena Systems will also be developed. Finally, the PI will participate in the ASME Central Texas Chapter and the UT Explore Weekend as a speaker, volunteer and mentor.]]></AbstractNarration>
+<MinAmdLetterDate>07/24/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>11/21/2013</MaxAmdLetterDate>
+<ARRAAmount>424840</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0846318</AwardID>
+<Investigator>
+<FirstName>Alexandre</FirstName>
+<LastName>da Silva</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexandre K da Silva</PI_FULL_NAME>
+<EmailAddress><![CDATA[akds@me.utexas.edu]]></EmailAddress>
+<NSF_ID>000493473</NSF_ID>
+<StartDate>07/24/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1406</Code>
+<Text>TTP-Thermal Transport Process</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>030E</Code>
+<Text>CONTROL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>032E</Code>
+<Text>SENSORS AND ACTUATORS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>033E</Code>
+<Text>Smart and responsive structures</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>064E</Code>
+<Text>Convection heat and mass transfer</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>087E</Code>
+<Text>SENSING &amp; CONTROL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>099E</Code>
+<Text>High voltage switching &amp; conversion</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>106E</Code>
+<Text>Mixed signal technologies</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1406</Code>
+<Text>THERMAL TRANSPORT PROCESSES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~273349</FUND_OBLG>
+</Award>
+</rootTag>

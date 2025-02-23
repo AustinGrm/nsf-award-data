@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PILOT:  Construction Made Simple(r):  Interfaces, Devices, and Infrastructure for Beginning Fabrication</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>368786.00</AwardTotalIntnAmount>
+<AwardAmount>368786</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>William Bainbridge</SignBlockName>
+<PO_EMAI>wbainbri@nsf.gov</PO_EMAI>
+<PO_PHON>7032927470</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project addresses the current gap in research on creative design through personal fabrication and construction. At present, there is very little understanding of what enables (or prevents) users from making greater use of existing fabrication tools; there is even less exploration of how to expand the space of fabrication devices to accommodate both traditional and non-traditional crafting projects; and there is little discussion of how to build on the successes of web-based communities for "intangible" creations (videos, photographs, documents) to nurture communities for physical, tangible creations. This project expands the possibilities of accessible fabrication to develop prototypes of interfaces, personal devices, and infrastructure that will illustrate the power and potential of construction when placed in the hands of "beginners". The goal of this pilot project is to create a wide variety of small-scale innovations that can seed larger and longer-term projects in the near future. Work in interfaces will focus on the design of input devices and software tools; the goal here is to enable people (including children) to create objects using existing fabrication devices. Work in personal devices will focus on prototyping novel fabrication devices geared toward small-scale, individual craft projects. Work in infrastructure will focus on the creation of web-based software systems aimed at building self-supporting fabrication communities among children, students, and hobbyists. Through these multiple aims, this project seeks both to identify a (potentially wide) variety of topics for more ambitious research projects and to spark more widespread interest in these issues in the computer science and educational technology communities.</AbstractNarration>
+<MinAmdLetterDate>07/27/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>10/31/2013</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0856003</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Eisenberg</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael A Eisenberg</PI_FULL_NAME>
+<EmailAddress>duck@cs.colorado.edu</EmailAddress>
+<NSF_ID>000122793</NSF_ID>
+<StartDate>07/27/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Boulder</Name>
+<CityName>Boulder</CityName>
+<ZipCode>803031058</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress>3100 Marine Street, Room 481</StreetAddress>
+<StreetAddress2><![CDATA[572 UCB]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>007431505</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF COLORADO, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>007431505</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName>Boulder</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803031058</ZipCode>
+<StreetAddress><![CDATA[3100 Marine Street, Room 481]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7655</Code>
+<Text>ITR-CreativeIT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9215</Code>
+<Text>HIGH PERFORMANCE COMPUTING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2009~368786</FUND_OBLG>
+</Award>
+</rootTag>

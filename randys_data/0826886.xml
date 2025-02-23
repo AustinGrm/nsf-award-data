@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[AOC: The Ecology of Terrorist Organizations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>749354.00</AwardTotalIntnAmount>
+<AwardAmount>772520</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Brian Humes</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The goal of this project is to advance understanding of the behavior of terrorist organizations as agents of change. While there has been enormous interest in terrorist organizations, especially since the events of 9/11, systematic unclassified empirical data on terrorist organizations, along with similar political organizations that choose not to use terrorism, has never before been collected and analyzed. This project addresses this knowledge gap by assembling a major new dataset and then uses the tools of the social and behavioral sciences to develop and test models that predict which political organizations are most likely to use terrorist violence to pursue goals.&lt;br/&gt;&lt;br/&gt;This project generates interdisciplinary insights into the behavior of political organizations as a function of local, national, and international political, social, and economic variables, as well as organizational characteristics. It accomplishes this by analyzing terrorist organization behavior as part of a larger social ecology. The project involves a partnership of more than 15 researchers from 3 major research universities and represents a range of academic disciplines, all of whom share a substantive interest in the dynamics of human behavior. Political scientists, criminologists, and sociologists collaborate to construct integrated models of organizational behavior that take into account the broadly defined context in which an organization operates, building upon existing theories and concepts about social mobilization, political violence, and criminal gang behavioral dynamics. Moreover, computer scientists on our research team provide insights on how information extraction tools can most efficiently classify data to determine if it meets key conditions. Computer scientists and social scientists work together to develop optimal protocols for combining automated and non-automated data-collection efforts specific to the topic of politically active organizations. The combination of these processes allows for transformative research into the dynamics of terrorism, pushing well beyond current theoretical and methodological boundaries.&lt;br/&gt;&lt;br/&gt;The impact of the data, methods and analyses resulting from this project extends beyond the academic community to the policy realm. The core question?under what conditions does an organization turn to terrorism to pursue its political and social agenda??is of fundamental importance to governments around the world, and the research team assembled for this effort is well positioned to ensure that the knowledge gained from this effort is transferred to interested public officials. The research home for this project is the National Consortium for the Study of Terrorism and Responses to Terrorism (START), a Center of Excellence of the U.S. Department of Homeland Security, with a mandate and the mechanisms to ensure that advances made through this research are communicated directly to the policy community.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>09/18/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/12/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0826886</AwardID>
+<Investigator>
+<FirstName>Gary</FirstName>
+<LastName>LaFree</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gary LaFree</PI_FULL_NAME>
+<EmailAddress><![CDATA[glafree@umd.edu]]></EmailAddress>
+<NSF_ID>000292979</NSF_ID>
+<StartDate>09/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Wilkenfeld</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jonathan Wilkenfeld</PI_FULL_NAME>
+<EmailAddress><![CDATA[jwilkenf@gvpt.umd.edu]]></EmailAddress>
+<NSF_ID>000477515</NSF_ID>
+<StartDate>09/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Venkatramanan</FirstName>
+<LastName>Subrahmanian</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Venkatramanan S Subrahmanian</PI_FULL_NAME>
+<EmailAddress><![CDATA[vs@cs.umd.edu]]></EmailAddress>
+<NSF_ID>000149379</NSF_ID>
+<StartDate>09/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Edward</FirstName>
+<LastName>Crenshaw</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Edward M Crenshaw</PI_FULL_NAME>
+<EmailAddress><![CDATA[crenshaw.4@sociology.osu.edu]]></EmailAddress>
+<NSF_ID>000363876</NSF_ID>
+<StartDate>09/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Victor</FirstName>
+<LastName>Asal</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Victor Asal</PI_FULL_NAME>
+<EmailAddress><![CDATA[vasal@email.albany.edu]]></EmailAddress>
+<NSF_ID>000231482</NSF_ID>
+<StartDate>09/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland, College Park</Name>
+<CityName>College Park</CityName>
+<ZipCode>207420001</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 REGENTS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPU8ULVAAS23</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND, COLLEGE PARK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KMGEN62NKEM9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland, College Park]]></Name>
+<CityName>College Park</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>207420001</ZipCode>
+<StreetAddress><![CDATA[3112 LEE BLDG 7809 REGENTS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1372</Code>
+<Text>LSS-Law And Social Sciences</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7318</Code>
+<Text>HSD - AGENTS OF CHANGE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7319</Code>
+<Text>HSD - DYNAMICS OF HUMAN BEHAVI</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>H420</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7318</Code>
+<Text>HSD - AGENTS OF CHANGE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809RB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~749354</FUND_OBLG>
+<FUND_OBLG>2009~23166</FUND_OBLG>
+</Award>
+</rootTag>

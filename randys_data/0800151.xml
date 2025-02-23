@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[GOALI: Region Partitioning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>318000.00</AwardTotalIntnAmount>
+<AwardAmount>318000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sheldon Jacobson</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This grant funds the development of fast geometric algorithms for dividing a given region into pieces. These algorithms will be developed for a variety of situations where one seeks to partition a region, such as redistricting, drawing organ transplant regions (matches for an organ are first sought within the same region), drawing air traffic control regions (or dynamically adjusting them), and dividing a region among a set of vehicles in order to better surveil/survey the region or serve customers distributed in the region.  In each of these applications, the algorithms will seek to satisfy and/or optimize different criteria.  Redistricting has the criteria that each district contains the same population and optimizes goals such as competitiveness or compactness.  On the other hand, the organ transplant regions should be drawn so that each contains a transplant center and optimizes a combination of efficiency (few organs go to waste) and fairness (people in different regions have roughly equal chances of receiving an organ).  In air traffic control we seek to balance and minimize the work load of the air traffic control regions.  The goal in the vehicle routing problems is to minimize the time until the region is completely surveyed or all the customers have been served.  This grant also funds performance analyses of the developed algorithms in both theory and practice (the algorithms developed for the vehicle problems, for example, will not be optimal since these problems are generalizations of the traveling salesman problem and are thus NP hard).&lt;br/&gt;&lt;br/&gt;If successful, this research will lead to fairer, more compact legislative and congressional districts; more efficient and fair organ transplant regions; more efficient and load-balanced air traffic control regions; and improvements in logistics and vehicle routing.  It will also extend the reach of optimization from algebraic and combinatorial problems to geometric ones.  In addition, it will provide a framework and generalize a number of existing problems in computational geometry.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>06/18/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0800151</AwardID>
+<Investigator>
+<FirstName>Yinyu</FirstName>
+<LastName>Ye</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yinyu Ye</PI_FULL_NAME>
+<EmailAddress><![CDATA[yinyu-ye@stanford.edu]]></EmailAddress>
+<NSF_ID>000455137</NSF_ID>
+<StartDate>06/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sharon</FirstName>
+<LastName>Arroyo</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sharon F Arroyo</PI_FULL_NAME>
+<EmailAddress><![CDATA[sharon.f.arroyo@boeing.com]]></EmailAddress>
+<NSF_ID>000292492</NSF_ID>
+<StartDate>06/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Roman</FirstName>
+<LastName>Fresnedo</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Roman D Fresnedo</PI_FULL_NAME>
+<EmailAddress><![CDATA[roman.d.fresnedo@boeing.com]]></EmailAddress>
+<NSF_ID>000452516</NSF_ID>
+<StartDate>06/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Raju</FirstName>
+<LastName>Mattikalli</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME>Dr.</PI_SUFX_NAME>
+<PI_FULL_NAME>Raju S Mattikalli</PI_FULL_NAME>
+<EmailAddress><![CDATA[raju.s.mattikalli@boeing.com]]></EmailAddress>
+<NSF_ID>000205557</NSF_ID>
+<StartDate>06/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stanford University</Name>
+<CityName>STANFORD</CityName>
+<ZipCode>943052004</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress>450 JANE STANFORD WAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HJD6G4D6TJY5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE LELAND STANFORD JUNIOR UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Stanford University]]></Name>
+<CityName>STANFORD</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>943052004</ZipCode>
+<StreetAddress><![CDATA[450 JANE STANFORD WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1504</Code>
+<Text>GOALI-Grnt Opp Acad Lia wIndus</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5514</Code>
+<Text>OPERATIONS RESEARCH</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>073E</Code>
+<Text>OPTIMIZATION &amp; DECISION MAKING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9147</Code>
+<Text>GENERIC TECHNOL FOR MANUFACTURING CELLS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~318000</FUND_OBLG>
+</Award>
+</rootTag>

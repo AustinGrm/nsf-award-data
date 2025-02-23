@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[DISSERTATION RESEARCH: Harvest-induced changes in life history traits: insights from the brook trout (Salvelinus fontinalis)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>12000.00</AwardTotalIntnAmount>
+<AwardAmount>12000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010207</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samuel Scheiner</SignBlockName>
+<PO_EMAI>sscheine@nsf.gov</PO_EMAI>
+<PO_PHON>7032927175</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Investigating the evolutionary response of natural populations to human disturbance has important evolutionary implications, as well as conservation/management significance. This research is motivated by an intriguing pattern observed in brook trout (Salvelinus fontinalis) in southern Quebec lakes. Individuals living in lakes where fishing is permitted mature earlier and at smaller sizes than those from lakes without fishing. This research attempts to explain this pattern. It uses a novel combination of mathematical models, field surveys and DNA studies to test for harvest-induced evolution. &lt;br/&gt;&lt;br/&gt;This research has practical applications for fisheries management. The decision to harvest fish above a certain size, as well as how many individuals to harvest, depends on whether the fishery can recover to its original state. If changes in age/size at maturity caused by harvesting are not genetic, then simply ceasing (or at least reducing) fishing is likely to allow the population to recover. However, if changes have a genetic basis, then a new approach to establishing fishing policies is needed. The researcher will share his findings with policy stakeholders and will develop new, open-source computational tools that fishery management professionals can use to develop policies that mitigate the evolutionary effects of harvesting natural populations.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>05/05/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>05/05/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0808605</AwardID>
+<Investigator>
+<FirstName>Priyanga</FirstName>
+<LastName>Amarasekare</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Priyanga Amarasekare</PI_FULL_NAME>
+<EmailAddress><![CDATA[pamarasekare@gmail.com]]></EmailAddress>
+<NSF_ID>000474519</NSF_ID>
+<StartDate>05/05/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kenichi</FirstName>
+<LastName>Okamoto</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kenichi Okamoto</PI_FULL_NAME>
+<EmailAddress><![CDATA[kokamoto@ucla.edu]]></EmailAddress>
+<NSF_ID>000316260</NSF_ID>
+<StartDate>05/05/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Los Angeles</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900244201</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress>10889 WILSHIRE BLVD STE 700</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA37</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RN64EPNH8JC6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, LOS ANGELES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Los Angeles]]></Name>
+<CityName>LOS ANGELES</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900244201</ZipCode>
+<StreetAddress><![CDATA[10889 WILSHIRE BLVD STE 700]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1174</Code>
+<Text>POPULATION DYNAMICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7377</Code>
+<Text>EVOLUTIONARY ECOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~12000</FUND_OBLG>
+</Award>
+</rootTag>

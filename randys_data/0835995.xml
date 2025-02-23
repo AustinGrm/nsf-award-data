@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EFRI-RESIN: A Multi-Scale Design and Control Framework for Dynamically Coupled Sustainable and Resilient Infrastructures, with Application to Vehicle-to-Grid Integration]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>2000000.00</AwardTotalIntnAmount>
+<AwardAmount>2000000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07040000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EFMA</Abbreviation>
+<LongName>Emerging Frontiers &amp; Multidisciplinary Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Barbara H. Kenny</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[PI: Jeffrey Stein&lt;br/&gt;Institution: University of Michigan Ann Arbor&lt;br/&gt;Proposal Number: 0835995&lt;br/&gt;&lt;br/&gt;EFRI-RESIN: A Multi-Scale Design and Control Framework for Dynamically Coupled Sustainable and Resilient Infrastructures, with Application to Vehicle-to-Grid Integration &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This award is an outcome of the competition as part of the Emerging Frontiers in Research and Innovation (NSF 07-579) program solicitation under the subtopic Resilient and Sustainable Infrastructures (RESIN).  The goal of this research is to formulate a fundamental system science for interdependent, dynamically coupled civil infrastructures via multi-role intermediaries (MRIs), with the objective of improving their collective performance for resiliency and sustainability.  This project examines the flow of resources and commodities between infrastructures via devices and junctions referred to as MRIs. Examples of MRIs include building energy systems that couple the built environment with electricity infrastructures, GPS-enabled mobile phones that couple transportation and telecommunications infrastructures to manage traffic congestion, and plug-in hybrid electric vehicles (PHEVs) that couple transportation and electricity infrastructures by using grid electricity for transportation, possibly sending stored electricity to the grid (vehicle to grid, or V2G) when appropriate.  This project will formulate a framework to design and control MRIs whose functions are influenced by stochastic processes, interactions across space and time scales, and human decision-making.  The research includes the following tasks:  (1) combine agent-based modeling and life cycle assessment into a framework for evaluating the long-term sustainability of dynamically coupled infrastructures; (2) develop hybrid state diffusion approximation methods to model the dynamics of resiliency in coupled infrastructures with stochastically available resources and MRIs; (3) create a fundamental hierarchical (multi-scale) framework for optimizing the design and configuration of MRIs for resiliency and sustainability within each infrastructure; (4) use stochastic dynamic programming and Poincaré map techniques to optimally control intermediaries in light of their stochastic dynamic switching between different infrastructures; (5) construct Lyapunov energy functions for MRI-coupled systems to control for stability and resiliency; and (6) develop statistical, energy-based model reduction techniques to reduce complexity in infrastructure and intermediary models to facilitate analysis and design of coupled infrastructures. The research outcomes will provide fundamental theoretical contributions to engineering disciplines that are rooted in dynamics and controls, as well as to the social sciences and the field of industrial ecology.  The research will use plug-in hybridization and V2G integration as the test bed application.  With respect to PHEVs, the research will (1) quantify their impact on sustainability and resiliency of the transportation and electricity generation infrastructures, (2) design and configure PHEV powertrains that balance conflicting needs of the transportation and electricity generation infrastructures, (3) formulate power and energy management strategies in PHEVs, taking into account their transportation role, their role in providing distributed storage to the electrical grid, and the switching between such roles, and (4) investigate grid power and energy management methods that capitalize on the distributed capacity provided by V2G integration and the resulting ability to accommodate renewable resource intermittency and prevent and recover from catastrophic failures. The framework developed in this research will enable practical and efficient identification of infrastructure configurations that are globally sustainable and resilient.  The research team includes investigators from the University of Michigan and the Missouri University of Science and Technology in the fields of electrical and mechanical engineering, economics and public policy, natural resources and environment, and transportation research.  The methods and tools will be disseminated to industry via an external advisory and technical publications.  The research results (including a sustainability simulation tool) will be incorporated into classroom instruction in the new graduate level Engineering Sustainable Systems program at the University of Michigan and through education and outreach programs that target underrepresented students at the high school and undergraduate level.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>09/08/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/27/2011</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0835995</AwardID>
+<Investigator>
+<FirstName>Huei</FirstName>
+<LastName>Peng</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Huei Peng</PI_FULL_NAME>
+<EmailAddress><![CDATA[hpeng@umich.edu]]></EmailAddress>
+<NSF_ID>000214951</NSF_ID>
+<StartDate>09/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Zoran</FirstName>
+<LastName>Filipi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zoran Filipi</PI_FULL_NAME>
+<EmailAddress><![CDATA[filipi@umich.edu]]></EmailAddress>
+<NSF_ID>000309343</NSF_ID>
+<StartDate>09/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Stein</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeffrey L Stein</PI_FULL_NAME>
+<EmailAddress><![CDATA[stein@umich.edu]]></EmailAddress>
+<NSF_ID>000091934</NSF_ID>
+<StartDate>09/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gregory</FirstName>
+<LastName>Keoleian</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gregory A Keoleian</PI_FULL_NAME>
+<EmailAddress><![CDATA[gregak@umich.edu]]></EmailAddress>
+<NSF_ID>000321889</NSF_ID>
+<StartDate>09/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Michigan - Ann Arbor</Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>1109 GEDDES AVE, SUITE 3300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091079</ZipCode>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7633</Code>
+<Text>EFRI Research Projects</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1064</Code>
+<Text>URBAN INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~2000000</FUND_OBLG>
+</Award>
+</rootTag>

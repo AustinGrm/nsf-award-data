@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Expanding and Sustaining Research Capacity in Engineering and Technology Education: Building on Successful Programs for Faculty and Graduate Students]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>475034</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Don Millard</SignBlockName>
+<PO_EMAI>dmillard@nsf.gov</PO_EMAI>
+<PO_PHON>7032924620</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Engineering - Other (59) &lt;br/&gt;&lt;br/&gt;The project, a collaboration among Alverno College, Colorado School of Mines, Howard University, Madison Area Technical College, and Purdue University, is developing engineering education research capacity in the engineering and technician education communities. The goals of the project are to design and deliver a new generation of effective, flexible, inclusive, and sustainable programs to educate engineering and engineering technology faculty and graduate students to conduct and use educational research and to foster a virtual community of engineering and engineering technology education researchers through the use of web-based technology. The project involves three distinct but related faculty development efforts. The first is a series of short courses to introduce faculty members and graduate students to various research topics such as theoretical frameworks, experiment design, and quantitative approaches. The second is a two-step, multi-day workshop for curriculum developers to enable them to design and implement learning centered curriculum. The third is a multi-day workshop for faculty members who have moderate engineering education research experience to enable them to review and extend their knowledge of relevant education theory and research methods and to apply this knowledge to answering a significant research question focused on how students learn engineering. These short course and workshop materials are a being made available on the newly created engineering education research hub (rreeHUB.org), which is being used in organized activities to build a virtual community. The evaluation effort, with leadership from an expert from Purdue's Discover Learning Center, is using pre-event, post-event, and post-project surveys to assess familiarity with and knowledge of content areas. Broader impacts include an extensive dissemination effort involving a virtual community and systematic efforts to recruit a diverse group of faculty and graduate students with targeted outreach to 2-year colleges and minority serving institutions.]]></AbstractNarration>
+<MinAmdLetterDate>08/16/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/27/2012</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0817498</AwardID>
+<Investigator>
+<FirstName>Marcia</FirstName>
+<LastName>Mentkowski</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marcia Mentkowski</PI_FULL_NAME>
+<EmailAddress><![CDATA[marcia.mentkowski@alverno.edu]]></EmailAddress>
+<NSF_ID>000337156</NSF_ID>
+<StartDate>08/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tim</FirstName>
+<LastName>Riordan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tim Riordan</PI_FULL_NAME>
+<EmailAddress><![CDATA[tim.riordan@alverno.edu]]></EmailAddress>
+<NSF_ID>000301784</NSF_ID>
+<StartDate>08/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Alverno College</Name>
+<CityName>MILWAUKEE</CityName>
+<ZipCode>532194844</ZipCode>
+<PhoneNumber>4143826347</PhoneNumber>
+<StreetAddress>3400 S 43RD ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WCMLW2MWGPZ4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ALVERNO COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>WCMLW2MWGPZ4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Alverno College]]></Name>
+<CityName>MILWAUKEE</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>532194844</ZipCode>
+<StreetAddress><![CDATA[3400 S 43RD ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7493</Code>
+<Text>CCLI-Type 3 (Comprehensive)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~475034</FUND_OBLG>
+</Award>
+</rootTag>

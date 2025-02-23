@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Doctoral Dissertation Improvement: Coevolutionary Models and the Evolution of the Anthropoid Honing Complex]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>1760.00</AwardTotalIntnAmount>
+<AwardAmount>1760</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carolyn Ehardt</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[ Two features, bipedality and reduced canine size, distinguish humans and our fossil ancestors from other apes. In monkeys and apes the canines are typically relatively large and participate in a functional complex that sharpens the canines during occlusion; the reduced hominin canine is not sharpened. Characters within functional complexes are expected to coevolve as a result of natural selection and, among nonhuman anthropoid primates, two characters of this complex have been shown to be correlated among species, suggesting that characters of the complex do coevolve. A similar pattern is not observed in early hominins of the genus Australopithecus. Thus, the canine honing complex provides a rare opportunity to investigate the coevolution and dissolution of a functional complex.&lt;br/&gt; Character coevolution occurs as the result of different processes; for example, characters may coevolve because of genetic correlations, created by pleiotropy or genetic linkage, which exist among characters. Coevolution, observed among species, is in this case an extension of the genetic relationship that exists within species. Coevolution occurs in the absence of genetic correlations as well if characters respond independently to selection, which is termed selective covariation. This project will determine if characters of the honing complex coevolve and, if so, by which process. Genetic correlations in nonhuman primates would require a genetic decoupling of the complex during hominin evolution; however, the absence of genetic correlations would only require a change in the source or strength of selective pressures to break up the complex. By examining patterns of covariation, both within and among species, the process(es) that holds the complex together in extant nonhuman anthropoids will be elucidated as will be the process that decoupled the complex in hominins. This project will investigate the origin of canine reduction, one of the hallmark features of hominin evolution. To address this topic, the morphology of the primate dentition will be quantified using caliper- and photographic-based measurements. Measurements will be taken on a broad sample of primate dentitions to ensure that the sample is broad phylogenetically, in body size, and in social structure.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>04/03/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>04/03/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0852105</AwardID>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Kimbel</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>William H Kimbel</PI_FULL_NAME>
+<EmailAddress><![CDATA[william.kimbel@asu.edu]]></EmailAddress>
+<NSF_ID>000208856</NSF_ID>
+<StartDate>04/03/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lucas</FirstName>
+<LastName>Delezene</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lucas Delezene</PI_FULL_NAME>
+<EmailAddress><![CDATA[lucas.delezene@asu.edu]]></EmailAddress>
+<NSF_ID>000499700</NSF_ID>
+<StartDate>04/03/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Arizona State University</Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852813670</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress>660 S MILL AVENUE STE 204</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NTLHJXM55KZ6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ARIZONA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>TEMPE</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>852813670</ZipCode>
+<StreetAddress><![CDATA[660 S MILL AVENUE STE 204]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1392</Code>
+<Text>Biological Anthropology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1392</Code>
+<Text>Biological Anthropology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~1760</FUND_OBLG>
+</Award>
+</rootTag>

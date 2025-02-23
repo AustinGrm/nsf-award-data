@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Acquisition of an LCMS for the Chemistry Department at the University of Vermont]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>430735.00</AwardTotalIntnAmount>
+<AwardAmount>430735</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos Murillo</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[With this award from the Major Research Instrumentation program (MRI), Dwight Matthews and UVM colleagues Giuseppe Petrucci, Matthias Brewer, Martin Case, William Geiger, Thomas Hughes as well as Kevin Kittredge (Siena College) and Linda Luck (SUNY, Plattsburgh) will acquire a low-flow liquid-chromatograph tandem mass spectrometer (LC-MS/MS) system that will increase collaboration amongst UV, Siena College and the State University of New York at Plattsburgh. These collaborative efforts will enhance the research and educational infrastructure of the region. The instrumentation will be used in seven specific research activities: (1) synthesis of complex N- or O-containing polycyclic compounds for biomedical application, (2) self-association of peptides, (3) C-C coupling reactions of unactivated olefins, employing an organorhenium electron-transfer mediator, (4) use of macrocyclic precursors to synthesize short single-wall nanotubes segments, (5) linking mechanisms of crown ether modified monolayer-protected clusters, (6) development of biosensors for estrogen disrupting chemicals, and (7) environmentally relevant heterogeneous reactions of volatile and semi-volatile organic compounds on airborne particles.&lt;br/&gt;&lt;br/&gt;Mass spectrometry (MS) is a technique used to probe intimate structural details and to obtain the molecular compositions of a vast array of organic, bioorganic, and organometallic molecules. This research is also expected to have a positive effect on the environment. MS is one of the fastest growing and most widely used analytical instrumentation techniques. Because of this, it is important for graduate and undergraduate students to be exposed to the technique. To a first approximation a tandem mass spectrometer can be thought of as two mass spectrometers in series connected by a chamber that can break a chemical species into pieces to facilitate analysis.&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/30/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/30/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0821501</AwardID>
+<Investigator>
+<FirstName>Giuseppe</FirstName>
+<LastName>Petrucci</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Giuseppe Petrucci</PI_FULL_NAME>
+<EmailAddress><![CDATA[Giuseppe.Petrucci@uvm.edu]]></EmailAddress>
+<NSF_ID>000117932</NSF_ID>
+<StartDate>07/30/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dwight</FirstName>
+<LastName>Matthews</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dwight E Matthews</PI_FULL_NAME>
+<EmailAddress><![CDATA[dwight.matthews@uvm.edu]]></EmailAddress>
+<NSF_ID>000287626</NSF_ID>
+<StartDate>07/30/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Vermont &amp; State Agricultural College</Name>
+<CityName>BURLINGTON</CityName>
+<ZipCode>054051704</ZipCode>
+<PhoneNumber>8026563660</PhoneNumber>
+<StreetAddress>85 S PROSPECT STREET</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Vermont</StateName>
+<StateCode>VT</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VT00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Z94KLERAG5V9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF VERMONT &amp; STATE AGRICULTURAL COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Vermont &amp; State Agricultural College]]></Name>
+<CityName>BURLINGTON</CityName>
+<StateCode>VT</StateCode>
+<ZipCode>054051704</ZipCode>
+<StreetAddress><![CDATA[85 S PROSPECT STREET]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Vermont</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VT00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~430735</FUND_OBLG>
+</Award>
+</rootTag>

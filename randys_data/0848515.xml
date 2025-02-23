@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Multinucleating Pendtadentate Ligand Scaffolds for Cooperative Bimetallic Oxidation Reactions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090005</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Timothy Patten</SignBlockName>
+<PO_EMAI>tpatten@nsf.gov</PO_EMAI>
+<PO_PHON>7032927196</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).  The Inorganic, Bioinorganic and Organometallic Chemistry Program supports the efforts of Professor James Gardinier of Marquette University for the design and study of iron(IV)=O species that contain pentadentate ligands for C-H bond activation reactions.  The new ligands will modulate the steric and electronic properties of the transition metal complexes, impacting ligand substitution and potentially providing cooperatively-enhanced reaction chemistry for bimetallic ensembles.  Despite widespread interest, many fundamental questions about iron(IV)=O species remain unanswered in both biochemical and catalytic processes; this research targets some of these important questions.    &lt;br/&gt;&lt;br/&gt;Professor Gardinier has created and maintained a web library of spectra for d-d transitions.  This website is accessible to both researchers and educators seeking to enhance the undergraduate curriculum.  Professor Gardinier also actively participates in the Upward Bound Program, which enables students in grades 9-11 from low income families to develop the skills required to complete high school.  The introduction of mini-workshops on current inorganic research projects exposes these students to modern research topics.]]></AbstractNarration>
+<MinAmdLetterDate>06/29/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/29/2009</MaxAmdLetterDate>
+<ARRAAmount>300000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0848515</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Gardinier</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James Gardinier</PI_FULL_NAME>
+<EmailAddress><![CDATA[james.gardinier@marquette.edu]]></EmailAddress>
+<NSF_ID>000165798</NSF_ID>
+<StartDate>06/29/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Marquette University</Name>
+<CityName>MILWAUKEE</CityName>
+<ZipCode>532332310</ZipCode>
+<PhoneNumber>4142887200</PhoneNumber>
+<StreetAddress>915 W WISCONSIN AVE RM 175</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HKJCKTFJNBM7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MARQUETTE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YHYDXPLZHLW3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Marquette University]]></Name>
+<CityName>MILWAUKEE</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>532332310</ZipCode>
+<StreetAddress><![CDATA[915 W WISCONSIN AVE RM 175]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1968</Code>
+<Text>PHYSICAL INORGANIC</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1401</Code>
+<Text>CATALYSIS AND BIOCATALYSIS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~300000</FUND_OBLG>
+</Award>
+</rootTag>

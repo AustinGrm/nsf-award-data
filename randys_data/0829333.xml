@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Using Continental Scale Data In Undergraduate Ecology Education Phase 1Workshop]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>49901.00</AwardTotalIntnAmount>
+<AwardAmount>59695</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08040000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EF</Abbreviation>
+<LongName>Emerging Frontiers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Elizabeth Blood</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The National Ecological Observatory Network (NEON) will provide a unique opportunity for the undergraduate education community to participate in and teach ecology at large spatial and temporal scales. NEON will enormously expand the potential and the opportunities for continental-scale research, education and training. The NEON data will offer an unprecedented opportunity for students at small undergraduate institutions to work with real data from the forefront of ecological research either as classroom exercises or through independent research projects. The associated cyberinfrastructure will provide the tools that make such large-scale working partnerships not only possible, but practical. &lt;br/&gt;&lt;br/&gt;This award will provide funds to the Ecological Society of America for planning activities to introduce NEON to the undergraduate education community. ESA will conduct a scoping workshop to bring together undergraduate educators to explore approaches to teaching that will make use of large volumes of continental-scale data. Data on land use change and climate change will be made available to faculty for discussion and analysis. Undergraduate educators will receive guidance on student-active methods that will stimulate student participation in the scientific process, using real data, even in situations where fieldwork is not feasible. Additional planning will occur to engage the faculty participating in as mentors to undergraduate students as they develop (a) ideas for student research projects on a continental scale and (b) ways in which undergraduate students can collaborate to advance these research projects and generate new research ideas. &lt;br/&gt;&lt;br/&gt;This project paves the way for college educators to take advantage of the new opportunities and challenges that NEON will present for ecology education. Future projects growing out of the workshop are expected to incorporate technological features, tools, and skills useful in facilitating data collection and analysis and ideas that will establish the foundations for collaborative teaching, learning and undergraduate involvement in research on a continental scale. Further, with SEEDS faculty and students involved, it is anticipated that future projects will engage a high degree of participation from underrepresented students in the ecological sciences.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>05/08/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>02/22/2011</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0829333</AwardID>
+<Investigator>
+<FirstName>Teresa</FirstName>
+<LastName>Mourad</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Teresa M Mourad</PI_FULL_NAME>
+<EmailAddress><![CDATA[teresa@esa.org]]></EmailAddress>
+<NSF_ID>000281505</NSF_ID>
+<StartDate>05/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Ecological Society of America</Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>200363415</ZipCode>
+<PhoneNumber>2028338773</PhoneNumber>
+<StreetAddress>1990 M ST NW</StreetAddress>
+<StreetAddress2><![CDATA[STE 700]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DBRGTD7EY3M1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ECOLOGICAL SOCIETY OF AMERICA INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Ecological Society of America]]></Name>
+<CityName>WASHINGTON</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>200363415</ZipCode>
+<StreetAddress><![CDATA[1990 M ST NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7350</Code>
+<Text>NEON-Concept &amp; Development</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7350</Code>
+<Text>NAT ECOLOGICAL OBSERVATORY NET</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9104</Code>
+<Text>ENVIRONMENTAL BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9184</Code>
+<Text>BIOTECHNOLOGY - INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~49901</FUND_OBLG>
+<FUND_OBLG>2009~9794</FUND_OBLG>
+</Award>
+</rootTag>

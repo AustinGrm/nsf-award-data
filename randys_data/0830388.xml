@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[TLS: Early prediction of the impact of research through large-scale analysis and modeling citation dynamics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>450817</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04000000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joshua Rosenbloom</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The number of scientific journals and the number of papers published in those journals is increasing at a fast pace: currently, there are roughly 9,000 scientific journals, a twenty-fold increase from the 400 scientific journals available in 1955. The size and growth of the research literature places a tremendous burden on decision-making agents, such as funding agencies, university administrators, and reviewers, who have to evaluate the quality of research of individuals and institutions in a fast and efficient manner. In addition, the evaluation of individuals and institutions relies heavily on the assessment of the ultimate impact of published research, typically measured as the number of publications or the number of citations. &lt;br/&gt;&lt;br/&gt;Despite the oversimplification of using just a few numbers to quantify the scientific merit of a body of research, the entire science and technology community is relying more and more on citation-based statistics as a tool for evaluating the research performance of individuals and institutions and the development of tools that facilitate the evaluation task is crucial in order to ensure the highest quality standard for funded research.&lt;br/&gt;&lt;br/&gt;A major challenge is that stakeholders often want an estimate of the impact of a paper long before citations start to accumulate. This project aims precisely at facilitating such a task by developing tools to predict, soon after publication, the ultimate impact of research. This project uses longitudinal data available for papers published since 1955, drawing upon the concept that one can infer patterns of citation accumulation from large-scale analysis of historical data. &lt;br/&gt;&lt;br/&gt;Broader Impact: The outcome of this research is of relevance to decision makers that are called on to evaluate the productivity of researchers and institutions, as well as the impact of their work. The goal of this project is to develop transparent statistically-sound methods in order to enable institutions and funding agencies to make better informed decisions based on an objective assessment of the impact of published research.]]></AbstractNarration>
+<MinAmdLetterDate>09/22/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>01/11/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0830388</AwardID>
+<Investigator>
+<FirstName>Luis</FirstName>
+<LastName>Amaral</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Luis N Amaral</PI_FULL_NAME>
+<EmailAddress><![CDATA[amaral@northwestern.edu]]></EmailAddress>
+<NSF_ID>000108015</NSF_ID>
+<StartDate>01/11/2010</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Roger</FirstName>
+<LastName>Guimera</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Roger Guimera</PI_FULL_NAME>
+<EmailAddress><![CDATA[rguimera@northwestern.edu]]></EmailAddress>
+<NSF_ID>000297994</NSF_ID>
+<StartDate>09/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Marta</FirstName>
+<LastName>Sales-Pardo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marta Sales-Pardo</PI_FULL_NAME>
+<EmailAddress><![CDATA[msales@northwestern.edu]]></EmailAddress>
+<NSF_ID>000298525</NSF_ID>
+<StartDate>01/11/2010</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Luis</FirstName>
+<LastName>Amaral</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Luis N Amaral</PI_FULL_NAME>
+<EmailAddress><![CDATA[amaral@northwestern.edu]]></EmailAddress>
+<NSF_ID>000108015</NSF_ID>
+<StartDate>09/22/2008</StartDate>
+<EndDate>01/11/2010</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Marta</FirstName>
+<LastName>Sales-Pardo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marta Sales-Pardo</PI_FULL_NAME>
+<EmailAddress><![CDATA[msales@northwestern.edu]]></EmailAddress>
+<NSF_ID>000298525</NSF_ID>
+<StartDate>09/22/2008</StartDate>
+<EndDate>01/11/2010</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northwestern University</Name>
+<CityName>EVANSTON</CityName>
+<ZipCode>602080001</ZipCode>
+<PhoneNumber>3125037955</PhoneNumber>
+<StreetAddress>633 CLARK STREET</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EXZVPWZBLUE8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHWESTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>EVANSTON</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>602080001</ZipCode>
+<StreetAddress><![CDATA[633 CLARK STREET]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7626</Code>
+<Text>SciSIP-Sci of Sci Innov Policy</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7752</Code>
+<Text>CDI NON SOLICITED RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~400000</FUND_OBLG>
+<FUND_OBLG>2009~50817</FUND_OBLG>
+</Award>
+</rootTag>

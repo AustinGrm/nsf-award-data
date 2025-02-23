@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SGER: Giant Virus Regulation of Coccolithophorid Dynamics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>69523.00</AwardTotalIntnAmount>
+<AwardAmount>69523</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Garrison</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[With an average of 10-million viruses in a teaspoon of seawater, they are the most abundant biological particles in the ocean. The marine environment represents an almost infinite reservoir of unknown viruses with unknown functions. Perhaps surprisingly, their role is not to kill everything, but to act as vectors for gene transfer that drive evolutionary processes and to act as "catalysts" in marine biogeochemical cycling. This research focuses on a group of giant viruses (from the genus Coccolithoviridae) that infect the coccolithophorid Emiliania huxleyi, a unicellular calcifying microalgae and a key species for current studies on global biogeochemical cycles, climate modeling and ocean acidification. &lt;br/&gt;&lt;br/&gt;The underlying hypothesis of this grant is that these giant algal viruses rapidly respond to changes in marine coccolithophore diversity and abundance as the ocean becomes more acidic. The investigator's hypothesis is that giant algal viruses will essentially maintain the necessary equilibrium to allow the phytoplankton community to function effectively during elevated levels of acidification.  The research is coordinated with a research cruise along the Patagonian Shelf off Argentina, one of the world's largest, most productive, yet largely unexplored shelf regions. The aim of the cruise is to investigate ocean acidification as well as other key biogeochemical parameters that influence phytoplankton bloom dynamics. Virus activity will undoubtedly play a key role in shaping these ecosystems. &lt;br/&gt;&lt;br/&gt;Using dilution studies, isolation studies, flow cytometry, quantitative and qualitative molecular approaches, including metagenomics, the investigator will assess how virus-host interactions can react and adapt to ocean acidification. Parallel data collected on the cruise will prove an incredibly valuable resource for correlation with the molecular ecological and eventual metagenomic data (for which samples will only be collected, not analyzed) and should provide quantitative insights into the role of viruses in the Patagonian Shelf region. &lt;br/&gt;&lt;br/&gt;Broader Impacts of this study will derive mainly from interactions between the scientists directly involved in the research and students/general public. For example, research outlined in this proposal will be discussed during an informal "Café Scientifique" program designed to teach the general public about the latest ideas in science. In addition, the investigator has developed individual programs for teaching K-12 students the structure of viruses that are targeted to the different education levels.   A post doc is also supported by the project.]]></AbstractNarration>
+<MinAmdLetterDate>09/11/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/11/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0849363</AwardID>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Wilson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>William Wilson</PI_FULL_NAME>
+<EmailAddress><![CDATA[wwilson@bigelow.org]]></EmailAddress>
+<NSF_ID>000069677</NSF_ID>
+<StartDate>09/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Bigelow Laboratory for Ocean Sciences</Name>
+<CityName>EAST BOOTHBAY</CityName>
+<ZipCode>045445700</ZipCode>
+<PhoneNumber>2073152567</PhoneNumber>
+<StreetAddress>60 BIGELOW DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<StateCode>ME</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>ME01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DRTAEZWWJHM8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BIGELOW LABORATORY FOR OCEAN SCIENCES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Bigelow Laboratory for Ocean Sciences]]></Name>
+<CityName>EAST BOOTHBAY</CityName>
+<StateCode>ME</StateCode>
+<ZipCode>045445700</ZipCode>
+<StreetAddress><![CDATA[60 BIGELOW DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>ME01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0204000</Code>
+<Name>Oceanography</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1650</Code>
+<Text>BIOLOGICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1382</Code>
+<Text>OCEAN ACIDIFICATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1389</Code>
+<Text>CARBON CYCLE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9237</Code>
+<Text>SMALL GRANTS-EXPLORATORY RSRCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~69523</FUND_OBLG>
+</Award>
+</rootTag>

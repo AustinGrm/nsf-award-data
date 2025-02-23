@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Acquisition of a Terahertz Time Domain Spectrometer]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dominique Dagenais</SignBlockName>
+<PO_EMAI>ddagenai@nsf.gov</PO_EMAI>
+<PO_PHON>7032922980</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Objective:&lt;br/&gt;Terahertz (THz) sensing is emerging as a promising new technology with application to a wide number of compelling problems in material probing, medical imaging, and device design. THz imaging has several desirable attributes such as distinctive spectral signatures, sensitivity to sub-millimeter-scale features, safe operation for personnel screening, and the ability to penetrate through materials. However, researchers are only beginning to develop a rigorous understanding of the complicated THz signatures which are influenced by both chemical composition and scattering from a material's microstructure. The objective of this proposal is to support a concerted THz measurement effort with the acquisition of a THz time domain spectroscopy system.&lt;br/&gt;&lt;br/&gt;Intellectual Merit:&lt;br/&gt;A core contribution will be the development of electromagnetic scattering models appropriate for characterizing THz wave interaction with complex random media (for example, manmade or natural materials with randomly dispersed features such as cracks, grains, or interfaces). The need to understand this interaction arises in almost all potential applications of THz sensing and can only be rigorously addressed with an integrated measurement effort.&lt;br/&gt;&lt;br/&gt;Broader Impact:&lt;br/&gt;The THz system will support a host of research and educational activities by researchers at Portland State, neighboring academia, and industry partners, resulting in increased collaboration and strengthening the participation of women (both PI and Co-PI are female role models). Students will have the opportunity to engage in cutting edge THz research and associated multi-institutional activities. The potential societal benefits are truly impressive, including the potential for a new medical imaging capability or the ability to detect concealed explosives.]]></AbstractNarration>
+<MinAmdLetterDate>07/02/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0821756</AwardID>
+<Investigator>
+<FirstName>Suresh</FirstName>
+<LastName>Singh</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Suresh P Singh</PI_FULL_NAME>
+<EmailAddress><![CDATA[singh@cs.pdx.edu]]></EmailAddress>
+<NSF_ID>000107901</NSF_ID>
+<StartDate>07/02/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jun</FirstName>
+<LastName>Jiao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jun Jiao</PI_FULL_NAME>
+<EmailAddress><![CDATA[jiaoj@pdx.edu]]></EmailAddress>
+<NSF_ID>000485011</NSF_ID>
+<StartDate>07/02/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lisa</FirstName>
+<LastName>Zurk</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lisa M Zurk</PI_FULL_NAME>
+<EmailAddress><![CDATA[zurkl@cecs.pdx.edu]]></EmailAddress>
+<NSF_ID>000101650</NSF_ID>
+<StartDate>07/02/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Portland State University</Name>
+<CityName>PORTLAND</CityName>
+<ZipCode>972015522</ZipCode>
+<PhoneNumber>5037259900</PhoneNumber>
+<StreetAddress>1600 SW 4TH AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OR03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H4CAHK2RD945</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PORTLAND STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>H4CAHK2RD945</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Portland State University]]></Name>
+<CityName>PORTLAND</CityName>
+<StateCode>OR</StateCode>
+<ZipCode>972015522</ZipCode>
+<StreetAddress><![CDATA[1600 SW 4TH AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OR03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0206000</Code>
+<Name>Telecommunications</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>094E</Code>
+<Text>Optoelectronic devices</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>095E</Code>
+<Text>Photonic integration</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>103E</Code>
+<Text>Energy efficient electronics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~250000</FUND_OBLG>
+</Award>
+</rootTag>

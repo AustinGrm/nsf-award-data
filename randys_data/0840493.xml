@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[A Cluster for Cyber-Enabled Research and Education in Computational Chemistry]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>525325.00</AwardTotalIntnAmount>
+<AwardAmount>525325</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090002</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos Murillo</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[With support from the Chemistry Research Instrumentation and Facilities: Multiuser program (CRIF:MU), the Department of Chemistry at Texas Tech University will acquire a 10.8 TeraFlop, parallel computing cluster.  The computing cluster will be used by researchers to study a number of problems in the chemical sciences, including (a) the hydrolysis of cellulose as an efficient route to biofuels; (b) simulations of electrochemical surface reactions; (c) accurate quantum dynamical calculations for chemical reactions; (d) the role of non-adiabaticity in the chemistry of the early universe; (e) dynamics of protonated peptide ion surface-induced decomposition; and (f) studies of electronically non-adiabatic dynamics using a coherent-states model.  The computing cluster will be used in a number of ongoing activities carried out by the department targeted to groups which have been traditionally underrepresented in the sciences.  Software will be developed and freely-disseminated.  Cyberinfrastructure will enable researchers at other schools (i.e. Eastern New Mexico University, and University of Texas, Permian Basin) to use this equipment.&lt;br/&gt;&lt;br/&gt;Modern computer infrastructure allows chemists to do some experiments , virtually, without the need to use chemical reagents.  In addition, checked against experiment, new, more accurate theoretical methods may be developed.  In tandem with experiment, computations allow chemists to examine, in detail beyond that of current experimental methods, the molecular ballet that takes place in complicated chemical processes.  The infrastructure made available with this grant will be used in teaching and training a broad range of young scientists in computational chemistry -- from high school, all the way through the post-graduate level.]]></AbstractNarration>
+<MinAmdLetterDate>01/27/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>11/10/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0840493</AwardID>
+<Investigator>
+<FirstName>Lionel</FirstName>
+<LastName>Poirier</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lionel W Poirier</PI_FULL_NAME>
+<EmailAddress><![CDATA[Bill.Poirier@ttu.edu]]></EmailAddress>
+<NSF_ID>000231798</NSF_ID>
+<StartDate>01/27/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jorge</FirstName>
+<LastName>Morales</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jorge A Morales</PI_FULL_NAME>
+<EmailAddress><![CDATA[Jorge.Morales@ttu.edu]]></EmailAddress>
+<NSF_ID>000484103</NSF_ID>
+<StartDate>01/27/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Hase</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>William L Hase</PI_FULL_NAME>
+<EmailAddress><![CDATA[bill.hase@ttu.edu]]></EmailAddress>
+<NSF_ID>000398607</NSF_ID>
+<StartDate>01/27/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gregory</FirstName>
+<LastName>Gellene</LastName>
+<PI_MID_INIT>I</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gregory I Gellene</PI_FULL_NAME>
+<EmailAddress><![CDATA[greg.gellene@ttu.edu]]></EmailAddress>
+<NSF_ID>000196254</NSF_ID>
+<StartDate>01/27/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Carol</FirstName>
+<LastName>Korzeniewski</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carol Korzeniewski</PI_FULL_NAME>
+<EmailAddress><![CDATA[carol.korzeniewski@ttu.edu]]></EmailAddress>
+<NSF_ID>000330670</NSF_ID>
+<StartDate>11/10/2010</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dominick</FirstName>
+<LastName>Casadonte</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dominick J Casadonte</PI_FULL_NAME>
+<EmailAddress><![CDATA[dominick.casadonte@TTU.edu]]></EmailAddress>
+<NSF_ID>000271919</NSF_ID>
+<StartDate>01/27/2009</StartDate>
+<EndDate>11/10/2010</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas Tech University</Name>
+<CityName>LUBBOCK</CityName>
+<ZipCode>79409</ZipCode>
+<PhoneNumber>8067423884</PhoneNumber>
+<StreetAddress>2500 BROADWAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EGLKRQ5JBCZ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS TECH UNIVERSITY SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas Tech University]]></Name>
+<CityName>LUBBOCK</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>79409</ZipCode>
+<StreetAddress><![CDATA[2500 BROADWAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1938</Code>
+<Text>Chemical Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1108</Code>
+<Text>INSTRUMENTAT &amp; INSTRUMENT DEVP</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7725</Code>
+<Text>CDI-VIRTUAL ORGANIZATIONS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9162</Code>
+<Text>MULTI DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~525325</FUND_OBLG>
+</Award>
+</rootTag>

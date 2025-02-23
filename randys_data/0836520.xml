@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NUE: The Nanotechnology Certificate Program at Georgia Tech</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>199567.00</AwardTotalIntnAmount>
+<AwardAmount>199567</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EEC</Abbreviation>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mary Poats</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Nanotechnology Undergraduate Education (NUE) in Engineering program entitled NUE: The Nanotechnology Certificate Program at Georgia Tech, under the direction of Dr. Sankar Nair, will establish the undergraduate Nanotechnology Certificate Program at the Georgia Institute of Technology (GT).  The overall goal of the proposed project is to innovatively impact nanotechnology education at the undergraduate level.  The Certificate curriculum will bridge the "pillars" of nanotechnology-nanodevices/systems, nanoscale characterization, and nanomaterials-in the context of both the "top down" and bottom up" nanofabrication approaches, via a well-integrated program of hands-on laboratory and classroom instructions.  Concurrently, it will provide substantial expposure to issues in nanotechnology practice and its potential societal impacts, through an invited speaker program.  Graduates of the program will thus be in an advantageous position to formulate and implement nanotechnology-based solutions as part of the science and technology workforce in industry, government, and academia.</AbstractNarration>
+<MinAmdLetterDate>08/19/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/19/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0836520</AwardID>
+<Investigator>
+<FirstName>Ian</FirstName>
+<LastName>Ferguson</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ian T Ferguson</PI_FULL_NAME>
+<EmailAddress>ianf@ece.gatech.edu</EmailAddress>
+<PI_PHON>4043852885</PI_PHON>
+<NSF_ID>000315750</NSF_ID>
+<StartDate>08/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Hesketh</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peter J Hesketh</PI_FULL_NAME>
+<EmailAddress>peter.hesketh@me.gatech.edu</EmailAddress>
+<PI_PHON>4043851358</PI_PHON>
+<NSF_ID>000208965</NSF_ID>
+<StartDate>08/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Zhong</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zhong L Wang</PI_FULL_NAME>
+<EmailAddress>zhong.wang@mse.gatech.edu</EmailAddress>
+<PI_PHON>4048948008</PI_PHON>
+<NSF_ID>000485555</NSF_ID>
+<StartDate>08/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sankar</FirstName>
+<LastName>Nair</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sankar Nair</PI_FULL_NAME>
+<EmailAddress>sankar.nair@chbe.gatech.edu</EmailAddress>
+<PI_PHON>4048944826</PI_PHON>
+<NSF_ID>000105709</NSF_ID>
+<StartDate>08/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Zhongju John</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zhongju John Zhang</PI_FULL_NAME>
+<EmailAddress>john.zhang@chemistry.gatech.edu</EmailAddress>
+<PI_PHON>4048946368</PI_PHON>
+<NSF_ID>000155923</NSF_ID>
+<StartDate>08/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 NORTH AVE NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7219</Code>
+<Text>NANOTECHNOLOGY UNDERGRAD EDUCA</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>113E</Code>
+<Text>ENG CURRICULUMN DEVELOPMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7219</Code>
+<Text>NANOTECHNOLOGY UNDERGRAD EDUCA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~199567</FUND_OBLG>
+</Award>
+</rootTag>

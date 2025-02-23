@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Fully resolved simulation of self-propelling fish]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>330000.00</AwardTotalIntnAmount>
+<AwardAmount>330000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dimitrios Papavassiliou</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[CBET-0828749&lt;br/&gt;Patankar&lt;br/&gt;&lt;br/&gt;The physical principles underlying the extraordinary mobility of swimming and flying animals have been the subject of years of effort and there is still much that is not understood. This study develops an efficient numerical method for fully resolved simulation of self-propulsion of organisms called Fully Resolved Momentum Redistribution for self Propulsion (FuRMoRP). It will be used to study swimming fish; however, it is sufficiently general to function for small flying animals as well. The motivation to develop such a tool is two-fold: first, to develop a high resolution efficient fluid simulation technology that is transformational by its potential to significantly impact many interdisciplinary areas; second, to gain insight into a number of fundamental problems in aquatic locomotion which will also lead to insights into the design of a novel, highly-maneuverable underwater vehicle being developed through a separate project in the Co-PI's lab. The maneuverability and efficiency of fish is inspiring new styles of propulsion and maneuvering in underwater vehicles for applications such as undersea exploration and environmental monitoring. The development of such vehicles will depend on the resolution of open issues in aquatic locomotion which will be studied here using FuRMoRP applied to three important swimming modes and fish morphologies. The PIs hope to answer specific questions:  What is the most efficient deformation kinematics three given fish types?  How do they compare with experimentally observed gaits? What are their comparative efficiencies? The education plan involves developing new graduate and undergraduate courses, fluid animations for explanation of biofluid-dynamic principles, a book project, and international outreach. For outreach, the PIs will work with the world renowned Shedd Aquarium in Chicago to help develop a more educational display of the electric eels. The display will provide real-time acoustic and visual cues to the visitors to help them appreciate some of the fluid dynamical science and beauty of the electric eels.]]></AbstractNarration>
+<MinAmdLetterDate>08/21/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/21/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0828749</AwardID>
+<Investigator>
+<FirstName>Malcolm</FirstName>
+<LastName>MacIver</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Malcolm A MacIver</PI_FULL_NAME>
+<EmailAddress><![CDATA[maciver@northwestern.edu]]></EmailAddress>
+<NSF_ID>000286882</NSF_ID>
+<StartDate>08/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Neelesh</FirstName>
+<LastName>Patankar</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Neelesh A Patankar</PI_FULL_NAME>
+<EmailAddress><![CDATA[n-patankar@northwestern.edu]]></EmailAddress>
+<NSF_ID>000215462</NSF_ID>
+<StartDate>08/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northwestern University</Name>
+<CityName>EVANSTON</CityName>
+<ZipCode>602080001</ZipCode>
+<PhoneNumber>3125037955</PhoneNumber>
+<StreetAddress>633 CLARK STREET</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EXZVPWZBLUE8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHWESTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>EVANSTON</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>602080001</ZipCode>
+<StreetAddress><![CDATA[633 CLARK STREET]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1443</Code>
+<Text>FD-Fluid Dynamics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>008E</Code>
+<Text>Gene and Drug Delivery</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~330000</FUND_OBLG>
+</Award>
+</rootTag>

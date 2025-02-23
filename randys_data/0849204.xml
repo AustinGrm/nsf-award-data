@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Doctoral Dissertation Improvement Grant: Locomotor Function and Phylogeny: Implications for Interpreting Extinct Hominoid Morphology</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>14270.00</AwardTotalIntnAmount>
+<AwardAmount>14270</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carolyn Ehardt</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>The interplay of evolutionary relationships (i.e., phylogeny) and function in the manifestation of skeletal anatomy complicates reconstructions of locomotor patterns in well-known fossil hominoids (apes and members of the human lineage) such as Australopithecus afarensis and Proconsul heseloni. These species demonstrate unique combinations of features in the forelimb that represent contrasting evidence for locomotor behavior. In order to understand which forelimb traits are most useful in predicting the locomotion of extinct hominoid species, this research explores the relative correspondence between variation in forelimb characters and observed locomotor behaviors of extant primates. The main objective of this project is to determine the relative strength of the functional signal in forelimb features related to locomotor behavior and to demonstrate the degree to which the manifestation of these traits is constrained by phylogeny. &lt;br/&gt;&lt;br/&gt;Three-dimensional geometric morphometric data will be collected on skeletal samples representing a wide range of extant primate species. Landmark data will be collected on forelimb elements, and linear measurements will be extracted to be employed as shape variables. These shape variables will be regressed against published percentages of locomotor behavior in a generalized least-squares analysis to account for phylogeny. Shape variables will be ranked based on their correspondence to locomotor behavior. Predictive models will be constructed and used in more refined assessments of the locomotor behavior performed by the extinct hominoids Australopithecus afarensis and Proconsul heseloni.  This novel approach will enhance understanding of the relationship between locomotion and skeletal anatomy in living primates, allowing researchers to more accurately reconstruct the behavior of fossil species. In addition, this research has broader implications for paleontology and how researchers view skeletal features in functional studies by demonstrating the need for a greater emphasis on the complex interplay between phylogeny and function.        &lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>03/24/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/24/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0849204</AwardID>
+<Investigator>
+<FirstName>Terry</FirstName>
+<LastName>Harrison</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Terry Harrison</PI_FULL_NAME>
+<EmailAddress>terry.harrison@nyu.edu</EmailAddress>
+<PI_PHON>2129988581</PI_PHON>
+<NSF_ID>000175091</NSF_ID>
+<StartDate>03/24/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Rein</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thomas Rein</PI_FULL_NAME>
+<EmailAddress>trr234@nyu.edu</EmailAddress>
+<PI_PHON>8607948402</PI_PHON>
+<NSF_ID>000498435</NSF_ID>
+<StartDate>03/24/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQ S</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NX9PXMKW5KW8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW YORK UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NX9PXMKW5KW8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100121019</ZipCode>
+<StreetAddress><![CDATA[70 WASHINGTON SQ S]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1392</Code>
+<Text>Biological Anthropology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1392</Code>
+<Text>Biological Anthropology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~14270</FUND_OBLG>
+</Award>
+</rootTag>

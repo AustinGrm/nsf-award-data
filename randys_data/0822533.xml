@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[U.S.-Brazil Planning Visit:  Development of a Device for Real Time Interaction With the Brain]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>19990.00</AwardTotalIntnAmount>
+<AwardAmount>19990</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carmina Londono</SignBlockName>
+<PO_EMAI>clondono@nsf.gov</PO_EMAI>
+<PO_PHON>7032927053</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[U.S.-Brazil Planning Visit: Development of a device for real time interaction with the brain.   &lt;br/&gt;0822533&lt;br/&gt;Diego Restrepo, University of Colorado at Denver, HSC&lt;br/&gt;&lt;br/&gt;The proposed planning visit will establish a bilateral collaboration between U.S. and Brazilian scientists to develop novel engineering solutions for the study of brain function in awake behaving animals in real time. The hosts for the planning visit are Drs. Fátima de Medeiros, José da Graça, and Marcelo de Souza from Brazil's Universidade Federal do Ceara.  Researchers at the University of Colorado at Denver's Health Sciences Center have applied computerized technologies, such as olfactometers, extracellular multiunit recording, and cerebral microstimulation to study the brain and olfactory behavior in awake mice.  The proposed collaboration will expand upon previous work to study real time interaction with the brain where extraneous circuits evaluate neural output and affect neuronal firing in real time.  The Brazilian collaborators will provide computer expertise to improve the speed and real time efficiency of the olfactometer.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/27/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/27/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.079</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0822533</AwardID>
+<Investigator>
+<FirstName>Diego</FirstName>
+<LastName>Restrepo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Diego Restrepo</PI_FULL_NAME>
+<EmailAddress><![CDATA[Diego.Restrepo@ucdenver.edu]]></EmailAddress>
+<NSF_ID>000182582</NSF_ID>
+<StartDate>08/27/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Denver</Name>
+<CityName>AURORA</CityName>
+<ZipCode>800452571</ZipCode>
+<PhoneNumber>3037240090</PhoneNumber>
+<StreetAddress>13001 E 17TH PLACE F428</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MW8JHK6ZYEX8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF COLORADO, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>SPVKK1RC2MZ3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Colorado at Denver]]></Name>
+<CityName>AURORA</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>800452571</ZipCode>
+<StreetAddress><![CDATA[13001 E 17TH PLACE F428]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7298</Code>
+<Text>International Research Collab</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5913</Code>
+<Text>BRAZIL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5977</Code>
+<Text>AMERICAS PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<FUND_OBLG>2008~19990</FUND_OBLG>
+</Award>
+</rootTag>

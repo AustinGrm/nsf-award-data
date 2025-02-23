@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Student and early career support for ISSNLA, July 20-25, 2008, Castro Urdiales, Spain</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>13000.00</AwardTotalIntnAmount>
+<AwardAmount>13000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040100</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Junping Wang</SignBlockName>
+<PO_EMAI>jwang@nsf.gov</PO_EMAI>
+<PO_PHON>7032924488</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This grant will support the participation of US-based Ph.D.  students at the International Summer School on Numerical Linear Algebra (ISSNLA). The ISSNLA will take place at the International Center of Mathematical Meetings (CIEM) in Castro Urdiales, Spain on 20-25 July 2008. The ISSNLA is organized by the SIAM Activity Group on Linear Algebra (SIAG/LA).  The local organization is assumed by SIMUMAT (the Spanish initiative from the Comunidad de Madrid on ``Mathematical Modeling and Numerical Simulation in Science and Technology"). The target audience of the ISSNLA are doctoral students in any field that requires results and methods from Numerical Linear Algebra.  The courses will be self contained, and taught at a level that is accessible to a wide audience. They will be of interest to graduate students and recent Ph.D.'s in science and engineering. The lecturers are leading experts who are also well known for their expository skills.  They were chosen by an Advisory Committee composed by leading international scientists.&lt;br/&gt;&lt;br/&gt;The purpose of the "International Summer School on Numerical Linear Algebra" is to acquaint doctoral students with recent developments and novel applications in a subfield of Applied Mathematics called "Numerical Linear Algebra". By design, the summer school is forward-looking: the courses cover topics that are too recent to have been included in textbooks or doctoral courses; these topics include applications to information retrieval and mechanics. The target audience are doctoral students in science and engineering. NSF support for US-based participants will have a positive impact on the continued strong competitiveness of the US in this crucial discipline, with its connections to virtually every area of scientific computing.  &lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>06/20/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/20/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0802444</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Szyld</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel B Szyld</PI_FULL_NAME>
+<EmailAddress>szyld@temple.edu</EmailAddress>
+<PI_PHON>2152047288</PI_PHON>
+<NSF_ID>000188306</NSF_ID>
+<StartDate>06/20/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ilse C.F.</FirstName>
+<LastName>Ipsen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ilse C.F. Ipsen</PI_FULL_NAME>
+<EmailAddress>ipsen@ncsu.edu</EmailAddress>
+<PI_PHON>9195153399</PI_PHON>
+<NSF_ID>000220534</NSF_ID>
+<StartDate>06/20/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Temple University</Name>
+<CityName>PHILADELPHIA</CityName>
+<ZipCode>191226003</ZipCode>
+<PhoneNumber>2157077547</PhoneNumber>
+<StreetAddress>1801 N BROAD ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QD4MGHFDJKU1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEMPLE UNIVERSITY-OF THE COMMONWEALTH SYSTEM OF HIGHER EDUCATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QD4MGHFDJKU1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Temple University]]></Name>
+<CityName>PHILADELPHIA</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>191226003</ZipCode>
+<StreetAddress><![CDATA[1801 N BROAD ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~13000</FUND_OBLG>
+</Award>
+</rootTag>

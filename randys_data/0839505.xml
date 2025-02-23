@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Cost- and Energy-Efficient Conversion of Cellulosic Biomass to Bio-Fuel Feedstock of Consistent and Preferred Geometry</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gregory T. Baxter</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research (SBIR) Phase I project develops a new cutting attachment for chipping/grinding/chopping of cellulosic biomass to yield feedstock for production of cellulosic ethanol.  With increasing energy/diesel prices, power consumption in chipping/grinding/chopping is of heightened concern, as is the cost/inefficiency of equipment downtime for tooth/knife replacement.  The innovative cutting technology draws on the vast research base in metal cutting to address these chipping, grinding and chopping applications with a single base product, achieving greater economies of scale.  It involves a rotating tooth and multi-tooth layouts that replace current chipper/chopper knives and grinder teeth to achieve lower specific energy, reduced tool-change downtime, and thinner chips to facilitate efficiency later on in the ethanol production stage.&lt;br/&gt;&lt;br/&gt;The broader impacts of this research are to facilitate the diversification of the country?s energy portfolio by improving the economic end energy viability of biofuels produced from cellulosic feedstock like wood chips, switchgrass, and corn stover.  While ethanol is an attractive alternative fuel, care must be taken not to negatively impact food supplies with an excessive shift to grain-based ethanol.  Since non-prime farmland can be used for energy crops like switchgrass and fast-growing trees, production of ethanol from cellulosic biomass (including agricultural waste and forestry residues) can enjoy significant growth without undue competition with the food supply.  Other energy applications to be impacted include use of chipped/chopped biomass in boilers that produce heat and electricity, which are using cellulosic biomass at increasing rates.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>10/31/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839505</AwardID>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Endres</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>William J Endres</PI_FULL_NAME>
+<EmailAddress>wjendres@endresmachining.com</EmailAddress>
+<PI_PHON>9064879364</PI_PHON>
+<NSF_ID>000304285</NSF_ID>
+<StartDate>10/31/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Endres Machining Innovations</Name>
+<CityName>Houghton</CityName>
+<ZipCode>499311295</ZipCode>
+<PhoneNumber>9064879364</PhoneNumber>
+<StreetAddress>1402 E Sharon Ave, Ste 1001</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Endres Machining Innovations]]></Name>
+<CityName>Houghton</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>499311295</ZipCode>
+<StreetAddress><![CDATA[1402 E Sharon Ave, Ste 1001]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1179</Code>
+<Text>ENVIRONMENTAL IMPLICATIONS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1402</Code>
+<Text>BIOCHEMICAL &amp; BIOMASS ENG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1465</Code>
+<Text>PRODUCTION SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9181</Code>
+<Text>BIOPROCESSING/BIOMOLECULAR MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~100000</FUND_OBLG>
+</Award>
+</rootTag>

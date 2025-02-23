@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Intermediate Subfactors and Planar Algebras]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>98249.00</AwardTotalIntnAmount>
+<AwardAmount>98249</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin Clancey</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The project will investigate the structure of intermediate subfactors using the planar algebra approach as well as algebraic and combinatorial methods. The theory of subfactors was intitiated by Jones, who discovered symmetries associated to certain inclusions of von Neumann algebras which led to powerful new knot invariants. This geometric aspect of subfactor theory is captured in the notion of a planar algebra, developed by Jones as a description of the standard invariant of a subfactor, which had been axiomatized by Popa. Subfactor theory can be thought of as a nonommutative Galois theory, and it is an open problem to classify lattices of intermediate subfactors. The present project will study intermediate subfactors along several distinct but related lines. First, we will continue the classification of quadrilaterals of subfactors, on which the PI has previously worked with Jones and with Izumi. Second, we will analyze planar relations that reflect the presence of multiple intermediate subfactors, following work of Bisch-Jones on the planar algebra of a single intermediate subfactor. Third, we will study compositions of supertransitive subfactors, following Bisch-Haagerup's study of compositions of group-type subfactors. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The theory of operator algebras was inspired by von Neuamnn's work on the mathematical foundations of quantum mechanics, and has been closely linked with mathematical physics ever since. Subfactor theory in particular has had applications to statistical mechanics and to algebraic quantum field theory. The planar algebra approach is a new direction to understanding the underlying symmetries. Intermediate subfactors, which are algebras sandwiched in between two von Neumann algebras, represent "sub-symmetries", and understanding these sub-symmetries is a fundamental problem in subfactor theory. This project aims to apply the theory of planar algebras to the classification of intermediate subfactors. This should lead to a better understanding of planar algebras and the structure of von Neumann algebras. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>05/15/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0801235</AwardID>
+<Investigator>
+<FirstName>Pinhas</FirstName>
+<LastName>Grossman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Pinhas Grossman</PI_FULL_NAME>
+<EmailAddress><![CDATA[pinhas@gmail.com]]></EmailAddress>
+<NSF_ID>000070007</NSF_ID>
+<StartDate>05/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Vanderbilt University</Name>
+<CityName>NASHVILLE</CityName>
+<ZipCode>372032416</ZipCode>
+<PhoneNumber>6153222631</PhoneNumber>
+<StreetAddress>110 21ST AVE S</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GTNBNWXJ12D5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VANDERBILT UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Vanderbilt University]]></Name>
+<CityName>NASHVILLE</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>372032416</ZipCode>
+<StreetAddress><![CDATA[110 21ST AVE S]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~98249</FUND_OBLG>
+</Award>
+</rootTag>

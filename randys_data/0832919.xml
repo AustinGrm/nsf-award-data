@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Principles of Appropriations Law</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>700.00</AwardTotalIntnAmount>
+<AwardAmount>0</AwardAmount>
+<AwardInstrument>
+<Value>Contract Interagency Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>10030000</Code>
+<Directorate>
+<Abbreviation>BFA</Abbreviation>
+<LongName>Office of Budget, Finance, &amp; Award Management</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DGA</Abbreviation>
+<LongName>Division of Grants and Agreements</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wayne K. Thomas</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This award is to fund an Appropriations Law class at the Government Accountability Office for two DGA employees.</AbstractNarration>
+<MinAmdLetterDate>04/10/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>01/26/2011</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM/>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0832919</AwardID>
+<Investigator>
+<FirstName>Marsha</FirstName>
+<LastName>Johnson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marsha Johnson</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000503526</NSF_ID>
+<StartDate>04/10/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>US Government Accountability Office</Name>
+<CityName>Washington</CityName>
+<ZipCode>205480002</ZipCode>
+<PhoneNumber>2025122511</PhoneNumber>
+<StreetAddress>441 G Street, NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>003251949</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>GOVERNMENT ACCOUNTABILITY OFFICE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>161906193</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[US Government Accountability Office]]></Name>
+<CityName>Washington</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>205480002</ZipCode>
+<StreetAddress><![CDATA[441 G Street, NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>0608</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0708</Code>
+<Name>NSF Agency Oper &amp; Award Mgmt</Name>
+<APP_SYMB_ID>040180</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>07000808DB</Code>
+<Name><![CDATA[NSF Agency Oper & Award Mgmt]]></Name>
+<FUND_SYMB_ID>040180</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~1400</FUND_OBLG>
+</Award>
+</rootTag>

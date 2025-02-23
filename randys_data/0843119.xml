@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research:  Development of sexual life cycles in the marine picoprasinophytes based on molecular homologies with Chlamydomonas</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2015</AwardExpirationDate>
+<AwardTotalIntnAmount>299714.00</AwardTotalIntnAmount>
+<AwardAmount>299714</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090100</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ben Holt</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This interdisciplinary research project addresses two overarching objectives that will be explored in the prasinophytes, a group thought to represent the ancestral alga that gave rise to the green lineage (which includes all land plants). First, the hypothesis will be tested that homeoprotein heterodimerization represents a conserved feature of haploid/diploid transitions in green algae. Second, natural and/or genetically engineered sexual cycles will be developed for the marine picoprasinophyte algae Ostreococcus and Micromonas based on apparent homologies between their sex-related gene endowment and the model green alga Chlamydomonas. The picoprasinophytes have small genomes (4 sequenced to date) and are the subject of intensive ecological analysis because of their widespread distribution in the marine environments where they perform photosynthesis. Both labs will engage in intensive undergraduate and graduate student training as well as mentoring of postdoctoral scholars. The WISE program for disadvantaged 9th graders will focus on marine ecosystems, algal ecology and evolution as well as basics of molecular biology via hands-on work in local waters. The goal of this program is to keep young women thriving in the sciences. Overall this collaborative project will deepen our understandings of the algal homeoprotein "toolkits" co-opted and expanded during the evolution of land plants, and facilitate studies of an ecologically vital group of marine organisms.</AbstractNarration>
+<MinAmdLetterDate>06/22/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/04/2015</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0843119</AwardID>
+<Investigator>
+<FirstName>Alexandra</FirstName>
+<LastName>Worden</LastName>
+<PI_MID_INIT>Z</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexandra Z Worden</PI_FULL_NAME>
+<EmailAddress>azworden@mbl.edu</EmailAddress>
+<PI_PHON>7862015275</PI_PHON>
+<NSF_ID>000096668</NSF_ID>
+<StartDate>06/22/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Monterey Bay Aquarium Research Institute</Name>
+<CityName>MOSS LANDING</CityName>
+<ZipCode>950399644</ZipCode>
+<PhoneNumber>8317751803</PhoneNumber>
+<StreetAddress>7700 SANDHOLDT RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA20</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GM6EL1UH2L83</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MONTEREY BAY AQUARIUM RESEARCH INSTITUTE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Monterey Bay Aquarium Research Institute]]></Name>
+<CityName>MOSS LANDING</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>950399644</ZipCode>
+<StreetAddress><![CDATA[7700 SANDHOLDT RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA20</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1118</Code>
+<Text>PLANT FUNGAL &amp; MICROB DEV MECH</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~299714</FUND_OBLG>
+</Award>
+</rootTag>

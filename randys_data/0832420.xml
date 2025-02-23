@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>An I/UCRC Center for Visual Decision Informatics</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>10000.00</AwardTotalIntnAmount>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EEC</Abbreviation>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rathindra DasGupta</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>0832420  University of Louisiana at Lafayette  Vijay Raghavan&lt;br/&gt;&lt;br/&gt;The University of Louisiana at Lafayette (UL Lafayette) seeks to partner with Oregon State University and form a new NSF Industry/University Cooperative Research Center (I/UCRC) for Visual Decision Informatics. The focus of this consortium will be to develop new visual and analytic methods that leverage modern computer hardware and software, and develop analysis and discovery tools that can be applied to this complex data-based decision-making process.  The potential robustness of the approach utilizing highly immersive environments with flexible and real-time manipulation of large amounts of data has the potential to make breakthroughs in a variety of fields. &lt;br/&gt;&lt;br/&gt;The proposed I/UCRC will provide a series of services complementary to other education, research and technology transfer units.  It will provide students and faculty a platform to conduct industry-relevant research and gain valuable practical experience that otherwise cannot be gained from textbooks and research publications.  The proposed center will recruit women and minorities through its ongoing outreach programs and through promotions with historically black colleges and universities in the region.  The proposed center will also promote, catalyze and accelerate the commercialization of technology innovations.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>08/05/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/05/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0832420</AwardID>
+<Investigator>
+<FirstName>Bradd</FirstName>
+<LastName>Clark</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bradd E Clark</PI_FULL_NAME>
+<EmailAddress>bec1033@usl.edu</EmailAddress>
+<PI_PHON>3182315943</PI_PHON>
+<NSF_ID>000402852</NSF_ID>
+<StartDate>08/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Vijay</FirstName>
+<LastName>Raghavan</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vijay V Raghavan</PI_FULL_NAME>
+<EmailAddress>raghavan@louisiana.edu</EmailAddress>
+<PI_PHON>3374826603</PI_PHON>
+<NSF_ID>000359473</NSF_ID>
+<StartDate>08/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Carolina</FirstName>
+<LastName>Cruz-Neira</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carolina Cruz-Neira</PI_FULL_NAME>
+<EmailAddress>carolina@ucf.edu</EmailAddress>
+<PI_PHON>4078231394</PI_PHON>
+<NSF_ID>000315241</NSF_ID>
+<StartDate>08/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Zappi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark Zappi</PI_FULL_NAME>
+<EmailAddress>zappi@louisiana.edu</EmailAddress>
+<PI_PHON>3374826203</PI_PHON>
+<NSF_ID>000503265</NSF_ID>
+<StartDate>08/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Louisiana at Lafayette</Name>
+<CityName>LAFAYETTE</CityName>
+<ZipCode>705032014</ZipCode>
+<PhoneNumber>3374825811</PhoneNumber>
+<StreetAddress>104 E UNIVERSITY CIR 3RD FL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>LA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>C169K7T4QZ96</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF LOUISIANA AT LAFAYETTE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>F3GJXVP1L166</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Louisiana at Lafayette]]></Name>
+<CityName>LAFAYETTE</CityName>
+<StateCode>LA</StateCode>
+<ZipCode>705032014</ZipCode>
+<StreetAddress><![CDATA[104 E UNIVERSITY CIR 3RD FL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>LA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0400000</Code>
+<Name>Industry University - Co-op</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5761</Code>
+<Text>IUCRC-Indust-Univ Coop Res Ctr</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1049</Code>
+<Text>INDUSTRY-UNIV COOPERATIVE RSCH PROJECTS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>122E</Code>
+<Text>CENTERS: OTHER INDUSTRY-UNIV</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~10000</FUND_OBLG>
+</Award>
+</rootTag>

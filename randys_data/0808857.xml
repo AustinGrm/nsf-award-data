@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Enhancing Knoweldge Engineering through Cognitive Modeling and Instance-Based Learning</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>99826</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ian M. Bennett</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>The Small Business Innovation Research (SBIR) Phase I research project aims to create a toolkit embodying cognitive capabilities for use in developing intelligent agents. These agents would provide human-like interactions with software, for desktop productivity, research, and gaming domains, by observing human interactions with the system and mimicking those interactions. Current approaches for embedding intelligent agents such as finite state machines and rule-based systems are often limited by either brittleness, or by difficulties in knowledge engineering, or often by both. In contrast, state of the art cognitive modeling approaches combine symbolic rule-based approaches with numeric statistical machine learning techniques, and do so in a computationally scalable way. The specific research objectives are: 1) exploring variations in instance-based learning techniques and their ability to simulate human learning and their computational implications; 2) examining using an expert system to elicit knowledge and produce a task skeleton for organizing knowledge; 3) exploring plan recognition techniques for mapping a stream of human behavior onto the elicited task structure; 4) exploring the extraction of strong knowledge from segmented human performance data through statistical learning techniques; and 5) developing techniques for remediating developed systems so that deficiencies noted can be translated directly into improved agent behavior.&lt;br/&gt;&lt;br/&gt;The proposed toolkit will automate computer desktop tasks, thereby enhancing productivity, and will produce gaming agents without programming, thereby satisfying the need for greater numbers of robust, believable non-player characters. For the currently installed base of PCs is estimated at 898 million units, with yearly worldwide sales at 190 million units, and with the worldwide gaming market estimated at approximately $20 billion, the proposed work will provide easier automation - through observing competent behavior rather than through programming - to both of these markets. The proposed technology is applicable to other domains not addressed specifically in this proposal such as the assistive market to produce an assistant for the handicapped that learns typical sequences of interface actions and offers to complete those actions. Additionally, the technology can also aid in building training systems where the task is collaborative and the cost of using human team mates is prohibitive.</AbstractNarration>
+<MinAmdLetterDate>05/30/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>02/13/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0808857</AwardID>
+<Investigator>
+<FirstName>Bradley</FirstName>
+<LastName>Best</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bradley J Best</PI_FULL_NAME>
+<EmailAddress>bjbest@adcogsys.com</EmailAddress>
+<PI_PHON>3033599133</PI_PHON>
+<NSF_ID>000068903</NSF_ID>
+<StartDate>05/30/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Adaptive Cognitive Systems LLC</Name>
+<CityName>Bellingham</CityName>
+<ZipCode>982257080</ZipCode>
+<PhoneNumber>3033599133</PhoneNumber>
+<StreetAddress>909 Harris Ave.</StreetAddress>
+<StreetAddress2><![CDATA[Suite 202 D]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Adaptive Cognitive Systems LLC]]></Name>
+<CityName>Bellingham</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>982257080</ZipCode>
+<StreetAddress><![CDATA[909 Harris Ave.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1658</Code>
+<Text>SOFTWARE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~99826</FUND_OBLG>
+</Award>
+</rootTag>

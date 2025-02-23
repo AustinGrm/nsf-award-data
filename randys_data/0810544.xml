@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Development of Design and Operational Criteria of Continuous Culture Hatchery Techniques for the Production of Brachionus rotundiformis (s-type) rotifers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>75393</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gregory T. Baxter</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This Small Business Technology Transfer Phase I research will deveop and commercialize a robust, continuous culture production system for rotifers (Brachionus rotundiformis; s-type).  The inability to supply microalgal, zooplankton and rotifers feeds cost-effectively and consistently continues to be a major technological "bottleneck" in the expansion of the marine aquaculture industry in the United States. This project will focus on the development of the fundamental engineering infrastructure required for a large-scale turnkey continuous culture rotifer production system, and subsequent marketing/sales to the marine aquaculture industry.  This research has the potential to "jump-start" the marine aquaculture industry by eliminating one of the key limiting factors to increasing the production of many marine species, i.e. the unavailability and the high cost of fry and fingerlings.  &lt;br/&gt;&lt;br/&gt;The broader impacts of this research are simplification and cost reduction for the production  of marine fry and fingerling, which will lead to rapid expansion of marine hatcheries and hence a dramatic increase in the availability of lower cost marine fry and fingerlings for aquaculture grow-out in ponds, ocean cages and/or indoor recirculating systems.  Aquaculture production of popular marine finfish will relieve the pressure on severely threatened or overfished commercial fish stocks.  Furthermore, aquacultural production will allow culture under highly controlled, biosecure conditions with limited exposure to potentially harmful elements and using commercially formulated diets maintain optimal nutritional content.  With the U.S. seafood trade deficit at close to $9 billion dollars, there is a significant potential for expansion of marine aquaculture production in the United States.]]></AbstractNarration>
+<MinAmdLetterDate>04/18/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>11/13/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0810544</AwardID>
+<Investigator>
+<FirstName>Douglas</FirstName>
+<LastName>Drennan</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME>II</PI_SUFX_NAME>
+<PI_FULL_NAME>Douglas G Drennan</PI_FULL_NAME>
+<EmailAddress><![CDATA[Douglas@beadfilters.com]]></EmailAddress>
+<NSF_ID>000358709</NSF_ID>
+<StartDate>04/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Aquaculture Systems Technologies, LLC</Name>
+<CityName>BATON ROUGE</CityName>
+<ZipCode>708025151</ZipCode>
+<PhoneNumber>5048375575</PhoneNumber>
+<StreetAddress>2120 NORTH 3RD ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>LA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H9N3LNQ4H3D7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>AQUACULTURE SYSTEM TECHNOLOGIES, L.L.C.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Aquaculture Systems Technologies, LLC]]></Name>
+<CityName>BATON ROUGE</CityName>
+<StateCode>LA</StateCode>
+<ZipCode>708025151</ZipCode>
+<StreetAddress><![CDATA[2120 NORTH 3RD ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>LA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1465</Code>
+<Text>PRODUCTION SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9117</Code>
+<Text>MARINE BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~75393</FUND_OBLG>
+</Award>
+</rootTag>

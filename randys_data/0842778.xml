@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SGER: Science of Opportunity:  A SGER proposal to develop methods for the quantitative measurement of calcification rates of planktonic foraminifera]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>35000.00</AwardTotalIntnAmount>
+<AwardAmount>35000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Donald L. Rice</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This Small Grant for Exploratory Research (SGER) will support the rapid development of a new method to quantify calcification rates in planktonic foraminifera. Planktonic foraminifera are a major group of biogenic carbonate producers in the world?s oceans, contributing an estimated 25% to 65% of the total deep marine calcite budget. Direct quantitative measurement of calcification rates in planktonic foraminifera is necessary for determination of calciu carbonate (CaCO3) production rates ? a key component of the global ocean CaCO3 budget, for documenting baseline planktonic calcification rates in today?s ocean for comparisons in future decades ? particularly in regions where warming and ocean acidification are projected to substantially change the physical and chemical environment of the upper ocean, and for investigating the response of planktonic foraminifera in CO2-perturbation experiments.&lt;br/&gt;&lt;br/&gt;The principal investigator on this project, a researcher at the California State University at San Marcos, will work with paleoceanographers this at the Wrigley Marine Science Center (University of Southern California) on Catalina Island to devise methods that will provide quantitative measurements of calcification rates of diver-collected and net-collected planktonic foraminifera. The new methods to be developed would combine her  previous experience using radioisotopes as an index of calcification in shelled pteropods with the techniques used by colleagues at the Wrigley Laboratory and the University of California at Davis . Because the collection and culture methods of  the USC and UC-Davis collaborators are very labor intensive and because they will soon close down their foraminiferal culturing facility, this collaborative venture is likely to be the last opportunity for this kind of multidisciplinary knowledge transfer for some time.&lt;br/&gt;&lt;br/&gt;The techniques developed here will be published and new protocols and data made available via the Internet (e.g., OCB web site and data base; planned IOCCP guidelines to best practices in ocean acidification research) so that others may use these methods in developing estimates of CaCO3 production, ocean acidification research, field measurements, and other applications.&lt;br/&gt;&lt;br/&gt;Broader impacts:  The new methods developed are certain to be of great use to the broader community, particularly in ocean acidification research (perturbation experiments and measurements of field populations) and constructing budgets of the oceanic CaCO3 cycle. One undergraduate student and one graduate student will participate in all aspects of the work at Catalina Island and interact with UC Davis researchers and graduate students. Because nearly all CSUSM students must work to support themselves, funds for students are necessary for them to be able to participate in this unique opportunity.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>09/11/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/11/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0842778</AwardID>
+<Investigator>
+<FirstName>Victoria</FirstName>
+<LastName>Fabry</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Victoria Fabry</PI_FULL_NAME>
+<EmailAddress><![CDATA[fabry@csusm.edu]]></EmailAddress>
+<NSF_ID>000254683</NSF_ID>
+<StartDate>09/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California State University San Marcos Corporation</Name>
+<CityName>SAN MARCOS</CityName>
+<ZipCode>920960001</ZipCode>
+<PhoneNumber>7607504703</PhoneNumber>
+<StreetAddress>333 S TWIN OAKS VALLEY RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA50</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EKHKFP33NN53</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CALIFORNIA STATE UNIVERSITY SAN MARCOS CORP</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[California State University, San Marcos]]></Name>
+<CityName>SAN MARCOS</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>920960001</ZipCode>
+<StreetAddress><![CDATA[333 S TWIN OAKS VALLEY RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0204000</Code>
+<Name>Oceanography</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1650</Code>
+<Text>BIOLOGICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1670</Code>
+<Text>Chemical Oceanography</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1382</Code>
+<Text>OCEAN ACIDIFICATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1389</Code>
+<Text>CARBON CYCLE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9237</Code>
+<Text>SMALL GRANTS-EXPLORATORY RSRCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~35000</FUND_OBLG>
+</Award>
+</rootTag>

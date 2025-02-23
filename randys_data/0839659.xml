@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Bidirectional Power Converter Control for Vehicle-to-Grid Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>149778</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+<PO_EMAI>mnair@nsf.gov</PO_EMAI>
+<PO_PHON>7032927059</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This Small Business Innovative Research Phase I research project addresses system-level research into the control of grid-interactive power electronics converters in widely distributed energy storage and delivery applications. One such application of particular interest is the proposed use of vehicle-to-grid (V2G) applications wherein bidirectional inverter/rectifiers are used to store energy from the utility grid at times of light load and to deliver energy back to the grid during peak load periods. This project investigates novel power conversion control methods necessary to maximize the economic and electrical benefits of such distributed energy storage and delivery systems. The end goal of this research is the development of fundamental control algorithms for safe, reliable, cost-effective, and standards-compliant energy transfer within the interactive Smart Grid of the future.&lt;br/&gt;&lt;br/&gt;The device proposed here can be programmed to operate with specific values of power amplitude, direction, and phase angle, and can be connected to the grid through a variety of standard interfaces. It can also operate either in grid-interactive or stand-alone (emergency backup) modes, and includes the communication and control capabilities required to make plug-connected vehicles suitable for widespread use and acceptance. Enabling this multiuse use of plug-connected vehicles with bidirectional power flow capability will greatly enhance the opportunity to use electricity as the fuel of choice for transportation, will help make alternative energy systems more cost effective, and can help extend utility assets both through load shifting and through distributed delivery of ancillary services such as spinning reserve, regulation and reactive power sourcing.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>11/26/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839659</AwardID>
+<Investigator>
+<FirstName>Glenn</FirstName>
+<LastName>Skutt</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Glenn Skutt</PI_FULL_NAME>
+<EmailAddress><![CDATA[gskutt@pwrhub.com]]></EmailAddress>
+<NSF_ID>000506935</NSF_ID>
+<StartDate>11/26/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Power Hub Ventures, LLC</Name>
+<CityName>Blacksburg</CityName>
+<ZipCode>240600000</ZipCode>
+<PhoneNumber>5404439214</PhoneNumber>
+<StreetAddress>1700 Kraft Dr</StreetAddress>
+<StreetAddress2><![CDATA[SUITE 1325]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Power Hub Ventures, LLC]]></Name>
+<CityName>Blacksburg</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>240600000</ZipCode>
+<StreetAddress><![CDATA[1700 Kraft Dr]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4080</Code>
+<Text>ADVANCED COMP RESEARCH PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9139</Code>
+<Text>INFORMATION INFRASTRUCTURE &amp; TECH APPL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~149778</FUND_OBLG>
+</Award>
+</rootTag>

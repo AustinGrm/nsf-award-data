@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Scaffolding Effective Practice for Use of Animations in Teaching Mineralogy and Physical Geology]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>93616.00</AwardTotalIntnAmount>
+<AwardAmount>93616</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Lea</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[42 (Geology)&lt;br/&gt;Six pairs of computer animations and visualization tools for use in teaching physical geology and mineralogy are being developed. The first half of each animation pair is suitable for use in geoscience classrooms. Instructors show these animations while providing cues to aid in students' analysis of the visual information. The second half of each animation pair consists of an on-line interactive web-based exercise suitable for homework or distance-based learning assignments. The style and content of the animations are consistent throughout so that conventions, symbols, and spatial relations carry over from one animation to the next, improving the benefits to student learning. The animations are hosted on a web site dedicated to scaffolding effective practice for teaching with animations, and include not only the animations themselves, but also resources on best practice for use of animations, information on specific learning challenges in teaching geology and mineralogy, and tools for evaluating the use of animations. The animations are being initially tested by a small group of local users for formative evaluation. After revisions, the improved animations will then be embedded in a rich web site that will provide examples of the relationships between content and context for student learning through animations. A cadre of users across the country has volunteered to test the web site and the animations and provide feedback at a gathering at the Geological Society of America National Meeting. The outcome will be a contribution to the knowledge base relating to effective use of computer animations in teaching fundamental geoscience curricula.]]></AbstractNarration>
+<MinAmdLetterDate>12/15/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>12/15/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0837212</AwardID>
+<Investigator>
+<FirstName>Melinda</FirstName>
+<LastName>Dyar</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Melinda D Dyar</PI_FULL_NAME>
+<EmailAddress><![CDATA[mdyar@psi.edu]]></EmailAddress>
+<NSF_ID>000291609</NSF_ID>
+<StartDate>12/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Mount Holyoke College</Name>
+<CityName>SOUTH HADLEY</CityName>
+<ZipCode>010751423</ZipCode>
+<PhoneNumber>4135382000</PhoneNumber>
+<StreetAddress>50 COLLEGE ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>XTLND4KQ2QA6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF MOUNT HOLYOKE COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Mount Holyoke College]]></Name>
+<CityName>SOUTH HADLEY</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>010751423</ZipCode>
+<StreetAddress><![CDATA[50 COLLEGE ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0409</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000910DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>1300CYXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~93616</FUND_OBLG>
+</Award>
+</rootTag>

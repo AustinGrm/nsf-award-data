@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Tuning the Current of Organic Semiconductors by Magnetic Fields]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>422811.00</AwardTotalIntnAmount>
+<AwardAmount>422811</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070004</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Z.  Ying</SignBlockName>
+<PO_EMAI>cying@nsf.gov</PO_EMAI>
+<PO_PHON>7032928428</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Technical. This project combines a theoretical and experimental approach to address resistance, photoconductivity, light emission, photovoltaic, and field effect transistor response of organic- and polymer-based organic materials at room temperature and low magnetic fields (&lt;100 Oe), with the objective of establishing a broadly applicable model that describes and predicts mag-netic field effects at low fields. Experiments will be guided by predictions of competing mecha-nisms for low field behavior, magnetoresistance due to interconversion of singlets and triplets (MIST mechanism) and magnetic field control of bipolaron transport. Experiments will be car-ried out to explore the roles of chemical composition, processing, and microstructure to clarify and understand mechanisms or develop new models for magnetotransport in several classes of organic-based semiconductors including small molecules, oligomers, conjugated polymers, and non-conjugated polymers. Organic based LEDs with different spin-orbit and hyperfine interac-tion strengths will be fabricated and studied as a function of magnetic field and electric field. In particular, oligomers where there are long lived excitons and carbon-based material such as C60, graphene, where the hyperfine constant is anticipated to be negligible are of special interest. In situ EPR study of organic- and polymer-based LEDs will also be used to study spin transfer. &lt;br/&gt;Non-Technical. The project addresses fundamental research issues in a topical area of elec-tronic/photonic materials science having technological relevance. Basic understanding gained is expected to lead to improved device performance, and to allow design of other important com-ponents for future plastics electronics. Magnetic field effects in organic- and polymer-based semiconductors represents an emerging field in nanoscience with impact in areas such as or-ganic- and polymer based photovoltaics, light emitters, and spintronics. The project integrates re-search and education providing students with hands-on laboratory experience and training while conducting forefront research.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>06/09/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0805220</AwardID>
+<Investigator>
+<FirstName>Arthur</FirstName>
+<LastName>Epstein</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Arthur J Epstein</PI_FULL_NAME>
+<EmailAddress><![CDATA[Epstein.2@osu.edu]]></EmailAddress>
+<NSF_ID>000119059</NSF_ID>
+<StartDate>06/09/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Vladimir</FirstName>
+<LastName>Prigodin</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vladimir N Prigodin</PI_FULL_NAME>
+<EmailAddress><![CDATA[prigodin@campbell.mps.ohio-state.edu]]></EmailAddress>
+<NSF_ID>000276998</NSF_ID>
+<StartDate>06/09/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Ohio State University Research Foundation -DO NOT USE</Name>
+<CityName>Columbus</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888734</PhoneNumber>
+<StreetAddress>1960 KENNY RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QR7NH79713E5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>COLUMBUS</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>432101016</ZipCode>
+<StreetAddress><![CDATA[1960 KENNY RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0106000</Code>
+<Name>Materials Research</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9161</Code>
+<Text>SINGLE DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>AMPP</Code>
+<Text>ADVANCED MATERIALS &amp; PROCESSING PROGRAM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0110</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001011DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~134166</FUND_OBLG>
+<FUND_OBLG>2009~140829</FUND_OBLG>
+<FUND_OBLG>2010~147816</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><table cellspacing="0" cellpadding="0" width="100%"> <tbody> <tr> <td> <div> <p>The magnetoresistance (MR) is the relative variation of electrical resistivity of a<br />semiconducting material that occurs with application of a magnetic field and<br />represents a very important characteristic of materials for exploring them for<br />potential use in spintronic devices such as reading/writing heads for Magnetoresistive Random Access Memory devices (MRAM), magnetic field sensors, etc., as well as for understanding of the mechanism of charge transport. The observation of large MR ~ 10% in organic semiconductors at relatively small magnetic fields of 100 Oe at room temperature is fascinating phenomenon (see Fig. 1). It exceeds the best estimates of MR due to conventional mechanisms like Lorentz forces and Zeeman splitting, by several orders of magnitude.</p> <p>We suggested that this anomalously large response to weak magnetic<br />fields is a pure quantum &nbsp;phenomenon related to the spin dynamics of interacting electrons and holes participating in charge transport. We proposed that the MR is due to the Interconversion of Singlets and Triplets (MIST mechanism) of coulombically bound electron-hole (e-h) pairs. In this model, hyperfine interaction interconverts triplets into singlets and vice versa, while an applied magnetic field lifts triplet degeneracy by Zeeman splitting, leading to e-h recombination and the electrical transport to be magnetic field dependent. For high recombination rate the current is space charge limited and decreases with increasing the recombination that takes place over the whole volume and the current increases with increasing the recombination constant. The characteristic constant of recombination separating those two regimes depends on the thickness of the semiconductor sample, applied voltage and charge carrier mobilities. The model predictions are consistent with experimental data for MR of organic semiconductors (Fig. 2).</p> <p>To understand the limits of sensitivity of organic MR to magnetic field we<br />performed measurements at low magnetic fields of a few Gauss, Fig. 3. We<br />clearly demonstrated that the MR is quadratic over magnetic field in the limit<br />of vanishing field and studying the deviation of MR from parabolic shape<br />enables us to establish the hyperfine interaction constant a ~ 46 G.</p> <p>In past few years the MIST model received wide recognition. It &nbsp;already received &nbsp;over 120 citations. Understanding the detailed mechanism of MR enables the design of devices with very high sensitivity to magnetic field. We expect that the flexibility and variety of the organic chemistry will enable us to continuously improve the parameters of our devices.</p> <p>The another new paradigm of electronics, &lsquo;spintronics&rsquo;, promises to extend the functionality of information storage and processing in conventional electronics. The principal spintronics device, the &lsquo;spin valve&rsquo;, consists of two magnetic layers decoupled by a spin-transporting spacer. The device resistance depends on the spin alignment controlled by the external magnetic field. In pursuit of semiconductor spintronics there have been intensive efforts devoted to develop room temperature magnetic semiconductors and also to incorporate organic semiconductors and carbon-based materials as the spin-transporting channels.</p> <p>We reported a Giant MR (GMR) for spin valve with organic semiconductors as a spacer. Early reports that organic semiconductor thin films of a-sexithiophene (T<sub>6</sub>) and Alq<sub>3</sub> were used for spin valve operating are very controversial because of weak temperature and bias field dependencies and wrong sign of MR. Our results for GMR in rubrene are free from similar objections. The MR of spin valve with 20 nm rubrene film as a spacer is shown on Fig. 4 at different temperatures. The MR as a function of temperature (Fig. 5) shows a maximum at ~ 100 K. The decrease of MR, as temperature increases above 100 K, is attributed to the decrease of surface spin polarization of the LSMO film.</p> <p>Our recent successes in organic spintronics is the first realization of an organic-based magnet V(TCNE)<em>x</em> (<em>x</em>~2) as an electron spin polarizer (see Fig. 6). A thin non-magnetic organic semiconductor layer and an epitaxial ferromagnetic oxide film were employed to form a hybrid magnetic tunnel junction. The results demonstrate the spin-polarizing nature of the organic-based magnetic semiconductor, V(TCNE)<em>x</em>, and its successful function as a spin injector/detector in hybrid magnetic multilayer devices.</p> <p>Our progress demonstrates the possibilities for &ldquo;all-organic spintronics&rdquo;, as well as &ldquo;hybrid spintronics&rdquo;, and &ldquo;air stable, light-weight, flexible spintronics&rdquo;, and what is extremely important these devices are able to operate at room temperature. We have initiated studies of these extensions of organic spintronics, with promising preliminary results.</p> <p>Much of the research involves assembling small teams of students from<br />different departments to achieve successful experiments. The students maintain<br />a 1,000 sq. ft Class clean room with extensive experimental facilities. About a<br />dozen students from Physics and Chemistry Departments took a course from the<br />P.I. on magnetic phenomenon in organic-based materials. Students also<br />contribute to the writing of reports to funding agencies so that they are aware<br />of the process for applying for research funding and how to report the results<br />of one's studies.</p> <br /> <p class="MsoNormal" style="margin: 0in 0in 0pt; text-align: justify; text-indent: 0.5in; mso-layout-grid-align: none;">&nbsp;</p> </div> </td> </tr> </tbody> </table><br> <p>            Last Modified: 08/31/2011<br>      Modified by: Arthur&nbsp;J&nbsp;Epstein</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2011/0805220/0805220_10025272_1314652294354_Fig.1.--rgov-214x142.jpg" original="/por/images/Reports/POR/2011/0805220/0805220_10025272_1314652294354_Fig.1.--rgov-800width.jpg" title="Fig.1."><img src="/por/images/Reports/POR/2011/0805220/0805220_10025272_1314652294354_Fig.1.--rgov-66x44.jpg" alt="Fig.1."></a> <div class="imageCaptionContainer"> <div class="imageCaption">MR for Alq3  devices  as a function of magnetic field at different applied voltages and temperatures.</div> <div class="imageCredit">Synth. Met. 156 (2006) 757–761, Elsevier Publ.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Arthur&nbsp;J&nbsp;Epstein</div> <div class="imageTitle">Fig.1.</div> </div> </li> <li> <a href="/por/images/Reports/POR/2011/0805220/0805220_10025272_1314652375156_Fig.2.--rgov-214x142.jpg" original="/por/images/Reports/POR/2011/0805220/0805220_10025272_1314652375156_Fig.2.--rgov-800width.jpg" title="Fig. 2."><img src="/por/images/Reports/POR/2011/0805220/0805220_10025272_1314652375156_Fig.2.--rgov-66x44.jpg" alt="Fig. 2."></a> <div class="imageCaptionContainer"> <div class="imageCaption">MR at 300 K for devices with -6T layers of (a) 50 nm, (b) 100 nm and (c) 200 nm. Shown in (a) and (c) are examples of MR inversion with applied bias, from negative to positive MR for (a) and vice versa for (c). The MR in (c) reaches a maximum magnitude at the bias of 1.50 V, with the MR decreasing</div> <div class="imageCredit">PHys. Rev. Lett. 100, 067201 (2008), APS Publ.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Arthur&nbsp;J&nbsp;Epstein</div> <div class="imageTitle">Fig. 2.</div> </div> </li> <li> <a href="/por/images/Reports/POR/2011/0805220/0805220_10025272_1314652466540_Fig.3.--rgov-214x142.jpg" original="/por/images/Reports/POR/2011/0805220/0805220_10025272_1314652466540_Fig.3.--rgov-800width.jpg" title="Fig. 3."><img src="/por/images/Reports/POR/2011/0805220/0805220_10025272_1314652466540_Fig.3.--rgov-66x44.jpg" alt="Fig. 3."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Displays a curve fit to the data for an Alq3 device of the form d1H2 + d2H4, with d1 =−0.01085 mT−2 and d2 = 0.00062 mT−4 from −1mT to 1mT.</div> <div class="imageCredit">Synth. Met. 160, 291-296 (2010), Elsevier Publ.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Arthur&nbsp;J&nbsp;Epstein</div> <div class="imageTitle">Fig. 3.</div> </div> </li> <li> <a href="/por/images/Reports/POR/2011/0805220/0805220_10025272_1314825214884_Fig.6.--rgov-214x142.jpg" original="/por/images/Reports/POR/2011/0805220/0805220_10025272_1314825214884_Fig.6.--rgov-800width.jpg" title="Fig. 4."><img src="/por/images/Reports/POR/2011/0805220/0805220_10025272_1314825214884_Fig.6.--rgov-66x44.jpg" alt="Fig. 4."></a> <div class="imageCaptionContainer"> <div class="imageCaption">(a) T-dependence of resistance of 5, 20, 50 nm rubrene devices and 50 nm LSMO film at bias 0.1 V.  (b)  I-V curves for 5, 20, 30, 50 nm rubrene devices at T =10 K.</div> <div class="imageCredit">Phys. Rev. B 80, 205207 (2009), APS Publ.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Arthur&nbsp;J&nbsp;Epstein</div> <div class="imageTitle">Fig. 4.</div> </div> </li> <li> <a href="/por/images/Reports/POR/2011/0805220/0805220_10025272_1314825410922_Fig.5.--rgov-214x142.jpg" original="/por/images/Reports/POR/2011/0805220/0805220_10025272_1314825410922_Fig.5.--rgov-800width.jpg" title="Fig. 5."><img src="/por/images/Reports/POR/2011/0805220/0805220_10025272_1314825410922_Fig.5.--rgov-66x44.jpg" alt="Fig. 5."></a> <div class="imageCaptionContainer"> <div class="imageCaption">MR of organic based spin valve as a function of temperature.</div> <div class="imageCredit">Phys. Rev. B 80, 205207 (2009), APS Publ.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Arthur&nbsp;J&nbsp;Epstein</div> <div class="imageTitle">Fig. 5.</div> </div> </li> <li> <a href="/por/images/Reports/POR/2011/0805220/0805220_10025272_1314825510422_Fig.4.--rgov-214x142.jpg" original="/por/images/Reports/POR/2011/0805220/0805220_10025272_1314825510422_Fig.4.--rgov-800width.jpg" title="Fig. 6."><img src="/por/images/Reports/POR/2011/0805220/0805220_10025272_1314825510422_Fig.4.--rgov-66x44.jpg" alt="Fig. 6."></a> <div class="imageCaptionContainer"> <div class="imageCaption">The magnetoresistance curves of a V(TCNE)x(500 nm)/Rubrene(5 nm) + LAO (1:2 nm) / LSMO(80 nm) junction and magnetization loops for LSMO (dark) and V(TCNE)2.</div> <div class="imageCredit">Nat. Mater. 9, 638 (2010), Nature Publ.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Arthur&nbsp;J&nbsp;Epstein</div> <div class="imageTitle">Fig. 6.</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[      The magnetoresistance (MR) is the relative variation of electrical resistivity of a semiconducting material that occurs with application of a magnetic field and represents a very important characteristic of materials for exploring them for potential use in spintronic devices such as reading/writing heads for Magnetoresistive Random Access Memory devices (MRAM), magnetic field sensors, etc., as well as for understanding of the mechanism of charge transport. The observation of large MR ~ 10% in organic semiconductors at relatively small magnetic fields of 100 Oe at room temperature is fascinating phenomenon (see Fig. 1). It exceeds the best estimates of MR due to conventional mechanisms like Lorentz forces and Zeeman splitting, by several orders of magnitude.  We suggested that this anomalously large response to weak magnetic fields is a pure quantum  phenomenon related to the spin dynamics of interacting electrons and holes participating in charge transport. We proposed that the MR is due to the Interconversion of Singlets and Triplets (MIST mechanism) of coulombically bound electron-hole (e-h) pairs. In this model, hyperfine interaction interconverts triplets into singlets and vice versa, while an applied magnetic field lifts triplet degeneracy by Zeeman splitting, leading to e-h recombination and the electrical transport to be magnetic field dependent. For high recombination rate the current is space charge limited and decreases with increasing the recombination that takes place over the whole volume and the current increases with increasing the recombination constant. The characteristic constant of recombination separating those two regimes depends on the thickness of the semiconductor sample, applied voltage and charge carrier mobilities. The model predictions are consistent with experimental data for MR of organic semiconductors (Fig. 2).  To understand the limits of sensitivity of organic MR to magnetic field we performed measurements at low magnetic fields of a few Gauss, Fig. 3. We clearly demonstrated that the MR is quadratic over magnetic field in the limit of vanishing field and studying the deviation of MR from parabolic shape enables us to establish the hyperfine interaction constant a ~ 46 G.  In past few years the MIST model received wide recognition. It  already received  over 120 citations. Understanding the detailed mechanism of MR enables the design of devices with very high sensitivity to magnetic field. We expect that the flexibility and variety of the organic chemistry will enable us to continuously improve the parameters of our devices.  The another new paradigm of electronics, ‘spintronics’, promises to extend the functionality of information storage and processing in conventional electronics. The principal spintronics device, the ‘spin valve’, consists of two magnetic layers decoupled by a spin-transporting spacer. The device resistance depends on the spin alignment controlled by the external magnetic field. In pursuit of semiconductor spintronics there have been intensive efforts devoted to develop room temperature magnetic semiconductors and also to incorporate organic semiconductors and carbon-based materials as the spin-transporting channels.  We reported a Giant MR (GMR) for spin valve with organic semiconductors as a spacer. Early reports that organic semiconductor thin films of a-sexithiophene (T6) and Alq3 were used for spin valve operating are very controversial because of weak temperature and bias field dependencies and wrong sign of MR. Our results for GMR in rubrene are free from similar objections. The MR of spin valve with 20 nm rubrene film as a spacer is shown on Fig. 4 at different temperatures. The MR as a function of temperature (Fig. 5) shows a maximum at ~ 100 K. The decrease of MR, as temperature increases above 100 K, is attributed to the decrease of surface spin polarization of the LSMO film.  Our recent successes in organic spintronics is the first realization of an organic-based magnet V(TCNE)x (x~2) as an electron spin polarizer (see Fig. 6). A thin non-magnetic organic semiconductor layer and an epitaxial ferromagnetic oxide film were employed to form a hybrid magnetic tunnel junction. The results demonstrate the spin-polarizing nature of the organic-based magnetic semiconductor, V(TCNE)x, and its successful function as a spin injector/detector in hybrid magnetic multilayer devices.  Our progress demonstrates the possibilities for "all-organic spintronics", as well as "hybrid spintronics", and "air stable, light-weight, flexible spintronics", and what is extremely important these devices are able to operate at room temperature. We have initiated studies of these extensions of organic spintronics, with promising preliminary results.  Much of the research involves assembling small teams of students from different departments to achieve successful experiments. The students maintain a 1,000 sq. ft Class clean room with extensive experimental facilities. About a dozen students from Physics and Chemistry Departments took a course from the P.I. on magnetic phenomenon in organic-based materials. Students also contribute to the writing of reports to funding agencies so that they are aware of the process for applying for research funding and how to report the results of one's studies.                Last Modified: 08/31/2011       Submitted by: Arthur J Epstein]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

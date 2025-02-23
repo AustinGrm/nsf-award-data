@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Investigating Bacteria-Surface Interactions by Surface Engineering and Mathematical Modeling]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>262970</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Clark Cooper</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Bacterial biofilms are ubiquitous highly hydrated structures with bacterial cells embedded in a secreted polysaccharide matrix and attached to a surface. It is well documented that biofilm cells are up to 1000 times more tolerant to antibiotics and disinfectants compared to their free-swimming counterparts. Consequently, deleterious biofilms cause serious problems in both industrial (persistent biofouling) and medical (chronic infections) settings. The research objective of this award is to investigate bacteria-surface and biofilm-flow interactions using integrated experimental approaches and mathematical modeling. Surfaces will be engineered with self-assembled monolayers (SAMs) presenting different functional groups to guide biofilm formation in different patterns. The surface roughness and flow condition will also be rigorously controlled. The experimental study in such well-defined systems will be integrated with mathematical modeling to obtain critical information about biofilm formation mechanism. These data will help develop new methods to control bacterial adhesion and biofilm formation, probe biofilm growth dynamics in a flow field, and investigate the roles of some important genes in biofilm formation.  &lt;br/&gt;&lt;br/&gt;This research can help address some important challenges such as prevention of persistent biofouling and corrosion in industrial settings, as well as control of medical device-associated infections in health care. The outcome of this study will improve our understanding of biofilm formation and help design better antifouling surfaces. This project will also provide a good opportunity to train students across multiple disciplines, and to recruit and retain young talents (especially the underrepresented groups) in science and engineering careers. The PIs will also create opportunities to get high school students and teachers involved in biofilm-related scientific activities. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/16/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/13/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0826288</AwardID>
+<Investigator>
+<FirstName>Yan-Yeung</FirstName>
+<LastName>Luk</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yan-Yeung Luk</PI_FULL_NAME>
+<EmailAddress><![CDATA[yluk@syr.edu]]></EmailAddress>
+<NSF_ID>000119367</NSF_ID>
+<StartDate>07/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dacheng</FirstName>
+<LastName>Ren</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dacheng Ren</PI_FULL_NAME>
+<EmailAddress><![CDATA[dren@syr.edu]]></EmailAddress>
+<NSF_ID>000118887</NSF_ID>
+<StartDate>07/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Syracuse University</Name>
+<CityName>SYRACUSE</CityName>
+<ZipCode>132440001</ZipCode>
+<PhoneNumber>3154432807</PhoneNumber>
+<StreetAddress>900 S CROUSE AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>22</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY22</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>C4BXLBC11LC6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SYRACUSE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Syracuse University]]></Name>
+<CityName>SYRACUSE</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>132440001</ZipCode>
+<StreetAddress><![CDATA[900 S CROUSE AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>22</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY22</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0106000</Code>
+<Name>Materials Research</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1633</Code>
+<Text>MATERIALS AND SURFACE ENG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>024E</Code>
+<Text>MATERIALS DESIGN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1444</Code>
+<Text>SURFACE ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1633</Code>
+<Text>MATERIALS AND SURFACE ENG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9161</Code>
+<Text>SINGLE DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>AMPP</Code>
+<Text>ADVANCED MATERIALS &amp; PROCESSING PROGRAM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~200000</FUND_OBLG>
+<FUND_OBLG>2009~62970</FUND_OBLG>
+</Award>
+</rootTag>

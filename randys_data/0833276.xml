@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Capitalizing on Talent: The Noyce Fellows Program at the University of Georgia</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>749997.00</AwardTotalIntnAmount>
+<AwardAmount>893506</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040100</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Keith Sverdrup</SignBlockName>
+<PO_EMAI>ksverdru@nsf.gov</PO_EMAI>
+<PO_PHON>7032924671</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project is supporting 30 post-baccalaureate fellows as they pursue certification to become secondary school mathematics or science teachers and as they enter the teaching force. These individuals proceed through a carefully structured post-baccalaureate program designed to help them develop content knowledge for teaching and implement that knowledge in diverse school settings. The project is advancing the field's knowledge of how to prepare and support career change individuals, and it adds original and creative features such as the use of video technology to mentor teachers in their first year of teaching and to foster supportive and collegial conversations to improve teaching and learning. The project is a collaboration between faculty in the Franklin College of Arts and Sciences, the College of Agriculture and Environmental Sciences, and the College of Education and builds on existing partnerships with area school districts. The project is enhancing the infrastructure for preparing career change individuals by institutionalizing induction year support processes for these new teachers. Results of this program are being disseminated broadly to other teacher preparation programs via conference presentations and published papers. Benefits to society include increasing the number of highly qualified teachers available to our nation's schools and providing induction year support to encourage them to remain in teaching.</AbstractNarration>
+<MinAmdLetterDate>09/05/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/27/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0833276</AwardID>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Kutal</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Charles R Kutal</PI_FULL_NAME>
+<EmailAddress>ckutal@uga.edu</EmailAddress>
+<PI_PHON>7065421533</PI_PHON>
+<NSF_ID>000317013</NSF_ID>
+<StartDate>09/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Oliver</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joseph S Oliver</PI_FULL_NAME>
+<EmailAddress>soliver@uga.edu</EmailAddress>
+<PI_PHON>7065421763</PI_PHON>
+<NSF_ID>000251550</NSF_ID>
+<StartDate>09/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Denise</FirstName>
+<LastName>Spangler</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Denise A Spangler</PI_FULL_NAME>
+<EmailAddress>dspangle@uga.edu</EmailAddress>
+<PI_PHON>7065424548</PI_PHON>
+<NSF_ID>000007772</NSF_ID>
+<StartDate>09/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Georgia</Name>
+<CityName>ATHENS</CityName>
+<ZipCode>306020001</ZipCode>
+<PhoneNumber>7065425939</PhoneNumber>
+<StreetAddress>310 E CAMPUS RD TUCKER HALL RM 4</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Q2LKTLYJM4P8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF GEORGIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>SMV4HJLNJLP3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Georgia]]></Name>
+<CityName>ATHENS</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>306020001</ZipCode>
+<StreetAddress><![CDATA[310 E CAMPUS RD TUCKER HALL RM 4]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1795</Code>
+<Text>Robert Noyce Scholarship Pgm</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1795</Code>
+<Text>ROBERT NOYCE SCHOLARSHIP PGM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>04XX</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>0400XXXXDB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~749997</FUND_OBLG>
+<FUND_OBLG>2009~143509</FUND_OBLG>
+</Award>
+</rootTag>

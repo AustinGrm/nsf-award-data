@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[II-NEW: High-Performance Scalable Computing Infrastructure]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>174988.00</AwardTotalIntnAmount>
+<AwardAmount>174988</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Almadena Chtchelkanova</SignBlockName>
+<PO_EMAI>achtchel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927498</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project at the University of Toledo focuses on the acquisition of new high-performance scalable computing (HPSC) and storage infrastructure to further&lt;br/&gt;collaborative multi-disciplinary research, education, and outreach activities. The instrumentation integrates easily expandable energy-efficient high-performance rackmounted servers with an enterprise storage system. The main objective of this project is to dramatically expand research and educational opportunities for faculty and students in the College of Engineering (COE) and the College of Arts and Sciences (CAS). The proposed infrastructure opens the door for collaborative basic as well as applied multidisciplinary research in semiconductor technologies, wireless electronics, sensors and networks, fluid dynamics, new materials and geospatial technologies. Cutting-edge research enabled by the HPSC infrastructure will enhance the content and quality of curriculum at undergraduate and graduate levels in participating departments and colleges.&lt;br/&gt;This project facilitates recruitment, retention, and training of world-class engineers and scientists in strategic science and technology frontiers.]]></AbstractNarration>
+<MinAmdLetterDate>07/17/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>09/17/2012</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855134</AwardID>
+<Investigator>
+<FirstName>Vijaya Kumar</FirstName>
+<LastName>Devabhaktuni</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vijaya Kumar Devabhaktuni</PI_FULL_NAME>
+<EmailAddress><![CDATA[vijay.Devabhaktuni@maine.edu]]></EmailAddress>
+<NSF_ID>000512352</NSF_ID>
+<StartDate>07/17/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sanjay</FirstName>
+<LastName>Khare</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sanjay V Khare</PI_FULL_NAME>
+<EmailAddress><![CDATA[sanjay.khare@utoledo.edu]]></EmailAddress>
+<NSF_ID>000233011</NSF_ID>
+<StartDate>07/17/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kevin</FirstName>
+<LastName>Czajkowski</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kevin P Czajkowski</PI_FULL_NAME>
+<EmailAddress><![CDATA[kczajko@utnet.utoledo.edu]]></EmailAddress>
+<NSF_ID>000183722</NSF_ID>
+<StartDate>07/17/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Duane</FirstName>
+<LastName>Hixon</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Duane Hixon</PI_FULL_NAME>
+<EmailAddress><![CDATA[duane.hixon@utoledo.edu]]></EmailAddress>
+<NSF_ID>000260901</NSF_ID>
+<StartDate>09/17/2012</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Duane</FirstName>
+<LastName>Hixon</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Duane Hixon</PI_FULL_NAME>
+<EmailAddress><![CDATA[duane.hixon@utoledo.edu]]></EmailAddress>
+<NSF_ID>000260901</NSF_ID>
+<StartDate>07/17/2009</StartDate>
+<EndDate>09/17/2012</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Krishna</FirstName>
+<LastName>Shenai</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Krishna Shenai</PI_FULL_NAME>
+<EmailAddress><![CDATA[krishna.shenai@utoledo.edu]]></EmailAddress>
+<NSF_ID>000236061</NSF_ID>
+<StartDate>07/17/2009</StartDate>
+<EndDate>09/17/2012</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Toledo</Name>
+<CityName>TOLEDO</CityName>
+<ZipCode>436063390</ZipCode>
+<PhoneNumber>4195302844</PhoneNumber>
+<StreetAddress>2801 W BANCROFT ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>XA77NAJYELF1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TOLEDO, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>XA77NAJYELF1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Toledo]]></Name>
+<CityName>TOLEDO</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>436063390</ZipCode>
+<StreetAddress><![CDATA[2801 W BANCROFT ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7359</Code>
+<Text>CCRI-CISE Cmnty Rsrch Infrstrc</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~174988</FUND_OBLG>
+</Award>
+</rootTag>

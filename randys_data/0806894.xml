@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Scholarships for Excellence in Natural Sciences (SENS)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>598974.00</AwardTotalIntnAmount>
+<AwardAmount>598974</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nicole Bennett</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Scholarships for Excellence in Natural Sciences (SENS) is supporting academically talented and financially needy minority students. The program is providing academic support to undergraduates to persist until degree achievement and graduate school/job placement assistance upon graduation. The recruitment and selection of STEM Scholars involves the PI's, faculty, counseling and financial aid staff, and recruiters. The scholar cohort has access to comprehensive career counseling and research mentoring, and support for attendance at conferences. The project is producing better prepared, competitive, and productive graduates for the STEM workforce and establishing a pipeline of quality students into graduate and professional programs.]]></AbstractNarration>
+<MinAmdLetterDate>07/02/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0806894</AwardID>
+<Investigator>
+<FirstName>Carl</FirstName>
+<LastName>Johnson</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carl P Johnson</PI_FULL_NAME>
+<EmailAddress><![CDATA[cjohnson@suno.edu]]></EmailAddress>
+<NSF_ID>000351994</NSF_ID>
+<StartDate>07/02/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Murty</FirstName>
+<LastName>Kambhampati</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Murty S Kambhampati</PI_FULL_NAME>
+<EmailAddress><![CDATA[mkambham@suno.edu]]></EmailAddress>
+<NSF_ID>000355326</NSF_ID>
+<StartDate>07/02/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joe</FirstName>
+<LastName>Omojola</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joe Omojola</PI_FULL_NAME>
+<EmailAddress><![CDATA[jomojola@suno.edu]]></EmailAddress>
+<NSF_ID>000341171</NSF_ID>
+<StartDate>07/02/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Southern University New Orleans</Name>
+<CityName>NEW ORLEANS</CityName>
+<ZipCode>701261009</ZipCode>
+<PhoneNumber>5042865311</PhoneNumber>
+<StreetAddress>6400 PRESS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>LA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RNLTFNJPV5K8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SOUTHERN UNIV AND A&amp;M COLLEGE SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Southern University New Orleans]]></Name>
+<CityName>NEW ORLEANS</CityName>
+<StateCode>LA</StateCode>
+<ZipCode>701261009</ZipCode>
+<StreetAddress><![CDATA[6400 PRESS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>LA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~598974</FUND_OBLG>
+</Award>
+</rootTag>

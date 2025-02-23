@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Building a Community of Scholars and Graduates in Areas of Critical Need</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>592787.00</AwardTotalIntnAmount>
+<AwardAmount>592787</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>gregory goins</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This S-STEM scholars program will: (1) provide the means for academically capable, low-income students to complete baccalaureate degrees in S-STEM areas; (2) increase the number of students from under-represented groups pursuing degrees in these fields through vigorous two-year college recruiting; (3) provide students with academic and career development support; and (4) strongly encourage participation in experiential learning. The experiential learning experience will career exposure and enhance career options available to scholars. The program will provide scholarships for at least 47 talented, low-income students, which will enable them to pursue baccalaureate degrees in engineering or computer science.</AbstractNarration>
+<MinAmdLetterDate>02/04/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>09/14/2012</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0850308</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Johnstone</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John K Johnstone</PI_FULL_NAME>
+<EmailAddress>jkj@uab.edu</EmailAddress>
+<NSF_ID>000124884</NSF_ID>
+<StartDate>02/04/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hassan</FirstName>
+<LastName>Moore</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hassan Moore</PI_FULL_NAME>
+<EmailAddress>hmoore@uab.edu</EmailAddress>
+<NSF_ID>000505889</NSF_ID>
+<StartDate>09/14/2012</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gregg</FirstName>
+<LastName>Janowski</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gregg M Janowski</PI_FULL_NAME>
+<EmailAddress>janowski@uab.edu</EmailAddress>
+<NSF_ID>000321248</NSF_ID>
+<StartDate>02/04/2009</StartDate>
+<EndDate>09/14/2012</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Alabama at Birmingham</Name>
+<CityName>Birmingham</CityName>
+<ZipCode>352940001</ZipCode>
+<PhoneNumber>2059345266</PhoneNumber>
+<StreetAddress>1720 2nd Avenue South</StreetAddress>
+<StreetAddress2><![CDATA[AB 1170]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AL07</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>063690705</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ALABAMA AT BIRMINGHAM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>808245794</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Alabama at Birmingham]]></Name>
+<CityName>Birmingham</CityName>
+<StateCode>AL</StateCode>
+<ZipCode>352940001</ZipCode>
+<StreetAddress><![CDATA[1720 2nd Avenue South]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EHR, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~592787</FUND_OBLG>
+</Award>
+</rootTag>

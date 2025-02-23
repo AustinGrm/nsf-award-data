@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Study of the Highest Energy Cosmic Rays at the Pierre Auger Observatory]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>510000.00</AwardTotalIntnAmount>
+<AwardAmount>510000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jonathan Whitmore</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;It will support the CSM group to work on the Pierre Auger Observatory (PAO) Cosmic Ray experiment. The high-energy cumulative exposure of the PAO has surpassed the summed exposures of all previous cosmic ray experiments. First measurements of the energy spectra, anisotropy and particle composition indicate that the observatory has an unprecedented view of the high-energy universe and particle physics at energies well beyond that of the Large Hadron Collider in Geneva, Switzerland. The observatory combines the collecting power of 1600 surface detectors (SD), the calorimetric energy measurement of a four-eye atmospheric fluorescence detector (FD), and the precision of two laser "test-beam" facilities near the array center. With this baseline configuration completed in late 2008, the observatory will collect data using its full complement of instrumentation. The CSM group has the responsibility for generating the critical hourly data base of atmospheric transmission constants, and overseeing the operation and data processing of these laser facilities. The sensitivity and the observation of anisotropy strongly motivate the need for a precise energy standard. &lt;br/&gt;&lt;br/&gt;For the past few years, the CSM group has been engaged in outreach activities in southeastern Colorado. Cosmic-ray educational experiments built at CSM were made available for public events and use in classrooms. Recently, two demonstration surface detectors, identical to the detectors at the southern Auger Observatory, were installed in two towns in southeastern Colorado. This installation was part of a continuing effort to enhance science education in this area. CSM undergraduates are naturally involved in the research, as they are required to complete a senior design project as part of their curriculum.]]></AbstractNarration>
+<MinAmdLetterDate>07/07/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/07/2009</MaxAmdLetterDate>
+<ARRAAmount>510000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855680</AwardID>
+<Investigator>
+<FirstName>Lawrence</FirstName>
+<LastName>Wiencke</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lawrence R Wiencke</PI_FULL_NAME>
+<EmailAddress><![CDATA[lwiencke@mines.edu]]></EmailAddress>
+<NSF_ID>000088880</NSF_ID>
+<StartDate>07/07/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Frederic</FirstName>
+<LastName>Sarazin</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Frederic M Sarazin</PI_FULL_NAME>
+<EmailAddress><![CDATA[fsarazin@mines.edu]]></EmailAddress>
+<NSF_ID>000031207</NSF_ID>
+<StartDate>07/07/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Colorado School of Mines</Name>
+<CityName>GOLDEN</CityName>
+<ZipCode>804011887</ZipCode>
+<PhoneNumber>3032733000</PhoneNumber>
+<StreetAddress>1500 ILLINOIS ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JW2NGMP4NMA3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF THE COLORADO SCHOOL OF MINES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>JW2NGMP4NMA3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Colorado School of Mines]]></Name>
+<CityName>GOLDEN</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>804011887</ZipCode>
+<StreetAddress><![CDATA[1500 ILLINOIS ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1643</Code>
+<Text>Particle Astrophysics/Cosmic P</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7483</Code>
+<Text>PHYSICS OF THE UNIVERSE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~510000</FUND_OBLG>
+</Award>
+</rootTag>

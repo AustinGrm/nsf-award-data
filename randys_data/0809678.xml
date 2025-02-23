@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I: Bioenergy from Genomics: Genes that Increase Corn Kernel Starch and Oil Content.]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2008</AwardExpirationDate>
+<AwardTotalIntnAmount>99129.00</AwardTotalIntnAmount>
+<AwardAmount>99129</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cynthia A. Znati</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This Small Business Innovation Research Phase I project aims to identify and validate the small number of genes that control starch and oil content in corn. The project will determine statistical associations between corn domestication genes and these traits. Having genes in hand that control starch and oil levels could be used to breed or genetically engineer corn with significantly higher starch or oil content per kernel.&lt;br/&gt;&lt;br/&gt;The broader impact of this research will ultimately be reduced dependence on foreign energy sources. Domestic energy self-reliance can come from bioenergy technologies, including corn ethanol and biodiesel. Two major objections to the use of corn to make ethanol are the environmental impact of fertilizing and irrigating greater amounts of land for growing corn and diverting corn from food to fuel when people in the world are starving. Increasing the yield of fermentable starch for ethanol production from each acre of corn grown would address these objections. In this way, more ethanol and biodiesel feedstocks can be produced from the same acreage.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>04/30/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/30/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0809678</AwardID>
+<Investigator>
+<FirstName>Walter</FirstName>
+<LastName>Messier</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Walter Messier</PI_FULL_NAME>
+<EmailAddress><![CDATA[wmessier@evolgen.com]]></EmailAddress>
+<NSF_ID>000160198</NSF_ID>
+<StartDate>04/30/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Evolutionary Genomics, LLC</Name>
+<CityName>LONGMONT</CityName>
+<ZipCode>805016575</ZipCode>
+<PhoneNumber>3034295800</PhoneNumber>
+<StreetAddress>1801 SUNSET PL STE C</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CBH2KGAWD9N8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>EG CROP SCIENCE, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KMAVV4QDZCC9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Evolutionary Genomics, LLC]]></Name>
+<CityName>LONGMONT</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>805016575</ZipCode>
+<StreetAddress><![CDATA[1801 SUNSET PL STE C]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1165</Code>
+<Text>ADVANCES IN BIO INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1167</Code>
+<Text>MULTIDISCIPLINARY BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1491</Code>
+<Text>BIOTECH, BIOCHEM &amp; BIOMASS ENG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1717</Code>
+<Text>BIOLOGICAL COMPUTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1719</Code>
+<Text>COMPUTATIONAL BIOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7286</Code>
+<Text>BIOCOMPUTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~99129</FUND_OBLG>
+</Award>
+</rootTag>

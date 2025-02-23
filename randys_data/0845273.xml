@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER:   Molecular Interactions of the Mitochondrial Iron-Chaperone Frataxin]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>697501.00</AwardTotalIntnAmount>
+<AwardAmount>697501</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070400</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Engin Serpersu</SignBlockName>
+<PO_EMAI>eserpers@nsf.gov</PO_EMAI>
+<PO_PHON>7032927124</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5)&lt;br/&gt;&lt;br/&gt;Intellectual Merit&lt;br/&gt;Iron in its unbound state is potentially toxic to organisms; therefore, sophisticated mechanisms are in place to traffic this essential metal ion, especially in the mitochondrion. The mitochondrial iron chaperone protein frataxin binds reactive iron and delivers it to proteins involved in iron-sulfur cluster synthesis (ISU), heme synthesis (ferrochelatase), and iron regulation (aconitase).  It is unclear what factors control frataxin specificity for iron and for each iron-acceptor protein. This interdisciplinary project will determine the mechanism of mitochondrial iron trafficking by human frataxin using biochemical, bioinorganic, and structural techniques. Through characterization of frataxin interactions with metals and iron-accepting protein partners, this research will (1) define the structural and functional mechanisms of frataxin recognition for the three iron-accepting proteins using amide hydrogen/deuterium exchange mass spectrometry, and (2) elucidate factors mediating specific iron transfer from frataxin to each partner protein using UV-visible, fluorescence, and electron paramagnetic spectroscopies. This research contributes to much needed insight into the interplay and overlap between iron-sulfur cluster biogenesis and heme biosynthesis through the common intermediate frataxin. &lt;br/&gt;&lt;br/&gt;Broader Impacts&lt;br/&gt;The project provides long-term research and educational opportunities for undergraduate and graduate students, including minorities, at the interface of biology and chemistry.  The research will promote the acquisition of critical thinking skills and problem solving, which is of great societal benefit. Student education also extends to the classroom where many of the research techniques will be incorporated into a new interdisciplinary protein chemistry course that infuses theory, methodology, and application of basic and cutting-edge biochemical methods into our undergraduate and graduate curriculum. In support of diversity in science, a yearly symposium will showcase the scientific impact of researchers from under-represented groups and provide an important vehicle to positively impact the diversity and quality of science in the region. The symposia will increase the appreciation of diversity in the region, serve as outreach to under-represented groups, and strengthen relationships with regional minority-serving institutions.&lt;br/&gt;&lt;br/&gt;This award is cofunded by the Molecular &amp; Cellular Biosciences Division and the Division of Chemistry.]]></AbstractNarration>
+<MinAmdLetterDate>06/30/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/18/2014</MaxAmdLetterDate>
+<ARRAAmount>697501</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0845273</AwardID>
+<Investigator>
+<FirstName>Laura</FirstName>
+<LastName>Busenlehner</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Laura S Busenlehner</PI_FULL_NAME>
+<EmailAddress><![CDATA[LSBusenlehner@bama.ua.edu]]></EmailAddress>
+<NSF_ID>000504606</NSF_ID>
+<StartDate>06/30/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Alabama Tuscaloosa</Name>
+<CityName>TUSCALOOSA</CityName>
+<ZipCode>354870001</ZipCode>
+<PhoneNumber>2053485152</PhoneNumber>
+<StreetAddress>301 ROSE ADMIN BLDG</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AL07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RCNJEHZ83EV6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ALABAMA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>TWJWHYEM8T63</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Alabama Tuscaloosa]]></Name>
+<CityName>TUSCALOOSA</CityName>
+<StateCode>AL</StateCode>
+<ZipCode>354870001</ZipCode>
+<StreetAddress><![CDATA[301 ROSE ADMIN BLDG]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1144</Code>
+<Text>Molecular Biophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1166</Code>
+<Text>MOLECULAR BIOCHEMISTRY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1187</Code>
+<Text>PECASE- eligible</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~697501</FUND_OBLG>
+</Award>
+</rootTag>

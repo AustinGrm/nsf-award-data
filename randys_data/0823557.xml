@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[An International Workshop on Spatial Cognition and Learning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>116432</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04000000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Soo-Siang Lim</SignBlockName>
+<PO_EMAI>slim@nsf.gov</PO_EMAI>
+<PO_PHON>7032927878</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Research on spatial skills in humans has been gaining momentum in recent years, both nationally and internationally.  This momentum is partly driven by the importance of spatial skills to achievement in science, technology, engineering, and mathematics (STEM).  It is also driven by the pervasive role of spatial cognition in human behavior, for example in tasks like navigation, tool usage, and even language comprehension and production.  Two research centers that were recently formed to study spatial cognition are the NSF Spatial Intelligence and Learning Center (SILC) housed at Temple University, and the Transregional Collaborative Research Center Spatial Cognition (TCRCS) housed in Germany.  With support of NSF, members of these two centers, along with other invited experts in the field, are holding a workshop with the goal of outlining a broad research agenda for the near and medium term future in the area of spatial cognition.  &lt;br/&gt;&lt;br/&gt;The workshop is conceived more specifically to consider the role of visualization in STEM education as it relates to navigation, robotics, and engineering design.  The two centers bring complementary expertise and perspectives to the table:  SILC focuses on a broad set of skills including spatial transformations, spatial language, and spatial analogies, whereas TCRCS focuses on navigation and robotics from a computational point of view, with emphasis on perception-action relations.  Other experts were chosen to enhance the representation of neuroscientific and geoscientific perspectives at the workshop.  Its format will offer attendees the opportunity to become familiar with each other?s research, discuss the research agenda for the field, and compose a set of recommendations for research directions.  The results will be disseminated on a workshop web site using the networks of all participating centers and individuals.]]></AbstractNarration>
+<MinAmdLetterDate>06/18/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/14/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0823557</AwardID>
+<Investigator>
+<FirstName>Nora</FirstName>
+<LastName>Newcombe</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nora S Newcombe</PI_FULL_NAME>
+<EmailAddress><![CDATA[newcombe@temple.edu]]></EmailAddress>
+<NSF_ID>000285523</NSF_ID>
+<StartDate>06/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Shipley</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thomas F Shipley</PI_FULL_NAME>
+<EmailAddress><![CDATA[TSHIPLEY@temple.edu]]></EmailAddress>
+<NSF_ID>000214294</NSF_ID>
+<StartDate>06/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Temple University</Name>
+<CityName>PHILADELPHIA</CityName>
+<ZipCode>191226003</ZipCode>
+<PhoneNumber>2157077547</PhoneNumber>
+<StreetAddress>1801 N BROAD ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QD4MGHFDJKU1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEMPLE UNIVERSITY-OF THE COMMONWEALTH SYSTEM OF HIGHER EDUCATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QD4MGHFDJKU1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Temple University]]></Name>
+<CityName>PHILADELPHIA</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>191226003</ZipCode>
+<StreetAddress><![CDATA[1801 N BROAD ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7299</Code>
+<Text>Catalyzing New Intl Collab</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7704</Code>
+<Text>Science of Learning Activities</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5936</Code>
+<Text>GERMANY (F.R.G.)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5979</Code>
+<Text>Europe and Eurasia</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~116432</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research:  Recombinant Services -- Recasting the Web for Continuously Evolving Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>193670.00</AwardTotalIntnAmount>
+<AwardAmount>193670</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sol Greenspan</SignBlockName>
+<PO_EMAI>sgreensp@nsf.gov</PO_EMAI>
+<PO_PHON>7032927841</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[NSF Proposals: 0820222/0820170&lt;br/&gt; Title: Recombinant Services -- Recasting the Web for Continuously Evolving Systems&lt;br/&gt; PIs:  Richard N. Taylor and Nenad Medvidovic&lt;br/&gt; The broad features of many real-world systems belie the assumptions of classical systems and software engineering: there is no single overarching authority, change is managed by many independent organizations, the many systems serve many masters, and evolution is independent and uncoordinated. Ongoing improvements in the scale and reach of pervasive network infrastructure and the brisk development of diverse Web-accessible resources will play pivotal roles in future systems of systems. Apropos of this future, this project offers a radical rethinking of service abstraction that integrates modern network structures, computation as a fundamental unit of network exchange, and network-wide system awareness to deliver recombinant Internet-scale services for which service composition, reuse, autonomy, context-free interaction, and monitoring are first-order effects. This project pursues a set of architectural principles addressing the challenges, then developing infrastructure consistent with those principles, for the implementation, deployment, and operation of systems of systems. The engineering methods reifying recombinant services---CREST---will refashion the Web, from an architecture that is predominantly data-driven and reactive to one that is computation-driven and autonomic. Our results will be given to the open source community and external collaborating organizations, a technology transfer with the potential of transforming the Web.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>06/18/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0820170</AwardID>
+<Investigator>
+<FirstName>Nenad</FirstName>
+<LastName>Medvidovic</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nenad Medvidovic</PI_FULL_NAME>
+<EmailAddress><![CDATA[neno@usc.edu]]></EmailAddress>
+<NSF_ID>000485161</NSF_ID>
+<StartDate>06/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Southern California</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900894304</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress>3720 S FLOWER ST</StreetAddress>
+<StreetAddress2><![CDATA[FL 3]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA37</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G88KLJR3KYT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTHERN CALIFORNIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>LOS ANGELES</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900894304</ZipCode>
+<StreetAddress><![CDATA[3720 S FLOWER ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7724</Code>
+<Text>SOFTWARE FOR REAL-WORLD SYSTMS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9215</Code>
+<Text>HIGH PERFORMANCE COMPUTING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<FUND_OBLG>2008~193670</FUND_OBLG>
+</Award>
+</rootTag>

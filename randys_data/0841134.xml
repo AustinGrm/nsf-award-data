@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Metabolic Engineering Workshop 2009]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>14977.00</AwardTotalIntnAmount>
+<AwardAmount>14977</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Theresa Good</SignBlockName>
+<PO_EMAI>tgood@nsf.gov</PO_EMAI>
+<PO_PHON>7032922450</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[CBET-0841134&lt;br/&gt;Robert D Shelton, World Technology Evaluation Center, Inc. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Intellectual Merit&lt;br/&gt;&lt;br/&gt;This project includes organization of a grantee workshop on research activities in metabolic engineering to be conducted by NSF with support from the World Technology Evaluation Center, Inc (WTEC). This topic is the focus of an Interagency Announcement of Opportunities published by NSF's Directorate for Engineering. The purpose of the workshop, to be held in early 2009, is to gather facts and opinions from the U.S. research community on how this emerging area of research is progressing. WTEC will compile the information presented at the workshop into a report for NSF and the professional community in hardcopy and electronic media. WTEC will also update and maintain the interagency metabolicengineering.gov website during the term of this award.&lt;br/&gt;&lt;br/&gt;The workshop provides a forum for presentation of the latest research results in this field by grantees of the eight agencies that participate in the Working Group on Metabolic Engineering.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Broader Impacts &lt;br/&gt;&lt;br/&gt;This contribution to research in metabolic processes will help to better understand cellular pathways for chemical transformation, energy transduction, and supramolecular assembly. The hardcopy and electronic reports will communicate these findings to the broader community.]]></AbstractNarration>
+<MinAmdLetterDate>07/23/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0841134</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Shelton</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert D Shelton</PI_FULL_NAME>
+<EmailAddress><![CDATA[shelton@wtec.org]]></EmailAddress>
+<NSF_ID>000375265</NSF_ID>
+<StartDate>07/23/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>World Technology Evaluation Center, Inc.</Name>
+<CityName>Lancaster</CityName>
+<ZipCode>176016507</ZipCode>
+<PhoneNumber>7173449990</PhoneNumber>
+<StreetAddress>1653 Lititz Pike 417</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[World Technology Evaluation Center, Inc.]]></Name>
+<CityName>Lancaster</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>176016507</ZipCode>
+<StreetAddress><![CDATA[1653 Lititz Pike 417]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1491</Code>
+<Text>Cellular &amp; Biochem Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>009E</Code>
+<Text>Metabolic engineering</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9181</Code>
+<Text>BIOPROCESSING/BIOMOLECULAR MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~14977</FUND_OBLG>
+</Award>
+</rootTag>

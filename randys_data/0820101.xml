@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[A Theory of Measurable Ambiguity]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>264459.00</AwardTotalIntnAmount>
+<AwardAmount>264459</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050100</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Lutz</SignBlockName>
+<PO_EMAI>nlutz@nsf.gov</PO_EMAI>
+<PO_PHON>7032927280</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The project develops and analyzes a new model of choice under uncertainty.  The standard rational choice model for uncertain situations is the von Neumann Morgenstern Expected Utility model.  While economists and other social scientists have used this model as the foundation for a great deal of research, the model does not do a good job of predicting how individuals make decisions in ambiguous situations. The Subjective Expected Uncertain Utility (SEUU) model is simple and is also suitable for analyzing how people make decisions under ambiguity.&lt;br/&gt;&lt;br/&gt;The model has a novel event-assessment criterion called semiprobabilistic sophistication, reduces acts into gambles called bilotteries, and evaluates these gambles according to an expected utility criterion.  This framework can easily be used to analyze ambiguous events and uncertain consequences.  The basic feature of the model is that betting on an ambiguous event yields an uncertain gamble.  The individual may or may not prefer such an ambiguous gamble to a bet on an unabiguous event depending on how likely the two evets are, how ambiguous they are, and his/her attitude towards uncertainty.&lt;br/&gt;&lt;br/&gt;The research provides an axiomatic foundation for the new theory, develops and analyses appropriate measures of uncertainty and risk aversion and relates them to properties of ambiguous situations, and identifies ways to empirically test this model.&lt;br/&gt;&lt;br/&gt;This research will have broader impact because a tractable model of ambiguity will be applicable to many research and policy questions in macroeconomics and financial economics.]]></AbstractNarration>
+<MinAmdLetterDate>07/29/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/24/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0820101</AwardID>
+<Investigator>
+<FirstName>Faruk</FirstName>
+<LastName>Gul</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Faruk R Gul</PI_FULL_NAME>
+<EmailAddress><![CDATA[fgul@princeton.edu]]></EmailAddress>
+<NSF_ID>000198678</NSF_ID>
+<StartDate>07/29/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Wolfgang</FirstName>
+<LastName>Pesendorfer</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wolfgang Pesendorfer</PI_FULL_NAME>
+<EmailAddress><![CDATA[pesendor@princeton.edu]]></EmailAddress>
+<NSF_ID>000227499</NSF_ID>
+<StartDate>07/29/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Princeton University</Name>
+<CityName>PRINCETON</CityName>
+<ZipCode>085442001</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress>1 NASSAU HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NJ1YPQXQG7U5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF PRINCETON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName>PRINCETON</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>085442001</ZipCode>
+<StreetAddress><![CDATA[1 NASSAU HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1320</Code>
+<Text>Economics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~52776</FUND_OBLG>
+<FUND_OBLG>2009~211683</FUND_OBLG>
+</Award>
+</rootTag>

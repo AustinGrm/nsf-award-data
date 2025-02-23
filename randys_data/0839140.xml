@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I: Cell Targeting Tools</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>125174</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gregory T. Baxter</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research (SBIR) Phase I project addresses the need to develop cell targeting agents for more effective study of internalization in cells.  In the field of targeted therapeutics, especially in nanoparticle drug delivery systems, it is becoming increasingly important to select the best targeting molecules to enable cell targeting and cell entry.  There does not appear to be a good way to do this now nor have products emerged to address this particular problem.  The proposed research develops a method that can be used with a plate reader and is adaptable to high-throughput screening.  This method would be an important research tool for many companies and academic researchers developing targeted therapeutics.  A small natural protein shell filled with a fluorescent dye is used.  Targeting peptides can be attached to this protein shell via chemical crosslinking to the surface.  Peptide binding efficiency to the protein shell can be ascertained by fluorescent reporter molecules that do not overlap with the internalized dye.  Ultimate targeting and cell entry can be determined from release of the internalized dye.&lt;br/&gt;&lt;br/&gt;The broader impacts of this research are in developing novel methods for diagnosis and treatment of disease.  A rapid method for discovering new targeting agents in a controlled platform has widespread potential applications as a basic research tool and as an advanced technology for discovery of novel drug delivery platforms.   &lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>11/12/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/08/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839140</AwardID>
+<Investigator>
+<FirstName>Bruce</FirstName>
+<LastName>Oberhardt</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bruce J Oberhardt</PI_FULL_NAME>
+<EmailAddress>boberhardt@nanovectorinc.com</EmailAddress>
+<PI_PHON>9198486520</PI_PHON>
+<NSF_ID>000505222</NSF_ID>
+<StartDate>11/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>NanoVector, Inc.</Name>
+<CityName>Raleigh</CityName>
+<ZipCode>276248385</ZipCode>
+<PhoneNumber>9198486520</PhoneNumber>
+<StreetAddress>NanoVector, Inc.</StreetAddress>
+<StreetAddress2><![CDATA[PO Box 98385]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[NanoVector, Inc.]]></Name>
+<CityName>Raleigh</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>276248385</ZipCode>
+<StreetAddress><![CDATA[NanoVector, Inc.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1167</Code>
+<Text>MULTIDISCIPLINARY BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~125174</FUND_OBLG>
+</Award>
+</rootTag>

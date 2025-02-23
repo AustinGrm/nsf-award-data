@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[The College-Company Connection:  Bringing Real-World Work Experience to Students through Strategic Partnerships]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>148801.00</AwardTotalIntnAmount>
+<AwardAmount>148801</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040100</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David A. Hanych</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Montgomery County Community College (MCCC), in partnership with Rohm and Haas company, is creating an in-house laboratory service facility to provide MCCC's biotechnology students with real-world training opportunities. The laboratory functions as a contract research organization to test new proteins developed by Rohm and Haas for use in biopharmaceutical manufacturing. The project is incorporating work-based experiences into existing science courses, exposing students to state-of-the-art instrumentation, and enhancing STEM content in technician education courses. Besides establishing a working biotechnology training facility, the project is enhancing MCCC's biotechnology curriculum, providing summer internship opportunities for regional high school or community college teachers, providing students with additional training opportunities at company facilities, developing a laboratory practical exam for assessing student learning and skills, and pilot testing a strategic partnership model between a community college and a biotechnology company.]]></AbstractNarration>
+<MinAmdLetterDate>06/02/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/02/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0802383</AwardID>
+<Investigator>
+<FirstName>Linda</FirstName>
+<LastName>Rehfuss</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Linda R Rehfuss</PI_FULL_NAME>
+<EmailAddress><![CDATA[linda.rehfuss@bucks.edu]]></EmailAddress>
+<NSF_ID>000126220</NSF_ID>
+<StartDate>06/02/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kevin</FirstName>
+<LastName>Lampe</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kevin Lampe</PI_FULL_NAME>
+<EmailAddress><![CDATA[klampe@mc3.edu]]></EmailAddress>
+<NSF_ID>000219550</NSF_ID>
+<StartDate>06/02/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Montgomery County Community College</Name>
+<CityName>BLUE BELL</CityName>
+<ZipCode>194221412</ZipCode>
+<PhoneNumber>2156416466</PhoneNumber>
+<StreetAddress>340 DEKALB PIKE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F14HC2DQJ7F8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MONTGOMERY COUNTY COMMUNITY COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Montgomery County Community College]]></Name>
+<CityName>BLUE BELL</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>194221412</ZipCode>
+<StreetAddress><![CDATA[340 DEKALB PIKE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7412</Code>
+<Text>Advanced Tech Education Prog</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1032</Code>
+<Text>ADVANCED TECHNOLOGY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~148801</FUND_OBLG>
+</Award>
+</rootTag>

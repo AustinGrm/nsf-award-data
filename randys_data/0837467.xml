@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Mathematics Education in the Public Interest]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>119667.00</AwardTotalIntnAmount>
+<AwardAmount>119667</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard A. Alo</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The Mathematics Education in the Public Interest (MEPI) project strives to improve the quality and relevance of mathematics education for undergraduate students planning to teach (preservice teachers). Its overarching goals are to (1) support equity and social justice in mathematics education; (2) diversify student interest and participation in mathematics; and (3) broaden and enrich the ways mathematics is viewed as a discipline. &lt;br/&gt;&lt;br/&gt;Intellectual Merit: Currently, the integration of mathematics into social issues is used by only a few practicing teachers using a scarce supply of curriculum materials and having minimal professional development opportunities. Mathematics is treated as independent from important social, political, and economic issues facing communities and the world. This project builds on the premise that mathematics education requires greater attention to the public interest and that this change in focus may expand interest and knowledge in mathematics and its applications while creating and strengthening partnerships between individuals and their local and global communities.&lt;br/&gt;&lt;br/&gt;MEPI is working primarily with undergraduate students in preservice elementary and middle school teacher education programs. The objectives are to: (1) engage in curriculum and course development for Elementary and Middle Grades Math for Social Analysis; (2) conduct and disseminate qualitative and quantitative research on the struggles, successes, and tensions inherent to preservice teacher learning; and (3) create an online MEPI activities and resources center. &lt;br/&gt;&lt;br/&gt;Broader Impacts: These materials are being pilot tested in a required course with high enrollment at a university with roots in teacher preparation.  The project is supporting mathematics teacher educators and inservice teachers interested in infusing courses or professional development workshops with activities or service learning experiences of personal or social value to students. The online center can be used by preservice and inservice mathematics teachers, mathematics teacher educators, and mathematics education researchers as they compile and incorporate resources into their courses.]]></AbstractNarration>
+<MinAmdLetterDate>12/05/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>12/05/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0837467</AwardID>
+<Investigator>
+<FirstName>Laura</FirstName>
+<LastName>Jacobsen</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Laura J Jacobsen</PI_FULL_NAME>
+<EmailAddress><![CDATA[ljacobsen@radford.edu]]></EmailAddress>
+<NSF_ID>000149837</NSF_ID>
+<StartDate>12/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jean</FirstName>
+<LastName>Mistele</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jean Mistele</PI_FULL_NAME>
+<EmailAddress><![CDATA[jmistele@radford.edu]]></EmailAddress>
+<NSF_ID>000319266</NSF_ID>
+<StartDate>12/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Radford University</Name>
+<CityName>RADFORD</CityName>
+<ZipCode>24142</ZipCode>
+<PhoneNumber>5408315035</PhoneNumber>
+<StreetAddress>201 WALKER HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JE98DMNW8BK4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RADFORD UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X6KEFGLHSJX7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Radford University]]></Name>
+<CityName>RADFORD</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>24142</ZipCode>
+<StreetAddress><![CDATA[201 WALKER HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0409</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000910DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>1300CYXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~119667</FUND_OBLG>
+</Award>
+</rootTag>

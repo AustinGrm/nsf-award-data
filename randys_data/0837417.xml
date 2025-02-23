@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Regional Partnership to Improve Science Content Courses for Pre-service Elementary Teachers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>199554.00</AwardTotalIntnAmount>
+<AwardAmount>199554</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Herbert H. Richtol</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Interdisciplinary (99)&lt;br/&gt;&lt;br/&gt;Three institutions have formed a partnership to share a science content course that spans two semesters and is intended for pre-service elementary teachers and university students who want to teach young children. The science course is based upon an inquiry-learning cycle that is well supported by cognitive science and education theory. The content of the shared course comes directly from the Illinois State Learning Standards, which specifies the content elementary teachers are required to teach. The science course includes technology components and capstone projects, also intended to align with Illinois Learning Standards. The course is specifically designed to interest future teachers, in part because the majority of pre-service students are women, many of whom had indifferent science experiences. Revisions to the course will involve instructors from all three partner institutions.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>12/15/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>12/15/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0837417</AwardID>
+<Investigator>
+<FirstName>George</FirstName>
+<LastName>Banziger</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>George Banziger</PI_FULL_NAME>
+<EmailAddress><![CDATA[GBanziger@lc.edu]]></EmailAddress>
+<NSF_ID>000111299</NSF_ID>
+<StartDate>12/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Foster</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thomas M Foster</PI_FULL_NAME>
+<EmailAddress><![CDATA[tfoster@siue.edu]]></EmailAddress>
+<NSF_ID>000274838</NSF_ID>
+<StartDate>12/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Amanda</FirstName>
+<LastName>Starkey</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Amanda M Starkey</PI_FULL_NAME>
+<EmailAddress><![CDATA[amanda.starkey@swic.edu]]></EmailAddress>
+<NSF_ID>000505950</NSF_ID>
+<StartDate>12/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Southern Illinois University at Edwardsville</Name>
+<CityName>EDWARDSVILLE</CityName>
+<ZipCode>620260001</ZipCode>
+<PhoneNumber>6186503010</PhoneNumber>
+<StreetAddress>30 CIR DR, SIUE CAMPUS</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HQ5NMP5HLL53</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SOUTHERN ILLINOIS UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FEJLSDRGWKN5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Southern Illinois University at Edwardsville]]></Name>
+<CityName>EDWARDSVILLE</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>620260001</ZipCode>
+<StreetAddress><![CDATA[30 CIR DR, SIUE CAMPUS]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0409</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000910DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>1300CYXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~199554</FUND_OBLG>
+</Award>
+</rootTag>

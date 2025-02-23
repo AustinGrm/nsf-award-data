@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Mechanical and Electrical Reliability Maximization of Rechargeable Lithium-Ion Batteries through Microstructure Design]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>237112.00</AwardTotalIntnAmount>
+<AwardAmount>237112</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mary Toney</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The research of this award will: 1) develop and experimentally validate numerical models to simulate real rechargeable lithium-ion battery electrodes of arbitrary geometries; 2) Isothermal chemical stresses modeling and design for improved electrode battery materials and devices; 3) Development of models that resolve the local Joule-heating generation to create improved electrode geometries. In each thrust, microstructures will be characterized using imaging methods appropriate to their length scale (confocal microscopy, SEM, and AFM) to obtain images where each of the phases (active material, binders, conductive additive, porosity) is resolved to enable detailed model validation and improved battery design by guiding the experiment through numerical simulation.&lt;br/&gt;&lt;br/&gt;The results of this research will build fundamental understanding for emerging electrochemical technologies, such as rechargeable batteries and nastic structures (electrochemical actuators). By understanding the mechanisms leading to the local mechanical, electrical, and thermal fatigue of the system, devices with dramatically improved reliabilities can be manufactured. By understanding the correlations between microstructure, local Joule heating, crystallographic anisotropy, and Vegard stresses, reliable higher power densities will be developed. The individual components of the proposed research will be integrated into an educational plan that will integrate the fundamental electrochemistry concepts developed through this research into undergraduate and graduate classes whose focus will be to lead future generations of materials engineers to develop a detailed understanding of electrochemical materials and devices.&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/10/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/10/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0856491</AwardID>
+<Investigator>
+<FirstName>Edwin</FirstName>
+<LastName>Garcia</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Edwin Garcia</PI_FULL_NAME>
+<EmailAddress><![CDATA[redwing@purdue.edu]]></EmailAddress>
+<NSF_ID>000101910</NSF_ID>
+<StartDate>08/10/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>WEST LAFAYETTE</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>2550 NORTHWESTERN AVE STE 1900</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YRXVL4JYCEF5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YRXVL4JYCEF5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479061332</ZipCode>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE STE 1900]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0106000</Code>
+<Name>Materials Research</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1633</Code>
+<Text>MATERIALS AND SURFACE ENG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1444</Code>
+<Text>SURFACE ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1633</Code>
+<Text>MATERIALS AND SURFACE ENG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9161</Code>
+<Text>SINGLE DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>AMPP</Code>
+<Text>ADVANCED MATERIALS &amp; PROCESSING PROGRAM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~237112</FUND_OBLG>
+</Award>
+</rootTag>

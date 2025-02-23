@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Structural Mechanics of Steel Columns and Beam-Columns Under Fire Loading</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>40000.00</AwardTotalIntnAmount>
+<AwardAmount>40000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yick Hsuan</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Current research findings indicate that the stability (collapse potential) of steel building structures subjected to realistic fire loading is governed by the behavior of steel columns and beam-columns. The overall goal of this project is to develop knowledge (in the form of experimental data and numerical models) of the fundamental behavior and stability of steel columns and beam-columns under structural loads and realistic fire loading effects with consideration of structural restraints. The experimental investigations will focus on measuring the fundamental behavior of steel beam-columns and columns under combined gravity and lateral loads, elevated temperature distributions and thermal gradients, and rotational end restraints. Analytical models will be developed and calibrated to model the measured fundamental behavior of the specimens. They will be used further to: (1) conduct parametric studies, (2) develop performance-based design provisions, and (3) to model and predict the realistic fire behavior of large-scale building structures. The experimental and analytical investigations will be led by the PIs from Purdue University and SDSM&amp;T, respectively.&lt;br/&gt;&lt;br/&gt;The study meets a critical need identified by the National Institute of Standards and Technology (NIST) Building Fire Research Laboratory (BFRL) in the aftermath of the World Trade Center collapse, which is to develop and validate test methods, analytical tools, and guidelines necessary to evaluate the fundamental behavior and fire performance of structural components and the system as a whole.  This will facilitate: (1) the development of performance-based design provisions to protect public property and life, and (2) better prediction of the performance and stability of buildings subjected to realistic fire events. Development of case studies and course modules will impact undergraduate, graduate and practitioner education through implementation at the partner schools and dissemination at national meetings.&lt;br/&gt;&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>08/12/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/12/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0825506</AwardID>
+<Investigator>
+<FirstName>Amit</FirstName>
+<LastName>Varma</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Amit H Varma</PI_FULL_NAME>
+<EmailAddress>ahvarma@purdue.edu</EmailAddress>
+<NSF_ID>000362640</NSF_ID>
+<StartDate>08/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>West Lafayette</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>2550 Northwestern Ave.</StreetAddress>
+<StreetAddress2><![CDATA[Suite 1900]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>072051394</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>072051394</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>West Lafayette</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479061332</ZipCode>
+<StreetAddress><![CDATA[2550 Northwestern Ave.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0106000</Code>
+<Name>Materials Research</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1635</Code>
+<Text>STRUCTURAL MATERIALS AND MECH</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025E</Code>
+<Text>INFRASTRUCTURE MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1037</Code>
+<Text>DETERIORATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~40000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[A unified modeling approach for micro- and nano-scale gas flows]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>265000.00</AwardTotalIntnAmount>
+<AwardAmount>265000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Warchall</SignBlockName>
+<PO_EMAI>hwarchal@nsf.gov</PO_EMAI>
+<PO_PHON>7032924861</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[We intend to build a comprehensive research program in the mathematical modeling of micro/nanoscale phenomenology and metrology, with the overall objective to develop a multi-scale multi-physics simulation methodology based on the Boltzmann equation (BE) and molecular dynamics (MD) for micro- and nano-scale flows of engineering interest.  To circumvent the computational challenge for directly solving the Boltzmann equation, we will utilize the lattice Boltzmann equation (LBE) as a reduced kinetic system, and allow systematic increase in its complexity and ability to model higher Knudsen number (Kn) flows by increasing the number of discrete velocities and augmenting the complexity of the collision model with multiple relaxation times.  To overcome a deficiency in kinetic theory for gas flows in nano-scale confinements, i.e., its inability to include the van der Waals interactions between the gas and surface molecules, and other surface physics effects, we propose to develop a molecular dynamics (MD) method for gas flows that will reduce the computational cost by about three orders of magnitude. The MD method will also be used to extract mean-field potentials for gas-surface interactions to be included in the LBE models for micro-flows.  To achieve our&lt;br/&gt;objective, we propose kinetic-theory based mesoscopic models which include consistent mean-field potentials extracted from MD for gas-surface interactions. We do not believe it is a viable approach to stitch together, in an ad hoc fashion, models which are valid in different physical regimes of disparately different scales, such as the Navier-Stokes equations for macroscopic continua and molecular dynamics for microscopic systems.  We expect the proposed method to properly model both the nonequilibrium effects due to non-zero Kn and the surface effects due to gas-surface interactions, which are crucial in micro- and nano-flows.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The success of the proposed research will have broad and significant impact on modeling and simulation of micro- and nano-flows, which have important and wide range of applications in micro-fluidics for bio-medical and other applications. Practical examples are micro-inertial sensors or micro-mirror arrays. Our research will also train graduate students to become qualified workforce for our nation in fast growing areas of engineering and science, which are crucial to our national economy and security.]]></AbstractNarration>
+<MinAmdLetterDate>06/20/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/20/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0807983</AwardID>
+<Investigator>
+<FirstName>Ali</FirstName>
+<LastName>Beskok</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ali Beskok</PI_FULL_NAME>
+<EmailAddress><![CDATA[abeskok@odu.edu]]></EmailAddress>
+<NSF_ID>000293217</NSF_ID>
+<StartDate>06/20/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Li-Shi</FirstName>
+<LastName>Luo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Li-Shi Luo</PI_FULL_NAME>
+<EmailAddress><![CDATA[lluo@odu.edu]]></EmailAddress>
+<NSF_ID>000258116</NSF_ID>
+<StartDate>06/20/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Old Dominion University Research Foundation</Name>
+<CityName>NORFOLK</CityName>
+<ZipCode>235082561</ZipCode>
+<PhoneNumber>7576834293</PhoneNumber>
+<StreetAddress>4111 MONARCH WAY</StreetAddress>
+<StreetAddress2><![CDATA[STE 204]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DSLXBD7UWRV6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OLD DOMINION UNIVERSITY RESEARCH FOUNDATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X6KEFGLHSJX7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Old Dominion University]]></Name>
+<CityName>Norfolk</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>235290001</ZipCode>
+<StreetAddress><![CDATA[5115 Hampton Blvd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~265000</FUND_OBLG>
+</Award>
+</rootTag>

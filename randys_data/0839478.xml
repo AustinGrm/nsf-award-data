@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Work Softening and Dynamic Mechanical Analysis to Reduce Tissue Trauma during Surgical Retraction</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>99571</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gregory T. Baxter</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research (SBIR) Phase I research develops new&lt;br/&gt;technologies to reduce the tissue damage that occurs when a surgeon opens a patient's chest during surgery. Currently, chests are pried open by a surgeon with a simple mechanical jack, called a retractor, which is relatively unchanged from designs developed 70 years ago. This project is applying technologies from sensors, computation, automation, and biomechanics to develop a retractor that decreases tissue damage, such as broken ribs, torn ligaments, and damaged nerves. Specifically in this Phase 1 project, we will be combining sensors, actuators, and a novel biomechanical process to test new techniques for retraction. &lt;br/&gt;&lt;br/&gt;The broader impacts of this research are to reduce the pain and medical complications that arise after the nearly 1 million chest surgeries that occur in the US each year. Most pain after chest surgery is due not to the surgical procedure inside the chest, but to the opening of the chest and to the retraction. Damage to the tissues of the chest, and ensuing pain, both contribute to medical complications, such as impaired respiratory function, to longer hospital stays, and, ultimately, to expensive additional post-surgical care. The goal for this new retractor is to improve patient quality of life, shorten hospital stays, and decrease medical expenses for surgery.</AbstractNarration>
+<MinAmdLetterDate>11/07/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/21/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839478</AwardID>
+<Investigator>
+<FirstName>Hugh</FirstName>
+<LastName>Crenshaw</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hugh C Crenshaw</PI_FULL_NAME>
+<EmailAddress>hugh.crenshaw@physcient.com</EmailAddress>
+<PI_PHON>9194137207</PI_PHON>
+<NSF_ID>000505159</NSF_ID>
+<StartDate>11/07/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Physcient, Inc.</Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277012852</ZipCode>
+<PhoneNumber>9196860300</PhoneNumber>
+<StreetAddress>112 S DUKE ST STE 4A</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>PZ6WFQK7Z1F4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PHYSCIENT, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Physcient, Inc.]]></Name>
+<CityName>DURHAM</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277012852</ZipCode>
+<StreetAddress><![CDATA[112 S DUKE ST STE 4A]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; DEVICE TEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5345</Code>
+<Text>BIOMEDICAL ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9267</Code>
+<Text>INSTRUMENTATION &amp; LAB IMPROVE.</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~99571</FUND_OBLG>
+</Award>
+</rootTag>

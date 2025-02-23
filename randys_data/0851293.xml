@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[REU SITE: An Undergraduate Research Program in Biomedical Applications in Computer Science]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>320686.00</AwardTotalIntnAmount>
+<AwardAmount>320686</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maria Zemankova</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[&lt;br/&gt; &lt;br/&gt;This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;The Hope College REU program in Computer Science provides promising undergraduates with an intensive and meaningful research experience that encourages them to consider a career in computer science research. The three year summer program exposes students to the techniques, attitudes, and rewards of computer science research, and provides encouragement and direction in the pursuit of research careers through close collaboration with faculty mentors on significant projects. The project engages students in projects that are focused on the intellectual theme of biomedical applications. &lt;br/&gt;&lt;br/&gt;Each year, the project supports the ten students, at least five of whom are from institutions other than Hope College. The students spend a minimum of 40 hours per week for 9 weeks on research activities. These students join at most five Hope College undergraduates on research teams that work with four faculty mentors. The mentors each lead a team of undergraduates in working on a research project that is usually part of the mentor?s research program. The study of the mechanics of research is a key component. Participants prepare a research report, a poster representing their work, and an online presentation of their research work and results. They also give presentations of the research at their home institutions. This continuing site (17 years) is redoubling efforts to recruit female and minority students and mentors. &lt;br/&gt;&lt;br/&gt;Intellectual Merit: The research projects are drawn from a number of important fields of Computer Science including bioinformatics, algorithms, wireless networks, and programming environment research, with focus on modern biomedical applications. &lt;br/&gt;&lt;br/&gt;Broader Impact: This program provides a model for a successful undergraduate research program that encourages the development of other strong programs involving a diverse group of faculty and students. It also prepares a cohort of undergraduates for successful research careers.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>06/26/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2009</MaxAmdLetterDate>
+<ARRAAmount>320686</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0851293</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Jipping</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael J Jipping</PI_FULL_NAME>
+<EmailAddress><![CDATA[jipping@cs.hope.edu]]></EmailAddress>
+<NSF_ID>000323735</NSF_ID>
+<StartDate>06/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Hope College</Name>
+<CityName>HOLLAND</CityName>
+<ZipCode>494233626</ZipCode>
+<PhoneNumber>6163957316</PhoneNumber>
+<StreetAddress>35 E 12TH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YBR2AJ9X4BK9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>HOPE COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Hope College]]></Name>
+<CityName>HOLLAND</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>494233626</ZipCode>
+<StreetAddress><![CDATA[35 E 12TH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1139</Code>
+<Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~320686</FUND_OBLG>
+</Award>
+</rootTag>

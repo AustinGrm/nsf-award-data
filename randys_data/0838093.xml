@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Studies of the Structure of the Earth's Interior</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>70000.00</AwardTotalIntnAmount>
+<AwardAmount>70000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030204</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robin Reichlin</SignBlockName>
+<PO_EMAI>rreichli@nsf.gov</PO_EMAI>
+<PO_PHON>7032928556</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is funded under the American Recovery and Reinvestiment Act of 2009 &lt;br/&gt;(Public Law 111-5) &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Abstract &lt;br/&gt;&lt;br/&gt;During the last quarter of a century many 3-D models of the mantle, or its part, have been derived. However, most of them describe only one parameter (for example, S-velocity) and are based on a data set that is limited to a narrow range of frequencies. This has limited the range of conclusions that could have been drawn from these models. Here we request two-year support for investigation of elastic and density structure of the Earth's interior using a wide variety of seismic data, with resolution spanning depth range from the surface to the Earth's center and frequencies from 1Hz to 0.3 MHz. In particular, we propose to: &lt;br/&gt;start with Kustowski et al. (2008) data sets, programs, and models &lt;br/&gt;assemble an additional data set of normal mode center frequencies &lt;br/&gt;assemble an additional data set of normal mode splitting functions &lt;br/&gt;assemble an additional data set of ISC travel times and other sets of travel time data, including a large set of waveform derives travel times measured at Scripps Institution of Oceanography. &lt;br/&gt;integrate the three new data sets with those used by Kustowski et al.(2008) to invert for a 3-D mantle model that includes radically anisotropic elastic bulk sound and shear velocities and the topographies of the 410 km, 650km and core-mantle boundary. &lt;br/&gt;&lt;br/&gt;The new database, covering a wide range of frequencies, will allow us to perform joint inversion for elastic parameters and density, and investigate the importance of large-scale isotropic and anisotropic variations within the mantle. The simultaneous inversion will assure self-consistency. It will put stronger constraint on density structure compared to mode-only inversion by limiting leakage of power from elastic variations to density. The robustness of the density heterogeneity will be established with this data set, and will contribute to resolution of the controversy surrounding the elusive, and yet important, density model. These new elastic and density models will play a major role in addressing such questions as the dynamics of the mantle, its thermal and chemical state, and distribution of partial melt. &lt;br/&gt;&lt;br/&gt;Intellectual Merit. The proposed research will lead to a suite of models describing the variations in elastic parameters (isotropic and anisotropic seismic wave speed perturbations) and density within Earth's mantle. It will address the controversy surrounding three-dimensional density model. The new models will provide basis for testing relative importance of thermal and chemical variations as well as partial melting and different scenarios for mantle convection. &lt;br/&gt;&lt;br/&gt;Broader Impacts. The new model will provide important information for geodynamicists, geo-chemists, mineral physicists and, of course, seismologists. Combination of the new models Provides essential constraint on the understanding of the state of the mantle (i.e., heterogeneity in thermal and compositional anomalies, and partial melt). They are also closely related to dynamics, and can be used in studies such as those on mantle convection and large-scale gravity modeling. This project will also be a part of a museum display on solid Earth that is being planned for 2007-2009 at the Harvard Museum of Natural History. &lt;br/&gt; &lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>07/31/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/31/2009</MaxAmdLetterDate>
+<ARRAAmount>70000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0838093</AwardID>
+<Investigator>
+<FirstName>Goran</FirstName>
+<LastName>Ekstrom</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Goran Ekstrom</PI_FULL_NAME>
+<EmailAddress>ekstrom@ldeo.columbia.edu</EmailAddress>
+<NSF_ID>000106337</NSF_ID>
+<StartDate>07/31/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100276902</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>2960 Broadway</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>049179401</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>049179401</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia University Lamont Doherty Earth Observatory]]></Name>
+<CityName>Palisades</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>10964</ZipCode>
+<StreetAddress><![CDATA[Rt 9W]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1574</Code>
+<Text>Geophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1031</Code>
+<Text>STUDIES OF THE EARTH'S DEEP INTERIOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~70000</FUND_OBLG>
+</Award>
+</rootTag>

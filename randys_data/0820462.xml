@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research:  Geography, Trade, and Prices</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>263998</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050100</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Niloy Bose</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Geography, Trade, and Prices&lt;br/&gt;SBE-SES 0820536 and 0820462&lt;br/&gt;Broda and Weinstein, Collaborative&lt;br/&gt;&lt;br/&gt;At the heart of almost all explanations of why Americans benefit or lose from international trade is a notion that foreign goods should affect firms and consumers through their impact on domestic prices. Unfortunately, the data has not been kind to these theories. Studies have repeatedly found that domestic prices are hardly affected by foreign prices. Thus, one is left with a paradox. Although globalization seems anecdotally to be exerting profound effects on the US economy, the data seems to indicate that our borders insulate us almost completely from foreign price movements.&lt;br/&gt; Our project solves this puzzle by using vast amounts of US and Canadian barcode data. Previous studies relied on price indexes computed by governments or private price surveys of goods that were not necessarily internationally comparable. Our barcode data reveals that there is substantial heterogeneity in the set of goods consumed across cities in the US, even in extremely narrowly defined product categories such as "milk". This heterogeneity enables producers to charge different prices for these goods across space and substantially insulates them from price changes charged by other producers. Not surprisingly, there are also substantial differences in the composition of goods consumed in Canada and the US. Brands and models differ to such an extent that only about 10 percent of the goods consumed are identical. &lt;br/&gt; These two facts help explain why borders loomed so large in previous work. When comparing aggregate indexes across countries, researchers typically compared average price movements of largely disjoint sets of goods. Movements in the price of Coca Cola in the US might perfectly mirror movement of Coca Cola in Canada, but if Statistics Canada were only including RC Cola in their price indexes, the effects would appear much smaller. Our preliminary results suggest that international price differences for the same good tend to be only slightly larger across borders than they are within countries, but the borders seem much larger if one uses (poor) data that compares one set of goods in one country with another set of goods in a different country.&lt;br/&gt; This heterogeneity of goods also helps us to understand how price shocks are transmitted across borders. Again the barcode data reveals that much of the importance of the border in this transmission is due to an aggregation bias. If one compares identical goods across the border, price changes in Canada translate very rapidly into price movements in the US. In other words, the project demonstrates that international price movements have rapid and large impacts on US prices. However, if one were to look at price transmission using indices, one would obtain the opposite conclusion. &lt;br/&gt;We intend to disseminate the results from this research through the publication of articles and the participation in conferences. Moreover, we will work with statistical agencies and monetary authorities to help improve the measurement of prices and formulation of policy. This research will also have a cross-disciplinary/cross-institutional dimension. Some of the work will be joint with Dr. Ephraim Leibtag at the Department of Agriculture. We expect that our work will be useful for people interested in understanding the impact of globalization on unskilled workers as well as on pricing behavior.</AbstractNarration>
+<MinAmdLetterDate>06/25/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/24/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0820462</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Weinstein</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David Weinstein</PI_FULL_NAME>
+<EmailAddress>dew35@columbia.edu</EmailAddress>
+<NSF_ID>000116454</NSF_ID>
+<StartDate>06/25/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100276902</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>2960 Broadway</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>049179401</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>049179401</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100276902</ZipCode>
+<StreetAddress><![CDATA[2960 Broadway]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1320</Code>
+<Text>Economics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1352</Code>
+<Text>Geography and Spatial Sciences</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~111076</FUND_OBLG>
+<FUND_OBLG>2009~152922</FUND_OBLG>
+</Award>
+</rootTag>

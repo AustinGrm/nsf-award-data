@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[iQUEST: investigations for Quality Understanding and Engagement for Students and Teachers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>1493541.00</AwardTotalIntnAmount>
+<AwardAmount>1493541</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DRL</Abbreviation>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Edith Gummer</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[California State University at San Marcos, Rochester Institute of Technology, San Diego County Office of Education, San Diego Science Alliance, K-12 High Speed Network, California State Parks, and eight southern California middle schools are collaborating to develop, implement, and evaluate teacher professional development and student learning experiences to enhance science and information and communication technologies (ICT) learning among underrepresented and economically disadvantaged students (primarily Hispanic and Native American) in grades 7 and 8. The major goal of the project is to promote workforce diversity by working with focal students to ensure their readiness for, and interest and participation in, ICT-intensive careers. &lt;br/&gt;&lt;br/&gt;Major project activities include (1) developing ICT-enhanced STEM learning modules and resources for use in middle school physics, chemistry, and life science coruses, (2) preparing 32 ICT-savvy teachers from target schools in five school districts, and (3) providing students with ICT-intensive summer camps. The curriculum component addresses grade-appropriate science and technology standards by developing classroom-based science investigation modules that employ ICT technologies such as videoconferencing, interactive games, probeware, visualizations, web resources, and social networking tools (Moodle). &lt;br/&gt;&lt;br/&gt;Thirty-two teachers are receiving professional development for two or three years by attending Summer Academies and engaging in year-long activities that include Lesson Study and action research. Project staff, scientists, and computer science graduate students are providing ongoing classroom support. Project teachers will impact an estimated 10,000 students. An additional 100 teachers in the region will be exposed to project resources through workshops conducted by project teachers, reaching another 15,000 students. The evaluation/research plan is using a quasi-experimental study to investigate how participation in the project impacts students' course selection in high school and career interests, and how teachers implement project materials and change classroom practices.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>09/22/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/22/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0833753</AwardID>
+<Investigator>
+<FirstName>Youwen</FirstName>
+<LastName>Ouyang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Youwen Ouyang</PI_FULL_NAME>
+<EmailAddress><![CDATA[ouyang@csusm.edu]]></EmailAddress>
+<NSF_ID>000359084</NSF_ID>
+<StartDate>09/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Katherine</FirstName>
+<LastName>Hayden</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Katherine L Hayden</PI_FULL_NAME>
+<EmailAddress><![CDATA[khayden@csusm.edu]]></EmailAddress>
+<NSF_ID>000452815</NSF_ID>
+<StartDate>09/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California State University San Marcos Corporation</Name>
+<CityName>SAN MARCOS</CityName>
+<ZipCode>920960001</ZipCode>
+<PhoneNumber>7607504703</PhoneNumber>
+<StreetAddress>333 S TWIN OAKS VALLEY RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA50</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EKHKFP33NN53</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CALIFORNIA STATE UNIVERSITY SAN MARCOS CORP</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[California State University, San Marcos]]></Name>
+<CityName>SAN MARCOS</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>920960001</ZipCode>
+<StreetAddress><![CDATA[333 S TWIN OAKS VALLEY RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7227</Code>
+<Text>ITEST-Inov Tech Exp Stu &amp; Teac</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9177</Code>
+<Text>ELEMENTARY/SECONDARY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~1493541</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I: Fabrication of Nanobattery Systems Using Femtosecond Laser Machining]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>144706</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+<PO_EMAI>mnair@nsf.gov</PO_EMAI>
+<PO_PHON>7032927059</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This Small Business Innovation Research Phase I research project will use femtosecond laser machining to fabricate Lithium ion based nanobatteries composed of arrays of nanocells. In addition, an array of addressable batteries will also be constructed. A femtosecond laser is a powerful tool to machine features on a variety of materials in the nanoscale regime. These batteries will be grown on flexible, polymer substrates. Each nanocell will be around 20 nm to 50 nm in diameter. High surface area to volume ratio should lead to light weight, high-power, safe and reliable batteries with extremely fast recharging times. &lt;br/&gt;&lt;br/&gt;The broader impact of this project is that the nanoscale laser machining techniques that will be developed for this project can be readily adapted to apply to other technologies to fabricate nanosensors, nanoactuators, one nanodevice at a time. Also, nanobatteries are expected to overcome the current limitations of conventional batteries (high weight and volume, slow recharging times etc) and will find applications in diverse industries like defense, transportation (aviation and automobiles), communications (power for satellites) and consumer electronics. The nanobateries can potentially replace conventional batteries in a wide range of applications. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>11/07/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/08/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839270</AwardID>
+<Investigator>
+<FirstName>Jacob</FirstName>
+<LastName>Conner</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jacob Conner</PI_FULL_NAME>
+<EmailAddress><![CDATA[jake@usphotonics.net]]></EmailAddress>
+<NSF_ID>000505247</NSF_ID>
+<StartDate>11/07/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>US Photonics, Inc</Name>
+<CityName>SPRINGFIELD</CityName>
+<ZipCode>658040429</ZipCode>
+<PhoneNumber>4178639027</PhoneNumber>
+<StreetAddress>1956 E GRAND ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JVDMGZLM7YN5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>US PHOTONICS INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>W787GAAUH955</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[US Photonics, Inc]]></Name>
+<CityName>SPRINGFIELD</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>658040429</ZipCode>
+<StreetAddress><![CDATA[1956 E GRAND ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7257</Code>
+<Text>APPLICATS OF ADVANCED TECHNOLS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9139</Code>
+<Text>INFORMATION INFRASTRUCTURE &amp; TECH APPL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~144706</FUND_OBLG>
+</Award>
+</rootTag>

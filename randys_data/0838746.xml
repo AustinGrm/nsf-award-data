@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Student and Minority Faculty Travel Support for ACM SIGCOMM 2008 Conference; Seattle, Washington;  August 17-22, 2008</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>28630.00</AwardTotalIntnAmount>
+<AwardAmount>28630</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Darleen Fisher</SignBlockName>
+<PO_EMAI>dlfisher@nsf.gov</PO_EMAI>
+<PO_PHON>7032928950</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>0838746&lt;br/&gt;Karen Sollins&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The 2008 ACM Conference on Communications Architectures, Protocols and Applications will be held in Seattle, WA, August 17-22, 2008. This conference is the premier technical meeting that examines the state-of-the-art in computer networks and communications. This award provides funding to assist approximately 16 United States-based (including Puerto Rico) graduate students as well as approximately 2 U.S.-based under-represented minority (including women) faculty members or faculty members of U.S. institutions that are primarily serving under-represented minorities in attending this meeting. Participation in conferences such as SIGCOMM is an extremely important part of the graduate school experience, as well as an important part of the teaching and research in data networking. It provides the opportunity to interact with more senior researchers and to be exposed to leading edge research in the field. The support requested in this proposal will enable the participation of students and minority or minority serving faculty members who would otherwise be unable to attend AMC SIGCOMM 2008. The Travel Grant committee and SIGCOMM are committed to encouraging the participation of women and under-represented minorities.&lt;br/&gt;&lt;br/&gt;Intellectual Merit: This project proposes to provide travel support for graduate students and minority and minority-serving faculty members to attend SIGCOMM 2008. This will expose them to new ideas and allow for interaction with other researchers.&lt;br/&gt;&lt;br/&gt;Broader Impact This project integrates research and education of students through exposure to the premier technical meeting in computer networks and communications. Students and minority faculty will have the opportunity to observe high-quality presentation and interact with senior researchers in the field. The proposed student participation will have positive impact on students? interest and the quality of their research. The faculty participation will have an impact on teaching, the quality of the research and on their own students? research in their home institutions.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>07/07/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/07/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0838746</AwardID>
+<Investigator>
+<FirstName>Karen</FirstName>
+<LastName>Sollins</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Karen R Sollins</PI_FULL_NAME>
+<EmailAddress>sollins@csail.mit.edu</EmailAddress>
+<PI_PHON>6172536006</PI_PHON>
+<NSF_ID>000174236</NSF_ID>
+<StartDate>07/07/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NYLCDML6V1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E2NYLCDML6V1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021394301</ZipCode>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~28630</FUND_OBLG>
+</Award>
+</rootTag>

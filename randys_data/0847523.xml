@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Antimony-Based Nanowires and Nanowire Heterostructures: Synthesis and Characterization</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>422522.00</AwardTotalIntnAmount>
+<AwardAmount>422522</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070004</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Z.  Ying</SignBlockName>
+<PO_EMAI>cying@nsf.gov</PO_EMAI>
+<PO_PHON>7032928428</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;Technical: This CAREER project includes integrated research and education activities. Group III-V antimony based semiconductors exhibit the smallest band gaps and highest electron mobilities of any known semiconductors yet their device exploration is limited. This is mainly due to the difficulties in growing antimony-based materials with high quality and the lack of a lattice-matched, semi-insulating substrate. Nanowire growth has the potential to overcome these difficulties. The objective of this research project is to synthesize antimony-based nanowires and nanowire heterostructures with high quality and novel electronic and opto-electronic properties. The project consists of the following research activities: investigation of the growth methods to synthesize undoped and doped nanowires; development of successful strategies to grow coaxial and axial nanowire heterostructures; demonstration of different types of nanowire heterostructures; characterization of nanowires and nanowire heterostructures using electron microscopy, optical, electrical, and optoelectronic measurements; evaluation of their potentials for nano-electronics and nano-photonics applications through device fabrications and performance investigations. Success of the research is expected to contribute to the development of a universal approach to grow nanostructures based on group III-antimony material system in a controlled and sophisticated manner as well as detailed understanding on properties, especially electronic properties, of group III-antimony nanowires.&lt;br/&gt;Non-technical: The project addresses basic electronic/photonic materials research issues in a topical area of materials science with high technological relevance. The success of the research activities will enable development of devices that will impact important technical areas such as light emission and detection, telecommunications, computing, and sensors. The project includes an integrated education and outreach program that aims at addressing critical challenges in current nanoscience education for audience ranging from graduate students to K-12. This includes 1) the development of a new interdisciplinary course on "Physics and Chemistry of Nanometerials" at Purdue University, 2) the integration of undergraduate students into nano-related research programs by participation in the Summer Undergraduate Research Fellowship (SURF) program, 3) a National Center for Learning and Teaching of Nanoscience and Nanotechnology Workshop for 7-16 teachers, 4) the development of new demonstration modules for an existing nano-museum and the dissemination of results through various web-based tools as the nano-HUB, and 5) an effort on mentoring underrepresented student group through Women in Science.</AbstractNarration>
+<MinAmdLetterDate>06/26/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2009</MaxAmdLetterDate>
+<ARRAAmount>422522</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0847523</AwardID>
+<Investigator>
+<FirstName>Chen</FirstName>
+<LastName>Yang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chen Yang</PI_FULL_NAME>
+<EmailAddress>cheyang@bu.edu</EmailAddress>
+<NSF_ID>000080459</NSF_ID>
+<StartDate>06/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>West Lafayette</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>2550 Northwestern Ave.</StreetAddress>
+<StreetAddress2><![CDATA[Suite 1900]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>072051394</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>072051394</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>West Lafayette</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479061332</ZipCode>
+<StreetAddress><![CDATA[2550 Northwestern Ave.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0106000</Code>
+<Name>Materials Research</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1187</Code>
+<Text>PECASE- eligible</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6863</Code>
+<Text>SEBML-MOORE'S LAW</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9161</Code>
+<Text>SINGLE DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>AMPP</Code>
+<Text>ADVANCED MATERIALS &amp; PROCESSING PROGRAM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~422522</FUND_OBLG>
+</Award>
+</rootTag>

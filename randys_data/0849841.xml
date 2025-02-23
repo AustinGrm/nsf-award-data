@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Pathways to Student Success in the Sciences]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>597791.00</AwardTotalIntnAmount>
+<AwardAmount>597791</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joyce B. Evans</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The Mathematical Sciences Department at Morningside College is proposing a program entitled Pathways to Student Success in the Sciences, involving disciplinary faculty from mathematics, computer science and physics.  The program is to increase the number of majors in the three disciplines by 20% with a special emphasis on increasing the number in underrepresented groups.  Year-to-year retention is to be improved with the intention of increasing to 15% the number of students in the three disciplines who elect to attend graduate school. The program is to provide 25 S-STEM scholarships per year over 4 years. In addition workshops on the use of the computer software Alice are to be conducted for at least 30 middle and high school teachers.  &lt;br/&gt;&lt;br/&gt;The Intellectual Merit of the program is that it will recruit talented students into S-STEM and provide them with the academic and professional support they need to succeed.&lt;br/&gt;&lt;br/&gt;The Broader Impacts of the program is to create a larger and more talented pool of workers in S-STEM related occupations thus increasing access to these occupations by underrepresented groups.]]></AbstractNarration>
+<MinAmdLetterDate>02/06/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>12/16/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0849841</AwardID>
+<Investigator>
+<FirstName>Randolph</FirstName>
+<LastName>Campbell</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Randolph E Campbell</PI_FULL_NAME>
+<EmailAddress><![CDATA[campbell@morningside.edu]]></EmailAddress>
+<NSF_ID>000338207</NSF_ID>
+<StartDate>02/06/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Canning</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eric Canning</PI_FULL_NAME>
+<EmailAddress><![CDATA[canning@morningside.edu]]></EmailAddress>
+<NSF_ID>000506774</NSF_ID>
+<StartDate>02/06/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dave</FirstName>
+<LastName>Slaven</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dave Slaven</PI_FULL_NAME>
+<EmailAddress><![CDATA[slaven@morningside.edu]]></EmailAddress>
+<NSF_ID>000508593</NSF_ID>
+<StartDate>02/06/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>MORNINGSIDE UNIVERSITY</Name>
+<CityName>SIOUX CITY</CityName>
+<ZipCode>511061717</ZipCode>
+<PhoneNumber>7122745100</PhoneNumber>
+<StreetAddress>1501 MORNINGSIDE AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>J7SRMNEAHD36</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MORNINGSIDE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>J7SRMNEAHD36</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[MORNINGSIDE UNIVERSITY]]></Name>
+<CityName>SIOUX CITY</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>511061717</ZipCode>
+<StreetAddress><![CDATA[1501 MORNINGSIDE AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EHR, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~155697</FUND_OBLG>
+<FUND_OBLG>2010~442094</FUND_OBLG>
+</Award>
+</rootTag>

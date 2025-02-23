@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Biodiesel and POGIL for non-STEM majors: Three Applications</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>67068.00</AwardTotalIntnAmount>
+<AwardAmount>67068</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joseph Grabowski</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Chemistry(12)  A collaboration between faculty at a large comprehensive state university, a private liberal arts college and a two-year public community college is developing, testing and disseminating three Process Oriented Guided Inquiry Learning (POGIL) teaching modules based on a common theme related to the manufacture and use of biodiesel.  The adaptation of POGIL and biodiesel for teaching non-STEM majors is original and unique. Moreover, this project is innovative in its use of "en masse interactive laboratories" for large-enrollment courses and its application of POGIL to environmental science courses.  The POGIL modules are being used to enhance the student's knowledge, science literacy, inquiry and appreciation of science for students in non-science majors chemistry courses and environmental science courses taught at each institution.  An additional intellectual merit is that this collaboration is advancing knowledge and understanding in science, technology, engineering, and mathematics (STEM) education of non-STEM students. There are two primary broader impacts of the new POGIL modules.  First, biodiesel production and utilization is an excellent avenue for introducing scientific principles and enhancing the scientific literacy for students not intending to major in science because students find the biodiesel thematic topic engaging and the POGIL pedagogy is sustaining that engagement.  Second, this project is providing valuable information on how to implement POGIL modules at three institutions with very divergent student profiles.</AbstractNarration>
+<MinAmdLetterDate>03/03/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/03/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0837028</AwardID>
+<Investigator>
+<FirstName>Guang</FirstName>
+<LastName>Jin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Guang Jin</PI_FULL_NAME>
+<EmailAddress>gjin@ilstu.edu</EmailAddress>
+<NSF_ID>000360962</NSF_ID>
+<StartDate>03/03/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Bierma</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thomas Bierma</PI_FULL_NAME>
+<EmailAddress>tbierma@ilstu.edu</EmailAddress>
+<NSF_ID>000317673</NSF_ID>
+<StartDate>03/03/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Board of Trustees of Illinois State University</Name>
+<CityName>Normal</CityName>
+<ZipCode>617603040</ZipCode>
+<PhoneNumber>3094382528</PhoneNumber>
+<StreetAddress>100 S Fell Ave</StreetAddress>
+<StreetAddress2><![CDATA[Campus Box 3040]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_ORG/>
+<ORG_DUNS_NUM>001898142</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>BOARD OF TRUSTEES OF ILLINOIS STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>001898142</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Board of Trustees of Illinois State University]]></Name>
+<CityName>Normal</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>617603040</ZipCode>
+<StreetAddress><![CDATA[100 S Fell Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_PERF/>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0409</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000910DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>1300CYXXDB</Code>
+<Name><![CDATA[H-1B FUND, EHR, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~67068</FUND_OBLG>
+</Award>
+</rootTag>

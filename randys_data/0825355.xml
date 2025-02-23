@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Ecological Genomics of a Global Amphibian Pathogen]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090300</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mary Beth Saffo</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Earth is in the midst of a global biodiversity crisis.  Species are disappearing at alarming rates.  The causes of these extinctions are complex, but emerging diseases play an important role, particularly for amphibians.  Ten years ago a new disease caused by a deadly fungus was discovered in frogs.  This chytrid fungus has now infected hundreds of species all around the world.  Despite intensive research efforts, little is still known about how chytrid kills frogs.  This project will use new genomic based techniques to study chytrid.  Whole genome sequences (the complete genetic information encoded in chytrid DNA) will be obtained for chytrid strains from different parts of the world and from different environmental conditions.  This work will help elucidate why certain strains of chytrid are more deadly than others and will help identify particular genes that are important for chytrid's ability to attack frogs.  This project takes a cutting-edge approach to an important disease problem and will benefit conservation efforts in frogs. Results from this research may also provide more general clues about the genetics of fungal pathogens, such as those affecting humans.  From an educational standpoint the findings from this research can be used as a teaching tool to show how creative approaches to environmental problems can have a positive impact on global biodiversity.]]></AbstractNarration>
+<MinAmdLetterDate>06/03/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/03/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0825355</AwardID>
+<Investigator>
+<FirstName>Erica</FirstName>
+<LastName>Rosenblum</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Erica B Rosenblum</PI_FULL_NAME>
+<EmailAddress><![CDATA[rosenblum@berkeley.edu]]></EmailAddress>
+<NSF_ID>000149387</NSF_ID>
+<StartDate>06/03/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Idaho</Name>
+<CityName>MOSCOW</CityName>
+<ZipCode>838449803</ZipCode>
+<PhoneNumber>2088856651</PhoneNumber>
+<StreetAddress>875 PERIMETER DR MS 3020</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Idaho</StateName>
+<StateCode>ID</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>ID01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QWYKRJH5NNJ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF IDAHO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of the University of Idaho]]></Name>
+<CityName>MOSCOW</CityName>
+<StateCode>ID</StateCode>
+<ZipCode>838449803</ZipCode>
+<StreetAddress><![CDATA[875 PERIMETER DR MS 3020]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Idaho</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>ID01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7656</Code>
+<Text>Symbiosis Infection &amp; Immunity</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1683</Code>
+<Text>POSTDOCTORAL STARTER GRANTS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~50000</FUND_OBLG>
+</Award>
+</rootTag>

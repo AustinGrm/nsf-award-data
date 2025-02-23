@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Critical points of variational integrals]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2007</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>96261.00</AwardTotalIntnAmount>
+<AwardAmount>96261</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce P. Palka</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[&lt;br/&gt;Critical Points of Variational Integrals&lt;br/&gt;&lt;br/&gt;Abstract of Proposed Research&lt;br/&gt; Xiaodong Yan&lt;br/&gt;&lt;br/&gt;This project is to study the regularity of critical points of multiple integrals in the calculus of variations; especially some of the integrands that arise from nonlinear elasticity. Also some questions that generalize well-known results in classical analysis. One project is to investigate conditions on the integrands that guarantee certain partial regularity of critical points. In particular the regularity of certain systems that are models in nonlinear elasticity will be studied. This will include both compressible and incompressible materials. Another project is to study the regularity and qualitative properties of the solutions of certain systems of nonlinear integral equations. These systems are closely related to the systems that arise in the Hardy-Littlewood-Sobolev inequality.&lt;br/&gt;&lt;br/&gt;The questions to be studied in this project are important technical results in analysis and the calculus of variations. Any results would be of considerable interest as there has been much research on these, and related, subjects during the last twenty years. The problems in nonlinear elasticity may lead to insights into the behavior of exotic materials while the other problems may be of importance for some questions in geometry. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>11/09/2007</MinAmdLetterDate>
+<MaxAmdLetterDate>12/23/2011</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0805582</AwardID>
+<Investigator>
+<FirstName>Xiaodong</FirstName>
+<LastName>Yan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiaodong Yan</PI_FULL_NAME>
+<EmailAddress><![CDATA[xiaodong@math.uconn.edu]]></EmailAddress>
+<NSF_ID>000386653</NSF_ID>
+<StartDate>11/09/2007</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Connecticut</Name>
+<CityName>STORRS</CityName>
+<ZipCode>062691133</ZipCode>
+<PhoneNumber>8604863622</PhoneNumber>
+<StreetAddress>438 WHITNEY RD EXTENSION UNIT 11</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WNTPS995QBM7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CONNECTICUT</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D9SNFDRCW3W7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Connecticut]]></Name>
+<CityName>STORRS</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>062691133</ZipCode>
+<StreetAddress><![CDATA[438 WHITNEY RD EXTENSION UNIT 11]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<FUND_OBLG>2007~96261</FUND_OBLG>
+</Award>
+</rootTag>

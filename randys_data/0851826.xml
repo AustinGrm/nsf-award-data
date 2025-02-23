@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>REU Site: Multidisciplinary Physics at Purdue University</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kathleen McCloud</SignBlockName>
+<PO_EMAI>kmccloud@nsf.gov</PO_EMAI>
+<PO_PHON>7032928236</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).    The award supports an REU/RET which will provide 12 undergraduate physics majors from across the country with a ten week long genuine research project emphasizing one-to-one mentoring with faculty from a wide range of disciplines within the Purdue University Department of Physics. The participants in this REU program will collaborate with their mentors and other researchers to advance the diverse state-of-the-art areas of physics: nanophysics of electrons in reduced dimensional conductors, the dynamical behavior in proteins, the quantum mechanisms of photosynthesis, single molecule/protein dynamic imaging, the use of cosmogenic nuclei as chronometers in geoscience, detection of multiple proteins in a sample using revolutionary BioCD approach, particle detectors with improved hardness and resolution, detectors for TeV radiation, investigation of dark energy using supernovae, novel application of nuclear detectors for sensing hazardous materials, hydrogen storage properties of graphene, application of biofilms in seismic measurements, the fundamental nature of nuclear decay, enhanced long-baseline imaging for radio astronomy, seismic propagation in structures of geologic interest, optimization of Compact Muon Solenoid detector for Large Hadron Collider at CERN, and other current topics of importance.   Interactions with the community of scientists is emphasized with an interdisciplinary science seminar series, two required public talks on their research, field trips to national facilities at Fermilab and Argonne, plus picnics, ball games, and canoe trips. The weekly seminar initiated and hosted by Physics Department combines Physics REU participants with students from all other Purdue summer sites (REU &amp; SURF at Biology, Chemistry, Engineering etc.) to emphasize interdisciplinary opportunities and interactions among students across many fields.   Similar objectives are desired for two RET participants, whose research activities will be reflected in their subsequent classroom teaching, inspiring their own students about careers in research.</AbstractNarration>
+<MinAmdLetterDate>05/22/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>05/22/2009</MaxAmdLetterDate>
+<ARRAAmount>400000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0851826</AwardID>
+<Investigator>
+<FirstName>Sergei</FirstName>
+<LastName>Savikhin</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sergei F Savikhin</PI_FULL_NAME>
+<EmailAddress>sergei@purdue.edu</EmailAddress>
+<NSF_ID>000387365</NSF_ID>
+<StartDate>05/22/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Yeazell</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John A Yeazell</PI_FULL_NAME>
+<EmailAddress>jyeazell@purdue.edu</EmailAddress>
+<NSF_ID>000276727</NSF_ID>
+<StartDate>05/22/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>West Lafayette</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>2550 Northwestern Ave.</StreetAddress>
+<StreetAddress2><![CDATA[Suite 1900]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>072051394</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>072051394</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>West Lafayette</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479061332</ZipCode>
+<StreetAddress><![CDATA[2550 Northwestern Ave.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>9134</Code>
+<Text>Integrative Activities in Phys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1359</Code>
+<Text>RET SITE-Res Exp for Tchr Site</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~400000</FUND_OBLG>
+</Award>
+</rootTag>

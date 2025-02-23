@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Acquisition of a Quadrupole ICP-MS]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>246414.00</AwardTotalIntnAmount>
+<AwardAmount>246414</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Russell Kelz</SignBlockName>
+<PO_EMAI>rkelz@nsf.gov</PO_EMAI>
+<PO_PHON>7032924747</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[0821302&lt;br/&gt;Tomascak&lt;br/&gt;&lt;br/&gt;Funds from this Major Research Instrumentation (MRI) Program grant will support acquisition a quadrupole detection inductively coupled plasma mass spectrometer (quad ICP-MS) to allow for high precision trace element analysis of digested minerals, rocks, soils and sediments, natural waters and plant material.  The quad ICP-MS would support a range of research across the Departments of Geology, Chemistry and Biology at SUNY-Oswego including:  geochemical investigations of migmatite and granite petrogenesis;  investigations of paleoredox conditions associated with marine and lake sedimentation based on trace metal proxies; experimental studies of the effects of trace metals on insulin biochemistry; and studies of the phytoremediation potential of wetland vegetation for sequestering heavy metals in soils and waters.  SUNY-Oswego is a non-Ph.D. granting institution.  The ICP-MS will afford undergraduate and M.S. students the opportunity to gain hands-on experience with state-of the-art techniques for high precision elemental analysis of natural materials.  The PIs intend to incorporate ICP-MS lab exercises in a number of courses, one of which would include heavy metal analysis of drinking water samples retrieved from the Democratic Republic of Congo, where current public use of polluted water supplies is associated with high infant mortality.  Co-PI Kadima intends to work with the government of the Congo to improve public water use practices based on analysis of experimental data obtained with the requested ICP-MS.    &lt;br/&gt;&lt;br/&gt;***&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>09/02/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/06/2011</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0821302</AwardID>
+<Investigator>
+<FirstName>Webe</FirstName>
+<LastName>Kadima</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Webe Kadima</PI_FULL_NAME>
+<EmailAddress><![CDATA[kadima@oswego.edu]]></EmailAddress>
+<NSF_ID>000457818</NSF_ID>
+<StartDate>09/02/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Tomascak</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Paul B Tomascak</PI_FULL_NAME>
+<EmailAddress><![CDATA[tomascak@oswego.edu]]></EmailAddress>
+<NSF_ID>000116436</NSF_ID>
+<StartDate>09/02/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY College at Oswego</Name>
+<CityName>OSWEGO</CityName>
+<ZipCode>131263501</ZipCode>
+<PhoneNumber>3153122884</PhoneNumber>
+<StreetAddress>7060 STATE RTE 104</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DLV5DEVHGF38</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SUNY College at Oswego]]></Name>
+<CityName>OSWEGO</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>131263501</ZipCode>
+<StreetAddress><![CDATA[7060 STATE RTE 104]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY24</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1580</Code>
+<Text>Instrumentation &amp; Facilities</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~246414</FUND_OBLG>
+</Award>
+</rootTag>

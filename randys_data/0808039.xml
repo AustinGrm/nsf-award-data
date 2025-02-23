@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[DISSERTATION RESEARCH: Evaluation of the direct and indirect effects of predators on life history evolution in a Trinidadian killifish]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>11965.00</AwardTotalIntnAmount>
+<AwardAmount>11965</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010208</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alan Tessier</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The direct consumption of prey by predators has potent ecological and evolutionary consequences.  Yet, predators also have indirect effects.  Predators often decrease prey density which indirectly increases food availability to surviving individuals.  These ecological interactions could also influence evolutionary change because theoretical frameworks suggest that resource availability shapes the evolution of life histories (i.e. age at maturity, number of offspring).  This research investigates the potential link between the indirect effects of predators and the evolution of prey in natural fish populations on the island of Trinidad. Trinidadian killifish, Rivulus hartii are located in communities that differ in the presence of competitors and predators.  Since large changes in population density and likely food are correlated with the presence of additional fish species, evolution in Rivulus is likely influenced by the direct and indirect effects of these interspecific interactions.  &lt;br/&gt;&lt;br/&gt;This project will improve our understanding for how evolution works in nature, particularly with respect to interactions between evolutionary and ecological processes.  The specific topic is life history evolution, but the generalities of this research are more far-reaching.  This is because evolution in a natural setting will almost always involve the direct effects of organisms as they interact, but also their indirect consequences on the rest of the community, with resultant evolutionary change ultimately determined by interactions between these direct and indirect effects.  This work also offers numerous opportunities for undergraduates to obtain research experience.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>06/05/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/05/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0808039</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Reznick</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David N Reznick</PI_FULL_NAME>
+<EmailAddress><![CDATA[gupy@ucrac1.ucr.edu]]></EmailAddress>
+<NSF_ID>000161770</NSF_ID>
+<StartDate>06/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Walsh</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthew R Walsh</PI_FULL_NAME>
+<EmailAddress><![CDATA[matthew.walsh@email.ucr.edu]]></EmailAddress>
+<NSF_ID>000148238</NSF_ID>
+<StartDate>06/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Riverside</Name>
+<CityName>RIVERSIDE</CityName>
+<ZipCode>925210001</ZipCode>
+<PhoneNumber>9518275535</PhoneNumber>
+<StreetAddress>200 UNIVERSTY OFC BUILDING</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>39</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA39</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MR5QC5FCAVH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Riverside]]></Name>
+<CityName>RIVERSIDE</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>925210001</ZipCode>
+<StreetAddress><![CDATA[200 UNIVERSTY OFC BUILDING]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>39</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA39</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1182</Code>
+<Text>POP &amp; COMMUNITY ECOL PROG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~11965</FUND_OBLG>
+</Award>
+</rootTag>

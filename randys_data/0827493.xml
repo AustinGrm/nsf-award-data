@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[The Spider and the Web: Inference in Ecological Networks]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>636096.00</AwardTotalIntnAmount>
+<AwardAmount>636096</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08040000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EF</Abbreviation>
+<LongName>Emerging Frontiers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Saran Twombly</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Most living systems are comprised of complex networks of interactions; describing the structure of these networks and their dynamic properties is a major challenge for theoretical and empirical biologists. Food webs are paradigmatic of complex natural networks. Formed by species and their feeding relationships, they underlie the flow of energy through ecosystems and their responses to human-induced and environmental perturbations, including species' extinctions. Several simple models of food web structure exist, but these do not accurately represent the complexities present in real networks. The goals of this project are to develop new theory to extend simple models of food web structure, investigate biological mechanisms underlying this structure, examine the modularity of food webs, and consider networks quantitatively by incorporating interaction strengths among components. In particular, the researchers will address the effects of species extinctions on food web robustness and examine how stability at the level of an entire network results from instability of individual components. The resulting theory will provide a general framework to advance our understanding of food webs and diverse other complex biological networks.  &lt;br/&gt;&lt;br/&gt;The proposed research will contribute directly to education and outreach programs for grade school students, undergraduate and graduate students, and postdoctoral researchers. These activities will be coordinated through ongoing programs at the National Center for Ecological Analysis and Synthesis' 'Kids Do Ecology' program and through the University of Michigan. Web-based teaching modules and classroom presentations will introduce grade school students to ecology, complex systems, and mathematics by teaching them about many different types of biological networks. Seminars presented at Historically Minority Institutions and Minority Serving Institutions will introduce undergraduate students to careers in ecology and mathematics. Results from the project will be incorporated into graduate and undergraduate courses at University of Michigan.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/12/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>12/20/2013</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0827493</AwardID>
+<Investigator>
+<FirstName>Mercedes</FirstName>
+<LastName>Pascual</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mercedes Pascual</PI_FULL_NAME>
+<EmailAddress><![CDATA[pascualmm@uchicago.edu]]></EmailAddress>
+<NSF_ID>000165801</NSF_ID>
+<StartDate>08/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stefano</FirstName>
+<LastName>Allesina</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stefano Allesina</PI_FULL_NAME>
+<EmailAddress><![CDATA[sallesina@uchicago.edu]]></EmailAddress>
+<NSF_ID>000500865</NSF_ID>
+<StartDate>08/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Michigan - Ann Arbor</Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>1109 GEDDES AVE, SUITE 3300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091079</ZipCode>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7664</Code>
+<Text>THEORETICAL BIOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~636096</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Syntheses of Hyaluronan Oligosaccharides as Biological Probes</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/19/2008</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>404066.00</AwardTotalIntnAmount>
+<AwardAmount>404066</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tyrone Mitchell</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>With the support of this CAREER Award from the Organic and Macromolecular Chemistry Program, Professor Xuefei Huang, of the Department of Chemistry at the University of Toledo, will develop novel methods based on the reactivity-independent, one-pot strategy to assemble a library of synthetic, contaminant-free hyaluronan oligosaccharides (sHA) and sHA analogs with well defined structures, which will be useful tools for characterization of their biological interactions on a molecular level and provide exciting leads for developments of novel therapeutic interventions. The successful assembly of an sHA library will demonstrate the power and advantages of the reactivity-independent, iterative one-pot approach, and the knowledge gained from these studies will be invaluable to the preparation of oligosaccharide libraries in general.&lt;br/&gt;&lt;br/&gt;Professor Xuefei Huang, with the support of the Organic and Macromolecular Chemistry Program, will assay the sHA library obtained for their stimulatory activities towards toll like receptor (TLR)-4, an important receptor involved in innate immunity. Hyaluronan oligosaccharides play important roles in a wide range of biological events, such as tumor cell growth suppression, sensitization of multidrug resistant cancer cells, angiogenesis, and immuno-stimulation. Graduate students, postdoctoral researchers, undergraduate and high school students will be integrated into the research. Broader impacts of the proposed project are in education of not only science students and researchers but also the whole community.  In order to inform the general public about the impacts of science on society, Professor Huang plans to organize outreach activities such as Chemistry Open House and Saturday Morning Science.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>09/18/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/18/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0852308</AwardID>
+<Investigator>
+<FirstName>Xuefei</FirstName>
+<LastName>Huang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xuefei Huang</PI_FULL_NAME>
+<EmailAddress>xuefei@chemistry.msu.edu</EmailAddress>
+<PI_PHON>5173559715</PI_PHON>
+<NSF_ID>000183225</NSF_ID>
+<StartDate>09/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Michigan State University</Name>
+<CityName>EAST LANSING</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress>426 AUDITORIUM RD RM 2</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>R28EKN92ZTZ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MICHIGAN STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VJKZC4D1JN36</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>EAST LANSING</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>488242600</ZipCode>
+<StreetAddress><![CDATA[426 AUDITORIUM RD RM 2]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1944</Code>
+<Text>BIMOLECULAR PROCESSES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1166</Code>
+<Text>MOLECULAR BIOCHEMISTRY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1187</Code>
+<Text>PECASE- eligible</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1948</Code>
+<Text>SYNTHESIS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1950</Code>
+<Text>METHODOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9161</Code>
+<Text>SINGLE DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9162</Code>
+<Text>MULTI DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>AMPP</Code>
+<Text>ADVANCED MATERIALS &amp; PROCESSING PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2006~177066</FUND_OBLG>
+<FUND_OBLG>2007~149000</FUND_OBLG>
+<FUND_OBLG>2008~78000</FUND_OBLG>
+</Award>
+</rootTag>

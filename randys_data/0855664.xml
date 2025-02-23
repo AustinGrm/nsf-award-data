@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Theoretical Atomic, Molecular, and Optical Physics at JILA]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ann Orel</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;This group project aims to delve into a broad range of problems stemming from the desire to understand gases of ultracold atoms and molecules in full detail, and how to manipulate these gases to engineer systems of interest. Of particular interest will be the alkaline-earth atoms and similar atoms (such as ytterbium), and polar species. These atoms offer a wealth of untapped potential in applications as diverse as optical frequency standards, modeling of unusual condensed matter systems, and quantum information devices. The work will deepen theoretical understanding of two, three, and four-body interactions that are essential to the preparation, stability, and control of cold gases. Complementary work will focus on exploiting these properties to generate a detailed set of how-to instructions for modeling otherwise intractable condensed matter Hamiltonians, or else to describe novel transport possibilities.&lt;br/&gt;&lt;br/&gt;The broader impact of the planned work arises in part from the favorable prospects for adding significantly to the body of understanding of condensed matter systems. By designing simulations in the highly-controllable environment of an atom gas on an optical lattice, the group may be able to provide fundamental insights into such materials as high-temperature superconductors, colossal magnetoresistance materials, and many others. In addition, the project will impact the training of graduate students, who will be able to interact with the different theoretical and experimental research groups at JILA. The investigators will continue to contribute to community outreach programs such as public lectures and accessible physics articles, to organize workshops, and to maintain service to the physics community.]]></AbstractNarration>
+<MinAmdLetterDate>08/08/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/08/2009</MaxAmdLetterDate>
+<ARRAAmount>200000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855664</AwardID>
+<Investigator>
+<FirstName>Ana</FirstName>
+<LastName>Rey</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ana M Rey</PI_FULL_NAME>
+<EmailAddress><![CDATA[arey@jilau1.colorado.edu]]></EmailAddress>
+<NSF_ID>000513272</NSF_ID>
+<StartDate>08/08/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Murray</FirstName>
+<LastName>Holland</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Murray J Holland</PI_FULL_NAME>
+<EmailAddress><![CDATA[murray.holland@colorado.edu]]></EmailAddress>
+<NSF_ID>000420081</NSF_ID>
+<StartDate>08/08/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Bohn</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John L Bohn</PI_FULL_NAME>
+<EmailAddress><![CDATA[bohn@murphy.colorado.edu]]></EmailAddress>
+<NSF_ID>000293723</NSF_ID>
+<StartDate>08/08/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chris</FirstName>
+<LastName>Greene</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chris H Greene</PI_FULL_NAME>
+<EmailAddress><![CDATA[chgreene@purdue.edu]]></EmailAddress>
+<NSF_ID>000406059</NSF_ID>
+<StartDate>08/08/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Boulder</Name>
+<CityName>BOULDER</CityName>
+<ZipCode>803090001</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress>3100 MARINE ST STE 481 572 UCB</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SPVKK1RC2MZ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF COLORADO, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>SPVKK1RC2MZ3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName>BOULDER</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803090001</ZipCode>
+<StreetAddress><![CDATA[3100 MARINE ST STE 481 572 UCB]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1284</Code>
+<Text>AMO Theory/Atomic, Molecular &amp;</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~200000</FUND_OBLG>
+</Award>
+</rootTag>

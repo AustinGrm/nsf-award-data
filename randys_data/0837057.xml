@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Implementation of Modern Pedagogy, Reactions, Technology, and Techniques into the Synthetic Curriculum</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>149819.00</AwardTotalIntnAmount>
+<AwardAmount>149819</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joseph Grabowski</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Chemistry(12)  The curricular changes are introducing a synergistic combination of modern pedagogy, reactions, instrumentation, and experimental techniques into the organic and inorganic synthetic laboratories.  Four new experiences, which include a solid-supported amide synthesis, a multi-component Diels-Alder reaction, a multi-week synthesis project, and faculty mentored research, are providing the synthetic training.  These experiences, as part of a four phase pedagogical approach, are encouraging undergraduates to make experimental choices, design experiments, and communicate results, in order to provide a strong foundation for scientific thought and research.  These curricular changes are affecting three areas of intellectual merit: the development of students' synthetic skills; the development of faculty engagement in pedagogy and research; and the innovative use of communication technology in the organic laboratory.  There are three main broader impacts of the curricular change.  First, the addition of a GC/MS/MS for quantification and verification of synthetic products is improving the instrumentation available for teaching and student research.  Second, this project is impacting a significant number of women.  Third, the new research training exercises are impacting students in earlier stages of their science curriculum.  The research training exercises and the new synthesis experiments are broadly applicable to other institutions.  The exercises will be submitted to the larger community in the form of research papers and presentations at local, regional, and national conferences.</AbstractNarration>
+<MinAmdLetterDate>12/11/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>12/11/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0837057</AwardID>
+<Investigator>
+<FirstName>Anne</FirstName>
+<LastName>Wilson</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anne M Wilson</PI_FULL_NAME>
+<EmailAddress>amwilson@butler.edu</EmailAddress>
+<NSF_ID>000495310</NSF_ID>
+<StartDate>12/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stacy</FirstName>
+<LastName>O'Reilly</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stacy A O'Reilly</PI_FULL_NAME>
+<EmailAddress>soreilly@butler.edu</EmailAddress>
+<NSF_ID>000342599</NSF_ID>
+<StartDate>12/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>LuAnne</FirstName>
+<LastName>McNulty</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>LuAnne McNulty</PI_FULL_NAME>
+<EmailAddress>lmcnulty@butler.edu</EmailAddress>
+<NSF_ID>000261631</NSF_ID>
+<StartDate>12/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Esteb</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John J Esteb</PI_FULL_NAME>
+<EmailAddress>jesteb@butler.edu</EmailAddress>
+<NSF_ID>000067824</NSF_ID>
+<StartDate>12/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Butler University</Name>
+<CityName>Indianapolis</CityName>
+<ZipCode>462083443</ZipCode>
+<PhoneNumber>3179409766</PhoneNumber>
+<StreetAddress>4600 Sunset Avenue</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN07</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>079573192</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>BUTLER UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>079573192</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Butler University]]></Name>
+<CityName>Indianapolis</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>462083443</ZipCode>
+<StreetAddress><![CDATA[4600 Sunset Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0409</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2009~149819</FUND_OBLG>
+</Award>
+</rootTag>

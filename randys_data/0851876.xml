@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Theory and Design of Divisible-Good Auctions</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>406696.00</AwardTotalIntnAmount>
+<AwardAmount>406696</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050100</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Lutz</SignBlockName>
+<PO_EMAI>nlutz@nsf.gov</PO_EMAI>
+<PO_PHON>7032927280</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;This award funds research in the economic theory of auctions for divisible goods.  There are many examples of divisible goods; for example, economists classify oil as a 'divisible' good because it can be sold in different quantities.  Oil is sold by the quart, by the gallon, by the liter, by the barrel, and by the tankerload.  Contrast this to 'indivisible' goods such as automobiles.  No one will buy half of an automobile, so autos are sold one at a time.&lt;br/&gt;&lt;br/&gt;Many divisible goods are sold through auctions; a leading example is U.S. Treasury Bills.  Recent research has led to many new results about the likely properties of different kinds of auctions of indivisible goods.  However, we know much less about how to auction divisible goods.&lt;br/&gt;&lt;br/&gt;The PIs build and analyze a new model that allws them to compare three different kinds of auction procedures that are widely used in practice.  They determine how these auctions work for both divisible and indivisible goods.  They consider which kind of auction is superior in terms of total auction revenue and in terms of the efficiency of the final outcome.  Finally, they determine conditions under which multiple related goods should be auctioned jointly rather than conducting separate individual auctions.&lt;br/&gt;&lt;br/&gt;This research could have substantial broader impact; the societal benefit to better auction mechanisms is large.</AbstractNarration>
+<MinAmdLetterDate>06/15/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/15/2009</MaxAmdLetterDate>
+<ARRAAmount>406696</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0851876</AwardID>
+<Investigator>
+<FirstName>Marek</FirstName>
+<LastName>Weretka</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marek Weretka</PI_FULL_NAME>
+<EmailAddress>weretka@wisc.edu</EmailAddress>
+<NSF_ID>000510852</NSF_ID>
+<StartDate>06/15/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Marzena</FirstName>
+<LastName>Rostek</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marzena J Rostek</PI_FULL_NAME>
+<EmailAddress>mrostek@ssc.wisc.edu</EmailAddress>
+<NSF_ID>000111093</NSF_ID>
+<StartDate>06/15/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<StreetAddress2><![CDATA[Suite 6301]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI02</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>161202122</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>041188822</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>537151218</ZipCode>
+<StreetAddress><![CDATA[21 North Park Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1320</Code>
+<Text>Economics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~406696</FUND_OBLG>
+</Award>
+</rootTag>

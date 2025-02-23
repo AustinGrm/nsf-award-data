@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI:    Development of Next Generation Collaborative Underwater Robotic Instrument]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>1997164.00</AwardTotalIntnAmount>
+<AwardAmount>1997164</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rita Rodriguez</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Proposal #: CNS 08-21607&lt;br/&gt;PI(s):  Metaxas, Dimitris N.&lt;br/&gt;  Glenn, Scott M.; Kremer, Ulrich; Parashar, Manish; Schofield, Oscar&lt;br/&gt;Institution: Rutgers University &lt;br/&gt;  New Brunswick, NJ 08901-8559&lt;br/&gt;Title:    MRI/Dev.: Dev. of Next Generation Collaborative Underwater Robotic Instrument&lt;br/&gt;Project Proposed:&lt;br/&gt;This project, developing the next generation of Collaborative Underwater Robotic Instrument (CURI), targets empirically-anchored investigations based on the deployment of a semi-Langragian network of biologically inspired autonomous robots. This new instrument consists of a collection of new underwater glider robots, a computer cluster, and monitors for Human-CURI interaction (along with novel hardware and software), capable of exhibiting biologically inspired autonomous cooperative behaviors such as swarming, maneuvering efficiently, sensing, and making decisions. Among others goals, the work aims to be able to track and map a water mass over time and to assess how a water column mixing in ocean water drives local primary productivity over time. CURI, developed as a collaborative effort between the institution and Webb Research (manufacturers of current robotics gliders), will exhibit and allow&lt;br/&gt;- Biologically inspired behaviors such as swarming,&lt;br/&gt;- Decision making (in uncertain conditions) based on the integration of multi-dimensional, multi-scale, and multi-sensory data,&lt;br/&gt;- Human-CURI interaction to help guide the mission goals of the large number of underwater robotic vehicles, and&lt;br/&gt;- Underwater communication among the robots of the CURI based on the implementation of ideas from distributed and adaptive non-fixed topology networks which include middleware, metadata, and low power protocols for underwater communications.&lt;br/&gt;Leveraging significant NSF, ONR, NOAA, USGS, DHS, and other agency investments, CURI will be tested in the linked ecosystems of the densely populated NY-NJ metropolitan area, the Hudson River watershed and estuary, and the adjacent coastal ocean of the Mid-Atlantic, as well as Polar and Tropical environments. The diverse data gathered will provide foundation for computational analysis and modeling. &lt;br/&gt;Broader Impacts:&lt;br/&gt;This development has strong multidisciplinary components that involve control, algorithms, marine science, statistical learning, dynamic systems, human-computer interaction (HCI), and distributed systems. The work is applicable in many areas that involve large-scale, distributed modeling of coordinated behaviors of individual units and their interaction with the environment. Thus, current and future oceanographic applications are expected, including improved modeling of the Coastal Hydrologic Cycle and understanding how a human initiated act such as pollution, global warming, and over-fishing affects the coast, the atmosphere, and ultimately, the quality and security of human life in urbanized environment. CURI will influence the educational program. Courses will be developed and collaboration across disciplines will ensue.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/16/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/14/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0821607</AwardID>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Glenn</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Scott M Glenn</PI_FULL_NAME>
+<EmailAddress><![CDATA[glenn@imcs.rutgers.edu]]></EmailAddress>
+<NSF_ID>000117885</NSF_ID>
+<StartDate>07/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dimitris</FirstName>
+<LastName>Metaxas</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dimitris N Metaxas</PI_FULL_NAME>
+<EmailAddress><![CDATA[dnm@cs.rutgers.edu]]></EmailAddress>
+<NSF_ID>000236186</NSF_ID>
+<StartDate>07/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ulrich</FirstName>
+<LastName>Kremer</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ulrich Kremer</PI_FULL_NAME>
+<EmailAddress><![CDATA[uli@cs.rutgers.edu]]></EmailAddress>
+<NSF_ID>000373414</NSF_ID>
+<StartDate>07/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Manish</FirstName>
+<LastName>Parashar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Manish Parashar</PI_FULL_NAME>
+<EmailAddress><![CDATA[manish.parashar@utah.edu]]></EmailAddress>
+<NSF_ID>000148826</NSF_ID>
+<StartDate>07/16/2008</StartDate>
+<EndDate>08/14/2009</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Oscar</FirstName>
+<LastName>Schofield</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Oscar Schofield</PI_FULL_NAME>
+<EmailAddress><![CDATA[oscar@imcs.rutgers.edu]]></EmailAddress>
+<NSF_ID>000445435</NSF_ID>
+<StartDate>07/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rutgers University New Brunswick</Name>
+<CityName>NEW BRUNSWICK</CityName>
+<ZipCode>089018559</ZipCode>
+<PhoneNumber>8489320150</PhoneNumber>
+<StreetAddress>3 RUTGERS PLZA</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M1LVPE5GLSD9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M1LVPE5GLSD9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rutgers University New Brunswick]]></Name>
+<CityName>NEW BRUNSWICK</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>089018559</ZipCode>
+<StreetAddress><![CDATA[3 RUTGERS PLZA]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1640</Code>
+<Text>Information Technology Researc</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1640</Code>
+<Text>INFORMATION TECHNOLOGY RESEARC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~1997164</FUND_OBLG>
+</Award>
+</rootTag>

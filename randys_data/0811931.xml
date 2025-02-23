@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Right-Sizing Chemical R&amp;D Investments - A Critical Investment Strategy to Sustain America's Economic Growth, June 2008, Gaithersburg, MD</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>44000.00</AwardTotalIntnAmount>
+<AwardAmount>44000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090007</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kelsey Cook</SignBlockName>
+<PO_EMAI>kcook@nsf.gov</PO_EMAI>
+<PO_PHON>7032927490</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Divisions of Chemistry and Chemical, Bioengineering, Environmental, and Transport Systems, Dr. Hratch Semerjian of the Council for Chemical Research will organize a workshop entitled "Right-Sizing Chemical R&amp;D Investments - A Critical Investment Strategy to Sustain America's Economic Growth."  A diverse group of about 30 academic and industrial leaders will develop new methods of economic analysis needed to guide future study of optimum and sustainable investment, from an economics point of view, that will continue to provide a high rate of return on R&amp;D investments.  With a rigorous approach to this question, the nation will be better positioned to "right size" and plan its research expenditures, maximizing technical innovation, economic growth, and tax revenues as well as increasing job opportunities for our diverse citizens.</AbstractNarration>
+<MinAmdLetterDate>02/20/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>02/20/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0811931</AwardID>
+<Investigator>
+<FirstName>Hratch</FirstName>
+<LastName>Semerjian</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hratch G Semerjian</PI_FULL_NAME>
+<EmailAddress>Hratch@ccrhq.org</EmailAddress>
+<NSF_ID>000082125</NSF_ID>
+<StartDate>02/20/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Council for Chemical Research Inc</Name>
+<CityName>Washington</CityName>
+<ZipCode>200365605</ZipCode>
+<PhoneNumber>2024293971</PhoneNumber>
+<StreetAddress>1730 Rhode Island Ave., NW</StreetAddress>
+<StreetAddress2><![CDATA[Suite 302]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>784769499</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>COUNCIL FOR CHEMICAL RESEARCH INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Council for Chemical Research Inc]]></Name>
+<CityName>Washington</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>200365605</ZipCode>
+<StreetAddress><![CDATA[1730 Rhode Island Ave., NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1402</Code>
+<Text>BIOCHEMICAL &amp; BIOMASS ENG</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1978</Code>
+<Text>PROJECTS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1978</Code>
+<Text>PROJECTS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2008~44000</FUND_OBLG>
+</Award>
+</rootTag>

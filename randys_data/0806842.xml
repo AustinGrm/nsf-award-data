@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[IDEAS - A STEM Scholarship Program]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2015</AwardExpirationDate>
+<AwardTotalIntnAmount>600000.00</AwardTotalIntnAmount>
+<AwardAmount>600000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dawn Rickey</SignBlockName>
+<PO_EMAI>drickey@nsf.gov</PO_EMAI>
+<PO_PHON>7032924674</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The IDEAS program: Increasing Diversity through Engineering Academic Scholarships increases the numbers of diverse students enrolling in and graduating from the College of Engineering (CoE). In keeping with the University's Strategic Plan, and the 3 year plan developed by the Dean of the College of Engineering, the IDEAS program targets first year students; specifically African American, Hispanic, and Native American (URM students) freshman and transfer students of all ethnicities. The specific objectives of IDEAS are: (1) to reduce the time-to-degree completion of students who transfer to Virginia Tech, and (2) to increase the numbers of freshman URM students who enroll in and earn degrees from the CoE. &lt;br/&gt;&lt;br/&gt;To achieve the first stated objective, IDEAS provides scholarships for incoming transfer students as encouragement to enroll in summer school prior to the beginning of their first full academic year. Scholarships cover tuition for summer enrollment in the required introductory engineering course(s) with additional academic 2 year scholarship funds being awarded based on successful completion of the summer course(s). To achieve the second objective, scholarship funds are offered to freshman engineering students who are offered admission to Virginia Tech, specifically targeting URM students. All students will have to apply for the IDEAS scholarship and a committee will select the scholarship recipients.]]></AbstractNarration>
+<MinAmdLetterDate>07/22/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/23/2013</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0806842</AwardID>
+<Investigator>
+<FirstName>Bevlee</FirstName>
+<LastName>Watford</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bevlee A Watford</PI_FULL_NAME>
+<EmailAddress><![CDATA[deuce@vt.edu]]></EmailAddress>
+<NSF_ID>000181238</NSF_ID>
+<StartDate>07/22/2008</StartDate>
+<EndDate>09/23/2013</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Maura</FirstName>
+<LastName>Borrego</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Maura J Borrego</PI_FULL_NAME>
+<EmailAddress><![CDATA[maura.borrego@austin.utexas.edu]]></EmailAddress>
+<NSF_ID>000210205</NSF_ID>
+<StartDate>07/22/2008</StartDate>
+<EndDate>07/11/2011</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240603359</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>300 TURNER ST NW</StreetAddress>
+<StreetAddress2><![CDATA[STE 4200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QDE5UHE5XD16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIRGINIA POLYTECHNIC INSTITUTE &amp; STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X6KEFGLHSJX7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Virginia Polytechnic Institute and State University]]></Name>
+<CityName>BLACKSBURG</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>240603359</ZipCode>
+<StreetAddress><![CDATA[300 TURNER ST NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~600000</FUND_OBLG>
+</Award>
+</rootTag>

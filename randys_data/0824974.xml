@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Acquisition of a 213nm laser and cathodoluminescence detector for microanalysis of zircon and other Earth materials]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>137842.00</AwardTotalIntnAmount>
+<AwardAmount>137842</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030202</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Russell Kelz</SignBlockName>
+<PO_EMAI>rkelz@nsf.gov</PO_EMAI>
+<PO_PHON>7032924747</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[0824974&lt;br/&gt;Kohn&lt;br/&gt;&lt;br/&gt;&lt;br/&gt; This proposal seeks funding to acquire a 213 nm laser and cathodolminescence (CL) detector for geochronologic and trace element research at Boise State University. The CL detector will be affixed to an existing JEOL JSM-T300 SEM currently deployed in the Department of Physics. The instrument currently has SE, BSE, and EDS detectors Upgrades for digital imaging capabilities are included to allow the SEM to interface with the CL detector. The SEM-CL will be used to target zircons for subsequent laser ablation (LA) ICP-MS with the requested laser. The CL detector is also proposed for targeting Ti measurement domains in quartz. The laser will be affixed on a to-be-purchased quadrapole ICP-MS to be housed in the Department of Geosciences for zircon, garnet, monazite, carbonate and phosphatic fossil analysis. The instrumentation will be employed for on-going NSF EAR-funded research projects. Major objectives in clued: 1) in situ U-Th-Pb zircon dating using CL-SEM coupled with ID-TIMS allowing mineral age determination, 2) garnet and other silicate zoning analysis using LA-ICP-MS to infer petrogenic processes and better understand high-resolution radiogenic isotope compositions, 3) monazite dating using U-Th-Pb decay series, 4) carbonate and fossil dating using U-series, 5) foraminifera elemental zoning analysis to determine paleotemperatures and paleonutrient distributions, and 6) quartz CL imaging for subsequent Ti-thermometry. Underlying themes among these measurements include a better understanding of Paleozic climate changes, clastic rock provenance and stratigraphy, rock origins and histories, and paleonutrient distributions and cycling. &lt;br/&gt; The CL instrumentation will be incorporated into existing SEM system housed on the Department of Physics which will be upgraded to support digital imaging. The SEM system will continue to be maintained by currently hard-funded technicians. Remuneration costs will be added as a surcharge for CL usage. The LA system will be coupled with the newly-purchased ICP-MS in a newly-renovated laboratory. A full-time technician will be hired through University funding lines. Co-PI Crowley will administer the LA-ICP-MS to include maintenance and training, along with the technician. An hourly rate will be charged for usage. The instrumentation will serve as the basis for student training at all levels through existing outreach programs which feature seminars and laboratory tours. Over 100 pre-college students have been exposed through the current outreach efforts. The PI recently received an Undergraduate Research Mentor of the Year award for incorporating undergraduates in laboratory efforts. The instrumentation will be incorporated into teaching curricula and research results will be disseminated through the literature and through collaborative efforts. &lt;br/&gt;&lt;br/&gt;***&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>11/10/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>11/10/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0824974</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Crowley</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James L Crowley</PI_FULL_NAME>
+<EmailAddress><![CDATA[jimcrowley@boisestate.edu]]></EmailAddress>
+<NSF_ID>000500427</NSF_ID>
+<StartDate>11/10/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Kohn</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthew J Kohn</PI_FULL_NAME>
+<EmailAddress><![CDATA[mattkohn@boisestate.edu]]></EmailAddress>
+<NSF_ID>000348582</NSF_ID>
+<StartDate>11/10/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Schmitz</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark D Schmitz</PI_FULL_NAME>
+<EmailAddress><![CDATA[markschmitz@boisestate.edu]]></EmailAddress>
+<NSF_ID>000383929</NSF_ID>
+<StartDate>11/10/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Boise State University</Name>
+<CityName>BOISE</CityName>
+<ZipCode>837250001</ZipCode>
+<PhoneNumber>2084261574</PhoneNumber>
+<StreetAddress>1910 UNIVERSITY DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Idaho</StateName>
+<StateCode>ID</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>ID02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HYWTVM5HNFM3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BOISE STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>HYWTVM5HNFM3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Boise State University]]></Name>
+<CityName>BOISE</CityName>
+<StateCode>ID</StateCode>
+<ZipCode>837250001</ZipCode>
+<StreetAddress><![CDATA[1910 UNIVERSITY DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Idaho</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>ID02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1580</Code>
+<Text>Instrumentation &amp; Facilities</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~137842</FUND_OBLG>
+</Award>
+</rootTag>

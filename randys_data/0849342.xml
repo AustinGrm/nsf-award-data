@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SGER - Fundamental Understanding of Catalytic Cleavage of Lignin in Ionic Liquids]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>115000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>George J. Antos</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[0849342&lt;br/&gt;Ekerdt&lt;br/&gt;&lt;br/&gt;Intellectual Merit &lt;br/&gt;Lignin is one of the major components in lignocellulosic biomass. The recalcitrant nature of lignin toward microbial breakdown is a highly beneficial feature in guarding natural forestry from rapid degradation by nature itself. Even though nature has evolved a number of enzymes that collectively are efficient in hydrolytically cleaving cellulose and hemicelluloses into their building units, the presence of lignin has been known to severely inhibit such activities. This research addresses this most pressing of issues in biomass conversion and seeks to develop processes and insight into key steps in lignin depolymerization, which are first steps in efficient biomass conversion. The research builds on previous studies and literature that demonstrate lignin can be dissolved in ionic liquids and that lignin is attacked by bases. Lignin has a complicated but poorly characterized composition and architecture, which also depend on the plant species and conditions in which the lignocellulosic biomass are produced. To avoid analytical complication for the purposes of understanding the mechanisms involved in base catalyzed hydrolysis of lignin oxygen linkages, this research will study model compounds that contain oxygen linkages found in lignin. &lt;br/&gt;&lt;br/&gt;The research investigates neutral ionic liquids and basic ionic liquids, each with an optimized amount of water, and with and without using a catalyst. The pH and the temperature of the test media will be controlled and followed. The effects of reaction time, process pressure, base catalyst type and concentration will all be examined. The research will employ aromatic alkali, of which the basicity can be tuned by the alkalinity of the metal ion, the type and the size of aromatic moiety, and polybasicity. Basic aromatic carboxylates will be included in the study to leverage their strong affinity toward lignin structure in a suitable carrier solvent, such as ionic liquids. By selecting catalysts of varying basicity and by varying operating conditions, we propose to target selectively oxygen linkages of different bond strength in different bonding networks. &lt;br/&gt;&lt;br/&gt;Broader Impacts &lt;br/&gt;By working with a number of model compounds that simulate the oxygen linkages in lignin, this research seeks to achieve a fundamental understanding of the mechanisms involved in lignin hydrolytic cleavage. Ionic liquid solvents that dissolve lignin will be used as media to carry out the reactions. Base catalysts with varying basicity will be used to study the effect of base strength in their activity toward the hydrolytic cleavage of oxygen linkages in ionic liquid solvents. The types of oxygen linkages in the model lignin compounds will be ranked according to their ease of cleavage in the presence of a base in ionic liquids. The knowledge to be gained through this research will help design processes for the rapid fragmentation nature of lignin in ionic liquids. Further, building upon an understanding in the hydrolytic cleavage of oxygen linkages in lignin, the model lignin compounds will be further studied in ionic liquids for selective cracking to produce aromatic molecules as potential fuels and chemicals.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/19/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/23/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0849342</AwardID>
+<Investigator>
+<FirstName>Conrad</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Conrad Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[conrad.zhang@kior.com]]></EmailAddress>
+<NSF_ID>000507892</NSF_ID>
+<StartDate>08/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Ekerdt</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John G Ekerdt</PI_FULL_NAME>
+<EmailAddress><![CDATA[ekerdt@utexas.edu]]></EmailAddress>
+<NSF_ID>000341559</NSF_ID>
+<StartDate>08/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1179</Code>
+<Text>Nanoscale Interactions Program</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1401</Code>
+<Text>Catalysis</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7643</Code>
+<Text>EnvS-Environmtl Sustainability</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>044E</Code>
+<Text>CATALYSIS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>050E</Code>
+<Text>CHEMICAL PROCESS DESIGN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>054E</Code>
+<Text>Molecular engineering</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9237</Code>
+<Text>SMALL GRANTS-EXPLORATORY RSRCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~115000</FUND_OBLG>
+</Award>
+</rootTag>

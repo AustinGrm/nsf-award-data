@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[ELOKA Phase II: Toward Operational Data Management Support for Community-Based Observations Contributing to the Arctic Observing Network]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>1968016.00</AwardTotalIntnAmount>
+<AwardAmount>1968016</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OPP</Abbreviation>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna M. Kerttula</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;This award supports the continued development of the Exchange for Local Observations and Knowledge of the Arctic (ELOKA). It provides data management and user support to facilitate the collection, preservation, exchange, and use of local observations and knowledge. The first phase of ELOKA was developmental. This award will help move ELOKA into a fully operational mode that will help projects to acquire, manage and preserve their data, and to provide user-friendly tools for user-based searches, browsing and data access, through either project portals or the ELOKA portal as a means of access to all partner projects. There are three main "Intellectual Merits" of ELOKA. First, it will further develop innovative data management approaches to handle 'non-traditional' forms of information. Second, it will make more observational data and information available to the wider research community and beyond through discoverability of data. Third, ELOKA fills a critical gap in Arctic research by providing data management services to social science projects, community-based research projects, and other projects with 'non-traditional data', many of which are mandated to make their metadata and data available, but currently have few options for support.  ELOKA has several "Broader Impacts". It will expand indigenous participation in scientific activities by supporting community-based projects in the Arctic. It will make indigenous observations and perspectives accessible to a larger audience, increasing general understanding of Arctic peoples and their relationship with a changing environment. And it will improve communication and collaboration between the scientific and indigenous communities by promoting the exchange of information and ideas. With a network in place to support them, Arctic residents and indigenous communities will also strengthen their ties to each other and have a mechanism to voice local and collective ideas and findings.]]></AbstractNarration>
+<MinAmdLetterDate>08/13/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>01/18/2013</MaxAmdLetterDate>
+<ARRAAmount>1968016</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0856634</AwardID>
+<Investigator>
+<FirstName>Henry</FirstName>
+<LastName>Huntington</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Henry P Huntington</PI_FULL_NAME>
+<EmailAddress><![CDATA[henryphuntington@gmail.com]]></EmailAddress>
+<NSF_ID>000104625</NSF_ID>
+<StartDate>08/13/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chris</FirstName>
+<LastName>McNeave</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chris K McNeave</PI_FULL_NAME>
+<EmailAddress><![CDATA[mcneave@nsidc.org]]></EmailAddress>
+<NSF_ID>000514067</NSF_ID>
+<StartDate>08/13/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Pulsifer</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peter L Pulsifer</PI_FULL_NAME>
+<EmailAddress><![CDATA[pulsifer@nsidc.org]]></EmailAddress>
+<NSF_ID>000587531</NSF_ID>
+<StartDate>12/07/2011</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shari</FirstName>
+<LastName>Fox</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shari Fox</PI_FULL_NAME>
+<EmailAddress><![CDATA[shari.gearheard@nsidc.org]]></EmailAddress>
+<NSF_ID>000493715</NSF_ID>
+<StartDate>01/18/2013</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shari</FirstName>
+<LastName>Fox</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shari Fox</PI_FULL_NAME>
+<EmailAddress><![CDATA[shari.gearheard@nsidc.org]]></EmailAddress>
+<NSF_ID>000493715</NSF_ID>
+<StartDate>08/13/2009</StartDate>
+<EndDate>01/18/2013</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Roger</FirstName>
+<LastName>Barry</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Roger G Barry</PI_FULL_NAME>
+<EmailAddress><![CDATA[rbarry@kryos.colorado.edu]]></EmailAddress>
+<NSF_ID>000418605</NSF_ID>
+<StartDate>08/13/2009</StartDate>
+<EndDate>01/18/2013</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Parsons</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark A Parsons</PI_FULL_NAME>
+<EmailAddress><![CDATA[parsom3@rpi.edu]]></EmailAddress>
+<NSF_ID>000462651</NSF_ID>
+<StartDate>08/13/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Boulder</Name>
+<CityName>BOULDER</CityName>
+<ZipCode>803090001</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress>3100 MARINE ST STE 481 572 UCB</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SPVKK1RC2MZ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF COLORADO, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>SPVKK1RC2MZ3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName>BOULDER</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803090001</ZipCode>
+<StreetAddress><![CDATA[3100 MARINE ST STE 481 572 UCB]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5293</Code>
+<Text>AON-Arctic Observing Network</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1079</Code>
+<Text>ARCTIC RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~1968016</FUND_OBLG>
+</Award>
+</rootTag>

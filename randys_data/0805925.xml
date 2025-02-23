@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>A Celebration of Raoul Bott's Legacy in Mathematics, Montreal, Quebec</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>25000.00</AwardTotalIntnAmount>
+<AwardAmount>25000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040200</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christopher Stark</SignBlockName>
+<PO_EMAI>cstark@nsf.gov</PO_EMAI>
+<PO_PHON>7032924869</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Abstract&lt;br/&gt;&lt;br/&gt;Award:  DMS-0805925&lt;br/&gt;Principal Investigator:  P. Robert Kotiuga&lt;br/&gt;&lt;br/&gt;This award provides partial support of the conference on the&lt;br/&gt;heritage of Raoul Bott planned for the Centre de Recherche&lt;br/&gt;Mathematique in Montreal, Quebec during June 2008.  Topics of&lt;br/&gt;conference presentations include: operator algebraic methods and&lt;br/&gt;K-theory, supersymmetry and quantum field theory, Morse theory,&lt;br/&gt;string topology, pseudoholomorphic curves, Floer homology,&lt;br/&gt;equivariant cohomology and localization, generalized cohomology&lt;br/&gt;theories and physics, and networks; applications and modular&lt;br/&gt;forms.&lt;br/&gt;&lt;br/&gt;This conference, cosponsored by the Clay Mathematics Institute,&lt;br/&gt;focuses on the mathematical legacy of Raoul Bott and the&lt;br/&gt;extraordinary impact he had on both topology and interactions&lt;br/&gt;between mathematics, physics and technology.  Bott?s students,&lt;br/&gt;coauthors, and intellectual descendents will talk on&lt;br/&gt;forward-looking research topics, addressing a broad audience.&lt;br/&gt;Montreal was chosen as the conference venue because Bott obtained&lt;br/&gt;two degrees in Electrical Engineering at McGill University in the&lt;br/&gt;1940s, an Honorary Doctorate from McGill in 1987 and the Centre&lt;br/&gt;de Recherches Mathematiques (CRM) is the focal point of&lt;br/&gt;mathematics in Montreal where one can find three generations of&lt;br/&gt;mathematicians with close connections to Bott. The week-long&lt;br/&gt;conference features 26 hour long slots for technical talks or&lt;br/&gt;panel discussions.  See http://www.crm.math.ca/Bott08 for&lt;br/&gt;details.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>06/20/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/20/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0805925</AwardID>
+<Investigator>
+<FirstName>P. Robert</FirstName>
+<LastName>Kotiuga</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>P. Robert Kotiuga</PI_FULL_NAME>
+<EmailAddress>prk@bu.edu</EmailAddress>
+<NSF_ID>000090131</NSF_ID>
+<StartDate>06/20/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Trustees of Boston University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>022151300</ZipCode>
+<PhoneNumber>6173534365</PhoneNumber>
+<StreetAddress>881 COMMONWEALTH AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>049435266</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF BOSTON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>049435266</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Trustees of Boston University]]></Name>
+<CityName>BOSTON</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>022151300</ZipCode>
+<StreetAddress><![CDATA[881 COMMONWEALTH AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1265</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2008~25000</FUND_OBLG>
+</Award>
+</rootTag>

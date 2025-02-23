@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Meeting: SDB 67th Annual Meeting, July 26-30, 2008 at the University of Pennsylvania, Philadelphia, PA</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>12000.00</AwardTotalIntnAmount>
+<AwardAmount>12000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090100</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Klein</SignBlockName>
+<PO_EMAI>sklein@nsf.gov</PO_EMAI>
+<PO_PHON>7032927122</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The Society for Developmental Biology (SDB) was founded in 1939 and has organized the major worldwide meeting in developmental biology for the past 69 years, missing only two during World War II.  The meeting this year will be held at the University of Pennsylvania, Philadelphia, PA, July 26-30, 2008.&lt;br/&gt;&lt;br/&gt;The SDB meetings have always attracted people interested in understanding how plants and animals develop, and how development in different organism fits into the context of evolution.  Some basic questions that have fascinated both scientists and non-specialists are:  How does a fertilized egg produce all the different cell types and organs found in the adult?  What are the mechanisms that trigger these processes and how are they regulated?  Major technological advances in the past decades have contributed to a better understanding of these processes at the genetic, molecular and cellular levels.   We now know that mutations in genes controlling development account for many human birth defects and play major roles in clinical conditions like cancer in adults.  It is clear that this knowledge from developmental biology contributes significantly to our understanding of fundamental organismal functions, as well as insights relevant to agriculture, medicine and national security policy.  &lt;br/&gt;&lt;br/&gt;Meeting participants will present their latest data, many unpublished, contributing to advancement in the field.  In addition to a line-up of outstanding speakers made up of established investigators, the organizers will choose junior scientists, including postdoctoral fellows and graduate students for short talks, giving them an opportunity to showcase their work and become known in the community.  This meeting is also the venue for improving education and mentoring at undergraduate, graduate and post-graduate levels, and for interactions among an otherwise disparate community of scholars working on different organisms using varied approaches and at all levels, from well-established investigators to those just entering the field.  &lt;br/&gt;&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>06/13/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/13/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0817980</AwardID>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Wieschaus</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eric Wieschaus</PI_FULL_NAME>
+<EmailAddress>efw@princeton.edu</EmailAddress>
+<NSF_ID>000351303</NSF_ID>
+<StartDate>06/13/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Society For Developmental Biol</Name>
+<CityName>Rockville</CityName>
+<ZipCode>208524905</ZipCode>
+<PhoneNumber>3016347815</PhoneNumber>
+<StreetAddress>6120 Executive Blvd, Suite 725</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD08</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>835910613</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>SOCIETY FOR DEVELOPMENTAL BIOLOGY, INCORPORATED</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Society For Developmental Biol]]></Name>
+<CityName>Rockville</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>208524905</ZipCode>
+<StreetAddress><![CDATA[6120 Executive Blvd, Suite 725]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1119</Code>
+<Text>Animal Developmental Mechanism</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7712</Code>
+<Text>Organization</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7712</Code>
+<Text>ORGANIZATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2008~12000</FUND_OBLG>
+</Award>
+</rootTag>

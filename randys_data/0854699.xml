@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Neutron Stars as Probes for the Structure of Compressed Baryonic Matter</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>315000.00</AwardTotalIntnAmount>
+<AwardAmount>315000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bogdan Mihaila</SignBlockName>
+<PO_EMAI>bmihaila@nsf.gov</PO_EMAI>
+<PO_PHON>7032928235</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;Neutron stars are among the most enigmatic objects that exist in the Universe. They are as massive as our Sun but are around one thousand trillion times smaller in size. The matter in the cores of neutron stars is therefore compressed to densities that are several times greater than the densities of atomic nuclei. This feature, combined with the unprecedented progress in observational astronomy, makes neutron stars superb astrophysical laboratories for a broad range of intriguing physical studies. Several such studies are the subject of this NSF project. These range from (1) investigations of nuclear fusion processes among lattice nuclei and novel states of matter in the crustal layers of neutron stars to (2) thermal evolution studies of neutron stars possessing magnetic fields that are trillions of times stronger than the Earth's magnetic field. The results of these studies are crucial in order to obtain the full physics potential of the investments that are made in new astrophysical instruments such as the square kilometer Array (skA) and the International X-ray Observatory (IXO, formerly Constellation X), which promise the discovery of tens of thousands of neutron stars. In addition, they provide most valuable insight into the physics of superdense but cold nuclear matter, which can not be studied in relativistic collider experiments.&lt;br/&gt;&lt;br/&gt;Students from middle and high schools in the San Diego area will profit from this research in the form of public lectures and multimedia presentations, which will be developed by the researches and students carrying out this project. Moreover, students at San Diego State University will get a chance to learn, and apply, advanced quantum mechanics and Einstein's theory of general relativity to cutting-edge research projects, which enriches their educational experience beyond what they learn in the classroom.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>06/12/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/12/2009</MaxAmdLetterDate>
+<ARRAAmount>315000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0854699</AwardID>
+<Investigator>
+<FirstName>Fridolin</FirstName>
+<LastName>Weber</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Fridolin Weber</PI_FULL_NAME>
+<EmailAddress>fweber@mail.sdsu.edu</EmailAddress>
+<NSF_ID>000490578</NSF_ID>
+<StartDate>06/12/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>San Diego State University Foundation</Name>
+<CityName>San Diego</CityName>
+<ZipCode>921822190</ZipCode>
+<PhoneNumber>6195945731</PhoneNumber>
+<StreetAddress>5250 Campanile Drive</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>53</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA53</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>073371346</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>SAN DIEGO STATE UNIVERSITY FOUNDATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[San Diego State University]]></Name>
+<CityName>San Diego</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>921151338</ZipCode>
+<StreetAddress><![CDATA[5300 Campanile Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>53</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA53</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1215</Code>
+<Text>STELLAR ASTRONOMY &amp; ASTROPHYSC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1285</Code>
+<Text>NUCLEAR THEORY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7483</Code>
+<Text>PHYSICS OF THE UNIVERSE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~315000</FUND_OBLG>
+</Award>
+</rootTag>

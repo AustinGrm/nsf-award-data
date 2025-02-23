@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Establish NSF number for Support Argreement for FB2507-04183-0105]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/20/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>30000.00</AwardTotalIntnAmount>
+<AwardAmount>1207222</AwardAmount>
+<AwardInstrument>
+<Value>Contract Interagency Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OPP</Abbreviation>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>kate ruck</SignBlockName>
+<PO_EMAI>kruck@nsf.gov</PO_EMAI>
+<PO_PHON>7032928051</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The Arctic Research Support and Logistics program provides support in Greenland for science programs funded by the Division of Arctic Sciences, as well as various other NSF Divisions and other Government agencies.  This award provides funds for the research support provided in Thule, Greenland by 821 Air Base Group of the U.S. Air Force.]]></AbstractNarration>
+<MinAmdLetterDate>08/20/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/05/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050, 47.078</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0849733</AwardID>
+<Investigator>
+<FirstName>Dennis</FirstName>
+<LastName>O'Connell</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME>TSgt</PI_SUFX_NAME>
+<PI_FULL_NAME>Dennis O'Connell</PI_FULL_NAME>
+<EmailAddress><![CDATA[Dennis.OConnell@thule.af.mil]]></EmailAddress>
+<NSF_ID>000510951</NSF_ID>
+<StartDate>08/20/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>821 AIR BASE GROUP</Name>
+<CityName>Apo</CityName>
+<ZipCode>097042510</ZipCode>
+<PhoneNumber/>
+<StreetAddress>Unit 82501, PSC 1501</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>APO/FPO EUR, ME, AFR</StateName>
+<StateCode>AE</StateCode>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_ORG/>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[821 AIR BASE GROUP]]></Name>
+<CityName>Apo</CityName>
+<StateCode>AE</StateCode>
+<ZipCode>097042510</ZipCode>
+<StreetAddress><![CDATA[Unit 82501, PSC 1501]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>APO/FPO EUR, ME, AFR</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_PERF/>
+</Performance_Institution>
+<ProgramElement>
+<Code>5205</Code>
+<Text>ARC Rsch Support &amp; Logistics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1079</Code>
+<Text>ARCTIC RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>02XX</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>0100XXXXDB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~30000</FUND_OBLG>
+<FUND_OBLG>2009~21000</FUND_OBLG>
+<FUND_OBLG>2010~100000</FUND_OBLG>
+<FUND_OBLG>2012~154049</FUND_OBLG>
+<FUND_OBLG>2014~162000</FUND_OBLG>
+<FUND_OBLG>2015~159359</FUND_OBLG>
+<FUND_OBLG>2016~134107</FUND_OBLG>
+<FUND_OBLG>2017~132658</FUND_OBLG>
+<FUND_OBLG>2018~154049</FUND_OBLG>
+<FUND_OBLG>2019~160000</FUND_OBLG>
+</Award>
+</rootTag>

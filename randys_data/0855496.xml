@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RUI:  An Experimental Investigation of the Influence of Background Gas Collisions on the Classical Orbits of Rydberg Electrons]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>130000.00</AwardTotalIntnAmount>
+<AwardAmount>130000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Siu Au Lee</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;  In the 1920's quantum mechanics replaced the classic "solar-system" model of the atom where electrons follow simple circular and elliptical paths around the nucleus.  Quantum mechanics is a more powerful model than its predecessors in that it more accurately predicts how atoms interact with light, electrons, and other atoms.  But under conditions where the electron in an atom is in a highly excited state, known as a Rydberg state, the behavior and motion of the electron can be accurately described in terms of classical shaped orbits, such as planets around a star.  Improvements in laser technology have enabled physicists to produce these Rydberg states easily and reliably.  By making measurements with lasers the path of the electron within a single atom can be reconstructed and this opens up a brand new method of investigating atomic interactions. &lt;br/&gt;&lt;br/&gt;This research will measure the distortions of classical electron orbits due to the interactions with nearby atoms.  It will also shed light on how well the electron behavior is described by either quantum mechanics, classical orbits, or a hybrid "semi-classical" theory known as closed orbit theory.  The experimental results will help to develop and confirm a modified "semi-classical" theory that allows us to predict the response of an electron in a Rydberg state to collisions with other atoms.&lt;br/&gt;&lt;br/&gt;The work will provide hands-on research experiences for students at an undergraduate institution which has a large female population. It will be particularly important for illustrating the concepts of quantum mechanics and the correspondence principle. The project allows direct involvement of undergradute students in the construction of experiments, data acquisition, theoretical interpretation, and presentation of the work at conferences. &lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/31/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/31/2009</MaxAmdLetterDate>
+<ARRAAmount>130000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855496</AwardID>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Keeler</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthew L Keeler</PI_FULL_NAME>
+<EmailAddress><![CDATA[keelerl@morris.umn.edu]]></EmailAddress>
+<NSF_ID>000148220</NSF_ID>
+<StartDate>07/31/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Minnesota Morris</Name>
+<CityName>MORRIS</CityName>
+<ZipCode>562672132</ZipCode>
+<PhoneNumber>3205896469</PhoneNumber>
+<StreetAddress>600 E 4TH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>L3CLVHZ62EE4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MINNESOTA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Minnesota Morris]]></Name>
+<CityName>MORRIS</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>562672132</ZipCode>
+<StreetAddress><![CDATA[600 E 4TH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1291</Code>
+<Text>ATOMIC &amp; MOLECULAR DYNAMICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~130000</FUND_OBLG>
+</Award>
+</rootTag>

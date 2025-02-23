@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[US-Japan Nuclear Physics Workshop]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>19800</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>R.  Clive Woods</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award supports a US-Japan joint workshop on Meson Production Reactions at Jefferson Lab and J-PARC in Hawaii on October 11?13, 2009. This workshop will provide a forum for presentations and discussions of the world-wide theoretical and experimental efforts for the study of excited baryons in nuclear physics. The goal of the excited baryons study is to clarify the different excited configurations of quarks and gluons inside the nucleon. The main focus of the workshop is to discuss the experimental and theoretical issues concerning the use of meson production reactions to investigate the structure of hadrons, in particular the hyperons and the related hyper nuclear physics, and explore the possibility of using the new hadron facility at J-PARC that is being constructed in Japan. J-PARC is the premier meson production facility in the world today, producing intense beams of pions, kaons and their decay products (such as neutrinos). The Excited Baryon Analysis Center (EBAC) theory group at Jefferson Lab has been established to work with experimentalists in the field of hadron production, and will bring new ideas for experiments at J-PARC. The U.S. workshop organizers are K. Joo of University of Connecticut, K. Hicks of Ohio University, and T.S.-H. Lee of Argonne National Lab. The Japanese organizers are S. Sawada of High Energy Accelerator Research Organization (KEK) and T. Nakano and T. Sato, both of Osaka University. The workshop will bring together 15 U.S. researchers, including 4 graduate students and postdocs, with a comparable number of Japanese.]]></AbstractNarration>
+<MinAmdLetterDate>09/15/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.079</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0837305</AwardID>
+<Investigator>
+<FirstName>Kenneth</FirstName>
+<LastName>Hicks</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kenneth H Hicks</PI_FULL_NAME>
+<EmailAddress><![CDATA[hicks@ohio.edu]]></EmailAddress>
+<NSF_ID>000274187</NSF_ID>
+<StartDate>09/15/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Jones</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Richard T Jones</PI_FULL_NAME>
+<EmailAddress><![CDATA[Richard.T.Jones@uconn.edu]]></EmailAddress>
+<NSF_ID>000255491</NSF_ID>
+<StartDate>07/27/2010</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kyungseon</FirstName>
+<LastName>Joo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kyungseon Joo</PI_FULL_NAME>
+<EmailAddress><![CDATA[kjoo@phys.uconn.edu]]></EmailAddress>
+<NSF_ID>000424539</NSF_ID>
+<StartDate>09/15/2009</StartDate>
+<EndDate>07/27/2010</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Connecticut</Name>
+<CityName>STORRS</CityName>
+<ZipCode>062691133</ZipCode>
+<PhoneNumber>8604863622</PhoneNumber>
+<StreetAddress>438 WHITNEY RD EXTENSION UNIT 11</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WNTPS995QBM7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CONNECTICUT</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D9SNFDRCW3W7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Connecticut]]></Name>
+<CityName>STORRS</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>062691133</ZipCode>
+<StreetAddress><![CDATA[438 WHITNEY RD EXTENSION UNIT 11]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7299</Code>
+<Text>Catalyzing New Intl Collab</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5921</Code>
+<Text>JAPAN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5978</Code>
+<Text>EAST ASIA AND PACIFIC PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~19800</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Integrated Characterization of Energy, Clouds, Atmospheric State, and Precipitation at Summit (ICECAPS)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>898138.00</AwardTotalIntnAmount>
+<AwardAmount>898138</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OPP</Abbreviation>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Erica L. Key</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[&lt;br/&gt;This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;This award supports a field campaign that will expand the Arctic Observing Network (AON) by adding cloud, atmosphere, and precipitation measurements, and associated higher-order data products, to Summit, Greenland, at the top of the Greenland Ice Sheet. The proposed instrument suite consists of a cloud radar, two microwave radiometers, an Atmospheric Emitted Radiance Interferometer, an X-band precipitation sensor, a ceilometer, a micropulse lidar, and a twice-daily radiosonde program. Measurements from this advanced suite of instruments, combined with some ongoing measurements at Summit, will be input for a number of algorithms to produce climatically useful geophysical data products to support GIS-specific and Arctic-wide research. Data products will include: (1) Atmospheric State - temperature and moisture profiles through the troposphere and lower stratosphere; (2) Cloud Macrophysics - cloud occurrence, vertical boundaries, and temperatures; (3) Cloud Microphysics - cloud phase, water content, optical depth, and particle size; (4) Precipitation - precipitation type and rate; and (5) Cloud Radiative Forcing - impact of clouds on the surface radiation balance. Together these products will augment similar data sets that are produced at other locations across the Arctic. It is anticipated and intended that these data sets will be widely used by the broader scientific community to understand the climates of the Greenland Ice Sheet and the broader Arctic Basin and to validate satellite retrievals and model simulations over Greenland. The "Broader Impacts" of this award are numerous. The proposed observations will contribute to the goals of the Study of Arctic Environmental Change (SEARCH). They will be the first of their kind on the Greenland Ice Sheet and will expand the existing, although modest, network of such measurements across the Arctic. Uncertainty in polar cloud properties is a major deficiency in current models of polar climate; the proposed observations of cloud macro- and micro-physics will provide some of the necessary constraints for improving model cloud algorithms. This project will provide important field work and data processing experience for graduate students at the University of Wisconsin, University of Colorado and University of Idaho. In addition, data and experiences from the field program will be integrated into undergraduate coursework at the University of Idaho and summer workshops at the University of Wisconsin.&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/02/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>02/19/2013</MaxAmdLetterDate>
+<ARRAAmount>898138</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0856773</AwardID>
+<Investigator>
+<FirstName>Von</FirstName>
+<LastName>Walden</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Von P Walden</PI_FULL_NAME>
+<EmailAddress><![CDATA[v.walden@wsu.edu]]></EmailAddress>
+<NSF_ID>000411529</NSF_ID>
+<StartDate>07/02/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Brant</FirstName>
+<LastName>Miller</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brant G Miller</PI_FULL_NAME>
+<EmailAddress><![CDATA[bgmiller@uidaho.edu]]></EmailAddress>
+<NSF_ID>000586046</NSF_ID>
+<StartDate>02/24/2012</StartDate>
+<EndDate>07/12/2012</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Idaho</Name>
+<CityName>MOSCOW</CityName>
+<ZipCode>838449803</ZipCode>
+<PhoneNumber>2088856651</PhoneNumber>
+<StreetAddress>875 PERIMETER DR MS 3020</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Idaho</StateName>
+<StateCode>ID</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>ID01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QWYKRJH5NNJ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF IDAHO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of the University of Idaho]]></Name>
+<CityName>MOSCOW</CityName>
+<StateCode>ID</StateCode>
+<ZipCode>838449803</ZipCode>
+<StreetAddress><![CDATA[875 PERIMETER DR MS 3020]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Idaho</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>ID01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5293</Code>
+<Text>AON-Arctic Observing Network</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~898138</FUND_OBLG>
+</Award>
+</rootTag>

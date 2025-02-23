@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER:Body-enabled Design Paradigm: A New Pathway for Next Generation Battery-free Wireless Sensor Nodes Powered by Sustainable Energy Sources]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2015</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mona Zaghloul</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[&lt;br/&gt;The objective of this research is to develop a transformative design paradigm for battery-free wireless sensors powered by renewable energy sources for biomedical applications, monitoring public infrastructures, environmental monitoring, and homeland security.  This research focuses on creating energy-efficient wireless sensors and providing power to sensors from sustainable energy sources with maximum efficiency.  The approach is to use the body terminal of scaled devices in innovative ways to enable a novel energy-efficient body-enabled design paradigm, forging a new pathway to battery-free wireless sensors powered by sustainable energy sources.&lt;br/&gt;&lt;br/&gt;With respect to intellectual merit, the research has the potential to develop a transformative design paradigm to significantly reduce power consumption of wireless sensors and forging reconfigurable energy-efficient power management systems based on the new design paradigm to maximally harvest energy from energy transducers and efficiently power the sensors.  Combining digitally-assisted architectures and the design paradigm, new hardware architectures for battery-free energy-efficient wireless sensors will be developed.&lt;br/&gt;&lt;br/&gt;The broader impacts of this project include enabling battery-free wireless sensors for a variety of important applications.  Furthermore, the new design paradigm has the potential to advance the competitiveness of U.S. industries in communication markets.  The project will improve educational programs through integration of this research with a new course in sustainable wireless sensors and a senior design project.  The project will increase graduate student training and increase diversity within through internships for female high school students and summer camps for students from underrepresented groups.  The project will also increase public awareness of the importance of science and engineering via collaboration with a local science center.]]></AbstractNarration>
+<MinAmdLetterDate>01/16/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>01/16/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0845849</AwardID>
+<Investigator>
+<FirstName>Deukhyoun</FirstName>
+<LastName>Heo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Deukhyoun Heo</PI_FULL_NAME>
+<EmailAddress><![CDATA[dheo@eecs.wsu.edu]]></EmailAddress>
+<NSF_ID>000494174</NSF_ID>
+<StartDate>01/16/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Washington State University</Name>
+<CityName>PULLMAN</CityName>
+<ZipCode>991640001</ZipCode>
+<PhoneNumber>5093359661</PhoneNumber>
+<StreetAddress>240 FRENCH ADMINISTRATION BLDG</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>XRJSGX384TD6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WASHINGTON STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>XRJSGX384TD6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Washington State University]]></Name>
+<CityName>PULLMAN</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>991640001</ZipCode>
+<StreetAddress><![CDATA[240 FRENCH ADMINISTRATION BLDG]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0510403</Code>
+<Name>Engineering &amp; Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7564</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>109E</Code>
+<Text>Sys theory in biology &amp; medicine</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~400000</FUND_OBLG>
+</Award>
+</rootTag>

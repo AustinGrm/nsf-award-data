@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[The Formation of Channels, Gullies and Sediment Waves by Turbidity Currents: A Navier-Stokes Based Framework]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>270000.00</AwardTotalIntnAmount>
+<AwardAmount>270000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dimitrios Papavassiliou</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Meiburg&lt;br/&gt;0854338&lt;br/&gt;&lt;br/&gt;This research will establish a novel framework for analyzing turbidity current/sediment bed interactions based on the Navier-Stokes equations, rather than the depth-averaged shallow water equations employed to date. The study focuses on the linear stability framework to provide insight into the formation of channels, gullies and sediment waves by turbidity currents. Accompanying Direct Navier-Stokes simulations will be carried out as well. Fundamental progress in this area will enhance prediction of the architecture of sediment deposits, thereby leading to more effective exploration strategies for deep-water hydrocarbon reservoirs. The study builds on a preliminary investigation by the PI into the formation of streamwise channels by turbidity currents. Specifically, a novel instability was shown to occur if the shear stress imposed by the unidirectional turbidity current base flow decays more rapidly with the distance from the sediment bed than the base flow sediment concentration. This investigation is based on the hypothesis that this newly discovered linear instability mechanism also applies to streamwise perturbations. Thus, fundamentally important questions arise regarding the convective or absolute nature of streamwise instabilities, along with their potential for giving rise to linear and nonlinear global modes. Based on the novel Navier-Stokes approach, these issues will be investigated as functions of the governing parameters. The applicability of the anticipated results to deep-water sediments will be evaluated by a close collaboration with Dr. Ben Kneller, Professor of Petroleum Geology at the University of Aberdeen and with Dr. Lesshafft at Ecole Polytechnique, for questions on questions of linear stability. Rather than averaging, the Navier-Stokes approach will resolve flow and sediment structures within the current, and thereby allow for the study of feedback mechanisms between the three-dimensional perturbation velocity and the sediment concentration field. Resolving these issues will provide insight into the spatio-temporal evolution of the vast sediment deposits at the bottom of the world?s oceans caused by phenomena such as sediment waves, ripples, dunes and antidunes. The advanced understanding of coupled turbidity current/sediment bed dynamics will improve strategies for the exploration of deep-water hydrocarbon reservoirs, for reduced drilling, and for improved recovery rates, thereby resulting in large financial savings and a reduced environmental impact. This research will furthermore train undergraduate and graduate students in computational linear stability analysis and scientific computing.]]></AbstractNarration>
+<MinAmdLetterDate>08/14/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/14/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0854338</AwardID>
+<Investigator>
+<FirstName>Eckart</FirstName>
+<LastName>Meiburg</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eckart H Meiburg</PI_FULL_NAME>
+<EmailAddress><![CDATA[meiburg@engineering.ucsb.edu]]></EmailAddress>
+<NSF_ID>000461012</NSF_ID>
+<StartDate>08/14/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Barbara</Name>
+<CityName>SANTA BARBARA</CityName>
+<ZipCode>931060001</ZipCode>
+<PhoneNumber>8058934188</PhoneNumber>
+<StreetAddress>3227 CHEADLE HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G9QBQDH39DF4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SANTA BARBARA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Santa Barbara]]></Name>
+<CityName>SANTA BARBARA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>931060001</ZipCode>
+<StreetAddress><![CDATA[3227 CHEADLE HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA24</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1443</Code>
+<Text>FD-Fluid Dynamics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>059E</Code>
+<Text>Complex fluids</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~270000</FUND_OBLG>
+</Award>
+</rootTag>

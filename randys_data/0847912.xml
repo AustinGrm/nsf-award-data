@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Doctoral Dissertation Improvement: Habitat Modification and Gene Flow In An Endangered New World Primate</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>10271.00</AwardTotalIntnAmount>
+<AwardAmount>10271</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carolyn Ehardt</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>&lt;br/&gt;&lt;br/&gt;Landscape change and heterogeneity are hypothesized to play central roles in primate evolution. Thus, studies of primate ecology and evolution should explicitly consider landscape heterogeneity, especially as primate habitats are increasingly lost and modified. Central American Squirrel Monkeys (Saimiri oerstedii) are endangered primates experiencing severe historical and ongoing habitat modification in the Central Pacific of Costa Rica. This study will 1) describe patterns of gene flow among wild populations of S. oerstedii, 2) describe the effects of landscape heterogeneity on gene flow patterns, and 3) improve future studies of primate ecology and evolution in heterogeneous landscapes by integrating theory and tools from landscape ecology with models of population genetics.&lt;br/&gt; Fecal samples from wild S. oerstedii populations will be collected non-invasively for DNA extraction, genotyping, and sequencing. Landscape genetics methods will be used to characterize localized gene flow patterns for S. oerstedii and correlate those patterns with measures of landscape heterogeneity. &lt;br/&gt;By conducting one of the first landscape genetics studies in a primate, the proposed research will help develop and refine landscape genetics methods for primates and will inform future studies of how heterogeneous landscapes influence primate ecology, population divergence, and evolution. The results of this project will also be incorporated into a science-based conservation management plan for S. oerstedii in collaboration with Costa Rican researchers. Specifically, information on dispersal patterns provided by this project will help to identify isolated populations of S. oerstedii that need particular attention, and guide the construction of biological corridors between fragments of forest.&lt;br/&gt;&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>03/25/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/25/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0847912</AwardID>
+<Investigator>
+<FirstName>Don</FirstName>
+<LastName>Melnick</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Don J Melnick</PI_FULL_NAME>
+<EmailAddress>djm7@columbia.edu</EmailAddress>
+<NSF_ID>000177796</NSF_ID>
+<StartDate>03/25/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mary</FirstName>
+<LastName>Blair</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mary E Blair</PI_FULL_NAME>
+<EmailAddress>mblair1@amnh.org</EmailAddress>
+<NSF_ID>000497963</NSF_ID>
+<StartDate>03/25/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100276902</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>2960 Broadway</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>049179401</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>049179401</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100276902</ZipCode>
+<StreetAddress><![CDATA[2960 Broadway]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1392</Code>
+<Text>Biological Anthropology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1392</Code>
+<Text>Biological Anthropology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~10271</FUND_OBLG>
+</Award>
+</rootTag>

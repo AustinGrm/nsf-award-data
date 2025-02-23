@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Acquisition of a Coulter-Beckman Multisizer 3 Electronic Particle Analyzer and preparatory instruments for sedimentary research and education with undergrad students at IUP]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>63841.00</AwardTotalIntnAmount>
+<AwardAmount>63841</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kandace Binkley</SignBlockName>
+<PO_EMAI>kbinkley@nsf.gov</PO_EMAI>
+<PO_PHON>7032927577</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Intellectual Merit:&lt;br/&gt;The PIs are requesting funds to acquire a Coulter-Beckman Multisizer 3 Electronic Particle Analyzer and associated preparatory instruments.  The PIs will be the primary users of the proposed instrument, with participation by undergraduates.  Research efforts include the characterization of sediment in the deep pelagic Atlantic and Pacific oceans as part of paleoeanography/paleoclimate investigations, and the flux and fate of terrestrial sediment in the nearshore of southern California.&lt;br/&gt;&lt;br/&gt;Broader Impacts:&lt;br/&gt;Indiana University of Pennsylvania is primarily an undergraduate university and all of the geoscience majors are involved in primary research; the institution encourages faculty-student research supported by internal and external grants.  The proposed instrumentation will directly contribute to the research and training of undergraduates pursuing science (Geology Track and Environmental Track) and education (Earth and Space Science Education and General Science Education) majors.&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/29/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/29/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0821097</AwardID>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>Hovan</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Steven A Hovan</PI_FULL_NAME>
+<EmailAddress><![CDATA[hovan@iup.edu]]></EmailAddress>
+<NSF_ID>000331307</NSF_ID>
+<StartDate>08/29/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Katherine</FirstName>
+<LastName>Farnsworth</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Katherine L Farnsworth</PI_FULL_NAME>
+<EmailAddress><![CDATA[kfarns@iup.edu]]></EmailAddress>
+<NSF_ID>000076845</NSF_ID>
+<StartDate>08/29/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Indiana University of Pennsylvania Research Institute</Name>
+<CityName>INDIANA</CityName>
+<ZipCode>157012898</ZipCode>
+<PhoneNumber>7243572223</PhoneNumber>
+<StreetAddress>1179 GRANT ST</StreetAddress>
+<StreetAddress2><![CDATA[STE 1]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA15</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UGHXHKJB8LL6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>IUP RESEARCH INSTITUTE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Indiana University of Pennsylvania]]></Name>
+<CityName>INDIANA</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>157051038</ZipCode>
+<StreetAddress><![CDATA[1090 SOUTH DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA15</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0204000</Code>
+<Name>Oceanography</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~63841</FUND_OBLG>
+</Award>
+</rootTag>

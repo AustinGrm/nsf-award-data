@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Project-Based Modeling &amp; Simulation and Experimental Modules for MEMS Undergraduate Education]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>149455.00</AwardTotalIntnAmount>
+<AwardAmount>149455</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maura Borrego</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Engineering Mechanical - (56)&lt;br/&gt;&lt;br/&gt;Currently, MicroElectroMechanical Systems (MEMS) courses are offered in many universities nationwide. Because this course encompasses four traditional engineering themes (i.e. solid mechanics, dynamic systems, transduction mechanisms, and electrical circuits) that need to be simultaneously coupled to describe the behavior of MEMS devices; teaching this theory course has been extremely challenging.  Additionally, student understanding and comprehension of concepts taught as well as level of interest and engagement in this area has been limited. This project addresses these concerns by creating new learning materials and teaching strategies for MEMS undergraduate courses. The learning materials developed include project-based modeling and simulation activities as well as experimental modules on various MEMS devices.  Students work in teams to design MEMS devices starting from the conceptual phase of development through manufacturing and testing of performance parameters. Teaching strategies employed in this project include: 1) discussion-style meetings with more attention toward individual students and team-building; and 2) extensive demonstrations of using software for analysis and conducting experiments. This project equips students with the skills needed to independently analyze and synthesize conceptual theories and apply them appropriately to various MEMS projects.]]></AbstractNarration>
+<MinAmdLetterDate>06/04/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/04/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0837284</AwardID>
+<Investigator>
+<FirstName>Julie Zhili</FirstName>
+<LastName>Hao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Julie Zhili Hao</PI_FULL_NAME>
+<EmailAddress><![CDATA[ZLHao@odu.edu]]></EmailAddress>
+<NSF_ID>000483668</NSF_ID>
+<StartDate>06/04/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gwen</FirstName>
+<LastName>Lee-Thomas</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gwen Lee-Thomas</PI_FULL_NAME>
+<EmailAddress><![CDATA[gleethom@odu.edu]]></EmailAddress>
+<NSF_ID>000361188</NSF_ID>
+<StartDate>06/04/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Old Dominion University Research Foundation</Name>
+<CityName>NORFOLK</CityName>
+<ZipCode>235082561</ZipCode>
+<PhoneNumber>7576834293</PhoneNumber>
+<StreetAddress>4111 MONARCH WAY</StreetAddress>
+<StreetAddress2><![CDATA[STE 204]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DSLXBD7UWRV6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OLD DOMINION UNIVERSITY RESEARCH FOUNDATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X6KEFGLHSJX7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Old Dominion University]]></Name>
+<CityName>Norfolk</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>235290000</ZipCode>
+<StreetAddress><![CDATA[Office of the Comptroller]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_PERF>VA"</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0409</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000910DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>1300CYXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~149455</FUND_OBLG>
+</Award>
+</rootTag>

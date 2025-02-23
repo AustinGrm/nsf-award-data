@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I: Chemically Selective Litmus Paper for Exposure Monitoring]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2008</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+<PO_EMAI>mnair@nsf.gov</PO_EMAI>
+<PO_PHON>7032927059</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This Small Business Innovation Research Phase I research project uses a new approach based on evolutionary screening of biomolecular receptors mimicking molecular recognition in biology for gas-phase chemical analysis. This approach has led to the discovery of various short peptide sequences that are shown to be highly selective to gas molecules due to multivalent binding. When liposomes of conjugated polymers such as polydiacetylene (PDA) are distorted due to ligand-receptor binding on their surface, a blue-to-red color change is induced. The innovation in this project is to combine the short peptide receptors with the PDA liposomes to create chemically-selective color-changing "litmus paper" for detecting carcinogens and other chemicals in indoor environments and for personal exposure monitoring of susceptible populations. &lt;br/&gt;&lt;br/&gt;Of the five human senses, those related to smell and taste have not been replicated in miniature devices, mainly due to the lack of selectivity. Chemical analysis is currently achieved using gas chromatography-mass spectrometry. Because such systems are large and expensive, chemical analysis has largely remained in the lab and in centralized facilities. The technology for chemically selective coatings proposed here has the potential to fundamentally change that, and lead to low-cost sensor systems that are portable and ubiquitous. These microsystems can decentralize chemical analysis of air-borne chemicals related to volatile explosives, toxins, pesticides, chemicals, food spoilage products, metabolite biomarkers for disease states, flavoring agents and cosmetics. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>05/30/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/21/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0810586</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Horn</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thomas Horn</PI_FULL_NAME>
+<EmailAddress><![CDATA[thomas.horn@gmail.com]]></EmailAddress>
+<NSF_ID>000510859</NSF_ID>
+<StartDate>08/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Aravamuthan</FirstName>
+<LastName>Varadarajan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Aravamuthan Varadarajan</PI_FULL_NAME>
+<EmailAddress><![CDATA[john.varadarajan@sbcglobal.net]]></EmailAddress>
+<NSF_ID>000076498</NSF_ID>
+<StartDate>05/30/2008</StartDate>
+<EndDate>08/21/2008</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Kalinex, Inc.</Name>
+<CityName>Richmond</CityName>
+<ZipCode>948044602</ZipCode>
+<PhoneNumber>5109651240</PhoneNumber>
+<StreetAddress>4677 Meade St. Suite 118</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Kalinex, Inc.]]></Name>
+<CityName>Richmond</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>948044602</ZipCode>
+<StreetAddress><![CDATA[4677 Meade St. Suite 118]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1185</Code>
+<Text>SENSORY SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9139</Code>
+<Text>INFORMATION INFRASTRUCTURE &amp; TECH APPL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~100000</FUND_OBLG>
+</Award>
+</rootTag>

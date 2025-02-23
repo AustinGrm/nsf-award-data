@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Understanding how global warming will select for zooxanthellae phenotypes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>606694.00</AwardTotalIntnAmount>
+<AwardAmount>606694</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040301</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Garrison</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Symbiodinium (= zooxanthellae) is a cosmopolitan dinoflagellate genus of tropical and subtropical latitudes, and an integral member of coral reef ecosystems. As the obligate endosymbionts of corals and a variety of other reef organisms, Symbiodinium is the main contributor to coral reef primary production by fueling their host's metabolism and growth. In this delicate symbiosis the symbiont functions as an autotroph, releasing most of its photosynthetic products as food for their host, while the corals provide protection, a stable environment, and metabolic waste that the algae use to grow. The fragility of this relationship has become increasingly apparent in recent years due to rising ocean temperatures. Coral 'bleaching' events, a process by which corals release their symbionts in response to stress, are becoming a global environmental crisis. During this process, Symbiodinium becomes stressed, releasing reactive oxygen species and losing photosynthetic abilities. Prolonged exposure causes irreversible damage and expulsion of zooxanthellae from their hosts. Persistent and recurrent bleaching events can have catastrophic consequences to coral reef health, resulting in the death of coral colonies and a collapse of trophic structure. However, some corals appear to withstand these events unharmed, and laboratory research has shown that some Symbiodinium are tolerant of heat stress. While recent work has revealed a vast genetic diversity of Symbiodinium in coral reef ecosystems, how the diversity is related to stress tolerance is poorly understood.&lt;br/&gt;&lt;br/&gt;The objectives of this research are to describe the relationship of Symbiodinium genetic diversity to stress phenotypes in both free-living and symbiotic strains, and to determine how some strains tolerate high temperature stress and resist bleaching in their hosts. Another goal is to find stress-sensitive genotype markers that can be used to evaluate coral reef health and susceptibility to heat stress. Using a combination of biophysical, molecular biological and biochemical assays, the PIs propose to sample the largest number of Symbiodinium strains to date, to experimentally determine how genotype is related to phenotype diversity. &lt;br/&gt;&lt;br/&gt;The broader impacts include advancing Ocean Science Literacy by educating the general public about coral physiology, and explaining how anthropogenic activities may impact the health of marine organisms. Education and outreach activities will be developed through current partnerships between Rutgers, the Liberty Science Center, and COSEE-West. The research may also have implications for coral reef management.  Finally, results will make significant contributions to the fundamental understanding of the ecology and evolution of Symbiodinium.]]></AbstractNarration>
+<MinAmdLetterDate>03/18/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>01/13/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0851982</AwardID>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Falkowski</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Paul G Falkowski</PI_FULL_NAME>
+<EmailAddress><![CDATA[falko@imcs.rutgers.edu]]></EmailAddress>
+<NSF_ID>000161836</NSF_ID>
+<StartDate>03/18/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Johnson</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthew D Johnson</PI_FULL_NAME>
+<EmailAddress><![CDATA[mattjohnson@whoi.edu]]></EmailAddress>
+<NSF_ID>000510788</NSF_ID>
+<StartDate>03/18/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rutgers University New Brunswick</Name>
+<CityName>NEW BRUNSWICK</CityName>
+<ZipCode>089018559</ZipCode>
+<PhoneNumber>8489320150</PhoneNumber>
+<StreetAddress>3 RUTGERS PLZA</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M1LVPE5GLSD9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M1LVPE5GLSD9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rutgers University New Brunswick]]></Name>
+<CityName>NEW BRUNSWICK</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>089018559</ZipCode>
+<StreetAddress><![CDATA[3 RUTGERS PLZA]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0204000</Code>
+<Name>Oceanography</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1650</Code>
+<Text>BIOLOGICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7275</Code>
+<Text>Cross-BIO Activities</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7657</Code>
+<Text>Integrtv Ecological Physiology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7949</Code>
+<Text>LIFE IN TRANSITION (LiT)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9117</Code>
+<Text>MARINE BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~606694</FUND_OBLG>
+</Award>
+</rootTag>

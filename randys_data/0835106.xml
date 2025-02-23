@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SGER: Modal Control in Hybrid Si/III-V Optoelectronic Circuits]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>75000.00</AwardTotalIntnAmount>
+<AwardAmount>75000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dominique Dagenais</SignBlockName>
+<PO_EMAI>ddagenai@nsf.gov</PO_EMAI>
+<PO_PHON>7032922980</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Objective &lt;br/&gt;The next major advance in optical communication technology will involve hybrid Si/III-V structures in which the light generation and detection capabilities of III-V semiconductor will join forces with VLSI Si electronics. An important step in this direction is a work described as "electrically pumped hybrid AlGaInAs-silicon evanescent lasers." Our proposal takes the next major step along this direction, we propose another approach to hybrid Si/III-V optoelectronic circuits which combines, with minimal compromise, the advantages of both materials. This is based on the ability to control the mode behavior in the composite waveguide system.&lt;br/&gt; &lt;br/&gt;Intellectual Merit &lt;br/&gt;The eigenmodes ("Supermodes") of such a coupled waveguide system can be designed such that the optical energy is confined to either the Si or the III-V waveguide. This can be achieved by controlling the geometry of the waveguides along the propagation direction, e.g., by tailoring the Si waveguide width. Numerical calculations predicted a four-fold enhancement of the modal gain with this design compared with that of the existing Si evanescent lasers. &lt;br/&gt;&lt;br/&gt;Broader Impacts &lt;br/&gt;Once experimentally demonstrated, the "supermode coupling" scheme will result in more efficient devices so as to greatly increase the density of integrated components. Through various kinds of exposure, the results and discoveries will be shared with the scientific and technological communities at large. Another goal of this project is to educate and train a group of students to pursue scientific research and to mentor them about the culture of scientific discovery.]]></AbstractNarration>
+<MinAmdLetterDate>07/31/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/31/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0835106</AwardID>
+<Investigator>
+<FirstName>Amnon</FirstName>
+<LastName>Yariv</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Amnon Yariv</PI_FULL_NAME>
+<EmailAddress><![CDATA[ayariv@caltech.edu]]></EmailAddress>
+<NSF_ID>000449599</NSF_ID>
+<StartDate>07/31/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California Institute of Technology</Name>
+<CityName>PASADENA</CityName>
+<ZipCode>911250001</ZipCode>
+<PhoneNumber>6263956219</PhoneNumber>
+<StreetAddress>1200 E CALIFORNIA BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA28</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U2JMKHNS5TG4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CALIFORNIA INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[California Institute of Technology]]></Name>
+<CityName>PASADENA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>911250001</ZipCode>
+<StreetAddress><![CDATA[1200 E CALIFORNIA BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA28</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0206000</Code>
+<Name>Telecommunications</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1517</Code>
+<Text>EPMD-ElectrnPhoton&amp;MagnDevices</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>101E</Code>
+<Text>Printed and flexible electronics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>103E</Code>
+<Text>Energy efficient electronics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9237</Code>
+<Text>SMALL GRANTS-EXPLORATORY RSRCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~75000</FUND_OBLG>
+</Award>
+</rootTag>

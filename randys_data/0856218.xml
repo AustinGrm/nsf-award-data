@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Analysis and Modeling of Traffic Instabilities in Congested Traffic</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>124682.00</AwardTotalIntnAmount>
+<AwardAmount>124682</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Konstantinos Triantis</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;The primary objectives of this collaborative research study are to 1) better understand the interactive roles played by lane-changing and car-following, 2) quantify their effects on oscillations, and 3) develop a mathematical simulation model that accurately predicts the evolution of oscillations.  Traffic oscillations are stop-and-go driving motions that arise in congested traffic. These oscillations propagate against traffic flow and typically grow as they propagate over space. They have long been thought and modeled strictly as a result of instabilities in car-following behavior.  However, recent empirical studies have refined this long-accepted belief and suggest that lane-changing maneuvers are primary triggers for oscillations - formations and growths and that car-following effects further impact the growth of oscillations. The effects of lane-changing and car-following have been illustrated qualitatively and are yet to be quantified in detail.  Microscopic analyses of individual vehicle behavior of lane-changing and car-following will be performed using high-resolution vehicle trajectory data that are made available by a recent development in data collection and processing techniques. Furthermore, this study will enhance understanding on the effects of heterogeneous traffic due to different vehicle classes and roadway characteristics on the evolutionary behavior of oscillations in space. The empirical findings will provide a framework to develop a simple, parsimonious model with physically meaningful parameters while incorporating the necessary factors. The model will be validated with empirical observation, which will be a rare contribution to the field of traffic theory. The outcome of this research will be a better understanding and a more effective traffic forecasting model of congested traffic.&lt;br/&gt;&lt;br/&gt;This study addresses one of the key congestion-related problems deeply rooted in urban society. Oscillations have a negative impact on environment and safety, as they increase fuel consumption, emissions and driving discomfort. By providing a better understanding of the phenomena and a model to describe them, this study will likely prompt various researches in traffic flow and management strategies. Furthermore, the results from this study will promote development of better models for safety and environmental impacts which incorporate oscillatory driving. The research activities will be transferred through new courses which the PIs are currently developing as well as conventional venues such as journal publications and conferences. This project will involve two Ph.D. students, one of which is a female student. The PIs will also recruit and mentor an undergraduate student through Arizona State University's Fulton Undergraduate Research Initiative.</AbstractNarration>
+<MinAmdLetterDate>07/21/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/21/2009</MaxAmdLetterDate>
+<ARRAAmount>124682</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0856218</AwardID>
+<Investigator>
+<FirstName>Jorge</FirstName>
+<LastName>Laval</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jorge A Laval</PI_FULL_NAME>
+<EmailAddress>jorge.laval@ce.gatech.edu</EmailAddress>
+<PI_PHON>4043850866</PI_PHON>
+<NSF_ID>000080280</NSF_ID>
+<StartDate>07/21/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 NORTH AVE NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1631</Code>
+<Text>CIS-Civil Infrastructure Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~124682</FUND_OBLG>
+</Award>
+</rootTag>

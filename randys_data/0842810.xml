@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Redesign and Enhancement of Automated Database Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/15/1995</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2002</AwardExpirationDate>
+<AwardTotalIntnAmount>2719774.00</AwardTotalIntnAmount>
+<AwardAmount>27209</AwardAmount>
+<AwardInstrument>
+<Value>Contract</Value>
+</AwardInstrument>
+<Organization>
+<Code>04030007</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>NCSE</Abbreviation>
+<LongName>National Center For S&amp;E Statistics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rolf Lehming</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration/>
+<MinAmdLetterDate>08/21/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/21/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0842810</AwardID>
+<Investigator>
+<FirstName>Terrence</FirstName>
+<LastName>Arndt</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Terrence L Arndt</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000049841</NSF_ID>
+<StartDate>08/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>NORTHROP GRUMMAN INFORMATION TECHNOLOGY INC</Name>
+<CityName>MC LEAN</CityName>
+<ZipCode>221027508</ZipCode>
+<PhoneNumber>7034863500</PhoneNumber>
+<StreetAddress>7575 COLSHIRE DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>L4HJM9JC38B3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHROP GRUMMAN SYSTEMS CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NKVZLJL93QT6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[NORTHROP GRUMMAN INFORMATION TECHNOLOGY INC]]></Name>
+<CityName>MC LEAN</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>221027508</ZipCode>
+<StreetAddress><![CDATA[7575 COLSHIRE DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>8806</Code>
+<Text>Info &amp; Tech Services</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~27209</FUND_OBLG>
+</Award>
+</rootTag>

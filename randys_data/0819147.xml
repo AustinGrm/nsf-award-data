@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Dextrous Control of Multi-Digit Grasping]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>191854.00</AwardTotalIntnAmount>
+<AwardAmount>191854</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Betty Tuller</SignBlockName>
+<PO_EMAI>btuller@nsf.gov</PO_EMAI>
+<PO_PHON>7032927238</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The complexity of the human hand requires creative and multidisciplinary efforts aimed at understanding its control. The brain relies on strategies to simplify the control of complex movements such as those produced by the hands. However, most studies of these strategies have focused on limited tasks that may not generalize to  natural grasping behaviors and that do not take into account the use of sensation.  The overall aim of this collaborative research proposal is to test how grasp strategies depend on the behavior performed. The results will provide insight into how the brain controls and coordinates the complex architecture of the hand and how sensory information is used in this control. &lt;br/&gt;&lt;br/&gt;The results of this project are potentially transformative in that understanding  how the hand is controlled as well as how the brain controls complex movements has a wide variety of applications. Given the key role that the hand plays in our motor behavior, ranging from artistic expression to tool use, results may influence several fields, including neuroscience, robotic manipulation (e.g., space exploration, tele-operated surgery) and the development of 'smart' prosthetics. Furthermore, the projects will foster a rich learning environment for integrating research and education.]]></AbstractNarration>
+<MinAmdLetterDate>08/22/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/22/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0819147</AwardID>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Gordon</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrew M Gordon</PI_FULL_NAME>
+<EmailAddress><![CDATA[ag275@columbia.edu]]></EmailAddress>
+<NSF_ID>000108944</NSF_ID>
+<StartDate>08/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Teachers College, Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100276605</ZipCode>
+<PhoneNumber>2126783000</PhoneNumber>
+<StreetAddress>525 W 120TH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DBM1C8MDJ5L3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEACHERS COLLEGE, COLUMBIA UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DBM1C8MDJ5L3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Teachers College, Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100276605</ZipCode>
+<StreetAddress><![CDATA[525 W 120TH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7252</Code>
+<Text>Perception, Action &amp; Cognition</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~191854</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Precision Studies of Neutrino Interactions and Neutrino Mixing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>900000.00</AwardTotalIntnAmount>
+<AwardAmount>900000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Randy Ruchti</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;This award provides support for an expanded program of research involving three faculty members in elementary particle physics at the College of William and Mary. The members of the group are actively involved in a series of precision experiments with the goal of exploring the nature of neutrino oscillations and filling in the missing pieces of the neutrino puzzle. Each investigator leads analysis groups or analyses in the currently-running MINOS long-baseline neutrino oscillation experiment. While continuing to exploit the data from MINOS and support its operations, the group is adopting a leading role in the next phase of the program, namely the MINERvA neutrino-scattering experiment and the NOvA long-baseline experiment, and looks forward to a long-range program centered at the DUSEL facility. The W&amp;M group is committed to engaging undergraduates in research as a vital component of their education. This proposal will enable cutting edge research experience for two undergraduate students per year, in conjunction with the department's robust REU program, and will support senior theses. The group also maintains a RET program in neutrino and underground physics which enables two teachers to participate in research projects at the Soudan Underground Laboratory each year. The members of the W&amp;M group actively promote the participation of groups which have been historically underrepresented in particle physics. MINERvA has a significant contingent of students from Latin American universities working on detector commissioning at Fermilab who have been mentored by the group.]]></AbstractNarration>
+<MinAmdLetterDate>08/31/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/31/2009</MaxAmdLetterDate>
+<ARRAAmount>900000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855526</AwardID>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Nelson</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeffrey K Nelson</PI_FULL_NAME>
+<EmailAddress><![CDATA[jknels@wm.edu]]></EmailAddress>
+<NSF_ID>000387130</NSF_ID>
+<StartDate>08/31/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Patricia</FirstName>
+<LastName>Vahle</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Patricia L Vahle</PI_FULL_NAME>
+<EmailAddress><![CDATA[plvahle@wm.edu]]></EmailAddress>
+<NSF_ID>000508588</NSF_ID>
+<StartDate>08/31/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Kordosky</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael A Kordosky</PI_FULL_NAME>
+<EmailAddress><![CDATA[makordosky@wm.edu]]></EmailAddress>
+<NSF_ID>000508233</NSF_ID>
+<StartDate>08/31/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>College of William and Mary</Name>
+<CityName>WILLIAMSBURG</CityName>
+<ZipCode>231852817</ZipCode>
+<PhoneNumber>7572213965</PhoneNumber>
+<StreetAddress>1314 S MOUNT VERNON AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EVWJPCY6AD97</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>COLLEGE OF WILLIAM AND MARY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[College of William and Mary]]></Name>
+<CityName>WILLIAMSBURG</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>231852817</ZipCode>
+<StreetAddress><![CDATA[1314 S MOUNT VERNON AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1221</Code>
+<Text>HEP-High Energy Physics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~900000</FUND_OBLG>
+</Award>
+</rootTag>

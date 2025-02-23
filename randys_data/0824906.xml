@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Large eddy simulation of turbulent wind over realistic seas with frequent wave breaking events]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>259587.00</AwardTotalIntnAmount>
+<AwardAmount>259587</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eric C. Itsweire</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Air-sea interaction under high wind and sea state conditions is one of the most important, yet least understood research areas of physical oceanography and marine meteorology. Breaking waves, which support a significant fraction of air-sea momentum flux, alters the turbulence field inside the atmospheric boundary layer. This variation results in insufficient estimations of (Reynolds) numbers which are used in boundary layer models and predictions. The Large Eddy Simulation (LES) is a promising new model that will take the effects of ocean surface waves into account when modeling turbulence dynamics inside the atmospheric boundary layer. Through this research, oceanographers and atmospheric scientists from the University of Rhode Island, the National Center for Atmospheric Research, and the University of Reading will develop a new atmospheric boundary layer LES methodology that accounts for intermittent breaking wave events. This simulation will allow for a detailed investigation of the effects of breaking waves on boundary layer turbulence and air-sea momentum flux and will provide the framework to investigate sea spray generation, evolution, and its impact on air-sea heat flux. The results from this research will provide a basis for understanding how surface breaking waves affect and air-sea interactions, which could be used in more accurately forecasting extreme winds and waves during natural hazard events.]]></AbstractNarration>
+<MinAmdLetterDate>09/03/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/03/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0824906</AwardID>
+<Investigator>
+<FirstName>Tetsu</FirstName>
+<LastName>Hara</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tetsu Hara</PI_FULL_NAME>
+<EmailAddress><![CDATA[thara@uri.edu]]></EmailAddress>
+<NSF_ID>000096847</NSF_ID>
+<StartDate>09/03/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Rhode Island</Name>
+<CityName>KINGSTON</CityName>
+<ZipCode>028811974</ZipCode>
+<PhoneNumber>4018742635</PhoneNumber>
+<StreetAddress>75 LOWER COLLEGE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>RI02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CJDNG9D14MW7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF RHODE ISLAND</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NFS9RNJVPMC7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Rhode Island]]></Name>
+<CityName>KINGSTON</CityName>
+<StateCode>RI</StateCode>
+<ZipCode>028811974</ZipCode>
+<StreetAddress><![CDATA[75 LOWER COLLEGE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>RI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0204000</Code>
+<Name>Oceanography</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1610</Code>
+<Text>PHYSICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~259587</FUND_OBLG>
+</Award>
+</rootTag>

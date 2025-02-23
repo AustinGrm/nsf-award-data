@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAR-PF: Extracting the wind component of climate during the Marinoan glaciation from the aeolian rock record]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>160000.00</AwardTotalIntnAmount>
+<AwardAmount>160000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030203</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lina Patino</SignBlockName>
+<PO_EMAI>lpatino@nsf.gov</PO_EMAI>
+<PO_PHON>7032925047</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;Dr. Ryan Ewing has been granted an NSF Earth Sciences postdoctoral fellowship to develop an integrated program of research and education at the Princeton University and California Institute of Technology. This intensive field study will provide, for the first time, a detailed and complete sedimentological and stratigraphic characterization of the two, largest-known, Marinoan age aeolian-depositional successions (~635 Ma), the Bakoye Group in Mali, West Africa and the Whyalla Sandstone in Australia. The objective of this investigation is to establish robust geological evidence of the wind fields during the Marinoan glaciation at each locality; thus, revealing important evidence for atmospheric circulation patterns that directly relate to the extreme climatic events thought to have occurred at this time. This study also addresses what prevailing geologic, climatic and eustatic conditions, related to the development of an aeolian sediment supply and transporting winds, existed that led to the creation of dune-fields, and the accumulation and preservation of these aeolian deposits. This work will serve to improve paleoenvironmental and paleoclimatic models aimed at understanding climatic change during this interval in Earth's history. &lt;br/&gt;&lt;br/&gt;Dr. Ewing will develop and lead aeolian-related curriculum for undergraduate classroom and field courses, and directly involve an undergraduate student in his field work. In addition, Ewing will develop a publicly available GIS database of paleowind proxies that will provide descriptions of recent and ancient aeolian deposits and will pair the wind data with paleogeographic reconstructions to show paleowind regimes through Earth's history.]]></AbstractNarration>
+<MinAmdLetterDate>08/16/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/02/2011</MaxAmdLetterDate>
+<ARRAAmount>160000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0846233</AwardID>
+<Investigator>
+<FirstName>Ryan</FirstName>
+<LastName>Ewing</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ryan C Ewing</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000509642</NSF_ID>
+<StartDate>08/16/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Ewing                   Ryan           C</Name>
+<CityName>Austin</CityName>
+<ZipCode>787033934</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>21</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX21</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Ewing                   Ryan           C]]></Name>
+<CityName>Austin</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787033934</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>21</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX21</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7699</Code>
+<Text>Integrat &amp; Collab Ed &amp; Rsearch</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7137</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~160000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[DisProt Database:   A Central Repository of Information on Intrinsically Disordered Proteins]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>1425995.00</AwardTotalIntnAmount>
+<AwardAmount>1425995</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08040000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EF</Abbreviation>
+<LongName>Emerging Frontiers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter McCartney</SignBlockName>
+<PO_EMAI>pmccartn@nsf.gov</PO_EMAI>
+<PO_PHON>7032928470</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA["This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5)."&lt;br/&gt;&lt;br/&gt;Indiana University is awarded a grant to expand and improve a publicly accessible Database of Protein (http://www.DisProt.org). This database now contains sequence and functional information for ~ 500 protein entries that have more than 1000 experimentally characterized regions of intrinsic disorder.  The work to be funded will greatly expand the number of proteins in this database, will enlarge the array of information for the various proteins, will improve the features and usability of this database, will discover new functions associated with disordered proteins and regions, and will begin the development of an ontology for intrinsically disordered protein.  &lt;br/&gt;&lt;br/&gt;Intrinsically disordered proteins carry out a wide variety of functions.  A recent bioinformatics study suggests that, at a minimum, ~ 1/3 of protein-associated functions depend on protein disorder.  These disorder-dependent functions underlie critical cellular processes such as gene regulation, cell division, organization of protein-protein interaction networks, formation and regulation of function-determining signaling pathways, and so on.  Development of the DisProt Database will confirm that many particular biological functions suspected to depend on protein disorder actually do depend on disorder, will show the generality of many particular disorder examples, will lead to the discovery of new examples of disorder-dependent biological functions, and will provide for the first time a comprehensive evaluation of the roles of disorder in the cell.  A central repository of information on intrinsically disordered proteins has the potential of transforming the entire fields of cellular, molecular, chemical, and systems biology; biochemistry; and biophysics by revealing the common and critical dependence on protein disorder for a wide variety of fundamentally important biological processes.]]></AbstractNarration>
+<MinAmdLetterDate>08/26/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/26/2009</MaxAmdLetterDate>
+<ARRAAmount>1425995</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0849803</AwardID>
+<Investigator>
+<FirstName>Vladimir</FirstName>
+<LastName>Uversky</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vladimir N Uversky</PI_FULL_NAME>
+<EmailAddress><![CDATA[vuversky@health.usf.edu]]></EmailAddress>
+<NSF_ID>000487938</NSF_ID>
+<StartDate>08/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yuni</FirstName>
+<LastName>Xia</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yuni Xia</PI_FULL_NAME>
+<EmailAddress><![CDATA[yxia@cs.iupui.edu]]></EmailAddress>
+<NSF_ID>000196455</NSF_ID>
+<StartDate>08/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>A. Keith</FirstName>
+<LastName>Dunker</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>A. Keith Dunker</PI_FULL_NAME>
+<EmailAddress><![CDATA[kedunker@iupui.edu]]></EmailAddress>
+<NSF_ID>000448633</NSF_ID>
+<StartDate>08/26/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Indiana University</Name>
+<CityName>BLOOMINGTON</CityName>
+<ZipCode>474057000</ZipCode>
+<PhoneNumber>3172783473</PhoneNumber>
+<StreetAddress>107 S INDIANA AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YH86RTW2YVJ4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF INDIANA UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YH86RTW2YVJ4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Indiana University-Purdue University at Indianapolis]]></Name>
+<CityName>BLOOMINGTON</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>474057000</ZipCode>
+<StreetAddress><![CDATA[107 S INDIANA AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1144</Code>
+<Text>Molecular Biophysics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7275</Code>
+<Text>Cross-BIO Activities</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1165</Code>
+<Text>ADVANCES IN BIO INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9184</Code>
+<Text>BIOTECHNOLOGY - INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~1425995</FUND_OBLG>
+</Award>
+</rootTag>

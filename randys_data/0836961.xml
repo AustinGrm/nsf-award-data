@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Improved Student Learning of Microprocessor Systems Through Hands-On and Online Experience]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>148733.00</AwardTotalIntnAmount>
+<AwardAmount>148733</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Susan Finger</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Engineering - Electrical (55)&lt;br/&gt;&lt;br/&gt;This project endeavors to improve student learning in undergraduate microprocessor courses by adding a measurement capability through the use of logic analyzers.  The current practice in undergraduate microprocessor courses is to have a companion laboratory in which students can program microprocessors and observe some basic functionality through devices such as light emitting diodes and switches.   The addition of a logic analyzer to the laboratory allows students to measure and visualize the operation and functionality of the microprocessor more directly and in more detail than basic input and output devices allow.    In order to assess the impact of the additional measurement capability on student learning a study is being conducted using a control and treatment group design and both quantitative and qualitative instruments.   The second component of the project involves making the microprocessor laboratory with the logic analyzers available remotely over the internet to rural and tribal colleges in the state of Montana.  The efficacy of the remote laboratory with respect to student learning is also being formally studied using a control and treatment group design.    The project includes outreach efforts to tribal colleges in order to increase awareness of engineering and to encourage these institutions to adopt the remote laboratory.   Results of the studies are being disseminated through conference and journal publications.]]></AbstractNarration>
+<MinAmdLetterDate>06/02/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/02/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0836961</AwardID>
+<Investigator>
+<FirstName>Carolyn</FirstName>
+<LastName>Plumb</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carolyn Plumb</PI_FULL_NAME>
+<EmailAddress><![CDATA[cplumb@coe.montana.edu]]></EmailAddress>
+<NSF_ID>000417054</NSF_ID>
+<StartDate>06/02/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Brock</FirstName>
+<LastName>LaMeres</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brock J LaMeres</PI_FULL_NAME>
+<EmailAddress><![CDATA[lameres@ece.montana.edu]]></EmailAddress>
+<NSF_ID>000412355</NSF_ID>
+<StartDate>06/02/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Montana State University</Name>
+<CityName>BOZEMAN</CityName>
+<ZipCode>59717</ZipCode>
+<PhoneNumber>4069942381</PhoneNumber>
+<StreetAddress>216 MONTANA HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<StateCode>MT</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MT00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EJ3UF7TK8RT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MONTANA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>HD5YDTPGA865</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Montana State University]]></Name>
+<CityName>BOZEMAN</CityName>
+<StateCode>MT</StateCode>
+<ZipCode>59717</ZipCode>
+<StreetAddress><![CDATA[216 MONTANA HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MT00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9150</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0409</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>04000910DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>1300CYXXDB</Code>
+<Name><![CDATA[H-1B FUND, EHR, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~148733</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NEESR-SG: Development of Next Generation Adaptive Seismic Protection Systems</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>1591082.00</AwardTotalIntnAmount>
+<AwardAmount>1591082</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joy Pauschke</SignBlockName>
+<PO_EMAI>jpauschk@nsf.gov</PO_EMAI>
+<PO_PHON>7032927024</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is an outcome of the NSF 08-519 program solicitation George E. Brown, Jr. Network for Earthquake Engineering Simulation (NEES) Research (NEESR) competition and includes Rice University as the lead institution with subawards to the University at Buffalo, Rensselaer Polytechnic Institute, University of California-Los Angeles, and California State University-Fresno. Conventionally designed structural frame systems develop significant inelastic deformations under strong earthquakes, leading to inelastic hysteretic behavior, stiffness and strength degradation, increased interstory drifts, and damage with residual drift. Passive seismic protection systems in the form of supplemental damping devices have emerged as an effective approach for reducing response and limiting damage by shifting the inelastic energy dissipation from the framing system to the dampers. However, such dampers do not generally provide self-centering stiffness capability or counter stiffness degradation. Recent investigations have shown that a combination of adaptive stiffness and damping (ASD) devices can provide substantial response modification, particularly during near-fault pulse-type earthquakes. ASD devices offer structural response modification capability by optimally varying the restoring forces (stiffness) linked to the frequencies of vibration and dissipative forces (damping) that govern the behavior of a structural dynamic system. To date, adaptive stiffness systems have received relatively little attention as compared to supplemental damping systems and thus represent a significant gap in earthquake engineering. Hence, development of new ASD devices is necessary to shift the energy dissipation and associated stiffness variations from the structural system to the ASD devices to reduce damage in frames, eliminate residual interstory drift, and provide self-centering capability.  The research vision of this project is to develop the next generation of seismic protection systems by combining a new class of self-centering adaptive stiffness systems with highly efficient energy dissipation. The goal is to mimic the behavior of actively controlled devices by developing self-contained semi-active ASD devices with feedback and passive ASD devices with internal hydraulic feedback. The core strategy involves a comprehensive analytical and experimental investigation of potential active, semiactive, and passive systems followed by the synthesis and development of practical adjustable passive systems and self-contained semi-active systems for implementation in practical structures. Such an approach is consistent with that adopted in the defense industry and is expected to result in widespread application of ASD systems in civil structures. The project is expected to advance the state-of-the-art of increased resilience through structural response modification, contributing to earthquake hazard mitigation and expedient post earthquake recovery (due to easy replacement of ASD systems). The project will broadly impact earthquake engineering practice through educational outreach and wide dissemination of research findings through the project web site. Additionally, the project will have a significant impact on students from underrepresented groups through active involvement of a Hispanic Serving Institution. This project will utilize the NEES equipment site and experimental facilities at the University at Buffalo to achieve its goals. Following the experiments, all data from this project will be made available through the NEES data repository (http://www.nees.org).&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>08/19/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0830391</AwardID>
+<Investigator>
+<FirstName>Andrei</FirstName>
+<LastName>Reinhorn</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrei M Reinhorn</PI_FULL_NAME>
+<EmailAddress>reinhorn@buffalo.edu</EmailAddress>
+<NSF_ID>000185489</NSF_ID>
+<StartDate>08/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michalakis</FirstName>
+<LastName>Constantinou</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michalakis C Constantinou</PI_FULL_NAME>
+<EmailAddress>constan1@buffalo.edu</EmailAddress>
+<NSF_ID>000160338</NSF_ID>
+<StartDate>08/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Satish</FirstName>
+<LastName>Nagarajaiah</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Satish Nagarajaiah</PI_FULL_NAME>
+<EmailAddress>satish.nagarajaiah@rice.edu</EmailAddress>
+<NSF_ID>000258117</NSF_ID>
+<StartDate>08/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Symans</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael Symans</PI_FULL_NAME>
+<EmailAddress>symans@rpi.edu</EmailAddress>
+<NSF_ID>000175065</NSF_ID>
+<StartDate>08/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jian</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jian Zhang</PI_FULL_NAME>
+<EmailAddress>zhangj@ucla.edu</EmailAddress>
+<NSF_ID>000096984</NSF_ID>
+<StartDate>08/19/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>William Marsh Rice University</Name>
+<CityName>Houston</CityName>
+<ZipCode>770051827</ZipCode>
+<PhoneNumber>7133484820</PhoneNumber>
+<StreetAddress>6100 MAIN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX02</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>050299031</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>WILLIAM MARSH RICE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>050299031</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[William Marsh Rice University]]></Name>
+<CityName>Houston</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>770051827</ZipCode>
+<StreetAddress><![CDATA[6100 MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0304010</Code>
+<Name>Earthquake</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7396</Code>
+<Text>NEES RESEARCH</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>043E</Code>
+<Text>EARTHQUAKE ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1576</Code>
+<Text>NATIONL EARTHQK HZRD REDCT PRG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~1591082</FUND_OBLG>
+</Award>
+</rootTag>

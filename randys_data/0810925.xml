@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Efficient High Order Methods for Deterministic and Stochastic Problems in Flow Analysis and Control]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>251767.00</AwardTotalIntnAmount>
+<AwardAmount>251767</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Junping Wang</SignBlockName>
+<PO_EMAI>jwang@nsf.gov</PO_EMAI>
+<PO_PHON>7032924488</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Efficient, high order, spectral element algorithms will be developed to   analyze and control large-scale deterministic and stochastic problems in unsteady compressible fluid flow. The focus will be on spatial, temporal, polynomial chaos, and adjoint based optimal control algorithms that can be used for active control of complex time-dependent flows, particularly those that include the generation and propagation of aerodynamic noise. For the time and space approximations, we will develop discontinuous Galerkin spatial  &lt;br/&gt;approximations and high order, optimized implicit/explicit (IMEX) methods that minimize phase and dissipation errors.  Adjoint based methods for flow control will be used, and control strategies developed for appropriate use with the discontinuous Galerkin approximation. Since uncertainty is present in real flows, we will include efficient stochastic collocation approximations. Finally, we will allow controls to be deterministic or stochastic, and develop strategies to control flows in the presence of uncertainty.&lt;br/&gt;&lt;br/&gt;The class of problems addressed by these methods are of great practical importance and require very large, computationally intensive simulations with efficient and high order methods. The ability to control acoustic noise generation is important to a wide variety applications, from windmill farms to jet engines.  Problems of optimality under uncertainty occur frequently in a wide variety of problems in science, engineering and technology that have  &lt;br/&gt;probabilistic parameters, nondeterministic initial conditions, uncertain input situations, and models based on incomplete knowledge.  A large number of problems such as engineering design, supply allocation, production planning and scheduling, transportation, inventory networks, finance, energy systems, environmental protection, pattern recognition, and military logistics require that decisions be made in the presence of uncertainty. Uncertainty governs the prices of fuels, the availability of electricity, and the demand for chemicals. Much of life requires us to make optimal choices under uncertainty, i.e., to choose the optimum from some set of optional courses of action in uncertain situations. Clearly, the development of the mathematics and computational methods for optimal control with and without uncertainty has broad impacts both inside and outside mathematics.]]></AbstractNarration>
+<MinAmdLetterDate>07/09/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0810925</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Kopriva</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David Kopriva</PI_FULL_NAME>
+<EmailAddress><![CDATA[kopriva@math.fsu.edu]]></EmailAddress>
+<NSF_ID>000453059</NSF_ID>
+<StartDate>07/09/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mohammed</FirstName>
+<LastName>Hussaini</LastName>
+<PI_MID_INIT>Y</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mohammed Y Hussaini</PI_FULL_NAME>
+<EmailAddress><![CDATA[yousuff@fsu.edu]]></EmailAddress>
+<NSF_ID>000463732</NSF_ID>
+<StartDate>07/09/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida State University</Name>
+<CityName>TALLAHASSEE</CityName>
+<ZipCode>323060001</ZipCode>
+<PhoneNumber>8506445260</PhoneNumber>
+<StreetAddress>874 TRADITIONS WAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JF2BLNN4PJC3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D4GCCCMXR1H3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida State University]]></Name>
+<CityName>TALLAHASSEE</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>323060001</ZipCode>
+<StreetAddress><![CDATA[874 TRADITIONS WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7552</Code>
+<Text>COFFES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~251767</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Forensic Analysis Services]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2018</AwardExpirationDate>
+<AwardTotalIntnAmount>85000.00</AwardTotalIntnAmount>
+<AwardAmount>580258</AwardAmount>
+<AwardInstrument>
+<Value>Contract Interagency Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>00020100</Code>
+<Directorate>
+<Abbreviation/>
+<LongName/>
+</Directorate>
+<Division>
+<Abbreviation>OIG</Abbreviation>
+<LongName>Office Of Inspector General</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>keith nackerud</SignBlockName>
+<PO_EMAI>knackeru@nsf.gov</PO_EMAI>
+<PO_PHON>7032927423</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The Acquisition Services Directorate (Department of the Interior Franchise Fund)agrees to provide to the National Science Foundation Office of Inspector General (NSF OIG), acquisition support services related to a task order against a GSA Schedule for analysis services.]]></AbstractNarration>
+<MinAmdLetterDate>06/03/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/12/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0835870</AwardID>
+<Investigator>
+<FirstName>Anita</FirstName>
+<LastName>Tolliver</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anita Tolliver</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000504946</NSF_ID>
+<StartDate>06/03/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>ACQUISITION SERVICES DIRECTORATE NATIONAL BUSINESS CENTER</Name>
+<CityName>Washington</CityName>
+<ZipCode>202450003</ZipCode>
+<PhoneNumber>7037747613</PhoneNumber>
+<StreetAddress>1951 CONSTITUTION AVE NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[ACQUISITION SERVICES DIRECTORATE NATIONAL BUSINESS CENTER]]></Name>
+<CityName>Washington</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>202450003</ZipCode>
+<StreetAddress><![CDATA[1951 CONSTITUTION AVE NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>0658</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0808</Code>
+<Name>NSF Office of the Insp General</Name>
+<APP_SYMB_ID>490300</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0809</Code>
+<Name>NSF Office of the Insp General</Name>
+<APP_SYMB_ID>040300</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0810</Code>
+<Name>NSF Office of the Insp General</Name>
+<APP_SYMB_ID>040300</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0811</Code>
+<Name>NSF Office of the Insp General</Name>
+<APP_SYMB_ID>040300</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0812</Code>
+<Name>NSF Office of the Insp General</Name>
+<APP_SYMB_ID>040300</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0813</Code>
+<Name>NSF Office of the Insp General</Name>
+<APP_SYMB_ID>040300</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>08000809DB</Code>
+<Name><![CDATA[NSF Office of the Insp General]]></Name>
+<FUND_SYMB_ID>040300</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>08000909DB</Code>
+<Name><![CDATA[NSF Office of the Insp General]]></Name>
+<FUND_SYMB_ID>040300</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>08001010DB</Code>
+<Name><![CDATA[NSF Office of the Insp General]]></Name>
+<FUND_SYMB_ID>040300</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>08001111DB</Code>
+<Name><![CDATA[NSF Office of the Insp General]]></Name>
+<FUND_SYMB_ID>040300</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>08001212DB</Code>
+<Name><![CDATA[NSF Office of the Insp General]]></Name>
+<FUND_SYMB_ID>040300</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>08001313DB</Code>
+<Name><![CDATA[NSF Office of the Insp General]]></Name>
+<FUND_SYMB_ID>040300</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~85000</FUND_OBLG>
+<FUND_OBLG>2009~53000</FUND_OBLG>
+<FUND_OBLG>2010~185000</FUND_OBLG>
+<FUND_OBLG>2011~150000</FUND_OBLG>
+<FUND_OBLG>2012~25256</FUND_OBLG>
+<FUND_OBLG>2013~60000</FUND_OBLG>
+</Award>
+</rootTag>

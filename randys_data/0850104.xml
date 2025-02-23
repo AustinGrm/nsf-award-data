@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Quahog Cohorts: a community of student scientists</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2015</AwardExpirationDate>
+<AwardTotalIntnAmount>595583.00</AwardTotalIntnAmount>
+<AwardAmount>595583</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Tymann</SignBlockName>
+<PO_EMAI>ptymann@nsf.gov</PO_EMAI>
+<PO_PHON>7032922832</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Interdisciplinary (99)&lt;br/&gt;&lt;br/&gt;The vision of the Rhode Island College S-STEM project is to create a small but sustainable interdisciplinary community of student scientists.  The project is admitting a group of ten "Quahog Cohort" who are majoring in biology, chemistry, computer science, mathematics, and/or physics annually.  Each Cohort forms part of a Science, Computing and Mathematics Learning Community that take courses together for their first two years.  S-STEM students are being introduced in a "Community of Practice" to research in their freshman year and join a research group as sophomores.  As juniors and seniors, participants continue with courses in their respective majors, mentor younger Cohorts and help recruit new Cohorts, while becoming more deeply involved in their own research.   Supplementary activities include organized social activities each semester, STEM internships, and student travel to conferences.</AbstractNarration>
+<MinAmdLetterDate>02/06/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>12/16/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0850104</AwardID>
+<Investigator>
+<FirstName>Ann</FirstName>
+<LastName>Moskol</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ann E Moskol</PI_FULL_NAME>
+<EmailAddress>amoskol@providence.edu</EmailAddress>
+<NSF_ID>000110200</NSF_ID>
+<StartDate>02/06/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kathryn</FirstName>
+<LastName>Sanders</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kathryn E Sanders</PI_FULL_NAME>
+<EmailAddress>ksanders@ric.edu</EmailAddress>
+<NSF_ID>000143334</NSF_ID>
+<StartDate>02/06/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Glenisson</FirstName>
+<LastName>deOliveira</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Glenisson deOliveira</PI_FULL_NAME>
+<EmailAddress>gdeoliveira@ric.edu</EmailAddress>
+<NSF_ID>000061255</NSF_ID>
+<StartDate>02/06/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrea</FirstName>
+<LastName>Del Vecchio</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrea Del Vecchio</PI_FULL_NAME>
+<EmailAddress>adelvecchio@ric.edu</EmailAddress>
+<NSF_ID>000066245</NSF_ID>
+<StartDate>02/06/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Roland</FirstName>
+<LastName>deGouvenain</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME>Dr.</PI_SUFX_NAME>
+<PI_FULL_NAME>Roland deGouvenain</PI_FULL_NAME>
+<EmailAddress>rdegouvenain@ric.edu</EmailAddress>
+<NSF_ID>000074208</NSF_ID>
+<StartDate>02/06/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rhode Island College</Name>
+<CityName>PROVIDENCE</CityName>
+<ZipCode>029081924</ZipCode>
+<PhoneNumber>4014568228</PhoneNumber>
+<StreetAddress>600 MOUNT PLEASANT AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>RI02</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>075707588</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>RHODE ISLAND COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>075707588</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rhode Island College]]></Name>
+<CityName>PROVIDENCE</CityName>
+<StateCode>RI</StateCode>
+<ZipCode>029081924</ZipCode>
+<StreetAddress><![CDATA[600 MOUNT PLEASANT AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>RI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EHR, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~9150</FUND_OBLG>
+<FUND_OBLG>2010~586433</FUND_OBLG>
+</Award>
+</rootTag>

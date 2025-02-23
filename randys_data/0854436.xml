@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[IRES: U.S.-India Summer Program in Astrophysics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marjorie Lueck</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[0854436&lt;br/&gt;Hill&lt;br/&gt;&lt;br/&gt;This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;The International Research Experience for Students (IRES) award to Frank Hill, National Solar Observatory (NSO), Tucson will allow for the continuation of a successful IRES program recently established at NSO that provides qualified and motivated U.S. graduate students with the opportunity to perform scientific research at the Indian Institute of Astrophysics (IIS) in Bangalore, India.  The research covers all areas of astronomy and astrophysics, including solar physics, stellar evolution, pulsars, novae, and astronomical site testing.  The students, who are drawn from universities throughout the U.S. with graduate programs in astronomy and astrophysics, will gain experience in conducting research in collaboration with foreign investigators, exposure to India's culture, and the opportunity to develop networks with IIA scientists that will influence their future careers.  The program is evaluated using technical reports, cultural reports, and a participant survey for both students and mentors.  The student research reports are published on the NSO website: http://eo.nso.edu/ires/.&lt;br/&gt;Intellectual merit: Astronomy and astrophysics are fundamental scientific topics. Advances in these areas increase our understanding of the physical laws that govern the universe. Solar physics topics are increasingly relevant to daily life that depends on modern technology for communications, navigation and power distribution. The research conducted by the students and their Indian mentors contributes to all of these areas. &lt;br/&gt;Broader impacts: The exposure of U.S. graduate students to life in India increases their global cultural sensitivity, leading to an enhanced appreciation for the accomplishments of other societies. By working with IIA scientists, the program provides the students with opportunities for future scientific collaborations.]]></AbstractNarration>
+<MinAmdLetterDate>08/19/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/19/2009</MaxAmdLetterDate>
+<ARRAAmount>150000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0854436</AwardID>
+<Investigator>
+<FirstName>Frank</FirstName>
+<LastName>Hill</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Frank Hill</PI_FULL_NAME>
+<EmailAddress><![CDATA[fhill@nso.edu]]></EmailAddress>
+<NSF_ID>000202055</NSF_ID>
+<StartDate>08/19/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Association of Universities for Research in Astronomy, Inc.</Name>
+<CityName>TUCSON</CityName>
+<ZipCode>857194933</ZipCode>
+<PhoneNumber>2024832101</PhoneNumber>
+<StreetAddress>950 N CHERRY AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LFDKLGTB62C4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ASSOCIATION OF UNIVERSITIES FOR RESEARCH IN ASTRONOMY, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Association of Universities for Research in Astronomy, Inc.]]></Name>
+<CityName>TUCSON</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>857194933</ZipCode>
+<StreetAddress><![CDATA[950 N CHERRY AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7727</Code>
+<Text>IRES Track I: IRES Sites (IS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5919</Code>
+<Text>INDIA (COOPERATIVE SCIENCE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5976</Code>
+<Text>AFRICA, NEAR EAST, &amp; SO ASIA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~150000</FUND_OBLG>
+</Award>
+</rootTag>

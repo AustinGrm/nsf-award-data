@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Conference-EC-US Task Force Joint US-EU Workshop on Metabolomics and Environmental Biotechnology]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>15000.00</AwardTotalIntnAmount>
+<AwardAmount>15000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010209</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matthew Kane</SignBlockName>
+<PO_EMAI>mkane@nsf.gov</PO_EMAI>
+<PO_PHON>7032927186</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The European Commission (EC)-United States (US) Task Force on Biotechnology Research has a longstanding joint Working Group on Biotechnology for the Environment whose mission is to foster collaborations between researchers in the European Union (EU) and US in the field of environmental biotechnology. A special focus of the Working Group is to increase scientific interchange between early career scientists in the US and EU. Such interactions provide a&lt;br/&gt;foundation for long-term collaborations and aid in solving environmental problems that challenge both groups and respect no international boundaries.&lt;br/&gt;In keeping with the mission of the Working Group, a joint United States European Commission Workshop on Metabolomics and Environmental Biotechnology is planned for Mallorca, Spain on June 16-17, 2008. This award provides support for a limited number of US participants.  The goals of this Workshop include: 1) The exploration of current applications of metabolome science to environmental biotechnology- what is the present state of the art?  2) The examination of future roles that metabolomics can play in environmental biotechnologywhat are the potential applications for the future and what needs must be met to realize this potential? 3) To provide a forum for scientific exchange of knowledge and ideas by researchers investigating these issues thereby presenting new opportunities for collaboration. 4) To encourage the next generation of leaders in the field to collaborate across the Atlantic.  5) To broaden participation of underrepresented groups in science in all of the above.]]></AbstractNarration>
+<MinAmdLetterDate>08/26/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/26/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0814529</AwardID>
+<Investigator>
+<FirstName>Lily</FirstName>
+<LastName>Young</LastName>
+<PI_MID_INIT>Y</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lily Y Young</PI_FULL_NAME>
+<EmailAddress><![CDATA[Lyoung@aesop.rutgers.edu]]></EmailAddress>
+<NSF_ID>000176518</NSF_ID>
+<StartDate>08/26/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gerben</FirstName>
+<LastName>Zylstra</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gerben J Zylstra</PI_FULL_NAME>
+<EmailAddress><![CDATA[zylstra@aesop.rutgers.edu]]></EmailAddress>
+<NSF_ID>000262785</NSF_ID>
+<StartDate>08/26/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rutgers University New Brunswick</Name>
+<CityName>NEW BRUNSWICK</CityName>
+<ZipCode>089018559</ZipCode>
+<PhoneNumber>8489320150</PhoneNumber>
+<StreetAddress>3 RUTGERS PLZA</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M1LVPE5GLSD9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M1LVPE5GLSD9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rutgers University New Brunswick]]></Name>
+<CityName>NEW BRUNSWICK</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>089018559</ZipCode>
+<StreetAddress><![CDATA[3 RUTGERS PLZA]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1181</Code>
+<Text>ECOSYSTEM STUDIES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9104</Code>
+<Text>ENVIRONMENTAL BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~15000</FUND_OBLG>
+</Award>
+</rootTag>

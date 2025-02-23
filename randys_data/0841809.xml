@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[COLLABORATIVE RESEARCH:   Interactive effects of chronic N deposition, acidification, and phosphorus limitation on coupled element cycling in streams]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>275573.00</AwardTotalIntnAmount>
+<AwardAmount>88680</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010209</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Todd A. Crowl</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Human activity has doubled the amount of nitrogen on the landscape, creating a pollution problem and changing the balance among multiple nutrients that limit biological activity in ecosystems.  At the same time, other disturbances, such as acidification, interact with nitrogen enrichment in ways that strongly influence the productivity and health of terrestrial and aquatic ecosystems.  This project examines the interactions among multiple elements and disturbances (nitrogen, phosphorus, metals, and acidification) along a continuum from the atmosphere through soils to streams.  This project takes advantage of two unique experiments in which entire watersheds have been experimentally enriched with nitrogen and acid for nearly two decades.  A series of new studies in those watersheds examine how chemical and biological changes in soils alter the ability of streams to take up, use, and retain nitrogen and phosphorus.  These nutrient interactions are then related to important biological processes that affect the productivity and health of streams.&lt;br/&gt;&lt;br/&gt;This research addresses an important pollution problem that requires an approach that integrates biology and geochemistry along flow paths that link the terrestrial and aquatic ecosystems.  This type of integration is a challenge, but needed for effective environmental management, environmental research, and science teaching.  Results from this project and interactions between university and US Forest Service researchers will inform effective management of watersheds faced with multiple pollution problems.  A series of collaborative workshops in which high school, undergraduate, and graduate students work with researchers and teachers will promote multidisciplinary learning.  The collaboration will seek to develop a computer simulation model for use in teaching integrated biology and chemistry in high school and college science curricula.  &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>04/27/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>04/27/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0841809</AwardID>
+<Investigator>
+<FirstName>Herbert</FirstName>
+<LastName>Valett</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Herbert M Valett</PI_FULL_NAME>
+<EmailAddress><![CDATA[maury.valett@umontana.edu]]></EmailAddress>
+<NSF_ID>000559948</NSF_ID>
+<StartDate>04/27/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mary Beth</FirstName>
+<LastName>Adams</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mary Beth Adams</PI_FULL_NAME>
+<EmailAddress><![CDATA[mbadams@fs.fed.us]]></EmailAddress>
+<NSF_ID>000294732</NSF_ID>
+<StartDate>04/27/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240603359</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>300 TURNER ST NW</StreetAddress>
+<StreetAddress2><![CDATA[STE 4200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QDE5UHE5XD16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIRGINIA POLYTECHNIC INSTITUTE &amp; STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M515A1DKXAN8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Virginia Polytechnic Institute and State University]]></Name>
+<CityName>BLACKSBURG</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>240603359</ZipCode>
+<StreetAddress><![CDATA[300 TURNER ST NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1181</Code>
+<Text>ECOSYSTEM STUDIES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1181</Code>
+<Text>ECOSYSTEM STUDIES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~9017</FUND_OBLG>
+</Award>
+</rootTag>

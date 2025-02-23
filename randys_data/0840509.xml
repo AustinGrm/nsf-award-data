@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Upgrade of NMR Facilities for Research and Teaching]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>340800.00</AwardTotalIntnAmount>
+<AwardAmount>340800</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090002</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos Murillo</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;With support from the Chemistry Research Instrumentation and Facilities:Multiuser program (CRIF:MU), the Department of Chemistry at the University of Texas at Arlington (UTA) will upgrade a 500 MHz nuclear magnetic resonance (NMR) spectrometer with a new console and broadband probe and obtain two sample carousels (for a 300 MHz and the 500 MHz spectrometer).  The research activity to be supported by this instrument spans areas in synthetic organic, inorganic, physical organic, and polymer chemistry. These include the study of (i) multi-metal complexes for light harvesting, (ii) metal complexes of new fluorinated poly(pyrazolyl)borate ligands with  unusual catalytic and luminescent properties, (iii) polymeric materials with enhanced electrical conductivity, possible superconductivity, and electro- and photo luminescent properties, (iv) the total synthesis of bioactive alkaloids, (v) the development of new organocatalysts, and (vi) synthetic methods development.&lt;br/&gt; &lt;br/&gt;NMR spectroscopy is a powerful tool essential for progress in modern chemical research.  NMR spectra enable researchers to study how molecules react and to identify reaction products and unstable reaction intermediates. Structural information on how the atoms are connected in the molecules under study is obtained from observing transitions between energy levels arising from the nuclear magnetic spin properties of atoms.  The instruments will be used to support research projects of undergraduate, graduate and postdoctoral students at UTA and train them in the use of state-of-the-art instrumentation.  UTA will pilot a program with Tarrant County College to allow students in a sophomore organic lab to obtain and interpret data from their experiments.]]></AbstractNarration>
+<MinAmdLetterDate>08/02/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/02/2009</MaxAmdLetterDate>
+<ARRAAmount>340800</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0840509</AwardID>
+<Investigator>
+<FirstName>Martin</FirstName>
+<LastName>Pomerantz</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Martin Pomerantz</PI_FULL_NAME>
+<EmailAddress><![CDATA[pomerantz@uta.edu]]></EmailAddress>
+<NSF_ID>000172869</NSF_ID>
+<StartDate>08/02/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Purnendu</FirstName>
+<LastName>Dasgupta</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Purnendu K Dasgupta</PI_FULL_NAME>
+<EmailAddress><![CDATA[Dasgupta@uta.edu]]></EmailAddress>
+<NSF_ID>000361177</NSF_ID>
+<StartDate>08/02/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rasika</FirstName>
+<LastName>Dias</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rasika Dias</PI_FULL_NAME>
+<EmailAddress><![CDATA[dias@uta.edu]]></EmailAddress>
+<NSF_ID>000458825</NSF_ID>
+<StartDate>08/02/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Carl</FirstName>
+<LastName>Lovely</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carl J Lovely</PI_FULL_NAME>
+<EmailAddress><![CDATA[lovely@uta.edu]]></EmailAddress>
+<NSF_ID>000275936</NSF_ID>
+<StartDate>08/02/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>O'Brien</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christopher J O'Brien</PI_FULL_NAME>
+<EmailAddress><![CDATA[cobrien@uta.edu]]></EmailAddress>
+<NSF_ID>000079686</NSF_ID>
+<StartDate>08/02/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Arlington</Name>
+<CityName>ARLINGTON</CityName>
+<ZipCode>760199800</ZipCode>
+<PhoneNumber>8172722105</PhoneNumber>
+<StreetAddress>701 S. NEDDERMAN DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LMLUKUPJJ9N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF TEXAS AT ARLINGTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Arlington]]></Name>
+<CityName>ARLINGTON</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>760199800</ZipCode>
+<StreetAddress><![CDATA[701 S. NEDDERMAN DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1938</Code>
+<Text>Chemical Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1108</Code>
+<Text>INSTRUMENTAT &amp; INSTRUMENT DEVP</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9162</Code>
+<Text>MULTI DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~340800</FUND_OBLG>
+</Award>
+</rootTag>

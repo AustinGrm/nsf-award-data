@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Variable Selection in High Dimensional Feature Space with Applications to Covariance Matrix Estimation and Functional Data Analysis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>80270.00</AwardTotalIntnAmount>
+<AwardAmount>80270</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gabor Szekely</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Variable selection plays an important role in high dimensional statistical modeling which nowadays arises in many scientific investigations. The investigator studies variable selection techniques built upon the machinery of regularization for high dimensional statistical modeling, develops new approaches to variable screening for high dimensional feature space, and explores the applications of these techniques to high dimensional sparse inference. Three interrelated research topics are proposed for investigation. First, the investigator studies a unified approach to variable selection with penalized likelihood which simultaneously selects significant variables and estimates their regression coefficients, and develops sure screening techniques applicable to ultra-high dimensional feature space. Second, factor models are proposed to estimate large scale covariance matrices while variable selection techniques are invoked to construct the factors, and covariance selection is also investigated. Third, the investigator studies the applications of variable selection techniques to functional data analysis where the regression coefficient functions exhibit various kinds of sparsity.&lt;br/&gt;&lt;br/&gt;The analysis of vast data sets now commonly arising in many scientific disciplines and engineering problems poses numerous challenges to statistical theory and methodology that are not present in smaller scale studies. A major goal of this proposal is to make methodological and theoretical contributions to the important and challenging topic of high dimensional variable selection. These new developments provide further understanding of various regularization methods in high dimensions, and allow scientists to analyze high dimensional data with efficient dimension reduction and increased interpretability. The challenges of high dimensionality arise from diverse fields of sciences and humanities ranging from genomics and health sciences to economics and finance. The proposed work on variable selection in high dimensions will not only help better identify factors that are important to, for instance, public health or market risk, but also benefit a broad range of scientists and researchers in various fields.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>05/13/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/13/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0806030</AwardID>
+<Investigator>
+<FirstName>Jinchi</FirstName>
+<LastName>Lv</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jinchi Lv</PI_FULL_NAME>
+<EmailAddress><![CDATA[jinchilv@usc.edu]]></EmailAddress>
+<NSF_ID>000082144</NSF_ID>
+<StartDate>05/13/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Southern California</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900894304</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress>3720 S FLOWER ST</StreetAddress>
+<StreetAddress2><![CDATA[FL 3]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA37</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G88KLJR3KYT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTHERN CALIFORNIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>LOS ANGELES</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900894304</ZipCode>
+<StreetAddress><![CDATA[3720 S FLOWER ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~80270</FUND_OBLG>
+</Award>
+</rootTag>

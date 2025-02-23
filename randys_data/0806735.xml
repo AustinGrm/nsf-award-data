@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Scholars of Excellence in Engineering and Computer Science]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>600000.00</AwardTotalIntnAmount>
+<AwardAmount>600000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nicole Bennett</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This five year project is a STEM scholarship program called Scholars of Excellence in Engineering and Computer Science (SEECS). The scholarships support 20 academically promising, financially needy students per year studying in one of the six majors in the School of Engineering and Computer Science. The intellectual merit derives from the program structured agenda that supports the academic, personal, and professional development of scholars. Through group activities and a Professional Development course, the program enhances the bond among scholars as a way of increasing retention. In line with the University commitment to community engagement, the program also includes a service-learning project that involves the scholar cohort working on a STEM project that meets a community need. Enrichment activities make students more aware of the role of STEM professionals and help them develop the social and leadership skills for their future careers.]]></AbstractNarration>
+<MinAmdLetterDate>07/21/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/21/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0806735</AwardID>
+<Investigator>
+<FirstName>Karinna</FirstName>
+<LastName>Vernaza</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Karinna M Vernaza</PI_FULL_NAME>
+<EmailAddress><![CDATA[vernaza001@gannon.edu]]></EmailAddress>
+<NSF_ID>000039543</NSF_ID>
+<StartDate>07/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Steinbrink</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Scott E Steinbrink</PI_FULL_NAME>
+<EmailAddress><![CDATA[steinbrink@gannon.edu]]></EmailAddress>
+<NSF_ID>000418942</NSF_ID>
+<StartDate>07/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Theresa</FirstName>
+<LastName>Vitolo</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Theresa M Vitolo</PI_FULL_NAME>
+<EmailAddress><![CDATA[vitolo@gannon.edu]]></EmailAddress>
+<NSF_ID>000223199</NSF_ID>
+<StartDate>07/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Barry</FirstName>
+<LastName>Brinkman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Barry Brinkman</PI_FULL_NAME>
+<EmailAddress><![CDATA[brinkman001@gannon.edu]]></EmailAddress>
+<NSF_ID>000283834</NSF_ID>
+<StartDate>07/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Gannon University</Name>
+<CityName>ERIE</CityName>
+<ZipCode>165410002</ZipCode>
+<PhoneNumber>8148717000</PhoneNumber>
+<StreetAddress>109 UNIVERSITY SQ</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YJ9XVUTKJ1T9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GANNON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Gannon University]]></Name>
+<CityName>ERIE</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>165410002</ZipCode>
+<StreetAddress><![CDATA[109 UNIVERSITY SQ]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~600000</FUND_OBLG>
+</Award>
+</rootTag>

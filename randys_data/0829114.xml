@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Thermochemical production of fuels: Solar energy after dark]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>348271</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ram Gupta</SignBlockName>
+<PO_EMAI>ragupta@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[CBET-0829114&lt;br/&gt;Haile&lt;br/&gt;&lt;br/&gt;More energy from sunlight strikes the earth in one hour than all of the energy consumed on the planet in one year. Thus, the challenge modern society faces is not one of identifying a sustainable energy source, but rather one of capitalizing on the vast solar resource base. To truly transform our energy production technologies, we need to go beyond efficient capture of solar energy for immediate electricity generation and turn to the problem of convenient storage of the energy from this intermittent source for on-demand utilization. To address this challenge of solar energy at night, we propose an elegant strategy that relies on the oxygen uptake and release capacity of selected metal oxides. Specifically, a metal oxide is cycled between, for example, MO2 and MO2-, using thermal energy as the input and the changes in oxidation state utilized to produce a chemical fuel, as shown schematically for hydrogen production in the panel. The thermal energy ideally derives from solar-thermal concentration, but may also be derived from nuclear power plants. &lt;br/&gt;In this work, we specifically focus on ceria-based oxides, which have already demonstrated promise for this application, while pursuing exploratory studies using oxides with wide non-stoichiometry ranges and rapid oxygen transport kinetics. By careful selection of the reaction substrate and/or judicious use of catalysts, we anticipate production not only of hydrogen fuel, as shown in the panel, but also carbon containing fuels (syngas, methane, methanol) when carbon dioxide is used as an additional input reactant. Beyond the bulk nature of the material, we will explore the role of architecture in optimizing fuel productivity. We will fabricate monolithic reaction substrates based on inverse opal structures, which combine the features of low tortuosity (low resistance to gas phase mass transport), short solid state diffusion paths and sufficiently high surface and are more robust against coarsening and performance degradation than particle based reaction substrates. The experimental plan thus encompasses a broad range of thermodynamic and kinetic studies to elucidate reaction pathways, which, in turn, are essential for system optimization.&lt;br/&gt;&lt;br/&gt;Beyond the fundamental scientific questions concerning the thermochemical production of fuels that these studies will answer, the proposed work addresses the key technological challenge of solar energy storage. As envisioned, the fuel production process is simple, utilizes earth-abundant elements, and permits production of a variety of reduced chemical fuels (H2, CH4, CH3OH, etc.). The breadth of tools to be utilized combined with the high level of public interest in energy technologies renders this an ideal program for training future materials scientists. Furthermore, the continued commitment of the PI to public outreach (through, for example, the PI's participation in the California Science Center exhibits on fuel cells for transportation and for sustainable energy) will ensure that these results are disseminated to society as a whole. For this program in particular, the PI is committed to hosting two summer high school students who will come to Caltech via the Institute for Educational Advancement.]]></AbstractNarration>
+<MinAmdLetterDate>07/30/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/12/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0829114</AwardID>
+<Investigator>
+<FirstName>Sossina</FirstName>
+<LastName>Haile</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sossina M Haile</PI_FULL_NAME>
+<EmailAddress><![CDATA[sossina.haile@northwestern.edu]]></EmailAddress>
+<NSF_ID>000382491</NSF_ID>
+<StartDate>07/30/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California Institute of Technology</Name>
+<CityName>PASADENA</CityName>
+<ZipCode>911250001</ZipCode>
+<PhoneNumber>6263956219</PhoneNumber>
+<StreetAddress>1200 E CALIFORNIA BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA28</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U2JMKHNS5TG4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CALIFORNIA INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[California Institute of Technology]]></Name>
+<CityName>PASADENA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>911250001</ZipCode>
+<StreetAddress><![CDATA[1200 E CALIFORNIA BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA28</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0306000</Code>
+<Name>Energy Research &amp; Resources</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1403</Code>
+<Text>Proc Sys, Reac Eng &amp; Mol Therm</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7644</Code>
+<Text>EchemS-Electrochemical Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>045E</Code>
+<Text>Adv Mats for Separation Process</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>090E</Code>
+<Text>Chem/Bio and Physical Diagnostics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~300000</FUND_OBLG>
+<FUND_OBLG>2009~48271</FUND_OBLG>
+</Award>
+</rootTag>

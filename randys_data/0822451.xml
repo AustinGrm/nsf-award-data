@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Adiabatic wavelength conversion in active optical resonators]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>329889.00</AwardTotalIntnAmount>
+<AwardAmount>329889</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dominique Dagenais</SignBlockName>
+<PO_EMAI>ddagenai@nsf.gov</PO_EMAI>
+<PO_PHON>7032922980</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Objective: This proposal seeks to study adiabatic wavelength conversion in active optical resonators, providing a rich research opportunity for two PhD students while expanding fundamental knowledge of the behavior of light.&lt;br/&gt;&lt;br/&gt;Intellectual Merit: Adiabatic wavelength conversion is a relatively unexplored area of optical physics that is expanding fundamental knowledge of the behavior of light and presenting new solutions for photonic routing, data management, signal processing, and pulse-shape control. Previous research is limited in the magnitude of wavelength change because it employed passive optical resonators with short photon lifetimes. The proposed research will make use of active optical resonators (resonators with gain) that exhibit much longer photon lifetimes and thus a larger magnitude of wavelength change. Theoretical investigations will model aspects such as gain saturation and spontaneous emission, and will be complemented by experimental studies in active Indium Phosphide resonators. This semiconductor platform allows control of wavelength conversion via auxiliary optical pulses having sub-milliwatt powers and telecommunication wavelengths.&lt;br/&gt;&lt;br/&gt;Broader Impact: The proposed activity will provide a rich theoretical and experimental research experience for two Ph. D. students and will train them in an area of national importance; equal opportunity will be given to interested female and minority candidates in the tradition of the University of Rochester. Emphasis will be placed on communicating research findings to the global scientific community through peer-reviewed journal papers and major international conferences. Results will also be integrated directly into graduate and undergraduate courses on optoelectronics and lightwave technology at The Institute of Optics.&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/31/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/31/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0822451</AwardID>
+<Investigator>
+<FirstName>Govind</FirstName>
+<LastName>Agrawal</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Govind P Agrawal</PI_FULL_NAME>
+<EmailAddress><![CDATA[gpa@optics.rochester.edu]]></EmailAddress>
+<NSF_ID>000127777</NSF_ID>
+<StartDate>07/31/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Drew</FirstName>
+<LastName>Maywar</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Drew N Maywar</PI_FULL_NAME>
+<EmailAddress><![CDATA[dnmiee@rit.edu]]></EmailAddress>
+<NSF_ID>000318967</NSF_ID>
+<StartDate>07/31/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Rochester</Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>146113847</ZipCode>
+<PhoneNumber>5852754031</PhoneNumber>
+<StreetAddress>910 GENESEE ST</StreetAddress>
+<StreetAddress2><![CDATA[STE 200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F27KDXZMF9Y8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ROCHESTER</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Rochester]]></Name>
+<CityName>ROCHESTER</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>146113847</ZipCode>
+<StreetAddress><![CDATA[910 GENESEE ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0206000</Code>
+<Name>Telecommunications</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1517</Code>
+<Text>EPMD-ElectrnPhoton&amp;MagnDevices</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>101E</Code>
+<Text>Printed and flexible electronics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>103E</Code>
+<Text>Energy efficient electronics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~92489</FUND_OBLG>
+</Award>
+</rootTag>

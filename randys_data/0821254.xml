@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI:  Acquisition of a Cyber-enabled Benchtop Single Crystal X-ray Diffractometer for Small Molecule Structure Analysis for Research and Educational Purposes.</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>124880.00</AwardTotalIntnAmount>
+<AwardAmount>124880</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos Murillo</SignBlockName>
+<PO_EMAI>cmurillo@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With this award from the Major Research Instrumentation program (MRI), Benjamin R. Martin and colleagues Gary W. Beall, Michael Blander, and Debra Feakes from the Texas State University-San Marcos will acquire a single-crystal X-ray diffractometer of the so-called mini-type that will also benefit a consortium of five schools across Texas. These schools have established a collaborative research program.  The instrumentation will strengthen research endeavors and spark new explorations in areas involving sulfide and selenide materials, solid state linkage isomerism and ligand substitution in transition metal cyanide complexes, conformational isomers of immobilized calix[6]arenes, polyhedral borane anions, sulfido-bridged iron compounds and magnetostructural studies of Ni(II) dimers, preparation of titanium complexes as well as a variety of topics proposed by collaborators from Lamar University, San Antonio College, Texas Lutheran University and Sam Houston State University.  The collaborating institutions will place a strong emphasis on hands-on graduate and undergraduate involvement in research.&lt;br/&gt;&lt;br/&gt;The technique of single-crystal X-ray crystallography allows accurate and precise determination of the full three dimensional structure of a molecule, including bond distances and angles, and it provides accurate information about the spatial arrangement of molecules relative to the neighboring molecules. These studies will have an impact in a number of areas ranging from synthetic chemistry to systems of biological interest and cleaning of the environment.</AbstractNarration>
+<MinAmdLetterDate>07/15/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0821254</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Blanda</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael Blanda</PI_FULL_NAME>
+<EmailAddress>mb29@txstate.edu</EmailAddress>
+<NSF_ID>000366497</NSF_ID>
+<StartDate>07/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Debra</FirstName>
+<LastName>Feakes</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Debra Feakes</PI_FULL_NAME>
+<EmailAddress>df10@txstate.edu</EmailAddress>
+<NSF_ID>000416232</NSF_ID>
+<StartDate>07/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gary</FirstName>
+<LastName>Beall</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gary W Beall</PI_FULL_NAME>
+<EmailAddress>gb11@swt.edu</EmailAddress>
+<NSF_ID>000369153</NSF_ID>
+<StartDate>07/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Benjamin</FirstName>
+<LastName>Martin</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Benjamin R Martin</PI_FULL_NAME>
+<EmailAddress>bm21@txstate.edu</EmailAddress>
+<NSF_ID>000396541</NSF_ID>
+<StartDate>07/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas State University - San Marcos</Name>
+<CityName>San Marcos</CityName>
+<ZipCode>786664616</ZipCode>
+<PhoneNumber>5122452314</PhoneNumber>
+<StreetAddress>601 University Drive</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>35</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX35</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>074602368</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>TEXAS STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>101405814</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas State University - San Marcos]]></Name>
+<CityName>San Marcos</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>786664616</ZipCode>
+<StreetAddress><![CDATA[601 University Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>35</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX35</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~124880</FUND_OBLG>
+</Award>
+</rootTag>

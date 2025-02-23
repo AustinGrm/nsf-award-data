@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Labor Supply, Saving, and Marital Decisions</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/04/2007</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>84216.00</AwardTotalIntnAmount>
+<AwardAmount>84216</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050100</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Lutz</SignBlockName>
+<PO_EMAI>nlutz@nsf.gov</PO_EMAI>
+<PO_PHON>7032927280</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Intellectual Merit.&lt;br/&gt;Evidence collected using the Panel Study of Income Dynamics (PSID) indicates that labor supply, saving, and marital decisions are strictly linked. The most striking findings are related to couples in the year before divorce. Household saving drops significantly. Labor supply of married men decreases slightly and the labor supply of married women rises by more than 200 hours a year relative to the average couple. Evidence gathered from the Irish section of the European Community Household Panel Survey (ECHP) suggests that household decisions are affected by changes in the outside options available to individual members. Specically, Mazzocco and Chiappori (2004) find that the introduction of divorce in Ireland had two main effects. First, it significantly raised the probability of supplying labor for married women. Second, it increased the amount of hours supplied on the labor market by married men. In both cases, the effect is stronger for spouses married to individuals with more education.&lt;br/&gt;This research project has three main goals. The first goal is to develop a realistic model of household behavior that can capture the empirical features of labor supply, saving, and marital choices. To that end a model with the following two properties is developed. First, couples make efficient decisions with the constraint that individual members cannot commit to future allocations of resources. Second, married and single agents can transfer resources over time by investing in financial assets and human capital. The second aim is to estimate the model using the PSID and the Simulated Method of Moments (SMM). The third goal is to employ the estimated framework to evaluate the effect of the introduction of divorce in Ireland on individual welfare. This project is one of the first attempts to estimate a unified model of labor supply, wealth, and  marital decisions.&lt;br/&gt;Broader Impacts.&lt;br/&gt;In the past twenty years, policy makers have implemented policies to modify household decisions on saving, human capital, and labor supply. Changes in tax rates on pension assets, asset-based means-tested welfare programs, marriage penalty relief programs are only a few examples of such policies. The empirical evidence indicates that the evaluation of these policies requires a framework with two features: (i) the relations between marital, labor supply, and financial choices should be modeled; (ii) the dynamics of the individual outside options should affect household decisions. This research project develops a model with these properties and proposes to estimate its parameters. The preliminary results suggest that, once estimated, the model will be a useful framework to think about and evaluate public policies designed to affect household intertemporal decisions.&lt;br/&gt;&lt;br/&gt;Since this project analyzes the relations between marital, labor supply, and financial decisions, the results will have an impact on the branches of sociology and demography which focus on family decisions. Finally, the model developed in this research project enables one to determine the effect of changes in individual outside options on the relative decision power of the wife and husband,and hence on their welfare. As a consequence, this research project will also influence the areas of sociology and demography which are interested in women's decisions and welfare.</AbstractNarration>
+<MinAmdLetterDate>03/18/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>03/18/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0827644</AwardID>
+<Investigator>
+<FirstName>Maurizio</FirstName>
+<LastName>Mazzocco</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Maurizio Mazzocco</PI_FULL_NAME>
+<EmailAddress>mmazzocc@econ.ucla.edu</EmailAddress>
+<NSF_ID>000310566</NSF_ID>
+<StartDate>03/18/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Los Angeles</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900951406</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress>10889 Wilshire Boulevard</StreetAddress>
+<StreetAddress2><![CDATA[Suite 700]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>33</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA33</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>092530369</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, LOS ANGELES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>071549000</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Los Angeles]]></Name>
+<CityName>LOS ANGELES</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900951406</ZipCode>
+<StreetAddress><![CDATA[10889 Wilshire Boulevard]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>33</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA33</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1320</Code>
+<Text>Economics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0106</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>490100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0107</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>490100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2006~14745</FUND_OBLG>
+<FUND_OBLG>2007~69471</FUND_OBLG>
+</Award>
+</rootTag>

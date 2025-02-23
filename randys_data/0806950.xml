@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[The NSF S-STEM Program for Computer Science Recruitment, Retention and Research]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>600000.00</AwardTotalIntnAmount>
+<AwardAmount>600000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Amy Chan Hilton</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The S-STEM Program for Computer Science Recruitment, Retention and Research (CS3R) recruits and provides scholarships for 16 undergraduate students and 12 graduate students who are academically talented and financially needy. Through a wide range of support structures and resources, as well as the leadership of an experienced management team, the project is ensuring that scholarship recipients receive all crucial support necessary to achieve success in the computer science discipline. The S-STEM CS3R project recruits S-STEM student candidates using a variety of approaches targeting underrepresented African American students. To help the S-STEM scholars to succeed, comprehensive mentoring services are provided, including faculty mentors, peer mentors, and alumni mentors. The educational plans and academic performance of the S-STEM scholars are closely monitored in order to retain them in the scholarship program. The S-STEM CS3R project also involves the S-STEM scholars in the various research programs in the department to integrate research into education, and to develop the students' research capabilities. To build the S-STEM community, the project includes such activities as welcome receptions, monthly seminars and an end-of-semester picnic. The S-STEM CS3R project increases the industrial experience opportunities for the scholarship recipients and increases their leadership potential through fostering habits of involvement.]]></AbstractNarration>
+<MinAmdLetterDate>06/30/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0806950</AwardID>
+<Investigator>
+<FirstName>Huiming Anna</FirstName>
+<LastName>Yu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Huiming Anna Yu</PI_FULL_NAME>
+<EmailAddress><![CDATA[cshmyu@ncat.edu]]></EmailAddress>
+<NSF_ID>000194461</NSF_ID>
+<StartDate>06/30/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xiaohong</FirstName>
+<LastName>Yuan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiaohong Yuan</PI_FULL_NAME>
+<EmailAddress><![CDATA[xhyuan@ncat.edu]]></EmailAddress>
+<NSF_ID>000482927</NSF_ID>
+<StartDate>06/30/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jung Hee</FirstName>
+<LastName>Kim</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jung Hee Kim</PI_FULL_NAME>
+<EmailAddress><![CDATA[jungkim@ncat.edu]]></EmailAddress>
+<NSF_ID>000312709</NSF_ID>
+<StartDate>06/30/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shearon</FirstName>
+<LastName>Brown</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shearon A Brown</PI_FULL_NAME>
+<EmailAddress><![CDATA[sab@ncat.edu]]></EmailAddress>
+<NSF_ID>000067516</NSF_ID>
+<StartDate>06/30/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gerry</FirstName>
+<LastName>Dozier</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gerry V Dozier</PI_FULL_NAME>
+<EmailAddress><![CDATA[gvdozier@ncat.edu]]></EmailAddress>
+<NSF_ID>000078680</NSF_ID>
+<StartDate>06/30/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina Agricultural &amp; Technical State University</Name>
+<CityName>GREENSBORO</CityName>
+<ZipCode>274110002</ZipCode>
+<PhoneNumber>3363347995</PhoneNumber>
+<StreetAddress>1601 E MARKET ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SKH5GMBR9GL3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTH CAROLINA AGRICULTURAL AND TECHNICAL STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[North Carolina Agricultural &amp; Technical State University]]></Name>
+<CityName>GREENSBORO</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>274110002</ZipCode>
+<StreetAddress><![CDATA[1601 E MARKET ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~600000</FUND_OBLG>
+</Award>
+</rootTag>

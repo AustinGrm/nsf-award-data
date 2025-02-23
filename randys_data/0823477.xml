@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: A new perspective on the driving forces of controversial Middle Triassic cyclostratigraphy: a rock magnetic approach]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>48533.00</AwardTotalIntnAmount>
+<AwardAmount>48533</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Filmer</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;This collaborative project addresses an ongoing multidisciplinary debate concerning the cyclostratigraphy of the Middle Triassic Latemar platform Dolomites, Italy. The more than 600 meter-scale shallow-marine carbonate cycles of the Latemar were originally interpreted as the products of astronomically driven, 20,000 year sea-level oscillations. Radioisotope dating of ash-beds within the platform subsequently indicated that the individual cycles must have formed much faster, in 2,000 to 4,000 years, or even less. This inter-calibration discrepancy constitutes the so-called "Latemar controversy." With high-precision geochronology now available, the challenge is to find a reasonable explanation for the origin of the strongly cyclical Latemar facies.&lt;br/&gt;&lt;br/&gt;Prior research focused exclusively on facies analysis, and the role of sea level change in cycle formation. This project applies rock magnetic techniques to investigate a more comprehensive range of environmental factors (e.g., aeolian processes) that could have been involved in and/or influenced depositional cyclicity. A pilot study using magnetic measurements of magnetic susceptibility, anhysteretic remanent magnetism and saturation isothermal remanent magnetization of 200 samples from a 40-m transect of the Latemar succession reveals a coherent signal indicating magnetic mineral concentration variations in tune with the cycles. The project collects rock magnetic data at high resolution through the main exposure of the 500 m thick Latemar succession, for a new and objective characterization and thorough sampling of the succession's short and long term cyclicity. This work also expands an existing magnetic polarity stratigraphy database to a transect at a new location in the platform, to help resolve conflicting bio-magnetostratigraphies of the Middle Triassic Dolomites.&lt;br/&gt;&lt;br/&gt;Resolution of the Latemar controversy is important. The short radioisotope timescale implies accumulation rates of subaerial caliche and massive tepee-zone cementation that are orders of magnitude higher than known from Quaternary analogs.&lt;br/&gt;&lt;br/&gt;Addressing the Latemar controversy contributes to the International Commission on Stratigraphy global initiative to develop an Astronomical Time Scale (ATS) for the Mesozoic Era. The only major gap in coverage for the Triassic Period includes the stratigraphic interval occupied by the Latemar platform; it is important to confirm or reject the role of astronomical forcing in the formation of the Latemar cycles. This project brings together three universities, including one in Italy near the field area.]]></AbstractNarration>
+<MinAmdLetterDate>09/24/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>09/24/2009</MaxAmdLetterDate>
+<ARRAAmount>48533</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0823477</AwardID>
+<Investigator>
+<FirstName>Kenneth</FirstName>
+<LastName>Kodama</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kenneth P Kodama</PI_FULL_NAME>
+<EmailAddress><![CDATA[kpk0@lehigh.edu]]></EmailAddress>
+<NSF_ID>000202185</NSF_ID>
+<StartDate>09/24/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Lehigh University</Name>
+<CityName>BETHLEHEM</CityName>
+<ZipCode>180153008</ZipCode>
+<PhoneNumber>6107583021</PhoneNumber>
+<StreetAddress>526 BRODHEAD AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E13MDBKHLDB5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>LEHIGH UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Lehigh University]]></Name>
+<CityName>BETHLEHEM</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>180153008</ZipCode>
+<StreetAddress><![CDATA[526 BRODHEAD AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1577</Code>
+<Text>GLOBAL CHANGE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1304</Code>
+<Text>EARTH SYSTEM HISTORY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~48533</FUND_OBLG>
+</Award>
+</rootTag>

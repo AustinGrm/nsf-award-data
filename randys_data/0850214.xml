@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Stress-Induced DNA Duplex Destabilization in Eukaryotic Genomes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2015</AwardExpirationDate>
+<AwardTotalIntnAmount>1093549.00</AwardTotalIntnAmount>
+<AwardAmount>1093549</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jennifer Weller</SignBlockName>
+<PO_EMAI>jweller@nsf.gov</PO_EMAI>
+<PO_PHON>7032922224</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The University of California Davis is awarded a grant to study the propensity of the DNA duplex to become destabilized under the superhelical (primarily torsional) unwinding stresses that occur in living organisms.  The project builds on previous work which developed computational methods to predict the locations of destabilized regions and their extents of destabilization within a superhelically constrained DNA molecule of specified sequence.  This approach has been applied to prokaryotic and archaeal genomes, where superhelicity has long been known to play key roles in the regulation of numerous normal and pathological processes.  This project will analyze the stress-induced destabilization properties of the genomic sequences of model eukaryotes including human, mouse, Drosophila, nematode and Arabidopsis, as well as partial sequences from many other eukaryotic organisms. &lt;br/&gt;&lt;br/&gt;For each organism the project will find all statistically significant associations between easily destabilized sites and many types of regulatory regions including promoters, terminators, enhancers, silencers, introns, exons, replication origins, regulatory protein binding sites and others. The team will analyze the stress-induced destabilization properties in putative gene regulatory regions, including 5' and 3' gene flanks, untranslated regions, and first introns.  The researchers will compare the results found for genes that are related in various ways - by biochemical function of their products, coordinately expressed genes, cancer-associated genes, etc. to identify the processes in eukaryotes where stress induced destabilization of DNA may play a role.  The project will compare destabilization properties with expression profile results (where available) to determine which sets of genes may be regulated by destabilization-based mechanisms.  Available sequence data will determine how destabilization properties are evolutionarily conserved among gene orthologs in different strains of the same species, among different species in the same genus, and among more widely diverged species.   This information will be used to develop predictors of each genomic feature found to have characteristic destabilization properties.  The project will develop and implement strategies for analyzing destabilization induced by dynamically changing superhelicity, as occurs through transcription.  There is evidence that a second type of superhelically driven DNA structural transition, to the so-called G4 quadruplex, also can occur in eukaryotes.  To model how this transition may compete with stress-induced destabilization, equilibrium statistical mechanical methods will analyze the competition between these transitions in DNA regions that contain sequences susceptible to both forms of destabilization. Further information about this project and access to SIDD data may be found at http://genomics.ucdavis.edu/benham.]]></AbstractNarration>
+<MinAmdLetterDate>08/14/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/14/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0850214</AwardID>
+<Investigator>
+<FirstName>Craig</FirstName>
+<LastName>Benham</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Craig J Benham</PI_FULL_NAME>
+<EmailAddress><![CDATA[cjbenham@ucdavis.edu]]></EmailAddress>
+<NSF_ID>000199002</NSF_ID>
+<StartDate>08/14/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Davis</Name>
+<CityName>DAVIS</CityName>
+<ZipCode>956186153</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress>1850 RESEARCH PARK DR, STE 300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TX2DAGQPENZ5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, DAVIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Davis]]></Name>
+<CityName>DAVIS</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>956186153</ZipCode>
+<StreetAddress><![CDATA[1850 RESEARCH PARK DR, STE 300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1165</Code>
+<Text>ADVANCES IN BIO INFORMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1165</Code>
+<Text>ADVANCES IN BIO INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9184</Code>
+<Text>BIOTECHNOLOGY - INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~1093549</FUND_OBLG>
+</Award>
+</rootTag>

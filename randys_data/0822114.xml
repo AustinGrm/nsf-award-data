@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[International Collaboration in Chemistry: Novel Instumentation for Modern Elemental Speciation Analysis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>455000.00</AwardTotalIntnAmount>
+<AwardAmount>455000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090006</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Charles Pibel</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The Analytical and Surface Chemistry Program in the Division of Chemistry supports work of Prof. Gary Hieftje and collaborator Steven Ray at Indiana University for an International Collaboration in Chemistry involving Prof. Volker Hoffmann at the Leibniz Institute for Solid State and Materials Research and Prof. Wolfgang Buscher at Westfälische Wilhelms-Universität Münster to devise and characterize a novel instrument that can determine metal-protein characteristics directly from a gel electrophoresis (GE) separation.  The instrument employs a pulsed glow discharge, which volatilizes analytes by means of argon-ion bombardment of the protein-containing spots on a GE plate.  The volatilized proteins and associated metals are lofted into an energetic region within the glow, where they are atomized and emit light with wavelengths characteristic of each element present.  Analyzing the emitted light then enables the identification of the identity and concentration of each element present, and indeed of the proteins themselves.  This capability is made more efficient through use of an imaging spectrometer, which permits all the protein-containing spots on a GE plate to be examined simultaneously.  This international collaborative research project is supported jointly by NSF and the Deutsche Forschungsgemeinschaft (DFG).&lt;br/&gt;&lt;br/&gt;The broader impacts of the research come in several forms.  Both graduate and undergraduate students participate in instrument development and application.  Special efforts are made to include underrepresented groups.  Because the proposed studies are inherently multidisciplinary, collaboration with investigators in the biological sciences is important to success.  Similarly, students involved in the proposed studies will have the opportunity to visit the laboratories of collaborators in Germany, where they will be exposed to an international group of scientists and visitors.  The students will also attend international conferences where their findings will be presented.  Finally, because GE is a fundamental tool of biochemical analysis, significant advances in detection technology will have wide-ranging impact.]]></AbstractNarration>
+<MinAmdLetterDate>08/21/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/21/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0822114</AwardID>
+<Investigator>
+<FirstName>Gary</FirstName>
+<LastName>Hieftje</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gary M Hieftje</PI_FULL_NAME>
+<EmailAddress><![CDATA[Hieftje@indiana.edu]]></EmailAddress>
+<NSF_ID>000329297</NSF_ID>
+<StartDate>08/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>Ray</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Steven J Ray</PI_FULL_NAME>
+<EmailAddress><![CDATA[sjray2@buffalo.edu]]></EmailAddress>
+<NSF_ID>000069763</NSF_ID>
+<StartDate>08/21/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Indiana University</Name>
+<CityName>BLOOMINGTON</CityName>
+<ZipCode>474057000</ZipCode>
+<PhoneNumber>3172783473</PhoneNumber>
+<StreetAddress>107 S INDIANA AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YH86RTW2YVJ4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF INDIANA UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YH86RTW2YVJ4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Indiana University]]></Name>
+<CityName>BLOOMINGTON</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>474057000</ZipCode>
+<StreetAddress><![CDATA[107 S INDIANA AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1974</Code>
+<Text>ANALYTICAL SEPARATIONS &amp; MEAS.</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1974</Code>
+<Text>ANALYTICAL SEPARATIONS &amp; MEAS.</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7468</Code>
+<Text>INSTR RES AND INSTR DEVEL FOR BIO RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~455000</FUND_OBLG>
+</Award>
+</rootTag>

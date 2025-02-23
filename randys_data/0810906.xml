@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[ExPert: dynamic analysis based fault location via Execution Perturbations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>196051.00</AwardTotalIntnAmount>
+<AwardAmount>196051</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Krishna Kant</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[ExPert: dynamic analysis based fault location via Execution Perturbations&lt;br/&gt;&lt;br/&gt;Abstract&lt;br/&gt;&lt;br/&gt;This project is studying dynamic characteristics of runs of faulty programs and&lt;br/&gt;designing promising dynamic analysis techniques to identify executed program&lt;br/&gt;statements where a fault lies, i.e. the fault candidate set. To narrow the set of&lt;br/&gt;statements in the fault candidate set, an array of automated dynamic analyses are&lt;br/&gt;being used in conjunction with each other. These analyses consider not only the&lt;br/&gt;failed run but also execution perturbations of this faulty run. The goal of this&lt;br/&gt;work is to focus the users attention on a small subset of statements in the&lt;br/&gt;fault candidate state. Identification of fault candidate set is based upon&lt;br/&gt;uncovering of two types of evidence: negative evidence and positive evidence.  &lt;br/&gt;A negative evidence is considered as an indicator that leads to the conclusion &lt;br/&gt;that a value encountered during a failed program run is related to the program's &lt;br/&gt;failure. Positive evidence on the other hand indicates that some of the values &lt;br/&gt;computed during a failed run are in fact correct. Through a combination of negative&lt;br/&gt;and positive evidence we aim to produce a small fault candidate set. As part of &lt;br/&gt;this work we are identifying new sources of evidence. We are also carrying out a &lt;br/&gt;systematic integration of above dynamic analyses technology into a practical &lt;br/&gt;debugging environment.]]></AbstractNarration>
+<MinAmdLetterDate>12/20/2007</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0810906</AwardID>
+<Investigator>
+<FirstName>Rajiv</FirstName>
+<LastName>Gupta</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rajiv Gupta</PI_FULL_NAME>
+<EmailAddress><![CDATA[gupta@cs.ucr.edu]]></EmailAddress>
+<NSF_ID>000077772</NSF_ID>
+<StartDate>12/20/2007</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Riverside</Name>
+<CityName>RIVERSIDE</CityName>
+<ZipCode>925210001</ZipCode>
+<PhoneNumber>9518275535</PhoneNumber>
+<StreetAddress>200 UNIVERSTY OFC BUILDING</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>41</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA41</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MR5QC5FCAVH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Riverside]]></Name>
+<CityName>RIVERSIDE</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>925210001</ZipCode>
+<StreetAddress><![CDATA[200 UNIVERSTY OFC BUILDING]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>41</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA41</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>2884</Code>
+<Text>NEXT GENERATION SOFTWARE PROGR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2007~82309</FUND_OBLG>
+<FUND_OBLG>2008~113742</FUND_OBLG>
+</Award>
+</rootTag>

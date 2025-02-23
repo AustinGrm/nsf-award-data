@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: A Subjective Model of Temporal Preferences</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>201644.00</AwardTotalIntnAmount>
+<AwardAmount>201644</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Lutz</SignBlockName>
+<PO_EMAI>nlutz@nsf.gov</PO_EMAI>
+<PO_PHON>7032927280</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;This project develops and analyzes a new model in economic theory.  The goal is to model individual preferences in a simple model where information may arrive in two stages. We introduce two general classes of representations, one for individuals who prefer the uncertainty to resolve early and another one for those who prefer the uncertainty to resolve late. The general representations can be interpreted as if an action (unobservable to the modeler) is taken by the individual (or by the malevolent nature, depending on whether the preference is for early or late resolution of uncertainty) between the two periods. It is well known that an individual may prefer to have uncertainty resolve at an earlier date in order to be able to condition her future actions on the realization of this uncertainty.  For example, an individual may prefer to have uncertainty about her future income resolve earlier so that she can smooth her consumption across time. Suppose an individual has the possibility of receiving a promotion with a substantial salary increase several years into the future.  If she is able to learn the outcome of that promotion decision now, then even if she will not actually receive the increased income until a later date, she may choose to increase her current consumption by temporarily decreasing her savings or increasing her debt.  On the other hand, if she is not told the outcome of the promotion decision, then by increasing her consumption now, she risks having larger debt and hence suboptimally low consumption in the future.  In this example, changing the timing of the resolution of uncertainty benefits the individual by increasing her ability to condition her choices on the outcome of that uncertainty. Our representation result can be seen as a converse of this observation: Whenever the individual exhibits a preference for early resolution of uncertainty, it is as if she takes a (unobservable) subjective payoff-relevant action between the two periods.&lt;br/&gt;&lt;br/&gt;Subjective versions of well-known decision theoretic models are shown to be special cases of our general representations. Therefore, this research creates a unifying framework for a variety of existing models. It improves the understanding of the extent of uniqueness in the subjective versions of these models and allows for a rich class of preferences for timing of resolution of uncertainty. Understanding the uniqueness properties allows us to unambiguously tie the parameters of our representation to choice behavior, making the representations amenable to comparative statics and other applications. Understanding and distinguishing between a rich class of preferences for timing of resolution of uncertainty is important in applying these models to macroeconomics and financial economics, where even simpler models of preference for timing of resolution of uncertainty have already proved quite useful.&lt;br/&gt;&lt;br/&gt;This research has broader impact; the new models developed with this award will help to incorporate new insights from behavioral economics into related disciplines, including financial economics and decision science.</AbstractNarration>
+<MinAmdLetterDate>06/18/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2009</MaxAmdLetterDate>
+<ARRAAmount>201644</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0850980</AwardID>
+<Investigator>
+<FirstName>Haluk</FirstName>
+<LastName>Ergin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Haluk Ergin</PI_FULL_NAME>
+<EmailAddress>hergin@artsci.wustl.edu</EmailAddress>
+<NSF_ID>000193248</NSF_ID>
+<StartDate>06/18/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Washington University</Name>
+<CityName>Saint Louis</CityName>
+<ZipCode>631304862</ZipCode>
+<PhoneNumber>3147474134</PhoneNumber>
+<StreetAddress>CAMPUS BOX 1054</StreetAddress>
+<StreetAddress2><![CDATA[1 Brookings Drive]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO01</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>068552207</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>WASHINGTON UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>068552207</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Washington University]]></Name>
+<CityName>Saint Louis</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>631304862</ZipCode>
+<StreetAddress><![CDATA[CAMPUS BOX 1054]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1320</Code>
+<Text>Economics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2009~201644</FUND_OBLG>
+</Award>
+</rootTag>

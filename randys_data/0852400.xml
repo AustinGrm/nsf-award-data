@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>StarTalk Radio Show</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DRL</Abbreviation>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sandra Welch</SignBlockName>
+<PO_EMAI>swelch@nsf.gov</PO_EMAI>
+<PO_PHON>7032925094</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This Proposal is a Small Grant for Exploratory Research (SGER) to fund a new science radio show targeted specifically for commercial talk radio.  The proposed 10 one hour programs will be co-hosted by Neil de Grasse Tyson, astrophysicist, popular best selling book aurthor, writer, host of PBS scienceNow, and the frequent contributor on cable television networks including The Daily Show.  The programs would be broadcast on CBS Talk Radio Statiion, KLSX.  The program will feature a variety of celebrity guests as well as scientists who share an interest in space and science.  Listeners will be encouraged to interact with the guests calling in to pose questions and voice opinions.  The programs will present traditionally dry or technical topics in a humorous format.  The recent pilot program on KLSX generated the most call-ins ever during a weekend talk show on that station.  The goal is to reach an audience that is not otherwise served by current programming on public radio and to eventually become self-supporting on commercial radio.</AbstractNarration>
+<MinAmdLetterDate>03/23/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/23/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0852400</AwardID>
+<Investigator>
+<FirstName>helen</FirstName>
+<LastName>matsos</LastName>
+<PI_MID_INIT>c</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>helen c matsos</PI_FULL_NAME>
+<EmailAddress>hmatsos@gmail.com</EmailAddress>
+<NSF_ID>000506102</NSF_ID>
+<StartDate>03/23/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Neil</FirstName>
+<LastName>Tyson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Neil Tyson</PI_FULL_NAME>
+<EmailAddress>neil@startalkradio.net</EmailAddress>
+<NSF_ID>000506925</NSF_ID>
+<StartDate>03/23/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Curved Light Productions, LLC</Name>
+<CityName>East Hampton</CityName>
+<ZipCode>119371140</ZipCode>
+<PhoneNumber>6314954755</PhoneNumber>
+<StreetAddress>42 Scallop Avenue</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY01</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>826985785</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>CURVED LIGHT PRODUCTIONS, LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Curved Light Productions, LLC]]></Name>
+<CityName>East Hampton</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>119371140</ZipCode>
+<StreetAddress><![CDATA[42 Scallop Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7259</Code>
+<Text>AISL</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9177</Code>
+<Text>ELEMENTARY/SECONDARY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0409</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2009~200000</FUND_OBLG>
+</Award>
+</rootTag>

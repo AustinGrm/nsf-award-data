@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Contextual Learning in the Adaptation of Saccadic Eye Movements</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>553241.00</AwardTotalIntnAmount>
+<AwardAmount>553241</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Betty Tuller</SignBlockName>
+<PO_EMAI>btuller@nsf.gov</PO_EMAI>
+<PO_PHON>7032927238</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;Learned motor acts generally adjust to their context. The orchestration of the pattern of contraction of various muscles depends in a subtle and complex way on the circumstances in which the motor act occurs. Eye movements, however, seem more stereotyped. When a person chooses to look at something, they make an eye movement to it (a "saccade"). Because saccades are so brief, they cannot be guided by vision during the movement but must rely on feedback after each saccade to adjust the amplitude of subsequent saccades, a phenomenon known as saccade adaptation. Experiments in the laboratory induce saccade adaptation by surreptitiously moving the target during each saccade, while vision is poor. The eye movement system compensates as though its saccades had been in error. It is generally assumed that it is only the location of the target that is relevant for saccadic control, not the type of target. Recent findings contradict this view, showing that two different types of target moved identically during the saccade result in two different types of compensatory eye movements. In other words, saccade adaptation depends on the visual context.&lt;br/&gt;&lt;br/&gt;The present work aims to clarify whether contextual learning of saccadic eye movements is a highly restricted machine-like "learning" by the part of the brain that generates eye movements or is a manifestation of a general learning mechanism that makes use of whatever informative cues are available. The nature of the contextual information that guides saccadic adaptation is explored in detail in order to determine what function contextual learning of saccadic eye movements serves. Because these experiments lie at the interface of biology, engineering, and psychology, they have the potential to attract students from both disciplines and to foster interdisciplinary collaborations.</AbstractNarration>
+<MinAmdLetterDate>09/14/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>05/16/2012</MaxAmdLetterDate>
+<ARRAAmount>553241</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0842464</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Harwood</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark Harwood</PI_FULL_NAME>
+<EmailAddress>mharwood@sci.ccny.cuny.edu</EmailAddress>
+<NSF_ID>000588066</NSF_ID>
+<StartDate>05/16/2012</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joshua</FirstName>
+<LastName>Wallman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joshua Wallman</PI_FULL_NAME>
+<EmailAddress>wallman@sci.ccny.cuny.edu</EmailAddress>
+<NSF_ID>000185177</NSF_ID>
+<StartDate>09/14/2009</StartDate>
+<EndDate>05/16/2012</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CUNY City College</Name>
+<CityName>New York</CityName>
+<ZipCode>100319101</ZipCode>
+<PhoneNumber>2126505418</PhoneNumber>
+<StreetAddress>Convent Ave at 138th St</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>603503991</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>073268849</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[CUNY City College]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100319101</ZipCode>
+<StreetAddress><![CDATA[Convent Ave at 138th St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7252</Code>
+<Text>Perception, Action &amp; Cognition</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2009~553241</FUND_OBLG>
+</Award>
+</rootTag>

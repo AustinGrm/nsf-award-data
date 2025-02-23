@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[REU Site Project: REU in Applied Mathematics and Biostatistics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Noel Brady</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This is a proposal of an REU site project during the summers of 2010 and 2011 in the Center for Computational Sciences at Mississippi State University. The project is aimed at involving 6 undergraduate students each year in active research under the supervision of four applied mathematicians and statisticians who are dedicated researchers and mentors. The major area of concentration will be applied mathematics and biostatistics. The cross-cutting themes of the project are image processing, population dynamics, computational mathematical biology, and highly stratified model in biostatistics. In order to help the students develop a good understanding of contemporary research methods of selected problems, the investigators plan to provide them with well-marshaled lectures/workshops. The participants will be selected on the basis of their academic performance, their aptitude in mathematics, and the recommendation letters. There will be various mathematical sciences and industrial colloquia, scientific, cultural, and social activities enhancing the program.&lt;br/&gt;&lt;br/&gt;The primary focus of this project is mathematical and statistical training, active participation in research, and mentoring. The objectives are to provide the undergraduate students with meaningful research experience in applied mathematics and biostatistics, to show them the enjoyment of doing research, and to encourage them to pursue advanced degrees in mathematical sciences. Conference presentations and publication of their research findings will also be strongly encouraged. The senior personnel in this project are active researchers in applied mathematics and biostatistics and they have considerable experience in guiding and mentoring students to become successful researchers. This project will greatly contribute to the excitement and development of mathematical research among undergraduates.  Materials used for the REU program will be freely shared with the community and posted on an on-line project library. There will be Research Experiences for Teachers (RET) activity after the REU program. In the fall semester after the second year program,   we will conduct a one-day workshop for teachers from neighboring high schools to disseminate new findings from the REU program and to help them to have their students prepare for undergraduate research. Special efforts will be made to attract women and underrepresented groups, and participation from regions and institutions with limited research opportunities. This REU project will help maintain and strengthen our nation's leadership in scientific research in mathematical sciences and their applications.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>09/13/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>09/23/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0852032</AwardID>
+<Investigator>
+<FirstName>Ratnasingham</FirstName>
+<LastName>Shivaji</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ratnasingham Shivaji</PI_FULL_NAME>
+<EmailAddress><![CDATA[r_shivaj@uncg.edu]]></EmailAddress>
+<NSF_ID>000373153</NSF_ID>
+<StartDate>09/23/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kevin</FirstName>
+<LastName>Knudson</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kevin P Knudson</PI_FULL_NAME>
+<EmailAddress><![CDATA[kknudson@ufl.edu]]></EmailAddress>
+<NSF_ID>000251654</NSF_ID>
+<StartDate>09/13/2009</StartDate>
+<EndDate>09/23/2009</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hyeona</FirstName>
+<LastName>Lim</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hyeona Lim</PI_FULL_NAME>
+<EmailAddress><![CDATA[hlim@math.msstate.edu]]></EmailAddress>
+<NSF_ID>000320796</NSF_ID>
+<StartDate>09/13/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Mississippi State University</Name>
+<CityName>MISSISSIPPI STATE</CityName>
+<ZipCode>39762</ZipCode>
+<PhoneNumber>6623257404</PhoneNumber>
+<StreetAddress>245 BARR AVE MCARTHUR HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<StateCode>MS</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MS03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NTXJM52SHKS7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MISSISSIPPI STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NTXJM52SHKS7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Mississippi State University]]></Name>
+<CityName>MISSISSIPPI STATE</CityName>
+<StateCode>MS</StateCode>
+<ZipCode>39762</ZipCode>
+<StreetAddress><![CDATA[245 BARR AVE MCARTHUR HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MS03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7335</Code>
+<Text>WORKFORCE IN THE MATHEMAT SCI</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9150</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~200000</FUND_OBLG>
+</Award>
+</rootTag>

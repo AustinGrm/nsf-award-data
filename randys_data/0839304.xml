@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Compliant Jack Spring Actuators for Lower Limb Mobility]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+<PO_EMAI>mnair@nsf.gov</PO_EMAI>
+<PO_PHON>7032927059</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This SBIR Phase I research proposal will develop a novel, spring-based actuator that will power future wearable robots and exoskeletons. The actuator will be designed, developed, and tested to meet the demanding requirements for lower limb mobility. This actuator can be used in a variety of powered orthoses, prosthetic devices, and wearable exoskeletons. Its unique ability to tune stiffness allows it to be customized to an individual, a significant impact in the wearable robotics field. An additional benefit of the actuator is to solve the problem of converting rotary motion into linear motion in a lightweight package. It will meet the demanding design requirements that include the tradeoffs between high power, low energy usage, compliance, robust sensing of forces, and high cycle demands. The proposed activity will lay the groundwork for the development of the next generation of rehabilitation aids for lower limb mobility. &lt;br/&gt;&lt;br/&gt;The purpose of powered, lower-limb exoskeletons is to enhance the strength and performance of the person who wears it. In the case of gait assistance such a device will increase symmetry and duration of walking. In fact, a below-the-knee amputee wearing a passive prosthetic device typically uses more energy to walk and presents asymmetry in their motion as compared to an able bodied walker. This asymmetry in gait leads to joint pain, arthritis, and back pain. Because of the difficulty to walk, their conditions often lead to a more sedentary lifestyle decreasing their already limited mobility. It is documented that decreased mobility increases health risks. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>11/07/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/28/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839304</AwardID>
+<Investigator>
+<FirstName>Kevin</FirstName>
+<LastName>Hollander</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME>Dr.</PI_SUFX_NAME>
+<PI_FULL_NAME>Kevin W Hollander</PI_FULL_NAME>
+<EmailAddress><![CDATA[kevin.hollander@springactive.com]]></EmailAddress>
+<NSF_ID>000083175</NSF_ID>
+<StartDate>11/07/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SpringActive, Inc.</Name>
+<CityName>Tempe</CityName>
+<ZipCode>852816955</ZipCode>
+<PhoneNumber>4807043592</PhoneNumber>
+<StreetAddress>2414 W 12th Street, Ste. 4</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SpringActive, Inc.]]></Name>
+<CityName>Tempe</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>852816955</ZipCode>
+<StreetAddress><![CDATA[2414 W 12th Street, Ste. 4]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6840</Code>
+<Text>ROBOTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9139</Code>
+<Text>INFORMATION INFRASTRUCTURE &amp; TECH APPL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~100000</FUND_OBLG>
+</Award>
+</rootTag>

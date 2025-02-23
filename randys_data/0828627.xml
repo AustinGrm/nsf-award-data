@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Rapid, Sensitive and Sequential Detection of E. coli and Total Coliforms Using Engineered Conducting Membranes for Water Quality Control]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>160058.00</AwardTotalIntnAmount>
+<AwardAmount>166058</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Debra Reinhart</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[CBET- 0828627&lt;br/&gt;Lei, Yu&lt;br/&gt;University of Connecticut&lt;br/&gt;&lt;br/&gt;Rapid, Sensitive and Sequential Detection of E. coli and Total Coliforms Using Engineered Conducting Membranes for Water Quality Control&lt;br/&gt;&lt;br/&gt;The principal objective of this proposal is to develop a fast, easy-to-use, and sensitive detection system for total coliforms and E. coli. The intellectual merits of this proposal include: First, two engineered conducting membranes (polypyrrole and single-walled carbon nanotubes) will filter water sample and, thus, serve as bacteria concentrator, achieving the quick concentration and immobilization of bacteria on polypyrrole and SWNT in a single step; Second, the conducting polypyrrole and SWNT membranes also serve as working electrodes in amperometric detection and enhances the sensitivity due to their super-electron conductivity, anti-fouling property, and strong electrocatalytic capability; Third, two "electrogenic" substrates are specifically selected/identified for â-D-galactosidase (total coliforms) and â-D-glucuronidase (E. coli) respectively, and the hydrolyzed products from enzymatical reactions have distinguishable oxidation potentials, allowing the sequential detection of E. coli and total coliforms possible. All these features will make the proposed detection system an ideal analytical tool for drinking water quality control. The proposed program offers a truly multidisciplinary training ground for undergraduates and graduate students. Synergistic effects with existing grants to the PI are expected. The work will advance the development of biosensor for water quality control in general and, if successful, might have an enormous impact on the ability to detect total coliforms and fecal indicator. The multidisciplinary nature of the research activity lends itself for dissemination in non-technical journals and as a subject of outreach activities. The proposal includes year-round undergraduate research projects and will be part of UConn "Frontiers Distinguished Lectureship" program and UConn?s School of Engineering Da Vinci project (http://www.engr.uconn.edu/davinci/) to enhance K-12 education.]]></AbstractNarration>
+<MinAmdLetterDate>07/08/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0828627</AwardID>
+<Investigator>
+<FirstName>Yu</FirstName>
+<LastName>Lei</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yu Lei</PI_FULL_NAME>
+<EmailAddress><![CDATA[ylei@engr.uconn.edu]]></EmailAddress>
+<NSF_ID>000073680</NSF_ID>
+<StartDate>07/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Connecticut</Name>
+<CityName>STORRS</CityName>
+<ZipCode>062691133</ZipCode>
+<PhoneNumber>8604863622</PhoneNumber>
+<StreetAddress>438 WHITNEY RD EXTENSION UNIT 11</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WNTPS995QBM7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CONNECTICUT</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D9SNFDRCW3W7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Connecticut]]></Name>
+<CityName>STORRS</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>062691133</ZipCode>
+<StreetAddress><![CDATA[438 WHITNEY RD EXTENSION UNIT 11]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0313010</Code>
+<Name>Air Pollution</Name>
+</FoaInformation>
+<FoaInformation>
+<Code>0313040</Code>
+<Name>Water Pollution</Name>
+</FoaInformation>
+<FoaInformation>
+<Code>0316000</Code>
+<Name>Trace Contaminants</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1440</Code>
+<Text>EnvE-Environmental Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>015E</Code>
+<Text>Pollutant fate and transport</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>016E</Code>
+<Text>POLLUTION AVOIDANCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9187</Code>
+<Text>TOXIC SUBSTANCES/SOLID &amp; HAZARDOUS WASTE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~160058</FUND_OBLG>
+<FUND_OBLG>2009~6000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Planning Grant:  I/UCRC for Next Generation Photovoltaics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EEC</Abbreviation>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rathindra DasGupta</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Planning Grant for an I/UCRC for Next Generation Photovoltaics &lt;br/&gt;&lt;br/&gt;0856034 Colorado State; W. S. Sampath &lt;br/&gt;0856029 University of Texas at Austin; Brian Korgel &lt;br/&gt;     &lt;br/&gt;The proposed Center, comprised of University of Texas at Austin (UT-Austin) as the lead institution and Colorado State University (CSU), plans to focus on the development of Next-Generation Photovoltaic Devices (PVs). The biggest challenge facing photovoltaic technologies is the need for a low-cost, scalable, and reliable manufacturing approach to produce solar cells with efficiencies of 10-20% that are suitable for use for 20 years in the field.  Thus, the proposed Center will develop with industrial partners, new materials, precursors, and formulations for manufacturing high performance, low-cost PVs.  The focus of this Center will be on low-cost inorganic materials, nanomaterials or hybrid materials solution to PV manufacturing.  The research problem is complex and an interdisciplinary team of researchers is needed (as well as collaboration with industry) to make progress in this area.  &lt;br/&gt;&lt;br/&gt;The proposed Center's focus on identifying a solution to decrease PV manufacturing costs would mean widespread adoption of solar cell technology worldwide and an immediate decrease on the world?s reliance on non-renewable energy resources.  The industry participation will enhance the students? educational experience by providing a pipeline for talented engineers and scientist to industry.  The efforts at the proposed Center will also be interfaced with some key educational programs at UT-Austin, such as the Doctoral Portfolio program in Nanoscience and Nanotechnology and the green technology focus at CSU.  The Center plans to have a team of faculty and students who are diverse in gender, race and ethnicity.]]></AbstractNarration>
+<MinAmdLetterDate>02/18/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/06/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0856029</AwardID>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Korgel</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brian A Korgel</PI_FULL_NAME>
+<EmailAddress><![CDATA[korgel@che.utexas.edu]]></EmailAddress>
+<NSF_ID>000448003</NSF_ID>
+<StartDate>02/18/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0400000</Code>
+<Name>Industry University - Co-op</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5761</Code>
+<Text>IUCRC-Indust-Univ Coop Res Ctr</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1049</Code>
+<Text>INDUSTRY-UNIV COOPERATIVE RSCH PROJECTS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>122E</Code>
+<Text>CENTERS: OTHER INDUSTRY-UNIV</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~10000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[DISSERTATION RESEARCH: The Role of Envrionmental Stress in the Expression of Inbreeding Depression]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>11818.00</AwardTotalIntnAmount>
+<AwardAmount>11818</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010207</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy J. Huntly</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Organisms are adapted to specific biotic and abiotic conditions, and are subject to environmental stress whenever environmental variables shift towards the limits of their tolerance. Understanding how environmental stress influences population persistence is a major concern in conservation biology. In particular, inbreeding in small populations can lower individual fitness (inbreeding depression) even under ideal conditions and this effect can be amplified by environmental stress. However, not all stresses interact with inbreeding in the same manner. The proposed research aims to determine whether fundamental differences exist between different types of stress in amplifying the deleterious effects of inbreeding using the model organism Drosophila melanogaster. Inbreeding depression will be measured for survival and reproductive traits in individuals exposed to several types of abiotic and biotic stresses. Furthermore, the underlying genetic basis of these effects will be investigated using micorarrays. This will permit the identification of specific genes and biological pathways involved in the expression of inbreeding depression under these stresses. &lt;br/&gt;&lt;br/&gt;This research has important implications for reintroduction of organisms into stressful natural environments following captive breeding. It is also important for the management of small or bottlenecked populations, given that the magnitude of environmental stress experienced by organisms in the future is likely to increase due to global climate change. Information on the specific genetic mechanisms responsible for inbreeding depression under stress could also help predict and ameliorate potential problems in conserved populations.  &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/05/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/05/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0808416</AwardID>
+<Investigator>
+<FirstName>Leonard</FirstName>
+<LastName>Nunney</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Leonard P Nunney</PI_FULL_NAME>
+<EmailAddress><![CDATA[nunney@citrus.ucr.edu]]></EmailAddress>
+<NSF_ID>000445334</NSF_ID>
+<StartDate>07/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Laramy</FirstName>
+<LastName>Enders</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Laramy S Enders</PI_FULL_NAME>
+<EmailAddress><![CDATA[lende001@student.ucr.edu]]></EmailAddress>
+<NSF_ID>000082119</NSF_ID>
+<StartDate>07/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Riverside</Name>
+<CityName>RIVERSIDE</CityName>
+<ZipCode>925210001</ZipCode>
+<PhoneNumber>9518275535</PhoneNumber>
+<StreetAddress>200 UNIVERSTY OFC BUILDING</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>41</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA41</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MR5QC5FCAVH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Riverside]]></Name>
+<CityName>RIVERSIDE</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>925210001</ZipCode>
+<StreetAddress><![CDATA[200 UNIVERSTY OFC BUILDING]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>41</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA41</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7378</Code>
+<Text>EVOLUTIONARY GENETICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7378</Code>
+<Text>EVOLUTIONARY GENETICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~11818</FUND_OBLG>
+</Award>
+</rootTag>

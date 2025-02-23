@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>XVIth International Congress on Mathematical Physics, August 1 -- 8, 2009, Prague, Czech Republic</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>69660.00</AwardTotalIntnAmount>
+<AwardAmount>69660</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Earle L. Lomon</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This proposal requests support for participation of junior researchers from US &lt;br/&gt;institutions to the XVIth International Congress on Mathematical Physics, August 1- 8, 2009, in Prague, Czech Republic. A substantial portion of the researchers in mathematical physics from all over the world are expected to attend the meeting. The plenary speakers and the topical session organizers are highly regarded. The main criteria for awarding travel support will be scientific excellence, promise for future research, and evidence that participating in the congress will contribute to the professional development of the applicant. Preference will be given to advanced graduate students and recent PhDs. Special attention will be given to groups underrepresented in the mathematical physics community. &lt;br/&gt;Intellectual Merit: This series of triennial ICMP conferences, sponsored by the International Association of Mathematical Physics, uniquely aims at covering the most important recent developments in all areas of mathematical physics. The Young Researchers Symposium, immediately preceding the main congress, will provide junior participants with a series of overview lectures on mathematical physics topics of the greatest current interest. &lt;br/&gt;Broader Impacts: Participation by talented junior researchers will have a major impact on their careers, and hence on the continued leadership role of the US in this area. The Young Researchers Symposium will enhance the educational aspect of the conference. Mathematical physics has close connections to all branches of pure and applied mathematics and of theoretical physics, and has stimulated some of the most exciting recent developments in mathematics. Mathematical physics is a training ground for researchers in new fields such as mathematical biology and quantum computation. &lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>04/23/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>04/23/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855460</AwardID>
+<Investigator>
+<FirstName>Bruno</FirstName>
+<LastName>Nachtergaele</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bruno L Nachtergaele</PI_FULL_NAME>
+<EmailAddress>bxn@math.ucdavis.edu</EmailAddress>
+<PI_PHON>5307542820</PI_PHON>
+<NSF_ID>000203761</NSF_ID>
+<StartDate>04/23/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Davis</Name>
+<CityName>DAVIS</CityName>
+<ZipCode>956186153</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress>1850 RESEARCH PARK DR, STE 300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TX2DAGQPENZ5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, DAVIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Davis]]></Name>
+<CityName>DAVIS</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>956186153</ZipCode>
+<StreetAddress><![CDATA[1850 RESEARCH PARK DR, STE 300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1287</Code>
+<Text>MATHEMATICAL PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~69660</FUND_OBLG>
+</Award>
+</rootTag>

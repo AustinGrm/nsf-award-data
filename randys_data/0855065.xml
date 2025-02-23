@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[II-EN: Infrastructure for Gesture Interface Research Outside the Lab]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>591445.00</AwardTotalIntnAmount>
+<AwardAmount>591445</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ephraim Glinert</SignBlockName>
+<PO_EMAI>eglinert@nsf.gov</PO_EMAI>
+<PO_PHON>7032924341</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;The proposed work is focused on gestural human computer interfaces, camera-based interfaces for individuals with severe physical disabilities, communication through sign language and gesture, and/or motion of the human body and hands. The proposed infrastructure enhancement would make it possible, as well as practical, to conduct video-based research outside the lab. The infrastructure includes a ruggedized mobile system for capture of synchronized, multi-view digital video on site, for instance in schools for the Deaf and in homes for the disabled. Software infrastructure will be enhanced to support the development of the interface for deployment of the systems to be used in the field, and for annotation of video collected in the field. Video data capture from a larger and more diverse pool of subjects will lead to a more diverse collection of videos for study of linguistic variation and for training and testing of computer vision algorithms.&lt;br/&gt;&lt;br/&gt;The camera-based assistive technology developed as part of this project will have a positive impact on the quality of life of adults and children with severe physical disabilities, as well as their friends, families and caregivers; the software will be disseminated at special care facilities and will also be available on the internet via free download. The automated gesture spotting, indexing, matching, and retrieval methods developed in this project would enable sign-based search of ASL literature, lore, poems, performances, courses, from digital video libraries and DVDs. Such capability could have far-reaching implications for improving education, opportunities, and access for the deaf. The gestural analysis, matching, and retrieval methods developed in this project should also accelerate linguistic and cross-linguistic research on signed languages and the gestural components of spoken languages.]]></AbstractNarration>
+<MinAmdLetterDate>07/20/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/20/2009</MaxAmdLetterDate>
+<ARRAAmount>591445</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855065</AwardID>
+<Investigator>
+<FirstName>Carol</FirstName>
+<LastName>Neidle</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carol J Neidle</PI_FULL_NAME>
+<EmailAddress><![CDATA[carol@bu.edu]]></EmailAddress>
+<NSF_ID>000197237</NSF_ID>
+<StartDate>07/20/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stan</FirstName>
+<LastName>Sclaroff</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stan Sclaroff</PI_FULL_NAME>
+<EmailAddress><![CDATA[sclaroff@bu.edu]]></EmailAddress>
+<NSF_ID>000200256</NSF_ID>
+<StartDate>07/20/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Margrit</FirstName>
+<LastName>Betke</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Margrit Betke</PI_FULL_NAME>
+<EmailAddress><![CDATA[betke@cs.bu.edu]]></EmailAddress>
+<NSF_ID>000096058</NSF_ID>
+<StartDate>07/20/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Trustees of Boston University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>022151703</ZipCode>
+<PhoneNumber>6173534365</PhoneNumber>
+<StreetAddress>1 SILBER WAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>THL6A6JLE1S7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF BOSTON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Trustees of Boston University]]></Name>
+<CityName>BOSTON</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>022151703</ZipCode>
+<StreetAddress><![CDATA[1 SILBER WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7359</Code>
+<Text>CCRI-CISE Cmnty Rsrch Infrstrc</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~591445</FUND_OBLG>
+</Award>
+</rootTag>

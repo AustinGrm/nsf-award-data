@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>A Search for Gravitational Radiation at LIGO:  Oregon Experimental Relativity Group</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>1125000.00</AwardTotalIntnAmount>
+<AwardAmount>1125000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Marronetti</SignBlockName>
+<PO_EMAI>pmarrone@nsf.gov</PO_EMAI>
+<PO_PHON>7032927372</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5). The Oregon experimental relativity group continues its efforts within the LIGO Scientific Collaboration (LSC) to search for burst sources of gravitational radiation (GWBs). The group will continue to focus a significant fraction of its effort on the identification and amelioration of noise sources in the LIGO interferometers, as a prerequisite to the realization of a scientific discovery. The program involves two complementary areas of activity in GWB science within the LSC: (1) data analysis and (2) detector characterization and improvement. In the area of data analysis, the search for GWBs produced in association with gamma-ray bursts (GRBs) in the LIGO science run S6 will be completed. The detector characterization and improvement effort will continue to focus on  environmental influences. Work will continue on identifying and reducing environmental influences in order to improve interferometer sensitivity, and to decrease false event rates. Efforts will extend beyond these two primary areas, and have important contributions to all LIGO searches and the success of Advanced LIGO.&lt;br/&gt;&lt;br/&gt;This research contributes significantly to society, due to its profound, fundamental nature, and the opportunities which are associated to enable broad participation in the scientific enterprise. The discovery of gravitational radiation would be a major achievement in advancing the applications of Einstein's General Theory of Relativity, and initiate a new age of discovery and understanding. Publications of the scientific results would mark a great moment of human enlightenment regarding the nature of the universe. The Oregon group makes a special effort to broaden the impact of this work by integrating the most advanced, technical aspects with outreach activities. These include undergraduate participation in the group's research, summer research programs for talented high school students, work with Oregon high school teachers to bring the research experience into thehigh school (part of the Quark Net program), and speaking engagements to community groups.</AbstractNarration>
+<MinAmdLetterDate>06/12/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/14/2009</MaxAmdLetterDate>
+<ARRAAmount>1125000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855686</AwardID>
+<Investigator>
+<FirstName>Raymond</FirstName>
+<LastName>Frey</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Raymond E Frey</PI_FULL_NAME>
+<EmailAddress>rayfrey@uoregon.edu</EmailAddress>
+<NSF_ID>000470233</NSF_ID>
+<StartDate>06/12/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Brau</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James E Brau</PI_FULL_NAME>
+<EmailAddress>jimbrau@uoregon.edu</EmailAddress>
+<NSF_ID>000428680</NSF_ID>
+<StartDate>06/12/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Schofield</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert M Schofield</PI_FULL_NAME>
+<EmailAddress>rmss@uoregon.edu</EmailAddress>
+<NSF_ID>000372256</NSF_ID>
+<StartDate>06/12/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Oregon Eugene</Name>
+<CityName>Eugene</CityName>
+<ZipCode>974035219</ZipCode>
+<PhoneNumber>5413465131</PhoneNumber>
+<StreetAddress>5219 UNIVERSITY OF OREGON</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OR04</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>079289626</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF OREGON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>049793995</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Oregon Eugene]]></Name>
+<CityName>Eugene</CityName>
+<StateCode>OR</StateCode>
+<ZipCode>974035219</ZipCode>
+<StreetAddress><![CDATA[5219 UNIVERSITY OF OREGON]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OR04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1252</Code>
+<Text>LIGO RESEARCH SUPPORT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7483</Code>
+<Text>PHYSICS OF THE UNIVERSE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~1125000</FUND_OBLG>
+</Award>
+</rootTag>

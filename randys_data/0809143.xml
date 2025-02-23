@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Theonellamides:  vacuole for discovery]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>348311.00</AwardTotalIntnAmount>
+<AwardAmount>348311</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tingyu Li</SignBlockName>
+<PO_EMAI>tli@nsf.gov</PO_EMAI>
+<PO_PHON>7032924949</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project involves the synthesis of the theonellamides, a family of complex dodecapeptides of marine origin.  Several of the requisite amino acids have inspired the development of new methodology, including the construction of 1,4-dialkylimidazoles and beta-amino-gamma-hydroxy-acids.  Assembly of the bicyclic skeleton will test the state-of-the-art vis-a-vis protecting group strategies and peptide coupling reactions.  A number of congeners bear a novel glycosylimidazolium ion that presents a synthetic challenge and a unique opportunity to investigate peptide-carbohydrate interactions in a small, homogeneous system.&lt;br/&gt;&lt;br/&gt;With this award, the Organic and Macromolecular Chemistry Program is supporting the research of Professor Carol Taylor of the Department of Chemistry at Louisiana State University.  Professor Taylor's research efforts are concerned with the chemical synthesis and characterization of peptides containing unusual amino acids.  In particular, this project is focused on the construction of the theonellamides, antifungal compounds characterized by a bridging histidinoalanine residue.  This cross-linking amino acid has also been identified in dentin, eye cataracts and connective tissue where levels appear to correlate with age and some disease states.]]></AbstractNarration>
+<MinAmdLetterDate>08/07/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/07/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0809143</AwardID>
+<Investigator>
+<FirstName>Carol</FirstName>
+<LastName>Taylor</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carol M Taylor</PI_FULL_NAME>
+<EmailAddress><![CDATA[cmtaylor@lsu.edu]]></EmailAddress>
+<NSF_ID>000204656</NSF_ID>
+<StartDate>08/07/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Louisiana State University</Name>
+<CityName>BATON ROUGE</CityName>
+<ZipCode>708030001</ZipCode>
+<PhoneNumber>2255782760</PhoneNumber>
+<StreetAddress>202 HIMES HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>LA06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ECQEYCHRNKJ4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>LOUISIANA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>Z7ZNZH7LJ778</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Louisiana State University]]></Name>
+<CityName>BATON ROUGE</CityName>
+<StateCode>LA</StateCode>
+<ZipCode>708030001</ZipCode>
+<StreetAddress><![CDATA[202 HIMES HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>LA06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1948</Code>
+<Text>SYNTHESIS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9150</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~348311</FUND_OBLG>
+</Award>
+</rootTag>

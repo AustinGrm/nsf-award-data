@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STTR Phase I:  Engineering Clostritrial Fermentation for Biobutanol Production</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Intellectual Merit:&lt;br/&gt;&lt;br/&gt;This STTR project will develop novel engineered Clostridia strains for fermentation to economically produce butanol as a biofuel from sugars derived from starchy and lignocellulosic biomass. Butanol is an important industrial solvent and potentially a better transportation fuel than ethanol. Recent rising oil prices and limited petroleum resources have generated high interest in the production of biobutanol by anaerobic Clostridial fermentation. However, the conventional acetone-butanol-ethanol (ABE) fermentation has low butanol yield (&lt;20%), butanol concentration (&lt;16 g/L) and reactor productivity (&lt;0.5 g/L*h) due to a strong butanol inhibition, and the fermentation process is difficult to improve due to the complicated metabolic pathways and gene regulation involved in the production microorganisms, mainly Clostridium acetobutylicum. To develop a novel high-butanol producer, Clostridia mutant strains with inactivated ack (acetate kinase) and pta (phosphotransacetylase) will be cloned with an alcohol dehydrogenase gene in Phase I and the mutants will be further adapted in a fibrous bed bioreactor to attain a high butanol tolerance. Functional genomic studies of the mutants and further metabolic engineering and process development will be carried out in Phase II to evaluate the feasibility and advantages of producing butanol from glucose and xylose. The new fermentation process can double the butanol yield and concentration, thus reducing the product cost to an economically competitive level for fuel application.&lt;br/&gt;&lt;br/&gt;Broader Impact:&lt;br/&gt;&lt;br/&gt;Currently, butanol is almost exclusively produced via petrochemical routes. Its uses include industrial applications in solvent, rubber monomers and brake fluids. Butanol has also been shown to be a good alternative transportation fuel. Biobutanol will have a great potential to compete with ethanol as a transportation fuel when its production cost is reduced by using advanced fermentation technologies such as metabolically engineered butanol-tolerant mutants. By increasing the butanol yield from glucose and xylose from the current low of &lt;20 % (w/w) to ~40%, the economics of biobutanol can be greatly improved. With the engineered mutants, the productivity and butanol product concentration can also be improved by at least 100%. Overall, the biobutanol product cost can be reduced to less than $2 per gallon. This technology thus can provide an economical and better biofuel than ethanol. This project will focus on generation of value-added products from industrial waste streams and low-cost biomass feedstocks to enhance the economic viability of the biorefinery industry. Successfully developing the proposed butanol fermentation technology will satisfy the public interest, especially in providing a safe, renewable energy, protecting natural resources and the environment, and enhancing economic opportunity and quality of life. There will be job creation throughout the commercial development and manufacturing phases. At least one postdoctoral scholar and one Ph.D. student will be trained in this project.</AbstractNarration>
+<MinAmdLetterDate>04/29/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0810568</AwardID>
+<Investigator>
+<FirstName>I-Ching</FirstName>
+<LastName>Tang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>I-Ching Tang</PI_FULL_NAME>
+<EmailAddress>bictang@sbcglobal.net</EmailAddress>
+<PI_PHON>6147611552</PI_PHON>
+<NSF_ID>000163758</NSF_ID>
+<StartDate>04/29/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Bioprocessing Innovative Company, Inc.</Name>
+<CityName>Dublin</CityName>
+<ZipCode>430172599</ZipCode>
+<PhoneNumber>6147611552</PhoneNumber>
+<StreetAddress>4734 Bridal Path Court</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Bioprocessing Innovative Company, Inc.]]></Name>
+<CityName>Dublin</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>430172599</ZipCode>
+<StreetAddress><![CDATA[4734 Bridal Path Court]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1166</Code>
+<Text>MOLECULAR BIOCHEMISTRY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1167</Code>
+<Text>MULTIDISCIPLINARY BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1238</Code>
+<Text>TECH FOR SUSTAINABLE ENVIRONMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1465</Code>
+<Text>PRODUCTION SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1491</Code>
+<Text>BIOTECH, BIOCHEM &amp; BIOMASS ENG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9181</Code>
+<Text>BIOPROCESSING/BIOMOLECULAR MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~150000</FUND_OBLG>
+</Award>
+</rootTag>

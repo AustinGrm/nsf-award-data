@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Exploring Student Understanding of Physical Chemistry]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>31487.00</AwardTotalIntnAmount>
+<AwardAmount>31487</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joseph Grabowski</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Chemistry (12)  &lt;br/&gt;The development of student understanding of mathematical equations in physical chemistry is being investigated using an emergent research methodology from mathematics education research known as Toulmin analysis. This approach uses Toulmin's argumentation scheme as a way of documenting and analyzing activities that take place in an interactive classroom where discussion takes place. The approach is being adapted from mathematics, where it has been used in differential equations classrooms, to chemistry, where it is being used to analyze interactions among students working in Process Oriented Guided Inquiry Learning (POGIL) physical chemistry classrooms. The findings are expected to help explain the ways that students translate mathematical equations and symbols into descriptions of macroscopic and microscopic systems, and to add to the body of knowledge about effective pedagogical practices in STEM. Instruments from physics education research are being adapted for physical chemistry and implemented within the Physical Chemistry Online and POGIL communities to compare student understanding of mathematical equations across levels of mathematical preparation, and across classrooms where different pedagogies are used. This collaborative project includes interactions among researchers in chemistry, physics, and mathematics education research, thus connecting and enhancing their work and creating a community of scholars who can act as resources for each other and for those seeking information.&lt;br/&gt;Intellectual Merit: This project is adding to the body of STEM education research by developing new and revised models of how undergraduate STEM students learn. It also promises to adapt and develop new methods for documenting the collective activity of students in classrooms, thus offering researchers new techniques for revealing the ways that students reason in classrooms where pedagogical techniques such as learning in groups or teams are used. The study of student understanding of mathematical equations in POGIL physical chemistry adds to the body of knowledge about effective practices in STEM education.&lt;br/&gt;Broader Impacts: Findings from this project can be used to challenge current classroom practices and are expected to lead to new ideas for creating educational materials and teaching strategies that have the potential for directly impacting educational practices in STEM.  While focusing on student understanding of mathematical equations used in physical chemistry, the project provides an opportunity to build community and connections among researchers in chemistry, mathematics, and physics education.  The results of the proposed work will be presented at regional and national ACS meetings, the BCCE, the GRC on Chemistry Education Research and Practice, the GRC on Visualizations in Science Education, the National Council of Teachers of Mathematics, and the American Association of Physics Teachers.]]></AbstractNarration>
+<MinAmdLetterDate>09/03/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/03/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0816792</AwardID>
+<Investigator>
+<FirstName>Renee</FirstName>
+<LastName>Cole</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Renee S Cole</PI_FULL_NAME>
+<EmailAddress><![CDATA[renee-cole@uiowa.edu]]></EmailAddress>
+<NSF_ID>000356629</NSF_ID>
+<StartDate>09/03/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Central Missouri</Name>
+<CityName>WARRENSBURG</CityName>
+<ZipCode>640932324</ZipCode>
+<PhoneNumber>6605434264</PhoneNumber>
+<StreetAddress>108 W SOUTH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>J5HWZ6H6UAK5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CENTRAL MISSOURI</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Central Missouri]]></Name>
+<CityName>WARRENSBURG</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>640932324</ZipCode>
+<StreetAddress><![CDATA[108 W SOUTH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7492</Code>
+<Text>CCLI-Type 2 (Expansion)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>1300CYXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~31487</FUND_OBLG>
+</Award>
+</rootTag>

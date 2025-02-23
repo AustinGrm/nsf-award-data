@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  A Method to Prevent Dilation of the Heart Following an Acute Myocardial Infarction.</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gregory T. Baxter</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research (SBIR) Phase 1 project aims to develop a device to prevent congestive heart failure (CHF) in patients after a heart attack. There is currently no effective way to prevent the development of CHF. Several passive restraint devices placed around the heart have shown benefit in patients with established CHF. Recent animal studies have shown that these devices can prevent CHF when placed immediately after a heart attack. However, due to their permanence, they can only be used in patients with established CHF. This research continues the development and performs initial animal testing of a device to prevent progression to CHF in patients after a heart attack. &lt;br/&gt;&lt;br/&gt;The broader impact of this project will be to reduce CHF is, which is a disease that affects 5.5 million Americans costing the healthcare system $30 billion a year. Heart attacks, the leading cause of CHF, place the heart under significant mechanical stresses leading to CHF. Every year, almost 1.2 million patients suffer from a heart attack in the United States. Currently, there are only a few medical strategies to slow down progression to CHF and no real way to prevent it. This technology develops a minimally invasive biodegradable device to delay or prevent patients from developing CHF after a heart attack. This device will provide a much needed device based therapy, potentially radically modifying current treatment paradigms with an estimated annual market potential of $3 billion.</AbstractNarration>
+<MinAmdLetterDate>12/11/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/29/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839761</AwardID>
+<Investigator>
+<FirstName>Bilal</FirstName>
+<LastName>Shafi</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bilal M Shafi</PI_FULL_NAME>
+<EmailAddress>bilal@shafi.org</EmailAddress>
+<PI_PHON>2157380400</PI_PHON>
+<NSF_ID>000076576</NSF_ID>
+<StartDate>12/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>COR Innovations, Inc</Name>
+<CityName>Philadelphia</CityName>
+<ZipCode>191465208</ZipCode>
+<PhoneNumber>2157380400</PhoneNumber>
+<StreetAddress>305 Captain's Way</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[COR Innovations, Inc]]></Name>
+<CityName>Philadelphia</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>191465208</ZipCode>
+<StreetAddress><![CDATA[305 Captain's Way]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; DEVICE TEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5345</Code>
+<Text>BIOMEDICAL ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9267</Code>
+<Text>INSTRUMENTATION &amp; LAB IMPROVE.</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~150000</FUND_OBLG>
+</Award>
+</rootTag>

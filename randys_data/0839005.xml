@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Atmosphere-Ice-Ocean Interactions in the Eastern Ross Sea</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>388477.00</AwardTotalIntnAmount>
+<AwardAmount>388477</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090300</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OPP</Abbreviation>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Milne</SignBlockName>
+<PO_EMAI>pmilne@nsf.gov</PO_EMAI>
+<PO_PHON>7032924714</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Abstract&lt;br/&gt;&lt;br/&gt;"This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5)."&lt;br/&gt;&lt;br/&gt;A postulated key factor in controlling the future fate of the West Antarctic Ice Sheet, for instance in the area of the Amundsen Sea embayment, is the extent to which warm Circumpolar Deep Water (CDW) intrusions may flow up onto the continental shelf and towards the base of  the region's large floating ice shelves. Scenarios for a warming global climate, and a warmer Southern Ocean, indicate an increased shelfward heat transport resulting in aggressive basal melting of these large buttressing ice shelves. This  possibly could lead to subsequent rapid acceleration of grounded, continental glacial flow into the ocean. &lt;br/&gt;As of yet, such CDW intrusions have not been observed directly adjacent to the massive Ross Ice Shelf to the west of the Amundsen. This project seeks an accounting of circulation features leading to increased (or not) net poleward intrusion of CDW into the Eastern Ross Sea region (Cape Colbeck, Edward VII peninsula) and under the Ross Ice Shelf, the largest ice shelf on the continent. By using standard current moorings, along with CTD and XBT casts made from aboard the RVIB Oden, observation of the occurrence of this water mass will be undertaken.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>08/12/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/12/2009</MaxAmdLetterDate>
+<ARRAAmount>388477</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.078</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839005</AwardID>
+<Investigator>
+<FirstName>Alejandro</FirstName>
+<LastName>Orsi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alejandro Orsi</PI_FULL_NAME>
+<EmailAddress>aorsi@tamu.edu</EmailAddress>
+<NSF_ID>000377050</NSF_ID>
+<StartDate>08/12/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M Research Foundation</Name>
+<CityName>College Station</CityName>
+<ZipCode>778454375</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress>400 Harvey Mitchell Parkway, S</StreetAddress>
+<StreetAddress2><![CDATA[Suite 300]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX17</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>078592789</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A &amp; M RESEARCH FOUNDATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>078592789</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&amp;M University]]></Name>
+<CityName>College Station</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>778454375</ZipCode>
+<StreetAddress><![CDATA[400 Harvey Mitchell Pkwy South]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0311000</Code>
+<Name>Polar Programs-Related</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5113</Code>
+<Text>ANT Ocean &amp; Atmos Sciences</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2009~388477</FUND_OBLG>
+</Award>
+</rootTag>

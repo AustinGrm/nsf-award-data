@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[The Risks of Natural Background Radiation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>107500</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Frederick Kronz</SignBlockName>
+<PO_EMAI>fkronz@nsf.gov</PO_EMAI>
+<PO_PHON>7032927283</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project funded by the Science, Technology, and Society program studies the conception of social risk held by a community that lives in an area of high natural background radiation.  Using ethnographic methods, interviews, and life histories, local understandings of sources of disease and threat, wellness and health, conceptions of place and community history, and social migratory patterns are ascertained. This understanding is set against the risk assessments produced by state health agencies that find no measurable danger in this region and environmental non governmental organizations that find significant levels of genetic disturbance. The analysis combines interviews and documentary analysis. The focus of this project is the community living in the high natural radiation belt just north of Kollam, in southern India.&lt;br/&gt;&lt;br/&gt;The project is part of a larger book project that focuses on two intertwined stories: the first is the history of a rare earth mineral, monazite; the second is the history of a community that is now entirely defined by their proximity to a radioactive material, thorium. Monazite was, before Hiroshima, a raw material for industry. After the nuclear age began, combined with the realization that thorium was one of the elements found in monazite, monazite became valuable as a potential nuclear fuel. India's long-term nuclear power strategy depends on building breeder reactors that will use thorium as fuel. The community of people that live around the beach sands with high concentrations of rare earths were, before 1945, a marginal community composed of miners and fisherman. Following Hiroshima, they became a community that was primarily defined by their proximity to a radioactive material, even as their livelihoods and condition of life changed little. The project examines the mutual constitution of a people whose current identity was shaped by the nuclear age, and a material whose life history was transformed by nuclear fission.]]></AbstractNarration>
+<MinAmdLetterDate>09/15/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>02/17/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0824454</AwardID>
+<Investigator>
+<FirstName>Itty</FirstName>
+<LastName>Abraham</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Itty Abraham</PI_FULL_NAME>
+<EmailAddress><![CDATA[ittya@mail.utexas.edu]]></EmailAddress>
+<NSF_ID>000500138</NSF_ID>
+<StartDate>09/15/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7603</Code>
+<Text>STS-Sci, Tech &amp; Society</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7567</Code>
+<Text>SOC STUDIES OF SCI, ENG &amp; TECH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~107500</FUND_OBLG>
+</Award>
+</rootTag>

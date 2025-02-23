@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Integrated Volcano Geodesy and Seismology: Earthquakes at Silicic Domes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>130700.00</AwardTotalIntnAmount>
+<AwardAmount>130700</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030204</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eva Zanzerkia</SignBlockName>
+<PO_EMAI>ezanzerk@nsf.gov</PO_EMAI>
+<PO_PHON>7032924734</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Silicic dome growth represents one of the most common eruptive manifestations of volcanic activity along continental arcs. This study will investigate the links between geodesy and broadband seismicity at volcanic domes by employing novel optical image analyses, conventional tilt measurements, and broadband seismic studies. Recent work by the PIs has shown that long period earthquakes at Santiaguito dome, of andesitic / dacitic chemistry, are accompanied by rapid (~few s) and dramatic (10s of cm) surface uplift, however this linked geodesy and seismology has only been explored for a very few eruptive events in a limited band. Proposed work at Santiaguito will incorporate stereoscopic videographic and time lapse observations of dome activity in conjunction with a seismic network geometry that is capable of inverting for both the seismic long period and very long period source mechanisms. Coupled with year-long tiltmeter and time lapse imagery we will investigate seismic response to static and dynamic dome motions. Surveys conducted over twelve months will serve to investigate both short and long term magma mass flux cycles, temporal trends in subsurface dome structure, and their relation to explosive activity. &lt;br/&gt;&lt;br/&gt;Earthquakes are traditionally recorded with seismometers, but some types of volcanic earthquakes occurring at (or near) the Earth?s surface can also be ?seen? with other types of geophysical instrumentation. In this study, novel optical tools, such as high resolution digital cameras, will be used to quantify surface ground motion occurring at a range of time scales ranging from seconds to days to months. Our project focuses on earthquakes that occur at silicic volcanic systems, and in particular at Santiaguito Volcano in Guatemala, which tend to effuse viscous lava and also erupt explosively and intermittently and sometimes hazardously. This type of volcano is common worldwide and tends to exhibit a wide range of enigmatic earthquake types that need to be better understood to more reliably predict volcanic unrest. Optical and seismic observations, coupled with acoustic and traditional geodetic monitoring, will enable us to understand the movements that occur within and at the surface of this type of active volcano.]]></AbstractNarration>
+<MinAmdLetterDate>09/13/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>09/13/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0838395</AwardID>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Lees</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jonathan M Lees</PI_FULL_NAME>
+<EmailAddress><![CDATA[jonathan.lees@unc.edu]]></EmailAddress>
+<NSF_ID>000296130</NSF_ID>
+<StartDate>09/13/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina at Chapel Hill</Name>
+<CityName>CHAPEL HILL</CityName>
+<ZipCode>275995023</ZipCode>
+<PhoneNumber>9199663411</PhoneNumber>
+<StreetAddress>104 AIRPORT DR STE 2200</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>D3LHU66KBLD5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>N8DMK1K4C2K5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of North Carolina at Chapel Hill]]></Name>
+<CityName>CHAPEL HILL</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>275995023</ZipCode>
+<StreetAddress><![CDATA[104 AIRPORT DR STE 2200]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1573</Code>
+<Text>Petrology and Geochemistry</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1574</Code>
+<Text>Geophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1576</Code>
+<Text>NATIONL EARTHQK HZRD REDCT PRG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~130700</FUND_OBLG>
+</Award>
+</rootTag>

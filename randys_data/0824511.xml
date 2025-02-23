@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[How to Run a Teacher's Circle]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>12000.00</AwardTotalIntnAmount>
+<AwardAmount>12000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daniel P. Maki</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Mathematical Sciences (21): This project is preparing teams to bring together research mathematicians and middle school teachers of mathematics through the use of Teacher's Circles. These Circles are groups of mathematicians and school mathematics teachers that meet regularly to do mathematics. Such Circles have been shown to be mathematically stimulating for both the teachers and the mathematicians and the students of both benefit from the relationship. &lt;br/&gt;&lt;br/&gt;The project is forming new Teacher's Circles in many different geographical locations across the U.S. To accomplish this goal, the project first brings together a collection of teams to attend one of two five-day workshops, one held in Palo Alto, California, and one held in Washington, D.C., in the summer of 2008, to learn how to run a Teacher's Circle and to plan the launch of each team's own Teacher's Circle in the summer of 2009. Each team consists of at least one mathematician, at least two middle school teachers, and at least one administrator/recruiter/fund-raiser, all from the same geographic area. During the workshops, the morning activities will simulate actual Teacher's Circles and the afternoon activities will be devoted to planning the launch of the new Teacher's Circles.&lt;br/&gt;&lt;br/&gt;Broader Impact: The proposed workshops will lead to the formation of as many as 10 - 14 new Teacher's Circles around the U.S. Each of those will lead to a program that will enhance the knowledge base, the mathematical confidence, the ability to tackle new problems, and the willingness to take risks in up to 25 middle school teachers. These 300 teachers each meet with up to 100 middle school students per day; the net impact of the new Teacher's Circles will be to enhance the mathematical experiences of up to thirty thousand middle school students per year.]]></AbstractNarration>
+<MinAmdLetterDate>06/16/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/16/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0824511</AwardID>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>Dunbar</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Steven R Dunbar</PI_FULL_NAME>
+<EmailAddress><![CDATA[sdunbar@math.unl.edu]]></EmailAddress>
+<NSF_ID>000405145</NSF_ID>
+<StartDate>06/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>J. Brian</FirstName>
+<LastName>Conrey</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>J. Brian Conrey</PI_FULL_NAME>
+<EmailAddress><![CDATA[conrey@aimath.org]]></EmailAddress>
+<NSF_ID>000480810</NSF_ID>
+<StartDate>06/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>American Institute of Mathematics</Name>
+<CityName>SAN JOSE</CityName>
+<ZipCode>951121006</ZipCode>
+<PhoneNumber>4083502088</PhoneNumber>
+<StreetAddress>600 E BROKAW RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA17</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RP8CDDTJLA24</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>AMERICAN INSTITUTE OF MATHEMATICS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[American Institute of Mathematics]]></Name>
+<CityName>SAN JOSE</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>951121006</ZipCode>
+<StreetAddress><![CDATA[600 E BROKAW RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7645</Code>
+<Text>Discovery Research K-12</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~12000</FUND_OBLG>
+</Award>
+</rootTag>

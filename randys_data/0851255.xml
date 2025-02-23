@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Role of Latent Virus Infection in Marine Phytoplankton]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>549105.00</AwardTotalIntnAmount>
+<AwardAmount>549105</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040301</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Garrison</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The great abundance of viruses infecting marine phytoplankton is now well known. Much effort has been focused on elucidating the biological significance of viral lysis (i.e. killing of the host cell), and its effects on wide ranging global processes, while another important aspect of viral infection, latency, has been largely ignored. This is despite evidence from the 1970s indicating phytoplankton carry latent infections. In latency, the virus is stably maintained within the host cell: its genome replicating along with that of the host, and being passed on to progeny cells. The crucial aspect of latency is that the virus can be reactivated (usually by an environmental trigger), killing the host and releasing new infective particles. Latency has implications in lateral gene transfer and hence evolution and may confer advantages to infected cells (e.g. resistance to other viruses). Latency could represent the most important role of viruses in regulating phytoplankton dynamics in the ocean. The most likely triggers for reactivation of latent viruses are increased temperature and / or UV irradiation, hence latency in marine phytoplankton is not only a crucial component of ocean ecosystems, but should be considered in climate change models. &lt;br/&gt;&lt;br/&gt;This project will test two hypotheses: 1) latent phytoplankton viruses are highly diverse, abundant and pervasive in marine systems; 2) increasing ocean temperature is a key trigger for virus induction. The project will address these hypotheses by screening phytoplankton (culture collection and field samples) for latent infections using PCR-based methods and electron microscopy. Some samples will be induced (using elevated temperature or UV irradiation to "switch on" the viruses) and the virus particles will be detected by flow cytometry.  The PIs will then use a transformative approach of virus sorting, whole virus genome amplification and sequence analysis, to design diagnostic probes to assess latency in the environment. &lt;br/&gt;&lt;br/&gt;Broader Impacts of this study will derive mainly from interactions between the scientists directly involved in the research and students/general public. For example, results of research from this project will be discussed during an informal "Café Scientifique" program designed to share the latest scientific ideas with the general public. The PIs will teach K-12 students the structure of viruses and the principles of molecular probing using cardboard models during informal open days. The PIs will also incorporate a further "order of magnitude" (virus DNA) into the Keller-Bigelow Laboratory Orders Of Magnitude (BLOOM) program, designed to teach high school students, from throughout Maine, functionality in marine ecosystems. Outcomes from BLOOM include understanding methods of investigation and broadening and strengthening the students' interest in science. The PIs have links with local schools, having visited pre-K to 3 children to teach them about phytoplankton and viruses and hosted a high school work experience student in the laboratory, who helped to isolate and characterize viruses from a marine hatchery. The PIs will host undergraduate interns and will interact with postgraduate students through our collaborators during the course of this project. &lt;br/&gt;&lt;br/&gt;The key product of this research will be information on virus latency in marine phytoplankton, of which almost nothing is currently known. Phytoplankton and their viruses are vital components in the global carbon cycle. Findings from this project will further the understanding of these important viruses, their propagation and survival strategies. Genome sequence information of these viruses will encourage involvement from biotechnology companies who are actively seeking novel enzymes, compounds and processes in the marine environment. In addition, since some of the algal hosts studied in this project (zooxanthellae) are coral symbionts, the findings will also be relevant to coral biology, and in particular to the understanding of coral bleaching, which results from loss of zooxanthellae, and is thought to be associated with increased temperature. The fate of the World's coral reefs is of great interest and concern to the general public.]]></AbstractNarration>
+<MinAmdLetterDate>03/05/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>04/09/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0851255</AwardID>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Wilson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>William Wilson</PI_FULL_NAME>
+<EmailAddress><![CDATA[wwilson@bigelow.org]]></EmailAddress>
+<NSF_ID>000069677</NSF_ID>
+<StartDate>04/09/2010</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Susan</FirstName>
+<LastName>Wharam</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Susan Wharam</PI_FULL_NAME>
+<EmailAddress><![CDATA[swharam@bigelow.org]]></EmailAddress>
+<NSF_ID>000073932</NSF_ID>
+<StartDate>03/05/2009</StartDate>
+<EndDate>04/09/2010</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Wilson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>William Wilson</PI_FULL_NAME>
+<EmailAddress><![CDATA[wwilson@bigelow.org]]></EmailAddress>
+<NSF_ID>000069677</NSF_ID>
+<StartDate>03/05/2009</StartDate>
+<EndDate>04/09/2010</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Bigelow Laboratory for Ocean Sciences</Name>
+<CityName>EAST BOOTHBAY</CityName>
+<ZipCode>045445700</ZipCode>
+<PhoneNumber>2073152567</PhoneNumber>
+<StreetAddress>60 BIGELOW DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<StateCode>ME</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>ME01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DRTAEZWWJHM8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BIGELOW LABORATORY FOR OCEAN SCIENCES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Bigelow Laboratory for Ocean Sciences]]></Name>
+<CityName>EAST BOOTHBAY</CityName>
+<StateCode>ME</StateCode>
+<ZipCode>045445700</ZipCode>
+<StreetAddress><![CDATA[60 BIGELOW DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>ME01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0204000</Code>
+<Name>Oceanography</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1650</Code>
+<Text>BIOLOGICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9117</Code>
+<Text>MARINE BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~549105</FUND_OBLG>
+</Award>
+</rootTag>

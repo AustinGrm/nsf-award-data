@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[U.S. WELFARE ATTITUDES IN CROSS-NATIONAL PERSPECTIVE]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>175625.00</AwardTotalIntnAmount>
+<AwardAmount>175625</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050200</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Brian Humes</SignBlockName>
+<PO_EMAI>bhumes@nsf.gov</PO_EMAI>
+<PO_PHON>7032927284</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[[This proposal is part of a funded CRP from the EuroCORES HumVIB competition.]&lt;br/&gt;&lt;br/&gt;This project uses a new national survey with which to systematically measure American welfare attitudes in cross-national perspective. This research has two complementary goals. One is to field for the first time core items from the highly successful European Social Survey (ESS) to better enable comparisons between European nations and the United States. Cross-nationally standardized items are essential to survey measurement, and this project will build from the ESS data collection, extending measurement of welfare attitudes to the key case of the United States. &lt;br/&gt;&lt;br/&gt;The project's second thematic goal is to make use of an experimental design in which hypotheses about causal sources of welfare state attitudes can be adjudicated. Embedded survey experiments hold considerable promise in advancing scholarly understanding of attitude and preference formation. The dual focus of this project is on framing (in which the description of a social policy or its beneficiaries are varied) and sponsorship (in which the source of these descriptions are varied). Together, framing and sponsorship are essential elements of social and historical context that are typically held constant in opinion surveys. Building from the conventional social survey, the methodological benefit of survey experiments is to unpack these elements of context so that hypotheses about specific frames and competing sponsors can be evaluated. &lt;br/&gt;&lt;br/&gt;This project and data collection provides American and European scholars with a new survey with which to evaluate how and why social policy attitudes vary in the contemporary historical era. It provides for the principal investigator and larger European research team (of which this project is the United States component) the data with which to conduct survey based individual and multi-level analysis. Subsequent research projects are expected to offer novel explanations of why mass opinion on social welfare continues to differ across the worlds most developed nations. In fielding embedded survey experiments, this project offers new insights into mechanisms behind the formation of policy preferences. These experiments contribute to a firmer understanding of the United States in cross-national perspective. It is hoped that knowledge generated through these experiments may stimulate further applications of experimental surveys in cross-national research.]]></AbstractNarration>
+<MinAmdLetterDate>09/22/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/22/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0830917</AwardID>
+<Investigator>
+<FirstName>Ernest</FirstName>
+<LastName>Brooks</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ernest C Brooks</PI_FULL_NAME>
+<EmailAddress><![CDATA[cbrooks@indiana.edu]]></EmailAddress>
+<NSF_ID>000100989</NSF_ID>
+<StartDate>09/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Indiana University</Name>
+<CityName>BLOOMINGTON</CityName>
+<ZipCode>474057000</ZipCode>
+<PhoneNumber>3172783473</PhoneNumber>
+<StreetAddress>107 S INDIANA AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YH86RTW2YVJ4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF INDIANA UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YH86RTW2YVJ4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Indiana University]]></Name>
+<CityName>BLOOMINGTON</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>474057000</ZipCode>
+<StreetAddress><![CDATA[107 S INDIANA AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7705</Code>
+<Text>EUROCORES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~175625</FUND_OBLG>
+</Award>
+</rootTag>

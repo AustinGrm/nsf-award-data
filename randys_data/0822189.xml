@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: R&amp;D: Cyber-Enabled Design Research to Enhance Teachers' Critical Thinking Using a Major Video Collection on Children's Mathematical Reasoning</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>866946.00</AwardTotalIntnAmount>
+<AwardAmount>866946</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DRL</Abbreviation>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Edith Gummer</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>The four-year research and development project, among Rutgers Robert B. Davis Institute for Learning (RBDIL), Rutgers University Libraries, and the University of Wisconsin  (Madison), is addressing the frontier challenge of supporting STEM teachers' practice and development using cutting-edge cyber-enabled technology. It is leveraging the Video Mosaic Collaboratory (VMC), an interactive digital environment supporting video-based teacher professional development and related research, being offered through the Rutgers University Libraries cyber infrastructure, currently under development with NSF support. The VMC contains indexed video cases from the video collection from RBDIL with accompanying data on students' mathematical reasoning, an extensive collection based on NSF-supported research spanning two decades.&lt;br/&gt;&lt;br/&gt;A systematic design research study is being conducted utilizing RBDIL's video collection to support designing and sharing adaptable mathematics teacher professional development interventions and to generate testable hypotheses about factors influencing intervention success. Diverse school and university sites in New Jersey and Wisconsin are developing video-based instruction appropriate to local contexts. A multi-site experimental design containing within-site comparison groups is testing the hypothesis that well-designed interventions based on teachers studying videos of children's thinking can increase their performance on measures of expertise that include knowledge of mathematics, children's mathematical reasoning, and related beliefs.&lt;br/&gt;&lt;br/&gt;The project is demonstrating the use of cyber-enabled technologies to build and share adaptable interventions for pre and in-service teacher growth that effectively make use of major video collections and have high promise of success at multiple sites. The cyber infrastructure being provided by the VMC and significantly extended through this project is supporting development and documentation of additional interventions for teacher professional development using this video collection, as well as other videos that might be added in the future by teacher educators or researchers, including those working in other STEM domains.</AbstractNarration>
+<MinAmdLetterDate>09/16/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/16/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0822189</AwardID>
+<Investigator>
+<FirstName>Sharon</FirstName>
+<LastName>Derry</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sharon Derry</PI_FULL_NAME>
+<EmailAddress>derry@email.unc.edu</EmailAddress>
+<NSF_ID>000659001</NSF_ID>
+<StartDate>09/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<StreetAddress2><![CDATA[Suite 6301]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI02</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>161202122</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>041188822</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>537151218</ZipCode>
+<StreetAddress><![CDATA[21 North Park Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7625</Code>
+<Text>REAL</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7645</Code>
+<Text>Discovery Research K-12</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9177</Code>
+<Text>ELEMENTARY/SECONDARY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~866946</FUND_OBLG>
+</Award>
+</rootTag>

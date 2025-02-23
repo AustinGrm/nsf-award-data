@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SGER: Collection of Data on Fire at Faculty of Architecture Building, Technical University at Delft]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>11377.00</AwardTotalIntnAmount>
+<AwardAmount>11377</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mahendra P. Singh</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[0840601&lt;br/&gt;Abstract&lt;br/&gt;&lt;br/&gt;This project will provide travel support to a research team to collect data on the fire-induced damage of a multistory building in Delft, the Netherlands.  On May 13, 2008 an internally started fire caused a significant part of the Faculty of Architecture Building at the Technical University of Delft to collapse. The research team will visit the site and meet with university personnel, government officials, fire fighters, eyewitnesses, and other people concerned with this event to collect data of scientific importance.  The collected data will include structural plans, material specifications, architectural layout and compartmentation plans, information on combustible contents, fire safety management procedures, and system test, inspection and maintenance procedures.  Information will also be collected on fire initiation, growth and spread of fire, response of building, and response of the occupants and fire fighters, including emergency response procedures in place and decisions made during the evacuation prior to the fire spread. The data collected for this event will provide highly important information for future research studies needed to improve the understanding of fire-structure response and building performance, evacuation planning, and other broader questions related to building fire safety regulations and public policy.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/17/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/17/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0840601</AwardID>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Meacham</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brian J Meacham</PI_FULL_NAME>
+<EmailAddress><![CDATA[bmeacham@wpi.edu]]></EmailAddress>
+<NSF_ID>000108498</NSF_ID>
+<StartDate>07/17/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Worcester Polytechnic Institute</Name>
+<CityName>WORCESTER</CityName>
+<ZipCode>016092247</ZipCode>
+<PhoneNumber>5088315000</PhoneNumber>
+<StreetAddress>100 INSTITUTE RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HJNQME41NBU4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WORCESTER POLYTECHNIC INSTITUTE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Worcester Polytechnic Institute]]></Name>
+<CityName>WORCESTER</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>016092247</ZipCode>
+<StreetAddress><![CDATA[100 INSTITUTE RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1637</Code>
+<Text>Structural and Architectural E</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1638</Code>
+<Text>HDBE-Humans, Disasters, and th</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>039E</Code>
+<Text>STRUCTURAL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>040E</Code>
+<Text>Haz mitigation of structural sys</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9237</Code>
+<Text>SMALL GRANTS-EXPLORATORY RSRCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~11377</FUND_OBLG>
+</Award>
+</rootTag>

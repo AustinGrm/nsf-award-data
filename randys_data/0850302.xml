@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>REU Site: Research Experiences for Undergraduates in Ecological Chemistry at the University of Cádiz, Spain</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>323040.00</AwardTotalIntnAmount>
+<AwardAmount>323040</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090007</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Charles Pibel</SignBlockName>
+<PO_EMAI>cpibel@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This program establishes a new summer International REU site at the University of Cádiz, in southwestern Spain in the Dept. of Organic Chemistry.  During this REU, eight students will have the opportunity to participate in one of two labs in the area of Chemical ecology.  In the Allelopathy group, students will isolate, identify and quantify secondary metabolites from Antarctic lichens. Over the past several years, there have been significant biotic and abiotic changes on the Antarctic continent due to climate shifts.  Lichens produce an array of secondary metabolites; with different compounds being produced within the same species depending upon local environmental conditions. While there has been extensive characterization of lichen secondary metabolites in chemotaxonomy, this is one of the first studies to systematically compare changes along an ecological transect as well as through time.  The southern coast of the province of Cádiz forms one of the sides of the Strait of Gibraltar. This unique position encompasses an area of great ecological interest, housing the greatest biodiversity of Europe's coasts.  It has been declared a protected natural area. More than 2000 species of marine flora and fauna have been described in this region, some of them being endemic or with a restricted area of distribution.  In the Marine Natural Products group, students will also isolate, identify, and quantify metabolites from marine organisms endemic to the region.  Once the compounds have been isolated and identified from both groups, further studies will identify the bioactive compounds and their molecular mechanism of action and subsequent role in the ecosystem will be elucidated.  &lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>08/04/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>04/08/2011</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0850302</AwardID>
+<Investigator>
+<FirstName>Joanne</FirstName>
+<LastName>Romagni</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joanne Romagni</PI_FULL_NAME>
+<EmailAddress>jromagni@depaul.edu</EmailAddress>
+<NSF_ID>000078678</NSF_ID>
+<StartDate>08/04/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Bucknell University</Name>
+<CityName>LEWISBURG</CityName>
+<ZipCode>178372111</ZipCode>
+<PhoneNumber>5705773510</PhoneNumber>
+<StreetAddress>One Dent Drive</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA12</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>003030335</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>BUCKNELL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>003030335</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Bucknell University]]></Name>
+<CityName>LEWISBURG</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>178372111</ZipCode>
+<StreetAddress><![CDATA[One Dent Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1986</Code>
+<Text>UNDERGRADUATE PROGRAMS IN CHEM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7731</Code>
+<Text>Other Global Learning &amp; Trng</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5952</Code>
+<Text>SPAIN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5979</Code>
+<Text>Europe and Eurasia</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0110</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0111</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2009~104139</FUND_OBLG>
+<FUND_OBLG>2010~107256</FUND_OBLG>
+<FUND_OBLG>2011~91078</FUND_OBLG>
+</Award>
+</rootTag>

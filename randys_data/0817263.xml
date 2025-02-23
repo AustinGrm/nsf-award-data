@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[IMR: Development of High Speed SPM for Research and Education]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>311111.00</AwardTotalIntnAmount>
+<AwardAmount>311111</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070006</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Charles E. Bouldin</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Technical abstract&lt;br/&gt;&lt;br/&gt;Scanning Probe Microscopy has advanced tremendously in the 25 years since its invention except in one crucial category?speed. To address this limitation high speed surface property mapping (HSSPM) will be developed, allowing continuous image acquisition at rates up to 10 frames per second (&gt;1000x improvement over standard systems). Based on a commercial atomic force microscope and standard test and measurement hardware, this method employs recent advances with cantilever contact resonances and high speed data acquisition for nanoscale amplitude and phase contrast at tip velocities approaching one cm/sec. Initial applications during development include previously impractical large area scanning on high temperature alloys and integrated circuits, as well as surface dynamics studies such as ferroelectric domain nucleation and growth mechanisms and kinetics. These enhanced capabilities will be openly available as part of a campus user facility already leveraged by more than 50 academic and industrial researchers. Furthermore, HSSPM is readily transferrable elsewhere as it is compatible with both legacy and next generation SPM systems. The enhanced interactivity of high speed SPM imaging will feature in new outreach activities for undergraduates, high school teachers, and high school students, particularly targeting youth from underrepresented groups in science and engineering. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Lay abstract&lt;br/&gt;&lt;br/&gt;Scanning Probe Microscopy has been an enabling tool for nanotechnology over the past 25 years, providing the capability to measure and manipulate materials with nanoscale resolution. However, slow operating speeds remain a crucial limitation for more widespread application, typically requiring 4 minutes or more per image. In this work, a high speed SPM (HSSPM) with a several thousand-fold improvement in imaging rates will be developed and installed in a campus user-facility. This will allow nearly video-rate mapping of surface properties, crucial for academic and industrial research requiring large area scanning and/or rapid measurements on numerous samples. Significantly, HSSPM will also enable previously inaccessible research on the nanoscale dynamics of materials properties, including the influence of temperature on polymer composites (increasingly common in automobile components) and ultimate read/write speeds and densities for ferroelectric thin films (next generation data storage materials). Finally, high speed imaging is especially interactive, and will therefore feature in teaching and demonstrations for undergraduates, high school teachers, and high school students, particularly to reach underrepresented groups in engineering.]]></AbstractNarration>
+<MinAmdLetterDate>08/06/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/06/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0817263</AwardID>
+<Investigator>
+<FirstName>Bryan</FirstName>
+<LastName>Huey</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bryan D Huey</PI_FULL_NAME>
+<EmailAddress><![CDATA[bryan.huey@uconn.edu]]></EmailAddress>
+<NSF_ID>000442139</NSF_ID>
+<StartDate>08/06/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Connecticut</Name>
+<CityName>STORRS</CityName>
+<ZipCode>062691133</ZipCode>
+<PhoneNumber>8604863622</PhoneNumber>
+<StreetAddress>438 WHITNEY RD EXTENSION UNIT 11</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WNTPS995QBM7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CONNECTICUT</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D9SNFDRCW3W7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Connecticut]]></Name>
+<CityName>STORRS</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>062691133</ZipCode>
+<StreetAddress><![CDATA[438 WHITNEY RD EXTENSION UNIT 11]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0106000</Code>
+<Name>Materials Research</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1750</Code>
+<Text>MPS DMR INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9161</Code>
+<Text>SINGLE DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>AMPP</Code>
+<Text>ADVANCED MATERIALS &amp; PROCESSING PROGRAM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~311111</FUND_OBLG>
+</Award>
+</rootTag>

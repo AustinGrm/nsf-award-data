@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Variability of Active Galactic Nuclei]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/31/2007</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>89515</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020417</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nigel Sharp</SignBlockName>
+<PO_EMAI>nsharp@nsf.gov</PO_EMAI>
+<PO_PHON>7032924905</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[&lt;br/&gt;&lt;br/&gt;AST-0307912&lt;br/&gt;Gaskell&lt;br/&gt;The PI and his extensive set of collaborators will carry out a large-scale, four-year, multi-observatory, international study of the regions surrounding the super-massive black holes in active galactic nuclei, with two main objectives: (1) to understand how to produce the intense radiation seen, especially the X-ray, ultraviolet, and optical emission, and (2) to study the distribution and motions of the dense gas close to the black holes by using its response to variations in the ionizing radiation.  Simultaneous ground-based optical continuum observations and space-based X-ray measurements will be the largest study undertaken to address the question of the relationship between these two emissions.  Collecting a large homogeneous sample of high signal-to-noise optical spectra to combine with the X-ray and continuum data will permit "reverberation mapping" of the rapidly moving dense gas close to the black hole.&lt;br/&gt;&lt;br/&gt;Significant effort is devoted to developing international partnerships between the US, Mexico, China, and observatories in the Former Soviet Union (FSU) republics of Armenia, Georgia, Kazakhstan, Russia, Ukraine and Uzbekistan.  The wide range of longitudes spanned by the FSU sites fills in the problematic "Asian gap" in previous studies, enhancing the capability to do time series analysis, and permitting studies on shorter timescales than before.  The project has heavy student involvement, extending to gifted high school students, with significant participation at the PI's University by under-represented minorities.&lt;br/&gt;***]]></AbstractNarration>
+<MinAmdLetterDate>01/16/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0803883</AwardID>
+<Investigator>
+<FirstName>C. Martin</FirstName>
+<LastName>Gaskell</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>C. Martin Gaskell</PI_FULL_NAME>
+<EmailAddress><![CDATA[mgaskell@ucsc.edu]]></EmailAddress>
+<NSF_ID>000463123</NSF_ID>
+<StartDate>01/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1217</Code>
+<Text>EXTRAGALACTIC ASTRON &amp; COSMOLO</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5979</Code>
+<Text>CENTRAL &amp; EASTERN EUROPE PROGR</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5915</Code>
+<Text>EASTERN EUROPE, OTHER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<FUND_OBLG>2003~89514</FUND_OBLG>
+</Award>
+</rootTag>

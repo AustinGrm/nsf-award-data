@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[REU Site: SURF NIST Boulder]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>276778.00</AwardTotalIntnAmount>
+<AwardAmount>276778</AwardAmount>
+<AwardInstrument>
+<Value>Interagency Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EEC</Abbreviation>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mary Poats</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Proposal: 0851480&lt;br/&gt;PI Name: Joseph Magee&lt;br/&gt;&lt;br/&gt;This three-year renewal REU site program at the National Institute of Standards and Technology (NIST) will engage undergraduate students in an eleven-week summer research experience in multidisciplinary research in engineering, applied physical science, and information technology.   The program will immerse students in science and include hands-on experience with state-of-the-art research and computational tools and involve frequent interaction with distinguished scientists and engineers.  The undergraduate students will learn to think about the origins, future directions, and potential applications of research projects.  An important feature of this program will be the weekly seminar series.  Seminar speakers will come from diverse backgrounds, including representatives from professional organizations, staff from neighboring laboratories, and NIST staff members.  These lectures will usually be augmented by a tour of a NIST research facility. In addition, students will attend seminars that are sponsored by the NIST Research Advisory Committee as part of its Summer Seminar Series, which features nationally and internationally recognized researchers who will speak on topical issues in science and society.&lt;br/&gt;&lt;br/&gt;Social activities will be an integral part of the students' experience with the goal of building friendships and collegiality between the students and faculty.  At the end of the summer, students will participate in a combined symposium and give oral presentations of their research.  This two-day event will be open to all NIST staff and interested guests.  All participants in this REU program will also be expected to give seminars at their home institutions. This will be a confidence builder for the student and can inspire other undergraduates to seek out an REU program experience.&lt;br/&gt;&lt;br/&gt;Recruitment efforts will be targeted to students underrepresented in science and engineering or from regional colleges that have limited research opportunities for undergraduates.  &lt;br/&gt;&lt;br/&gt;The goal of this REU site program is to provide research training which will prepare and motivate students to pursue PhD programs in preparation for careers in research and development. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/15/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0851480</AwardID>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Magee</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joseph W Magee</PI_FULL_NAME>
+<EmailAddress><![CDATA[joe.magee@nist.gov]]></EmailAddress>
+<NSF_ID>000481635</NSF_ID>
+<StartDate>07/15/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ron</FirstName>
+<LastName>Goldfarb</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ron B Goldfarb</PI_FULL_NAME>
+<EmailAddress><![CDATA[goldfarb@boulder.nist.gov]]></EmailAddress>
+<NSF_ID>000496133</NSF_ID>
+<StartDate>07/15/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY</Name>
+<CityName>GAITHERSBURG</CityName>
+<ZipCode>208990003</ZipCode>
+<PhoneNumber>3019755639</PhoneNumber>
+<StreetAddress>100 BUREAU DRIVE STOP 1070</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>N4VMYQADDKP5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NW2RJN8TQQW1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY]]></Name>
+<CityName>GAITHERSBURG</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>208990003</ZipCode>
+<StreetAddress><![CDATA[100 BUREAU DRIVE STOP 1070]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1360</Code>
+<Text>EWFD-Eng Workforce Development</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1360</Code>
+<Text>HUMAN RESOURCES DEVELOPMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~276778</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MEMS Umbrella-Shaped Actuator with Active Structure for Medical Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>299995.00</AwardTotalIntnAmount>
+<AwardAmount>299995</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Usha Varshney</SignBlockName>
+<PO_EMAI>uvarshne@nsf.gov</PO_EMAI>
+<PO_PHON>7032925385</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[&lt;br/&gt;The objective of this research is to design, fabricate and test an umbrella-shaped microactuator for thrombus retrieval in stroke therapy. The approach is to 1) design the actuator based on the properties of blood clots; 2) fabricate the actuator using an integrated micro/nanofabrication technique; and 3) demonstrate and improve the functionality and reliability of the actuator through in an in vitro vascular model. &lt;br/&gt;Intellectual Merit: The proposed actuator consists of active structures that are precisely controlled by novel piezoelectric nanofibers. The functional principle of the proposed actuator is unique in that it can provide a dynamic shear force on blood clots in vascular arteries. This shear force can be fine-tuned to facilitate the separation of the blood clot from the wall of the vascular artery due to the shearing-thinning phenomenon, thus enabling complete retrieval while minimizing the risk of damage to the arteries. This research will contribute new fundamental knowledge in the areas of piezoelectric response of nanomaterials as well as the mechanical behavior of blood clots.&lt;br/&gt;Broader Impact: Stroke is the third leading cause of death in the U.S, with blockage of arterial blood flow accounting for 83% of all strokes. If successful, this research will lead to a safe and reliable stroke therapy providing recanalization of blocked vascular arteries on the order of minutes. Educational materials based on this research will be implemented in courses at different levels and in different formats through various outreach programs and an existing NSF Nanotechnology Undergraduate Education program. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>04/10/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/10/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0802168</AwardID>
+<Investigator>
+<FirstName>Yong</FirstName>
+<LastName>Shi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yong Shi</PI_FULL_NAME>
+<EmailAddress><![CDATA[yshi2@stevens.edu]]></EmailAddress>
+<NSF_ID>000220476</NSF_ID>
+<StartDate>04/10/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ming</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ming Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[ming.zhang@downstate.edu]]></EmailAddress>
+<NSF_ID>000190165</NSF_ID>
+<StartDate>04/10/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sundeep</FirstName>
+<LastName>Mangla</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sundeep Mangla</PI_FULL_NAME>
+<EmailAddress><![CDATA[sundeep.mangla@gmail.com]]></EmailAddress>
+<NSF_ID>000269595</NSF_ID>
+<StartDate>04/10/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stevens Institute of Technology</Name>
+<CityName>HOBOKEN</CityName>
+<ZipCode>07030</ZipCode>
+<PhoneNumber>2012168762</PhoneNumber>
+<StreetAddress>1 CASTLEPOINT ON HUDSON</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJ6CN5Y5A2R5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF THE STEVENS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Stevens Institute of Technology]]></Name>
+<CityName>HOBOKEN</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>07030</ZipCode>
+<StreetAddress><![CDATA[1 CASTLEPOINT ON HUDSON]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0206000</Code>
+<Name>Telecommunications</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1517</Code>
+<Text>EPMD-ElectrnPhoton&amp;MagnDevices</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>097E</Code>
+<Text>High Freq Devices &amp; Circuits</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~299995</FUND_OBLG>
+</Award>
+</rootTag>

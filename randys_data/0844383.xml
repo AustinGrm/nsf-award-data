@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Testing for Climate-Induced Marine Community Change and Ecological Disruption at Mid-Latitudes during the Late Paleozoic Ice Age</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>130308.00</AwardTotalIntnAmount>
+<AwardAmount>130308</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030207</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>H. Richard Lane</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Testing for Climate-Induced Marine Community Change and Ecological disruption at Mid-Latitudes during the Late Paleozoic Ice Age&lt;br/&gt;&lt;br/&gt;Matthew Clapham, University of California-Santa Cruz&lt;br/&gt;EAR-0844383&lt;br/&gt;&lt;br/&gt;ABSTRACT&lt;br/&gt;It is important to understand whether the biotic response to climate change tends to be gradual and predictable, or if communities are disrupted and undergo rapid, large-magnitude shifts between alternate states.  The latter scenario would result in greatly reduced diversity, dominance of a few opportunistic taxa, and unstable ecosystems.  There is mounting evidence from the late Paleozoic ice age (about 300 million years ago) that terrestrial, and possibly also marine communities, underwent rapid fluctuations during times of climate change.  A complete transition from glaciated icehouse to non-glaciated greenhouse world is recorded in late Paleozoic sedimentary rocks exposed in northern Bolivia, providing an ideal deep-time archive in which to test for climate-induced disruption to marine ecosystems.  In particular, the localities in Bolivia were located in subtropical latitudes 300 million years ago, a pivotal region where many species would have been especially sensitive to changing conditions.  Quantitative paleoecological analysis will compare the relative abundance of each fossil type in more than 120 sedimentary layers spanning the interval of deglaciation and postglacial climate warming.  Statistical tests using that dataset will enable recognition of both long-term trends in community composition and, if present, short-term fluctuations indicative of community disruption.  The results from this research will help constrain the general principles of climate-biosphere interactions.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>04/10/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>04/10/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0844383</AwardID>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Clapham</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthew Clapham</PI_FULL_NAME>
+<EmailAddress>mclapham@ucsc.edu</EmailAddress>
+<PI_PHON>8314591276</PI_PHON>
+<NSF_ID>000509199</NSF_ID>
+<StartDate>04/10/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Cruz</Name>
+<CityName>SANTA CRUZ</CityName>
+<ZipCode>950641077</ZipCode>
+<PhoneNumber>8314595278</PhoneNumber>
+<StreetAddress>1156 HIGH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA20</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>VXUFPE4MCZH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA SANTA CRUZ</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Santa Cruz]]></Name>
+<CityName>SANTA CRUZ</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>950641077</ZipCode>
+<StreetAddress><![CDATA[1156 HIGH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA20</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7459</Code>
+<Text>Sedimentary Geo &amp; Paleobiology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~130308</FUND_OBLG>
+</Award>
+</rootTag>

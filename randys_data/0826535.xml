@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Design and Development of Body-Centered Cubic Alloys with Increased Strength and Toughness for Infrastructural and Structural Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>399854.00</AwardTotalIntnAmount>
+<AwardAmount>399854</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Demitris Kouris</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Design and Development of Body-Centered Cubic Alloys with Increased Strength and Toughness for Infrastructural and Structural Applications&lt;br/&gt;&lt;br/&gt;Abstract&lt;br/&gt;A theoretical and experimental program to ductilize alloys with body-centered cubic (bcc) structure and specifically steel will be performed. The guiding principle is that nanoscale precipitates that are coherent with the matrix not only significantly increase the strength of the material but also reduce the ductile to brittle transformation temperature by locally lowering the Peierls stress for screw dislocations. The ferritic matrix of the steel will be strengthened and ductilized with nano-scale precipitates containing Cu, Ni, Mn and Al. The relationship between the precipitate composition, structure, size and mechanical properties will be established. The composition of the steel and heat-treatment conditions will be selected to give the optimal strength, ductility and fracture toughness at low temperatures.  Theory of ductilization of bcc metals by nano-size slightly misfitting precipitates will be generalized using the methods of micromechanics and will be applied to other metals where high Peierls stress limits the ductility. The results of the experimental work will guide and test the theoretical work.&lt;br/&gt;The proposed concept will have far-reaching implications in materials design, such as improving the toughness of Cr and Ti-based alloys, intermetallics, and possibly ceramics.  This will open up new opportunities for research and development of new materials for infrastructure and structural applications. Also this project will be very effective in training of graduate and undergraduate students since it combines the use of advanced scientific tools with theoretical work. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/11/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/12/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0826535</AwardID>
+<Investigator>
+<FirstName>Dieter</FirstName>
+<LastName>Isheim</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dieter Isheim</PI_FULL_NAME>
+<EmailAddress><![CDATA[isheim@northwestern.edu]]></EmailAddress>
+<NSF_ID>000306364</NSF_ID>
+<StartDate>07/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gautam</FirstName>
+<LastName>Ghosh</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gautam Ghosh</PI_FULL_NAME>
+<EmailAddress><![CDATA[g-ghosh@northwestern.edu]]></EmailAddress>
+<NSF_ID>000298486</NSF_ID>
+<StartDate>05/12/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Morris</FirstName>
+<LastName>Fine</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Morris E Fine</PI_FULL_NAME>
+<EmailAddress><![CDATA[m-fine412@northwestern.edu]]></EmailAddress>
+<NSF_ID>000385720</NSF_ID>
+<StartDate>07/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yip-Wah</FirstName>
+<LastName>Chung</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yip-Wah Chung</PI_FULL_NAME>
+<EmailAddress><![CDATA[ywchung@northwestern.edu]]></EmailAddress>
+<NSF_ID>000456848</NSF_ID>
+<StartDate>07/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Semyon</FirstName>
+<LastName>Vaynman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Semyon Vaynman</PI_FULL_NAME>
+<EmailAddress><![CDATA[svaynman@northwestern.edu]]></EmailAddress>
+<NSF_ID>000306262</NSF_ID>
+<StartDate>07/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northwestern University</Name>
+<CityName>EVANSTON</CityName>
+<ZipCode>602080001</ZipCode>
+<PhoneNumber>3125037955</PhoneNumber>
+<StreetAddress>633 CLARK STREET</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EXZVPWZBLUE8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHWESTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>EVANSTON</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>602080001</ZipCode>
+<StreetAddress><![CDATA[633 CLARK STREET]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1630</Code>
+<Text>Mechanics of Materials and Str</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>022E</Code>
+<Text>SOLID MECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9162</Code>
+<Text>MULTI DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>AMPP</Code>
+<Text>ADVANCED MATERIALS &amp; PROCESSING PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~399854</FUND_OBLG>
+</Award>
+</rootTag>

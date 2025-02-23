@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[The Role of Shared Mental Models and Cognitive Load on Group Memory]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>299613.00</AwardTotalIntnAmount>
+<AwardAmount>299613</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040500</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kellina Craig-Henderson</SignBlockName>
+<PO_EMAI>khenders@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Much of the decision-making and problem-solving work done in organizations involves groups or teams.  As a consequence, a central component of high-level performance involves optimal information processing by groups.  Although research on group information processing has increased substantially over the past 10 to 15 years, a number of key questions remain unanswered.  The current proposal attempts to directly address one of these key questions: what is the optimal way to distribute information among group members.  Work on group memory has shown that group information storage capacity is maximized when each member is responsible for different types of areas of information.  However, research on group information processing has shown that information use is maximized when information is shared or known by many if not all group members.  The implications of these two findings are diametrically opposed.  Thus, the purpose of the proposed research is to systematically investigate group memory and performance across different levels of information redundancy across members.  Using a number of different task domains, Dr. Scott Tindale of Loyola University of Chicago and Dr. Amanda Dykema-Engblade of Northeastern Illinois University will investigate how best to distribute information among group members so as to optimize both storage capacity and use.  They will also assess the effects of shared mental models on group memory and decision performance.  Two different types of mental models will be addressed: models of the group in terms of roles and expertise, and models of the task in terms of key task components and how those components must be integrated for successful performance.  The researchers predict that when group members share accurate mental models of both types, they will be able to handle greater amounts of information and put it to better use than they would be able to do under conditions where such mental models are lacking.  Overall it is expected that some level of information redundancy will be necessary for optimal group functioning, but that shared mental models will reduce the amount of redundancy required.  The results of this research will help organizations to design group task environments for maximum performance.]]></AbstractNarration>
+<MinAmdLetterDate>08/22/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/03/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0820344</AwardID>
+<Investigator>
+<FirstName>R. Scott</FirstName>
+<LastName>Tindale</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>R. Scott Tindale</PI_FULL_NAME>
+<EmailAddress><![CDATA[rtindal@luc.edu]]></EmailAddress>
+<NSF_ID>000317627</NSF_ID>
+<StartDate>08/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Amanda</FirstName>
+<LastName>Dykema-Engblade</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Amanda Dykema-Engblade</PI_FULL_NAME>
+<EmailAddress><![CDATA[A-dykema-engblade@neiu.edu]]></EmailAddress>
+<NSF_ID>000496663</NSF_ID>
+<StartDate>08/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Loyola University of Chicago</Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606112147</ZipCode>
+<PhoneNumber>7735082471</PhoneNumber>
+<StreetAddress>820 N MICHIGAN AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CVNBL4GDUKF3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>LOYOLA UNIVERSITY OF CHICAGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Loyola University of Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606112147</ZipCode>
+<StreetAddress><![CDATA[820 N MICHIGAN AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1321</Code>
+<Text>Decision, Risk &amp; Mgmt Sci</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1332</Code>
+<Text>Social Psychology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~299613</FUND_OBLG>
+</Award>
+</rootTag>

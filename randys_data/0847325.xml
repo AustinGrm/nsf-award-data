@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER:  Dynamic Control of Immediate Locomotor Compensations in the Leg</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2015</AwardExpirationDate>
+<AwardTotalIntnAmount>530000.00</AwardTotalIntnAmount>
+<AwardAmount>530000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Betty Tuller</SignBlockName>
+<PO_EMAI>btuller@nsf.gov</PO_EMAI>
+<PO_PHON>7032927238</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>"This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5)."&lt;br/&gt;&lt;br/&gt;The major objective of this 5-year CAREER Development project is to discover unifying principles that guide locomotor compensation and integrate these scientific principles into prosthetics and orthotics education. The research goal is anchored by a central hypothesis that a common set of joint compensation principles underlie whole leg function during locomotion even when faced with different mechanical constraints. This project will be performed in the Comparative Neuromechanics Laboratory at the Georgia Institute of Technology. Using a well-controlled experimental model of human locomotion the investigators will place mechanical constraints on the locomotor task (e.g., limb movement frequency, amplitude, foot placement precision) and on individual joints during the task (e.g., torque loading, range of motion limitation, mechanical coupling between joints). They will also test whether there is a hierarchical organization to the control parameters of the leg during locomotion. This research will be integrated into prosthetics and orthotics education in three tiers: (1) development of a web-based teaching module, (2) curriculum development in a unique entry-level Master of Science in prosthetics and orthotics, and (3) a website to promote integration of basic research into related programs.&lt;br/&gt;&lt;br/&gt;Achieving these project goals will deliver broad impacts to science and science education through better understanding of how nature exploits redundancy in complex systems. The intellectual merit of this work will be to address basic questions about the control and compensatory strategies of legged locomotion that apply across constraint types and across organizational levels. The compensation principles provide a theoretical framework for understanding how normal, healthy human locomotion adapts to different terrains (e.g., asphalt, grass), minor injuries (e.g., ankle sprain) and chronic pathologies (e.g., leg amputation, stroke). Areas of science and engineering can then employ these compensation principles to improve prosthetic and orthotic design, control of biomimetic robots and gait rehabilitation methods. The broader impacts of acting locally through a structured program of outreach and education development are that it will effectively build a bridge for integrating basic science into the first graduate program in prosthetics and orthotics, a historically applied and clinically oriented field.</AbstractNarration>
+<MinAmdLetterDate>07/19/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>03/19/2014</MaxAmdLetterDate>
+<ARRAAmount>530000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0847325</AwardID>
+<Investigator>
+<FirstName>Young-Hui</FirstName>
+<LastName>Chang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Young-Hui Chang</PI_FULL_NAME>
+<EmailAddress>yh.chang@ap.gatech.edu</EmailAddress>
+<PI_PHON>4048949993</PI_PHON>
+<NSF_ID>000243338</NSF_ID>
+<StartDate>07/19/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 NORTH AVE NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7252</Code>
+<Text>Perception, Action &amp; Cognition</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1187</Code>
+<Text>PECASE- eligible</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~530000</FUND_OBLG>
+</Award>
+</rootTag>

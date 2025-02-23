@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[The International Cooperative Biodiversity Groups]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>750000.00</AwardTotalIntnAmount>
+<AwardAmount>3739540</AwardAmount>
+<AwardInstrument>
+<Value>Interagency Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010206</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matthew Kane</SignBlockName>
+<PO_EMAI>mkane@nsf.gov</PO_EMAI>
+<PO_PHON>7032927186</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This proposal is for continued NSF support for an important interagency grants program led by the Fogarty International Center of the National Institutes of Health. The National Institutes of Health (NIH) and the National Science Foundation (NSF) have, since 1993, jointly supported International Cooperative Biodiversity Groups to address the interdependent issues of biodiversity conservation, economic capacity, and human health through discovery and development of therapeutic agents for diseases of importance in developing countries as well as those important to developed countries. Other current partners with NIH and NSF include the U.S. Departments of Agriculture and Energy (USDA and DOE, respectively). Innovative and integrated approaches to access genetic resources and benefit-sharing with host country stakeholders and participants is an important component of the overall program. Projects that work on marine coral reef organisms, endophytic fungi, extremophilic bacteria and other poorly understood groups are particularly encouraged. The following cross-cutting approaches guide the research and capacity-building efforts toward these goals: a) assisting with the discovery and development of drugs that address priority health needs of the participating developing country(ies) and of the United States; b) assisting with research on other natural products-based materials, such as locally used botanical medicines; c) developing biological inventories of native species and, where relevant, indigenous knowledge; d) training targeted toward achieving the research goals of this program and meeting the needs of the participating country; and, e) enhancing the scientific infrastructure within the host country. &lt;br/&gt;The broader impacts of the ICBG program are central to its design and execution. In addition to dissemination of the scientific results in traditional academic channels, the projects engage in extensive outreach to host country organizations that support research, conservation and education and those that make policy on access to genetic resources. Research training of developing country scientists is a required component of each project, as is the Internet posting of flora and fauna data from conservation parks. Finally, a central goal of the projects is the identification of molecules that will be developed into drugs to treat globally important diseases.]]></AbstractNarration>
+<MinAmdLetterDate>09/10/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/21/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0849209</AwardID>
+<Investigator>
+<FirstName>Joshua</FirstName>
+<LastName>Rosenthal</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joshua P Rosenthal</PI_FULL_NAME>
+<EmailAddress><![CDATA[joshua_rosenthal@nih.gov]]></EmailAddress>
+<NSF_ID>000470210</NSF_ID>
+<StartDate>09/10/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Flora</FirstName>
+<LastName>Katz</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Flora N Katz</PI_FULL_NAME>
+<EmailAddress><![CDATA[FKatz@bio.tamu.edu]]></EmailAddress>
+<NSF_ID>000177208</NSF_ID>
+<StartDate>09/10/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>NATIONAL INSTITUTES OF HEALTH</Name>
+<CityName>BETHESDA</CityName>
+<ZipCode>208920001</ZipCode>
+<PhoneNumber/>
+<StreetAddress>9000 ROCKVILLE PIKE BLDG 1</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NZNYW9KAVYZ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NATIONAL INSTITUTES OF HEALTH</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NW2RJN8TQQW1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[NATIONAL INSTITUTES OF HEALTH]]></Name>
+<CityName>BETHESDA</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>208920001</ZipCode>
+<StreetAddress><![CDATA[9000 ROCKVILLE PIKE BLDG 1]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1171</Code>
+<Text>PHYLOGENETIC SYSTEMATICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1198</Code>
+<Text>Biodiversity: Discov &amp;Analysis</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1650</Code>
+<Text>BIOLOGICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7699</Code>
+<Text>Integrat &amp; Collab Ed &amp; Rsearch</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1171</Code>
+<Text>PHYLOGENETIC SYSTEMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1198</Code>
+<Text>BIODIVERSITY SURVEYS &amp; INVENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1650</Code>
+<Text>BIOLOGICAL OCEANOGRAPHY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0110</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0111</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0112</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001011DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001112DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001213DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~750000</FUND_OBLG>
+<FUND_OBLG>2009~750000</FUND_OBLG>
+<FUND_OBLG>2010~750000</FUND_OBLG>
+<FUND_OBLG>2011~750000</FUND_OBLG>
+<FUND_OBLG>2012~739539</FUND_OBLG>
+</Award>
+</rootTag>

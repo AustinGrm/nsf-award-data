@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[19th Annual Workshop on Interconnections within High Speed Digital Systems. To be Held May 18-21, 2008 in Santa Fe, NM.]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>5000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pradeep Fulay</SignBlockName>
+<PO_EMAI>pfulay@nsf.gov</PO_EMAI>
+<PO_PHON>7032922445</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Intellectual Merit: The purpose of the 19th Annual IEEE/LEOS Workshop on  Interconnections within High-Speed Digital Systems is to examine the interconnection requirements of emerging and future computer and communications systems; and to disseminate information about state-of-the art optical and electrical interconnection&lt;br/&gt;technologies at the component, packaging, and systems level. The workshop consists of 16 invited talks from industry practioners and university researchers plus three plenary talks, and is attended by experts in electrical and photonic interconnects. In addition, the attendees break into smaller groups to collaborate on a common technology problem, selected to elucidate system performance and cost tradeoffs. &lt;br/&gt;  &lt;br/&gt;Broader Impacts: The interdisciplinary and interactive&lt;br/&gt;format of the Workshop offers a great educational benefit to junior researcher participants, training them to provide the next generation of high performance interconnection solutions and to learn to think creatively in a team environment. During discussions of the workshop problem, junior researchers and experts in the field collaborate very closely; and junior researchers are encouraged to show their work through a (peer-reviewed) poster session at the workshop. Encouraging participation from junior researchers also helps to bring diversity, both geographic as well as technical, to the workshop.]]></AbstractNarration>
+<MinAmdLetterDate>08/05/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>12/01/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0833030</AwardID>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Linke</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Richard Linke</PI_FULL_NAME>
+<EmailAddress><![CDATA[r.linke@ieee.org]]></EmailAddress>
+<NSF_ID>000198973</NSF_ID>
+<StartDate>08/05/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Institute of Electrical &amp; Electronics Engineers, Inc.</Name>
+<CityName>PISCATAWAY</CityName>
+<ZipCode>088544141</ZipCode>
+<PhoneNumber>7325626520</PhoneNumber>
+<StreetAddress>445 HOES LN</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WV5SKY8MTFU1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>INSTITUTE OF ELECTRICAL AND ELECTRONICS ENGINEERS, INCORPORATED, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>XX1KMZGH4T28</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Institute of Electrical &amp; Electronics Engineers, Inc.]]></Name>
+<CityName>PISCATAWAY</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>088544141</ZipCode>
+<StreetAddress><![CDATA[445 HOES LN]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0206000</Code>
+<Name>Telecommunications</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1517</Code>
+<Text>EPMD-ElectrnPhoton&amp;MagnDevices</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1653</Code>
+<Text>Adaptive &amp; intelligent systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~5000</FUND_OBLG>
+</Award>
+</rootTag>

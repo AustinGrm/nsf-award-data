@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RUI: Tilted Accretion Disks Around Rapidly Rotating Black Holes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>155189.00</AwardTotalIntnAmount>
+<AwardAmount>155189</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nigel Sharp</SignBlockName>
+<PO_EMAI>nsharp@nsf.gov</PO_EMAI>
+<PO_PHON>7032924905</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[AST-0807385&lt;br/&gt;Fragile&lt;br/&gt;&lt;br/&gt;Much progress has been made recently in the theoretical and observational understanding of black-hole accretion disks and jets.  However, an often overlooked free parameter is the angle between the spin axis of the black hole and the angular momentum axis of the inflowing gas, which can have a profound impact.  For example, tilted thick accretion disks appear to have higher accretion efficiencies than their un-tilted counterparts, and it seems that jet orientations are affected by the tilt angle.  This project will study the structure and observational appearance of tilted black-hole accretion disks and their attendant jets, through advanced numerical relativistic magneto-hydrodynamic simulations, fully incorporating the effects of the black hole space-time as well as magneto-rotational turbulence, thought to be a primary source of angular momentum transport.  Results will be post-processed to create simulated observations, with particular emphasis on identifying features that might indicate tilted disks, such as variability patterns in the light curve, or complex reflection features.&lt;br/&gt;&lt;br/&gt;Astrophysical black holes still have the capacity to captivate public audiences and the imagination of young students.  The results of this work will be included in existing public outreach programs and public-interest web sites, and incorporated into classroom lessons.  The research itself directly involves graduate and undergraduate researchers.]]></AbstractNarration>
+<MinAmdLetterDate>08/06/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/06/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0807385</AwardID>
+<Investigator>
+<FirstName>Patrick</FirstName>
+<LastName>Fragile</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Patrick C Fragile</PI_FULL_NAME>
+<EmailAddress><![CDATA[fragilep@cofc.edu]]></EmailAddress>
+<NSF_ID>000028520</NSF_ID>
+<StartDate>08/06/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>College of Charleston</Name>
+<CityName>CHARLESTON</CityName>
+<ZipCode>294240001</ZipCode>
+<PhoneNumber>8439534973</PhoneNumber>
+<StreetAddress>66 GEORGE ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SC06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SWV9EK5S9BX5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>COLLEGE OF CHARLESTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>SWV9EK5S9BX5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[College of Charleston]]></Name>
+<CityName>CHARLESTON</CityName>
+<StateCode>SC</StateCode>
+<ZipCode>294240001</ZipCode>
+<StreetAddress><![CDATA[66 GEORGE ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SC06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1217</Code>
+<Text>EXTRAGALACTIC ASTRON &amp; COSMOLO</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~155189</FUND_OBLG>
+</Award>
+</rootTag>

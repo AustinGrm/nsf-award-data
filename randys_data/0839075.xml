@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Integrated High Resolution Chemical and Biological Measurements on the Deep WAIS Divide Core]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2010</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>630475.00</AwardTotalIntnAmount>
+<AwardAmount>630475</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090300</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OPP</Abbreviation>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Julie Palais</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[McConnell/0839093 &lt;br/&gt;&lt;br/&gt;This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5). &lt;br/&gt;&lt;br/&gt;This award supports a project to use the WAIS Divide deep core to investigate the Last Deglaciation at sub-annual resolution through an integrated set of chemical and biological analyses. The intellectual merit of the project is that these analyses, combined with others, will take advantage of the high snow accumulation WAIS Divide site yielding the highest time resolution glacio-biogeochemical and gas record of any deep Antarctic ice core. With other high resolution Greenland cores (GISP2 and GRIP) and lower resolution Antarctic cores, the combined record will yield new insights into worldwide climate dynamics and abrupt change. The proposed chemical, biological, and elemental tracer measurements will also be used to address all of the WAIS Divide science themes. The broader impacts of the project include education and outreach activities such as numerous presentations to local K-12 students; opportunities for student and teacher involvement in the laboratory work; a teacher training program in Earth sciences in the heavily minority Santa Ana, Compton, and Costa Mesa, California school districts; and development of high school curricula. Extensive graduate and undergraduate student involvement also is planned and will include one post doctoral associate, one graduate student, and undergraduate hourly involvement at DRI; a graduate student and undergraduates at University of California, Irvine (UCI); and a post doctoral fellow at MSU. Student recruitment will be made from underrepresented groups building on a long track record of involvement and will include the NSF funded California Alliance for Minority Participation (CAMP) and the Montana American Indian Research Opportunities (AIRO).]]></AbstractNarration>
+<MinAmdLetterDate>06/10/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>02/21/2013</MaxAmdLetterDate>
+<ARRAAmount>630475</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0839075</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Priscu</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John C Priscu</PI_FULL_NAME>
+<EmailAddress><![CDATA[jcpriscu@gmail.com]]></EmailAddress>
+<NSF_ID>000426575</NSF_ID>
+<StartDate>06/10/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christine</FirstName>
+<LastName>Foreman</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christine M Foreman</PI_FULL_NAME>
+<EmailAddress><![CDATA[cforeman@montana.edu]]></EmailAddress>
+<NSF_ID>000276833</NSF_ID>
+<StartDate>06/10/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Skidmore</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark Skidmore</PI_FULL_NAME>
+<EmailAddress><![CDATA[skidmore@montana.edu]]></EmailAddress>
+<NSF_ID>000488860</NSF_ID>
+<StartDate>06/22/2011</StartDate>
+<EndDate>08/03/2011</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Montana State University</Name>
+<CityName>BOZEMAN</CityName>
+<ZipCode>59717</ZipCode>
+<PhoneNumber>4069942381</PhoneNumber>
+<StreetAddress>216 MONTANA HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<StateCode>MT</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MT00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EJ3UF7TK8RT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MONTANA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>HD5YDTPGA865</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Montana State University]]></Name>
+<CityName>BOZEMAN</CityName>
+<StateCode>MT</StateCode>
+<ZipCode>59717</ZipCode>
+<StreetAddress><![CDATA[216 MONTANA HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MT00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0311000</Code>
+<Name>Polar Programs-Related</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>5116</Code>
+<Text>ANT Glaciology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~630475</FUND_OBLG>
+</Award>
+</rootTag>

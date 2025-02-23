@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Nanotechnology Research Instrumentation in Support of NNIN (2008)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>660000.00</AwardTotalIntnAmount>
+<AwardAmount>660000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lawrence Goldberg</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Award Abstract&lt;br/&gt;Proposal Number: ECCS- 0821565&lt;br/&gt;Grantee:  Cornell University on behalf of the National Nanotechnology Infrastructure Network&lt;br/&gt;Title:  Nanotechnology Research Instrumentation in Support of NNIN (2008)&lt;br/&gt;&lt;br/&gt;The objective of this award is to advance nanotechnology research at the boundaries of electronics, microsystems, materials science and life sciences. NNIN facilities will acquire and make available instruments for open national use: (a) rapid deep glass etching (University of Michigan), deposition of complex oxide materials by sputtering (Penn-State University), plasmon resonance measurements (University of Washington) and non-contact printing of biological &amp; novel materials (Georgia Tech).&lt;br/&gt;The approach will enable reproducible inorganic and organic/biological materials deposition and processing, including development of new techniques, and their characterization, that will be available to national researchers with reliable protocols and rigorous training for hands-on use. A broad group of research projects will benefit including advances in applications of phase transition phenomena and organic materials, understanding of life science phenomena, and the broader uses across discipline boundaries including organic-inorganic interfaces.&lt;br/&gt;The broader impact of this project stems from the large research user population (&gt;4500 users including &gt;650 industrial users), geographic diversity, and the educational and broader efforts that NNIN pursues. NNIN will develop and make available protocols and training that will be available on the web, organize technology-focused workshops leveraging the instruments and employ these tools in specific undergraduate research projects. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/11/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/11/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0821565</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Meindl</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James D Meindl</PI_FULL_NAME>
+<EmailAddress><![CDATA[james.meindl@mirc.gatech.edu]]></EmailAddress>
+<NSF_ID>000225203</NSF_ID>
+<StartDate>08/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Khalil</FirstName>
+<LastName>Najafi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Khalil Najafi</PI_FULL_NAME>
+<EmailAddress><![CDATA[najafi@umich.edu]]></EmailAddress>
+<NSF_ID>000321973</NSF_ID>
+<StartDate>08/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Francois</FirstName>
+<LastName>Baneyx</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Francois C Baneyx</PI_FULL_NAME>
+<EmailAddress><![CDATA[baneyx@u.washington.edu]]></EmailAddress>
+<NSF_ID>000378465</NSF_ID>
+<StartDate>08/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Theresa</FirstName>
+<LastName>Mayer</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Theresa S Mayer</PI_FULL_NAME>
+<EmailAddress><![CDATA[tsmayer@cmu.edu]]></EmailAddress>
+<NSF_ID>000246848</NSF_ID>
+<StartDate>08/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sandip</FirstName>
+<LastName>Tiwari</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sandip Tiwari</PI_FULL_NAME>
+<EmailAddress><![CDATA[st222@cornell.edu]]></EmailAddress>
+<NSF_ID>000181282</NSF_ID>
+<StartDate>08/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>ITHACA</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>341 PINE TREE RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G56PUALJ3KT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CORNELL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>ITHACA</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>148502820</ZipCode>
+<StreetAddress><![CDATA[341 PINE TREE RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0206000</Code>
+<Name>Telecommunications</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1517</Code>
+<Text>EPMD-ElectrnPhoton&amp;MagnDevices</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1750</Code>
+<Text>MPS DMR INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7601</Code>
+<Text>National Nanotechnology Coordi</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>101E</Code>
+<Text>Printed and flexible electronics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~660000</FUND_OBLG>
+</Award>
+</rootTag>

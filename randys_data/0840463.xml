@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Purchase of a Research Grade MALDI-ToF Mass Spectrometer]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>260000.00</AwardTotalIntnAmount>
+<AwardAmount>260000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090002</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos Murillo</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[With this award from the Chemistry Research Instrumentation and Facilities Multiuser Program (CRIF:MU), Professor John P. Toscano from John Hopkins University will acquire a matrix assisted laser desorption/ionization time of flight (MALDI-ToF) mass spectrometer that will be housed in the Department of Chemistry's Mass Spectrometry Facility on the Homewood campus of Johns Hopkins University. The instrument will provide both routine and specialized analytical mass spectral services to about 23 total users, from five different departments (Chemistry, Biology, Materials Science and Engineering, Chemical and Biomolecular Engineering, and Geography and Environmental Engineering) as well as additional users from institutions within the immediate area (Morgan State University, Towson University, and Loyola College). The major users from the Chemistry Department, D. P. Goldberg, M. M. Greenberg, J. P. Roth, J. P. Toscano, J. D. Tovar, and C. A. Townsend will use this spectrometer for studies of corrolazines and DNA damage and repair, characterization of oxidative amino acid modifications in heme-containing oxygenases and peroxidases and HNO-induced modification of proteins involved in cardiac signaling pathways, characterization of molecular electronic materials and organic conjugated polymers and detection and characterization of covalent intermediates in modular and iterative biosynthetic enzymes.&lt;br/&gt;&lt;br/&gt;MALDI-ToF-mass spectrometry is the technique of choice for obtaining accurate molecular weights of very large molecules, with extremely high sensitivity. Use of a MALDI-ToF mass spectrometer has therefore become a standard technique, especially in studies involving biomolecules. This research will have a significant impact in a number of areas, especially chemistry and biochemistry. This instrument will also be an integral part of teaching as well as research.]]></AbstractNarration>
+<MinAmdLetterDate>01/08/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>01/08/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0840463</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Toscano</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John P Toscano</PI_FULL_NAME>
+<EmailAddress><![CDATA[jtoscano@jhu.edu]]></EmailAddress>
+<NSF_ID>000109798</NSF_ID>
+<StartDate>01/08/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Johns Hopkins University</Name>
+<CityName>BALTIMORE</CityName>
+<ZipCode>212182608</ZipCode>
+<PhoneNumber>4439971898</PhoneNumber>
+<StreetAddress>3400 N CHARLES ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FTMTDMBR29C7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>JOHNS HOPKINS UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FTMTDMBR29C7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName>BALTIMORE</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212182608</ZipCode>
+<StreetAddress><![CDATA[3400 N CHARLES ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1938</Code>
+<Text>Chemical Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1108</Code>
+<Text>INSTRUMENTAT &amp; INSTRUMENT DEVP</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9162</Code>
+<Text>MULTI DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~260000</FUND_OBLG>
+</Award>
+</rootTag>

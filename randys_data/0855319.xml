@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Studies of fundamental constants, interactions and symmetries via low-energy, high-precision muon experiments</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>587955.00</AwardTotalIntnAmount>
+<AwardAmount>587955</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gail Dodge</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This project is focused on investigations of the fundamental constants, elementary interactions and basic symmetries of the Standard Model.  The proposed research is based on precision experiments with low-energy muon beams and includes continuing work on the MuLan/MuCap experiments at Paul Scherrer Institute, new work on the MuSun experiment at Paul Scherrer Institute, and R&amp;D work for a new measurement of the muon anomalous magnetic moment at Fermilab.  MuLan will determine to part-per-million precision the Fermi Constant of weak interactions, thus permitting more accurate weak interaction calculations and improved Standard Model tests.  MuCap will determine the so-called induced pseudoscalar coupling constant of the proton's weak force, thereby testing the nature of spontaneously symmetry breaking in strong interactions.  The MuSun experiment will study the elementary weak nuclear interaction between muons and deuterons, thereby furthering our understanding of thermonuclear fusion in the sun.  Finally, a new measurement of the muon's anomalous magnetic moment will render an important test of physics beyond the Standard Model.  The research includes several areas of broader impact.  The PI will continue his involvement of high school students, physics majors and physics graduate students in research activities.  Additionally, the PI will continue his efforts in undergraduate recruiting, graduate recruiting and community outreach.  Our activities in high-speed data acquisition and high-volume data analysis will expose our students to many aspects of modern computing.  Finally, our studies of fundamental constants, interactions and symmetries will have broad impact in nuclear, particle and astrophysics.</AbstractNarration>
+<MinAmdLetterDate>09/02/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>09/02/2009</MaxAmdLetterDate>
+<ARRAAmount>587955</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0855319</AwardID>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>Gorringe</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Timothy P Gorringe</PI_FULL_NAME>
+<EmailAddress>gorringe@pa.uky.edu</EmailAddress>
+<NSF_ID>000344598</NSF_ID>
+<StartDate>09/02/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Kentucky Research Foundation</Name>
+<CityName>Lexington</CityName>
+<ZipCode>405260001</ZipCode>
+<PhoneNumber>8592579420</PhoneNumber>
+<StreetAddress>109 Kinkead Hall</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<StateCode>KY</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KY06</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>939017877</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF KENTUCKY RESEARCH FOUNDATION, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>119108470</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Kentucky Research Foundation]]></Name>
+<CityName>Lexington</CityName>
+<StateCode>KY</StateCode>
+<ZipCode>405260001</ZipCode>
+<StreetAddress><![CDATA[109 Kinkead Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KY06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1234</Code>
+<Text>NUCLEAR PRECISION MEASUREMENTS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~587955</FUND_OBLG>
+</Award>
+</rootTag>

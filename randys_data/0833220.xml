@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SGER: Computational Prediction of Enantioselectivity in Metal-Catalyzed Reactions</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>180000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090003</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tingyu Li</SignBlockName>
+<PO_EMAI>tli@nsf.gov</PO_EMAI>
+<PO_PHON>7032924949</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project will study the computationally driven rational design, virtual screening, and experimental validation of chiral ligands and metal complexes as catalysts for enantioselective reactions.  Such reactions are of widespread importance in the production of pharmaceutical agents, agricultural chemicals, and other high-value compounds.  This project has the potential of transforming the field of enantioselective catalysis by providing a very fast and easy to use virtual screening tool for the selection of chiral ligands.  The initial phases of the research will focus on development of methods for designing and discovering new catalysts for enantioselective hydrogenations and hydroaminations.  This selection of reactions is based upon the importance of the hydrogenation and nucleophilic addition products.  In later stages of the research, the methods will be extended to other types of enantioselective reactions.&lt;br/&gt;&lt;br/&gt;This Small Grants for Exploratory Research award from the Organic and Macromolecular Chemistry Program will support the collaborative research of Professors Paul Helquist and Olaf Wiest in the Department of Chemistry and Biochemistry at the University of Notre Dame.   The work of these two investigators and their co-workers will provide greater understanding of and improved access to highly efficient methods for producing enantiomerically pure compounds for the pharmaceutical and chemical industries.  This research will also provide valuable multi-disciplinary training of undergraduate and graduate students in preparation for their careers as research scientists in industry or academia, with emphasis on the connection between computational and experimental methods.</AbstractNarration>
+<MinAmdLetterDate>08/11/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>02/23/2011</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0833220</AwardID>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Helquist</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Paul Helquist</PI_FULL_NAME>
+<EmailAddress>phelquis@nd.edu</EmailAddress>
+<PI_PHON>5746317822</PI_PHON>
+<NSF_ID>000384552</NSF_ID>
+<StartDate>08/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Olaf</FirstName>
+<LastName>Wiest</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Olaf G Wiest</PI_FULL_NAME>
+<EmailAddress>owiest@nd.edu</EmailAddress>
+<PI_PHON>5746315876</PI_PHON>
+<NSF_ID>000489554</NSF_ID>
+<StartDate>08/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Notre Dame</Name>
+<CityName>NOTRE DAME</CityName>
+<ZipCode>465565708</ZipCode>
+<PhoneNumber>5746317432</PhoneNumber>
+<StreetAddress>940 Grace Hall</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FPU6XGFXMBE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NOTRE DAME DU LAC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KKBMKNFZ5PJ4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Notre Dame]]></Name>
+<CityName>NOTRE DAME</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>465565708</ZipCode>
+<StreetAddress><![CDATA[940 Grace Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1950</Code>
+<Text>METHODOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9237</Code>
+<Text>SMALL GRANTS-EXPLORATORY RSRCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~180000</FUND_OBLG>
+</Award>
+</rootTag>

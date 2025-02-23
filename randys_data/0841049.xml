@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Formation, Reworking and Accumulation of Sedimentary Deposits, Waipaoa River Shelf, New Zealand]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>164023.00</AwardTotalIntnAmount>
+<AwardAmount>164023</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040205</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Candace Major</SignBlockName>
+<PO_EMAI>cmajor@nsf.gov</PO_EMAI>
+<PO_PHON>7032927597</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Walsh/Harris/Ogston &lt;br/&gt;&lt;br/&gt;Funds are provided to the PIs to collect data on the Waipaoa continental shelf to build on results of prior work in the area. The objective of the study is to use bottom tripods to record data relevant to sediment processes along an apparent transport route, and to collect cores and, at some sites, measure critical shear-stress. The study will consider locations where cores were collected during a prior study, and one major focus of the study is the comparison of cores collected in different years to determine if additional layers have been deposited. Radiochemical studies will also be undertaken at these sites to help quantify the deposition of sediments. The bottom tripods will be placed along a line on the shelf, near the shelf break and on the upper rise in areas that appear to be transport pathways or sites of deposition. The tripods would be deployed for a year. The third component of the study is the creation and use of a model with the objective hindcast sedimentation events in the area. &lt;br/&gt;&lt;br/&gt;The study includes student involvement and training and will lead to an understanding of the relationship of shelfal processes to resultant stratigraphic architecture which is an important challenge in stratigraphy and has the potential to aid exploration for resources in the future.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/14/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/14/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0841049</AwardID>
+<Investigator>
+<FirstName>Courtney</FirstName>
+<LastName>Harris</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Courtney K Harris</PI_FULL_NAME>
+<EmailAddress><![CDATA[ckharris@vims.edu]]></EmailAddress>
+<NSF_ID>000243492</NSF_ID>
+<StartDate>08/14/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>College of William &amp; Mary Virginia Institute of Marine Science</Name>
+<CityName>GLOUCESTER POINT</CityName>
+<ZipCode>230622026</ZipCode>
+<PhoneNumber>8046847000</PhoneNumber>
+<StreetAddress>1375 GREATE RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>XGE9T6KCMSR4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIRGINIA INSTITUTE OF MARINE SCIENCE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[College of William &amp; Mary Virginia Institute of Marine Scien]]></Name>
+<CityName>GLOUCESTER POINT</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>230622026</ZipCode>
+<StreetAddress><![CDATA[1375 GREATE RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0204000</Code>
+<Name>Oceanography</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1620</Code>
+<Text>Marine Geology and Geophysics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5720</Code>
+<Text>OCEAN DRILLING PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1620</Code>
+<Text>MARINE GEOLOGY AND GEOPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~164023</FUND_OBLG>
+</Award>
+</rootTag>

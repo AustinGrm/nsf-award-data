@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Workshop:  SFF Symposium Student Support 2008, Austin, Texas, August 4-6, 2008]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>13000.00</AwardTotalIntnAmount>
+<AwardAmount>13000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>george hazelrigg</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The purpose of this grant is to offset student costs associated with the Nineteenth Annual Solid Freeform Fabrication (SFF) Symposium to be held in Austin, Texas, August 4-6, 2008, is a topical meeting that is a research exchange in the area of rapid prototyping. The SFF Symposium is a mechanism for transfer and dissemination of knowledge and understanding in the field of additive, freeform manufacturing. The meeting draws over 100 researchers from universities, companies and national laboratories from all over the world. The SFF Symposium also attracts graduate students worldwide. In 2007, nearly half the entire meeting participants were students. Participants represented 27 universities, 10 of which were international. The strong international participation gives domestic participants an excellent opportunity to gain valuable information on research in the field.  A special session this year will be devoted to freeform education.  Topics include, but are not limited to, undergraduate education and graduate curricula, laboratory experiences, non-traditional education and K-12 activities.  A major goal of this session is to encourage faculty to increase coverage of freeform technologies in the educational process.&lt;br/&gt;&lt;br/&gt;The SFF Symposium is an excellent model for advancing discovery and understanding while promoting teaching, training and learning. The networking of world-class researchers with students is strong since the meeting encourages through its pricing structure the involvement of students. The meeting is a pinion for research infrastructure by the networking of research personnel and information. Through the heavily cited proceedings, information is widely disseminated to an extensive network of researchers and students around the world. The societal impact is identification of pre-commercial technologies and sharing of information pertaining to freeform fabrication that will eventually be developed and implemented into machines and processes that will enhance domestic productivity.]]></AbstractNarration>
+<MinAmdLetterDate>03/17/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>03/17/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0820114</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Bourell</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David L Bourell</PI_FULL_NAME>
+<EmailAddress><![CDATA[dbourell@mail.utexas.edu]]></EmailAddress>
+<NSF_ID>000377771</NSF_ID>
+<StartDate>03/17/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1468</Code>
+<Text>Manufacturing Machines &amp; Equip</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>082E</Code>
+<Text>MFG MACHINES &amp; METROLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>083E</Code>
+<Text>MATERIAL TRANSFORMATION PROC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>089E</Code>
+<Text>PLANNING, OUTREACH &amp; EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9146</Code>
+<Text>MANUFACTURING BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~13000</FUND_OBLG>
+</Award>
+</rootTag>

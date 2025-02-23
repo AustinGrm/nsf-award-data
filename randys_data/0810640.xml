@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STTR Phase I:  Processing Genetically Engineered Biomass to Obtain Optimal Enzymatic Digestion of Cell Wall Polysaccharides in Cellulosic Biofuel Production</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Technology Transfer Phase I project will demonstrate methods of increasing the performance of lignocellulosic enzymes engineered into crop feedstocks that are used to produce cellulosic ethanol. Current feedstock conversion processes use a dilute acid, high temperature "pretreatment" step to make polysaccharide substrates such as cellulose and hemicellulose more accessible to bioreactor produced glycolytic enzymes, "glycozymes," that are added at a later step. Such glycozymes have recently been produced in crop feedstocks themselves as a means of reducing enzyme costs. Since pretreatment heat and acid can denature plant-produced glycozymes, there is a need to develop material process flows that preserve glycozyme activity through the pretreatment process into downstream saccharification. This project will characterize conditions for activating and preserving endogenous glycozyme activity throughout the cellulsic ethanol production process. &lt;br/&gt;&lt;br/&gt;Successful completion of the project will reduce the cost of producing cellulosic ethanol from a wide variety of agricultural residues and dedicated energy crops. This technology will help realize the enormous potential of engineered bioenergy crops by making feedstock processing improvements necessary for the commercialization of this novel energy resource. By increasing the efficient use of plant-produced enzymes, the costs of pretreatment and downstream saccharification can be reduced, thereby facilitating expanded production of cellulosic ethanol as a renewable transportation fuel, reducing CO2 emissions and pollution from fossil fuels, fostering increased energy independence, and raising rural and farm incomes.</AbstractNarration>
+<MinAmdLetterDate>04/29/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/29/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0810640</AwardID>
+<Investigator>
+<FirstName>Kirk</FirstName>
+<LastName>Pappan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kirk Pappan</PI_FULL_NAME>
+<EmailAddress>kpappan@edenspace.com</EmailAddress>
+<PI_PHON>7855878200</PI_PHON>
+<NSF_ID>000407425</NSF_ID>
+<StartDate>04/29/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>EDENSPACE SYSTEMS CORP</Name>
+<CityName>Purcellville</CityName>
+<ZipCode>201323026</ZipCode>
+<PhoneNumber>7039618700</PhoneNumber>
+<StreetAddress>210 N 21st Street, Suite B</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H1PBME1AJQU7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Kansas State University]]></Name>
+<CityName>MANHATTAN</CityName>
+<StateCode>KS</StateCode>
+<ZipCode>665061100</ZipCode>
+<StreetAddress><![CDATA[2 FAIRCHILD HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KS01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1167</Code>
+<Text>MULTIDISCIPLINARY BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1238</Code>
+<Text>TECH FOR SUSTAINABLE ENVIRONMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1465</Code>
+<Text>PRODUCTION SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1491</Code>
+<Text>BIOTECH, BIOCHEM &amp; BIOMASS ENG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9181</Code>
+<Text>BIOPROCESSING/BIOMOLECULAR MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~150000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Faculty Development Award</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090007</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Katharine Covert</SignBlockName>
+<PO_EMAI>kcovert@nsf.gov</PO_EMAI>
+<PO_PHON>7032924950</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This Faculty Development Award supports the effective integration of research, teaching and service. This project includes developing effective practices for teaching forensic chemistry, researching the attitudes of students and the public toward forensics, training students in forensic techniques and providing professional development opportunities for K-12 teachers. The project will create new educational materials in this rapidly growing area of chemistry.  &lt;br/&gt;&lt;br/&gt;The Discovery Corps Fellowship Program is a pilot program seeking new postdoctoral and professional development models that combine research expertise with professional service. Discovery Corps Postdoctoral Fellows are eligible to apply for this Faculty Development Award. &lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>06/25/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/25/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0822995</AwardID>
+<Investigator>
+<FirstName>Rachel</FirstName>
+<LastName>Morgan Theall</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rachel A Morgan Theall</PI_FULL_NAME>
+<EmailAddress>rmtheall@semo.edu</EmailAddress>
+<PI_PHON>5736512372</PI_PHON>
+<NSF_ID>000690754</NSF_ID>
+<StartDate>06/25/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Southeast Missouri State University</Name>
+<CityName>CAPE GIRARDEAU</CityName>
+<ZipCode>637014710</ZipCode>
+<PhoneNumber>5736512018</PhoneNumber>
+<StreetAddress>ONE UNIVERSITY PLAZA</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SLW1H99F22C3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SOUTHEAST MISSOURI STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Southeast Missouri State University]]></Name>
+<CityName>CAPE GIRARDEAU</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>637014710</ZipCode>
+<StreetAddress><![CDATA[ONE UNIVERSITY PLAZA]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1978</Code>
+<Text>PROJECTS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9177</Code>
+<Text>ELEMENTARY/SECONDARY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~100000</FUND_OBLG>
+</Award>
+</rootTag>

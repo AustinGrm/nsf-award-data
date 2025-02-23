@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CNH: Collaborative Research: Urban Vulnerability to Climate Change: A System Dynamics Analysis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>1264982.00</AwardTotalIntnAmount>
+<AwardAmount>1264982</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06000000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sarah Ruth</SignBlockName>
+<PO_EMAI>sruth@nsf.gov</PO_EMAI>
+<PO_PHON>7032927594</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Exposure to excessive heat is a significant threat to human health and well-being in cities around the world. Urbanization is strongly linked to increasing temperatures through the formation of "heat islands" -  places with higher temperatures due to radiant heat from buildings, concrete, and other human activities. Such local effects are likely to intensify with future trends in global warming. Previous studies have shown that the urban poor are most vulnerable to extreme heat, but little is known about the interplay between changing urban climates and the coupled human-natural systems that amplify or mitigate climate-related hazards for different socioeconomic and racial/ethnic groups at finer spatial scales of neighborhoods and households. Taking account of global trends in urban growth and climate change, this project investigates the causes of variation in heat-related human vulnerability within the metropolitan region of Phoenix, Arizona. An ideal laboratory for this research, Phoenix has a naturally hot, arid climate. Rapid urbanization has increased average summer nighttime temperature by five degrees Celsius during the past 50 years. The research will explain the character of complex urban heat "riskscapes", assess the vulnerability of people in different neighborhoods to heat-related health hazards, and identify the causes of variation of vulnerability within cities. Ecological, meteorological, sociological, and medical treatment data will be used to build an integrated system dynamics model of vulnerability to climate change that incorporates substantial feedback mechanisms from human adaptations. Researchers will use the model to test hypotheses about complex interactions between human manipulation of the environment and induced climate response, to explore relationships between neighborhood and regional dynamics, and to forecast alternative future scenarios. The results will be used to devise alternative neighborhood landscapes and community coping mechanisms that can reduce vulnerability, and to design programs for teaching and learning about climate and health. Innovative methodological techniques used in this study are developing fine-scale, surface energy balance models for integrating and extending climate research over spatial and temporal scales; combining airborne and satellite remotely sensed data with a meteorological model nested in state-of-the-art global climate model output; conducting spatial analyses of heat riskscapes and heat-related illnesses; and community-participatory research on coping strategies in low-income and minority neighborhoods.&lt;br/&gt;&lt;br/&gt;Meeting the challenges of sustainability in a rapidly urbanizing and warming world will depend on decisions that allow humans to control or adapt to rising urban temperatures. This project will identify community and demographic markers of high-risk environments that decision-makers can use to develop spatially informed early warning systems and heat-illness prevention programs. Model projections for the distribution of future heat-related vulnerabilities and human responses that impact particular places and population subgroups are important for cities on several continents because enlarging heat islands, higher temperatures, and associated adverse impacts on health are occurring globally. Model results will be displayed in a visualization environment that will allow stakeholders to examine alternative future vulnerability scenarios; this will make knowledge accessible to the community and promote better decision-making. Educational activities will be designed for low-income and minority populations, including the production of a children's magazine issue on "people and climate" that will reach thousands of households. Local residents, university students, and project investigators will engage in collaborative community-participation research to promote heat-hazard mitigation in inner-city Phoenix neighborhoods. Information and materials will be shared with city planners and health agencies in many cities.]]></AbstractNarration>
+<MinAmdLetterDate>09/08/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>04/17/2014</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0816168</AwardID>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>Lant</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Timothy Lant</PI_FULL_NAME>
+<EmailAddress><![CDATA[tim.lant@asu.edu]]></EmailAddress>
+<NSF_ID>000237227</NSF_ID>
+<StartDate>09/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chris</FirstName>
+<LastName>Martin</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chris A Martin</PI_FULL_NAME>
+<EmailAddress><![CDATA[chris.martin@asu.edu]]></EmailAddress>
+<NSF_ID>000451419</NSF_ID>
+<StartDate>09/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sharon</FirstName>
+<LastName>Harlan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sharon Harlan</PI_FULL_NAME>
+<EmailAddress><![CDATA[Sharon.Harlan@asu.edu]]></EmailAddress>
+<NSF_ID>000213024</NSF_ID>
+<StartDate>09/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Susanne</FirstName>
+<LastName>Grossman-Clarke</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Susanne Grossman-Clarke</PI_FULL_NAME>
+<EmailAddress><![CDATA[sg.clarke@asu.edu]]></EmailAddress>
+<NSF_ID>000485436</NSF_ID>
+<StartDate>09/08/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Stefanov</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>William Stefanov</PI_FULL_NAME>
+<EmailAddress><![CDATA[william.l.stefanov@nasa.gov]]></EmailAddress>
+<NSF_ID>000071618</NSF_ID>
+<StartDate>09/08/2008</StartDate>
+<EndDate>04/17/2014</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Arizona State University</Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852813670</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress>660 S MILL AVENUE STE 204</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NTLHJXM55KZ6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ARIZONA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>TEMPE</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>852813670</ZipCode>
+<StreetAddress><![CDATA[660 S MILL AVENUE STE 204]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1691</Code>
+<Text>DYN COUPLED NATURAL-HUMAN</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7304</Code>
+<Text>ERE General</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1691</Code>
+<Text>BE: DYN COUPLED NATURAL-HUMAN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~1264982</FUND_OBLG>
+</Award>
+</rootTag>

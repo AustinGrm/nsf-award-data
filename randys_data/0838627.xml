@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Fostering US-International Collaborative Partnerships in Chemistry</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>0.00</AwardTotalIntnAmount>
+<AwardAmount>51000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090007</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Charles Pibel</SignBlockName>
+<PO_EMAI>cpibel@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>In partnership with the American Chemical Society (ACS) and the National Academy of Sciences (NAS), the International Union of Pure and Applied Chemistry (IUPAC) will convene two roundtable meetings in conjunction with the ACS National Meetings in 2008 and 2009. The meetings will promote continued, multinational dialogue on establishing effective programs for funding international collaborative research projects in chemistry; and will also deepen the engagement between the U.S. chemical sciences community, the ACS, and the international Union.&lt;br/&gt;&lt;br/&gt;These meetings will stimulate the further development of productive collaborative activities between international research communities and help advance the development of more effective mechanisms for international collaborative research in chemistry. The meetings will be of widespread and enduring benefit to the community.</AbstractNarration>
+<MinAmdLetterDate>09/22/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>10/06/2010</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0838627</AwardID>
+<Investigator>
+<FirstName>Katherine</FirstName>
+<LastName>Bowman</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Katherine W Bowman</PI_FULL_NAME>
+<EmailAddress>kbowman@nas.edu</EmailAddress>
+<NSF_ID>000229553</NSF_ID>
+<StartDate>09/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bradley</FirstName>
+<LastName>Miller</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bradley Miller</PI_FULL_NAME>
+<EmailAddress>b_miller@acs.org</EmailAddress>
+<NSF_ID>000239551</NSF_ID>
+<StartDate>09/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Jost</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John W Jost</PI_FULL_NAME>
+<EmailAddress>secretariat@iupac.org</EmailAddress>
+<NSF_ID>000506098</NSF_ID>
+<StartDate>09/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>International Union of Pure and Applied Chemistry</Name>
+<CityName>Durham</CityName>
+<ZipCode>277093757</ZipCode>
+<PhoneNumber>9194858700</PhoneNumber>
+<StreetAddress>P.O. Box 13757</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>009059242</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>IUPAC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[International Union of Pure and Applied Chemistry]]></Name>
+<CityName>Durham</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277093757</ZipCode>
+<StreetAddress><![CDATA[P.O. Box 13757]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1978</Code>
+<Text>PROJECTS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2008~51000</FUND_OBLG>
+</Award>
+</rootTag>

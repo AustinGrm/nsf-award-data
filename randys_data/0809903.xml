@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Microbial Arsenate Reduction Control on Arsenic in Groundwater]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>98590.00</AwardTotalIntnAmount>
+<AwardAmount>98590</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030109</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Thomas Torgersen</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Title: Microbial Arsenate Reduction Control on Arsenic in Groundwater&lt;br/&gt;Abstract   The proposed research addresses natural occurrences of elevated arsenic in aquifers, a compelling public health hazard to a large population in both the United States and areas around the world. We focus on the role of microorganisms in controlling arsenic concentrations in aquifers, particularly at low values but still above the drinking water standards. The proposed study will determine quantitatively the role of microbial arsenate reduction in the bedrock aquifer in the Southern Willamette Basin, Oregon, USA. Arsenic occurs naturally in the aquifer at concentrations as high as 2000 parts per billion (ppb). This aquifer serves as a model for studying arsenic contamination in aquifers of felsic volcanic rocks and related alluvial sediments. We will conduct field biostimulation experiments and biogeochemical reactive transport modeling to test the hypothesis that microbial arsenate reduction controls significantly arsenic attenuation and mobilization in anoxic aquifers. Results of this study will pinpoint quantitatively the significance of different microbial functional groups in regulating arsenic concentrations in the aquifer. The theoretical component of this study will advance biogeochemical reaction modeling that couples microbial metabolisms with geochemical reactions. Results of this study will also provide critical information concerning groundwater microbiology for government agencies in designing effective strategies and regulations for groundwater resource management, monitoring, and protection. We will collaborate with science instructors at high schools near the field site to develop a replicable and sustainable classroom lesson on arsenic into their science curriculum. The teaching portfolio of the arsenic lesson will be distributed to all Oregon K-12 educators to help Oregon public schools better prepared for a new requirement of a science class with laboratory experience by the Oregon State Board of Education.        &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/29/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/05/2011</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0809903</AwardID>
+<Investigator>
+<FirstName>Chen</FirstName>
+<LastName>Zhu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chen Zhu</PI_FULL_NAME>
+<EmailAddress><![CDATA[chenzhu@indiana.edu]]></EmailAddress>
+<NSF_ID>000231915</NSF_ID>
+<StartDate>07/29/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lisa</FirstName>
+<LastName>Pratt</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lisa M Pratt</PI_FULL_NAME>
+<EmailAddress><![CDATA[prattl@indiana.edu]]></EmailAddress>
+<NSF_ID>000383736</NSF_ID>
+<StartDate>07/29/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Indiana University</Name>
+<CityName>BLOOMINGTON</CityName>
+<ZipCode>474057000</ZipCode>
+<PhoneNumber>3172783473</PhoneNumber>
+<StreetAddress>107 S INDIANA AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YH86RTW2YVJ4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF INDIANA UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YH86RTW2YVJ4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Indiana University]]></Name>
+<CityName>BLOOMINGTON</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>474057000</ZipCode>
+<StreetAddress><![CDATA[107 S INDIANA AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1579</Code>
+<Text>Hydrologic Sciences</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~98590</FUND_OBLG>
+</Award>
+</rootTag>

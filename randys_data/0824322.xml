@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[BRIGE: Energy-Efficient Communication with Combined Decoding/Inference]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>162938.00</AwardTotalIntnAmount>
+<AwardAmount>162938</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lawrence Goldberg</SignBlockName>
+<PO_EMAI>lgoldber@nsf.gov</PO_EMAI>
+<PO_PHON>7032928339</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[0824922&lt;br/&gt;Sheryl Howard, Northern Arizona University&lt;br/&gt;BRIGE: Energy-Efficient Communication with Combined Decoding/Inference&lt;br/&gt;&lt;br/&gt;ABSTRACT&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Intellectual Merit: This research project develops a network cross-layer inference framework that combines source/application-level modeling with channel coding and probabilistic decoding/inference.  The goal is reduction of network energy consumption while maintaining good performance.  Selective transmission censoring further reduces network energy consumption.  The main research objectives include: developing source-channel decoding algorithms that incorporate a correlated source model, channel coding, probabilistic decoding and source inference; developing transmission censoring algorithms that predict via inference the result of censoring selected data, and censor to maximize overall network performance and energy reduction; examining unequal error protection of bits and/or messages; and comparing energy consumption and implementation feasibility of the best source-channel decoding/inference and censoring algorithms in an existing wireless environmental sensing network.  The approaches to attaining and evaluating these objectives include: initial software development of all algorithms; performance evaluation of algorithms via Monte Carlo computer simulation; hardware implementation of best algorithms in functioning wireless sensor network; and measurement of actual performance and energy consumption in network.&lt;br/&gt;&lt;br/&gt;Broader Impacts: Reducing energy consumption in battery-powered wireless networks makes environmental monitoring more practical, potentially increasing knowledge of ecosystem dynamics and early detection of ecosystem degradation. Hazardous waste from depleted batteries is reduced, as well as environmental interference due to battery replacement.  This work could easily extend to security, safety or health monitoring networks as well as the environmental sensing network application presented here.  This project broadens participation of under-represented groups in engineering by supporting research for a beginning investigator who, as a member of two under-represented groups in electrical engineering at a minority-serving institution, can serve as a mentor and role model to under-represented groups in engineering.  Both educational outreach and research opportunities for undergraduate and graduate students in this project promote minority participation in electrical engineering.  Results and foundational material from this research will be incorporated into collaborative class projects in several courses, further increasing undergraduate student participation in research. &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/24/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0824322</AwardID>
+<Investigator>
+<FirstName>Sheryl</FirstName>
+<LastName>Howard</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sheryl L Howard</PI_FULL_NAME>
+<EmailAddress><![CDATA[sheryl.howard@nau.edu]]></EmailAddress>
+<NSF_ID>000071793</NSF_ID>
+<StartDate>07/24/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northern Arizona University</Name>
+<CityName>Flagstaff</CityName>
+<ZipCode>860117034</ZipCode>
+<PhoneNumber>9285230886</PhoneNumber>
+<StreetAddress>601 S KNOLES DR</StreetAddress>
+<StreetAddress2><![CDATA[ROOM 220]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MXHAS3AKPRN1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHERN ARIZONA UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northern Arizona University]]></Name>
+<CityName>Flagstaff</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>860117034</ZipCode>
+<StreetAddress><![CDATA[601 S KNOLES DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0206000</Code>
+<Name>Telecommunications</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7741</Code>
+<Text>BRIGE-Broad Partic in Eng</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7741</Code>
+<Text>BROAD PARTIC IN ENG (BRIGE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~162938</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Web-based Interactive Organic Chemistry Homework</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>218913.00</AwardTotalIntnAmount>
+<AwardAmount>218913</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joseph Grabowski</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Chemistry (12)&lt;br/&gt;Web-based programs have the potential to change the way science is taught, but for instructors to invest the time and resources required to adopt them, such programs must have greater pedagogical value than traditional methods. The Web-based interactive organic chemistry program, ACE Organic (formerly EPOCH), is uniquely useful in several ways. ACE generally requires a student to draw a chemical structure or a sequence of chemical structures, and, if a student's response is incorrect, ACE provides feedback that explains why the response is incorrect and makes suggestions to guide the student to the correct answer.  Over the last 2.5 years, a number of new question types were added to ACE, and these were incorporated into the commercial version of ACE in early 2007.  Question types included mechanism questions for which students can now draw a sequence of chemical structures and curved arrows representing electron flow, just as they do on paper; conformation questions for which students can now draw or modify a chemical structure with three-dimensional information; Lewis structure questions for which the standard drawing tool, MarvinSketch (trademarked), adds unshared electrons and implicit H atoms automatically and alerts students to valence errors, while a new, much less chemically aware drawing tool has been developed that permits students to draw (correct and incorrect) Lewis structures; label-the-atom questions for which students can now mark the atom in a structure that is most acidic, most nucleophilic, etc., or they can mark every stereogenic atom, or they can label every atom according to its hybridization or stereotopicity; and multiple-choice, fill-in-the-blank (with pulldown menus), and rank-in-order questions.  Under this project multistep synthesis questions are being added to ACE.  Students are given a target, a description of permissible starting materials, and a set of permissible reagents, and they design and draw a multistep synthetic scheme.  In addition, an extended evaluation is being carried out to determine the effectiveness of the question types in improving students' performances in courses. Preliminary evaluations of ACE by third parties have suggested that ACE does have a measurable and positive effect on students' understanding of and ability in organic chemistry.&lt;br/&gt;Intellectual merit: This project continues the development and evaluation of a Web-based homework program designed for organic chemistry that already has far greater capabilities than any program heretofore developed. &lt;br/&gt;Broader impacts: The ACE program is a uniquely valuable teaching and learning tool for a difficult course that is taken by large numbers of students across a wide variety of disciplines.  This project expands the scope of ACE to a critical portion of the organic chemistry course material.  The partnership with the Prentice Hall division of Pearson Education, which funded much of the initial development of ACE and continues to invest in its support and evaluation, will permit wide dissemination of future versions of ACE.</AbstractNarration>
+<MinAmdLetterDate>08/25/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/25/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0816783</AwardID>
+<Investigator>
+<FirstName>Raphael</FirstName>
+<LastName>Finkel</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Raphael A Finkel</PI_FULL_NAME>
+<EmailAddress>raphael@cs.uky.edu</EmailAddress>
+<NSF_ID>000297794</NSF_ID>
+<StartDate>08/25/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Grossman</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert B Grossman</PI_FULL_NAME>
+<EmailAddress>robert.grossman@uky.edu</EmailAddress>
+<NSF_ID>000161395</NSF_ID>
+<StartDate>08/25/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Kentucky Research Foundation</Name>
+<CityName>Lexington</CityName>
+<ZipCode>405260001</ZipCode>
+<PhoneNumber>8592579420</PhoneNumber>
+<StreetAddress>109 Kinkead Hall</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<StateCode>KY</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KY06</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>939017877</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF KENTUCKY RESEARCH FOUNDATION, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>119108470</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Kentucky Research Foundation]]></Name>
+<CityName>Lexington</CityName>
+<StateCode>KY</StateCode>
+<ZipCode>405260001</ZipCode>
+<StreetAddress><![CDATA[109 Kinkead Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KY06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0116000</Code>
+<Name>Human Subjects</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7492</Code>
+<Text>CCLI-Type 2 (Expansion)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>1300CYXXDB</Code>
+<Name><![CDATA[H-1B FUND, EHR, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~218913</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Nazareth College Science and Mathematics Scholars Program]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>598000.00</AwardTotalIntnAmount>
+<AwardAmount>598000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Tymann</SignBlockName>
+<PO_EMAI>ptymann@nsf.gov</PO_EMAI>
+<PO_PHON>7032922832</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The Science and Mathematics Scholars Program is providing support for promising but financially needy students pursuing degree programs in biology, chemistry, and mathematics. A total of 52 scholarships (up to $10,000 per year) over the four-year course of the program will be awarded to full-time students. The College is working with the Rochester City School District, local community colleges, and local and regional high schools to identify and recruit students with an interest in mathematics and science. The Scholars program is increasing educational opportunities for students, especially students from groups traditionally underrepresented in STEM fields. Students are benefiting from small class sizes and personal attention, opportunities to engage in undergraduate research and industrial internships, faculty dedicated to research-based educational pedagogies, and a collaborative student support network comprised of faculty, academic, and student development personnel.  This program is building upon the established relationships with local schools, industry, and professional STEM organizations to address the local and national shortage of STEM workers. The strategies developed to recruit, financially support, and nurture students to graduation are allowing Nazareth College to institutionalize a comprehensive retention program that can be utilized beyond the grant period and can serve as a model of best practices for other institutions of higher education.]]></AbstractNarration>
+<MinAmdLetterDate>08/07/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/07/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0806550</AwardID>
+<Investigator>
+<FirstName>Lynn</FirstName>
+<LastName>O'Brien</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lynn O'Brien</PI_FULL_NAME>
+<EmailAddress><![CDATA[lobrien9@naz.edu]]></EmailAddress>
+<NSF_ID>000074994</NSF_ID>
+<StartDate>08/07/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Koetz</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthew Koetz</PI_FULL_NAME>
+<EmailAddress><![CDATA[mkoetz1@naz.edu]]></EmailAddress>
+<NSF_ID>000082672</NSF_ID>
+<StartDate>08/07/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Beverly</FirstName>
+<LastName>Brown</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Beverly J Brown</PI_FULL_NAME>
+<EmailAddress><![CDATA[bbrown6@naz.edu]]></EmailAddress>
+<NSF_ID>000285561</NSF_ID>
+<StartDate>08/07/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Nazareth College of Rochester</Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>146183703</ZipCode>
+<PhoneNumber>5853892419</PhoneNumber>
+<StreetAddress>4245 EAST AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WBN8EADUR4H9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NAZARETH COLLEGE OF ROCHESTER</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>WBN8EADUR4H9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Nazareth College of Rochester]]></Name>
+<CityName>ROCHESTER</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>146183703</ZipCode>
+<StreetAddress><![CDATA[4245 EAST AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>1300XXXXDB</Code>
+<Name><![CDATA[H-1B FUND, EDU, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~598000</FUND_OBLG>
+</Award>
+</rootTag>

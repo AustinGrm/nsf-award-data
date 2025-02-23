@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[How Science is Working to Save the Planet]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>149951.00</AwardTotalIntnAmount>
+<AwardAmount>149951</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lee Zia</SignBlockName>
+<PO_EMAI>lzia@nsf.gov</PO_EMAI>
+<PO_PHON>7032925140</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Interdisciplinary(99) This project brings together science and engineering faculty to form a specialized program focusing on the timely topic of global climate change (GCC).  In this project first year college students are introduced to scientific thinking and issues in climate change through community-based learning projects. Two pressing national needs are addressed in the project: the need for interdisciplinary education reflecting the implications of global climate change and the need to develop and retain students in STEM fields. The project introduces incoming students to scientific thinking regarding global climate change and the innovative research needed to mitigate problems related to these changes. In addition, the project facilitates interactions among students and faculty to develop relationships that increase retention in the institution and encourage continued interest in STEM fields. This first year seminar course introduces topics in modular format that enables students' understanding of the factors affecting climate change and examine the methods used to measure and address these changes. The project creates a research-learning community composed of faculty, undergraduate students involved in the course, and members from the university community as well as local stakeholders. At the end of the semester, a conference centered on poster presentations is held where student groups present a more detailed treatment of one of the data sets collected during the hands on activities. Student teams also contribute to a common course website to educate the rest of campus on global climate change issues and solutions.]]></AbstractNarration>
+<MinAmdLetterDate>07/02/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>09/30/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0837101</AwardID>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Ide</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Charles F Ide</PI_FULL_NAME>
+<EmailAddress><![CDATA[charles.ide@wmich.edu]]></EmailAddress>
+<NSF_ID>000413593</NSF_ID>
+<StartDate>07/02/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Karowe</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David N Karowe</PI_FULL_NAME>
+<EmailAddress><![CDATA[karowe@wmich.edu]]></EmailAddress>
+<NSF_ID>000123835</NSF_ID>
+<StartDate>07/02/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Toni</FirstName>
+<LastName>Woolfork-Barnes</LastName>
+<PI_MID_INIT>Y</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Toni Y Woolfork-Barnes</PI_FULL_NAME>
+<EmailAddress><![CDATA[toni.woolfork-barnes@wmich.edu]]></EmailAddress>
+<NSF_ID>000320589</NSF_ID>
+<StartDate>07/02/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Western Michigan University</Name>
+<CityName>KALAMAZOO</CityName>
+<ZipCode>490085200</ZipCode>
+<PhoneNumber>2693878298</PhoneNumber>
+<StreetAddress>1903 W MICHIGAN AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>J7WULLYGFRH1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WESTERN MICHIGAN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MSBPLPK9YJW4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Western Michigan University]]></Name>
+<CityName>KALAMAZOO</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>490085200</ZipCode>
+<StreetAddress><![CDATA[1903 W MICHIGAN AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM-Schlr Sci Tech Eng&amp;Math</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0409</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>13XX</Code>
+<Name>H-1B FUND, EHR, NSF</Name>
+<APP_SYMB_ID>045176</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000910DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>1300CYXXDB</Code>
+<Name><![CDATA[H-1B FUND, EHR, NSF]]></Name>
+<FUND_SYMB_ID>045176</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~149951</FUND_OBLG>
+</Award>
+</rootTag>

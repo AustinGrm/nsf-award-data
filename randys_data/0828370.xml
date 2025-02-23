@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Thermal and Transport Effects in Metal Blackening and Colorization]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>348348.00</AwardTotalIntnAmount>
+<AwardAmount>348348</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sumanta Acharya</SignBlockName>
+<PO_EMAI>sacharya@nsf.gov</PO_EMAI>
+<PO_PHON>7032924509</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[CBET-0828370&lt;br/&gt;Guo&lt;br/&gt;&lt;br/&gt;Recently, we created a femtosecond laser processing technique to transform highly reflective metals either totally absorptive or reflecting only a certain color of light, creating the so-called "black metal" and "color metal". The black and color metals have many important applications such as making better sensors, detectors, solar energy collectors, laser marking, and improved stealth technology. However, the processes are still inefficient and the physical mechanisms remain unclear. The goal of this project is to develop improved understanding of the thermal and transport effects of metal blackening and colorization so that the processes can be further refined. &lt;br/&gt;&lt;br/&gt;This proposed research employs advanced femtosecond laser techniques for studying thermal and transport effects in metals. The students trained in this project will develop better interdisciplinary research skills. Because of the variety of technological applications, the black and color metal work have gained extensive media attention. The research project outlined in this proposal will not only continuously help train graduate and undergraduate students, but also give students and myself opportunities to further reach out to a broader community and share our passions in science and engineering with the general public. &lt;br/&gt;&lt;br/&gt;This project is jointly funded by the Thermal Transport Processes (TTP) Program, of the Chemical, Bioengineering, Environmental, and Transport Systems (CBET) Division, by the Materials Processing &amp; Manufacturing (MPM) Program, of the Civil, Mechanical, and Manufacturing Innovation (CMMI) Division, and by funding provided from the Directorate for Engineering (ENG) to support Inter Divisional Research.]]></AbstractNarration>
+<MinAmdLetterDate>08/20/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/20/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0828370</AwardID>
+<Investigator>
+<FirstName>Chunlei</FirstName>
+<LastName>Guo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chunlei Guo</PI_FULL_NAME>
+<EmailAddress><![CDATA[guo@optics.rochester.edu]]></EmailAddress>
+<NSF_ID>000115073</NSF_ID>
+<StartDate>08/20/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Rochester</Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>146113847</ZipCode>
+<PhoneNumber>5852754031</PhoneNumber>
+<StreetAddress>910 GENESEE ST</StreetAddress>
+<StreetAddress2><![CDATA[STE 200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F27KDXZMF9Y8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ROCHESTER</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Rochester]]></Name>
+<CityName>ROCHESTER</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>146113847</ZipCode>
+<StreetAddress><![CDATA[910 GENESEE ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1402</Code>
+<Text>BIOCHEMICAL &amp; BIOMASS ENG</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1406</Code>
+<Text>TTP-Thermal Transport Process</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1467</Code>
+<Text>MATERIALS PROCESSING AND MANFG</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1468</Code>
+<Text>Manufacturing Machines &amp; Equip</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>045E</Code>
+<Text>Adv Mats for Separation Process</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>065E</Code>
+<Text>Radiation heat transfer</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>088E</Code>
+<Text>THERMALLY DRIVEN PROCESSES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~348348</FUND_OBLG>
+</Award>
+</rootTag>

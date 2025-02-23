@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[A Geospatial Semantic Web Framework for Feature-Level Data Search, Access, Retrieval, Integration and Visualization: A Case of Transportation Network Data]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/01/2007</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>174209.00</AwardTotalIntnAmount>
+<AwardAmount>174209</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040400</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Thomas Baerwald</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The objective of the research is to design, prototype, and assess a Geospatial Semantic Web framework to search, access, retrieve, integrate, and visualize geographic information at the feature level, using transportation network data as a case study. This research intends to advance the state of art of data-sharing from the current file level to feature level, which involves data elements represented by points, lines, or polygons at particular locations. Geospatial data sharing and exchange are essential to increase the efficiency of data-intensive applications and to reduce the redundancy of data acquisition. Yet current methods of sharing data at the file level make data sharing and exchange difficult because of the incompatibility of the variety of semantics, data models, structures and formats used at different systems. Data sharing at the file level is not necessary for many applications such as emergency responses and location based services, in which only information at or surrounding a particular location are needed. Therefore it is useful and necessary to build a feature-level data sharing system to meet the demand of many time critical applications that need real-time access and exchange of the most up-to-date spatial data. This research will design and prototype an interoperable Geospatial Semantic Web using standard technologies such as web services, semantic web, and ontology. The basic approach is to serve geospatial data as individual web services, and then enable these services in a Geospatial Semantic Web. Each web service is described and published in a service broker, which keeps a list of available services and the data items each service contains through ontologies. The end user can search for geospatial data elements from the service broker through services and ontologies. Based on the research, two transportation domain ontologies will be created and integrated using the Web Ontology Language. &lt;br/&gt;&lt;br/&gt;The resulting system will fundamentally change traditional ways of data sharing, search and access. It will enable users or applications to semantically search and automatically discover and access feature level data. Furthermore, it may have important impacts on time-critical and data-intensive applications such as those used in homeland security, emergency response, location based services, urban planning, and decision-support systems. This research wishes to promote and advance research interests in the integration of Web services, ontology, and Geospatial Semantic Web. It attempts to show that the developed Geospatial Semantic Web can become a vendor-neutral, interoperable Web that allows geospatial data providers to advertise their data, allows end users such as the emergency response dispatchers to search, access, retrieve, and integrate different spatial information surrounding a particular location from multiple sources through Web Services.&lt;br/&gt;&lt;br/&gt;This proposal is supported in part by the Methodology, Measurement and Statistics program.]]></AbstractNarration>
+<MinAmdLetterDate>06/12/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/12/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0824856</AwardID>
+<Investigator>
+<FirstName>Zhong-ren</FirstName>
+<LastName>Peng</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zhong-ren Peng</PI_FULL_NAME>
+<EmailAddress><![CDATA[zpeng@dcp.ufl.edu]]></EmailAddress>
+<NSF_ID>000436985</NSF_ID>
+<StartDate>06/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326111941</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1523 UNION RD RM 207</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NNFQH1JAPEP3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF FLORIDA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D4GCCCMXR1H3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Florida]]></Name>
+<CityName>GAINESVILLE</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>326111941</ZipCode>
+<StreetAddress><![CDATA[1523 UNION RD RM 207]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1333</Code>
+<Text>Methodology, Measuremt &amp; Stats</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1352</Code>
+<Text>Geography and Spatial Sciences</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<FUND_OBLG>2006~49494</FUND_OBLG>
+<FUND_OBLG>2007~124714</FUND_OBLG>
+</Award>
+</rootTag>

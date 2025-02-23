@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Enhancing the Quality of NSF Proposals from Accredited Engineering and Computer Science Programs of Minority Serving Colleges and Universities]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2008</AwardExpirationDate>
+<AwardTotalIntnAmount>205673.00</AwardTotalIntnAmount>
+<AwardAmount>205673</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040200</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Russell L. Pimmel</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Engineering - Other (59)&lt;br/&gt;&lt;br/&gt;This project is providing support for two grant writing workshops for faculty members from accredited engineering and computer science programs at minority serving colleges and universities (MSIs). The goal of the workshops is to enhance the quality of NSF proposals, primarily proposals for education development efforts, submitted by these institutions. The workshops, through structured and informal interactions with NSF program directors, addresses proposal writing strategies and approaches for dealing with broader impacts and project evaluation.  These efforts are intended to increase the number of proposal submitted by these institutions, the number of collaborative proposals among the participating institutions, and the success rate of the submitted proposals. Participation in the workshops also is expected to increase the number of faculty members from these institutions in the NSF review process. After the workshops, the participants are sharing their knowledge and insights on proposal writing with colleagues on their campuses in order to widen the impact.   Evaluation efforts, led by an expert from the planning and assessment office at the PI's institution, are using post-workshop attitude surveys and a later follow-up survey on proposal submission and success rates to determine the effectiveness of the workshops.]]></AbstractNarration>
+<MinAmdLetterDate>01/22/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>01/22/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0808572</AwardID>
+<Investigator>
+<FirstName>Patrick</FirstName>
+<LastName>Carriere</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Patrick E Carriere</PI_FULL_NAME>
+<EmailAddress><![CDATA[carriere@engr.subr.edu]]></EmailAddress>
+<NSF_ID>000373077</NSF_ID>
+<StartDate>01/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Southern University</Name>
+<CityName>BATON ROUGE</CityName>
+<ZipCode>708075304</ZipCode>
+<PhoneNumber>2257712809</PhoneNumber>
+<StreetAddress>730 HARDING BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>LA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H7CJA7NX9WN3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SOUTHERN UNIVERSITY AND A &amp; M COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Southern University]]></Name>
+<CityName>BATON ROUGE</CityName>
+<StateCode>LA</StateCode>
+<ZipCode>708075304</ZipCode>
+<StreetAddress><![CDATA[730 HARDING BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>LA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7494</Code>
+<Text>CCLI-Type 1 (Exploratory)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~205673</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshop on Cell and Molecular Biomechanics</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>25000.00</AwardTotalIntnAmount>
+<AwardAmount>25000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dennis Robert Carter</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>This workshop is titled,Cell and Molecular Biomechanics: Advancing Mechanics in Biology and Medicine, to be held May 10-13, 2008 in Atlanta, GA.  With recent advances in bioengineering and life sciences, there is an increasing need to study the mechanics of living cells and biomolecules as related to biology and medicine, understand the molecular basis of mechanosensing and mechanotransduction in living cells, systematically measure the mechanical behavior of single cells and biomolecules, and develop constitutive models and simulation tools for quantitative analysis of the mechanical function of proteins, cells and tissues. The specific goals of this 1.5-day workshop are: to bring together researchers in applied mechanics, bioengineering, biophysics, biology and biochemistry to identify critical issues and challenges in developing mechanics of biology and medicine; to demonstrate the critical needs and potential impact of mechanics-based studies in improving the quality of life and human health; to discuss the cutting-edge research in this field and facilitate interdisciplinary studies; and to identify mechanisms of encouraging and supporting researchers in applied mechanics to enter this very promising field.  This award will cover the travel expenses of selected workshop participants, and other Workshop expenses.  The presentations and discussions at the Workshop will be summarized in a report to NSF, and a position paper published by the ASME Journal of Applied Mechanics (JAM).  &lt;br/&gt; If successful, this workshop will help develop biomechanics at the cellular and molecular levels, stimulate the application of mechanics to cell biology and molecular medicine, facilitate interdisciplinary studies, and help train the next-generation leaders in applied mechanics and bioengineering.  Therefore, this award has the potential to generate a broader impact to the fields of applied mechanics, bioengineering, biology and medicine.</AbstractNarration>
+<MinAmdLetterDate>05/14/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>05/14/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0834046</AwardID>
+<Investigator>
+<FirstName>Gang</FirstName>
+<LastName>Bao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gang Bao</PI_FULL_NAME>
+<EmailAddress>gang.bao@rice.edu</EmailAddress>
+<PI_PHON>7133482764</PI_PHON>
+<NSF_ID>000364385</NSF_ID>
+<StartDate>05/14/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 NORTH AVE NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1630</Code>
+<Text>Mechanics of Materials and Str</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1633</Code>
+<Text>MATERIALS AND SURFACE ENG</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7479</Code>
+<Text>BMMB-Biomech &amp; Mechanobiology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>028E</Code>
+<Text>BIOMECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~25000</FUND_OBLG>
+</Award>
+</rootTag>

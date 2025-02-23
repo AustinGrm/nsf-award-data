@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Tectonics and Topography in the Transverse Ranges: Landscape Response to Rock Uplift Rate across the Transition from Soil-Mantled to Rocky Slopes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/31/2007</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>153106.00</AwardTotalIntnAmount>
+<AwardAmount>153106</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030206</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Cutler</SignBlockName>
+<PO_EMAI>pcutler@nsf.gov</PO_EMAI>
+<PO_PHON>7032924961</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This study is a three-year collaborative research effort in the San Gabriel Mountains to systematically study both hillslope and channel response to increasing rock uplift rate across the critical transition from soil-mantled, creep- and ravel-dominated hillslopes to rocky, bedrock landslide-dominated hillslopes.  Published data and preliminary topographic analyses coupled with measurements of cosmogenic 10Be in river sediments demonstrate that (1) erosion rates vary systematically throughout the range from &lt;0.1 to &gt;= 1 km/Ma, and (2) detrital cosmogenic 10Be is an effective erosion-rate monitor in this landscape.  The systematic west-to-east variation in erosion rate with relatively uniform lithologic and climatic conditions (with a known orographic rainfall pattern) in the San Gabriel Mountains affords an unprecedented opportunity to answer several key questions in landscape evolution. Six specific testable hypotheses that are critical to further development of a quantitative understanding of the relationship between tectonics and topography will be tested, and a specific suite of field sites and methods are identified that should yield definitive tests of these hypotheses as well as quantification of the underlying processes. Broader impacts of this work span the five general NSF criteria used to promote extending the reach of the research. Fundamentally, this project fits into our main educational objective: to integrate field studies into the education of diverse audiences, furthering their understanding of Earth surface processes and helping to bridge the gaps between theory and application as well as science and policy.]]></AbstractNarration>
+<MinAmdLetterDate>05/12/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/12/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0829459</AwardID>
+<Investigator>
+<FirstName>Arjun</FirstName>
+<LastName>Heimsath</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Arjun M Heimsath</PI_FULL_NAME>
+<EmailAddress><![CDATA[arjun.heimsath@asu.edu]]></EmailAddress>
+<NSF_ID>000231820</NSF_ID>
+<StartDate>05/12/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Arizona State University</Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852813670</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress>660 S MILL AVENUE STE 204</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NTLHJXM55KZ6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ARIZONA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>TEMPE</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>852813670</ZipCode>
+<StreetAddress><![CDATA[660 S MILL AVENUE STE 204]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7458</Code>
+<Text>Geomorphology &amp; Land-use Dynam</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2005~0</FUND_OBLG>
+<FUND_OBLG>2008~75362</FUND_OBLG>
+<FUND_OBLG>2009~77744</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[In Situ Estimation of Poisson's Ratio]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2009</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>87055.00</AwardTotalIntnAmount>
+<AwardAmount>87055</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030204</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eva Zanzerkia</SignBlockName>
+<PO_EMAI>ezanzerk@nsf.gov</PO_EMAI>
+<PO_PHON>7032924734</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;Seismologically determined Poisson's ratio is a powerful tool to complement the petrological and geochemical studies in the investigation of the composition of the Earth. In this project, the researchers will estimate the ratio of compressional- to shear-wave velocity (Vp/Vs), which is directly related to Poisson's ratio, using the technique of Lin and Shearer (2007). This approach applies a robust least-squares method to arrival time differences for P and S waves obtained from waveform cross-correlation. It provides highly precise results because cross-correlation can measure differential times to within a few milliseconds and can achieve a precision of 0.001 in estimated Vp/Vs ratio, corresponding to about 0.0004 in Poisson's ratio. The proposed work includes performing waveform cross-correlation and applying the in-situ method to several regions. The  focus areas of application are volcanoes and active fault zones, including Yellowstone, Mount Etna Volcano in Italy, Long Valley Caldera, the Loma Prieta rupture zone, and the SAFOD target event region for Parkfield. The spatial and temporal variations in the resulting Vp/Vs ratios will help to track movement of magma and volatiles within a volcano and to estimate spatial variations in fracturing and fluid content in active fault zones.  The high-precision Vp/Vs ratio in the source region will also be used to improve earthquake location accuracy.&lt;br/&gt;&lt;br/&gt;The method the researchers will apply is simple to implement and fast to execute since it uses a robust least-squares to fit the differential times. Another advantage of this method is that it will be straightforward to study the spatial and temporal variations of Vp/Vs ratios by simply selecting a subset of events by space and/or time, which would be difficult to achieve based on tomography because of the difficulties of obtaining reliable Vp/Vs models and the non-uniqueness of the problem. The Vp/Vs ratios can be obtained even without S-wave catalog picks, because only the differential times are needed and the time window for S cross-correlation can be estimated from the earthquake locations and a given velocity model.]]></AbstractNarration>
+<MinAmdLetterDate>08/05/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>08/05/2009</MaxAmdLetterDate>
+<ARRAAmount>87055</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0838346</AwardID>
+<Investigator>
+<FirstName>Clifford</FirstName>
+<LastName>Thurber</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Clifford H Thurber</PI_FULL_NAME>
+<EmailAddress><![CDATA[thurber@geology.wisc.edu]]></EmailAddress>
+<NSF_ID>000203554</NSF_ID>
+<StartDate>08/05/2009</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Guoqing</FirstName>
+<LastName>Lin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Guoqing Lin</PI_FULL_NAME>
+<EmailAddress><![CDATA[glin@miami.edu]]></EmailAddress>
+<NSF_ID>000506259</NSF_ID>
+<StartDate>08/05/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Miami</Name>
+<CityName>CORAL GABLES</CityName>
+<ZipCode>331462509</ZipCode>
+<PhoneNumber>3054214089</PhoneNumber>
+<StreetAddress>1251 MEMORIAL DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>27</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL27</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KXN7HGCF6K91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MIAMI</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VNZZYCJ55TC4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Miami]]></Name>
+<CityName>CORAL GABLES</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>331462509</ZipCode>
+<StreetAddress><![CDATA[1251 MEMORIAL DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>27</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL27</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7699</Code>
+<Text>Integrat &amp; Collab Ed &amp; Rsearch</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1576</Code>
+<Text>NATIONL EARTHQK HZRD REDCT PRG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~87055</FUND_OBLG>
+</Award>
+</rootTag>

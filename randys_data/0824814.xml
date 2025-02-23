@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Core Support of the Water Science and Technology Board]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>25000.00</AwardTotalIntnAmount>
+<AwardAmount>25000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul L. Bishop</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[CBET-0824814&lt;br/&gt;Stephen D. Parker, Water Science and Technology Board (WSTB) of the National&lt;br/&gt;Academies&lt;br/&gt;&lt;br/&gt;  &lt;br/&gt;&lt;br/&gt;This award is in partial support of the Water Science and Technology Board (WSTB) of the National Academies for "core support". The WSTB provides continuity in the conduct of the National Research Council's advisory activities in water resources, in an attempt to assure that this vital area receives attention appropriate to the role that water plays in furthering the national interest.  The funds would be used to provide continuing support for operation and administration of the WSTB, including the cost of strategic planning, program development, and the establishment of groups of experts who would be convened to work on specific issue-oriented projects suggested by the agencies or initiated by the Board.]]></AbstractNarration>
+<MinAmdLetterDate>06/30/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0824814</AwardID>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Parker</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stephen D Parker</PI_FULL_NAME>
+<EmailAddress><![CDATA[sdparker@nas.edu]]></EmailAddress>
+<NSF_ID>000085843</NSF_ID>
+<StartDate>06/30/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>National Academy of Sciences</Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>204180006</ZipCode>
+<PhoneNumber>2023342254</PhoneNumber>
+<StreetAddress>2101 CONSTITUTION AVE NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>PKFJZHG2MLG9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NATIONAL ACADEMY OF SCIENCES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>PKFJZHG2MLG9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[National Academy of Sciences]]></Name>
+<CityName>WASHINGTON</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>204180006</ZipCode>
+<StreetAddress><![CDATA[2101 CONSTITUTION AVE NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0313040</Code>
+<Name>Water Pollution</Name>
+</FoaInformation>
+<FoaInformation>
+<Code>0316000</Code>
+<Name>Trace Contaminants</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1440</Code>
+<Text>EnvE-Environmental Engineering</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1579</Code>
+<Text>Hydrologic Sciences</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7643</Code>
+<Text>EnvS-Environmtl Sustainability</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>021E</Code>
+<Text>Water management</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9187</Code>
+<Text>TOXIC SUBSTANCES/SOLID &amp; HAZARDOUS WASTE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~25000</FUND_OBLG>
+</Award>
+</rootTag>

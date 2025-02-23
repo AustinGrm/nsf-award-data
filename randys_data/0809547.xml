@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SYMPOSIUM - REPTILE GENOMICS AND EVOLUTIONARY GENETICS, to be held January 2008 in San Antonio, TX.]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2008</AwardExpirationDate>
+<AwardTotalIntnAmount>7010.00</AwardTotalIntnAmount>
+<AwardAmount>7010</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090300</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>mary chamberlin</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Birds and mammals evolved from reptiles, yet little is known about how avian and mammalian developmental genetics reflect their reptilian ancestry. Birds and mammals vary tremendously in their reproductive traits and genomic constitution. For example, although sex is determined by individual genotype in birds and mammals, avian and mammalian sex chromosomes systems are different. In mammals, males produce two types of sperm that carry either an X or a Y chromosome, whereas in birds, females produce two types of eggs that carry either a Z or a W chromosome. Both mechanisms exist in reptiles, along with temperature-dependent sex determination. Also, bird genomes are, on average, smaller than the genomes of mammals and reptiles owing to differences in the amount of their genome that is composed of active and extinct interspersed repetitive elements, the diversity of which remains largely unexplored in reptiles. Thus, comparative data on gene structure and regulation, developmental patterns and processes, and genome architecture of reptiles are critical for understanding genetic and genome-wide evolutionary trends not only in reptiles, but also in birds and mammals. This symposium, which will be held at the 2008 meeting of the Society for Integrative and Comparative Biology, will highlight advances and progress made in sequencing of reptile genomes (including birds), characterizing reptilian genome architecture, and describing the evolution of reptilian traits (i.e., sex-determining mechanisms, physiology, endocrine pathways, and chromosome structure). The symposium participants constitute a diverse group of speakers in terms of gender, geographic origin, as well as career stages, and include members of underrepresented groups in science. The symposium will foster the sharing of ideas and protocols, and help build collaborations that will contribute to the advancement of the field. Presented papers will be broadly disseminated by publication in the journal of the Society for Integrative and Comparative Biology.]]></AbstractNarration>
+<MinAmdLetterDate>01/07/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>01/07/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0809547</AwardID>
+<Investigator>
+<FirstName>Nicole</FirstName>
+<LastName>Valenzuela</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nicole Valenzuela</PI_FULL_NAME>
+<EmailAddress><![CDATA[nvalenzu@iastate.edu]]></EmailAddress>
+<NSF_ID>000139339</NSF_ID>
+<StartDate>01/07/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Iowa State University</Name>
+<CityName>AMES</CityName>
+<ZipCode>500112105</ZipCode>
+<PhoneNumber>5152945225</PhoneNumber>
+<StreetAddress>515 MORRILL RD, 1350 BEARDSHEAR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DQDBM7FGJPC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DQDBM7FGJPC5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Iowa State University]]></Name>
+<CityName>AMES</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>500112105</ZipCode>
+<StreetAddress><![CDATA[515 MORRILL RD, 1350 BEARDSHEAR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1119</Code>
+<Text>Animal Developmental Mechanism</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7657</Code>
+<Text>Integrtv Ecological Physiology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~7010</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[International Research Experience For Students - Ireland:  Applications in the Chemical Separations Sciences]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maija Kukla</SignBlockName>
+<PO_EMAI>mkukla@nsf.gov</PO_EMAI>
+<PO_PHON>7032924940</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[OISE 08-50443&lt;br/&gt;Frank Gomez&lt;br/&gt;California State University ? Los Angeles&lt;br/&gt;&lt;br/&gt;This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).&lt;br/&gt;&lt;br/&gt;This International Research Experience for Students (IRES) activity links a team at California State University, Los Angeles (CSULA) led by Frank A. Gomez with counterparts from Dublin City University (DCU) in Dublin, Ireland. Principal Investigator Gomez will work with DCU partners, Miroslav Macka and Brett Paull, to manage a balanced, team-based approach that provides undergraduate and graduate-level students with a solid background in chemical separations applications. This will be accomplished by examining problems at the interface of chemistry and related disciplines with the goal of demonstrating the interdisciplinary nature of science and the value of international collaboration.&lt;br/&gt;&lt;br/&gt;Annually, this IRES program will provide research experience for two U.S. undergraduate students and two graduate students who will travel to Dublin to work with U.S. and Irish mentors. The program will focus on developing highly trained students for careers in the chemical separations sciences involving capillary electrophoresis (CE) and microfluidic lab-on-a-chip development via a comprehensive program involving research, seminars and workshops, and faculty advising and mentoring. The results should lead to the development of new techniques used for molecular separations.&lt;br/&gt;&lt;br/&gt;This U.S.-Ireland IRES collaboration fulfills the program objective of developing global scientists and engineers by enabling experts in the United States and Europe to combine complementary talents and share research and education resources in an area of strong mutual interest and competence. Broader impacts include the introduction of U.S. students, including students recruited from community colleges, to international expertise on separations' systems, an area relevant to the pharmaceutical and medical sectors. The educational value of the IRES rests with the students' involvement in their mentors' cutting-edge research and early career exposure to the benefits associated with international cooperation on environmental and pharmacological problems.]]></AbstractNarration>
+<MinAmdLetterDate>06/15/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/15/2009</MaxAmdLetterDate>
+<ARRAAmount>150000</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0850443</AwardID>
+<Investigator>
+<FirstName>Frank</FirstName>
+<LastName>Gomez</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Frank A Gomez</PI_FULL_NAME>
+<EmailAddress><![CDATA[fgomez@calstate.edu]]></EmailAddress>
+<NSF_ID>000468452</NSF_ID>
+<StartDate>06/15/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California State L A University Auxiliary Services Inc.</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900324226</ZipCode>
+<PhoneNumber>3233433648</PhoneNumber>
+<StreetAddress>5151 STATE UNIVERSITY DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>34</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA34</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>C1ABLRAQTB48</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CAL STATE LA UNIVERSITY AUXILIARY SERVICES INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[California State University-Los Angeles]]></Name>
+<CityName>Los Angeles</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900324221</ZipCode>
+<StreetAddress><![CDATA[5151 State University Dr]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>34</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA34</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7727</Code>
+<Text>IRES Track I: IRES Sites (IS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5914</Code>
+<Text>WESTERN EUROPE, OTHER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5979</Code>
+<Text>Europe and Eurasia</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7639</Code>
+<Text>IRES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~150000</FUND_OBLG>
+</Award>
+</rootTag>

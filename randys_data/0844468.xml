@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SGER: Earth Science Literacy Initiative - Broad Community Review of Draft Documents, Consensus Building and Community Development]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2009</AwardExpirationDate>
+<AwardTotalIntnAmount>85592.00</AwardTotalIntnAmount>
+<AwardAmount>85592</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030203</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lina Patino</SignBlockName>
+<PO_EMAI>lpatino@nsf.gov</PO_EMAI>
+<PO_PHON>7032925047</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The College of Exploration (TCOE) will provide an online environment and online review process for the earth science scientific and education community to learn about, and provide feedback for, the Earth Science Literacy Initiative document being drafted in July, 2008. TCOE will facilitate an online process, forum and learning community that will enable the broader earth science community to provide comments in formulating big ideas and supporting concepts, and that will also encourage ongoing participation and conversation related to this initiative and potential initiatives in the future. A variety of online tools will be used to help achieve the public comments and consensus objectives. The online workshop platform includes the following components: secure conversation areas, asynchronous and synchronous meeting rooms, creating and playing video, streaming presentations, surveys, personal networking and community building. The activities proposed will facilitate the interaction of Earth Science community members through the review of a draft document. Thus, the final document will be accepted by the community at large and it will be used more effectively.]]></AbstractNarration>
+<MinAmdLetterDate>08/22/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/22/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0844468</AwardID>
+<Investigator>
+<FirstName>Kristina</FirstName>
+<LastName>Bishop</LastName>
+<PI_MID_INIT>O</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kristina O Bishop</PI_FULL_NAME>
+<EmailAddress><![CDATA[tina@coexploration.net]]></EmailAddress>
+<NSF_ID>000211318</NSF_ID>
+<StartDate>08/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Tuddenham</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peter Tuddenham</PI_FULL_NAME>
+<EmailAddress><![CDATA[peter@coexploration.net]]></EmailAddress>
+<NSF_ID>000240606</NSF_ID>
+<StartDate>08/22/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>The College of Exploration</Name>
+<CityName>STERLING</CityName>
+<ZipCode>201655813</ZipCode>
+<PhoneNumber>7034335760</PhoneNumber>
+<StreetAddress>230 MARKWOOD DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G66GWYFLCLN1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>COLLEGE OF EXPLORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The College of Exploration]]></Name>
+<CityName>STERLING</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>201655813</ZipCode>
+<StreetAddress><![CDATA[230 MARKWOOD DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1575</Code>
+<Text>EDUCATION AND HUMAN RESOURCES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9237</Code>
+<Text>SMALL GRANTS-EXPLORATORY RSRCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~85592</FUND_OBLG>
+</Award>
+</rootTag>

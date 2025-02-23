@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[National Forum for Action on the Report of the National Math Panel]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2010</AwardExpirationDate>
+<AwardTotalIntnAmount>60000.00</AwardTotalIntnAmount>
+<AwardAmount>60000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DRL</Abbreviation>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John S. Bradley</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The Conference Board for the Mathematical Sciences (CBMS) is collaborating with the U.S. Department of Education to host a forum in Washington, DC designed to launch action for change in mathematics education based on the recommendations of the National Mathematics Advisory Panel.  &lt;br/&gt;&lt;br/&gt;This forum will focus specifically on the following four areas:&lt;br/&gt;- Teachers and Teacher Education;&lt;br/&gt;- Learning Processes;&lt;br/&gt;- Instructional Material; and&lt;br/&gt;- Standards of Evidence - Research Policies and Mechanisms.]]></AbstractNarration>
+<MinAmdLetterDate>09/16/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>09/16/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0848681</AwardID>
+<Investigator>
+<FirstName>Ronald</FirstName>
+<LastName>Rosier</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ronald C Rosier</PI_FULL_NAME>
+<EmailAddress><![CDATA[rosier@georgetown.edu]]></EmailAddress>
+<NSF_ID>000229910</NSF_ID>
+<StartDate>09/16/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Conference Board Math Sciences</Name>
+<CityName>POUGHKEEPSIE</CityName>
+<ZipCode>126040001</ZipCode>
+<PhoneNumber>6516966559</PhoneNumber>
+<StreetAddress>VASSAR COLLEGE</StreetAddress>
+<StreetAddress2><![CDATA[124 RAYMOND AVE]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FLG3WG2G8DK7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CONFERENCE BOARD OF THE MATHEMATICAL SCIENCES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Conference Board Math Sciences]]></Name>
+<CityName>POUGHKEEPSIE</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>126040001</ZipCode>
+<StreetAddress><![CDATA[VASSAR COLLEGE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7645</Code>
+<Text>Discovery Research K-12</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9177</Code>
+<Text>ELEMENTARY/SECONDARY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0408</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04000809DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~60000</FUND_OBLG>
+</Award>
+</rootTag>

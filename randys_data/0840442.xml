@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Advanced Computational Multi-Body Dynamics for Next Generation Simulation-Based Engineering</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2014</AwardExpirationDate>
+<AwardTotalIntnAmount>408911.00</AwardTotalIntnAmount>
+<AwardAmount>408911</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Massimo Ruzzene</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>As the computer microprocessor industry rallies behind a new design paradigm that emphasizes massively parallel architectures, today?s Computational Multi-Body Dynamics methods are gradually becoming obsolete and ill-positioned to answer the ever growing challenges posed by Simulation-Based Engineering.  This Career proposal is motivated by the opportunity to reshape the existing Computational Multi-Body Dynamics landscape through new simulation methods.  Specifically, the developed methods will tackle complex dynamics applications from new algorithmic perspectives that draw on affordable high performance parallel computing hardware.&lt;br/&gt;From the motion of atoms to the flow of granular material (sand, gravel, etc.) and on to predicting/understanding/optimizing the dynamics of heavy duty machinery such as a 1,500 ton electric excavator, three efficiency barriers that currently limit the potential of Simulation-Based Engineering are identified as follows: (i) numerical solution methods are rooted in sequential algorithms, (ii) numerical methods do not scale to handle very large systems efficiently, and (iii) numerical integration methods are limited to very small integration step-sizes.  Under this research, advanced numerical methods leveraging emerging massively parallel commodity computer hardware will be identified, investigated, and demonstrated to effectively overcome these efficiency barriers.  Specifically, (a) relying on explicit numerical integration, an iterative solution framework will be investigated for its potential for parallel simulation, (b) drawing on a differential variational inequality approach, scalable complementarity methods will be investigated for their potential to use tens of thousands of parallel computational threads to solve billion body dynamics problems with frictional contact, and (c) relying on implicit numerical formulas, symplectic methods will be investigated for their potential for larger integration step-sizes in Molecular Dynamics simulation.&lt;br/&gt;If it is a domain decomposition technique, a multigrid methodology, or a new variational implicit integrator, the approaches investigated under this project ultimately draw on Applied Mathematics and leverage emerging trends in Computer Science to advance/accelerate discovery in Engineering.  In specific economic terms, this research effort will (1) translate into immediate productivity gains in Simulation-Based Engineering as a result of existing technology transfer arrangements with several federal government and industry partners, and (2) assist NASA researchers with simulation technology required to design the next generation of Lunar and Mars rovers.  In educational/outreach terms, this effort will (3) increase minority enrollment in the College of Engineering at the University of Wisconsin through an ongoing annual summer Science, Technology, Engineering, and Mathematics (STEM) program with clearly stated goals and success metrics, (4) promote a graduate/undergraduate Mechanical Engineering educational track at Wisconsin that emphasizes Applied Mathematics and Computer Science as fundamental building blocks in the technical formation of new Engineers, and (5) increase public awareness of the Computational Multi-Body Dynamics topic in particular and the potential of Applied Mathematics and Computer Science disciplines in general.&lt;br/&gt;</AbstractNarration>
+<MinAmdLetterDate>02/19/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>02/19/2009</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0840442</AwardID>
+<Investigator>
+<FirstName>Dan</FirstName>
+<LastName>Negrut</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dan Negrut</PI_FULL_NAME>
+<EmailAddress>negrut@wisc.edu</EmailAddress>
+<NSF_ID>000390470</NSF_ID>
+<StartDate>02/19/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<StreetAddress2><![CDATA[Suite 6301]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI02</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>161202122</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>041188822</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>537151218</ZipCode>
+<StreetAddress><![CDATA[21 North Park Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0308000</Code>
+<Name>Industrial Technology</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7478</Code>
+<Text>DYNAMICAL SYSTEMS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>034E</Code>
+<Text>Dynamical systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1187</Code>
+<Text>PECASE- eligible</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0109</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000910DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~408911</FUND_OBLG>
+</Award>
+</rootTag>

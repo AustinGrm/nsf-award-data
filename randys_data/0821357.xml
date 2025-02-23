@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a 500 MHz NMR Spectrometer at Jackson State University</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2011</AwardExpirationDate>
+<AwardTotalIntnAmount>563039.00</AwardTotalIntnAmount>
+<AwardAmount>563039</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos Murillo</SignBlockName>
+<PO_EMAI>cmurillo@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With this award from the Major Research Instrumentation program (MRI), Hongtao Yu and colleagues Kenneth Lee and Eric Noe from Jackson State University will acquire a 500 MHz Nuclear Magnetic Resonance (NMR) spectrometer. The requested instrument will be used to upgrade the NMR Core Facility at Jackson State University.  The new spectrometer will be especially suited for high sensitivity, higher resolution structural analysis of samples produced in small quantities such as metabolites or photoproducts, low temperature studies, and complex natural product derivatives.  Specific research projects that will utilize this spectrometer are: (1) structure characterization of microgram amounts of chemicals from light or chemical degradation, light-induced DNA adducts, and metabolites; (2) characterization of relatively complex natural products and their analogues; (4) characterization and kinetic study of organometallic compounds and macromolecules for anion recognition; (4) low temperature conformational studies of organic compounds; (5) structural assignment for synthetic organic compounds and intermediates.&lt;br/&gt;&lt;br/&gt;Nuclear Magnetic Resonance spectroscopy is one of the most powerful tools available to chemists for the elucidation of the structure of molecules. It is used to identify unknown substances, to characterize specific arrangements of atoms within molecules, and to study the dynamics of interactions between molecules in solution. Access to state-of-the-art NMR spectrometers is essential to chemists who are carrying out frontier research. The results from these NMR studies will have an impact in synthetic organic/inorganic chemistry and biochemistry.</AbstractNarration>
+<MinAmdLetterDate>07/11/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0821357</AwardID>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Noe</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eric A Noe</PI_FULL_NAME>
+<EmailAddress>ean12001@yahoo.com</EmailAddress>
+<NSF_ID>000320324</NSF_ID>
+<StartDate>07/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kenneth</FirstName>
+<LastName>Lee</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kenneth S Lee</PI_FULL_NAME>
+<EmailAddress>ken.s.lee@jsums.edu</EmailAddress>
+<NSF_ID>000197486</NSF_ID>
+<StartDate>07/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hongtao</FirstName>
+<LastName>Yu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hongtao Yu</PI_FULL_NAME>
+<EmailAddress>hongtao.yu@morgan.edu</EmailAddress>
+<NSF_ID>000360949</NSF_ID>
+<StartDate>07/11/2008</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Jackson State University</Name>
+<CityName>Jackson</CityName>
+<ZipCode>392170002</ZipCode>
+<PhoneNumber>6019792008</PhoneNumber>
+<StreetAddress>1400 J R LYNCH ST.</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<StateCode>MS</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MS02</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>044507085</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>JACKSON STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>044507085</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Jackson State University]]></Name>
+<CityName>Jackson</CityName>
+<StateCode>MS</StateCode>
+<ZipCode>392170002</ZipCode>
+<StreetAddress><![CDATA[1400 J R LYNCH ST.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MS02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9183</Code>
+<Text>GENERAL FOUNDATIONS OF BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~563039</FUND_OBLG>
+</Award>
+</rootTag>

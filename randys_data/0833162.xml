@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Language and System Support for Petascale Irregular Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2008</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2013</AwardExpirationDate>
+<AwardTotalIntnAmount>799995.00</AwardTotalIntnAmount>
+<AwardAmount>799995</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Almadena Chtchelkanova</SignBlockName>
+<PO_EMAI>achtchel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927498</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[&lt;br/&gt;Until recently, most high-performance computing applications involved matrix computations. However, new application areas such as computational biology and machine learning involve constructing, computing with, and modifying large sparse graphs. &lt;br/&gt;&lt;br/&gt;The Galois team at the University of Texas, Austin has been building a system that exploits optimistic parallelization and compiler analysis to raise the level of abstraction at which these applications can be coded without a substantial performance penalty. The programming model is sequential Java augmented with two constructs called optimistic set iterators. This project brings together Galois project team members, computational biologists and machine learning experts to extend and evaluate the Galois system on high-end shared-memory machines and large-scale distributed memory for applications that involve computations on large sparse graphs.  The main thrusts of the project are (i) design and implementation of modest language extensions for supporting nested data-parallelism, (ii) porting the existing system to distributed-memory machines, (iii) implementation of adaptive feedback-driven parallel execution,  and (iv) development of compiler analyses to optimize execution.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/16/2008</MinAmdLetterDate>
+<MaxAmdLetterDate>08/16/2008</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0833162</AwardID>
+<Investigator>
+<FirstName>Keshav</FirstName>
+<LastName>Pingali</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Keshav Pingali</PI_FULL_NAME>
+<EmailAddress>pingali@cs.utexas.edu</EmailAddress>
+<NSF_ID>1</NSF_ID>
+<RoleCode>Principal Investigator</RoleCode>
+<StartDate/>
+<EndDate>2008.08.16</EndDate>
+<StartDateEpoch/>
+<EndDateEpoch>1</EndDateEpoch>
+<RecentPIFlag>000155769</RecentPIFlag>
+<ID>/saswrk/awdsrch/TEMP/2008/0833162</ID>
+</Investigator>
+<Investigator>
+<FirstName>Ron</FirstName>
+<LastName>Elber</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ron Elber</PI_FULL_NAME>
+<EmailAddress>ron@ices.utexas.edu</EmailAddress>
+<NSF_ID>2</NSF_ID>
+<RoleCode>Co-Principal Investigator</RoleCode>
+<StartDate/>
+<EndDate>2008.08.16</EndDate>
+<StartDateEpoch/>
+<EndDateEpoch>0</EndDateEpoch>
+<RecentPIFlag>000167074</RecentPIFlag>
+<ID>/saswrk/awdsrch/TEMP/2008/0833162</ID>
+</Investigator>
+<Investigator>
+<FirstName>Martin</FirstName>
+<LastName>Burtscher</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Martin Burtscher</PI_FULL_NAME>
+<EmailAddress>burtscher@ices.utexas.edu</EmailAddress>
+<NSF_ID>2</NSF_ID>
+<RoleCode>Co-Principal Investigator</RoleCode>
+<StartDate/>
+<EndDate>2008.08.16</EndDate>
+<StartDateEpoch/>
+<EndDateEpoch>0</EndDateEpoch>
+<RecentPIFlag>269817266</RecentPIFlag>
+<ID>/saswrk/awdsrch/TEMP/2008/0833162</ID>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000912</Code>
+<Name>Computer Science</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>7583</Code>
+<Text>ITR-HECURA</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9218</Code>
+<Text>BASIC RESEARCH &amp; HUMAN RESORCS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>HPCC</Code>
+<Text>HIGH PERFORMANCE COMPUTING &amp; COMM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0108</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01000809DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2008~799995</FUND_OBLG>
+</Award>
+</rootTag>

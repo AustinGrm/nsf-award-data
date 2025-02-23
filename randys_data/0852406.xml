@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Analysis of Volatile Organic Compound Oxidation Chemistry and Secondary Organic Aerosol Formation with Novel Instrumentation for in Situ Carbonyl Detection</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2009</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2012</AwardExpirationDate>
+<AwardTotalIntnAmount>466696.00</AwardTotalIntnAmount>
+<AwardAmount>466696</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020104</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Edgerton</SignBlockName>
+<PO_EMAI>sedgerto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928522</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project involves measuring formaldehyde and alpha-dicarbonyl (mainly glyoxal) concentration gradients and fluxes within and above the canopy at Blodgett Forest in the Sierra Nevada of California using state of the art instrumentation as part of the multi-investigator Biosphere Effects on AeRosols and Photochemistry Experiment - 2009 (BEARPEX-09) campaign.  Resulting data will be combined with photochemical modeling to provide new insights into the mechanisms of secondary organic aerosol (SOA) formation and biogenic volatile organic compound (VOC) oxidation chemistry.  Improvements will be made to a laser-induced fluorescence instrument for measuring formaldehyde and to a laser-induced phosphorescence instrument for measuring alpha-dicarbonyls.  The field data will be combined with aerosol physical and chemical composition data to be obtained by other investigators and analyzed using a photochemical transport model based on the Master Chemical Mechanism.&lt;br/&gt;&lt;br/&gt;The broader impacts of this work will include (1) improved understanding of VOC oxidation and SOA formation, which are important processes affecting urban air quality as well as regional/global climate forcing, (2) participation and training of two graduate students, (3) participate of undergraduates through the Research Experiences for Undergraduates program at the University of Wisconsin - Madison, and (4) participation of the Principal Investigator in a program that facilitates interactions with local public school science teachers.  This award is funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111-5).</AbstractNarration>
+<MinAmdLetterDate>06/05/2009</MinAmdLetterDate>
+<MaxAmdLetterDate>06/05/2009</MaxAmdLetterDate>
+<ARRAAmount>466696</ARRAAmount>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.082</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>0852406</AwardID>
+<Investigator>
+<FirstName>Frank</FirstName>
+<LastName>Keutsch</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Frank N Keutsch</PI_FULL_NAME>
+<EmailAddress>keutsch@seas.harvard.edu</EmailAddress>
+<NSF_ID>000487494</NSF_ID>
+<StartDate>06/05/2009</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<StreetAddress2><![CDATA[Suite 6301]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI02</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>161202122</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>041188822</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>537151218</ZipCode>
+<StreetAddress><![CDATA[21 North Park Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<FoaInformation>
+<Code>0000099</Code>
+<Name>Other Applications NEC</Name>
+</FoaInformation>
+<ProgramElement>
+<Code>1524</Code>
+<Text>Atmospheric Chemistry</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6890</Code>
+<Text>RECOVERY ACT ACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>01R9</Code>
+<Name>RRA RECOVERY ACT</Name>
+<APP_SYMB_ID>040101</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01R00910DB</Code>
+<Name><![CDATA[RRA RECOVERY ACT]]></Name>
+<FUND_SYMB_ID>040101</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2009~466696</FUND_OBLG>
+</Award>
+</rootTag>
